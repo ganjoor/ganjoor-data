@@ -1,0 +1,58 @@
+{
+  "Id": 39580,
+  "CatId": 1332,
+  "Title": "جدایی",
+  "FullTitle": "رهی معیری » رباعیها » جدایی",
+  "FullUrl": "/rahi/robaeeha/sh13",
+  "RhymeLetters": "ونم",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: در این عبارات، گوینده از درد و رنجی که به خاطر جدایی احساس می‌کند سخن می‌گوید. او می‌داند که طرف مقابل از درد او بی‌خبر است و با ناامیدی از او می‌خواهد که بازگردد. او خود را نسبت به فرهاد و مجنون، دو شخصیت عاشقانه معروف، سرگشته‌تر و دیوانه‌تر می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونم",
+      "PlainText": "ای بی خبر از محنت روزافزونم\r\nدانم که ندانی از جدایی چونم\r\nباز آی که سرگشته تر از فرهادم\r\nدریاب که دیوانه تر از مجنونم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بی‌خبر از محنت روزافزونم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانم که ندانی از جدایی چونم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز آی که سرگشته‌تر از فرهادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاب که دیوانه‌تر از مجنونم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بی‌خبر از محنت روزافزونم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانم که ندانی از جدایی چونم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باز آی که سرگشته‌تر از فرهادم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاب که دیوانه‌تر از مجنونم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

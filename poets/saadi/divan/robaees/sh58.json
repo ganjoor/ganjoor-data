@@ -1,0 +1,58 @@
+{
+  "Id": 10119,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۵۸",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۵۸",
+  "FullUrl": "/saadi/divan/robaees/sh58",
+  "RhymeLetters": "ند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره تلاش برای رسیدن به هدفی است که ممکن است فرد را به شهرت یا توجه دیگران برساند. شاعر به دانشمند می‌گوید که نصیحت‌ها و پندهای او بی‌فایده است، زیرا او نمی‌تواند از مسیر خود منحرف شود و از هدفش دور شود. در واقع، شاعر می‌خواهد بگوید که نمی‌تواند از آرزوی خود دست بکشد، حتی اگر این آرزو او را در معرض خطر قرار دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "گویند مرو در پی آن سرو بلند\r\nانگشت نمای خلق بودن تا چند\r\nبی فایده پندم مده ای دانشمند\r\nمن چون نروم که می برندم به کمند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند مرو در پی آن سرو بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانگشت‌نمای خلق بودن تا چند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌فایده پندم مده ای دانشمند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن چون نروم؟ که می‌برندم به کمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند مرو در پی آن سرو بلند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "انگشت‌نمای خلق بودن تا چند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی‌فایده پندم مده ای دانشمند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من چون نروم؟ که می‌برندم به کمند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119086,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۶۵",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۶۵",
+  "FullUrl": "/azar/divan/robaee/sh165",
+  "RhymeLetters": "ایگله",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت‌ها بیان می‌کند که نه از هیچ‌کس گله دارد و نه نیازی به گله‌گذاری احساس می‌کند. او می‌گوید که درست نیست در جمع افراد دیگر شکایت کند. هرچند که سکوت کرده و از مشکلاتش حرف نمی‌زند، اما در دل جایی برای گله‌گذاری دارد. به طور کلی، احساس نارضایتی‌اش را بیان می‌کند بدون اینکه بخواهد در جمع دیگران از آن سخن بگوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایگله",
+      "PlainText": "نه روی گله دارم و نه رای گله\r\nخوش نیست که اید بمیان پای گله\r\nاز هر گله بسته ام لب اما چکنم\r\nدارم گله جایی و بود جای گله",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه روی گله دارم و نه رای گله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش نیست که اید بمیان پای گله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هر گله بسته ام لب، اما چکنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارم گله جایی و، بود جای گله!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه روی گله دارم و نه رای گله",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوش نیست که اید بمیان پای گله",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هر گله بسته ام لب، اما چکنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دارم گله جایی و، بود جای گله!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 77819,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/homam/robaeeho/sh1",
+  "RhymeLetters": "ابراسعادتبادا",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این اشعار به شادی و خوشی ناشی از انگور و شراب اشاره شده است. می و مستی و خواب نیز مورد تمجید قرار گرفته‌اند. همچنین به روغن بادام و گلاب نیز اشاره می‌شود و به نظر می‌رسد که همه این‌ها باید مورد تقدیر و شادباش قرار گیرند. به طور کلی، شعر به شادی و لذت از نعمت‌های طبیعی پرداخته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابراسعادتبادا",
+      "PlainText": "انگور و شراب را سعادت بادا\r\nمی مستی و خواب را سعادت بادا\r\nبادام شکست روغن صافی هست\r\nگل رفت گلاب را سعادت بادا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانگور و شراب را سعادت بادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی مستی و خواب را سعادت بادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادام شکست روغن صافی هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل رفت گلاب را سعادت بادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انگور و شراب را سعادت بادا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می مستی و خواب را سعادت بادا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بادام شکست روغن صافی هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل رفت گلاب را سعادت بادا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

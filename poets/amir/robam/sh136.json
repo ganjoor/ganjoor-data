@@ -1,0 +1,58 @@
+{
+  "Id": 70179,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۳۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۳۶",
+  "FullUrl": "/amir/robam/sh136",
+  "RhymeLetters": "امن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیان‌گر آن است که هر شاهی که دارای قدرت و خوشبختی جوانی بود، هر دو را رها کرد و خود را از میان مردم کنار کشید. خداوند تو را به عنوان شاه جهان قرار داد و هر دو نعمت را به تو عطا کرد و گفت که برای همیشه پایدار بمانی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "هر شاه که داشت دولت و بخت جوان\r\nهر دو یله کرد و خود برون شد زمیان\r\nایزد چو تو را کرد شهنشاه جهان\r\nهر دو به تو داد وگفت جاوید بمان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شاه که داشت دولت و بخت جوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دو یله کرد و خود برون شد زمیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایزد چو تو را کرد شهنشاه جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دو به تو داد وگفت جاوید بمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شاه که داشت دولت و بخت جوان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر دو یله کرد و خود برون شد زمیان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ایزد چو تو را کرد شهنشاه جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر دو به تو داد وگفت جاوید بمان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

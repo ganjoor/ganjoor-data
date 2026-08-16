@@ -1,0 +1,58 @@
+{
+  "Id": 45344,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۱",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۱",
+  "FullUrl": "/helali/robaeeh/sh1",
+  "RhymeLetters": "برینیستمرا",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساس جدایی و ناشناختگی خود سخن می‌گوید. او می‌خواهد به سوی معشوق پرواز کند، اما به دلیل کمبود نیرویی (بال و پر) نمی‌تواند. در واقع، او به شدت دلتنگ و در حالتی از بی‌حالی و نبودن خود را توصیف می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "برینیستمرا",
+      "PlainText": "باز آی که از جان اثری نیست مرا\r\nمدهوشم و از خود خبری نیست مرا\r\nخواهم که به جانب تو پرواز کنم\r\nاما چه کنم بال و پری نیست مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز آی، که از جان اثری نیست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدهوشم و از خود خبری نیست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهم که به جانب تو پرواز کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما چه کنم بال و پری نیست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز آی، که از جان اثری نیست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مدهوشم و از خود خبری نیست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم که به جانب تو پرواز کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اما چه کنم بال و پری نیست مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

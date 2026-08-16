@@ -1,0 +1,58 @@
+{
+  "Id": 108010,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۱۰",
+  "FullUrl": "/saeeda/divan/robaee/sh110",
+  "RhymeLetters": "مشمیبینم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف حیرت و سردرگمی شاعر اشاره دارند. او با چشم خود جهان را می‌بیند و در طول روز در حیرت است و در شب غمگین. چشمان او تحت تاثیر گردشی که در زندگی وجود دارد، دائم به لباس غم و ماتم می‌نگرد. به‌طور کلی، شاعر احساساتی از حیرت و اندوه را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مشمیبینم",
+      "PlainText": "چشمی که از او دو عالمش می بینم\r\nروزش حیران و شب نمش می بینم\r\nخاصیت چرخ را گرفته چشمم\r\nدایم به لباس ماتمش می بینم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمی که از او دو عالمش می بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزش حیران و شب نمش می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاصیت چرخ را گرفته چشمم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدایم به لباس ماتمش می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشمی که از او دو عالمش می بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزش حیران و شب نمش می بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاصیت چرخ را گرفته چشمم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دایم به لباس ماتمش می بینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

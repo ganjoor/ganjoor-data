@@ -1,0 +1,58 @@
+{
+  "Id": 50238,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۷۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۷۸",
+  "FullUrl": "/mahsati/robmah/sh178",
+  "RhymeLetters": "انداشتمی",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بار می‌گوید اگر هزار جان هم داشتم، همه را به پای تو می‌نوشتم. وقتی تو از من پرسیدی که آیا دل‌تنگی هجران داری، من پاسخ دادم که اگر دلی داشتم، تنها به خاطر تو بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انداشتمی",
+      "PlainText": "گر من به مثل هزار جان داشتمی\r\nدر پیش تو جمله بر میان داشتمی\r\nگفتی دل هجر هیچ داری گفتم\r\nگر داشتمی دل دل آن داشتمی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر من به مَثَل هزار جان داشتمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پیش تو جمله بر میان داشتمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی دل هجر هیچ داری گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر داشتمی دل، دل آن داشتمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر من به مَثَل هزار جان داشتمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پیش تو جمله بر میان داشتمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی دل هجر هیچ داری گفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر داشتمی دل، دل آن داشتمی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

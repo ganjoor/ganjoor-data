@@ -1,0 +1,58 @@
+{
+  "Id": 123654,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۸۸",
+  "FullUrl": "/naziri/divan/robaee/sh88",
+  "RhymeLetters": "وییخویش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به تنهایی و بدبختی خود اشاره می‌کند. او بارها تلاش کرده تا به عمق وجود خود پی ببرد، اما در این سفر هیچ خوبی را در وجودش نیافته است. احساس تلخی دارد که به خاطر بدخلقی‌هایش تنها مانده و در کنار خود فقط به عیب‌جویی از کردار خود می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وییخویش",
+      "PlainText": "صد ره شده ام به بیخ و بن جویی خویش\r\nیک زشت ندیده ام به نیکویی خویش\r\nبی یار بمانده ام ز بدخویی خویش\r\nبا خویش نشسته ام به بدگویی خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد ره شده ام به بیخ و بن جویی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک زشت ندیده ام به نیکویی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی یار بمانده ام ز بدخویی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خویش نشسته ام به بدگویی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد ره شده ام به بیخ و بن جویی خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک زشت ندیده ام به نیکویی خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی یار بمانده ام ز بدخویی خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با خویش نشسته ام به بدگویی خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

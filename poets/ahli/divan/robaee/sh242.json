@@ -1,0 +1,58 @@
+{
+  "Id": 105048,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۲۴۲",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۲۴۲",
+  "FullUrl": "/ahli/divan/robaee/sh242",
+  "RhymeLetters": "مببرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از غم و اندوهی سخن می‌گوید که زندگی آدم را تحت تأثیر قرار داده است. او از خداوند درخواست می‌کند که باران رحمتش را نازل کند تا این غبار غم از جهان برداشته شود و آرامش به دل‌ها بازگردد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مببرد",
+      "PlainText": "آمد غم دل که آب آدم ببرد\r\nآدم چکند که جان ازین غم ببرد\r\nیارب تو ز ابر رحمت خویش فرست\r\nسیلی که غبار غم ز عالم ببرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد غم دل که آب آدم ببرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآدم چکند که جان ازین غم ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب تو ز ابر رحمت خویش فرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیلی که غبار غم ز عالم ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد غم دل که آب آدم ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آدم چکند که جان ازین غم ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یارب تو ز ابر رحمت خویش فرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیلی که غبار غم ز عالم ببرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

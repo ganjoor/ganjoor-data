@@ -1,0 +1,58 @@
+{
+  "Id": 64886,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۸۹",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۸۹",
+  "FullUrl": "/ebnehesam/robaeebn/sh89",
+  "RhymeLetters": "داختهای",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده به مرگ شکایت می‌کند و می‌گوید که مرگ چه خرابکاری‌ها و آسیب‌هایی به دنیا زده است. او به تخت سلطانی که زیر و رو شده و تاج‌های پادشاهان که از سرشان افتاده اشاره می‌کند و نشان می‌دهد که مرگ بر همه چیز غالب است و هیچ‌کس از آن در امان نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "داختهای",
+      "PlainText": "ای مرگ چه گویم که چه ها ساخته ای\r\nپرداخته ای هرآنچه پرداخته ای\r\nبس تخت سلاطین که به هم برزده ای\r\nبس تاج ملوک کز سر انداخته ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرگ چه گویم که چه‌ها ساخته‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرداخته‌ای هرآنچه پرداخته‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس تخت سلاطین که به هم برزده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس تاج ملوک کز سر انداخته‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مرگ چه گویم که چه‌ها ساخته‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرداخته‌ای هرآنچه پرداخته‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس تخت سلاطین که به هم برزده‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس تاج ملوک کز سر انداخته‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

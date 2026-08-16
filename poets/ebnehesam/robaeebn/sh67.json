@@ -1,0 +1,58 @@
+{
+  "Id": 64864,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۶۷",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۶۷",
+  "FullUrl": "/ebnehesam/robaeebn/sh67",
+  "RhymeLetters": "رگل",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: بلبل دوباره بر منبر گل نشسته و دفتر گل را ورق می‌زند. از زیبایی‌های گل می‌خواند و جانش از زیبایی‌های آن سیراب می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رگل",
+      "PlainText": "بلبل بنشست باز بر منبر گل\r\nبگشاد ز هم ورق ورق دفتر گل\r\nبر گل ز رخت آیت خوبی می خواند\r\nجان می پرورد از رخ جان پرور گل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل بنشست باز بر منبر گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگشاد ز هم ورق ورق دفتر گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر گل ز رخت آیت خوبی می خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان می پرورد از رخ جان پرور گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلبل بنشست باز بر منبر گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگشاد ز هم ورق ورق دفتر گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر گل ز رخت آیت خوبی می خواند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان می پرورد از رخ جان پرور گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

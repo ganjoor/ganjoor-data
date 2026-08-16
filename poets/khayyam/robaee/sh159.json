@@ -1,0 +1,58 @@
+{
+  "Id": 1277,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۵۹",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۵۹",
+  "FullUrl": "/khayyam/robaee/sh159",
+  "RhymeLetters": "اری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر از کوزه‌گری کوزه‌ای خریده که در آن رازها و اسرار زیادی نهفته است. او زمانی شاه بوده و جامی زرین داشته، اما اکنون به حالت خماری و ضعف افتاده و به نوعی به کوزه‌ای که خالی است، تشبیه می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اری",
+      "PlainText": "از کوزه گری کوزه خریدم باری\r\nآن کوزه سخن گفت ز هر اسراری\r\nشاهی بودم که جام زرینم بود\r\nاکنون شده ام کوزه هر خماری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز کوزه‌گری کوزه خریدم باری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کوزه سخن گفت ز هر اسراری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهی بودم که جام زرینم بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون شده‌ام کوزه هر خماری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کوزه‌گری کوزه خریدم باری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن کوزه سخن گفت ز هر اسراری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاهی بودم که جام زرینم بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اکنون شده‌ام کوزه هر خماری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

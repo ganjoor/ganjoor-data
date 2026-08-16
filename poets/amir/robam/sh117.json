@@ -1,0 +1,58 @@
+{
+  "Id": 70160,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۱۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۱۷",
+  "FullUrl": "/amir/robam/sh117",
+  "RhymeLetters": "رخویش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به توصیف احساسات نسبت به مرگ یک شاه و دلاوری‌های او می‌پردازد. شاعر اشاره می‌کند که اگرچه این مصیبت بزرگ است و دل‌های زیادی را به درد می‌آورد، اما اگر دستور و شهنشه (شاه) از دنیا رفته‌اند، بی‌تردید، در پی این مرگ، کسی از پیش نمی‌تواند به این درد کمک کند. به نوعی، شاعر نشان می‌دهد که فقدان چنین شخصیتی، خوشایند نیست و غم و اندوهی را به همراه دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بیش",
+      "PlainText": "دستور و شهنشه از جهان رایت خوش\r\nبردند و مصیبتی نیامد زین بیش\r\nبس دل  که شدی ز مرگ شاهنشه ریش\r\nگر کشتن دستور نبودی از پیش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدستور و شهنشه از جهان رایت خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبردند و مصیبتی نیامد زین بیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس دل‌ که شدی ز مرگ شاهنشه ریش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر کشتن دستور نبودی از پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دستور و شهنشه از جهان رایت خوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بردند و مصیبتی نیامد زین بیش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس دل‌ که شدی ز مرگ شاهنشه ریش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر کشتن دستور نبودی از پیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Id": 51445,
+  "CatId": 1833,
+  "Title": "شمارهٔ ۵۶ - در مرثیهٔ عشقی",
+  "FullTitle": "ملک‌الشعرا بهار » قطعات » شمارهٔ ۵۶ - در مرثیهٔ عشقی",
+  "FullUrl": "/bahar/ghetebk/sh56",
+  "RhymeLetters": "وبمرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به زیبایی و شگفتی عشق در آغاز زندگی اشاره می‌کند که به‌دست دشمنی از بین می‌رود. این عشق و نور آرزو که یک‌زمان درخشان بود، حالا به خاموشی گراییده و از میان رفته است. همچنین اشاره می‌شود که شاعر و شعرش نیز تازه و نو بوده‌اند، اما با رفتن شاعر، این شعر و تازگی‌اش نیز نابود شده‌اند.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وبمرد",
+      "PlainText": "وه که عشقی در صباح زندگی\r\nاز خدنگ دشمن شبرو بمرد\r\nپرتوی بود از فروغ آرزو\r\nآن فروغ افسرد و آن پرتو بمرد\r\nشاعری نو بود و شعرش نیز نو\r\nشاعر نو رفت و شعر نو بمرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوه که عشقی در صباح زندگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خدنگ دشمن شبرو بمرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرتوی بود از فروغ آرزو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن فروغ افسرد و آن پرتو بمرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاعری نو بود و شعرش نیز نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاعر نو رفت و شعر نو بمرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وه که عشقی در صباح زندگی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خدنگ دشمن شبرو بمرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرتوی بود از فروغ آرزو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن فروغ افسرد و آن پرتو بمرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شاعری نو بود و شعرش نیز نو",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شاعر نو رفت و شعر نو بمرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

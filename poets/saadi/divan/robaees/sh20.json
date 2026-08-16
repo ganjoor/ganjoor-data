@@ -1,0 +1,58 @@
+{
+  "Id": 10081,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۲۰",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۲۰",
+  "FullUrl": "/saadi/divan/robaees/sh20",
+  "RhymeLetters": "وست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به نقل از احساسات عمیق و درد آلود شخصی اشاره دارند که به خاطر رنج‌هایی که به دیگران می‌زده، به نوعی دچار تحول و تغییر در ذات خود شده است. در ابتدا، او دل دیگران را می‌آزرد، اما اکنون خود به منبع غم و اندوه تبدیل شده و همه دردهای جهان بر دوش او سنگینی می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "از بس که بیازرد دل دشمن و دوست\r\nگویی به گناه مسخ کردندش پوست\r\nوقتی غم او بر همه دلها بودی\r\nاکنون همه غمهای جهان بر دل اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که بیازرد دل دشمن و دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی به گناه مسخ کردندش پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتی غم او بر همه دلها بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون همه غمهای جهان بر دل اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بس که بیازرد دل دشمن و دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی به گناه مسخ کردندش پوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وقتی غم او بر همه دلها بودی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اکنون همه غمهای جهان بر دل اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

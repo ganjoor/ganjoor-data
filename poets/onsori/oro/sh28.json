@@ -1,0 +1,58 @@
+{
+  "Id": 68878,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/onsori/oro/sh28",
+  "RhymeLetters": "مر",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به زیبایی و جذابیت یک دختر تشبیه می‌کند. او او را به سروی بلند و خوش‌قامت و چهره‌ای همچون ماه توصیف می‌کند. اگر این دختر بخندد، حتی ماه هم از غبطه و شادی از ابرها بیرون می‌آید و اگر او بخواهد، می‌تواند زیبایی‌اش را پنهان کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مر",
+      "PlainText": "ای سرو روان و بار آن سرو قمر\r\nسروت قد و سیمین بر و چهره چو قمر\r\nماهی تو اگر بخنددی ماه از ابر\r\nسروی تو اگر ببنددی سرو کمر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سرو روان و بارِ آن سرو، قمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسروت قد و سیمین بر و چهره چو قمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماهی تو؛ اگر بخنددی ماه از ابر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسروی تو؛ اگر ببنددی سرو، کمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سرو روان و بارِ آن سرو، قمر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سروت قد و سیمین بر و چهره چو قمر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماهی تو؛ اگر بخنددی ماه از ابر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سروی تو؛ اگر ببنددی سرو، کمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

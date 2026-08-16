@@ -1,0 +1,58 @@
+{
+  "Id": 1141,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۲۳",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۲۳",
+  "FullUrl": "/khayyam/robaee/sh23",
+  "RhymeLetters": "میاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به ما می‌گوید که ترکیب صفات انسانی (طبایع) لحظه‌ای است که می‌توانیم از آن لذت ببریم. زندگی را شاد بگذرانیم، حتی اگر مشکلاتی وجود داشته باشد. همچنین، پیشنهاد می‌کند که با افراد دانشمند و خردمند ارتباط داشته باشیم؛ زیرا وجود ما در واقع چیزی جز لحظاتی از زندگی، مانند گرد و نسیم و دم نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "میاست",
+      "PlainText": "ترکیب طبایع چو به کام تو دمی ست\r\nرو شاد بزی اگر چه بر تو ستمی ست\r\nبا اهل خرد باش که اصل تن تو\r\nگردی و نسیمی و غباری و دمی ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترکیب طبایع چو به کام تو دمی‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو شاد بِزی اگر چه بر تو ستمی‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا اهل خرد باش که اصل تن تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگَردی و نسیمی و غباری و دمی‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترکیب طبایع چو به کام تو دمی‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رو شاد بِزی اگر چه بر تو ستمی‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با اهل خرد باش که اصل تن تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گَردی و نسیمی و غباری و دمی‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

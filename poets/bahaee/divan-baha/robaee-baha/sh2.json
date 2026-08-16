@@ -1,0 +1,58 @@
+{
+  "Id": 22666,
+  "CatId": 330,
+  "Title": "رباعی شمارهٔ ۲",
+  "FullTitle": "شیخ بهایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۲",
+  "FullUrl": "/bahaee/divan-baha/robaee-baha/sh2",
+  "RhymeLetters": "ا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از دلبستگی و غم عشق می‌گوید. او به محبوبش اشاره می‌کند و بیان می‌کند که در اثر غم عشق، نه می‌داند چگونه خود را نگه دارد و نه می‌تواند از این حال رهایی یابد. او از تصمیم خود برای باختن دل و دینش به خاطر این غم می‌گوید، اما در نهایت فقط غم باقی مانده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "از دست غم تو ای بت حور لقا\r\nنه پای ز سر دانم و نه سر از پا\r\nگفتم دل و دین ببازم از غم برهم\r\nاین هر دو بباختیم و غم ماند به جا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دست غم تو، ای بت حور لقا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه پای ز سر دانم و نه، سر از پا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم دل و دین ببازم، از غم برهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین هر دو بباختیم و غم ماند به جا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دست غم تو، ای بت حور لقا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه پای ز سر دانم و نه، سر از پا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم دل و دین ببازم، از غم برهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این هر دو بباختیم و غم ماند به جا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

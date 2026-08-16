@@ -1,0 +1,58 @@
+{
+  "Id": 83082,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۸۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۸۵",
+  "FullUrl": "/hazin/robaee-hz/sh185",
+  "RhymeLetters": "امنودل",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از احساسات عمیق خود در عشق سخن می‌گوید. او و دلش در کار عشق خود غرق شده‌اند و از خواسته‌هایشان شرمنده‌اند. همچنین، در نبود یار و مکان مناسب، تنها و بی‌پناه مانده‌اند و دلشان خراب و رسواست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امنودل",
+      "PlainText": "پختیم به کار خویش سودا من و دل\r\nشرمنده شدیم از تمنا من و دل\r\nدر عشق تو مانده ایم بی یار و دیار\r\nتنها من و دل خراب و رسوا من و دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپختیم به کار خویش سودا، من و دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرمنده شدیم از تمنا من و دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق تو مانده ایم بی یار و دیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنها من و دل، خراب و رسوا من و دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پختیم به کار خویش سودا، من و دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شرمنده شدیم از تمنا من و دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عشق تو مانده ایم بی یار و دیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تنها من و دل، خراب و رسوا من و دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

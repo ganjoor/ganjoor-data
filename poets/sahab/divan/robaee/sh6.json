@@ -1,0 +1,58 @@
+{
+  "Id": 112330,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/sahab/divan/robaee/sh6",
+  "RhymeLetters": "وشاستامشب",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساسات درونی‌اش صحبت می‌کند. او هر روز خود را می‌آراید ولی دلش در آرامش و سکوت است. امشب، هم حال و هوای او همچنان تحت تأثیر ناله‌ها و احساساتش است. او در انتظار روز آینده است تا ببیند چه بر سرش آمده، در حالی که شب دوباره یادآور حال و روز گذشته‌اش می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشاستامشب",
+      "PlainText": "گریم هر روز و دل خموش است امشب\r\nاز ناله و فارغ از خروش است امشب\r\nروز آید و بینم که چودی رفت امروز\r\nشب آید و بینم که چو دوش است امشب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگریم هر روز و دل خموش است امشب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ناله و فارغ از خروش است امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز آید و بینم که چودی رفت امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب آید و بینم که چو دوش است امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گریم هر روز و دل خموش است امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از ناله و فارغ از خروش است امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روز آید و بینم که چودی رفت امروز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب آید و بینم که چو دوش است امشب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

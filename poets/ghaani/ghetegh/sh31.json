@@ -1,0 +1,58 @@
+{
+  "Id": 45671,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۳۱",
+  "FullUrl": "/ghaani/ghetegh/sh31",
+  "RhymeLetters": "انت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به کعبه اشاره می‌کند و می‌گوید که این مکان مقدس به ما نزدیک‌تر است، اما برای شترداران در بیابان دور به نظر می‌رسد. او از زخم‌های خود صحبت می‌کند و می‌گوید که ما می‌توانیم مرهمی برای زخم‌های خود بسازیم، اما بسیاری هستند که می‌توانند برای زخم‌های کعبه مرهمی بگذارند. این کلمات نشان‌دهنده‌ی ارتباط نزدیک و عاطفی شاعر با کعبه و در عین حال احساس تنهایی اوست.",
+  "Metre": {
+    "Id": 11,
+    "Rhythm": "مفعول مفاعیلن مفعول مفاعیلن (هزج مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انت",
+      "PlainText": "ای کعبه به ما از ما نزدیکتری اما\r\nدر چشم شترداران دورست بیابانت\r\nما زخم مغیلانت مرهم شمریم اما\r\nبس کس که نهد مرهم بر زخم مغیلانت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کعبه به ما از ما نزدیکتری امّا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چشم شترداران دورست بیابانت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما زخم مغیلانت مرهم شمریم امّا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس کس که نهد مرهم بر زخم مغیلانت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کعبه به ما از ما نزدیکتری امّا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در چشم شترداران دورست بیابانت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما زخم مغیلانت مرهم شمریم امّا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس کس که نهد مرهم بر زخم مغیلانت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

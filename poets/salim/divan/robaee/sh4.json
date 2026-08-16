@@ -1,0 +1,58 @@
+{
+  "Id": 101795,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/salim/divan/robaee/sh4",
+  "RhymeLetters": "ویحلوا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به این موضوع اشاره می‌کند که هیچ‌کس به حلوا (نمادی از شیء شیرین و دلپذیر) توجه نمی‌کند و انگار هیچ‌کسی آن را ندیده است. همچنین اشاره می‌کند که اگر اسبی در خانه‌ی زین پا بگذارد، فقط با بوی شیرین حلوا جذب خواهد شد، که نشان‌دهنده‌ی جذابیت این خوراکی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویحلوا",
+      "PlainText": "خواجه نکند نظر به سوی حلوا\r\nگویی هرگز ندیده روی حلوا\r\nدر خانه ی زین هنوز اگر پای نهد\r\nاسبش مگسی شود به بوی حلوا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواجه نکند نظر به سوی حلوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی هرگز ندیده روی حلوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خانه ی زین هنوز اگر پای نهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسبش مگسی شود به بوی حلوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواجه نکند نظر به سوی حلوا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی هرگز ندیده روی حلوا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خانه ی زین هنوز اگر پای نهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اسبش مگسی شود به بوی حلوا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

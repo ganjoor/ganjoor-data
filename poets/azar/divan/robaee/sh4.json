@@ -1,0 +1,58 @@
+{
+  "Id": 118925,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/azar/divan/robaee/sh4",
+  "RhymeLetters": "تما",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به فردی اشاره می‌کند که اگر از صحبت‌های ایشان شرمنده شود و از دوستی آنها احساس ننگ کند، در روزی که بر سر مزارشان حاضر می‌شود، باید از حسرت و یاد آنها قدردانی کند. به نوعی، به اهمیت یادآوری زحمات و عشق‌های گذشته تاکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تما",
+      "PlainText": "امروز چو عارت آید از صحبت ما\r\nوز ننگ نباشدت سر الفت ما\r\nفردا چو نشینی بسر تربت ما\r\nشکرانه ی آن یاد کن از حسرت ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز چو عارت آید از صحبت ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ننگ نباشدت سر الفت ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا چو نشینی بسر تربت ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکرانه ی آن یاد کن از حسرت ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز چو عارت آید از صحبت ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز ننگ نباشدت سر الفت ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فردا چو نشینی بسر تربت ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکرانه ی آن یاد کن از حسرت ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

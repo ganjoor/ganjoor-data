@@ -1,0 +1,58 @@
+{
+  "Id": 83128,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۳۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۳۱",
+  "FullUrl": "/hazin/robaee-hz/sh231",
+  "RhymeLetters": "ادتوکو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر ناله و اندوه عاشق را بیان می‌کند که به دنبال معشوق خود است. او از ناامیدی و دردهای ناشی از عشق صحبت می‌کند و احساس می‌کند که عشقش همچون صیدی گرفتار شده و در جستجوی معشوقی است که آرزو دارد پیدا کند. شاعر به معشوق خود می‌گوید که او را بیشتر از هر زمان دیگری نیاز دارد و در این وضعیت غم‌انگیز، حسرت او را می‌خورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادتوکو",
+      "PlainText": "ای عاشق محزون دل ناشاد تو کو\r\nوی کوه گران درد فرهاد تو کو\r\nوحشی تری از خود به کمین داشته ای\r\nای صید به خون تپیده صیاد تو کو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عاشق محزون، دل ناشاد تو کو؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی کوه گرانِ درد، فرهاد تو کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوحشی تری از خود به کمین داشته ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای صید به خون تپیده، صیاد تو کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عاشق محزون، دل ناشاد تو کو؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی کوه گرانِ درد، فرهاد تو کو؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وحشی تری از خود به کمین داشته ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای صید به خون تپیده، صیاد تو کو؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

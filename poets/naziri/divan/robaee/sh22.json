@@ -1,0 +1,58 @@
+{
+  "Id": 123588,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/naziri/divan/robaee/sh22",
+  "RhymeLetters": "اهست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به مسیری که فرد باید برای رسیدن به معشوق و حقیقت خود طی کند اشاره می‌کند. این راه ممکن است دشوار باشد، اما در عین حال زیبا و کوتاه نیز به نظر می‌رسد. فاصله‌ای که از دور به نظر می‌رسد، در واقع نزدیکی به هدف است و در این میان، برخی افراد از قرب خود غافل‌اند، در حالی که عده‌ای دیگر نسبت به آن آگاه‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهست",
+      "PlainText": "از خود تا خود به سوی جانانان راهست\r\nاین راه بسی مشکل و خوش کوتاهست\r\nاز دور مسافتی که تا نزدیکست\r\nاین غافل قرب خویش و آن آگاهست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خود تا خود به سوی جانانان راهست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین راه بسی مشکل و خوش کوتاهست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دور مسافتی که تا نزدیکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین غافل قرب خویش و آن آگاهست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خود تا خود به سوی جانانان راهست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این راه بسی مشکل و خوش کوتاهست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دور مسافتی که تا نزدیکست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این غافل قرب خویش و آن آگاهست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

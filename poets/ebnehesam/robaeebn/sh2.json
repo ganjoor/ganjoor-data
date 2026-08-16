@@ -1,0 +1,58 @@
+{
+  "Id": 64799,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۲",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۲",
+  "FullUrl": "/ebnehesam/robaeebn/sh2",
+  "RhymeLetters": "است",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این ابیات به زیبایی و شکوه شخصیتی اشاره دارند که با پوشش و زیبایی‌اش در میان دیگران درخشان است. شاعر با توصیف تاج زیبای او و مقایسه‌اش با خورشید و سرو، به این نکته می‌پردازد که هیچ چیز نمی‌تواند به پای زیبایی و وقارش برسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "ای خلعت فاستقم ببالای تو راست\r\nبر تارک تو تاج لعمرک زیباست\r\nچون روی تو بر بام فلک مهر نیافت\r\nچون قد تو بر طرف چمن سرو نخاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خلعت فاستقم ببالای تو راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر تارک تو تاج لعمرک زیباست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون روی تو بر بام فلک مهر نیافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون قد تو بر طرف چمن سرو نخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خلعت فاستقم ببالای تو راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر تارک تو تاج لعمرک زیباست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون روی تو بر بام فلک مهر نیافت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون قد تو بر طرف چمن سرو نخاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 105037,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۲۳۱",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۲۳۱",
+  "FullUrl": "/ahli/divan/robaee/sh231",
+  "RhymeLetters": "ود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیان می‌کند که اگر زیبایی چون حسن شیرین وجود نداشته باشد، در گنجینه کسی هم گنجی چون پرویز نخواهد بود. همچنین، اگر در قدرت کسی افزوده نشود، به نتیجه‌ای نخواهد رسید. در نهایت، شاعر اشاره می‌کند که حسن، زر و زور در حقیقت وفا و ارزشی ندارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ود",
+      "PlainText": "گر حسن چون حسن شیرین ننمود\r\nدر گنج کسی چو گنج پرویز نبود\r\nدر زور کسی بکوهکن هم نفزود\r\nحسن و زر و زور را وفا نیست چه سود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر حسن چون حسن شیرین ننمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گنج کسی چو گنج پرویز نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر زور کسی بکوهکن هم نفزود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحسن و زر و زور را وفا نیست چه سود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر حسن چون حسن شیرین ننمود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در گنج کسی چو گنج پرویز نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در زور کسی بکوهکن هم نفزود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حسن و زر و زور را وفا نیست چه سود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 105010,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۲۰۴",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۲۰۴",
+  "FullUrl": "/ahli/divan/robaee/sh204",
+  "RhymeLetters": "تدارد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نوعی حسرت و غم عشق اشاره می‌کند. او رنگ اشک‌های خود را که نشانی از عشق و درد دل است، با رنگ لعل (گوهر) مقایسه می‌کند و می‌پرسد که این اشک‌ها چه ارزشی دارند در برابر لعل سرد و بی‌روح. به عبارت دیگر، او می‌گوید که احساسات عمیق و واقعی عشق و درد، ارزش بیشتری از زیبایی ظاهری دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تدارد",
+      "PlainText": "رنگی که سرشگ من ز حسرت دارد\r\nبا نسبت او لعل چه قیمت دارد\r\nچون گرمی اشک عاشق سوخته دل\r\nبا لعل فسرده دل چه نسبت دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنگی که سرشگ من ز حسرت دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا نسبت او لعل چه قیمت دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون گرمی اشک عاشق سوخته دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا لعل فسرده دل چه نسبت دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رنگی که سرشگ من ز حسرت دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با نسبت او لعل چه قیمت دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون گرمی اشک عاشق سوخته دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با لعل فسرده دل چه نسبت دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

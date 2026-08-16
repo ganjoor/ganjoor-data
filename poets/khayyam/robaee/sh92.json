@@ -1,0 +1,58 @@
+{
+  "Id": 1210,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹۲",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹۲",
+  "FullUrl": "/khayyam/robaee/sh92",
+  "RhymeLetters": "مگیرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی‌های طبیعت اشاره می‌کند. صبح که می‌رسد، شبنم بر روی گل‌های لاله نشسته و بنفشه‌ها در چمن خم می‌شوند. شاعر از انصاف غنچه‌ای که گلبرک‌هایش را جمع کرده، لذت می‌برد و این تصویر را به زیبایی توصیف می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مگیرد",
+      "PlainText": "هر صبح که روی لاله شبنم گیرد\r\nبالای بنفشه در چمن خم گیرد\r\nانصاف مرا ز غنچه خوش می آید\r\nکاو دامن خویشتن فراهم گیرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر صبح که روی لاله شبنم گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالای بنفشه در چمن خم گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانصاف مرا ز غنچه خوش می‌آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاو دامن خویشتن فراهم گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر صبح که روی لاله شبنم گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بالای بنفشه در چمن خم گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انصاف مرا ز غنچه خوش می‌آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاو دامن خویشتن فراهم گیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

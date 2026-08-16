@@ -1,0 +1,72 @@
+{
+  "Id": 92212,
+  "CatId": 2415,
+  "Title": "قطعه شماره ۳",
+  "FullTitle": "خالد نقشبندی » قطعات » قطعه شماره ۳",
+  "FullUrl": "/khaled/ghete/sh3",
+  "RhymeLetters": "یناست",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر به ذکر نام امامان معصوم (علیهم‌السلام) پرداخته شده است که دین را زیبا و کامل کرده‌اند. به ترتیب نام آنها شامل: علی، حسن، حسین، زین‌العابدین، محمد باقر، علی نقی و حسن عسگری است. در نهایت به مهدی (عج) اشاره شده که امید و یقین طمع دین است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یناست",
+      "PlainText": "امامانی کز ایشان زیب دین است\r\nبه ترتیب اسمشان میدان چنین است\r\nعلی سبطین و جعفر با محمد\r\nدو موسی باز زین العابدین است\r\nپس از باقر علی و عسگری دان\r\nمحمد مهدیم زان پس یقین است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامامانی کز ایشان زیب دین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ترتیب اسمشان میدان چنین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلی، سبطین و جعفر با محمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو موسی باز زین العابدین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس از باقر علی و عسگری دان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحمد مهدیم زان پس یقین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امامانی کز ایشان زیب دین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به ترتیب اسمشان میدان چنین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "علی، سبطین و جعفر با محمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دو موسی باز زین العابدین است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پس از باقر علی و عسگری دان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "محمد مهدیم زان پس یقین است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

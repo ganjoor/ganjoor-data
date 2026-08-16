@@ -1,0 +1,59 @@
+{
+  "Id": 52096,
+  "CatId": 1849,
+  "Title": "فقرۀ ۱۱۰",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۱۱۰",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh102",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به این موضوع اشاره دارد که انسان نیکوکار در زندگی آسوده‌تر است، در حالی که انسان بدکردار دچار رنج و ناراحتی می‌شود. نیکی و خوبی مانند سپری برای نیکوکاران است و توصیه می‌شود که انسان تا جایی که می‌تواند از بدی‌ها دوری کند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "نکو مرد آساید اندر جهان\r\nبرد بدکنش مرد رنج گران\r\nنکویی بود جوشن نیکمرد\r\nبه گرد بدی تا توانی مگرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنکو مرد آساید اندر جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرد بدکنش مرد رنج گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنکویی بود جوشن نیکمرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه گرد بدی تا توانی مگرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "نیک مرد آساید و بد مرد بیش و اندوه گران بود.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "نکو مرد آساید اندر جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "برد بدکنش مرد رنج گران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "نکویی بود جوشن نیکمرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "به گرد بدی تا توانی مگرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

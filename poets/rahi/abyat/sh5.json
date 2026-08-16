@@ -1,0 +1,58 @@
+{
+  "Id": 39600,
+  "CatId": 1334,
+  "Title": "رنج زندگی",
+  "FullTitle": "رهی معیری » ابیات پراکنده » رنج زندگی",
+  "FullUrl": "/rahi/abyat/sh5",
+  "RhymeLetters": "یدهمن",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: این شعر از شکرگزاری و آرامش پس از رنج‌های زندگی سخن می‌گوید. شاعر از اینکه از سختی‌های زندگی رهایی یافته، خوشحال است و وجود خسته و جان آزرده‌اش را توصیف می‌کند. او همچنین اشاره به یادبود خود دارد و ظهور لاله‌هایی بر روی قبرش را نشانه‌ای از یادآوری درد و غم از دست‌رفته‌اش می‌داند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدهمن",
+      "PlainText": "هزار شکر که از رنج زندگی آسود\r\nوجود خسته و جان ستم کشیده من\r\nبه روی تربت من برگ لاله افشانید\r\nبه یاد سینه خونین داغ دیده من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار شکر که از رنج زندگی آسود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوجود خسته و جان ستم کشیده من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه روی تربت من برگ لاله افشانید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه یاد سینه خونین داغ‌دیده من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هزار شکر که از رنج زندگی آسود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وجود خسته و جان ستم کشیده من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به روی تربت من برگ لاله افشانید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به یاد سینه خونین داغ‌دیده من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

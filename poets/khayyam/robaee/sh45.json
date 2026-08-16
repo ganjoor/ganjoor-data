@@ -1,0 +1,58 @@
+{
+  "Id": 1163,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۴۵",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۴۵",
+  "FullUrl": "/khayyam/robaee/sh45",
+  "RhymeLetters": "ینمناست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان شادی و لذت از زندگی می‌پردازد. شاعر اشاره می‌کند که خوشی و فراغت از درگیری‌های مذهبی و عقیدتی بخشی از باورهای اوست. او از عروس دنیا می‌پرسد که مهریه‌اش چیست و او در پاسخ می‌گوید که دل شاداب شاعر، مهریه اوست. این شعر تأکید بر ارزش شادی و احساسات مثبت در زندگی دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینمناست",
+      "PlainText": "می خوردن و شادبودن آیین من است\r\nفارغ بودن ز کفر و دین دین من است\r\nگفتم به عروس دهر کابین تو چیست\r\nگفتا دل خرم تو کابین من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌خوردن و شادبودن، آیینِ من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارغ‌بودن ز کفر و دین، دینِ من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم به عروسِ دهر: «کابینِ تو چیست؟»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا: «دلِ خُرَّمِ تو، کابینِ من است»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می‌خوردن و شادبودن، آیینِ من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فارغ‌بودن ز کفر و دین، دینِ من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم به عروسِ دهر: «کابینِ تو چیست؟»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتا: «دلِ خُرَّمِ تو، کابینِ من است»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

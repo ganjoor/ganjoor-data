@@ -1,0 +1,58 @@
+{
+  "Id": 104892,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۸۶",
+  "FullUrl": "/ahli/divan/robaee/sh86",
+  "RhymeLetters": "ینمنست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات از شاعری هستند که بیانگر احساس بیماری و درد قلبی او هستند. او می‌گوید که هر کسی که به او نزدیک است، اگر برای طول عمرش دعا کند، این دعا به نوعی به کینه او مربوط است. شاعر از دور بودن از محبوبش شکایت می‌کند و می‌گوید که دوری از او باعث می‌شود که دعا برای عمرش تبدیل به نفرین شود. به عبارت دیگر، زندگی بدون محبوبش برای او تحمل‌ناپذیر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینمنست",
+      "PlainText": "بیمارم و هر کس که ببالین منست\r\nگر گفت دعای عمر در کین منست\r\nمن عمر چه میکنم که دورم زبرت\r\nدور از تو دعای عمر نفرین منست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیمارم و هر کس که ببالین منست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر گفت دعای عمر در کین منست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن عمر چه میکنم که دورم زبرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور از تو دعای عمر نفرین منست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیمارم و هر کس که ببالین منست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر گفت دعای عمر در کین منست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من عمر چه میکنم که دورم زبرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دور از تو دعای عمر نفرین منست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

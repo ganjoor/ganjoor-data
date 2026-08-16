@@ -1,0 +1,58 @@
+{
+  "Id": 82948,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/hazin/robaee-hz/sh60",
+  "RhymeLetters": "وست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به احساس تنهایی و دلسردی شاعر اشاره دارند. او می‌گوید که کسانی که در زندگی‌اش به نظر دوست می‌آیند، در واقع دشمن هستند و برعکس، کسانی که دشمن به نظر می‌رسند، او را دوست می‌دانند. شاعر از تغییرات در احساساتش سخن می‌گوید و از اینکه با هر کسی که ارتباط برقرار کرده، از دوستان خود دور شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "از خصمی مردمان مرا حال نکوست\r\nیاران همه دشمنند خصمان همه دوست\r\nبا هر که دل آرمید از دوست رمید\r\nوز هر که بتافت روی دل جانب اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خصمی مردمان مرا حال نکوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاران همه دشمنند، خصمان همه دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هر که دل آرمید از دوست رمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز هر که بتافت روی دل جانب اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خصمی مردمان مرا حال نکوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یاران همه دشمنند، خصمان همه دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با هر که دل آرمید از دوست رمید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز هر که بتافت روی دل جانب اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

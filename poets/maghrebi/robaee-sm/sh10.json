@@ -1,0 +1,58 @@
+{
+  "Id": 84221,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/maghrebi/robaee-sm/sh10",
+  "RhymeLetters": "ستامدهام",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از حالتی مستی و عشق به می‌گوید. او با حالتی سرشار از نشئه و مدهوشی آمده و بر این باور است که به این حالت دلبسته است. او از دیگران می‌خواهد که گمان نکنند روزی به حالت سمج و هشیار خود برمی‌گردد، چون این مستی و حال خوش را دوست دارد و نمی‌خواهد از آن جدا شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستامدهام",
+      "PlainText": "من مست و خراب و می پرست آمده ام\r\nمدهوش ز باده الست آمده ام\r\nتا ظن نبری که باز گردم هشیار\r\nهم مست روم از آنکه مست آمده ام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن مست و خراب و می پرست آمده ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدهوش ز باده الست آمده ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ظن نبری که باز گردم هشیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم مست روم از آنکه مست آمده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من مست و خراب و می پرست آمده ام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مدهوش ز باده الست آمده ام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا ظن نبری که باز گردم هشیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم مست روم از آنکه مست آمده‌ام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

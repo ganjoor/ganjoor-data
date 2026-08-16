@@ -1,0 +1,58 @@
+{
+  "Id": 101810,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/salim/divan/robaee/sh19",
+  "RhymeLetters": "داناست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از رخشت (مادیان یا اسب زیبا) سخن می‌گوید که دمش نشانه‌ای از بازی چوگان است. او در میدان بازی همچون گوی حرکت می‌کند و وجود رنگین او می‌تواند به خوشحالی و زیبایی اشاره داشته باشد. همچنین، در خانه زین او، جشن و سرور برقرار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "داناست",
+      "PlainText": "رخشت که دمش علامت چوگان است\r\nدر دعوی خود چو گوی در میدان است\r\nرنگین شود از رنگ خوشش دست مگر\r\nدر خانه ی زین تو حنابندان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخشت که دمش علامت چوگان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دعوی خود چو گوی در میدان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنگین شود از رنگ خوشش دست، مگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه ی زین تو حنابندان است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخشت که دمش علامت چوگان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دعوی خود چو گوی در میدان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رنگین شود از رنگ خوشش دست، مگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خانه ی زین تو حنابندان است؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

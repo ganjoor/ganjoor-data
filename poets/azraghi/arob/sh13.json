@@ -1,0 +1,58 @@
+{
+  "Id": 69374,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/azraghi/arob/sh13",
+  "RhymeLetters": "کست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به زیبایی‌های طبیعت اشاره می‌کند. برف روی کوه به مانند وجود عشق است و پرنده‌ای که در هوا در حال پرواز است، به سبکی عشق اشاره می‌کند. شاعر با اشاره به سرمای شدید، از احساس سردی و نفسی که در دشت و کوه‌ها وجود دارد، صحبت می‌کند و این طبیعت خنک را برای شاه جهان توصیف می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کست",
+      "PlainText": "از برف سر کوه چو ذات الحبکست\r\nوین برف پرنده در هوا بس سبکست\r\nای شاه جهان بنده ز سرما تنکست\r\nکوه و در و دشت گنبدان بس خنکست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز برف سر کوه چو ذات الحُبُکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین برف پرنده در هوا بس سُبُکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه جهان، بنده ز سرما تُنُکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوه و در و دشت گنبدان بس خُنُکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از برف سر کوه چو ذات الحُبُکست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین برف پرنده در هوا بس سُبُکست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای شاه جهان، بنده ز سرما تُنُکست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کوه و در و دشت گنبدان بس خُنُکست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

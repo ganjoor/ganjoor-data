@@ -1,0 +1,58 @@
+{
+  "Id": 38967,
+  "CatId": 1136,
+  "Title": "رباعی شمارهٔ ۳",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳",
+  "FullUrl": "/salman/divanss/robaeess/sh3",
+  "RhymeLetters": "بادابادا",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به باد می‌گوید که با یار صحبت کند و هر چه که خواهد اتفاق بیفتد، بیاندیشد. او از جدایی از محبوبش غمگین است و شب‌ها را با درد و رنج می‌گذراند و می‌گوید که این شرایط را به باد می‌سپارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بادابادا",
+      "PlainText": "با باد دلم گفت که بادا بادا \r\nبا یار بگو و هر چه بادا بادا \r\nکآن کس که مرا ز صحبتت کرد جدا \r\nشب با غم و رنج روز بادا بادا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا باد، دلم گفت که بادا بادا \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا یار بگو و هر چه بادا بادا \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکآن کس که مرا ز صحبتت کرد جدا \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب با غم و رنج روز بادا بادا \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با باد، دلم گفت که بادا بادا ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با یار بگو و هر چه بادا بادا ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کآن کس که مرا ز صحبتت کرد جدا ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب با غم و رنج روز بادا بادا ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

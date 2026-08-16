@@ -1,0 +1,58 @@
+{
+  "Id": 70063,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/amir/robam/sh20",
+  "RhymeLetters": "ست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاه بر تخت نشسته و به بیدادگری‌ها پایان می‌دهد. او در دستورات خود قاطع است و حتی به کمک کسانی که در حال افتادن هستند می‌شتابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "تا شاه گشاده دست بر تخت نشست\r\nدست همه بیدادگران سخت ببست\r\nدستور به دستوری شاه اندر دست\r\nاز پای فتاده را همی گیرد دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شاه گشاده دست بر تخت نشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست همه بیدادگران سخت ببست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدستور به دستوری شاه اندر دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پای فتاده را همی گیرد دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا شاه گشاده دست بر تخت نشست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست همه بیدادگران سخت ببست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دستور به دستوری شاه اندر دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از پای فتاده را همی گیرد دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

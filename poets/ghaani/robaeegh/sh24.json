@@ -1,0 +1,58 @@
+{
+  "Id": 45837,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۲۴",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۲۴",
+  "FullUrl": "/ghaani/robaeegh/sh24",
+  "RhymeLetters": "ستشوم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات表达 می‌کند که می‌خواهد بنوشد و مست شود. وقتی که مست شود، به عشق وابسته خواهد شد و این وابستگی او را از خود بی‌خود خواهد کرد. او از این وضعیت راضی است و می‌گوید که در این حالتی که از خود می‌رود، وجود واقعی‌اش را می‌یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستشوم",
+      "PlainText": "بگذارکه تا می خورم و مست شوم\r\nچون مست شوم به عشق پابست شوم\r\nپابست شوم به کلی از دست شوم\r\nاز دست شوم نیست شوم هست شوم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذارکه تا می خورم و مست شوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مست شوم به عشق پابست شوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپابست شوم به کلی از دست شوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دست شوم نیست شوم هست شوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگذارکه تا می خورم و مست شوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون مست شوم به عشق پابست شوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پابست شوم به کلی از دست شوم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دست شوم نیست شوم هست شوم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

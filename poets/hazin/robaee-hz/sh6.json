@@ -1,0 +1,58 @@
+{
+  "Id": 82894,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/hazin/robaee-hz/sh6",
+  "RhymeLetters": "ایتوکجاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از یک مطرب و ساقی عاشقانه می‌پرسد که نغمه و شراب وجودش کجا رفته است. او به غم و دوری دل‌های عاشقان اشاره می‌کند و به زیبایی و کشش مژگان محبوبش اشاره می‌کند که گویی در دسترس نیست. به طور کلی، شاعر به جست‌وجوی زیبایی‌ها و لذت‌های عشقی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتوکجاست",
+      "PlainText": "ای مطرب عاشقان نوای تو کجاست\r\nای ساقی جان آب بقای توکجاست\r\nگیرم دل ما از نظر افتاده توست\r\nگیرایی مژگان رسای تو کجاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مطرب عاشقان نوای تو کجاست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای ساقی جان آب بقای توکجاست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیرم دل ما از نظر افتادهٔ توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیرایی مژگان رسای تو کجاست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مطرب عاشقان نوای تو کجاست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای ساقی جان آب بقای توکجاست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گیرم دل ما از نظر افتادهٔ توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گیرایی مژگان رسای تو کجاست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

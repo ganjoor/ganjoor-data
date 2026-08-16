@@ -1,0 +1,58 @@
+{
+  "Id": 68863,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/onsori/oro/sh13",
+  "RhymeLetters": "انگیرد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به زیبایی و جذابیت فردی اشاره دارند. شاعر می‌گوید که جام شراب از لب معشوقش مانند مرجان زیبا می‌شود و بوی خوشی از موهای او مانند بوی ریحان به مشام می‌رسد. همچنین، هنرمند نمی‌تواند زیبایی او را به درستی به تصویر بکشد و دل کسانی که او را می‌بینند، به شدت تحت تأثیر قرار می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انگیرد",
+      "PlainText": "جام از لب تو گونۀ مرجان گیرد\r\nوز جعد تو باد بوی ریحان گیرد\r\nنقاش چو نقش تو نیاراید به\r\nدیدار تو باز دل گروگان گیرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجام از لب تو گونۀ مرجان گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز جعد تو باد بوی ریحان گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقاش چو نقش تو نیاراید به\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدار تو باز دل گروگان گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جام از لب تو گونۀ مرجان گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز جعد تو باد بوی ریحان گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نقاش چو نقش تو نیاراید به",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیدار تو باز دل گروگان گیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

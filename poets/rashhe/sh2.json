@@ -1,0 +1,58 @@
+{
+  "Id": 20431,
+  "CatId": 301,
+  "Title": "شمارهٔ  ۲ - مطلع یک غزل",
+  "FullTitle": "رشحه » شمارهٔ  ۲ - مطلع یک غزل",
+  "FullUrl": "/rashhe/sh2",
+  "RhymeLetters": "رمرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این غزل، شاعر از درد نهایی خود سخن می‌گوید که چشمانش به خاطر گریه بر روی معشوق، دیدش را مختل کرده است. او از شدت دلتنگی و وابستگی تازه‌ای که به معشوق پیدا کرده، گلایه می‌کند و اشاره می‌کند که معشوق با سختی و بی‌رحمی، به او آسیب رسانده و باعث شده که نتواند پرواز کند.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمرا",
+      "PlainText": "دردا که بود خاصیت این چشم ترم را\r\nکز گریه ز روی تو ببندد نظرم را\r\nدل بستگیم تازه به دام تو شد اکنون\r\nکز سنگ جفا ریخته ای بال و پرم را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردا که بود خاصیت این چشم ترم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز گریه ز روی تو ببندد نظرم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل بستگیم تازه به دام تو شد اکنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز سنگ جفا ریخته‌ای بال و پرم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردا که بود خاصیت این چشم ترم را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز گریه ز روی تو ببندد نظرم را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل بستگیم تازه به دام تو شد اکنون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز سنگ جفا ریخته‌ای بال و پرم را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

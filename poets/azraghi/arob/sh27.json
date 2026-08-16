@@ -1,0 +1,58 @@
+{
+  "Id": 69388,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/azraghi/arob/sh27",
+  "RhymeLetters": "د",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به بلندی و شکوه شخصی (که به نظر می‌رسد به نوعی مقام عالی اشاره دارد) اشاره می‌کند. او درگاه این شخص را به دریای سیاست تشبیه می‌کند و می‌گوید که عقل و رای او از روشنی آسمان الهام گرفته است. همچنین، شاعر آرزو می‌کند که خورشید سعادت این فرد همیشه در اوج باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "مر جاه ترا بلندی جوزا باد \r\nدرگاه ترا سیاست دریا بود\r\nرای تو ز روشنی فلک سیما باد\r\nخورشید سعادت تو بر بالا باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر جاه ترا بلندی جوزا باد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرگاه ترا سیاست دریا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرای تو ز روشنی فلک سیما باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید سعادت تو بر بالا باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مر جاه ترا بلندی جوزا باد ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درگاه ترا سیاست دریا بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رای تو ز روشنی فلک سیما باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید سعادت تو بر بالا باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

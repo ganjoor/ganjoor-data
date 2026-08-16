@@ -1,0 +1,58 @@
+{
+  "Id": 74534,
+  "CatId": 2084,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "قدسی مشهدی » مطالع و متفرقات » شمارهٔ ۴۲",
+  "FullUrl": "/ghodsi/mmgh/sh42",
+  "RhymeLetters": "اغم",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به عشق و محبت اشاره می‌کند و می‌گوید که تنها نور چراغ او، محبت است. او همچنین بیان می‌کند که بدون غم و اندوه نمی‌تواند دلش شاد و سرزنده باشد و تا زمانی که درد و رنجی وجود نداشته باشد، غنچه‌های دلش شکفته نخواهد شد.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغم",
+      "PlainText": "جز دود محبت که بود نور چراغم\r\nآموخته بوی دگر نیست دماغم\r\nبی ساغر اندوه دلم تازه نگردد\r\nتا خون نشود وا نشود غنچه باغم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز دود محبت که بود نور چراغم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآموخته بوی دگر نیست دماغم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی ساغر اندوه، دلم تازه نگردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خون نشود، وا نشود غنچه باغم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز دود محبت که بود نور چراغم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آموخته بوی دگر نیست دماغم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی ساغر اندوه، دلم تازه نگردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا خون نشود، وا نشود غنچه باغم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

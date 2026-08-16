@@ -1,0 +1,58 @@
+{
+  "Id": 20450,
+  "CatId": 301,
+  "Title": "شمارهٔ  ۲۱ - از یک غزل",
+  "FullTitle": "رشحه » شمارهٔ  ۲۱ - از یک غزل",
+  "FullUrl": "/rashhe/sh21",
+  "RhymeLetters": "رکردم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به یاد معشوقش در شب‌هایی از روی ماه نگاه می‌کند و نه به خاطر اینکه او رفته، بلکه به دلیل اشتیاق و درد هجر. شاعر بیان می‌کند که به خاطر دوری از او، تمام زمین را با اشک خود تر کرده است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رکردم",
+      "PlainText": "به یاد روی تو بر مه شبی نظر کردم\r\nنه اینکه رفتی و رو بر مه دگر کردم\r\nز دست هجر تو تا دیگری بسر نکند\r\nتمام خاک درت را ز گریه تر کردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یاد روی تو بر مه شبی نظر کردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه اینکه رفتی و رو بر مه دگر کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دست هجر تو تا دیگری بسر نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتمام خاک درت را ز گریه تر کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به یاد روی تو بر مه شبی نظر کردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه اینکه رفتی و رو بر مه دگر کردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز دست هجر تو تا دیگری بسر نکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تمام خاک درت را ز گریه تر کردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70188,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴۵",
+  "FullUrl": "/amir/robam/sh145",
+  "RhymeLetters": "ین",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به قدرت و سلطه‌ای که شاه بر دو طرف زمین دارد اشاره می‌کند. او بیان می‌کند که تیغ شاه مثل سلاحی خطرناک همیشه آماده حمله و کمین است و این وضعیت از مدت یک سال ادامه دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "ای شاه جهان دو گوشه روی زمین\r\nدر قبضه ملک توست تایوم الدین\r\nتیغ تو همی کند شبیخون و کمین\r\nیک ساله بر آن گوشه و یک ساله بر این",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه جهان دو گوشهٔ روی زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر قبضهٔ ملک توست تایوم‌الدین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیغ تو همی‌کند شبیخون و کمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ساله بر آن‌گوشه و یک ساله بر این\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه جهان دو گوشهٔ روی زمین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در قبضهٔ ملک توست تایوم‌الدین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیغ تو همی‌کند شبیخون و کمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک ساله بر آن‌گوشه و یک ساله بر این",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

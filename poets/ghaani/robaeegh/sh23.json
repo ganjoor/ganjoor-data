@@ -1,0 +1,58 @@
+{
+  "Id": 45836,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۲۳",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۲۳",
+  "FullUrl": "/ghaani/robaeegh/sh23",
+  "RhymeLetters": "ادستدلم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به این موضوع می‌پردازد که دلش، که تحت تأثیر عشق و ارادت به معشوق است، به سرشار از شادی و خوشی شده و در میان زلف‌های جذاب او گم گشته است. در نهایت، دلش به راهی نادرست و کج دچار شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادستدلم",
+      "PlainText": "تا دست ارادت به تو دادست دلم\r\nدامان طرب زکف نهادست دلم\r\nره یافته در زلف دلاویز کجت\r\nالقصه به راه کج فتادست دلم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دست ارادت به تو دادست دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامان طرب زکف نهادست دلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره یافته در زلف دلاویز کجت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالقصه به راه کج فتادست دلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دست ارادت به تو دادست دلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دامان طرب زکف نهادست دلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ره یافته در زلف دلاویز کجت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "القصه به راه کج فتادست دلم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

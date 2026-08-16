@@ -1,0 +1,58 @@
+{
+  "Id": 101794,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/salim/divan/robaee/sh3",
+  "RhymeLetters": "ابازا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ابر می‌خواهد که به باغ زیبایی برگردد. او اشاره می‌کند که جای ابر در چمن است و بدون او، صدای آب شور بی‌حاصل است. در پایان، شاعر به ابر به عنوان جواهر دریا یاد می‌کند و از او می‌خواهد که دوباره به دریا بازگردد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابازا",
+      "PlainText": "ای ابر به گلزار تمنا بازآ\r\nجای تو چمن بود ز صحرا بازآ\r\nاورنگ صدف صفا ندارد بی تو\r\nای گوهر شهوار به دریا بازآ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ابر، به گلزار تمنا بازآ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجای تو چمن بود، ز صحرا بازآ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاورنگ صدف صفا ندارد بی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای گوهر شهوار به دریا بازآ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ابر، به گلزار تمنا بازآ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جای تو چمن بود، ز صحرا بازآ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اورنگ صدف صفا ندارد بی تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای گوهر شهوار به دریا بازآ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

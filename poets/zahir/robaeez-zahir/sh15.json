@@ -1,0 +1,58 @@
+{
+  "Id": 73607,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/zahir/robaeez-zahir/sh15",
+  "RhymeLetters": "نداناست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: غزل به مفهوم ارزش شراب و شادی آن اشاره دارد. شاعر می‌گوید که می، که همیشه تند و تیز است، مونس و همراه انسان‌های خردمند است. اگرچه می در خم دارد، اما در شیشه خوشحال و شاداب به نظر می‌رسد. به همین خاطر، نوشیدن می و لذت بردن از آن را مجاز می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نداناست",
+      "PlainText": "می را که همیشه با خرد دندان است\r\nهم اوست که مونس خردمندان است\r\nمی در خم اگر چه سر گرفته است رواست\r\nدر شیشه نگر که خرم و خندان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی را که همیشه با خرد دندان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم اوست که مونس خردمندان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی در خُم اگر چه سر گرفته است رواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر شیشه نگر که خرم و خندان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می را که همیشه با خرد دندان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم اوست که مونس خردمندان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می در خُم اگر چه سر گرفته است رواست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در شیشه نگر که خرم و خندان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

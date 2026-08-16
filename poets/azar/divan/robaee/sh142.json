@@ -1,0 +1,58 @@
+{
+  "Id": 119063,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۴۲",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۴۲",
+  "FullUrl": "/azar/divan/robaee/sh142",
+  "RhymeLetters": "لمن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر، به محبت و عشق اشاره می‌کند و از غم و درد دوری معشوق سخن می‌گوید. او می‌گوید که در زندگی‌اش هیچ چیز جز غم عشق وجود ندارد و کاش دل او نیز مانند دل معشوقش بود یا برعکس، دل معشوقش مانند دل او بود تا آن‌ها را به هم نزدیک‌تر کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لمن",
+      "PlainText": "ای آنکه سر کوی تو شد منزل من\r\nجز تخم غمت نیست در آب و گل من\r\nای کاش که بودی دل من چون دل تو\r\nیا آنکه دل تو بود همچون دل من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه سر کوی تو شد منزل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز تخم غمت نیست در آب و گل من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کاش! که بودی دل من چون دل تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا آنکه دل تو بود همچون دل من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه سر کوی تو شد منزل من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز تخم غمت نیست در آب و گل من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای کاش! که بودی دل من چون دل تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا آنکه دل تو بود همچون دل من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

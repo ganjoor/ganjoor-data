@@ -1,0 +1,58 @@
+{
+  "Id": 29277,
+  "CatId": 254,
+  "Title": "رباعی شمارهٔ ۱۱",
+  "FullTitle": "اوحدی مراغه‌ای » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۱",
+  "FullUrl": "/ouhadi/divano/robaeeo/sh11",
+  "RhymeLetters": "ابصافیتیرهاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که زیبایی و درخشندگی چهره معشوقش به قدری زیاد است که حتی نور خورشید نیز در مقابل آن کمرنگ و تیره به نظر می‌رسد. همچنین، رنگ لعل لب معشوق نیز همچون شرابی صاف و خوش رنگ به نظر می‌رسد، اما این زیبایی در کنار چهره او به خاطر تاریکی و کدورت ناشی از عشق کمرنگ می‌شود. در نهایت، شاعر به این نتیجه می‌رسد که زیبایی معشوق حقیقتاً بر تمامی زیبایی‌ها غلبه دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابصافیتیرهاست",
+      "PlainText": "با روی تو آفتاب صافی تیره است\r\nبا لعل لبت شراب صافی تیره است\r\nتاریکی آب صافی از سیل نبود\r\nدر جنب رخ تو آب صافی تیره است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا روی تو آفتاب صافی تیره است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا لعل لبت شراب صافی تیره است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاریکی آب صافی از سیل نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جنب رخ تو آب صافی تیره است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با روی تو آفتاب صافی تیره است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با لعل لبت شراب صافی تیره است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تاریکی آب صافی از سیل نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جنب رخ تو آب صافی تیره است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

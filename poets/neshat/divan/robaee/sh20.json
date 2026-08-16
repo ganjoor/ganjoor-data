@@ -1,0 +1,58 @@
+{
+  "Id": 119554,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/neshat/divan/robaee/sh20",
+  "RhymeLetters": "اید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت از غم و انتظار صحبت می‌کند. او می‌گوید روزها با درد می‌گذرد و شب‌ها منتظر ظهور روز هستم. اما هیچ‌کدام از این روزها و شب‌ها نتوانسته‌اند غم‌های دلش را کم کنند و او نیاز به روز و شب دیگری دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اید",
+      "PlainText": "روزم گذرد بغم که شب کی آید\r\nشب منتظرم که روز رخ بنماید\r\nاین روز و شبم عقده ز دل نگشاید\r\nروزی دگر و شبی دگر میباید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزم گذرد بغم که شب کی آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب منتظرم که روز رخ بنماید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین روز و شبم عقده ز دل نگشاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزی دگر و شبی دگر میباید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزم گذرد بغم که شب کی آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب منتظرم که روز رخ بنماید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این روز و شبم عقده ز دل نگشاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روزی دگر و شبی دگر میباید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

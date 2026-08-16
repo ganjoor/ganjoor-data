@@ -1,0 +1,58 @@
+{
+  "Id": 48800,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۸۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۸۱",
+  "FullUrl": "/orfi/robaeeor/sh81",
+  "RhymeLetters": "وششود",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت خنده و نگاه خود اشاره می‌کند. خنده‌ای که به اندازه‌ای دلربا و شورانگیز است که حتی خورشید هم به آن سایه‌اش نزدیک می‌شود. شاعر از احساس سرخوشی و غرق شدن در زیبایی توصیف می‌کند و به تاثیر عمیق و بلافاصله خنده و کرشمه بر روی خودش اشاره می‌کند. در نهایت، شاعر بیان می‌کند که این احساسات به حدی قوی و شگفت‌انگیز هستند که به زودی او را بیهوش می‌کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وششود",
+      "PlainText": "شوخی که ز خنده چشمه نوش شود\r\nخورشید به سایه اش هم آغوش شود\r\nخندید و کرشمه کرد و از خود رفتم\r\nآری دو شیرابه زود بیهوش شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوخی که ز خنده چشمهٔ نوش شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید به سایه اش هم آغوش شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخندید و کرشمه کرد و از خود رفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری دو شیرابه زود بیهوش شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوخی که ز خنده چشمهٔ نوش شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید به سایه اش هم آغوش شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خندید و کرشمه کرد و از خود رفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری دو شیرابه زود بیهوش شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 68131,
+  "CatId": 2021,
+  "Title": "دوبیتی شمارهٔ ۱",
+  "FullTitle": "فایز » دوبیتی‌ها » دوبیتی شمارهٔ ۱",
+  "FullUrl": "/fayez/dobeytiha/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعر به توصیف تغییرات حال و روز خود می‌پردازد. او در گذشته، زندگی را بهشت‌گونه و خوشایند توصیف کرده، اما اکنون احساس می‌کند که در دوزخ زندگی می‌کند. او همچنین بر این نکته تأکید می‌کند که امروز در زندگی‌اش چیزی از خوشبختی گذشته باقی نمانده و در نهایت به آینده و سرنوشت نامعلوم اشاره می‌کند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "مرا خلد برین دی بودیم جا\r\nکنونم دوزخ است امروز ماوا\r\nنمانده دی نماند فایز امروز\r\nخدا داند چه باشد حال فردا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا خلد برین دی بودیم جا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنونم دوزخ است امروز ماوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمانده دی نماند فایز امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدا داند چه باشد حال فردا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا خلد برین دی بودیم جا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کنونم دوزخ است امروز ماوا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمانده دی نماند فایز امروز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدا داند چه باشد حال فردا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

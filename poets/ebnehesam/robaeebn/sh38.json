@@ -1,0 +1,58 @@
+{
+  "Id": 64835,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۳۸",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۳۸",
+  "FullUrl": "/ebnehesam/robaeebn/sh38",
+  "RhymeLetters": "پیمانهخورند",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که افرادی که با درایت و حکمت شراب می‌نوشند، باید به اندازه و با احتیاط این کار را انجام دهند. وقتی که نوشیدن شراب ممنوع شده، حکیمان نیز باید از آن پرهیز کنند و تنها کسانی که اهل درست نوشیدن هستند، باید از آن استفاده کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "پیمانهخورند",
+      "PlainText": "آنها که شراب را حکیمانه خورند\r\nشرطست که می به شرط پیمانه خورند\r\nاکنون که حرام شد حکیمان نخورند\r\nپیمانه چو باشد اهل پیمانه خورند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنها که شراب را حکیمانه خورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرطست که می به شرط پیمانه خورند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون که حرام شد حکیمان نخورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمانه چو باشد اهل پیمانه خورند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنها که شراب را حکیمانه خورند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شرطست که می به شرط پیمانه خورند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون که حرام شد حکیمان نخورند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیمانه چو باشد اهل پیمانه خورند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

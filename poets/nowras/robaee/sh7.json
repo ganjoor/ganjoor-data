@@ -1,0 +1,52 @@
+{
+  "Id": 148765,
+  "CatId": 3456,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "نورس دماوندی » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/nowras/robaee/sh7",
+  "SourceName": "حسین آقایی",
+  "SourceUrlSlug": "aghaei",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "هم در لگن سپهر از شمع خور است\r\nهم در صدف از مشینشی قطره در است\r\nچون شخص در آیینه و چون عکس در آب\r\nعالم ز وجود دوست خالی و پر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم در لگن سپهر از شمع خور است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم در صدف از مشینشی قطره دُر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شخص در آئینه و چون عکس در آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالم ز وجود دوست خالی و پر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هم در لگن سپهر از شمع خور است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم در صدف از مشینشی قطره دُر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون شخص در آئینه و چون عکس در آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عالم ز وجود دوست خالی و پر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83011,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۲۳",
+  "FullUrl": "/hazin/robaee-hz/sh123",
+  "RhymeLetters": "انیزد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از تناقض‌هایی که در باورهای مذهبی و رفتارهای انسان‌ها وجود دارد سخن می‌گوید. او به فردی اشاره می‌کند که به خاطر نیاز خود در برابر بت می‌نشیند و در عین حال با کمال بی‌شرمی خود را مسلمان می‌داند، که این موضوع او را در حیرت و تعجب قرار داده است. با این توصیفات، شاعر به نقد و کنایه از افرادی می‌پردازد که بر خلاف باورهای خود عمل می‌کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیزد",
+      "PlainText": "بر پای بت از نیاز پیشانی زد\r\nناقوس فرنگ در صنم خوانی زد\r\nدر حیرتم از دل که به این سیرت و شان\r\nبی شرم چه سان لاف مسلمانی زد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر پای بت، از نیاز پیشانی زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناقوس فرنگ، در صنم خوانی زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حیرتم از دل، که به این سیرت و شان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی شرم چه سان لاف مسلمانی زد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر پای بت، از نیاز پیشانی زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناقوس فرنگ، در صنم خوانی زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حیرتم از دل، که به این سیرت و شان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی شرم چه سان لاف مسلمانی زد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

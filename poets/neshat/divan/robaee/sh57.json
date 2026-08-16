@@ -1,0 +1,58 @@
+{
+  "Id": 119591,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۵۷",
+  "FullUrl": "/neshat/divan/robaee/sh57",
+  "RhymeLetters": "امن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به عشق و وابستگی عمیق خود اشاره می‌کند. او می‌گوید که هر جا نشانی از محبوب باشد، اثری از خودش نخواهد ماند. او نمی‌تواند بدون محبوب زندگی کند و به این نتیجه می‌رسد که تنها یکی از آنها باید در این ارتباط باقی بماند. این شعر نمادی از عشق و وابستگی شدید است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امن",
+      "PlainText": "بینم ز تو هر کجا نشانی تا من\r\nاز من اثری دگر نماند با من\r\nمن با تو دمی زیست توانم حاشا\r\nباید که درین خانه تو مانی یا من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبینم ز تو هر کجا نشانی تا من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز من اثری دگر نماند با من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن با تو دمی زیست توانم حاشا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباید که درین خانه تو مانی یا من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بینم ز تو هر کجا نشانی تا من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از من اثری دگر نماند با من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من با تو دمی زیست توانم حاشا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باید که درین خانه تو مانی یا من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45757,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۹۵",
+  "FullUrl": "/ghaani/ghetegh/sh95",
+  "RhymeLetters": "بخیل",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار بیانگر حسرت و تنگی دست در برابر آرزوهای بزرگ است. شاعر می‌گوید که جهان پر از آرزوها و امکانات است، اما برای کسی که حسدورز است، همه چیز محدود و تنگ به نظر می‌رسد. همچنین، اشاره می‌کند که اگر فردی تنها به خارها و ناامیدی‌ها دست یابد، در واقع به خاطر نگاه بدبینانه‌اش به امکانات مثبت و خوشبختی‌ها نمی‌رسد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بخیل",
+      "PlainText": "جهان ز حوصله آرزو فراخ ترست\r\nولیک بر تو بود تنگ تر ز چشم بخیل\r\nتراکه خوشه خرما به دست می نرسد\r\nبه غیر خار چه قسمت بری همی ز بخیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان ز حوصلهٔ آرزو فراخ‌ترست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولیک بر تو بود تنگ‌تر ز چشم بخیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتراکه خوشهٔ خرما به دست می‌نرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه غیر خار چه قسمت بری همی ز بخیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان ز حوصلهٔ آرزو فراخ‌ترست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ولیک بر تو بود تنگ‌تر ز چشم بخیل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تراکه خوشهٔ خرما به دست می‌نرسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به غیر خار چه قسمت بری همی ز بخیل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

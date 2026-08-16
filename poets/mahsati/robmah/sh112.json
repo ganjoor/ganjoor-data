@@ -1,0 +1,58 @@
+{
+  "Id": 50172,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۱۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۱۲",
+  "FullUrl": "/mahsati/robmah/sh112",
+  "RhymeLetters": "یش",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با استفاده از استعاره‌ها به زیبایی و جذابیت عشق اشاره می‌کند. او از زلف معشوق که به مانند عقرب است و باعث نیش زدن به جان او می‌شود، صحبت می‌کند. قد معشوق نیز نشانه‌ای از بلندی و عظمت عشق اوست. خط معشوق به اندازه‌ای زیباست که به عنوان حکمی از سلاطین به حساب می‌آید. در پایان، شاعر به توکل خود به خداوند در این عشق اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یش",
+      "PlainText": "ای عقرب زلفت زده بر جانم نیش\r\nتیر قد تو مرا برآورده ز کیش\r\nشد خط تو توقیع سلاطین زآن روی\r\nسرخ است و توکلت علی الله معنیش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عقرب زلفت زده بر جانم نیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیر قد تو مرا برآورده ز کیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد خط تو توقیع سلاطین زآن روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرخ است و توکلت علی الله معنیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عقرب زلفت زده بر جانم نیش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیر قد تو مرا برآورده ز کیش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد خط تو توقیع سلاطین زآن روی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرخ است و توکلت علی الله معنیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

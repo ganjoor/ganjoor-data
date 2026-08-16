@@ -1,0 +1,58 @@
+{
+  "Id": 107203,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/daye/divan/robaee/sh40",
+  "RhymeLetters": "بازشود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: اگر ویژگی‌های حیوانی و زشتی‌های روحی‌ات کنار گذاشته شود، روح تو مانند پرنده‌ای به آشیان طبیعی‌اش بازمی‌گردد. سپس روح فاسد و نکبت‌بار به جایگاه عزت و ملکوتی‌اش خواهد رسید و آزاد می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بازشود",
+      "PlainText": "خوی سبعی ز نفست ار باز شود\r\nمرغ روحت به آشیان باز شود\r\nپس کرکس روح روسوی علو نهد\r\nبر دست ملک نشیند و باز شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوی سبعی ز نفست ار باز شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغ روحت به آشیان باز شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس کرکس روح روسوی علو نهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دست ملک نشیند و باز شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوی سبعی ز نفست ار باز شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغ روحت به آشیان باز شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پس کرکس روح روسوی علو نهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر دست ملک نشیند و باز شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

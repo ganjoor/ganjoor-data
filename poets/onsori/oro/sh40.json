@@ -1,0 +1,58 @@
+{
+  "Id": 68890,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/onsori/oro/sh40",
+  "RhymeLetters": "ادکنم",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر احساس درد و yearning خود را بیان می‌کند. او شب‌ها به یاد روزهای وصال معشوقش می‌افتد و در این یادآوری، به شدت دلتنگی و فریاد می‌کشد. او نگران این است که شب مرگ به سراغش بیاید و فرصت دوباره‌ای برای شاد کردن دلش در روز وصال را نداشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادکنم",
+      "PlainText": "شب ها چو ز روز وصل او یاد کنم\r\nتا روز هزار گونه فریاد کنم\r\nترسم که شب اجل امانم ندهد\r\nتا باز به روز وصل دل شاد کنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب‌ها چو ز روز وصل او یاد کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا روز هزار گونه فریاد کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم که شب اجل امانم ندهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا باز به روز وصل دل شاد کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب‌ها چو ز روز وصل او یاد کنم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا روز هزار گونه فریاد کنم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترسم که شب اجل امانم ندهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا باز به روز وصل دل شاد کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

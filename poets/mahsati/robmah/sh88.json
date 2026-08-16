@@ -1,0 +1,58 @@
+{
+  "Id": 50148,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۸۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۸۸",
+  "FullUrl": "/mahsati/robmah/sh88",
+  "RhymeLetters": "ید",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به وصف احساسات و تأثیر نگاه محبوبش بر خود می‌پردازد. او می‌گوید وقتی که چشمش در مقابل چشم محبوبش قرار می‌گیرد، خواب از او می‌رود و درخشندگی چشم محبوبش تأثیر عمیقی بر او می‌گذارد. در واقع، چشم محبوب برای او یگانه و بی‌همتاست و هیچ چشمی را نمی‌تواند با آن مقایسه کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "چشمم چو به چشم خویش چشم تو بدید\r\nبی چشم تو خواب چشم از چشم رمید\r\nای چشم هم چشم به چشمت روشن\r\nچون چشم تو چشم من دگر چشم ندید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمم چو به چشم خویش چشم تو بدید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی چشم تو خواب چشم از چشم رمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چشم هم چشم به چشمت روشن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون چشم تو چشم من دگر چشم ندید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشمم چو به چشم خویش چشم تو بدید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی چشم تو خواب چشم از چشم رمید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای چشم هم چشم به چشمت روشن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون چشم تو چشم من دگر چشم ندید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

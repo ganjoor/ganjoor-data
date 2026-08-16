@@ -1,0 +1,58 @@
+{
+  "Id": 68861,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/onsori/oro/sh11",
+  "RhymeLetters": "وشاست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از زیبایی‌هایی مانند زلف و لب معشوقه صحبت می‌کند. زلف او بویی شبیه مرزنگوش دارد و گاهی بر پیشانی و گاهی زیر گوشش قرار دارد. اما جالب‌تر این است که لب او خاموش است، ولی از این لب خاموش، به جهان و شهر نغمه‌ای زیبا و دل‌نشین می‌رسد. این تصویرسازی شاعرانه نشان‌دهنده جذابیت و سحر و جادو در وجود معشوق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشاست",
+      "PlainText": "آن زلف که او به بوی مرزنگوش است\r\nگه بر جبه است و گه به زیر گوش است\r\nزین باز عجب تر آن لب خاموش است\r\nزو شهر و جهان به بانگ نوشانوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن زلف که او به بوی مرزَنگوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه بر جَبَه است و گه به زیر گوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین باز عجب‌تر آن لب خاموش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزو شهر و جهان به بانگِ نوشانوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن زلف که او به بوی مرزَنگوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه بر جَبَه است و گه به زیر گوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین باز عجب‌تر آن لب خاموش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زو شهر و جهان به بانگِ نوشانوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

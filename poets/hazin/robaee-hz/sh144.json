@@ -1,0 +1,58 @@
+{
+  "Id": 83032,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۴۴",
+  "FullUrl": "/hazin/robaee-hz/sh144",
+  "RhymeLetters": "انباشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به معانی عمیق زندگی و عشق اشاره دارد. شاعر می‌گوید وقتی بدن انسان خراب و ویران می‌شود، غمی نیست، زیرا جان هم می‌تواند از بین برود. عشق و معامله‌های آن به‌ظاهر زیان‌آور است، اما در واقع آنچه مهم است، عشق و جانان است؛ حتی اگر جان فرد فدای آن عشق شود، مشکلی نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انباشد",
+      "PlainText": "گردد چو خراب تن چه غم جان باشد\r\nویران چو شود حباب عمان باشد\r\nداد و ستد عشق زیانش سود است\r\nگر جان برود چه باک جانان باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردد چو خراب تن، چه غم؟ جان باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eویران چو شود حباب، عمّان باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداد و ستد عشق زیانش سود است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر جان برود چه باک؟ جانان باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردد چو خراب تن، چه غم؟ جان باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ویران چو شود حباب، عمّان باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "داد و ستد عشق زیانش سود است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر جان برود چه باک؟ جانان باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

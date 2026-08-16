@@ -1,0 +1,58 @@
+{
+  "Id": 1239,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۲۱",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۲۱",
+  "FullUrl": "/khayyam/robaee/sh121",
+  "RhymeLetters": "ریم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از دوستانش می‌خواهد که به جای نگرانی درباره فردا، در همین لحظه زندگی کنند و از آن لذت ببرند. او تأکید می‌کند که در آینده، وقتی از این دنیا می‌گذریم، با کسانی که سال‌ها عمر کردند، در یک سرنوشت خواهیم بود. پس بهتر است از لحظات فعلی بهره ببریم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریم",
+      "PlainText": "ای دوست بیا تا غم فردا نخوریم\r\nوین یک دم عمر را غنیمت شمریم\r\nفردا که ازین دیر فنا درگذریم\r\nبا هفت هزارسالگان سربه سریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست بیا تا غمِ فردا نخوریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین یک دمِ عمر را غنیمت شمریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا که ازین دیرِ فنا درگذریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا هفت‌هزارسالگان سربه‌سریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست بیا تا غمِ فردا نخوریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین یک دمِ عمر را غنیمت شمریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فردا که ازین دیرِ فنا درگذریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با هفت‌هزارسالگان سربه‌سریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

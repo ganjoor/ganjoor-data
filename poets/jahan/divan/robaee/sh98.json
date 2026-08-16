@@ -1,0 +1,58 @@
+{
+  "Id": 113971,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/jahan/divan/robaee/sh98",
+  "RhymeLetters": "رد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر دربارهٔ زیبایی و بزرگی سرو (نماد درخت و طبیعت) نسبت به معشوق است. شاعر به سرو می‌گوید که او چمن را به خاطر قامت و زیبایی‌اش درد می‌کند و از دامن سرو می‌خواهد که به خون دل او آلوده نشود، تا خاکی که از اوست، به معشوق نرسد. به نوعی، شاعر حسرت و عشق عمیق خود را نسبت به زیبایی معشوق بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "ای سرو چمن چیده ز بالای تو درد\r\nنسبت به قد و قامت تو سرو که کرد\r\nدامن تو میالای به خون دل ما\r\nتا از من خاکی ننشیند به تو گرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سرو چمن چیده ز بالای تو درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسبت به قد و قامت تو سرو که کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامن تو میالای به خون دل ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا از من خاکی ننشیند به تو گرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سرو چمن چیده ز بالای تو درد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نسبت به قد و قامت تو سرو که کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دامن تو میالای به خون دل ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا از من خاکی ننشیند به تو گرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

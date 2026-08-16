@@ -1,0 +1,58 @@
+{
+  "Id": 75838,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/nezari/robnez/sh91",
+  "RhymeLetters": "وباشد",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به یگانگی و فردیت در تجربه‌های انسانی اشاره می‌کند. او می‌گوید که نه بهشت و نه جهنم حقیقتاً وجود ندارد و در واقع، همه چیز به خود او مربوط می‌شود. در جایی که او قرار دارد، هیچ کس جز خود او نیست و در جایی دیگر، فقط او وجود دارد. در اینجا بر اهمیت خودآگاهی و وجود فردی تأکید می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وباشد",
+      "PlainText": "با ما نه جهنم و نه مینو باشد\r\nنی بر غلطم که هر دو نیکو باشد\r\nاینجا که منم کس نبود الا من\r\nآنجا دگری نیست همه او باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا ما نه جهنم و نه مینو باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی بر غلطم که هر دو نیکو باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینجا که منم کس نبود الا من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنجا دگری نیست همه او باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با ما نه جهنم و نه مینو باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی بر غلطم که هر دو نیکو باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اینجا که منم کس نبود الا من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنجا دگری نیست همه او باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

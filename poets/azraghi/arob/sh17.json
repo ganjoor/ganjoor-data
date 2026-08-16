@@ -1,0 +1,58 @@
+{
+  "Id": 69378,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/azraghi/arob/sh17",
+  "RhymeLetters": "وست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این اشعار درباره سادگی و سخاوت خسرو صحبت می‌کند. می‌گوید که شمشیر او می‌تواند دشمنان را از بین ببرد و در عین حال، هنر و کلام او نیز زشت و زیبا را به نمایش می‌گذارد. در نهایت، این نکته را بیان می‌کند که دشمنی به دوزخ و دوستی به جنت نزدیک است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "مر کلک ترا سخاوت ای خسرو خوست\r\nشمشیر تو بر شیر بدارند پوست\r\nکلک تو و شمشیر تو زان زشت و نکوست\r\nکین دوزخ دشمنست و آن جنت دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر کلک ترا سخاوت، ای خسرو، خوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمشیر تو بر شیر بدارند پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلک تو و شمشیر تو زان زشت و نکوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکین دوزخ دشمنست و آن جنت دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مر کلک ترا سخاوت، ای خسرو، خوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمشیر تو بر شیر بدارند پوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کلک تو و شمشیر تو زان زشت و نکوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کین دوزخ دشمنست و آن جنت دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

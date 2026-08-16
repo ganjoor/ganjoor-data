@@ -1,0 +1,58 @@
+{
+  "Id": 82978,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۹۰",
+  "FullUrl": "/hazin/robaee-hz/sh90",
+  "RhymeLetters": "ارافتد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از خداوند می‌خواهد که محبت و لطفش به کسانی که در جانبازگی و شکستگی هستند برسد. او به احساس نگرانی درباره سرنوشت انسان‌ها اشاره می‌کند و می‌طلبد که در کارهایش به غیر از خداوند تکیه نکند. شاعر به دنبال رحمت و حمایت الهی است تا در چنین شرایطی رها نشود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارافتد",
+      "PlainText": "یا رب چه شود گرکرمت یار افتد\r\nلطفت به شکستگان پرستار افتد\r\nغمخوارگی خلق جهان را دیدم\r\nمگذار که با غیر توام کار افتد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب چه شود گرکرمت یار افتد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلطفت به شکستگان پرستار افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمخوارگی خلق جهان را دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگذار که با غیر توام کار افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب چه شود گرکرمت یار افتد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لطفت به شکستگان پرستار افتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غمخوارگی خلق جهان را دیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مگذار که با غیر توام کار افتد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

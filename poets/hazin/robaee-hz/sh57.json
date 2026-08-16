@@ -1,0 +1,58 @@
+{
+  "Id": 82945,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۵۷",
+  "FullUrl": "/hazin/robaee-hz/sh57",
+  "RhymeLetters": "اممیبایدنیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به عشق و جدایی اشاره دارد. شاعر بیان می‌کند که زیبایی و شیرینی عشق برای او دور از دسترس است و آنچه به دلش می‌نشیند تنها اندوه و جدایی است. او از اشتیاق به وصلی سخن می‌گوید که هرچند در دلش وجود دارد، اما به حقیقت نمی‌پیوندد. به طور کلی، شاعر احساس ناکامی و عدم دسترسی به محبت و وصال را ابراز می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اممیبایدنیست",
+      "PlainText": "ما را لب لعل فام می باید نیست\r\nاین شهد نصیب کام می باید نیست\r\nهجری که سرم خمار ازو دارد هست\r\nوصلی که مرا مدام می باید نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را لب لعل فام می باید، نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین شهد نصیب کام می باید، نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهجری که سرم خمار ازو دارد، هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصلی که مرا مدام می باید، نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما را لب لعل فام می باید، نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این شهد نصیب کام می باید، نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هجری که سرم خمار ازو دارد، هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وصلی که مرا مدام می باید، نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

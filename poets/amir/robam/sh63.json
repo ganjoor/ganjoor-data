@@ -1,0 +1,58 @@
+{
+  "Id": 70106,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۶۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۶۳",
+  "FullUrl": "/amir/robam/sh63",
+  "RhymeLetters": "الیکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به این نکته می‌پردازد که تا زمانی که خداوند خواسته‌ای نداشته باشد، هیچ چیز نمی‌تواند به انسان آسیب برساند. همچنین تأکید می‌کند که هیچ ظلمی نمی‌تواند به دل او نفوذ کند و خداوند او را به اشتباه شاه نکرده است. به عبارتی، قدرت و حفاظت الهی او را از هر گونه ضرر و ستم مصون داشته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهنکرد",
+      "PlainText": "تا عصمت ایزدت نکوخواه نکرد\r\nتوقیع تو اعتصمت بالله نکرد\r\nهرگز ستمی بر دل تو راه نکرد\r\nایزد به غلط تو را شهنشاه نکرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا عصمت ایزدت نکوخواه نکرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتوقیع تو اِعتَصَمت بِالله نکرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز ستمی بر دل تو راه نکرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایزد به غلط تو را شهنشاه نکرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا عصمت ایزدت نکوخواه نکرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "توقیع تو اِعتَصَمت بِالله نکرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز ستمی بر دل تو راه نکرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایزد به غلط تو را شهنشاه نکرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 74582,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/ghodsi/robghm/sh41",
+  "RhymeLetters": "ایحباب",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به تصویر کشیدن حالت حبابی در دریا پرداخته است، که به طرز زیبایی نشان‌دهنده fragility و شکنندگی عشق است. حباب بر روی آب است، اما هیچ کس در این دریا جای حباب را ندارد. شاعر به این نکته اشاره می‌کند که عشق، با هر شکستی، موجب تحول و تغییر می‌شود، همانطور که حباب پس از شکستن به دریا تبدیل می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایحباب",
+      "PlainText": "بر روی محیط است کف پای حباب\r\nنگرفته درین بحر کسی جای حباب\r\nعاشق ز شکستگی همه عشق شود\r\nدریا شده تا شکسته مینای حباب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر روی محیط است کف پای حباب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگرفته درین بحر، کسی جای حباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشق، ز شکستگی، همه عشق شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریا شده، تا شکسته مینای حباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر روی محیط است کف پای حباب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگرفته درین بحر، کسی جای حباب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاشق، ز شکستگی، همه عشق شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریا شده، تا شکسته مینای حباب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

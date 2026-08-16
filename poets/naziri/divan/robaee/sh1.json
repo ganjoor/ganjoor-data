@@ -1,0 +1,58 @@
+{
+  "Id": 123567,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/naziri/divan/robaee/sh1",
+  "RhymeLetters": "ینمبادا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر دلتنگی عمیق عاشق از معشوق است. شاعر از شدت عشق و احساس جدایی، مرگ را به عنوان همدم خود می‌داند و می‌گوید که اگر بدون وجود معشوق نفس بکشد، آنگاه آن نفس برای او زهرآگین خواهد بود. در واقع، شاعر نمی‌تواند تصور کند که بدون معشوق زندگی کند و تنها خواهان وصال اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینمبادا",
+      "PlainText": "در هجر تو مرگ همنشینم بادا\r\nمنظور دو دیده آستینم بادا\r\nگر بی تو به کام دل برآرم نفسی\r\nیارب نفس بازپسینم بادا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هجر تو مرگ همنشینم بادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنظور دو دیده آستینم بادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بی تو به کام دل برآرم نفسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب نفس بازپسینم بادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در هجر تو مرگ همنشینم بادا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منظور دو دیده آستینم بادا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر بی تو به کام دل برآرم نفسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یارب نفس بازپسینم بادا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 34404,
+  "CatId": 804,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "عطار » مختارنامه » باب نهم: در مقام حیرت و سرگشتگی » شمارهٔ ۹",
+  "FullUrl": "/attar/mokhtarname/bb9/sh9",
+  "RhymeLetters": "رد",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این ابیات به وضعیت نامشخص و تناقض‌های زندگی اشاره دارند. گوینده به نبود شفافیت در بزرگ یا کوچک بودن، لذت یا درد حیات اشاره می‌کند. به نوعی، زندگی نه قابل ادامه‌دادن است و نه می‌توان از آن خارج شد، که نشان‌دهنده‌ی احساس سردرگمی و محدودیت در زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "دانی که چهایم نه بزرگیم نه خرد\r\nدانی که چه میخوریم نه صاف نه درد\r\nنه میبتوان ماند نه میبتوان برد\r\nنه میبتوان زیست نه میبتوان مرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی که چهایم نه بزرگیم نه خُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانی که چه میخوریم نه صاف نه دُرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه میبتوان ماند نه میبتوان بُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه میبتوان زیست نه میبتوان مُرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانی که چهایم نه بزرگیم نه خُرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانی که چه میخوریم نه صاف نه دُرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه میبتوان ماند نه میبتوان بُرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه میبتوان زیست نه میبتوان مُرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

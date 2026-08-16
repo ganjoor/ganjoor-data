@@ -1,0 +1,58 @@
+{
+  "Id": 73692,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/zahir/robaeez-zahir/sh100",
+  "RhymeLetters": "وح",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر به زیبایی و لطافت معشوقه‌اش اشاره می‌کند و می‌خواهد که لحظه‌ای از خیال او را در دل خود بگنجاند. اما از خطراتی که ممکن است به خاطر مژه‌های او بر خیال و احساسش بیفتد می‌ترسد و نگران است که این خیال به او آسیب برساند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وح",
+      "PlainText": "ای روی تو از لطافت آیینه روح\r\nخواهم که قدح های خیالت به صبوح\r\nدر دیده کشم ولی ز خار مژه ام\r\nترسم که شود پای خیالم مجروح",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای روی تو از لطافت آیینه روح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهم که قدح های خیالت به صبوح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دیده کشم ولی ز خار مژه ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسم که شود پای خیالم مجروح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای روی تو از لطافت آیینه روح",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواهم که قدح های خیالت به صبوح",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دیده کشم ولی ز خار مژه ام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم که شود پای خیالم مجروح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

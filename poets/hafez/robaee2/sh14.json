@@ -1,0 +1,58 @@
+{
+  "Id": 2064,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱۴",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱۴",
+  "FullUrl": "/hafez/robaee2/sh14",
+  "RhymeLetters": "ازشود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این شعر در وصف بهار و شادی و میخانه و پایکوبی است. شاعر در آن می‌گوید خوشبخت کسی است که در فصل بهار و در کنار زیبایان، غرور و باد خود را کنار گذاشته و در مستی و شوق به پایکوبی و رقص بپردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازشود",
+      "PlainText": "چون غنچه گل قرابه پرداز شود\r\nنرگس به هوای می قدح ساز شود\r\nفارغ دل آن کسی که مانند حباب\r\nهم در سر میخانه سرانداز شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون غنچهٔ گل قرابه‌پرداز شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرگس به هوای می قدح‌ساز شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفارغ دل آن کسی که مانند حباب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم در سر میخانه سرانداز شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون غنچهٔ گل قرابه‌پرداز شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نرگس به هوای می قدح‌ساز شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فارغ دل آن کسی که مانند حباب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم در سر میخانه سرانداز شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

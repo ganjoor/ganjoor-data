@@ -1,0 +1,58 @@
+{
+  "Id": 83083,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۸۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۸۶",
+  "FullUrl": "/hazin/robaee-hz/sh186",
+  "RhymeLetters": "وزیدل",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق و درد ناشی از آن صحبت می‌کند. او بیان می‌کند که از ابتدای روزگار، دل او به خاطر عشق تو دچار غم شده است. وی همچنین اشاره می‌کند که درد ناشی از محبت تو تنها با مراقبت از جان درمان می‌شود و این درد همچنان مانند داغی سوزان در دل او باقی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزیدل",
+      "PlainText": "تا عشق تو گشت از ازل روزی دل\r\nبربست میان را به غم اندوزی دل\r\nدرد تو کند مگر پرستاری جان\r\nداغ تو کند مگر جگرسوزی دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا عشق تو گشت از ازل روزی دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبربست میان را به غم اندوزی دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد تو کند مگر پرستاری جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغ تو کند مگر جگرسوزی دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا عشق تو گشت از ازل روزی دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بربست میان را به غم اندوزی دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درد تو کند مگر پرستاری جان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داغ تو کند مگر جگرسوزی دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

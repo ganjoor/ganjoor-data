@@ -1,0 +1,58 @@
+{
+  "Id": 120781,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۶۵",
+  "FullUrl": "/hamgar/divan/robaee/sh65",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده به ماه نو اشاره دارد و از آن می‌خواهد که برود، زیرا به نظرش دیگر چیزی برای مانده وجود ندارد. او به مدت یک ماه و سی روز اشاره می‌کند که نشان‌دهنده گذر زمان و ناتمامی احساساتش است. در واقع، تصویر عاطفی گوینده درباره گذر زمان و گذر از حالتی ناتمام بیان شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "دی ماه تمام من مه نو می جست\r\nمه جست ز ناتمامی از پیشش چست\r\nگفتم برو ای مه که نمانده ست شکی\r\nیک ماه نو و روزه سی روز درست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی ماه تمام من مه نو می‌جست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمه جست ز ناتمامی از پیشش چست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم برو ای مه که نمانده‌ست شکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ماه نو و روزه سی روز درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی ماه تمام من مه نو می‌جست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مه جست ز ناتمامی از پیشش چست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم برو ای مه که نمانده‌ست شکی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک ماه نو و روزه سی روز درست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

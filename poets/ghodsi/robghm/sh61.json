@@ -1,0 +1,58 @@
+{
+  "Id": 74602,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/ghodsi/robghm/sh61",
+  "RhymeLetters": "ست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر تضاد بین امید و ناامیدی یک قوم هستند. در ابتدا، قومی با امید و آرزو آغاز می‌کنند، اما به تدریج به ناامیدی و سستی در تلاش‌ها دچار می‌شوند. در پایان، به عشق اشاره می‌شود که مردم امید خود را به او سپرده‌اند، تا شاید بتوانند مشکلشان را حل کنند و از سختی‌ها رهایی یابند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "یک قوم امیدوار از روز نخست\r\nقومی شده ناامید از همت سست\r\nای عشق سپرده اند خلقی به تو دل\r\nتا کوزه که را برآید از آب درست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک قوم، امیدوار از روز نخست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقومی شده ناامید از همت سست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عشق، سپرده‌اند خلقی به تو دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کوزه که را برآید از آب، درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک قوم، امیدوار از روز نخست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قومی شده ناامید از همت سست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای عشق، سپرده‌اند خلقی به تو دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا کوزه که را برآید از آب، درست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

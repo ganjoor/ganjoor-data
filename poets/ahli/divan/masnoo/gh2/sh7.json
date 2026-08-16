@@ -1,0 +1,68 @@
+{
+  "Id": 105536,
+  "CatId": 2556,
+  "Title": "بخش ۷ - دایره موتلفه",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » قصاید مصنوع » قصیدهٔ دوم در مدح سلطان یعقوب » بخش ۷ - دایره موتلفه",
+  "FullUrl": "/ahli/divan/masnoo/gh2/sh7",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به تقدیر و ویژگی‌های خاص یک پادشاه اشاره دارد. شاعر بیان می‌کند که فلک (آسمان یا سرنوشت) هیچ‌گاه نمی‌تواند پادشاهی همچون تو را که هم در عین حلیم بودن قهار است، پیدا کند. به بیان دیگر، ویژگی‌های منحصر به فرد و قدرت تو نسبت به زمان و دنیا بی‌نظیر است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "مگو فلک چو تو خود آورد بصد دوران\r\nنیابد او چو تو شاهی حلیم و هم قهار\r\nفلک خود بصد دوران نیابد چو تو شاهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگو فلک چو تو خود آورد بصد دوران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیابد او چو تو شاهی حلیم و هم قهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eفلک خود بصد دوران نیابد چو تو شاهی\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "مگو فلک چو تو خود آورد بصد دوران\r\nنیابد او چو تو شاهی حلیم و هم قهار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگو فلک چو تو خود آورد بصد دوران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیابد او چو تو شاهی حلیم و هم قهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "فلک خود بصد دوران نیابد چو تو شاهی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eفلک خود بصد دوران نیابد چو تو شاهی\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مگو فلک چو تو خود آورد بصد دوران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیابد او چو تو شاهی حلیم و هم قهار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "CenteredVerse1",
+      "Text": "فلک خود بصد دوران نیابد چو تو شاهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    }
+  ]
+}

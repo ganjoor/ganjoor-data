@@ -1,0 +1,58 @@
+{
+  "Id": 69463,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۰۲",
+  "FullUrl": "/azraghi/arob/sh102",
+  "RhymeLetters": "سی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این بیت به احساس درونی بنده‌ای اشاره دارد که از شدت عشق و آرزو به محبوب، تنها می‌تواند ناله کند و فریادش در دلش می‌ماند. این بنده نمی‌تواند از کسی دیگر فریاد کمک بخواهد، چرا که تنها محبوبش می‌تواند صدای او را بشنود و به او یاری رساند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سی",
+      "PlainText": "تا بنده شد از هوا قرین هوسی\r\nجز ناله ز بنده برنیاید نفسی\r\nفریادرسم نیست به غیر از تو کسی\r\nفریاد ز دست چون تو فریادرسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بنده شد از هوا قرین هوسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز ناله ز بنده برنیاید نفسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریادرسَم نیست به غیر از تو کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد ز دست چون تو فریادرسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بنده شد از هوا قرین هوسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز ناله ز بنده برنیاید نفسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریادرسَم نیست به غیر از تو کسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فریاد ز دست چون تو فریادرسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 68922,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/onsori/oro/sh72",
+  "RhymeLetters": "ستی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به زیبایی زلف معشوق اشاره می‌کند و می‌گوید که آن زلف‌ها باعث شکست قلبش شده‌اند. او همچنین از رسالتی که معشوق برایش فرستاده خبر می‌دهد و از او می‌خواهد که دلش را آزاد کند، چون دیگر از پیغام‌ها و باندهای قبلی رها شده است. به‌طور کلی، این شعر حاکی از دلتنگی و عشق عمیق به معشوق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستی",
+      "PlainText": "اندر شکن زلف مرا بشکستی\r\nوندر بندش دل مرا دربستی\r\nگویی که رسول نزد من چفرستی\r\nدل باز فرست کز رسولم رستی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر شکنِ زلف، مرا بشکستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوندر بندش، دلِ مرا دربستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی که: «رسول، نزدِ من چفرستی؟»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل باز فرست کز رسولم رَستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اندر شکنِ زلف، مرا بشکستی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وندر بندش، دلِ مرا دربستی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی که: «رسول، نزدِ من چفرستی؟»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل باز فرست کز رسولم رَستی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

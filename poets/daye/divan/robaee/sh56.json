@@ -1,0 +1,58 @@
+{
+  "Id": 107219,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/daye/divan/robaee/sh56",
+  "RhymeLetters": "مانم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، سخن از عشق و محبت است. شاعر از عشق خود می‌گوید که وقتی به زبان می‌آید، جانش را تسخیر می‌کند. او از معشوق می‌خواهد که با وصالش به او آرامش بخشد. اما معشوق پاسخ می‌دهد که اگر واقعا به وصال او نیاز دارد، باید هیچ مانعی ایجاد نکند و به او اجازه دهد که همیشه در خاطرش بماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مانم",
+      "PlainText": "از عشق مهی چو برلب آمد جانم\r\nگفتم بکنی به وصل خود درمانم\r\nگفتا اگرت وصال ما می باید\r\nرو هیچ ممان تو تا همه من مانم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عشق مهی چو برلب آمد جانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم بکنی به وصل خود درمانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتا اگرت وصال ما می باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو هیچ ممان تو تا همه من مانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عشق مهی چو برلب آمد جانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم بکنی به وصل خود درمانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتا اگرت وصال ما می باید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رو هیچ ممان تو تا همه من مانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

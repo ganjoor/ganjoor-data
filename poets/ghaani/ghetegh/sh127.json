@@ -1,0 +1,58 @@
+{
+  "Id": 45789,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۲۷",
+  "FullUrl": "/ghaani/ghetegh/sh127",
+  "RhymeLetters": "فتی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف اهمیت و روشنایی آفتاب می‌پردازد. او می‌گوید اگر تو مانند ابر تیره مانع تابش آفتاب نشوی و یا در دل شب، چهره آفتاب را نپوشانی، پس نمی‌توانی به‌طور آشکار نشانه‌های تاریکی را نشان دهی. در این صورت، هیچ‌کس به‌طور بیهوده نمی‌تواند از آفتاب ستایش کند. به‌عبارتی، شاعر بر اهمیت نور و روشنی در زندگی تأکید می‌کند و بیان می‌دارد که بدون آن، هیچ چیز درخشانی وجود نخواهد داشت.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتی",
+      "PlainText": "گر نشدی ابر تیره پرده خورشید\r\nیا به شبان آفتاب رخ ننهفتی\r\nمی نشدی آشکار آیت ظلمت\r\nکس به عبث مدح آفتاب نگفتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نشدی ابر تیره پردهٔ خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا به شبان آفتاب رخ ننهفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌نشدی آشکار آیت ظلمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس به عبث مدح آفتاب نگفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر نشدی ابر تیره پردهٔ خورشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا به شبان آفتاب رخ ننهفتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌نشدی آشکار آیت ظلمت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کس به عبث مدح آفتاب نگفتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

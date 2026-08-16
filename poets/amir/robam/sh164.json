@@ -1,0 +1,58 @@
+{
+  "Id": 70207,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۶۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۶۴",
+  "FullUrl": "/amir/robam/sh164",
+  "RhymeLetters": "رداری",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی چهره اشاره دارد و می‌گوید که چرا تا این حد به آینه نگاه می‌کنی و دستت را به سوی آن دراز می‌کنی. شاعر به طرف مقابل می‌گوید که از بس که به آینه نگاه می‌کنی، به نظر می‌رسد که خودت از من زیباتر شده‌ای.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "از بهر جمال چهره همچو پری\r\nدستت به سوی آینه تا چند بری\r\nاز بس  که همی به آینه درنگری\r\nبر چهره خویشتن ز من فتنه تری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بهر جمال چهرهٔ همچو پری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستت به سوی آینه تا چند بری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس‌ که همی به آینه درنگری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر چهرهٔ خویشتن ز من فتنه‌تری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بهر جمال چهرهٔ همچو پری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دستت به سوی آینه تا چند بری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس‌ که همی به آینه درنگری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر چهرهٔ خویشتن ز من فتنه‌تری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

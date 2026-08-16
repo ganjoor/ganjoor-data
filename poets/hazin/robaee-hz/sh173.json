@@ -1,0 +1,58 @@
+{
+  "Id": 83062,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۷۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۷۳",
+  "FullUrl": "/hazin/robaee-hz/sh173",
+  "RhymeLetters": "افیستبکش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها شاعر از صوفی می‌خواهد که باده‌ی صاف بنوشد و از خم، حتی اگر پیاله وجود نداشته باشد، بهره‌برداری کند. او توصیه می‌کند که هر چه ساقی می‌دهد، بگیرد و بنوشد، حتی اگر وعده‌اش خلاف باشد. این اشعار دعوت به لذت‌بردن از زندگی و غفلت از نگرانی‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "افیستبکش",
+      "PlainText": "صوفی برخیز باده صافیست بکش\r\nخم گر نبود پیاله کافیست بکش\r\nبستان و بنوش هر چه ساقی دهدت\r\nدر ساغر اگر وعده خلافیست بکش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی برخیز، باده صافیست بکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخم گر نبود پیاله کافیست، بکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبستان و بنوش هر چه ساقی دهدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ساغر اگر وعده خلافیست، بکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صوفی برخیز، باده صافیست بکش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خم گر نبود پیاله کافیست، بکش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بستان و بنوش هر چه ساقی دهدت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در ساغر اگر وعده خلافیست، بکش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

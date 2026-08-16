@@ -1,0 +1,58 @@
+{
+  "Id": 50272,
+  "CatId": 1813,
+  "Title": "رباعی ۱۷",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » درد زندگی  [۲۵-۱۶] » رباعی ۱۷",
+  "FullUrl": "/khayyam/tarane/tkh2/sh2",
+  "RhymeLetters": "دمی",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که وجود انسان و تجربیاتش تنها بر اساس بد و خوب بودن نیست. شاعر می‌گوید که اگر من به این دنیا آمدم، به خاطر خوب و بد نیست، بلکه وجود من مستقل از این مسایل است. در نهایت، او به این نتیجه می‌رسد که در این دنیای خراب و فانی نه آمدن، نه بودن و نه ترک این دنیا معنایی ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دمی",
+      "PlainText": "گر آمدنم به من بدی نامدمی\r\nور نیز شدن به من بدی کی شدمی\r\nبه زان نبدی که اندر این دیر خراب\r\nنه آمدمی نه شدمی نه بدمی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر آمدنم به من بُدی، نامَدَمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نیز شدن به من بدی، کی شدمی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبِهْ زان نَبُدی که اندر این دیْرِ خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آمدمی، نه شدمی، نه بُدَمی!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر آمدنم به من بُدی، نامَدَمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور نیز شدن به من بدی، کی شدمی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بِهْ زان نَبُدی که اندر این دیْرِ خراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه آمدمی، نه شدمی، نه بُدَمی!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

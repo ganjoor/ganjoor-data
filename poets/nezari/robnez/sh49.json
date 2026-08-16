@@ -1,0 +1,58 @@
+{
+  "Id": 75796,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/nezari/robnez/sh49",
+  "RhymeLetters": "است",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به تأثیرات عمیق عشق اشاره دارد. او می‌گوید که چشمان معشوق به قدری دل او را آزرده کرده‌اند که در خون غرق شده است. در نهایت، شاعر سوال می‌کند که اگر خون دلش ناشی از غمزه‌های معشوق نیست، پس دامن چشمان او که به دل او آسیب می‌زند، آلوده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "چشم تو ز بس که کرد خون از چپ و راست\r\nدر خون چو دلم غرق شد آنک پیداست\r\nگر خون دلم نه غمزه ی شوخ تو ریخت\r\nپس دامن چشم مستت آلوده چراست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم تو ز بس که کرد خون از چپ و راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خون چو دلم غرق شد آنک پیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خون دلم نه غمزه ی شوخ تو ریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس دامن چشم مستت آلوده چراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم تو ز بس که کرد خون از چپ و راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خون چو دلم غرق شد آنک پیداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر خون دلم نه غمزه ی شوخ تو ریخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پس دامن چشم مستت آلوده چراست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

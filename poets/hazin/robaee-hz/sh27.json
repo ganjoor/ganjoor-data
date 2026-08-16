@@ -1,0 +1,58 @@
+{
+  "Id": 82915,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/hazin/robaee-hz/sh27",
+  "RhymeLetters": "وشاناست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر از درد جدایی و فراق خود می‌گوید و بیان می‌کند که دلش در آتش این جدایی می‌سوزد. هوش و حواسش در این وضعیت به هم ریخته است. در جشن و میهمانی محبوبش، شمعی که به او نزدیک است، به نوعی حال او را بیان می‌کند و به عنوان وکیلی برای کسانی که نمی‌توانند صحبت کنند، عمل می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشاناست",
+      "PlainText": "از داغ فراق سینه ام جوشان است\r\nهوش من شوریده ز مدهوشان است\r\nدر بزم تو شمع گوید احوال مرا\r\nاین چرب زبان وکیل خاموشان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز داغ فراق سینه ام جوشان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهوش من شوریده ز مدهوشان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بزم تو، شمع گوید احوال مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین چرب زبان وکیل خاموشان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از داغ فراق سینه ام جوشان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هوش من شوریده ز مدهوشان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بزم تو، شمع گوید احوال مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این چرب زبان وکیل خاموشان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

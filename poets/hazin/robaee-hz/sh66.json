@@ -1,0 +1,58 @@
+{
+  "Id": 82954,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۶۶",
+  "FullUrl": "/hazin/robaee-hz/sh66",
+  "RhymeLetters": "اییزدورفت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از تغییرات فصلی و رفتن روزهای شاد و غمگین صحبت می‌کند. بلبل با نواهایی زیبا از درختان می‌رود و گل با لبخندی به مکانی دیگر می‌رود. همچنین، ابرها با صدای بلند، وداع می‌کنند و می‌روند. احساس گذر زمان و تغییرات طبیعی در این ابیات حس می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییزدورفت",
+      "PlainText": "دوران به نشاط و غم صلایی زد و رفت\r\nبلبل ز سر شاخ نوایی زد و رفت\r\nگل نیز شکرخند به جایی زد و رفت\r\nآمد رگ ابر هایهایی زد و رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوران به نشاط و غم صلایی زد و رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبل ز سر شاخ، نوایی زد و رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل نیز شکرخند به جایی زد و رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمد رگ ابر، هایهایی زد و رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوران به نشاط و غم صلایی زد و رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلبل ز سر شاخ، نوایی زد و رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل نیز شکرخند به جایی زد و رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آمد رگ ابر، هایهایی زد و رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 68172,
+  "CatId": 2021,
+  "Title": "دوبیتی شمارهٔ ۴۲",
+  "FullTitle": "فایز » دوبیتی‌ها » دوبیتی شمارهٔ ۴۲",
+  "FullUrl": "/fayez/dobeytiha/sh42",
+  "RhymeLetters": "یزاد",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به فراموشی و عدم یادآوری اشاره می‌کند. او می‌گوید نه یادش می‌کند و نه می‌گذارد که یادش برود. با یادآوری به یاد دوست زیبایش، عدم توجه او را طبیعی می‌داند و می‌گوید که فراموشی جزء طبیعت انسان‌هاست.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزاد",
+      "PlainText": "نه یادم می کنی نه می روی یاد\r\nبه نیکی باد یادت ای پریزاد\r\nعجب نبود کنی فایز فراموش\r\nفراموشی ست رسم آدمیزاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه یادم می‌کنی نه می‌روی یاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نیکی باد یادت ای پریزاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعجب نبود کنی فایز فراموش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفراموشی‌ست رسم آدمیزاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه یادم می‌کنی نه می‌روی یاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به نیکی باد یادت ای پریزاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عجب نبود کنی فایز فراموش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فراموشی‌ست رسم آدمیزاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

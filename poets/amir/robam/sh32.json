@@ -1,0 +1,58 @@
+{
+  "Id": 70075,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/amir/robam/sh32",
+  "RhymeLetters": "اهیکیاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این اشعار بیان می‌کند که او بر زمانه تسلط دارد، اما قلب و جان او تحت فرمان عشق محبوبش است. او خود را سلطان عشق می‌داند و تمام دنیا را متعلق به محبوبش می‌داند. به عبارت دیگر، همه چیز در زندگی او به عشق وابسته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمناست",
+      "PlainText": "هر چند که بر زمانه فرمان من است\r\nفرمان تو بر تن و دل و جان من است\r\nسلطان منم و عشق تو سلطان من است\r\nمن زان تو ام همه جهان زان من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که بر زمانه فرمان من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرمان تو بر تن و دل و جان من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلطان منم و عشق تو سلطان من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن زان تو ام همه جهان زان من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که بر زمانه فرمان من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فرمان تو بر تن و دل و جان من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سلطان منم و عشق تو سلطان من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من زان تو ام همه جهان زان من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 108040,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۴۰",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۴۰",
+  "FullUrl": "/saeeda/divan/robaee/sh140",
+  "RhymeLetters": "ری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعری از یاری سخن می‌گوید که زیبایی‌اش موجب حسادت حور و پری‌هاست. او گاهی ناز و دلفریبی می‌کند و گاهی با دیگران است. شاعر در مورد حال مسافران می‌گوید که این یار از دنیای خود غافل است و سفر نمی‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "یاری دارم که رشک حور است و پری\r\nگه ناز به خود دارد و گه با دگری\r\nبر حال مسافران کجا پردازد\r\nاز ملک وجود خود نکرده سفری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاری دارم که رشک حور است و پری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه ناز به خود دارد و گه با دگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر حال مسافران کجا پردازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ملک وجود خود نکرده سفری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاری دارم که رشک حور است و پری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه ناز به خود دارد و گه با دگری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر حال مسافران کجا پردازد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از ملک وجود خود نکرده سفری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

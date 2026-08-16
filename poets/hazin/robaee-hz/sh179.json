@@ -1,0 +1,58 @@
+{
+  "Id": 83076,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۷۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۷۹",
+  "FullUrl": "/hazin/robaee-hz/sh179",
+  "RhymeLetters": "اف",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر بیان می‌کند که عشق مانند شمشیری کشیده شده از غلاف، انسان را تسلیم می‌کند و هیچگاه دل او از عشق خسته نمی‌شود. عشق به او قدرت و پایداری می‌بخشد و سایه‌ی سنگین سیمرغ (نماد زیبایی و بلندپروازی) بر قاف (کوهی افسانه‌ای) به او احساس سنگینی نمی‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اف",
+      "PlainText": "چون عشق کشید تیغ هیجا ز غلاف\r\nتسلیم فکند سر که این گوی و مصاف\r\nهرگز دلم از عشق نیامد به ستوه\r\nسنگین نبود سایه سیمرغ به قاف",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عشق کشید تیغ هیجا ز غلاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتسلیم فکند سر، که این گوی و مصاف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز دلم از عشق نیامد به ستوه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنگین نبود سایه سیمرغ به قاف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون عشق کشید تیغ هیجا ز غلاف",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تسلیم فکند سر، که این گوی و مصاف",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز دلم از عشق نیامد به ستوه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سنگین نبود سایه سیمرغ به قاف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

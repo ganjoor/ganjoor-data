@@ -1,0 +1,58 @@
+{
+  "Id": 114010,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۳۷",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۳۷",
+  "FullUrl": "/jahan/divan/robaee/sh137",
+  "RhymeLetters": "جورشود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از غم و اندوه کسی صحبت می‌کند که از وطن و یار خود دور مانده است. او به احساس تنهایی و اسیری در دست دشمنان اشاره می‌کند و توصیف می‌کند که چگونه این فرد بدون پشتیبانی و محبت دیگران، رنجور و خسته شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "جورشود",
+      "PlainText": "بیچاره کسی که از وطن دور شود\r\nاز صحبت یار خویش مهجور شود\r\nتنها و به دست دشمنان گشته اسیر\r\nبی برگ و جگر خسته و رنجور شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیچاره کسی که از وطن دور شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صحبت یار خویش مهجور شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتنها و به دست دشمنان گشته اسیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی برگ و جگر خسته و رنجور شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیچاره کسی که از وطن دور شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از صحبت یار خویش مهجور شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تنها و به دست دشمنان گشته اسیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی برگ و جگر خسته و رنجور شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

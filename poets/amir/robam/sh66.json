@@ -1,0 +1,58 @@
+{
+  "Id": 70109,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۶۶",
+  "FullUrl": "/amir/robam/sh66",
+  "RhymeLetters": "یرتوسزد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به قدرت و تاثیر تیر شاه اشاره می‌کند. هر تیر که شاه می‌اندازد، همانند تیری است که از آسمان فرود می‌آید. همچنین، دشمنان زمانی که از ترس شاه تیر می‌اندازند، مانند تیری از چنبران و اعمال زشت خود پرتاب می‌کنند. به طور کلی، بیت به عظمت و تسلط شاه بر دشمنان و تأثیرگذاری او بر آنها اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندازد",
+      "PlainText": "هر تیر که شاه تیر گیر اندازد\r\nگویی که ز گردون اثیر اندازد\r\nدشمن ز نهیب او چو تیر اندازد\r\nگویی که ز چنبران ا به زیرا اندازد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر تیر که شاه تیر گیر اندازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که ز گردون اثیر اندازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشمن ز نهیب او چو تیر اندازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که ز چنبران ا‌به زیرا اندازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر تیر که شاه تیر گیر اندازد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی که ز گردون اثیر اندازد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دشمن ز نهیب او چو تیر اندازد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی که ز چنبران ا‌به زیرا اندازد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

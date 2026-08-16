@@ -1,0 +1,58 @@
+{
+  "Id": 82977,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/hazin/robaee-hz/sh89",
+  "RhymeLetters": "ارخواهیامد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به عشق و یاد یار اشاره می‌کند و از دلش می‌پرسد که آیا دوباره به یاد او خواهد آمد یا نه. او به احساسات عمیق و غمگینی اشاره دارد که نه نشانی از یار باقی مانده و نه امیدی به بازگشت او وجود دارد. شاعر در تلاش است تا بفهمد دلش چه زمانی به کار خواهد آمد و دردش کم خواهد شد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارخواهیامد",
+      "PlainText": "گفتم که به یاد یار خواهی آمد\r\nیا خون شده در کنار خواهی آمد\r\nنه زان اثری نه زین نشان نظری\r\nای دل توکجا به کار خواهی آمد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که به یاد یار خواهی آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا خون شده در کنار خواهی آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه زان اثری نه زین نشانِ نظری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دل، توکجا به کار خواهی آمد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که به یاد یار خواهی آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا خون شده در کنار خواهی آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه زان اثری نه زین نشانِ نظری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای دل، توکجا به کار خواهی آمد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

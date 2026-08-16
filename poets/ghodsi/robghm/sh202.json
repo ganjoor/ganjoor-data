@@ -1,0 +1,58 @@
+{
+  "Id": 74743,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۲۰۲",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۲۰۲",
+  "FullUrl": "/ghodsi/robghm/sh202",
+  "RhymeLetters": "ادارد",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به این معناست که کسی که به آسمان و مقام بلند نظر دارد، نمی‌تواند به زمین و تعلقات دنیایی محدود باشد. اگر این شخص به چیزهای پایین‌تر و مادّی وابسته شود، شعله وجودش به سمت بلندی و کمال خواهد رفت و نمی‌تواند در این قید باقی بماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادارد",
+      "PlainText": "آن کس که وطن به چرخ اعلا دارد\r\nاز قید تعلق به زمین جا دارد\r\nپیوند رساندش به پستی ور نه\r\nخود شعله شمع میل بالا دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که وطن به چرخ اعلا دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قید تعلق، به زمین جا دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوند رساندش به پستی، ور نه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود شعله شمع میل بالا دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که وطن به چرخ اعلا دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از قید تعلق، به زمین جا دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیوند رساندش به پستی، ور نه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود شعله شمع میل بالا دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

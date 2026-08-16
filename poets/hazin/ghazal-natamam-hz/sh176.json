@@ -1,0 +1,58 @@
+{
+  "Id": 83337,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۷۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۷۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh176",
+  "RhymeLetters": "تشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این چهار خط شعر بیانگر درد و رنج عاشقانه‌ای است. شاعر از سوز و آتشی در دلش سخن می‌گوید که هیچ کس نمی‌تواند آن را درمان کند. او از بی‌قراری و صبر ناتوانش می‌نالد و به حسرت جانش اشاره می‌کند. در نهایت، به بی‌وفایی و شکستن عهد از سوی محبوبه‌اش نیز اشاره می‌کند و می‌پرسد که در برابر این همه سختی و ناامیدی، زمانه چه کاری می‌تواند انجام دهد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اچهکند",
+      "PlainText": "سپند آتش خویشم کسی دوا چه کند\r\nبه بی قراری من صبر بی نوا چه کند\r\nحزین سوخته دل می دهد به حسرت جان\r\nزمانه عهد شکن یار بی وفا چه کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپند آتش خویشم، کسی دوا چه کند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بی قراری من صبر بی نوا چه کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحزین سوخته دل، می دهد به حسرت جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمانه عهد شکن، یار بی وفا چه کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سپند آتش خویشم، کسی دوا چه کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به بی قراری من صبر بی نوا چه کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حزین سوخته دل، می دهد به حسرت جان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زمانه عهد شکن، یار بی وفا چه کند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

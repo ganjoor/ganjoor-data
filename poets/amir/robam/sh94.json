@@ -1,0 +1,58 @@
+{
+  "Id": 70137,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/amir/robam/sh94",
+  "RhymeLetters": "اید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت از شعر به تصویر کشیدن عظمت و قدرنشناسی زیبایی‌های دجله است. شاعر به این نکته اشاره می‌کند که حتی اگر دجله به تنهایی زیبا و بزرگ باشد، اما در برابر عشق و دل‌بستگی به معشوق، آن زیبایی‌ها به یک قطره هم نمی‌ارزد. در واقع، مهم‌تر از زیبایی‌های طبیعی، احساسات و ارتباطات انسانی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اید",
+      "PlainText": "دجله ملکا زمان زمان بفزاید\r\nتا با تو به جود اخویش ا پهلو ساید\r\nچون دجله هزار اگر تو را پیش آید\r\nدر جنب دل تو قطره ای ننماید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدجله ملکا زمان زمان بفزاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا با تو به جود اخویش‌ا پهلو ساید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دجله هزار اگر تو را پیش آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جنب دل تو قطره‌ای ننماید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دجله ملکا زمان زمان بفزاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا با تو به جود اخویش‌ا پهلو ساید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون دجله هزار اگر تو را پیش آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جنب دل تو قطره‌ای ننماید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

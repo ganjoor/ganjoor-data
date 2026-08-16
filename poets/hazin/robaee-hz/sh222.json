@@ -1,0 +1,58 @@
+{
+  "Id": 83119,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲۲",
+  "FullUrl": "/hazin/robaee-hz/sh222",
+  "RhymeLetters": "ین",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که اگر صوفی به دنبال کشف و یقین است، باید از حرف‌های درونی خود بگذرد و به حقیقت گوش دهد. همچنین بیان می‌کند که نشستن و فقط در مراقبه و چله‌نشینی نمی‌تواند به نتیجه درستی منجر شود و در واقع، فردی که تنها در چله‌نشینی می‌گذرانَد، نتیجه‌ای بدون کج‌روی و خطا نخواهد داشت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "صوفی اگرت هوای کشف است و یقین\r\nبگذار حدیث نفس و بشنو ز حزین\r\nاز چله نشینی نشود کاری راست\r\nپیوسته کمان کج بود چله نشین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی، اگرت هوای کشف است و یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذار حدیث نفس و بشنو ز حزین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چلّه نشینی نشود کاری راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیوسته کمانِ کج بود چلّه نشین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صوفی، اگرت هوای کشف است و یقین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگذار حدیث نفس و بشنو ز حزین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از چلّه نشینی نشود کاری راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیوسته کمانِ کج بود چلّه نشین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

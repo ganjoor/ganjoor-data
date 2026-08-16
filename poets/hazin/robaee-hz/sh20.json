@@ -1,0 +1,58 @@
+{
+  "Id": 82908,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/hazin/robaee-hz/sh20",
+  "RhymeLetters": "ازیهست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به مفهوم ارتباطات عاطفی و رازهای دل اشاره دارند. در اینجا به \u0022ناوک\u0022 (پیکان عشق) که از چشم به چشم منتقل می‌شود، اشاره شده و نشان می‌دهد که احساسات بین مردم به سادگی منتقل می‌شود. همچنین به وجود رازی در دل هر فرد اشاره دارد که از یک سینه به سینه دیگر منتقل می‌شود. در نهایت، شاعر اعتراف می‌کند که انسان‌ها در کارگاه عشق نقش‌های مختلفی دارند و همگی کارپردازان احساسات و روابط انسانی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازیهست",
+      "PlainText": "از دیده به دیده ناوک اندازی هست\r\nاز سینه به سینه قاصد رازی هست\r\nخوانده ام رقم دفتر دلها این بود\r\nما کارگهیم کارپردازی هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دیده به دیده، ناوک اندازی هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سینه به سینه، قاصد رازی هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوانده ام رقم دفتر دلها، این بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما کارگهیم، کارپردازی هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دیده به دیده، ناوک اندازی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از سینه به سینه، قاصد رازی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوانده ام رقم دفتر دلها، این بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما کارگهیم، کارپردازی هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

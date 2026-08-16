@@ -1,0 +1,58 @@
+{
+  "Id": 70082,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۳۹",
+  "FullUrl": "/amir/robam/sh39",
+  "RhymeLetters": "اننیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر اهمیت و ارزش عشق و ارتباط میان دو نفر است. شاعر به این نکته اشاره دارد که نعمتی که خداوند (دولت) به او داده است و همچنین دل و احساساتی که به معشوقش هدیه داده، هیچ‌گاه از بین نمی‌رود. او می‌گوید که هر چیزی که در این راه از دست برود، باطل نیست و بدون عشق و احساسات، هیچ‌کس نمی‌تواند به خواسته‌هایش برسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لنیست",
+      "PlainText": "دولت  که تو را داد به من زایل نیست\r\nوین دل که مرا داد به تو غافل نیست\r\nاز دولت و دل هر چه رود باطل نیست\r\nبی دولت و دل مراد کس حاصل نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت ‌که تو را داد به من زایل نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین دل‌که مرا داد به تو غافل نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دولت و دل هر چه رود باطل نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌دولت و دل مراد کس حاصل نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دولت ‌که تو را داد به من زایل نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین دل‌که مرا داد به تو غافل نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دولت و دل هر چه رود باطل نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌دولت و دل مراد کس حاصل نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

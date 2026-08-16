@@ -1,0 +1,58 @@
+{
+  "Id": 97270,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/emami/divan/robaee/sh11",
+  "RhymeLetters": "ر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به شدت دلبسته و شیفته محبوب خود است. او می‌گوید که با نبود محبوب، حالش بد و دردناک است و حتی دریا از خون دلش پر می‌شود. او به آرزوهایش اشاره می‌کند که چقدر برای دیدن محبوبش صبر می‌کند، به طوری که در انتهای شعر به امید رسیدن محبوب به فرد دیگری اشاره می‌کند که بر او تکیه می‌کند. این احساسات نشان‌دهنده عشق عمیق و درد جدایی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "بی روی تو ای شیفته از روی تو خور\r\nدریا گردد کنارم از خون جگر\r\nدر آرزویت چو مویت اندر تابم\r\nتا بر دگری تافتی ای نور بصر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی روی تو، ای شیفته از روی تو خور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریا گردد، کنارم از خون جگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آرزویت، چو مویت اندر تابم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بر دگری تافتی ای نور بصر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی روی تو، ای شیفته از روی تو خور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریا گردد، کنارم از خون جگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آرزویت، چو مویت اندر تابم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بر دگری تافتی ای نور بصر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70146,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۰۳",
+  "FullUrl": "/amir/robam/sh103",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شخصی مدتی به سفر رفته و حالا با پیروزی به خانه بازگشته است. این سفر او به قدری خاص و مهم بوده که نه تنها چهره‌ی سرزمین را روشن کرده، بلکه باعث سربلندی و افتخار نیز شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "ای رفته ز خانه مدتی سوی سفر\r\nباز آمده سوی خانه با فتح و ظفر\r\nهرگز سفری چنین  که کردست دگر\r\nافروخته روی ملک و افراخته سر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رفته ز خانه مدتی سوی سفر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز آمده سوی خانه با فتح و ظفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز سفری چنین‌ که کردست دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافروخته روی ملک و افراخته سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای رفته ز خانه مدتی سوی سفر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باز آمده سوی خانه با فتح و ظفر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز سفری چنین‌ که کردست دگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افروخته روی ملک و افراخته سر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

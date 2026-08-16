@@ -1,0 +1,58 @@
+{
+  "Id": 73611,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/zahir/robaeez-zahir/sh19",
+  "RhymeLetters": "اهیست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات به خوشدلی و زیبایی‌های طبیعت اشاره شده است. کسی که دلش با خوشدلی سر و کار دارد، در مکان‌هایی خوشایند می‌تواند به تماشا بپردازد. نیز به سبزه و گل اشاره می‌شود که در سایه همدیگر، جلوه‌های زیبایی را به نمایش می‌گذارند و این تماشا همواره دلپذیر و خوشایند است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیست",
+      "PlainText": "در پرده خوشدلی کسی را راهی ست\r\nکو را سروکار با چو تو دلخواهی ست\r\nآن سبزه تر دمیده در سایه گل\r\nانصاف بده که خوش تماشا گاهی ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پرده خوشدلی کسی را راهی ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو را سروکار با چو تو دلخواهی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن سبزه تر دمیده در سایه گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانصاف بده که خوش تماشا گاهی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در پرده خوشدلی کسی را راهی ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کو را سروکار با چو تو دلخواهی ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن سبزه تر دمیده در سایه گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "انصاف بده که خوش تماشا گاهی ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

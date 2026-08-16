@@ -1,0 +1,58 @@
+{
+  "Id": 51749,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/bahar/robaeebk/sh26",
+  "RhymeLetters": "اکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر از عشق و درد و سیه‌بختی خود سخن می‌گوید. او به معشوق اشاره می‌کند که نگاهش به درد و رنج او تأثیر گذاشته و زلف معشوق همچون دلیلی بر قتل او عمل کرده است. شاعر نیز به نشانه خون و غم خود نامه‌ای نوشته که با خال سیاه معشوق تأیید شده است. این اشعار نشان‌دهنده یاس و عشق دردناک هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکرد",
+      "PlainText": "چشمت به سیه بختی من ایما کرد\r\nزلف تو به قتلم آستین بالا کرد\r\nبنوشت خطت به خون من لایحه ای\r\nخال سیهت لایحه را امضا کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت به سیه‌بختی من ایما کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلف تو به قتلم آستین بالا کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنوشت خطت به خون من لایحه‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخال سیهت لایحه را امضا کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشمت به سیه‌بختی من ایما کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلف تو به قتلم آستین بالا کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنوشت خطت به خون من لایحه‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خال سیهت لایحه را امضا کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 97073,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/faghani/divan/robaee/sh1",
+  "RhymeLetters": "انینشوی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به معنای آن است که تا زمانی که وابسته به چیزهای مادی و فانی باشی، نمی‌توانی به زیبایی و جاودانگی دست یابی. همچنین در تلاش برای دوری از دوگانگی و اختلاف باش، زیرا ممکن است در مرحله‌ای از وفا به خداوند، از دیدن حقیقت و جمال الهی محروم شوی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انینشوی",
+      "PlainText": "تا از صفت وجود فانی نشوی\r\nباقی بجمال جاودانی نشوی\r\nدر دفع دویی کوش که در طور وفا\r\nمحجوب جواب لن ترانی نشوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا از صفت وجود فانی نشوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباقی بجمال جاودانی نشوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دفع دویی کوش که در طور وفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحجوب جواب لن ترانی نشوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا از صفت وجود فانی نشوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باقی بجمال جاودانی نشوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دفع دویی کوش که در طور وفا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "محجوب جواب لن ترانی نشوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

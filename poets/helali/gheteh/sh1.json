@@ -1,0 +1,72 @@
+{
+  "Id": 45334,
+  "CatId": 1713,
+  "Title": "قطعهٔ شمارهٔ ۱",
+  "FullTitle": "هلالی جغتایی » قطعات » قطعهٔ شمارهٔ ۱",
+  "FullUrl": "/helali/gheteh/sh1",
+  "RhymeLetters": "فماست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر بیان می‌کند که نباید خود را به عنوان شخصی خاص و بی‌نظیر تصور کنیم. او حلقه فیروزه‌ای را به عنوان نمادی از وجود خود در نظر می‌گیرد و می‌گوید که ما به هیچ فردی وابسته نیستیم و هرگونه خواری که به ما می‌رسد، نشان‌دهنده‌ی شرف ماست. همچنین، شاعر تأکید می‌کند که به خوبی یا بدی دیگران اهمیتی نمی‌دهیم و هر آنچه که در رفتار ما دیده می‌شود، نتیجه‌ی خود ماست.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فماست",
+      "PlainText": "ای خواجه مپندار که ما گوهر فردیم\r\nوین حلقه فیروزه گردون صدف ماست\r\nما هیچ کسانیم که بر ما ز همه کس\r\nخواری رسد و آن به حقیقت شرف ماست\r\nاز نیک و بد مردم ایام ننالیم\r\nایشان همه نیکند و بدی از طرف ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه مپندار که ما گوهر فردیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین حلقهٔ فیروزهٔ گردون صدف ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما هیچ‌کسانیم، که بر ما ز همه کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواری رسد و آن به حقیقت شرف ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نیک و بد مردم ایام ننالیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایشان همه نیکند و بدی از طرف ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه مپندار که ما گوهر فردیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین حلقهٔ فیروزهٔ گردون صدف ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما هیچ‌کسانیم، که بر ما ز همه کس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خواری رسد و آن به حقیقت شرف ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از نیک و بد مردم ایام ننالیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ایشان همه نیکند و بدی از طرف ماست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

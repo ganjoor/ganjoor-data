@@ -1,0 +1,58 @@
+{
+  "Id": 30645,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۱۸۷",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۱۸۷",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1187",
+  "RhymeLetters": "ادم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به شادی و خوشحالی خود اشاره می‌کند که ناشی از عشق و وصال یار است. او احساس می‌کند که شب و روزش در عشق تفاوت پیدا کرده و از این رحمت عشق، فراتر از زمانی که در آن قرار دارد، رهایی یافته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادم",
+      "PlainText": "بیگاه شد وز بیگهی من شادم\r\nامشب قنق است یار فرخ زادم\r\nروز و شب دیگر است در عشق مرا\r\nمن زین شب و زین روز برون افتادم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیگاه شد وز بیگهی من شادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامشب قنق است یار فرخ‌زادم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز و شب دیگر است در عشق مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن زین شب و زین روز برون افتادم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیگاه شد وز بیگهی من شادم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امشب قنق است یار فرخ‌زادم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روز و شب دیگر است در عشق مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من زین شب و زین روز برون افتادم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

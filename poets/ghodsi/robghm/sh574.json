@@ -1,0 +1,58 @@
+{
+  "Id": 75115,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۵۷۴",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۵۷۴",
+  "FullUrl": "/ghodsi/robghm/sh574",
+  "RhymeLetters": "انهنهای",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به پرسش‌هایی از دوست و خود اشاره دارد. شاعر از دوستش می‌پرسد که چرا در دلش دیوانه نیست و چرا خود را بیگانه می‌خواند، در حالی که واقعاً بیگانه نیست. او از دوست می‌خواهد که خود دلیل راه باشد تا او بتواند او را بیابد. در نهایت، شاعر به احساس وابستگی و نزدیکی به دوست اشاره می‌کند و می‌گوید که خانه‌ای که در آن است، به خاطر وجود او ارزشمند است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهنهای",
+      "PlainText": "ای دوست چرا در دل دیوانه نه ای\r\nبیگانه چه خوانمت که بیگانه نه ای\r\nخود باش دلیل ره که چونت یابم\r\nاین خانه پرست از تو و در خانه نه ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست چرا در دل دیوانه نه ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیگانه چه خوانمت، که بیگانه نه ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود باش دلیل ره که چونت یابم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین خانه پُرست از تو و در خانه نه ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست چرا در دل دیوانه نه ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیگانه چه خوانمت، که بیگانه نه ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود باش دلیل ره که چونت یابم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این خانه پُرست از تو و در خانه نه ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

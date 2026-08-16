@@ -1,0 +1,58 @@
+{
+  "Id": 103115,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/jooya/divan/robaee/sh61",
+  "RhymeLetters": "ارینبود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این موضوع اشاره دارند که زخم و درد یار هیچ منفعتی ندارد و تنها امید به زندگی و لذت از آن باقی می‌ماند. همچنین بیان می‌کند که در برابر چالش‌ها و سختی‌ها، مانند زخم و مبارزه، انسان باید پایدار و مقاوم باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارینبود",
+      "PlainText": "خوب است که زخم یار کاری نبود\r\nجز لذت درد امیدواری نبود\r\nشمشیر توام کرد به یک زخم شهید\r\nبا دولت تیز پایداری نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوب است که زخم یار کاری نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز لذت درد امیدواری نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمشیر توام کرد به یک زخم شهید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دولت تیز پایداری نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوب است که زخم یار کاری نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز لذت درد امیدواری نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمشیر توام کرد به یک زخم شهید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با دولت تیز پایداری نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

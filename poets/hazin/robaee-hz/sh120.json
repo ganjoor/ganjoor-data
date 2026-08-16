@@ -1,0 +1,58 @@
+{
+  "Id": 83008,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۲۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۲۰",
+  "FullUrl": "/hazin/robaee-hz/sh120",
+  "RhymeLetters": "ارنهاد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی طبیعت در بهار اشاره دارد و به حضور ابرها و گل‌ها در گلزار می‌پردازد. همچنین، به زاهد (زاهدان) تأکید می‌کند که برای رهایی از گناه و توبه، باید بار سنگینی را که بر دوش دارد، رها کند. در واقع، شاعر بر این نکته تأکید می‌کند که توبه واقعی نیاز به قدم‌هایی عملی و صمیمانه دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارنهاد",
+      "PlainText": "ابر آمد و سینه را به کهسار نهاد\r\nگلگون بهار پا به گلزار نهاد\r\nیکبار بکش رطل گرانی زاهد\r\nاز توبه نمی توان به دل بار نهاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابر آمد و سینه را به کهسار نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلگون بهار، پا به گلزار نهاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکبار بکش رطل گرانی، زاهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز توبه نمی توان به دل، بار نهاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابر آمد و سینه را به کهسار نهاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلگون بهار، پا به گلزار نهاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکبار بکش رطل گرانی، زاهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از توبه نمی توان به دل، بار نهاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

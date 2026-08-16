@@ -1,0 +1,58 @@
+{
+  "Id": 48826,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۰۷",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰۷",
+  "FullUrl": "/orfi/robaeeor/sh107",
+  "RhymeLetters": "یزد",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر به مفهوم تحمل درد و مشکلات اشاره دارد. شاعر می‌گوید که اگر مشکلی به دلش آسیب نرساند، از هر کجا خشم یا تجربه‌های دردناک بروز می‌کند. همچنین اشاره می‌کند که اگر شیشه‌ای نشکند، در نهایت خود به خود می‌ریزد و به نوعی به ناپایداری و شکنندگی زندگی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزد",
+      "PlainText": "گر سنگ ملامت به دلم نستیزد\r\nاز هر سر مو چشمه آز انگیزد\r\nریزد می از آن سیه که بشکست ولی\r\nگر نشکند این شیشه می اش می ریزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر سنگ ملامت به دلم نستیزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هر سر مو چشمهٔ آز انگیزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eریزد می از آن سیه که بشکست ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نشکند این شیشه می اش می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر سنگ ملامت به دلم نستیزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از هر سر مو چشمهٔ آز انگیزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ریزد می از آن سیه که بشکست ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر نشکند این شیشه می اش می ریزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

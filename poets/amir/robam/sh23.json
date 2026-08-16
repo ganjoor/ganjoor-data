@@ -1,0 +1,58 @@
+{
+  "Id": 70066,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/amir/robam/sh23",
+  "RhymeLetters": "است",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به تضاد بین نور و سوختن اشاره می‌کند. او می‌گوید اگر ماه (نور) و شمع (روشنی) متعلق به او هستند، پس چرا دچار سوزش و کاهش می‌شود؟ اگر شمع اوست، چرا باید بسوزد و اگر ماه اوست، چرا باید کمرنگ شود؟ این اشعار نمایانگر نارضایتی و پرسشی عمیق دربارهٔ عشق و تعاملات عاطفی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "گر نور مه و روشنی شمع توراست\r\nپس سوزش وکاهش من از بهر چراست\r\nگر شمع تویی مرا چرا باید سوخت\r\nور ماه تویی مرا چرا باید کاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نور مه و روشنی شمع توراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس سوزش وکاهش من از بهر چراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر شمع تویی مرا چرا باید سوخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور ماه تویی مرا چرا باید کاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر نور مه و روشنی شمع توراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پس سوزش وکاهش من از بهر چراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر شمع تویی مرا چرا باید سوخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور ماه تویی مرا چرا باید کاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

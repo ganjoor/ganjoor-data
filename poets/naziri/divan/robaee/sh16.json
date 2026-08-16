@@ -1,0 +1,58 @@
+{
+  "Id": 123582,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/naziri/divan/robaee/sh16",
+  "RhymeLetters": "یابترست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات عمیق و ناامیدی اشاره دارد. شاعر هر شب بی‌خواب است و در هر روز به شوقی نایاب دچار می‌شود. او از عشقی سخن می‌گوید که مانند چشمه‌ای بی‌آب، همیشه در جستجوی آن است و احساس تشنگی شدیدی دارد. به طور کلی، این اشعار بیانگر longing و حسرت برای چیزی است که دست‌یابی به آن دشوار به نظر می‌رسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یابترست",
+      "PlainText": "هرشب ز خیال دیده بی خواب ترست\r\nهر روز به سینه ذوق نایاب ترست\r\nزو دست که لب تشنه ببازم جان را\r\nزین چشمه که هر صباح بی آب ترست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرشب ز خیال دیده بی خواب ترست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر روز به سینه ذوق نایاب ترست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزو دست که لب تشنه ببازم جان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین چشمه که هر صباح بی آب ترست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرشب ز خیال دیده بی خواب ترست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر روز به سینه ذوق نایاب ترست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زو دست که لب تشنه ببازم جان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین چشمه که هر صباح بی آب ترست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

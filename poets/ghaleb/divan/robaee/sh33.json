@@ -1,0 +1,58 @@
+{
+  "Id": 106204,
+  "CatId": 2573,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "غالب دهلوی » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/ghaleb/divan/robaee/sh33",
+  "RhymeLetters": "انتوباد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر در مورد شادی و زیبایی زندگی است. شاعر به محبوب خود تبریک می‌گوید و می‌خواهد که هر رنگ و زیبایی از گل‌ها به او هدیه شود. همچنین، بهار و عید را نماد خوشی و خرمی می‌داند و جان خود را به خاطر محبوبش قربانی می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انتوباد",
+      "PlainText": "سر تا سر دهر عشرتستان تو باد\r\nصد رنگ گل طرب به دامان تو باد\r\nعید است و بهار خرمی ها دارد\r\nجان من و صد چو من به قربان تو باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر تا سر دهر عشرتستان تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد رنگ گل طرب به دامان تو باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید است و بهار خرمی ها دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان من و صد چو من به قربان تو باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سر تا سر دهر عشرتستان تو باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد رنگ گل طرب به دامان تو باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عید است و بهار خرمی ها دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان من و صد چو من به قربان تو باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

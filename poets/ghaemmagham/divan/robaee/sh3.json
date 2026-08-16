@@ -1,0 +1,58 @@
+{
+  "Id": 89816,
+  "CatId": 2364,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "قائم مقام فراهانی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/ghaemmagham/divan/robaee/sh3",
+  "RhymeLetters": "طاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به منشی دیوان خطاب می‌کند و از خط و لغات او انتقاد می‌کند. او می‌گوید این کلمات، مانند سنگ و زباله بی‌معنا هستند. همچنین اشاره می‌کند که اگر ناصح درباره کیش او نظر غلطی بدهد، به اشتباه است که او را متهم به غلط نوشتن کنند. به نوعی، شاعر انتقاد از ناتوانی در فهم و تفسیر کلمات را مطرح می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "طاست",
+      "PlainText": "ای منشی دیوان عزیز این چه خط است\r\nوین لفظ که جمله هم چو سنگ و سقط است\r\nناصح چو به کیش تو سزای سخط است\r\nبالله که غلط بر تو گرفتن غلط است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای منشی دیوان عزیز این چه خط است؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین لفظ که جمله هم چو سنگ و سقط است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناصح چو به کیش تو سزای سخط است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالله که غلط بر تو گرفتن غلط است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای منشی دیوان عزیز این چه خط است؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین لفظ که جمله هم چو سنگ و سقط است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناصح چو به کیش تو سزای سخط است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بالله که غلط بر تو گرفتن غلط است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

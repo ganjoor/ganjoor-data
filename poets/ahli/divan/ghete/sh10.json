@@ -1,0 +1,78 @@
+{
+  "Id": 104647,
+  "CatId": 2548,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » قطعات » شمارهٔ ۱۰",
+  "FullUrl": "/ahli/divan/ghete/sh10",
+  "RhymeLetters": "اریکاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از درد و غم‌هایش می‌گوید و ابراز می‌کند که زمانه‌اش او را به سوزانده و چشمش به دلیل این اندوه، دیده‌ای تاریک و غمگین دارد. او اشاره می‌کند که آتش اشک و آه او می‌تواند جهانی را روشن کند، اما از آنجا که خود او در تاریکی به سر می‌برد، این روشنی فایده‌ای ندارد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغتاریکاست",
+      "PlainText": "مرا زمانه بسوزد بداغ غم تا چند\r\nکه چشم روشنم از دود داغ تاریک است\r\nچراغ آه تو اهلی جهان کند روشن\r\nولی چه سود که پای چراغ تاریک است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا زمانه بسوزد بداغ غم تا چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چشم روشنم از دود داغ تاریک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچراغ آه تو اهلی جهان کند روشن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی چه سود که پای چراغ تاریک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "کهچشمروشنمازدودداغتاریکاست",
+      "PlainText": "مرا زمانه بسوزد بداغ غم تا چند\r\nکه چشم روشنم از دود داغ تاریک است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا زمانه بسوزد بداغ غم تا چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چشم روشنم از دود داغ تاریک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ولیچهسودکهپایچراغتاریکاست",
+      "PlainText": "چراغ آه تو اهلی جهان کند روشن\r\nولی چه سود که پای چراغ تاریک است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچراغ آه تو اهلی جهان کند روشن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی چه سود که پای چراغ تاریک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا زمانه بسوزد بداغ غم تا چند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که چشم روشنم از دود داغ تاریک است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چراغ آه تو اهلی جهان کند روشن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولی چه سود که پای چراغ تاریک است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    }
+  ]
+}

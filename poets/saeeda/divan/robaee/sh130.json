@@ -1,0 +1,58 @@
+{
+  "Id": 108030,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۳۰",
+  "FullUrl": "/saeeda/divan/robaee/sh130",
+  "RhymeLetters": "رشو",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از شیخی می‌خواهد که تنها به رهبری و مقام اکتفا نکند و همچون کاغذی که در باد در حرکت است، دچار بی‌ثباتی نشود. او تأکید می‌کند که رفتن بر روی آب و شتاب‌زده بودن از بی‌فکری ناشی می‌شود و بهتر است در دریای یقین غوطه‌ور شود و خود را به گوهر و حقیقتی عمیق‌تر برساند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رشو",
+      "PlainText": "ای شیخ کرامت منما رهبر شو\r\nنی چون کاغذ ز باد بالاپر شو\r\nچون خس بر آب رفتن از بی مغزی است\r\nدر بحر یقین غوطه خور و گوهر شو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شیخ کرامت منما رهبر شو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی چون کاغذ ز باد بالاپر شو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خس بر آب رفتن از بی مغزی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بحر یقین غوطه خور و گوهر شو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شیخ کرامت منما رهبر شو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی چون کاغذ ز باد بالاپر شو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون خس بر آب رفتن از بی مغزی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در بحر یقین غوطه خور و گوهر شو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

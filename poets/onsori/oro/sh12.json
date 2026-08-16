@@ -1,0 +1,58 @@
+{
+  "Id": 68862,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/onsori/oro/sh12",
+  "RhymeLetters": "اید",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: معشوقه خانگی برای عشق درونی مناسب نیست، زیرا دل را می‌برد اما خود را نشان نمی‌دهد. معشوقه‌ای باید باشد که خراباتی و اهل موسیقی باشد، تا در نیمه شب بیاید و با محبتش دل را شاد کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اید",
+      "PlainText": "معشوقه خانگی به کاری ناید\r\nکاو دل ببرد رخ به کسی ننماید\r\nمعشوقه خراباتی و مطرب باید\r\nتا نیم شبان آید و کوبان آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعشوقهٔ خانگی به کاری ناید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاو دل ببَرَد رخ به کسی ننماید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعشوقه خراباتی و مطرب باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نیم‌شبان آید و کوبان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "معشوقهٔ خانگی به کاری ناید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاو دل ببَرَد رخ به کسی ننماید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معشوقه خراباتی و مطرب باید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا نیم‌شبان آید و کوبان آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

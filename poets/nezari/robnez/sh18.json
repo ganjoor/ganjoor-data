@@ -1,0 +1,58 @@
+{
+  "Id": 75765,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/nezari/robnez/sh18",
+  "RhymeLetters": "انهماست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر از حالت بی‌خود بودن خود سخن می‌گوید و از عشق و شوریدگی در جستجوی معشوقه‌اش (لیلی) یاد می‌کند. او خود را مجنون نامیده و بیان می‌کند که عقل و دین در این عشق دیوانگی بدل شده‌اند. به همین دلیل، او وابستگی و اتحاد خود با معشوق را در فریادهایش حس می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهماست",
+      "PlainText": "بی خویشتنم و دیش یگانه ماست\r\nفریاد ز دست آنک هم خانه ماست\r\nمن مجنونم در طلب و او لیلی\r\nپس عقل و دین رتبه دیوانه ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌خویشتنم و دیش یگانهٔ ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد ز دست آنک هم‌خانهٔ ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن مجنونم در طلب و او لیلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس عقل و دین رتبه دیوانهٔ ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌خویشتنم و دیش یگانهٔ ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فریاد ز دست آنک هم‌خانهٔ ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من مجنونم در طلب و او لیلی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پس عقل و دین رتبه دیوانهٔ ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

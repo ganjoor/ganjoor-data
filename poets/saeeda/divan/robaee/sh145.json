@@ -1,0 +1,58 @@
+{
+  "Id": 108045,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۴۵",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۴۵",
+  "FullUrl": "/saeeda/divan/robaee/sh145",
+  "RhymeLetters": "وی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده به آیینه نگاه می‌کند و با آن صحبت می‌کند. آیینه به او می‌گوید که تمام عیب‌های او را یکی یکی نشان می‌دهد. گوینده از آیینه می‌پرسد چرا عیب‌های دیگران را می‌گوید، که آیینه پاسخ می‌دهد این‌ها عیب نیستند، بلکه واقعیت‌هایی هستند که باید برملا شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وی",
+      "PlainText": "با آیینه دمی شدم روی به روی\r\nگفتا همه عیب من به من موی به موی\r\nگفتم که چرا عیب کسان می گویی\r\nگفتا که نه عیب است که گویم بر روی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا آیینه دمی شدم روی به روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا همه عیب من به من موی به موی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که چرا عیب کسان می گویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا که نه عیب است که گویم بر روی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با آیینه دمی شدم روی به روی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا همه عیب من به من موی به موی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که چرا عیب کسان می گویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتا که نه عیب است که گویم بر روی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "Id": 76931,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۱۷",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۱۷",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh17",
+  "RhymeLetters": "یادرود",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: شاعر می‌گوید هیچ‌کس نمی‌تواند از زندگی خوشحال باشد مگر اینکه گرفتار غم و اندوه شود. او متوجه شده که وقتی آدمی دچار غم می‌شود، این درد و رنج به نسل بعدی نیز منتقل می‌شود.",
+  "Sections": [
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ندشود",
+      "PlainText": "کس نیست که از زمانه خرسند شود\r\nجز اینکه به دام غصه دربند شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس نیست که از زمانه خرسند شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز اینکه به دام غصه دربند شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "آدم که به غم دچار شد دانستم\r\nمیراث پدر نصیب فرزند شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدم که به غم دچار شد دانستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیراث پدر نصیب فرزند شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 86,
+      "Number": 86,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندشود",
+      "PlainText": "کس نیست که از زمانه خرسند شود\r\nجز اینکه به دام غصه دربند شود\r\nآدم که به غم دچار شد دانستم\r\nمیراث پدر نصیب فرزند شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس نیست که از زمانه خرسند شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز اینکه به دام غصه دربند شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدم که به غم دچار شد دانستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیراث پدر نصیب فرزند شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کس نیست که از زمانه خرسند شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 86,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز اینکه به دام غصه دربند شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 86,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آدم که به غم دچار شد دانستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 86,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میراث پدر نصیب فرزند شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 86,
+      "SectionIndex2": 14
+    }
+  ]
+}

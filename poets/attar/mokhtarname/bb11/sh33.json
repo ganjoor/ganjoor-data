@@ -1,0 +1,58 @@
+{
+  "Id": 34520,
+  "CatId": 812,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "عطار » مختارنامه » باب یازدهم: در آنكه سرّ غیب و روح نه توان گفت و نه توان » شمارهٔ ۳۳",
+  "FullUrl": "/attar/mokhtarname/bb11/sh33",
+  "RhymeLetters": "وزم",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف احساسات متناقض پرداخته است. شاعر گاهی از شادی می‌درخشد و گاهی از غم می‌سوزد. او در این حالت گیج و حیران است و به دنبال دانشی است که به او کمک کند تا احساساتش را درک کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزم",
+      "PlainText": "گاه از شادی چو شمع می افروزم\r\nگاهی چو چراغی از غمش می سوزم\r\nحیران شده و عجب فرومانده ام\r\nگوید بمدان آنچه ترا آموزم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه از شادی چو شمع می‌افروزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی چو چراغی از غمش می‌سوزم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیران شده و عجب فرومانده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوید: «بمدان آنچه ترا آموزم»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گاه از شادی چو شمع می‌افروزم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گاهی چو چراغی از غمش می‌سوزم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیران شده و عجب فرومانده‌ام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوید: «بمدان آنچه ترا آموزم»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

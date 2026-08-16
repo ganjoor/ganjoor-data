@@ -1,0 +1,58 @@
+{
+  "Id": 119042,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۲۱",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۲۱",
+  "FullUrl": "/azar/divan/robaee/sh121",
+  "RhymeLetters": "ال",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت اشاره به رابطه بین دو دوست و دو دشمن دارد. گوینده از معشوق می‌پرسد که چرا از او دوری می‌کند، در حالی که نه او به خاطر زیبایی شهرت دارد و نه گوینده به خاطر سوالاتش. او می‌گوید که اگر دوست واقعی باشند، نباید از یکدیگر دوری کنند، حتی اگر میان آنها دشمنی وجود داشته باشد، زیرا در نهایت، دشمنی و محبت باید کنار گذاشته شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ال",
+      "PlainText": "ای خواجه چه میگریزی از من مه و سال\r\nنه تو بکرم شهره و نه من بسؤال\r\nچون دوست بود دشمن دشمن مگریز\r\nمال تو تو را دشمن و من دشمن مال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه، چه میگریزی از من مه و سال؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه تو بکرم شهره و نه من بسؤال!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دوست بود دشمن دشمن، مگریز!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمال تو تو را دشمن و، من دشمن مال!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه، چه میگریزی از من مه و سال؟!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه تو بکرم شهره و نه من بسؤال!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون دوست بود دشمن دشمن، مگریز!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مال تو تو را دشمن و، من دشمن مال!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

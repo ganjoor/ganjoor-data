@@ -1,0 +1,58 @@
+{
+  "Id": 10693,
+  "CatId": 144,
+  "Title": "قطعه شمارهٔ ۳",
+  "FullTitle": "سعدی » دیوان اشعار » قطعات » قطعه شمارهٔ ۳",
+  "FullUrl": "/saadi/divan/ghetes/sh3",
+  "RhymeLetters": "ماست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از محبوبش می‌پرسد که چرا به او نگاه نمی‌کند و چرا دوستی که در گذشته داشتند، اکنون کمتر شده است. پاسخ محبوب این است که به خاطر این که او در سن هفتاد سالگی هنوز به شادی و خوشی می‌اندیشد، در حالی که در این سن، باید بیشتر در فکر ماتم و اندوه باشد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ماست",
+      "PlainText": "گفتم چه کرده ام که نگاهم نمی کنی\r\nوآن دوستی که داشتی اول چرا کم است\r\nگفتا به جرم آنکه به هفتاد سالگی\r\nسودای سور می پزی و جای ماتم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم چه کرده‌ام که نگاهم نمی‌کنی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن دوستی که داشتی اول چرا کم است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتا به جرم آنکه به هفتاد سالگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسودای سور می‌پزی و جای ماتم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم چه کرده‌ام که نگاهم نمی‌کنی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآن دوستی که داشتی اول چرا کم است؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتا به جرم آنکه به هفتاد سالگی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سودای سور می‌پزی و جای ماتم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

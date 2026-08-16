@@ -1,0 +1,58 @@
+{
+  "Id": 68859,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/onsori/oro/sh9",
+  "RhymeLetters": "اب",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت معشوق اشاره می‌کند. او چهره معشوق را مانند گل توصیف کرده و خود را در حال غرق شدن در زیبایی‌های او می‌داند. زلف معشوق دارایی جذابیت و دلیری است و شاعر به شدت از این زیبایی متاثر شده و احساس درد و سوزش می‌کند. در نهایت، شاعر بیان می‌کند که در بی‌خوابی و غم دوری از معشوق، نرگس چشم معشوق برای او آرامش می‌آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "گل بر رخ توست و چشم من غرقه به آب\r\nمن تافته و زلف تو پیچیده به تاب\r\nزلف تو بر آتش است و من گشته کباب\r\nبی خواب من و نرگس تو مایه خواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل بر رخ توست و چشم من غرقه به آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن تافته و زلف تو پیچیده به تاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلف تو بر آتش است و من گشته کباب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌خواب من و نرگس تو مایهٔ خواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل بر رخ توست و چشم من غرقه به آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من تافته و زلف تو پیچیده به تاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زلف تو بر آتش است و من گشته کباب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌خواب من و نرگس تو مایهٔ خواب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

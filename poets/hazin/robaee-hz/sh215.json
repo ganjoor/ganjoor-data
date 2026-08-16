@@ -1,0 +1,58 @@
+{
+  "Id": 83112,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱۵",
+  "FullUrl": "/hazin/robaee-hz/sh215",
+  "RhymeLetters": "ارندم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات احساس تنهایی و غربت می‌کند. او بیان می‌کند که اگر در روستا به او اهمیت نمی‌دهند، در مصر (مکان دیگری) شخصیت‌های مهم به او اهمیت می‌دهند. ولی اکنون در این غربت احساس تنهایی می‌کند زیرا دوستانش همه به دیار خود بازگشته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارندم",
+      "PlainText": "گر قدر به روستا نمی دارندم\r\nدر مصر معظمان خریدارندم\r\nتنها شده ام کنون درین غربتگاه\r\nیاران به دیار خویش بسیارندم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر قدر به روستا نمی دارندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر مصر معظّمان خریدارندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتنها شده ام کنون درین غربتگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاران به دیار خویش بسیارندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر قدر به روستا نمی دارندم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مصر معظّمان خریدارندم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تنها شده ام کنون درین غربتگاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یاران به دیار خویش بسیارندم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

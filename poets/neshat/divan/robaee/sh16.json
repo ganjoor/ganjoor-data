@@ -1,0 +1,58 @@
+{
+  "Id": 119550,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/neshat/divan/robaee/sh16",
+  "RhymeLetters": "وست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مفهوم وحدت وجود اشاره دارد. او می‌گوید که در دنیای هستی تنها دوست، یعنی خدا، وجود دارد و همه چیز دیگر تنها ظاهری از اوست. اساساً، او معتقد است که خداوند حقیقتی عمیق و واقعی است و بقیه جهان تنها پوسته‌ای بیرونی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "گویند کرا گرفتی از عالم دوست\r\nگویم چه که هر چه هست در عالم اوست\r\nاو هست و جز او نیست بعالم جز نیست\r\nاو مغز و جهان نیست سراسر جز پوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند کرا گرفتی از عالم دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویم چه که هر چه هست در عالم اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو هست و جز او نیست بعالم جز نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو مغز و جهان نیست سراسر جز پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند کرا گرفتی از عالم دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویم چه که هر چه هست در عالم اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او هست و جز او نیست بعالم جز نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او مغز و جهان نیست سراسر جز پوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

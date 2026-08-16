@@ -1,0 +1,58 @@
+{
+  "Id": 84234,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/maghrebi/robaee-sm/sh23",
+  "RhymeLetters": "یستبگو",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: این شعر به جستجوی شناخت دیگری اشاره دارد و می‌پرسد که آن دیگری کیست و از کجا می‌آید. شاعر بیان می‌کند که به یقین حیاتی جز عشق و وجود معشوق ندارد و از این رو می‌پرسد که اگر غیر از او وجود داشته باشد، چگونه زندگی می‌کند. در واقع، این شعر بر اهمیت عشق و وجود معشوق تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یستبگو",
+      "PlainText": "آن کیست که غیر توست آن کیست بگو\r\nاو خود ز کجاست یا خود او چیست بگو\r\nچون غیر ترا نیست حیاتی به یقین\r\nآن کس که بجز تو بود چون زیست بگو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کیست که غیر توست آن کیست بگو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو خود ز کجاست یا خود او چیست بگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون غیر ترا نیست حیاتی به یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کس که بجز تو بود چون زیست بگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کیست که غیر توست آن کیست بگو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او خود ز کجاست یا خود او چیست بگو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون غیر ترا نیست حیاتی به یقین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن کس که بجز تو بود چون زیست بگو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

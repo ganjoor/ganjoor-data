@@ -1,0 +1,58 @@
+{
+  "Id": 83400,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۳۹",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۳۹",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh239",
+  "RhymeLetters": "ونچهکندکس",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از عشق و دوری معشوق صحبت می‌کند. او به محبوبش می‌گوید که با مستی و خوشحالی به یاد او باشد و اشک‌هایش را به رنگ شراب درآورد. همچنین اشاره می‌کند که مژگان او به خاطر دوری از معشوق نتوانسته‌اند با یکدیگر آشنا شوند و از او می‌خواهد که یک بار دیگر در این دنیای پر از سختی و خطر، لانه‌ای برای هم بسازند.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهساز",
+      "PlainText": "یک ره درآ به دیده و مستی بهانه ساز\r\nوین اشک لاله رنگ شراب شبانه ساز\r\nمژگان ز فرقت تو به هم آشنا نشد\r\nیکبار هم در این خس و خار آشیانه ساز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک ره درآ به دیده و مستی بهانه ساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین اشک لاله رنگ، شراب شبانه ساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمژگان ز فرقت تو به هم آشنا نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکبار هم در این خس و خار آشیانه ساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک ره درآ به دیده و مستی بهانه ساز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین اشک لاله رنگ، شراب شبانه ساز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مژگان ز فرقت تو به هم آشنا نشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکبار هم در این خس و خار آشیانه ساز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

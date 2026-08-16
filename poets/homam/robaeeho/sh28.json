@@ -1,0 +1,58 @@
+{
+  "Id": 77846,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/homam/robaeeho/sh28",
+  "RhymeLetters": "ینت",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساس خستگی و درد ناشی از جدایی و غم می‌گوید. او به شکرینی لب محبوبش اشاره می‌کند که باعث خستگی‌اش شده و دل‌های بسیاری را مجروح کرده است. با شکستن بازار عسل، باعث حسادت و غبطه‌خوردن دیگران شده و نیشی را به لب محبوبش می‌زند. به نوعی، این شعر تلاقی احساسات عاشقانه و غمگین را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینت",
+      "PlainText": "چون خسته شد از منج لب شیرینت\r\nخونین شد از این غم دل صد مسکینت\r\nبازار عسل به لب چو بشکستی منج\r\nزد نیش ز رشک بر لب نوشینت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خسته شد از منج لب شیرینت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخونین شد از این غم دل صد مسکینت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازار عسل به لب چو بشکستی منج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزد نیش ز رشک بر لب نوشینت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون خسته شد از منج لب شیرینت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خونین شد از این غم دل صد مسکینت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بازار عسل به لب چو بشکستی منج",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زد نیش ز رشک بر لب نوشینت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

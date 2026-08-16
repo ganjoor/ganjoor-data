@@ -1,0 +1,58 @@
+{
+  "Id": 50961,
+  "CatId": 1827,
+  "Title": "رباعی شمارهٔ ۱۶۱",
+  "FullTitle": "باباافضل کاشانی » رباعیات » رباعی شمارهٔ ۱۶۱",
+  "FullUrl": "/babaafzal/robba/sh161",
+  "RhymeLetters": "ستی",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به وضعیت انسان‌ها و وابستگی‌های زبانی اشاره می‌کند. او می‌گوید که در خانه‌اش با وجود هزاران بت، هنوز هیچ‌یک را نشکسته است و این نشان‌دهنده ناتوانی یا عدم عمل‌کردن به وعده‌هاست. همچنین او به شهادت رستم، قهرمان افسانه‌ای اشاره می‌کند و می‌گوید که شب را در حال مستی و غفلت سپری می‌کند، گویی فردای آن روز هیچ عواقبی ندارد. در کل، این اشعار به تنهایی، سردرگمی و بی‌عملی انسان را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستی",
+      "PlainText": "دعوی به سر زبان خود وابستی\r\nدر خانه هزار بت یکی نشکستی\r\nگویی به یکی قول شهادت رستم\r\nفردات کند خمار کامشب مستی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدعوی به سر زبان خود وابستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه هزار بت، یکی نشکستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی به یکی قول شهادت رستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردات کند خمار، کامشب مستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دعوی به سر زبان خود وابستی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خانه هزار بت، یکی نشکستی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی به یکی قول شهادت رستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فردات کند خمار، کامشب مستی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

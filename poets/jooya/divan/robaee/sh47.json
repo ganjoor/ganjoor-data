@@ -1,0 +1,58 @@
+{
+  "Id": 103101,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۴۷",
+  "FullUrl": "/jooya/divan/robaee/sh47",
+  "RhymeLetters": "ربایدکرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به این نکته اشاره می‌کند که باید از فکر و اندیشه‌های خطرناک پرهیز کرد. او می‌گوید که حتی در میان افرادی که به ظاهر هم‌مذهب هستند، ممکن است خطرهایی وجود داشته باشد؛ لذا باید مراقب دشمنانی که نزدیک به ما به نظر می‌رسند، بود. به بیان دیگر، باید از افرادی که ممکن است در ظاهر دوستانه باشند، دوری کرد چون ممکن است به ما آسیب برسانند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ربایدکرد",
+      "PlainText": "پهلو تهی از صوفی خر باید کرد\r\nیعنی اندیشه از خطر باید کرد\r\nاز شیعه صوفیست سگ سنی به\r\nکز دشمن خانگی حذر باید کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپهلو تهی از صوفی خر باید کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی اندیشه از خطر باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شیعه صوفیست سگ سنی به\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز دشمن خانگی حذر باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پهلو تهی از صوفی خر باید کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی اندیشه از خطر باید کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از شیعه صوفیست سگ سنی به",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز دشمن خانگی حذر باید کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

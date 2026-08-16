@@ -1,0 +1,58 @@
+{
+  "Id": 13849,
+  "CatId": 211,
+  "Title": "رباعی شمارهٔ ۱",
+  "FullTitle": "رودکی » رباعیات » رباعی شمارهٔ ۱",
+  "FullUrl": "/roodaki/robaeer/sh1",
+  "RhymeLetters": "اغیکهتراست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به احساس تنهایی و غم ناشی از جدایی اشاره دارند. شاعر نگران است که روشنایی و امیدی که به واسطه محبوبش دارد، ناشی از این جدایی از بین برود. همچنین، بویی از درد و رنج در جهان وجود دارد که نشان‌دهنده‌ی عمق احساسات و عواطف شاعر است. به طور کلی، شعر به بیان تأثیر جدایی بر روح و احساسات انسانی پرداخته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغیکهتوراست",
+      "PlainText": "در رهگذر باد چراغی که تو راست\r\nترسم که بمیرد از فراغی که تو راست\r\nبوی جگر سوخته عالم بگرفت\r\nگر نشنیدی زهی دماغی که تو راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رهگذر باد چراغی که تو راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسم که بمیرد از فراغی که تو راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوی جگر سوخته عالم بگرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نشنیدی، زهی دماغی که تو راست!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در رهگذر باد چراغی که تو راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترسم که بمیرد از فراغی که تو راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بوی جگر سوخته عالم بگرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر نشنیدی، زهی دماغی که تو راست!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83103,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۰۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۰۶",
+  "FullUrl": "/hazin/robaee-hz/sh206",
+  "RhymeLetters": "انراخواندیم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مدت چهل سال به مطالعه و تفکر درباره کتاب‌های مختلف و تاریخ جهان پرداخته است. او از این کار به حالتی خاص دچار شده و می‌گوید که در اثر خواندن داستان‌ها و افسانه‌های متعدد، دچار خواب و خیال شده است. احساس می‌شود که این مطالعه فراوان او را به نوعی خواب‌آلودگی و دوری از واقعیت دچار کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انراخواندیم",
+      "PlainText": "چل سال کتاب جسم و جان را خواندیم\r\nتاریخ زمین و آسمان را خواندیم\r\nخواب عجبی فتاده بر دیده بخت\r\nاز بس که فسانه جهان را خواندیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچل سال کتاب جسم و جان را خواندیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاریخ زمین و آسمان را خواندیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواب عجبی فتاده بر دیدهٔ بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس که فسانهٔ جهان را خواندیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چل سال کتاب جسم و جان را خواندیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تاریخ زمین و آسمان را خواندیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواب عجبی فتاده بر دیدهٔ بخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بس که فسانهٔ جهان را خواندیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 35260,
+  "CatId": 831,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "عطار » مختارنامه » باب سی‌ام: در فراغت نمودن از معشوق » شمارهٔ ۵",
+  "FullUrl": "/attar/mokhtarname/bb30/sh5",
+  "RhymeLetters": "رمیایم",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از دشواری‌های خود در زندگی سخن می‌گوید و به دیگری می‌گوید که از این وضعیت خسته شده و می‌خواهد از درد و رنجش رهایی یابد. در پاسخ، طرف مقابل پیشنهاد می‌دهد که باید به خاک و واقعیت‌های زندگی توجه کند تا در نهایت موفق شود و بر مشکلاتش فائق آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمیایم",
+      "PlainText": "گفتم چه کنم ز پای در میآیم\r\nزان پیش که هر روز به سر میآیم\r\nگفتا چه کنی خاک در من باشی\r\nتا هر روزی بر تو به در میآیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: چه کنم ز پای در میآیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان پیش که هر روز به سر میآیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتا: چه کنی خاکِ درِ من باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا هر روزی بر تو به در میآیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم: چه کنم ز پای در میآیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان پیش که هر روز به سر میآیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتا: چه کنی خاکِ درِ من باشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا هر روزی بر تو به در میآیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

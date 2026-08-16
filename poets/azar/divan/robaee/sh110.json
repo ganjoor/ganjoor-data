@@ -1,0 +1,58 @@
+{
+  "Id": 119031,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۱۰",
+  "FullUrl": "/azar/divan/robaee/sh110",
+  "RhymeLetters": "اختمش",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: کامروز در این شعر از عشق و دلتنگی صحبت می‌کند. او به شخصی که دوستش داشته، اشاره می‌کند و از این که نتوانسته به خوبی او را بشناسد، افسوس می‌خورد. همچنین، با اشاره به این که در آینده خواهد مرد، به فقدان زودهنگام آن عشق و احساس پشیمانی خود می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اختمش",
+      "PlainText": "یاری کامروز نقد دل باختمش\r\nدر کشور حسن رایت افراختمش\r\nفرداست که میمیرم و خواهد گفتن\r\nافسوس که زود رفت و نشناختمش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاری کامروز نقد دل باختمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کشور حسن، رایت افراختمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرداست که میمیرم و، خواهد گفتن:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسوس که زود رفت و نشناختمش!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاری کامروز نقد دل باختمش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کشور حسن، رایت افراختمش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرداست که میمیرم و، خواهد گفتن:",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسوس که زود رفت و نشناختمش!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

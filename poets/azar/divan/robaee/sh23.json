@@ -1,0 +1,58 @@
+{
+  "Id": 118944,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/azar/divan/robaee/sh23",
+  "RhymeLetters": "ست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عشق و ارتباطی که با معشوق دارد اشاره می‌کند. او به یاد می‌آورد که از زمان بسته شدن این عهد و پیمان، اگرچه معشوق از او فاصله گرفته است، ولی او نیز از دامن‌ها دست کشیده و از عشق و وابستگی به معشوق صرف‌نظر کرده است. در واقع، شاعر احساساتی از دلتنگی و تنهایی را بیان می‌کند و تأکید می‌کند که این رابطه دوطرفه بوده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "ز آن عهد که بستیم بهم ای بت مست\r\nزنهار مگو که بر توام منت هست\r\nتو گرچه ز دست ها کشیدی دامن\r\nمن نیز کشیده ام ز دامن ها دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آن عهد که بستیم بهم ای بت مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنهار مگو که بر توام منت هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو گرچه ز دست‌ها کشیدی دامن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن نیز کشیده ام ز دامن ها دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آن عهد که بستیم بهم ای بت مست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زنهار مگو که بر توام منت هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو گرچه ز دست‌ها کشیدی دامن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من نیز کشیده ام ز دامن ها دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

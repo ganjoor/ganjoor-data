@@ -1,0 +1,58 @@
+{
+  "Id": 50204,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۴۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۴۵",
+  "FullUrl": "/mahsati/robmah/sh144",
+  "RhymeLetters": "بمن",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به عشق و یاد محبوب اشاره دارد. شاعر از یاد محبوبش به عنوان چیزی مقدس و مونس روز و شبش یاد می‌کند و از دوست می‌خواهد که به او ستم نکند؛ زیرا این کار می‌تواند موجب درد و رنج روحی او شود. در واقع، احساسات عمیق و نیاز به محبت در این اشعار مشهود است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بمن",
+      "PlainText": "ای یاد تو تسبیح زبان و لب من\r\nاندیشه تو مونس روز و شب من\r\nای دوست مکن ستم که کاری بکند\r\nدود دل و آه سحر و یا رب من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای یاد تو تسبیح زبان و لب من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندیشهٔ تو مونس روز و شب من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست مکن ستم که کاری بکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدودِ دل و آهِ سحر و یا ربِ من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای یاد تو تسبیح زبان و لب من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندیشهٔ تو مونس روز و شب من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای دوست مکن ستم که کاری بکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دودِ دل و آهِ سحر و یا ربِ من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

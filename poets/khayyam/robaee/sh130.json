@@ -1,0 +1,58 @@
+{
+  "Id": 1248,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۳۰",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۳۰",
+  "FullUrl": "/khayyam/robaee/sh130",
+  "RhymeLetters": "میم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این رباعی درباره اهمیت و جایگاه مهم انسان در هستی است و شاعر در آن می‌گوید که آدمی خود اصل و منبع و معدن همه شادی‌ها، غم‌ها، لذت‌ها و دردها و ستم‌ها و عدالت‌هاست. آدمی‌است که از قعر پستی تا اوج کمال است. در مصرع پایانی‌، نادانی و دانایی بشر به آینه زنگ‌خورده و جام جم تشبیه‌شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "میم",
+      "PlainText": "ماییم که اصل شادی و کان غمیم\r\nسرمایه دادیم و نهاد ستمیم\r\nپستیم و بلندیم و کمالیم و کمیم\r\nآیینه زنگ خورده و جام جمیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماییم که اصلِ شادی و کانِ غمیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمایهٔ دادیم و نهادِ ستمیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپستیم و بلندیم و کمالیم و کمیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآئینهٔ زنگ خورده و جام جمیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماییم که اصلِ شادی و کانِ غمیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمایهٔ دادیم و نهادِ ستمیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پستیم و بلندیم و کمالیم و کمیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آئینهٔ زنگ خورده و جام جمیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

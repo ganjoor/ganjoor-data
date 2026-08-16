@@ -1,0 +1,58 @@
+{
+  "Id": 10206,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۴۵",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۴۵",
+  "FullUrl": "/saadi/divan/robaees/sh145",
+  "RhymeLetters": "ینی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار شاعر به بیان احساسات خود می‌پردازد و می‌گوید اگر دشمن او دوست شود، او چه کند جز اینکه خود را مسکین و بی‌چاره احساس کند. شاعر همچنین به این اشاره می‌کند که هرچقدر دشمنش بدی و زشتی کند، او به نوعی همچنان تلاش می‌کند تا دلپذیری و شیرینی را حفظ کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینی",
+      "PlainText": "گر دشمن من به دوستی بگزینی\r\nمسکین چه کند با تو به جز مسکینی\r\nصد جور بکن که همچنان مطبوعی\r\nصد تلخ بگو که همچنان شیرینی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دشمن من به دوستی بگزینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسکین چه کند با تو به جز مسکینی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد جور بکن که همچنان مطبوعی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد تلخ بگو که همچنان شیرینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر دشمن من به دوستی بگزینی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مسکین چه کند با تو به جز مسکینی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد جور بکن که همچنان مطبوعی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد تلخ بگو که همچنان شیرینی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

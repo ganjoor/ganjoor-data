@@ -1,0 +1,58 @@
+{
+  "Id": 48749,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۳۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۰",
+  "FullUrl": "/orfi/robaeeor/sh30",
+  "RhymeLetters": "است",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر بیان‌گر احساس عمیق درد و غم خود شاعر است. شاعر می‌گوید اگرچه به ظاهر آرام و بی‌صداست و گریه‌ای نمی‌کند، اما در درونش احساساتش به شدت جوش و خروش دارد. او می‌خواهد نشان دهد که ورای خاموشی‌اش، تنهایی و عذاب وجود دارد و درونش پر از احساسات عمیق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "گر چشم و دلم ز ناله و گریه جداست\r\nزنهار مبر گمان که راحت که خطاست\r\nگر ناله خموش است دلم در جوش است\r\nگر دیده سراب است درونم دریاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چشم و دلم ز ناله و گریه جداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنهار مبر گمان که راحت، که خطاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ناله خموش است دلم در جوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر دیده سراب است، درونم دریاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر چشم و دلم ز ناله و گریه جداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زنهار مبر گمان که راحت، که خطاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر ناله خموش است دلم در جوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر دیده سراب است، درونم دریاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

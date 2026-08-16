@@ -1,0 +1,58 @@
+{
+  "Id": 107169,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/daye/divan/robaee/sh6",
+  "RhymeLetters": "نگاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به دشواری‌های راه عشق اشاره می‌کند و می‌گوید که در این مسیر نه می‌توان با خود صلح کرد و نه می‌توان به جنگ با دیگران پرداخت. او بیان می‌کند که در زندگی همه انسان‌ها نام و ننگ اهمیت ندارد، و از بی‌خبران می‌پرسد که چه جایی برای این امور در راه عشق وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگاست",
+      "PlainText": "ز آن روی که راه عشق راهی تنگ است\r\nنه با خودمان صلح و نه با کس جنگ است\r\nشد در سر نام و ننگ عمر همه خلق\r\nای بیخبران چه جای نام و ننگ است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آن روی که راه عشق راهی تنگ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه با خودمان صلح و نه با کس جنگ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد در سر نام و ننگ عمر همه خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای بیخبران چه جای نام و ننگ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آن روی که راه عشق راهی تنگ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه با خودمان صلح و نه با کس جنگ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد در سر نام و ننگ عمر همه خلق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای بیخبران چه جای نام و ننگ است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

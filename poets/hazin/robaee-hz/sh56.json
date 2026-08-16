@@ -1,0 +1,58 @@
+{
+  "Id": 82944,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/hazin/robaee-hz/sh56",
+  "RhymeLetters": "فتهمیبایدرفت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار بیانگر حس درد و احساس ناامیدی است. شاعر از ضرورت ترک کردن و جدایی سخن می‌گوید. او به این نکته اشاره دارد که باید راز دل را بیان نکرده و با وجود تلخی‌ها، جان شیرین خود را بدون معشوق فدای آن کند. به طور کلی، این شعر احساس جدایی و درد عمیق را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتهمیبایدرفت",
+      "PlainText": "دردا که دری نسفته می باید رفت\r\nراز دل خود نگفته می باید رفت\r\nمی باید داد جان شیرین بی تو\r\nتلخی ز تو ناشنفته می باید رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردا که دری نسفته می باید رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراز دل خود نگفته می باید رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی باید داد، جان شیرین بی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتلخی ز تو ناشنفته می باید رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردا که دری نسفته می باید رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راز دل خود نگفته می باید رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می باید داد، جان شیرین بی تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تلخی ز تو ناشنفته می باید رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

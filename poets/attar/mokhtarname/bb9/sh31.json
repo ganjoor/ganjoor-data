@@ -1,0 +1,58 @@
+{
+  "Id": 34426,
+  "CatId": 804,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "عطار » مختارنامه » باب نهم: در مقام حیرت و سرگشتگی » شمارهٔ ۳۱",
+  "FullUrl": "/attar/mokhtarname/bb9/sh31",
+  "RhymeLetters": "رم",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر حالتی از بی‌ثباتی و سردرگمی است. شاعر خود را در وضعیتی می‌بیند که نه در سفر است و نه در حال استراحت، نه بیدار است و نه خواب. او از حال و روز خود بی‌خبر است و در اوج حیرت فقط به وضعیت خود می‌نگرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رم",
+      "PlainText": "نه در سفرم یک دم و نی در حضرم\r\nنه خواب و خورم هست و نه بیخواب و خورم\r\nنه باخبرم ز خویش و نه بیخبرم\r\nچون حیرانی نشستهام مینگرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه در سفرم یک دم و نی در حضرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه خواب و خورم هست و نه بیخواب و خورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه باخبرم ز خویش و نه بیخبرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون حیرانی نشستهام مینگرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه در سفرم یک دم و نی در حضرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه خواب و خورم هست و نه بیخواب و خورم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه باخبرم ز خویش و نه بیخبرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون حیرانی نشستهام مینگرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

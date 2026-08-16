@@ -1,0 +1,58 @@
+{
+  "Id": 69365,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/azraghi/arob/sh4",
+  "RhymeLetters": "ست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از سرمستی ناشی از عشق و همچنین رنج و درد ناشی از آن صحبت می‌کند. او بیان می‌کند که اگر محبوب از دل او دست بکشد، او ناچار است در شب، در جستجوی دست محبوب باشد. به‌عبارتی، عشق او را به حالت مستی می‌آورد و در عین حال، احساس درد و نیاز را نیز در او ایجاد می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "ای دل ز شراب عشق گشتی سرمست\r\nکز رنج خمار او به جان نتوان رست\r\nگر از دل من چنین فرو داری دست\r\nدر روز ز دست تو به شب باید جست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل، ز شراب عشق گشتی سرمست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز رنج خمار او به جان نتوان رست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر از دل من چنین فرو داری دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر روز ز دست تو به شب باید جست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل، ز شراب عشق گشتی سرمست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز رنج خمار او به جان نتوان رست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر از دل من چنین فرو داری دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در روز ز دست تو به شب باید جست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 112360,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/sahab/divan/robaee/sh36",
+  "RhymeLetters": "یدهکهمن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر از یاری حرف می‌زند که با وجود جفا و بی‌وفایی، همچنان وفادار مانده است. او اشاره می‌کند که در هر گوشه، بلبل‌های زیادی وجود دارند که از گل‌های وصالش بهره‌مند شده‌اند، ولی تنها اوست که چنین گلی را چیده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدهکهمن",
+      "PlainText": "ز آن یار جفا جو که وفا دیده که من\r\nوز جور و جفایش که نرنجیده که من\r\nهر گوشه چو من هزار دارد بلبل\r\nاز باغ وصالش که گلی چیده که من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آن یار جفا جو که وفا دیده که من؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز جور و جفایش که نرنجیده که من؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر گوشه چو من هزار دارد بلبل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز باغ وصالش که گلی چیده که من؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آن یار جفا جو که وفا دیده که من؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز جور و جفایش که نرنجیده که من؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر گوشه چو من هزار دارد بلبل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از باغ وصالش که گلی چیده که من؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

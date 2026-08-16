@@ -1,0 +1,58 @@
+{
+  "Id": 39597,
+  "CatId": 1334,
+  "Title": "نیش و نوش",
+  "FullTitle": "رهی معیری » ابیات پراکنده » نیش و نوش",
+  "FullUrl": "/rahi/abyat/sh2",
+  "RhymeLetters": "وشندارد",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به بیان این نکته می‌پردازد که برخی از زیبایی‌ها و عشق‌ها ممکن است موقتی و ناپایدار باشند، مانند گلی که نمی‌تواند در آغوش بماند. همچنین اشاره می‌کند که اگر عشق ما را رنج دهد، نباید از آن ناراحت شویم و باید با تلخی‌ها کنار بیاییم، حتی اگر امیدی به خوشی و لذت در آن نباشد.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشندارد",
+      "PlainText": "کس بهره از آن تازه بر و دوش ندارد\r\nکاین شاخه گل طاقت آغوش ندارد\r\nاز عشق نرنجیم و گر مایه رنج است\r\nبا نیش بسازیم اگر نوش ندارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس بهره از آن تازه بر و دوش ندارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین شاخه گل طاقت آغوش ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عشق نرنجیم و گر مایه رنج است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا نیش بسازیم اگر نوش ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کس بهره از آن تازه بر و دوش ندارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاین شاخه گل طاقت آغوش ندارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از عشق نرنجیم و گر مایه رنج است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با نیش بسازیم اگر نوش ندارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

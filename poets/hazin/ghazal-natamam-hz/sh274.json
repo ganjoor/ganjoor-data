@@ -1,0 +1,58 @@
+{
+  "Id": 83435,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۷۴",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۷۴",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh274",
+  "RhymeLetters": "اهکم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس ضعف و مشکلات درونی شخص اشاره دارد. شاعر می‌گوید که این ضعف باعث می‌شود که وی از خود بیگانه شود و در خواب‌هایش به زیبایی‌های ظاهری پناه ببرد. همچنین به نیرنگ‌هایی که در تفکراتش وجود دارد و زیبایی‌های فریبنده بهار اشاره می‌کند، که نشان‌دهنده‌ی افکار ناپایدار و نیرنگ‌آمیزش است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رنگم",
+      "PlainText": "از ضعف مشکل آید چون می برد ز خویشم\r\nبالین خواب سازد از مخمل فرنگم\r\nکلکم کند به نیرنگ پرداز چهره گل\r\nمشاطه بهار است افکار نیمرنگم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ضعف مشکل آید، چون می برد ز خویشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالین خواب سازد، از مخمل فرنگم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلکم کند به نیرنگ، پرداز چهرهٔ گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشاطّهٔ بهار است، افکار نیمرنگم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از ضعف مشکل آید، چون می برد ز خویشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بالین خواب سازد، از مخمل فرنگم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کلکم کند به نیرنگ، پرداز چهرهٔ گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مشاطّهٔ بهار است، افکار نیمرنگم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

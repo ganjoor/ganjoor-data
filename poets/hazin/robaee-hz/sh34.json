@@ -1,0 +1,58 @@
+{
+  "Id": 82922,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/hazin/robaee-hz/sh34",
+  "RhymeLetters": "انمناست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: عشق برای من هم درد و هم درمان است، هم دین و هم ایمان من به حساب می‌آید. با این حال، از شدت غم و عشقی که در وجودم وجود دارد، می‌سوزم و رنج می‌کشم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمناست",
+      "PlainText": "عشق است که درد من و درمان من است\r\nدین من و پیر من و ایمان من است\r\nخون از بن هر مو نفشانم چه کنم\r\nزان نشتر غمزه ای که در جان من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق است که درد من و درمان من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدین من و پیر من و ایمان من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخون از بن هر مو نفشانم چه کنم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان نشتر غمزه ای که در جان من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق است که درد من و درمان من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دین من و پیر من و ایمان من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون از بن هر مو نفشانم چه کنم؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان نشتر غمزه ای که در جان من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

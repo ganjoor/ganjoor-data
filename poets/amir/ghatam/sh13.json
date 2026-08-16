@@ -1,0 +1,58 @@
+{
+  "Id": 70022,
+  "CatId": 2043,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "امیر معزی » قطعات » شمارهٔ ۱۳",
+  "FullUrl": "/amir/ghatam/sh13",
+  "RhymeLetters": "یر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، اشاره به مقام و مقام‌داری امام علی و نقش محمد (پیامبر) در انتخاب او به عنوان خلیفه دارد. علی به خاطر محبت و دعاهای پیامبر در روز غدیر، به مقام و منزلتش می‌بازد و مشاوره و وزارتی را که به او واگذار شده، به عنوان نشانه‌ای از این محبت و ارتباط عمیق بین آنها می‌داند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یر",
+      "PlainText": "امام بود محمد علی خلیفه ی او\r\nکنون علی است مشیر و محمدست وزیر\r\nعلی ز مهر محمد همی چنان نازد\r\nکه از دعای محمد علی به روز غدیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامام بود محمد، علی خلیفه ی او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنون علی است مشیر و محمدست وزیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلی ز مهر محمد همی چنان نازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از دعای محمد علی به روز غدیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امام بود محمد، علی خلیفه ی او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کنون علی است مشیر و محمدست وزیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "علی ز مهر محمد همی چنان نازد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از دعای محمد علی به روز غدیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

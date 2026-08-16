@@ -1,0 +1,58 @@
+{
+  "Id": 39603,
+  "CatId": 1334,
+  "Title": "سایهٔ هما",
+  "FullTitle": "رهی معیری » ابیات پراکنده » سایهٔ هما",
+  "FullUrl": "/rahi/abyat/sh8",
+  "RhymeLetters": "سایهفکندهاست",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: در این شعر بیان شده است که عشق معشوق به فرد بی‌نوا توجه کرده و سایه‌اش بر کلبه‌ درویش افتاده است. همچنین، مهر و محبت معشوق باعث روشنی دل او شده و او را زنده کرده است. در نهایت، سایه سبز و زیبای این معشوق بر همسایه‌های دیگری نیز تاثیر گذاشته است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سایهفکندهاست",
+      "PlainText": "چشم تو نظر بر من بی مایه فکنده است\r\nبر کلبه درویش هما سایه فکنده است\r\nاز خانه دل مهر تو روشنگر جان شد\r\nاین سرو سهی سایه به همسایه فکنده است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم تو نظر بر من بی‌مایه فکنده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر کلبهٔ درویش هما سایه فکنده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خانهٔ دل مهر تو روشنگر جان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین سرو سهی سایه به همسایه فکنده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم تو نظر بر من بی‌مایه فکنده است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر کلبهٔ درویش هما سایه فکنده است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خانهٔ دل مهر تو روشنگر جان شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این سرو سهی سایه به همسایه فکنده است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

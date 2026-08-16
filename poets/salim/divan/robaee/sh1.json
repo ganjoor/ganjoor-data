@@ -1,0 +1,58 @@
+{
+  "Id": 101792,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/salim/divan/robaee/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از تأثیر سرما بر جهان و آب صحبت می‌کند. به دلیل سرمای شدید، آب به شکل امواجی یخ زده درمی‌آید و دنیا به گونه‌ای تبدیل شده که گل‌ها و غنچه‌ها به خاطر سرما باز نمی‌شوند و به حالت خزیده و خاموش درآمده‌اند. به عبارت دیگر، سرما باعث توقف زندگی و زیبایی در طبیعت شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "یخ بسته جهان ز بس ز تأثیر هوا\r\nشد موجه ی آب همچو موج خارا\r\nدر صفحه به شکل نقطه گردیده الف\r\nاز بس که شده غنچه ز تاب سرما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیخ بسته جهان ز بس ز تأثیر هوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد موجه ی آب همچو موج خارا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر صفحه به شکل نقطه گردیده الف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس که شده غنچه ز تاب سرما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یخ بسته جهان ز بس ز تأثیر هوا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد موجه ی آب همچو موج خارا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در صفحه به شکل نقطه گردیده الف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بس که شده غنچه ز تاب سرما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Id": 83336,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۷۵",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۷۵",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh175",
+  "RhymeLetters": "وششنخواهدشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی طبیعی و جلوه‌های دل‌انگیز آن اشاره دارد. در مصراع اول، به تصویری از چهره‌ای اشاره می‌شود که در میان هزار گل در چمن شکوفا می‌گردد و شور و نشاطی را ایجاد می‌کند. در مصراع دوم، از طرۀ گیسوانی سخن گفته می‌شود که در فصل خزان، بویی از بهار را به همراه دارد. این دو تصویر، به تلاشی برای بیشتر زیبا نشان دادن زیبایی طبیعی و پیوند آن با احساسات اشاره دارد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارگلکند",
+      "PlainText": "چهره نما که در چمن شور هزار گل کند\r\nطره گشا که در خزان بوی بهار گل کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچهره نما که در چمن، شور هزار گل کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطرّه گشا که در خزان، بوی بهار گل کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چهره نما که در چمن، شور هزار گل کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طرّه گشا که در خزان، بوی بهار گل کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

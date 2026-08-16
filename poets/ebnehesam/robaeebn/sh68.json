@@ -1,0 +1,58 @@
+{
+  "Id": 64865,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۶۸",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۶۸",
+  "FullUrl": "/ebnehesam/robaeebn/sh68",
+  "RhymeLetters": "نگل",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، زیبایی و سرسبزی طبیعت توصیف شده است. تصویر شکوفه‌ها و گل‌ها به همراه سبزه‌های تازه و ظرافت تاک‌های انگور القا شده است. همه‌ی این عناصر به زیبایی یکدیگر و شادی زندگی اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگل",
+      "PlainText": "بشکفت شکوفه باز چون خرمن گل\r\nسبزه بکشید حله در دامن گل\r\nدر تاک نگر که با سر افرازی خویش\r\nکرده است به ناز دست در گردن گل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشکفت شکوفه باز چون خرمن گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسبزه بکشید حلّه در دامن گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر تاک نگر که با سر افرازی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرده است به ناز دست در گردن گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بشکفت شکوفه باز چون خرمن گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سبزه بکشید حلّه در دامن گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در تاک نگر که با سر افرازی خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کرده است به ناز دست در گردن گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

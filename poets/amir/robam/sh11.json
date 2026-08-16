@@ -1,0 +1,58 @@
+{
+  "Id": 70054,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/amir/robam/sh11",
+  "RhymeLetters": "اهیملکا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، به پادشاهی و قدرت توری که به عنوان نمادی از سلطنت و فرمانروایی است، اشاره می‌شود. از رابطه بین پادشاه و ماه (که نماد زیبایی و نور است) نیز صحبت شده و به دور فلک و قوانین الهی اشاره می‌کند. به طور کلی، این ابیات به عظمت و قدرت پادشاهی اشاره دارند و از تناسب و نظم در طبیعت و سرنوشت سخن می‌گویند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیملکا",
+      "PlainText": "بر خلق توراست پادشاهی ملکا\r\nوز ماه توراست تا به ماهی ملکا\r\nدور فلک و حکم الهی ملکا\r\nآن باد و چنان بادکه خواهی ملکا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خلق توراست پادشاهی ملکا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ماه توراست تا به ماهی ملکا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدور فلک و حکم الهی ملکا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن باد و چنان بادکه خواهی ملکا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر خلق توراست پادشاهی ملکا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز ماه توراست تا به ماهی ملکا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دور فلک و حکم الهی ملکا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن باد و چنان بادکه خواهی ملکا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

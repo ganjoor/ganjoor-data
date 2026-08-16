@@ -1,0 +1,58 @@
+{
+  "Id": 73620,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/zahir/robaeez-zahir/sh28",
+  "RhymeLetters": "منمیگردد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تصویر زیبایی از عشق و دلباختگی می‌پردازد. او می‌گوید که آن خط زیبا که دور آن دهن می‌چرخد، همچون بنفشه‌ای است که بر روی سمن می‌چرخد. همچنین، اشاره می‌کند که وقتی کسی پیراهن عشق او را به تن می‌کند، از صبر و طاقت خالی می‌شود و به حالتی مانند خود او در می‌آید. این ابیات حس عمیق و تأثیرگذار عشق را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منمیگردد",
+      "PlainText": "آن خط که به گرد آن دهن می گردد\r\nگویی که بنفشه بر سمن می گردد\r\nپیراهن عشق او چو پوشید کسی\r\nاز صبر برهنه همچو من می گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن خط که به گرد آن دهن می گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که بنفشه بر سمن می گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیراهن عشق او چو پوشید کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صبر برهنه همچو من می گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن خط که به گرد آن دهن می گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی که بنفشه بر سمن می گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیراهن عشق او چو پوشید کسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از صبر برهنه همچو من می گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

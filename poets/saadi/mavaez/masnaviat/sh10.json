@@ -1,0 +1,57 @@
+{
+  "Id": 28283,
+  "CatId": 140,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "سعدی » مواعظ » مثنویات » شمارهٔ ۱۰",
+  "FullUrl": "/saadi/mavaez/masnaviat/sh10",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات اشاره به این دارند که نیکنامی و شهرت واقعی همیشه باقی می‌مانند. حتی اگر فردی بمیرد، نام نیک او در خاطر مردم زنده می‌ماند. مانند چراغی در یک مجلس که هرچند شمعش خاموش شود، نور آن همچنان فضا را روشن نگه می‌دارد. در واقع، کارها و یاد نیک انسان‌ها از آن‌ها فراتر می‌رود و در دل‌ها جاودانه می‌شود.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ع",
+      "PlainText": "نمیرد گر بمیرد نیکنامی\r\nکه در خیلش بود قایم مقامی\r\nچو در مجلس چراغی هست اگر شمع\r\nبمیرد همچنان روشن بود جمع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمیرد گر بمیرد نیکنامی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در خیلش بود قائم مقامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در مجلس چراغی هست اگر شمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمیرد، همچنان روشن بود جمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمیرد گر بمیرد نیکنامی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در خیلش بود قائم مقامی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو در مجلس چراغی هست اگر شمع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بمیرد، همچنان روشن بود جمع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

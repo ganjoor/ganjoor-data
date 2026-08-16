@@ -1,0 +1,58 @@
+{
+  "Id": 10082,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۲۱",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۲۱",
+  "FullUrl": "/saadi/divan/robaees/sh21",
+  "RhymeLetters": "وست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به عواطف عمیق و وابستگی‌های عاطفی اشاره دارد. شاعر از احساس عشق و درد فراق سخن می‌گوید و می‌گوید که وجود محبت محبوب همچون خون در رگ‌های اوست. همچنین به مرغ سحر اشاره می‌کند که صبح را نوید می‌دهد، در حالی که او و دیگران از غم عشق شب را بی‌خوابی گذرانده‌اند. به طور کلی، این شعر نمایانگر عشق و اندوهی است که شخص در پی جدایی احساس می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "ای در دل من رفته چو خون در رگ و پوست\r\nهرچ آن به سر آیدم ز دست تو نکوست\r\nای مرغ سحر تو صبح برخاسته ای\r\nما خود همه شب نخفته ایم از غم دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای در دل من رفته چو خون در رگ و پوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچ آن به سر آیدم ز دست تو نکوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرغ سحر تو صبح برخاسته‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما خود همه شب نخفته‌ایم از غم دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای در دل من رفته چو خون در رگ و پوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرچ آن به سر آیدم ز دست تو نکوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای مرغ سحر تو صبح برخاسته‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما خود همه شب نخفته‌ایم از غم دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

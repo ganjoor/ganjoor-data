@@ -1,0 +1,58 @@
+{
+  "Id": 97272,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/emami/divan/robaee/sh13",
+  "RhymeLetters": "ور",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به دل می‌گوید که نگران غم‌های این جهان بیهوده نباشد. غم‌ها همواره وجود دارند، اما نباید به آنها اهمیت داد، زیرا همه چیز گذراست و در نهایت چیزی از آنها باقی نخواهد ماند. به جای غصه خوردن، بهتر است خوشحال بود و از زندگی لذت برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انبیهودهمخور",
+      "PlainText": "ای دل غم این جهان بیهوده مخور\r\nبیهوده نه ای غمان بیهوده مخور\r\nچون بوده گذشت و نیست نابوده پدید\r\nخوش باش و غم جهان بیهوده مخور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل غم این جهان بیهوده مخور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیهوده نه‌ای غمان بیهوده مخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بوده گذشت و نیست نابوده پدید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش باش و غم جهان بیهوده مخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل غم این جهان بیهوده مخور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیهوده نه‌ای غمان بیهوده مخور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون بوده گذشت و نیست نابوده پدید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوش باش و غم جهان بیهوده مخور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

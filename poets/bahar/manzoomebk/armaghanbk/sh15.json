@@ -1,0 +1,49 @@
+{
+  "Id": 52009,
+  "CatId": 1849,
+  "Title": "فقرۀ ۱۲",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۱۲",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh15",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به اهمیت گوش سپردن و شنیدن سخنان درست اشاره می‌کند. او می‌گوید که باید شنونده‌ی خوبی باشیم و فقط به حرف‌های بی‌خود و بی‌معنا توجه نکنیم. همچنین تأکید می‌کند که باید پاسخ‌ها را با دقت و مطابق با مفهوم واقعی آن‌ها بدهیم.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یر",
+      "PlainText": "نیوشنده باش و سخن درپذیر\r\nپس و پیش  پاسخ به پیمانه گیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیوشنده باش و سخن درپذیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس و پیش‌ پاسخ به پیمانه گیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "هرچه اشنوی نیوش‌، یاوه مگوی‌.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "نیوشنده باش و سخن درپذیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "پس و پیش‌ پاسخ به پیمانه گیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

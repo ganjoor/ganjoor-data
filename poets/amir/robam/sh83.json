@@ -1,0 +1,58 @@
+{
+  "Id": 70126,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۸۳",
+  "FullUrl": "/amir/robam/sh83",
+  "RhymeLetters": "ویتوزند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساسی عمیق و عشق است. شاعر می‌گوید که زمانی که به یاد معشوق می‌افتد، احساساتش بالا می‌گیرد و عشقش در وجودش قوی‌تر می‌شود. او اشاره می‌کند که کسی که برای وصال معشوقش درد و ناله نمی‌کند، احتمالاً از احساس واقعی عشق بی‌بهره است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الزند",
+      "PlainText": "چون باز خیال تو پر و بال زند\r\nدر جان رهی عشق تو چنگال زند\r\nآن کس  که نه از وصال تو نال زند\r\nشاید که ز چشم خویش قیقال زند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون باز خیال تو پر و بال زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جان رهی عشق تو چنگال زند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس‌ که نه از وصال تو نال زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاید که ز چشم خویش قیقال زند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون باز خیال تو پر و بال زند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در جان رهی عشق تو چنگال زند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن کس‌ که نه از وصال تو نال زند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاید که ز چشم خویش قیقال زند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

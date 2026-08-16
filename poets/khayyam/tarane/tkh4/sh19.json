@@ -1,0 +1,58 @@
+{
+  "Id": 50308,
+  "CatId": 1815,
+  "Title": "رباعی ۵۳",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » گردش دوران  [۵۶-۳۵] » رباعی ۵۳",
+  "FullUrl": "/khayyam/tarane/tkh4/sh19",
+  "RhymeLetters": "اماست",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف یک مکان کهنه و قدیمی می‌پردازد که به آن \u0022عالم\u0022 گفته می‌شود. این مکان، محلی برای آرامش و استراحت در طول روز و شب است. همچنین به نوعی جشن و بزم اشاره دارد که بازمانده صدها شخصیت بزرگ تاریخی مانند جمشید و بهرام را در خود جای داده است. به طور کلی، این متن به یادآوری تاریخ و گذشته‌ای پر آشوب و پر از شخصیت‌ها می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اماست",
+      "PlainText": "این کهنه رباط را که عالم نام است\r\nآرامگه ابلق صبح و شام است\r\nبزمی ست که وامانده صد جمشید است\r\nگوری ست که خوابگاه صد بهرام است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین کهنه رِباط را که عالم نام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآرامگَهِ اَبْلَقِ صبح و شام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزمی‌ست که واماندهٔ صد جمشید است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوری‌ست که خوابگاهِ صد بهرام است!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این کهنه رِباط را که عالم نام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آرامگَهِ اَبْلَقِ صبح و شام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بزمی‌ست که واماندهٔ صد جمشید است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوری‌ست که خوابگاهِ صد بهرام است!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

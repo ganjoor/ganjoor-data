@@ -1,0 +1,58 @@
+{
+  "Id": 70215,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۷۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۷۲",
+  "FullUrl": "/amir/robam/sh172",
+  "RhymeLetters": "ازدهی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، بیان شده که مجلس شاه و گل‌های زیبای آن، بهشتی و جاودانی است. خانه و آب روان در آنجا نمادی از زندگی و حرکت است و در واقع، اینجا مانند چرخ زندگی و گذر زمان است که روح و حیات در آن جریان دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناندروی",
+      "PlainText": "این مجلس شاه و گل فشان اندروی\r\nخلدست و نعیم جاودان اندروی\r\nوین خانه و این آب روان اندر وی\r\nچرخ است و ره کاهشکان اندر وی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مجلس شاه و گل‌فشان اندروی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخلدست و نعیم جاودان اندروی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوین خانه و این آب روان اندر وی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخ است و ره‌کاهشکان اندر وی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این مجلس شاه و گل‌فشان اندروی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خلدست و نعیم جاودان اندروی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وین خانه و این آب روان اندر وی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چرخ است و ره‌کاهشکان اندر وی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50181,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۲۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۲۱",
+  "FullUrl": "/mahsati/robmah/sh121",
+  "RhymeLetters": "میبندم",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به شعف و حسرت خود اشاره می‌کند. او به نوعی بیان می‌کند که هر جایی از چهره‌اش را که احساس درد و رنج کرده، حالا از چشمانش اشک نمی‌ریزد و سعی دارد با بستن چشمانش از جاری شدن اشک جلوگیری کند. او اعتراف می‌کند که در دوران سوگواری، حتی گرچه مدتی کم آببهاش صورتش را ببیند، با این حال هنوز اشک‌ها به طور ناخواسته از مژه‌هایش میریزد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "میبندم",
+      "PlainText": "هر جوی که از چهره به ناخن کندم\r\nاز دیده کنون آب درو می بندم\r\nبی آبی روی بود ار یک چندم\r\nآب از مژه بر روی از آن می بندم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جوی که از چهره به ناخن کندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دیده کنون آب درو می‌بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌آبی روی بود ار یک چندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب از مژه بر روی از آن می‌بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر جوی که از چهره به ناخن کندم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دیده کنون آب درو می‌بندم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی‌آبی روی بود ار یک چندم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آب از مژه بر روی از آن می‌بندم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

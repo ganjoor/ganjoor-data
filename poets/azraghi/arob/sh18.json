@@ -1,0 +1,58 @@
+{
+  "Id": 69379,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/azraghi/arob/sh18",
+  "RhymeLetters": "ارایدوست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از دوستش می‌خواهد که کمکش کند تا از درد و رنجی که از بدن بیمار خود رنج می‌برد، جدا شود. او به دوستش درخواست می‌کند که اجازه ندهد در افکار منفی غرق شود و یادآوری می‌کند که او همیشه در کنار اوست و به نوعی مانند برادرش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارایدوست",
+      "PlainText": "دل برکندم زین تن بیمار ای دوست\r\nبازم خر ازین به لطف یک بار ای دوست\r\nمگذار مرا بر در پندار ای دوست\r\nچون بر درت آمدم به زنهار ای دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل برکندم زین تن بیمار، ای دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازم خر ازین به لطف یک بار، ای دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگذار مرا بر در پندار، ای دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بر درت آمدم به زنهار، ای دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل برکندم زین تن بیمار، ای دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازم خر ازین به لطف یک بار، ای دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مگذار مرا بر در پندار، ای دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بر درت آمدم به زنهار، ای دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

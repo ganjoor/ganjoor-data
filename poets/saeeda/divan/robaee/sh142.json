@@ -1,0 +1,58 @@
+{
+  "Id": 108042,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۴۲",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۴۲",
+  "FullUrl": "/saeeda/divan/robaee/sh142",
+  "RhymeLetters": "دبودبانیکی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نقد افرادی می‌پردازد که به خوبی و نیکی روی می‌آورند، اما در واقعیت خود بدخواه و بدفطرت هستند. او به این نکته اشاره می‌کند که حتی اگر چهری زیبا داشته باشند، درونشان همچنان بد است. به عبارت دیگر، ظاهری زیبا نمی‌تواند جان و باطن زشت را پنهان کند و باید توجه داشت که نیکی افرادی که در حقیقت بدخواه هستند، بی‌ارزش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دبودبانیکی",
+      "PlainText": "آن بدگهری که بد بود با نیکی\r\nدیو است به نیک و دد بود با نیکی\r\nسگ را چو کنی بزرگ درویش گزد\r\nبا بد نیکی چو بد بود با نیکی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن بدگهری که بد بود با نیکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیو است به نیک و دد بود با نیکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسگ را چو کنی بزرگ، درویش گزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا بد نیکی چو بد بود با نیکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن بدگهری که بد بود با نیکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیو است به نیک و دد بود با نیکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سگ را چو کنی بزرگ، درویش گزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با بد نیکی چو بد بود با نیکی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

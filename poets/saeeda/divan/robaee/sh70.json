@@ -1,0 +1,58 @@
+{
+  "Id": 107970,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/saeeda/divan/robaee/sh70",
+  "RhymeLetters": "انند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر بی‌خبری و ناآگاهی کسانی است که تو را (حضرت حق یا اینکه معشوقی) می‌خوانند. آنها در حالی که ایمانشان متزلزل است، مانند درخت بید در حال لرزش هستند. همچنین، هر کدام از آنها امید و آرزوهای خود را به شکلی کودکانه و وابسته به نفس خود در دست دارند، در حالیکه به دور از حقیقت حرکت می‌کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انند",
+      "PlainText": "آنان که ندانند تو را می خوانند\r\nدر لرزه چو بید بر سر ایمانند\r\nپستان امل گرفته هر یک به دهن\r\nگهواره طفل نفس می جنبانند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که ندانند تو را می خوانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر لرزه چو بید بر سر ایمانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپستان [امل] گرفته هر یک به دهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهوارهٔ طفل نفس می جنبانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنان که ندانند تو را می خوانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در لرزه چو بید بر سر ایمانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پستان [امل] گرفته هر یک به دهن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گهوارهٔ طفل نفس می جنبانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 75845,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/nezari/robnez/sh98",
+  "RhymeLetters": "انشد",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر احساسات عاشقانه و پریشانی دل را بیان می‌کند. شاعر از بی‌نظمی و آشفتگی خود می‌گوید و اینکه نمی‌تواند از یارش جدا شود. همچنین، رقیب او را به ابر تشبیه می‌کند که باعث پنهان شدن محبوبش (ماه) می‌شود. به‌طور کلی، این شعر به حس از دست دادن و عشق نامطمئن اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انشد",
+      "PlainText": "ای دل سر و کارت ار چه بی سامان شد\r\nبا یار ز انصاف برون نتوان شد\r\nابرست رقیب و مه نو روی جیب\r\nچون ابر برآمد مه نو پنهان شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل سر و کارت ار چه بی‌سامان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا یار ز انصاف برون نتوان شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابرست رقیب و مه نو روی جیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ابر برآمد مه نو پنهان شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل سر و کارت ار چه بی‌سامان شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با یار ز انصاف برون نتوان شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ابرست رقیب و مه نو روی جیب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون ابر برآمد مه نو پنهان شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

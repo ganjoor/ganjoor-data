@@ -1,0 +1,58 @@
+{
+  "Id": 70089,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/amir/robam/sh46",
+  "RhymeLetters": "امت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به ستایش و یادآوری عظمت و قدرت شاه فلک می‌پردازد. او اشاره می‌کند که شمشیر شاه پیروزی را در آغوش گرفته و خوشبختی او بر دوش او است. همچنین، مخالفانش را نیز به گوشه‌ای رانده است. در کل، ابیات نشان‌دهندهٔ قدرت و موفقیت شاه و برتری او بر دشمنانش هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشگرفت",
+      "PlainText": "ای شاه فلک یاد تو را نوش گرفت\r\nشمشیر تو را ظفر در آغوش  گرفت\r\nاقبال تو را غاشیه بر دوش گرفت\r\nاد بار مخالف تو را گوش گرفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه فلک یاد تو را نوش گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمشیر تو را ظفر در آغوش‌ گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاقبال تو را غاشیه بر دوش گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاد‌بار مخالف تو را گوش گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه فلک یاد تو را نوش گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمشیر تو را ظفر در آغوش‌ گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اقبال تو را غاشیه بر دوش گرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اد‌بار مخالف تو را گوش گرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 103122,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶۸",
+  "FullUrl": "/jooya/divan/robaee/sh68",
+  "RhymeLetters": "ر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر به ظهور و رشد انسانیت اشاره می‌کند و می‌گوید که حتی اگر حال انسان به دلیل ناآگاهی ناقص باشد، باز هم از اصل خود که همان ماهیت پاک و واله‌اش است، جدا نمی‌شود. او به تشبیه دریا و آب در این زمینه می‌پردازد و نشان می‌دهد که انسان نمی‌تواند از اصل خود به‌راحتی جدا شود، حتی اگر از دریای وجود بیرون بیاید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "آید بوی یدالله از خاک بشر\r\nهر چند بود ز جهل حالش ابتر\r\nبا آنکه برون آمده است از دریا\r\nبیرون نتواند آمد از آب گهر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآید بوی یدالله از خاک بشر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چند بود ز جهل حالش ابتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا آنکه برون آمده است از دریا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون نتواند آمد از آب گهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آید بوی یدالله از خاک بشر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چند بود ز جهل حالش ابتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با آنکه برون آمده است از دریا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیرون نتواند آمد از آب گهر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

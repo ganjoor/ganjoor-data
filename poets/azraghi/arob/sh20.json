@@ -1,0 +1,58 @@
+{
+  "Id": 69381,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/azraghi/arob/sh20",
+  "RhymeLetters": "فت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به ستایش و زیبایی صفات عالی یک شخص می‌پردازد و می‌گوید که هرچه در عالم وجود دارد، به خوبی در مورد او پنهان شده است. او همچنین اشاره دارد که کسی مانند او، مهارت در مدح و ستایش ندارد و از طرفی، حکمت و خرد گرانبها در سخن به خوبی محفوظ است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فت",
+      "PlainText": "ای رای تو با ضمیر گردون شد جفت\r\nپیدا بر تو هر چه فلک راست نهفت\r\nمدح چو تویی چو من رهی داند گفت\r\nالماس خرد در سخن داند سفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رای تو با ضمیر گردون شد جفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیدا بر تو هر چه فلک راست نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح چو تویی چو من رهی داند گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالماس خرد در سخن داند سفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای رای تو با ضمیر گردون شد جفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیدا بر تو هر چه فلک راست نهفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مدح چو تویی چو من رهی داند گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "الماس خرد در سخن داند سفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 90743,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/kalim/divan/robaee/sh32",
+  "RhymeLetters": "ریزدازو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف جنگ و پیروزی می‌پردازد. او به بیداری ابرها اشاره می‌کند که در واقع نمادی از نیروهای جنگی هستند و به پیروزی‌هایی که به دست می‌آید و خونریزی‌هایی که بر اثر شکست دشمن رخ می‌دهد، اشاره می‌کند. همچنین، سمت و سو گرفتن شمشیرها و بازگشت از میدان نبرد نشان‌دهنده‌ی شدت نبرد و عواقب آن است؛ به طوری که منظره جنگ مانند آتش بازی می‌درخشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریزدازو",
+      "PlainText": "دریاست کفت سحاب می خیزد ازو\r\nیعنی سپرت که فتح می ریزد ازو\r\nشمشیر شکست وز مصافش برگشت\r\nخرمن دیدیکه برق بگریزد ازو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریاست کفت سحاب می خیزد ازو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی سپرت که فتح می ریزد ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمشیر شکست وز مصافش برگشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرمن دیدیکه برق بگریزد ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دریاست کفت سحاب می خیزد ازو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی سپرت که فتح می ریزد ازو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمشیر شکست وز مصافش برگشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خرمن دیدیکه برق بگریزد ازو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 68927,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۷۷",
+  "FullUrl": "/onsori/oro/sh77",
+  "RhymeLetters": "ری",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات می‌گوید که از زیبایی و ویژگی‌های حوری، چون تو، پسری به وجود نمی‌آید. او به صفت سنگ‌دلی و زیبایی تو اشاره می‌کند و می‌گوید که لب‌های تو مانند شکر شیرین‌اند و از هر سخن تو، شیرینی پراکنده می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "از حور بتی چون تو نزاید پسری\r\nچون سنگ دلی داری و گون سیم بری \r\nآمد دو لب ترا ز شکر نفری\r\nکز هر سخنی همی فشاند شکری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حور بتی چون تو نزاید پسری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سنگ دلی داری و گون سیم بری ؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد دو لب ترا ز شکر نفری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز هر سخنی همی فشاند شکری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حور بتی چون تو نزاید پسری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون سنگ دلی داری و گون سیم بری ؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمد دو لب ترا ز شکر نفری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز هر سخنی همی فشاند شکری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

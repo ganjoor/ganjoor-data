@@ -1,0 +1,58 @@
+{
+  "Id": 47682,
+  "CatId": 1726,
+  "Title": "قطعهٔ شمارهٔ ۱۳۱",
+  "FullTitle": "شاه نعمت‌الله ولی » قطعات » قطعهٔ شمارهٔ ۱۳۱",
+  "FullUrl": "/shahnematollah/ghetesh/sh131",
+  "RhymeLetters": "اقی",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به دو دسته از افراد اشاره می‌کند: برخی به دنبال ثروت و مال دنیا هستند که زودگذر و فانی است، در حالی که برخی دیگر به دنبال زندگی اخروی و ملک دائمی می‌گردند. زاهدان فقط به نان و چیزهای ساده‌ای مانند سرکه راضی هستند، در حالی که رندها خواهان خوشی و لذت از زندگی، نظیر شراب و ساقی هستند.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقی",
+      "PlainText": "بعضی طلبند مال فانی\r\nبعضی جویند ملک باقی\r\nزاهد طلبند نان و سرکه\r\nرندان خواهند جام و ساقی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبعضی طلبند مال فانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعضی جویند ملک باقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزاهد طلبند نان و سرکه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرندان خواهند جام و ساقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بعضی طلبند مال فانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بعضی جویند ملک باقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاهد طلبند نان و سرکه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رندان خواهند جام و ساقی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 108025,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۲۵",
+  "FullUrl": "/saeeda/divan/robaee/sh125",
+  "RhymeLetters": "ان",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت درباره یک دریا یا آب خروشان است که با طغیانی شدیدی روبرو می‌شود. هنگامی که امواج به حرکت درمی‌آیند، قطره‌ها بر روی زمین می‌افتند و برخی از آنها به شکل حیوان و برخی دیگر به شکل انسان درمی‌آیند. این تصویر، نمادی از دگرگونی و تحولات زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "بحری پنهان چو کرد جوش و طغیان\r\nهر سو گردید موج هاست دست افشان\r\nافتاد به خاک قطره ها زان افشان\r\nبعضی حیوان شدند و بعضی انسان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحری پنهان چو کرد جوش و طغیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر سو گردید موج هاست دست افشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافتاد به خاک قطره ها زان افشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعضی حیوان شدند و بعضی انسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بحری پنهان چو کرد جوش و طغیان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر سو گردید موج هاست دست افشان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افتاد به خاک قطره ها زان افشان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بعضی حیوان شدند و بعضی انسان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

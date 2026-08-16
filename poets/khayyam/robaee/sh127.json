@@ -1,0 +1,58 @@
+{
+  "Id": 1245,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۲۷",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۲۷",
+  "FullUrl": "/khayyam/robaee/sh127",
+  "RhymeLetters": "یم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر احساس عدم تعلق و ناپایداری در زندگی هستند. شاعر به این نکته اشاره می‌کند که چون در این دنیا هیچ جایگاه ثابتی ندارد، بی‌می و معشوق بودن خطایی بزرگ است. او از نگرانی‌ها و امیدها نسبت به گذشته و آینده سخن می‌گوید و در نهایت به این نتیجه می‌رسد که وقتی خود را ترک کند، دیگر هیچ چیزی برایش اهمیت نخواهد داشت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یم",
+      "PlainText": "چون نیست مقام ما در این دهر مقیم\r\nپس بی می و معشوق خطاییست عظیم\r\nتا کی ز قدیم و محدث امیدم و بیم\r\nچون من رفتم جهان چه محدث چه قدیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نیست مقام ما در این دهر مقیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس بی می و معشوق خطائیست عظیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی ز قدیم و محدث امیدم و بیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون من رفتم جهان چه محدث چه قدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نیست مقام ما در این دهر مقیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پس بی می و معشوق خطائیست عظیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا کی ز قدیم و محدث امیدم و بیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون من رفتم جهان چه محدث چه قدیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

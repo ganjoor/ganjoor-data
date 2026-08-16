@@ -1,0 +1,58 @@
+{
+  "Id": 50101,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۴۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۴۱",
+  "FullUrl": "/mahsati/robmah/sh41",
+  "RhymeLetters": "ویت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به عشق و زیبایی معشوق اشاره دارد. شاعر با سوگند به آفتاب که نماد روشنایی و زیبایی است، به چهره معشوق اشاره می‌کند و با اشاره به موی او که مانند مشک ناب است، احساسات عمیق خود را بیان می‌کند. همچنین ابراز می‌کند که هر شب اشک می‌ریزد و احساس کرده که کوی معشوق مأوای دلش است. در کل، شعر بیانگر عشق و دلتنگی عمیق شاعر نسبت به معشوق خود است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویت",
+      "PlainText": "سوگند به آفتاب یعنی رویت\r\nوآنگاه به مشک ناب یعنی مویت\r\nخواهم که ز دیده هر شبی آب زنم\r\nمأوای دل خراب یعنی کویت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوگند به آفتاب یعنی رویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنگاه به مشک ناب یعنی مویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهم که ز دیده هر شبی آب زنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمأوای دل خراب یعنی کویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سوگند به آفتاب یعنی رویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآنگاه به مشک ناب یعنی مویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم که ز دیده هر شبی آب زنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مأوای دل خراب یعنی کویت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

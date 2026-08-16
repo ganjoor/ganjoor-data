@@ -1,0 +1,58 @@
+{
+  "Id": 20513,
+  "CatId": 305,
+  "Title": "رباعی شمارهٔ ۵",
+  "FullTitle": "ابوسعید ابوالخیر » رباعیات نقل شده از ابوسعید از دیگر شاعران » رباعی شمارهٔ ۵",
+  "FullUrl": "/abusaeed/robaee-aa/sh5",
+  "RhymeLetters": "ادا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از شدت عشق و درد ناشی از آن فریاد می‌زند. او به یکطرفه بودن رابطه‌اش اشاره می‌کند و از ناله و شکایت خود از معشوق سخن می‌گوید. در نهایت، او به این نتیجه می‌رسد که اگر عشقش شکسته شود، او به حال خود رها خواهد شد و هر چه پیش آید، پیش خواهد آمد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادا",
+      "PlainText": "وا فریادا ز عشق وا فریادا\r\nکارم به یکی طرفه نگار افتادا\r\nگر داد من شکسته دادا دادا\r\nور نه من و عشق هر چه بادا بادا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوا فریادا ز عشق، وا فریادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکارم به یکی طرفه‌نگار افتادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دادِ منِ شکسته دادا، دادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه من و عشق هر چه بادا بادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وا فریادا ز عشق، وا فریادا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کارم به یکی طرفه‌نگار افتادا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دادِ منِ شکسته دادا، دادا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور نه من و عشق هر چه بادا بادا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

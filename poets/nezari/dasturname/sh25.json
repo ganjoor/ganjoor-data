@@ -1,0 +1,57 @@
+{
+  "Id": 73726,
+  "CatId": 2078,
+  "Title": "بخش ۲۵ - نو باده",
+  "FullTitle": "حکیم نزاری » دستورنامه » بخش ۲۵ - نو باده",
+  "FullUrl": "/nezari/dasturname/sh25",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها به اهمیت وفاداری به وعده‌ها و روابط قدیمی اشاره شده است. شاعر می‌گوید که نباید هر هفته به دنبال کمک جدید باشیم و نباید به خاطرات قدیمی اهمیت بدهیم. همچنین بیان می‌کند که این قصه‌ها و وعده‌ها در زمان حال به کار نمی‌آیند و باید از آن‌ها عبور کرد.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "به نوباده هر هفته یاری مکن\r\nبه هم بر مزن عهد یار کهن\r\nنه اینجاست آن قصه حجت میار\r\nکه تقویم پاری نیاید به کار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نوباده هر هفته یاری مَکُن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هم‌بر مزن عهدِ یار کهُن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه اینجاست آن قصه حجّت میار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تقویمِ پاری نیاید به کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به نوباده هر هفته یاری مَکُن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هم‌بر مزن عهدِ یار کهُن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه اینجاست آن قصه حجّت میار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که تقویمِ پاری نیاید به کار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

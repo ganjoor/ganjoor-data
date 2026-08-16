@@ -1,0 +1,58 @@
+{
+  "Id": 10109,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۴۸",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۴۸",
+  "FullUrl": "/saadi/divan/robaees/sh48",
+  "RhymeLetters": "یباشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به وضعیت ناپایدار و بی‌اعتمادی اشاره دارد. او به تصویر آهو و بره‌ای می‌پردازد که در خطر شیر قرار دارند و می‌گوید که چگونه می‌توان به این وضعیت اعتماد کرد. همچنین به نمادهایی چون نمک در آب و برف در آفتاب اشاره می‌کند که نشان‌دهنده زودگذر بودن برخی چیزهاست و از ناپایداری شرایط سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یباشد",
+      "PlainText": "آهو بره را که شیر در پی باشد\r\nبیچاره چه اعتماد بر وی باشد\r\nاین ملح در آب چند بتواند بود\r\nوین برف در آفتاب تا کی باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهو بره را که شیر در پی باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره چه اعتماد بر وی باشد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین ملح در آب چند بتواند بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین برف در آفتاب تا کی باشد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آهو بره را که شیر در پی باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیچاره چه اعتماد بر وی باشد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این ملح در آب چند بتواند بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین برف در آفتاب تا کی باشد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

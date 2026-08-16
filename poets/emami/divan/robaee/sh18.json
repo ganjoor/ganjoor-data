@@ -1,0 +1,58 @@
+{
+  "Id": 97277,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/emami/divan/robaee/sh18",
+  "RhymeLetters": "اقیماییم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این چهار بیت به بیان عشق و اشتیاق اشاره دارد. شاعر از حالت مستی و شوق دائمی صحبت می‌کند و به تماشای خود در آینه می‌پردازد. در نهایت، او به این نتیجه می‌رسد که در عین حال که وجود دارند، در حقیقت، خود را نمی‌شناسند و به نوعی پیوندی با بقاء و جاودانگی دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقیماییم",
+      "PlainText": "در دور سپهر مهر ساقی ماییم\r\nسر مست مدام اشتیاقی ماییم\r\nدر آینه ی وجود کردیم نظر\r\nماییم که ما نه ایم و باقی ماییم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دور سپهر مهر ساقی مائیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر مست مدام اشتیاقی مائیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آینه ی وجود کردیم نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمائیم که ما نه ایم و باقی مائیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دور سپهر مهر ساقی مائیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر مست مدام اشتیاقی مائیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آینه ی وجود کردیم نظر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مائیم که ما نه ایم و باقی مائیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

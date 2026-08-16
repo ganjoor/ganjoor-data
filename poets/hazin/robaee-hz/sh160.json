@@ -1,0 +1,58 @@
+{
+  "Id": 83048,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۶۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۶۰",
+  "FullUrl": "/hazin/robaee-hz/sh160",
+  "RhymeLetters": "نگبیار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از مطرب می‌خواهد که نی و چنگ نزنند و از یار خود پیامی برای دل تنگش بیاورد. او از باد صبحگاهی درخواست می‌کند که خبری از حلقه مرغان شباهنگ به قفس بیاورد. این شعر احساس دل‌تنگی و انتظار شاعر را به خوبی نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگبیار",
+      "PlainText": "مطرب مگذار دم نی و چنگ بیار\r\nاز یار پیامی به دل تنگ بیار\r\nسوی قفس ای باد سحرگه خبری\r\nاز حلقه مرغان شباهنگ بیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطرب مگذار دم، نی و چنگ بیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز یار، پیامی به دل تنگ بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوی قفس ای باد سحرگه، خبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حلقهٔ مرغان شباهنگ بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مطرب مگذار دم، نی و چنگ بیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از یار، پیامی به دل تنگ بیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سوی قفس ای باد سحرگه، خبری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از حلقهٔ مرغان شباهنگ بیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Id": 125577,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۴۲",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۴۲",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh42",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از غم و اندوه خود سخن می‌گوید که به خاطر حسین (شخصیت محوری واقعه عاشورا) احساس می‌کند. او اشاره می‌کند که حسین با تشنگی و فداکاری‌اش در کربلا، حتی در سفر خود، موجب شکرگزاری او شده است. در واقع، حسین نماد فخر و عزت در مواجهه با مشکلات و مصائب است.",
+  "Sections": [
+    {
+      "Index": 62,
+      "Number": 62,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بگشتحسین",
+      "PlainText": "هرچند که بر غمم سبب گشت حسین\r\nچون نور ز دیده محتجب گشت حسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچند که بر غمم سبب گشت حسین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نور ز دیده محتجب گشت حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 63,
+      "Number": 63,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "صد شکر که اندر سفر کرب و بلا\r\nقربان حسین تشنه لب گشت حسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد شکر که اندر سفر کرب و بلا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقربان حسین تشنه لب گشت حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 121,
+      "Number": 121,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بگشتحسین",
+      "PlainText": "هرچند که بر غمم سبب گشت حسین\r\nچون نور ز دیده محتجب گشت حسین\r\nصد شکر که اندر سفر کرب و بلا\r\nقربان حسین تشنه لب گشت حسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچند که بر غمم سبب گشت حسین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نور ز دیده محتجب گشت حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد شکر که اندر سفر کرب و بلا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقربان حسین تشنه لب گشت حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند که بر غمم سبب گشت حسین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 121,
+      "SectionIndex2": 62
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون نور ز دیده محتجب گشت حسین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 121,
+      "SectionIndex2": 62
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد شکر که اندر سفر کرب و بلا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 121,
+      "SectionIndex2": 63
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قربان حسین تشنه لب گشت حسین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 121,
+      "SectionIndex2": 63
+    }
+  ]
+}

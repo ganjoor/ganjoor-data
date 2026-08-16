@@ -1,0 +1,58 @@
+{
+  "Id": 119536,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/neshat/divan/robaee/sh2",
+  "RhymeLetters": "باست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که غم و غصه در کنار شادی‌ها و خوشی‌ها وجود دارد. شاعر تأکید می‌کند که حتی در دل غم‌ها نیز نشانه‌هایی از شادی و نشاط وجود دارد. مانند صبح که پس از شب می‌آید یا بهار که بعد از زمستان به وجود می‌آید، بنابراین ناراحتی و غم نباید ما را در darkness قرار دهد، چرا که امید و شادابی همیشه در راه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باست",
+      "PlainText": "این غصه و غم از پی چندین طرب است\r\nور هست غمی باز نشاط از عقب است\r\nصبح از اثر شام و بهار از پی دی\r\nبیند کس و پس غمین نشیند عجب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین غصه و غم از پی چندین طرب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور هست غمی باز نشاط از عقب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح از اثر شام و بهار از پی دی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیند کس و پس غمین نشیند عجب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این غصه و غم از پی چندین طرب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور هست غمی باز نشاط از عقب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبح از اثر شام و بهار از پی دی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیند کس و پس غمین نشیند عجب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

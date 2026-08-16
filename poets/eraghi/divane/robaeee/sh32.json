@@ -1,0 +1,58 @@
+{
+  "Id": 19584,
+  "CatId": 263,
+  "Title": "رباعی شمارهٔ ۳۲",
+  "FullTitle": "عراقی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳۲",
+  "FullUrl": "/eraghi/divane/robaeee/sh32",
+  "RhymeLetters": "یناست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به غم عشق اشاره می‌کند و می‌گوید که دل همیشه غم‌ناک است. او اعتراف می‌کند که شاهد دل معنی و باطن را نشان می‌دهد، اما چشم تنها به ظاهر و صورت نگاه می‌کند. به‌عبارتی، او در تضاد بین باطن و ظاهر قرار دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یناست",
+      "PlainText": "هر چند که دل را غم عشق آیین است\r\nچشم است که آفت دل مسکین است\r\nمن معترفم که شاهد دل معنی است\r\nاما چه کنم که چشم صورت بین است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که دل را غم عشق آیین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم است که آفت دل مسکین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن معترفم که شاهد دل معنی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما چه کنم؟ که چشم صورت بین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که دل را غم عشق آیین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم است که آفت دل مسکین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من معترفم که شاهد دل معنی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اما چه کنم؟ که چشم صورت بین است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

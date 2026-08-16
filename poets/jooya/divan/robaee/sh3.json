@@ -1,0 +1,58 @@
+{
+  "Id": 103057,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/jooya/divan/robaee/sh3",
+  "RhymeLetters": "اخترا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان حسرت و اندوه شاعر درباره‌ی شخصیت یا ویژگی‌ای اشاره دارد که نتوانسته به درستی آن را بشناسد یا از آن بهره‌برداری کند. شاعر آرزو دارد که می‌توانست به بهترین شکل از آن چیز یا شخص بهره‌برداری کند و به این نکته اشاره می‌کند که یک بدکار یا سرنوشت نامساعد، مانع از تحقق این آرزو شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اختورا",
+      "PlainText": "لعلی آخر چه بود آواخ تو را\r\nای کاش به بر کشیدمی آخ تو را\r\nبودی در ناسفته ز قیمت انداخت\r\nآن بدگهری که کرد سوراخ تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعلی آخر چه بود آواخ تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای کاش به بر کشیدمی آخ تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبودی دُرِ ناسفته ز قیمت انداخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن بدگهری که کرد سوراخ تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لعلی آخر چه بود آواخ تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای کاش به بر کشیدمی آخ تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بودی دُرِ ناسفته ز قیمت انداخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن بدگهری که کرد سوراخ تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 112329,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/sahab/divan/robaee/sh5",
+  "RhymeLetters": "اب",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از شب‌های بی‌خوابی و دل‌تنگی به خاطر دوری معشوق سخن می‌گوید. چشم‌هایش به خاطر اشک‌ها و غم، از خواب بازمانده‌اند و نه بیداری می‌تواند به او آرامش دهد و نه خواب می‌تواند بر دلش بگذارد. در واقع، او از بی‌خوابی و غم ناشی از جدایی رنج می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "شبها که زهجران توام در تب و تاب\r\nیک دم نرود به خواب این چشم پر آب\r\nنه بیداری زدیده آموزد بخت\r\nنه دیده زبخت خفته آموزد خواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبها که زهجران توام در تب و تاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دم نرود به خواب این چشم پر آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه بیداری زدیده آموزد بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه دیده زبخت خفته آموزد خواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبها که زهجران توام در تب و تاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک دم نرود به خواب این چشم پر آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه بیداری زدیده آموزد بخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه دیده زبخت خفته آموزد خواب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

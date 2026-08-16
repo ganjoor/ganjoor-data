@@ -1,0 +1,43 @@
+{
+  "Id": 18100,
+  "CatId": 255,
+  "Title": "بخش ۳۰ - فرد",
+  "FullTitle": "اوحدی مراغه‌ای » منطق‌العشاق » بخش ۳۰ - فرد",
+  "FullUrl": "/ouhadi/mantegholoshagh/sh30",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که نمی‌خواهد به یاری کسی بپردازد، در حالی که آن شخص به گریه و زاری مشغول خواهد بود.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اری",
+      "PlainText": "نخواهم با تو پیوستن به یاری\r\nتو خواهی گریه میکن خواه زاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخواهم با تو پیوستن به یاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو خواهی گریه میکن، خواه زاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نخواهم با تو پیوستن به یاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو خواهی گریه میکن، خواه زاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

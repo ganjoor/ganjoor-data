@@ -1,0 +1,58 @@
+{
+  "Id": 2074,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۲۴",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۲۴",
+  "FullUrl": "/hafez/robaee2/sh24",
+  "RhymeLetters": "ادش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به زیبایی چشم و گوش معشوقه‌اش اشاره می‌کند. او چشم معشوق را به سحر بابل تشبیه کرده و از خداوند می‌خواهد که جادوی آن را از یاد نبرد. همچنین گوش معشوق را که در زیبایی معشوق حلقه کرده، به حافظ تعلق می‌دهد و امیدوار است این زیبایی در اشعار حافظ جاویدان بماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادش",
+      "PlainText": "چشم تو که سحر بابل است استادش\r\nیا رب که فسون ها برواد از یادش\r\nآن گوش که حلقه کرد در گوش جمال\r\nآویزه در ز نظم حافظ بادش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم تو که سِحرِ بابِل است استادش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا رب که فسون‌ها برواد از یادش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن گوش که حلقه کرد در گوش جمال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآویزهٔ دُرّ ز نظم حافظ بادش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم تو که سِحرِ بابِل است استادش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا رب که فسون‌ها برواد از یادش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن گوش که حلقه کرد در گوش جمال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آویزهٔ دُرّ ز نظم حافظ بادش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

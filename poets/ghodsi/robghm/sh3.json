@@ -1,0 +1,58 @@
+{
+  "Id": 74544,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/ghodsi/robghm/sh3",
+  "RhymeLetters": "رکنمارا",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این عبارتها، شاعر از خداوند طلب می‌کند که داستان زندگی‌اش را خلاصه کند و او را از خواب غفلت بیدار کند. او به خداوند اشاره می‌کند که بی‌نظرتی او غیرممکن است و از او می‌خواهد که با نگاهی به او، کاستی‌هایش را ببخشد و به او توجه کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رکنمارا",
+      "PlainText": "یا رب که فسانه مختصر کن ما را\r\nخواب مستی ز سر به در کن ما را\r\nای پاکی مرد بی نگاه تو محال\r\nصد خرده بگیر و یک نظر کن ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب که فسانه مختصر کن ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواب مستی ز سر به در کن ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پاکی مرد بی نگاه تو محال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد خرده بگیر و یک نظر کن ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب که فسانه مختصر کن ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواب مستی ز سر به در کن ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای پاکی مرد بی نگاه تو محال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد خرده بگیر و یک نظر کن ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

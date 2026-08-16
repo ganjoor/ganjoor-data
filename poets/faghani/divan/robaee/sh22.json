@@ -1,0 +1,58 @@
+{
+  "Id": 97094,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/faghani/divan/robaee/sh22",
+  "RhymeLetters": "روزیما",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: خداوندا، ما از فقر و درد شوق تو رنج می‌بریم. ما تنها لقمه‌ای که در دست داشتیم، از سفره‌ی انسان‌هاست و نباید روزی ما به آن وابسته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روزیما",
+      "PlainText": "یا رب بفقیری و جگر سوزی ما\r\nوز شعله ی شوق تو دل افروزی ما\r\nکان لقمه که در پیش بود منت خلق\r\nاز خوان لییمان نکنی روزی ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب بفقیری و جگر سوزی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز شعله ی شوق تو دل افروزی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکان لقمه که در پیش بود منت خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خوان لئیمان نکنی روزی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب بفقیری و جگر سوزی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز شعله ی شوق تو دل افروزی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کان لقمه که در پیش بود منت خلق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خوان لئیمان نکنی روزی ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

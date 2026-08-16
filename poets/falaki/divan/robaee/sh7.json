@@ -1,0 +1,58 @@
+{
+  "Id": 115179,
+  "CatId": 2674,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "فلکی شروانی » دیوان اشعار » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/falaki/divan/robaee/sh7",
+  "RhymeLetters": "ایامید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به ناامیدی و درد ناشی از عشق می‌پردازد. شاعر به این موضوع اشاره می‌کند که وقتی امید به دست نمی‌آید، غم و اندوه جای آن را می‌گیرد. عقل در عشق جایی برای امید ندارد و اگر این وضعیت ادامه یابد، اوضاع بسیار ناگوار خواهد بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایامید",
+      "PlainText": "چون دست نمی رسد به سودای امید\r\nدر دامن غم کشیده به پای امید\r\nدر عشق نماند عقل را جای امید\r\nتا آخر اگر چنین بود وای امید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دست نمی رسد به سودای امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دامن غم کشیده به پای امید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق نماند عقل را جای امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا آخر اگر چنین بود وای امید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون دست نمی رسد به سودای امید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دامن غم کشیده به پای امید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عشق نماند عقل را جای امید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا آخر اگر چنین بود وای امید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

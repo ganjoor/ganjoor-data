@@ -1,0 +1,58 @@
+{
+  "Id": 48730,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۱",
+  "FullUrl": "/orfi/robaeeor/sh11",
+  "RhymeLetters": "ست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: عرفی به زنانی اشاره می‌کند که با طعنه و کنایه به او می‌زنند و مردان نیز نمی‌توانند راز دل خود را بیان کنند. او از نوحه‌ای صحبت می‌کند که نمی‌تواند آن را به زبان آورد و از گریه‌ای می‌گوید که در دلش وجود دارد و به چشم‌ها نمی‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "عرفی چه زنی طعن خرد بر من مست\r\nمردان ننهند راز دل بر کف دست\r\nآن نوحه که راه لب نداند داریم\r\nآن گریه که دل به دیده بگذارد هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعرفی چه زنی طعن خرد بر من مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردان ننهند راز دل بر کف دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نوحه که راه لب نداند، داریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن گریه که دل به دیده بگذارد هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی چه زنی طعن خرد بر من مست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مردان ننهند راز دل بر کف دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن نوحه که راه لب نداند، داریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن گریه که دل به دیده بگذارد هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1142,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۲۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۲۴",
+  "FullUrl": "/khayyam/robaee/sh24",
+  "RhymeLetters": "درست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این رباعی دعوت است از الهام گرفتن از طبیعت و شاد بودن همچون لاله بهاری که ابر بهاری رخ او را شاداب و سرخ کرده و غنیمت شمردن عمر کوتاه که باید چنان به آن نگاه کرد که سبزه‌زاری است که از خاک ما روییده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "درست",
+      "PlainText": "چون ابر به نوروز رخ لاله بشست\r\nبرخیز و به جام باده کن عزم درست\r\nکاین سبزه که امروز تماشاگه توست\r\nفردا همه از خاک تو برخواهد رست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ابر به نوروز رخِ لاله بِشُسْت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخیز و به جامِ باده کن عزمِ دُرُسْت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاین سبزه که امروز تماشاگهِ توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا همه از خاک تو برخواهد رُسْت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون ابر به نوروز رخِ لاله بِشُسْت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برخیز و به جامِ باده کن عزمِ دُرُسْت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کاین سبزه که امروز تماشاگهِ توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فردا همه از خاک تو برخواهد رُسْت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

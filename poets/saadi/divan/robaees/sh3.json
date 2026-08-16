@@ -1,0 +1,58 @@
+{
+  "Id": 10064,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۳",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳",
+  "FullUrl": "/saadi/divan/robaees/sh3",
+  "RhymeLetters": "راب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی چشم معشوق اشاره می‌کند که همچون مستی از خواب و شراب است. او بیان می‌کند که عالمان و صاحب‌نظران به دنبال وصال این معشوق‌اند، اما این اشتیاق برای آنها همچون سرابی می‌ماند. شاعر اشاره می‌کند که هیچ انسانی چه در شرایط خوب و چه بد، نمی‌تواند در این زیبایی مشابهی ببیند؛ مگر اینکه در آینه یا آب نگاه کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راب",
+      "PlainText": "ای چشم تو مست خواب و سرمست شراب\r\nصاحب نظران تشنه و وصل تو سراب\r\nمانند تو آدمی در آباد و خراب\r\nباشد که در آیینه توان دید و در آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چشم تو مست خواب و سرمست شراب!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصاحب‌نظران تشنه و وصل تو سراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانند تو آدمی در آباد و خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد که در آیینه، توان دید و در آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چشم تو مست خواب و سرمست شراب!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صاحب‌نظران تشنه و وصل تو سراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مانند تو آدمی در آباد و خراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باشد که در آیینه، توان دید و در آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

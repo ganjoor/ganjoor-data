@@ -1,0 +1,58 @@
+{
+  "Id": 119022,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۱",
+  "FullUrl": "/azar/divan/robaee/sh101",
+  "RhymeLetters": "یروز",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به جستجو برای پیدا کردن روزهای شاد و خوشبختی اشاره دارد. او هر شب آرزو می‌کند که روز بیاید و زندگی‌اش بهتر شود، اما با وجود گذشت چهل سال از عمرش، همچنان در چرخه شب و روز گیر کرده و نتوانسته به هدفش برسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یروز",
+      "PlainText": "جویم هر روز شب که کاهد این سوز\r\nگویم هر شب که روز گردد فیروز\r\nاز عمر چهل سال گذشته است و هنوز\r\nروز از پی شب گردم و شب از پی روز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجویم هر روز شب، که کاهد این سوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویم هر شب که: روز گردد فیروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عمر، چهل سال گذشته است و، هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز از پی شب گردم و شب از پی روز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جویم هر روز شب، که کاهد این سوز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویم هر شب که: روز گردد فیروز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از عمر، چهل سال گذشته است و، هنوز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روز از پی شب گردم و شب از پی روز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

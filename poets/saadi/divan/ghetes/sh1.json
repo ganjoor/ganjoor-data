@@ -1,0 +1,58 @@
+{
+  "Id": 10691,
+  "CatId": 144,
+  "Title": "قطعه شمارهٔ ۱",
+  "FullTitle": "سعدی » دیوان اشعار » قطعات » قطعه شمارهٔ ۱",
+  "FullUrl": "/saadi/divan/ghetes/sh1",
+  "RhymeLetters": "اب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره دلتنگی و عشق شاعر به دوستان و آشنایانش است. شاعر با استفاده از تصاویری مانند متی آتش که به شیراز می‌آید و نسیم صبح، از احساسات عمیق خود سخن می‌گوید. او از صبری که به خاطر عشق نمی‌تواند تحمل کند، صحبت می‌کند و به ضرورت، صبر را شبیه به صبر ماهی در آب می‌داند؛ یعنی این صبر برای او ناممکن و دشوار است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "متیٰ حللت بشیراز یا نسیم الصبح\r\nخذ الکتاب و بلغ سلامی الأحباب\r\nاگر چه صبر من از روی دوست ممکن نیست\r\nهمی کنم به ضرورت چو صبر ماهی از آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمَتیٰ حَلَلْتَ بِشیراز یا نَسیمَ الصُّبْح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخُذِ الْکِتابَ وَ بَلِّغْ سَلامیَ الْأَحْباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه صبرِ من از روی دوست ممکن نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی کنم به ضرورت، چو صبرِ ماهی از آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مَتیٰ حَلَلْتَ بِشیراز یا نَسیمَ الصُّبْح",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خُذِ الْکِتابَ وَ بَلِّغْ سَلامیَ الْأَحْباب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر چه صبرِ من از روی دوست ممکن نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همی کنم به ضرورت، چو صبرِ ماهی از آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

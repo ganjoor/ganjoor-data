@@ -1,0 +1,58 @@
+{
+  "Id": 51791,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۶۸",
+  "FullUrl": "/bahar/robaeebk/sh68",
+  "RhymeLetters": "نی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به ارتباط عمیق بین روح و بدن اشاره می‌کند. او روح را مخاطب قرار می‌دهد و می‌گوید که این روح جویای ذات خویش است. همچنین بیان می‌کند که او و روح یکدیگر هستند و او خود را فرزند روح می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نی",
+      "PlainText": "ای روح روان که فارغ از این بدنی\r\nجویای عزیزکرده خویشتنی\r\nای خفته به خاک  من تو هستم تو منی\r\nمن فرزندم تو مادر ممتحنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای روح روان که فارغ از این بدنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجویای عزیزکردهٔ خویشتنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خفته به خاک‌، من تو هستم تو منی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن فرزندم تو مادر ممتحنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای روح روان که فارغ از این بدنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جویای عزیزکردهٔ خویشتنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خفته به خاک‌، من تو هستم تو منی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من فرزندم تو مادر ممتحنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

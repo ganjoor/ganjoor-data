@@ -1,0 +1,58 @@
+{
+  "Id": 70065,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/amir/robam/sh22",
+  "RhymeLetters": "است",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به معنای آن است که اگر دشمنان انسان بدخواهی کنند، خداوند هر رازی را که بخواهد، برآورده می‌سازد. در حال حاضر، سعادت و خوشبختی تو واقعی است و برابری تو با دیگران بیشتر شده و دشمنی‌ها کمتر شده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "گر خصم نخواست از حسد کار توراست\r\nایزد ملکا هر آنچه او خواست نخواست\r\nامروز که راست این سعادت که تو راست\r\nاقبال فزون گشته و خصمان کم و کاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خصم نخواست از حسد کار توراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایزد ملکا هر آنچه او خواست نخواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز که راست این سعادت که تو راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاقبال فزون گشته و خصمان کم و کاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر خصم نخواست از حسد کار توراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ایزد ملکا هر آنچه او خواست نخواست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز که راست این سعادت که تو راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اقبال فزون گشته و خصمان کم و کاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

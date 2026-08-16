@@ -1,0 +1,58 @@
+{
+  "Id": 1227,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۰۹",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۰۹",
+  "FullUrl": "/khayyam/robaee/sh109",
+  "RhymeLetters": "انخور",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر توصیه می‌کند که اگر تصمیم به نوشیدن باده داری، یا با افراد خردمند بنوش یا با کسی که چهره‌ای زیبا و شاداب دارد. همچنین هشدار می‌دهد که در مصرف مشروبات نباید افراط کرد و بهتر است کم و به طور پنهانی بنوشی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انخور",
+      "PlainText": "گر باده خوری تو با خردمندان خور\r\nیا با صنمی لاله رخی خندان خور\r\nبسیار مخور ورد مکن فاش مساز\r\nاندک خور و گهگاه خور و پنهان خور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر باده خوری تو با خردمندان خور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا با صنمی لاله رخی خندان خور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسیار مخور ورد مکن فاش مساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندک خور و گهگاه خور و پنهان خور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر باده خوری تو با خردمندان خور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا با صنمی لاله رخی خندان خور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسیار مخور ورد مکن فاش مساز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندک خور و گهگاه خور و پنهان خور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

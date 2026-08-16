@@ -1,0 +1,58 @@
+{
+  "Id": 120717,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/hamgar/divan/robaee/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر با طعنه به چرخ بی‌رحم روزگار می‌پردازد و از بی‌خوابی و ناامیدی شاعر سخن می‌گوید. شاعر از روزگار می‌خواهد که به خاطر خدا هم که شده، به حال او رحم کند و در مورد زندگی‌اش تصمیم بهتری بگیرد. او به نوعی نارضایتی خود را از شرایط زندگی ابراز می‌کند و از سرنوشتش گله دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "ای چرخ هزار دیده دون دوتا\r\nاز دیده بیخواب منت نیست حیا\r\nصبح دومت بگوی کز بهر خدا\r\nگر جان منی یا نفسم زود برآ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چرخ هزار دیدهٔ دون دوتا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دیدهٔ بیخواب مَنَت نیست حیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح دومت بگوی کز بهر خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر جان منی یا نفسم، زود برآ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چرخ هزار دیدهٔ دون دوتا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دیدهٔ بیخواب مَنَت نیست حیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبح دومت بگوی کز بهر خدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر جان منی یا نفسم، زود برآ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

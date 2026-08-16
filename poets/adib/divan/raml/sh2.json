@@ -1,0 +1,66 @@
+{
+  "Id": 118424,
+  "CatId": 2730,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "ادیب الممالک » دیوان اشعار » اصطلاحات علم رمل » شمارهٔ ۲",
+  "FullUrl": "/adib/divan/raml/sh2",
+  "RhymeLetters": "اف",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن به اشکال رمل و ترتیب آن اشاره دارد و به نوعی بیان می‌کند که اگر می‌خواهی درباره ترتیب و ساختار آن اطلاعاتی به دست آوری، باید به لحن و نوع بیان توجه کنی. به عبارت دیگر، نظم و ترکیب خاصی در این اشکال وجود دارد که باید درک شود.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "خواهیاگرترتیبان",
+      "PlainText": "اشکال رمل اینست و بس خواهی اگر ترتیب آن\r\nلحن بقاع اعقفن بغطج بود نرکیب آن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشکال رمل اینست و بس خواهی اگر ترتیب آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلحن بقاع اعقفن، بغطج بود نرکیب آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "لحن بقاع اعقفن\r\nبغطج بود نرکیب آن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلحن بقاع اعقفن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبغطج بود نرکیب آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 0
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یبان",
+      "PlainText": "اشکال رمل اینست و بس خواهی اگر ترتیب آن\r\nلحن بقاع اعقفن بغطج بود نرکیب آن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشکال رمل اینست و بس خواهی اگر ترتیب آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلحن بقاع اعقفن، بغطج بود نرکیب آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشکال رمل اینست و بس خواهی اگر ترتیب آن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 12,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لحن بقاع اعقفن، بغطج بود نرکیب آن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 12,
+      "SectionIndex2": 10
+    }
+  ]
+}

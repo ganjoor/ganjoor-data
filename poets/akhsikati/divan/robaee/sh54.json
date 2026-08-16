@@ -1,0 +1,58 @@
+{
+  "Id": 116180,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۵۴",
+  "FullUrl": "/akhsikati/divan/robaee/sh54",
+  "RhymeLetters": "ایی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از دوری محبوب و اثر آن بر روحش سخن می‌گوید. او از غم و تنهایی خود در نبود محبوبش به شدت رنج می‌برد و به شیدایی و دیوانگی دچار شده است. او امیدوار است که محبوبش دوباره به سلامت بازگردد تا از این غم و تنهایی رهایی یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایی",
+      "PlainText": "تا از بر من برفتی ای بینایی\r\nز اندیشه هجر تو شدم شیدایی\r\nتا تو بسلامت ای صنم باز آیی\r\nما و غم و کنج خانه و تنهایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا از بر من برفتی ای بینائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اندیشه هجر تو شدم شیدائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تو بسلامت ای صنم باز آئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما و غم و کنج خانه و تنهائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا از بر من برفتی ای بینائی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز اندیشه هجر تو شدم شیدائی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا تو بسلامت ای صنم باز آئی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما و غم و کنج خانه و تنهائی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

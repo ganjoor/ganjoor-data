@@ -1,0 +1,58 @@
+{
+  "Id": 43078,
+  "CatId": 1684,
+  "Title": "رباعی شماره ۱",
+  "FullTitle": "رضی‌الدین آرتیمانی » رباعیات » رباعی شماره ۱",
+  "FullUrl": "/razi/robaeear/sh1",
+  "RhymeLetters": "نبازا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار دعوتی به بازگشت و نزدیکی دوباره است. شاعر از معشوق می‌خواهد که مانند روح به بدن بازگردد و به او نزدیک شود. او که از دوری معشوق در حال مرگ است، می‌خواهد دوباره زندگی را با آمدن او تجربه کند. به طور کلی، این شعر حس دلتنگی و longing برای وصال را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نبازا",
+      "PlainText": "باز آ باز آ چو روح در تن باز آ\r\nچون جان به بدن چو گل بگلشن باز آ\r\nگفتی که چسان تو زنده ای دور از من\r\nدور از تو فتاده ام به مردن باز آ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز آ باز آ، چو روح در تن باز آ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون جان به بدن، چو گل بگلشن باز آ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که چسان تو زنده‌ای دور از من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور از تو فتاده‌ام به مردن باز آ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز آ باز آ، چو روح در تن باز آ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون جان به بدن، چو گل بگلشن باز آ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی که چسان تو زنده‌ای دور از من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دور از تو فتاده‌ام به مردن باز آ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50102,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۴۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۴۲",
+  "FullUrl": "/mahsati/robmah/sh42",
+  "RhymeLetters": "وشباد",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با حسرت و اندوه از دوری محبوب می‌گوید. او تیر ستم و درد را به دل خود نسبت می‌دهد و آرزو می‌کند که ماندگاری چهره زیبا و دلنشین محبوبش تا ابد باشد. در نهایت، شاعر به دوست خوش‌دل خود که در خاک به خواب رفته، دعا می‌کند و از خداوند می‌خواهد که خاک او را خوش و نیکو کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشباد",
+      "PlainText": "تیر ستم تو را دلم ترکش باد\r\nصد سال بقای آن رخ مهوش باد\r\nدر خاک در تو مرد خوش خوش دل من\r\nیا رب که دعا کرد که خاکش خوش باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیر ستم تو را دلم ترکش باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد سال بقای آن رخ مهوش باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خاک درِ تو مُرد خوش خوش دل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا رب که دعا کرد که خاکش خَوش باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تیر ستم تو را دلم ترکش باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد سال بقای آن رخ مهوش باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خاک درِ تو مُرد خوش خوش دل من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا رب که دعا کرد که خاکش خَوش باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

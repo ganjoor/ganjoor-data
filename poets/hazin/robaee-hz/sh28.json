@@ -1,0 +1,58 @@
+{
+  "Id": 82916,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/hazin/robaee-hz/sh28",
+  "RhymeLetters": "وراست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر از شدت گریه و ناله‌اش صحبت می‌کند که باعث رنجش دل و روح او و همچنین آسمان شده است. او به این نکته اشاره می‌کند که آسمان هم نتوانسته همدم عشق و شوق او باشد و این عشق برای او بسیار ارزشمندتر از هر چیزی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وراست",
+      "PlainText": "ازگریه من دیده اختر شور است\r\nوز ناله ی من دل ملک رنجور است\r\nگردون نبود حریف پیمانه عشق\r\nاین رطل گرانتر از سر مخمور است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازگریهٔ من دیدهٔ اختر شور است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ناله ی من دل ملک رنجور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردون نبود حریف پیمانهٔ عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین رطل گرانتر از سر مخمور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ازگریهٔ من دیدهٔ اختر شور است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز ناله ی من دل ملک رنجور است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردون نبود حریف پیمانهٔ عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این رطل گرانتر از سر مخمور است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

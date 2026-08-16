@@ -1,0 +1,58 @@
+{
+  "Id": 51752,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۲۹ - وصف گلابی",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۲۹ - وصف گلابی",
+  "FullUrl": "/bahar/robaeebk/sh29",
+  "RhymeLetters": "یختهاند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به ترکیب خشخاش و عسل اشاره می‌کند که به گلاب افزوده شده است. سپس این ترکیب را در برگ‌های زرد گلشن می‌ریزد و در نهایت آن را به شاخه‌ای از سروش آویزان می‌کند. این تصویرسازی، نمادهایی از زیبایی و لطافت طبیعت را به نمایش می‌گذارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یختهاند",
+      "PlainText": "خشخاش و عسل بهم برآمیخته اند\r\nجزوی ز گلاب اندرو ریخته اند\r\nپس در ورق زرد گلشن بیخته اند\r\nوانگاه به شاخ سروش آویخته اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخشخاش و عسل بهم برآمیخته‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجزوی ز گلاب اندرو ریخته‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس در ورق زرد گلشن بیخته‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانگاه به شاخ سروش آویخته‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خشخاش و عسل بهم برآمیخته‌اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جزوی ز گلاب اندرو ریخته‌اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پس در ورق زرد گلشن بیخته‌اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وانگاه به شاخ سروش آویخته‌اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

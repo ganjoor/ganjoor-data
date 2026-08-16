@@ -1,0 +1,58 @@
+{
+  "Id": 45662,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۲۲",
+  "FullUrl": "/ghaani/ghetegh/sh22",
+  "RhymeLetters": "شانست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از حال پریشان خود سخن می‌گوید و به دیگران توصیه می‌کند که نگران تربیت خود نباشند. او به وجود شکر و قدردانی به رغم پریشانی‌های زندگی اشاره می‌کند و زیبایی عشق را که همچون تار موی محبوبش دل‌ربا است، ستایش می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شانست",
+      "PlainText": "درین کتاب پریشان نبینی از تربیتت\r\nعجب مدار که چون حال من پریشانست\r\nهزار شکر که با یک جهان پریشانی\r\nچو تار طره دلدار عنبرافشانست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرین‌کتاب پریشان نبینی از تربیتت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب مدار که چون حال من پریشانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار شکر که با یک جهان پریشانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو تار طرهٔ دلدار عنبرافشانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درین‌کتاب پریشان نبینی از تربیتت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عجب مدار که چون حال من پریشانست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هزار شکر که با یک جهان پریشانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو تار طرهٔ دلدار عنبرافشانست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

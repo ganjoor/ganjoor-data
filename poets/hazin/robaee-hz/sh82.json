@@ -1,0 +1,58 @@
+{
+  "Id": 82970,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/hazin/robaee-hz/sh82",
+  "RhymeLetters": "ارینکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از غم و درد دل خود سخن می‌گوید و بیان می‌کند که شاخ گل از خارها نگران نیست و دلش نسبت به آن‌ها رحم نمی‌کند. او نگران است که دلش از شدت ناراحتی به خروش بیفتد و در نتیجه، خود به خوار و زاری تبدیل شود، اما ناله و گریه‌اش فایده‌ای نداشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارینکند",
+      "PlainText": "شاخ گل من نظر به خاری نکند\r\nرحمی به دل سینه فگاری نکند\r\nترسم نبرد دل از خروشیدن سود\r\nما خوار شویم و ناله کاری نکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاخ گل من نظر به خاری نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحمی به دل سینه فگاری نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم نبرد دل از خروشیدن سود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما خوار شویم و ناله کاری نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاخ گل من نظر به خاری نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رحمی به دل سینه فگاری نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترسم نبرد دل از خروشیدن سود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما خوار شویم و ناله کاری نکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

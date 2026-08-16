@@ -1,0 +1,58 @@
+{
+  "Id": 35040,
+  "CatId": 826,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "عطار » مختارنامه » باب بیست و پنجم: در مراثی رفتگان » شمارهٔ ۱۰",
+  "FullUrl": "/attar/mokhtarname/bb25/sh10",
+  "RhymeLetters": "یش",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت یادآور می‌شود که در کنار خاک دلبری، دلش را شکسته و به خون جگر می‌نشیند. همچنین، صدایی به او می‌گوید که چرا برای دیگران گریه می‌کنی، زیرا باید به حال خودت گریه کنی و شرایط سختی در پیش داری.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یش",
+      "PlainText": "دی بر سر خاک دلبری با دل ریش\r\nمیباریدم خون جگر بر رخ خویش\r\nآواز آمد که چند گریی بر ما\r\nبر خویش گری که کار داری در پیش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی بر سر خاک دلبری با دل ریش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیباریدم خون جگر بر رخ خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآواز آمد که چند گریی بر ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خویش گری که کار داری در پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی بر سر خاک دلبری با دل ریش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "میباریدم خون جگر بر رخ خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آواز آمد که چند گریی بر ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر خویش گری که کار داری در پیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

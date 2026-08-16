@@ -1,0 +1,58 @@
+{
+  "Id": 70193,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۵۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۵۰",
+  "FullUrl": "/amir/robam/sh150",
+  "RhymeLetters": "الرخسارهٔتو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این چهار خط شعری به مضمون احساسات انسانی و سرنوشت اشاره دارد. شاعر به فردی اشاره می‌کند که بر اثر تقدیر (اختر) دچار مشکلاتی شده و اعمالش نیز نامناسب بوده‌اند. اگر کسی به او بی‌وفایی کند، این ناشکیبایی در دل او تأثیر گذار خواهد بود و سرنوشت او نیز تحت تأثیر این دل شکسسته قرار خواهد گرفت. به طور کلی، شعر به تأثیر تقدیر و شکستن عهد در روابط انسانی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راو",
+      "PlainText": "خصمی که بر او فسوس کرد اختر او\r\nاو را عملی داد نه اندر خور او\r\nگر عهد تو بشکست دل اندر بر او\r\nسر دل او گشت قضای سر او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخصمی‌که بر او فسوس کرد اختر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را عملی داد نه اندر خور او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر عهد تو بشکست دل اندر بر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرّ دل او گشت قضای سر او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خصمی‌که بر او فسوس کرد اختر او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او را عملی داد نه اندر خور او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر عهد تو بشکست دل اندر بر او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرّ دل او گشت قضای سر او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83091,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۹۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۹۴",
+  "FullUrl": "/hazin/robaee-hz/sh194",
+  "RhymeLetters": "ازکنیم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق و شوق سفر سخن می‌گوید و علاقه دارد که هرچه زودتر آماده‌ سفر شوند. او امیدوار است که بتوانند در این سفر از محدودیت‌ها رها شوند و به بالندگی و شکوفایی دست یابند. همچنین به پرواز بلبل خوش‌صدا در عرش اشاره می‌کند و از توده خاکی که ماییم، به ارتفاع و زیبایی آسمان دعوت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازکنیم",
+      "PlainText": "بشتاب دلا برگ سفر ساز کنیم\r\nشاید در فیض بسته را باز کنیم\r\nما بلبل خوش صفیر عرشیم بیا\r\nزین توده خاک تیره پرواز کنیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشتاب دلا برگ سفر ساز کنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاید در فیض بسته را باز کنیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما بلبل خوش صفیر عرشیم، بیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین تودهٔ خاک تیره، پرواز کنیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بشتاب دلا برگ سفر ساز کنیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاید در فیض بسته را باز کنیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما بلبل خوش صفیر عرشیم، بیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین تودهٔ خاک تیره، پرواز کنیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

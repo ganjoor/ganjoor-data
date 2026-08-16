@@ -1,0 +1,58 @@
+{
+  "Id": 112348,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/sahab/divan/robaee/sh24",
+  "RhymeLetters": "ارهمهکس",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از غم و اندوه ناشی از عشق صحبت می‌کند. او به این نکته اشاره می‌کند که همه مردم تحت تأثیر این غم هستند و زندگی‌شان به خاطر عشق او سخت و تاریک شده است. عشق او نه تنها بر زندگی خودش بلکه بر زندگی همه تأثیر گذاشته و مشکلاتی ایجاد کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارهمهکس",
+      "PlainText": "ای از غم تو ناله ی زار همه کس\r\nای از تو سیاه روزگار همه کس\r\nدر عشق تو کار من نه مشکل شد و بس\r\nمشکل شده از عشق تو کار همه کس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از غم تو ناله ی زار همه کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای از تو سیاه روزگار همه کس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق تو کار من نه مشکل شد و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشکل شده از عشق تو کار همه کس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای از غم تو ناله ی زار همه کس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای از تو سیاه روزگار همه کس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عشق تو کار من نه مشکل شد و بس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مشکل شده از عشق تو کار همه کس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

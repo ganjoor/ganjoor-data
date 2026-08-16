@@ -1,0 +1,58 @@
+{
+  "Id": 115010,
+  "CatId": 2669,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "مجیرالدین بیلقانی » دیوان اشعار » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/beylaghani/divan/robaee/sh34",
+  "RhymeLetters": "مخوشنیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساسات عمیق و متناقضی است. شاعر می‌گوید که وجود عشق در دلش باعث دروغ و مشکل می‌شود و به خاطر این عشق، کارش به هم ریخته است. او به یادآوری قولی اشاره می‌کند که گفته بود جان دادن به غم خوش نیست، اما در واقع این قصدی که به جانش می‌دهد، برای او خوشایند نیست. به طور کلی، شاعر در تلاش است تا تضاد بین عشق و درد را به تصویر بکشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مخوشنیست",
+      "PlainText": "چون در دل من تویی دروغم خوش نیست\r\nکارم ز تو چون زلف تو درهم خوش نیست\r\nگفتی خوش نیست جان بدادن به غم\r\nای جان خوش این قصد به جانم خوش نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون در دل من تویی دروغم خوش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکارم ز تو چون زلف تو درهم خوش نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی خوش نیست جان بدادن به غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای جان خوش این قصد به جانم خوش نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون در دل من تویی دروغم خوش نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کارم ز تو چون زلف تو درهم خوش نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی خوش نیست جان بدادن به غم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای جان خوش این قصد به جانم خوش نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

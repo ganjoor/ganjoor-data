@@ -1,0 +1,45 @@
+{
+  "Id": 52000,
+  "CatId": 1849,
+  "Title": "فقرۀ ۳",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۳",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh6",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن به اهمیت فراموش کردن گذشته و نگرانی درباره آینده اشاره دارد. به ما می‌گوید که باید از اتفاقات گذشته دلخور نشویم و انتظار چیزهای نامشخص را نیز کنار بگذاریم. در واقع، بر روی حال تمرکز کنیم و از بار خیالات و نگرانی‌ها رها شویم.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ده",
+      "PlainText": "فراموش کن چیزهای شده\r\nمبر بیش و تیمار ناامده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفراموش کن چیزهای شده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمبر بیش و تیمار ناامده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "آن گذشته فراموش کن‌، و ان ناامده را بیش (‌و) تیمار مبر.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "فراموش کن چیزهای شده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "مبر بیش و تیمار ناامده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

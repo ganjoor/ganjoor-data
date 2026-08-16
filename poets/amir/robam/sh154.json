@@ -1,0 +1,58 @@
+{
+  "Id": 70197,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۵۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۵۴",
+  "FullUrl": "/amir/robam/sh154",
+  "RhymeLetters": "اه",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به توصیف موقعیت خورشید و حرکت آن در آسمان می‌پردازد و می‌گوید که خورشید به روش خاصی بر آسمان نمی‌تابد. تنها شخصی که بر زمین همچون یک شاه قدرت دارد، ملکشاه است که با سپاهی از دجله به جیحون حرکت کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اه",
+      "PlainText": "خورشید بر آسمان نپیماید راه\r\nزان  گونه که بر زمین سپه راند شاه\r\nجز شاه ملکشاه به یک نیمه ماه\r\nاز دجله به جیحون که کشیدست سپاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید بر آسمان نپیماید راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان‌ گونه که بر زمین سپه راند شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز شاه ملکشاه به یک نیمهٔ ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دجله به جیحون که کشیدست سپاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید بر آسمان نپیماید راه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان‌ گونه که بر زمین سپه راند شاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز شاه ملکشاه به یک نیمهٔ ماه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دجله به جیحون که کشیدست سپاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

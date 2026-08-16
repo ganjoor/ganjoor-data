@@ -1,0 +1,58 @@
+{
+  "Id": 77849,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/homam/robaeeho/sh31",
+  "RhymeLetters": "انتمرساد",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تبریز و آسیب‌هایی که زمان به مردم آنجا وارد کرده اشاره می‌کند. او تبریز را شبیه به تنی و جان توصیف می‌کند، و نشان می‌دهد که این درد و غم به دل و جان این شهر و مردمش رسیده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انتمرساد",
+      "PlainText": "ای عرصه تبریز زیانت مرساد\r\nآسیب زمان به مردمانت مرساد\r\nتو همچو تنی و جان و دل هر دو امام\r\nدردی به دل و غمی به جانت مرساد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عرصه تبریز زیانت مرساد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسیب زمان به مردمانت مرساد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو همچو تنی و جان و دل هر دو امام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردی به دل و غمی به جانت مرساد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عرصه تبریز زیانت مرساد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسیب زمان به مردمانت مرساد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو همچو تنی و جان و دل هر دو امام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردی به دل و غمی به جانت مرساد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

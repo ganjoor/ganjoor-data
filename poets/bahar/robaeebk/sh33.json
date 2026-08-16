@@ -1,0 +1,58 @@
+{
+  "Id": 51756,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/bahar/robaeebk/sh33",
+  "RhymeLetters": "ار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به حالتی اشاره می‌کند که ممکن است ناامید و خسته باشد، اما همچنان به دنبال دوست یعنی معشوق می‌گردد. او می‌گوید حتی با وجود ناتوانی و خستگی، مصمم است که به سمت او برود و با پرس‌وجو مسیر را پیدا کند. به نوعی، این اشعار بیانگر عشق و اراده برای رسیدن به معشوق است، هرچند که مسیر دشوار باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "گر مانده و ناتوان و گر خسته و زار\r\nما وز طلبش دست کشیدن  زنهار\r\nافتان خیزان رسیم تا منزل دوست\r\nپرسان پرسان رویم تا خیمه یار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مانده و ناتوان و گر خسته و زار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما وز طلبش دست کشیدن‌، زنهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافتان خیزان رسیم تا منزل دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرسان پرسان رویم تا خیمهٔ یار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر مانده و ناتوان و گر خسته و زار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما وز طلبش دست کشیدن‌، زنهار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افتان خیزان رسیم تا منزل دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پرسان پرسان رویم تا خیمهٔ یار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

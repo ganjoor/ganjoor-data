@@ -1,0 +1,58 @@
+{
+  "Id": 78324,
+  "CatId": 674,
+  "Title": "شمارهٔ ۵۲ - رباعی",
+  "FullTitle": "حافظ » اشعار منتسب » شمارهٔ ۵۲ - رباعی",
+  "FullUrl": "/hafez/montasab/sh52",
+  "RhymeLetters": "کایتباقیست",
+  "SourceName": "حمیدرضا محمدی",
+  "SourceUrlSlug": "hrm",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به پایان شب اشاره کرده و می‌گوید که هنوز داستان‌ها و حکایت‌ها باقی مانده است. او از این که از خداوند شکرگزاری نکرده‌اند و شکایت‌هایی باقی است، حرف می‌زند. همچنین به گستاخی خود اعتراف می‌کند، اما در نهایت از خداوند به خاطر باقی ماندن حکایت‌ها سپاسگزاری می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کایتباقیست",
+      "PlainText": "شب رفت به پایان و حکایت باقیست\r\nشکر تو نگفتیم و شکایت باقیست\r\nگستاخی ما ز حد برون رفت ولی\r\nالمنة لله که حکایت باقیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب رفت به پایان و حکایت باقیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکر تو نگفتیم و شکایت باقیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگستاخی ما ز حد برون رفت ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالمنة لله که حکایت باقیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب رفت به پایان و حکایت باقیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکر تو نگفتیم و شکایت باقیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گستاخی ما ز حد برون رفت ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "المنة لله که حکایت باقیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

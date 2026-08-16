@@ -1,0 +1,58 @@
+{
+  "Id": 83431,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۷۰",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۷۰",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh270",
+  "RhymeLetters": "اکبرخیزم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساسات عمیق و شور و شوق خود صحبت می‌کند. او می‌گوید که هر جا که برود، شور و حال مستانه‌اش را منتشر می‌کند و غنچه‌ها را به شور و هیجان وا می‌دارد. همچنین، او به نوعی خود را شبیه سمندری می‌داند که از شوق سرشار است ولی افسردگی را نمی‌شناسد و با هر داغی که بر دلش می‌نشیند، آتش عشق و احساساتش را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهاندازم",
+      "PlainText": "به هرگلشن که شور از شیون مستانه اندازم\r\nلباس غنچه را چاک از دل دیوانه اندازم\r\nسمندر مشربم افسردگی شوقم نمی داند\r\nبه هر داغی که سوزم طرح آتشخانه اندازم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هرگلشن که شور از شیون مستانه اندازم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلباس غنچه را، چاک از دل دیوانه اندازم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسمندر مشربم، افسردگی شوقم نمی داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هر داغی که سوزم، طرح آتشخانه اندازم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به هرگلشن که شور از شیون مستانه اندازم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لباس غنچه را، چاک از دل دیوانه اندازم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سمندر مشربم، افسردگی شوقم نمی داند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به هر داغی که سوزم، طرح آتشخانه اندازم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82959,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/hazin/robaee-hz/sh71",
+  "RhymeLetters": "ارخوشاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و معانی عمیق عشق اشاره می‌کند. او می‌گوید که اگر به خاطر عشق، خود را نادیده بگیری و خاکی شوی، این کار خوشایند است. همچنین، اگر در عشق خود ناز و محبت بورزی، این نیز چیزی ارزشمند است. در واقع، به عشق و عدم خودپرستی اشاره می‌کند که در نهایت، این حالات در بازار عشق، به یک افسانه زیبا تبدیل می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارخوشاست",
+      "PlainText": "گر خاک شوی در ره دلدار خوش است\r\nور نازکشی ناز خریدار خوش است\r\nدر خواری عشق خودفروشیست هنر\r\nافسانه ما بر سر بازار خوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خاک شوی، در ره دلدار خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نازکشی، ناز خریدار خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خواری عشق، خودفروشیست، هنر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسانهٔ ما بر سر بازار خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر خاک شوی، در ره دلدار خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور نازکشی، ناز خریدار خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خواری عشق، خودفروشیست، هنر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسانهٔ ما بر سر بازار خوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

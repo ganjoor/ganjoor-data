@@ -1,0 +1,58 @@
+{
+  "Id": 83122,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲۵",
+  "FullUrl": "/hazin/robaee-hz/sh225",
+  "RhymeLetters": "ران",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در سحرگاه، آن معشوق زیبا و دل‌فریب از حال من که دلشکسته‌ام پرسید. من از جدایی شکایت کردم و او با لبخند پاسخ داد که من در دل کسانی که کم‌عمق و سطحی‌نگرند، بی‌نصیب هستم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ران",
+      "PlainText": "آمد سحر آن نگار خونین جگران\r\nپرسید ز احوال من دل نگران\r\nکردم ز فراق شکوه خندان شد و گفت\r\nمن در دل و بی نصیب کوته نظران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد سحر آن نگار خونین جگران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرسید ز احوال منِ دل نگران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردم ز فراق شکوه، خندان شد و گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن در دل و بی نصیب، کوته نظران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد سحر آن نگار خونین جگران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرسید ز احوال منِ دل نگران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کردم ز فراق شکوه، خندان شد و گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من در دل و بی نصیب، کوته نظران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

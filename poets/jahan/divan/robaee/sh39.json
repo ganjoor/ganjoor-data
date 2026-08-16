@@ -1,0 +1,58 @@
+{
+  "Id": 113912,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۳۹",
+  "FullUrl": "/jahan/divan/robaee/sh39",
+  "RhymeLetters": "امست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این اشعار به زیبایی و جذابیت زلف محبوبش اشاره می‌کند و می‌گوید که از شبی که در دلش عشق او است، صبحش هم شبی دیگر به حساب می‌آید. او اشتیاقی به لب‌های محبوبش دارد، اما هنوز خام و ناپخته است. همچنین، از بی‌توجهی چشم محبوب به او و تأثیر منفی این بی‌توجهی بر او در دنیای پر سر و صدا و بدنامی سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اماست",
+      "PlainText": "از شام سر زلف تو صبحم شام است\r\nپختم هوس لب تو لیکن خام است\r\nچشمت نظری نکرد در حال جهان\r\nبیچاره به هرزه در جهان بدنام است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شام سر زلف تو صبحم شام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپختم هوس لب تو لیکن خام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت نظری نکرد در حال جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره به هرزه در جهان بدنام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شام سر زلف تو صبحم شام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پختم هوس لب تو لیکن خام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشمت نظری نکرد در حال جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیچاره به هرزه در جهان بدنام است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

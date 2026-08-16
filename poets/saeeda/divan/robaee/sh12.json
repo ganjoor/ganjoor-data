@@ -1,0 +1,58 @@
+{
+  "Id": 107912,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/saeeda/divan/robaee/sh12",
+  "RhymeLetters": "ردرکاراست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تضاد دنیای مادی اشاره می‌کند که در آن سنگ، سیم و طلا به کار می‌رود و بر فعالیت‌های روزمره انسان‌ها تأثیر می‌گذارد. همچنین، به اهمیت مقابله با ظالم و جاهل اشاره می‌کند و از سختی و چالش‌های این مبارزه سخن می‌گوید. به طور کلی، شعر به نقد دنیای مادی و نیاز به ایستادگی در برابر ظالم اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردرکاراست",
+      "PlainText": "امروز که سنگ و سیم و زر در کار است\r\nشام و صبح و شب و سحر در کار است\r\nبا جاهل پرستیز ظالم باید\r\nچون چوب بود سخت تبر در کار است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز که سنگ و سیم و زر در کار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشام و صبح و شب و سحر در کار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا جاهل پرستیز، ظالم باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون چوب بود سخت تبر در کار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز که سنگ و سیم و زر در کار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شام و صبح و شب و سحر در کار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با جاهل پرستیز، ظالم باید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون چوب بود سخت تبر در کار است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

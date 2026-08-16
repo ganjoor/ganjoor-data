@@ -1,0 +1,58 @@
+{
+  "Id": 82933,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/hazin/robaee-hz/sh45",
+  "RhymeLetters": "اممیبایدنیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در اشعار بیان شده، شاعر به نبودن امکانات و شرایط لازم برای تأمین نیازهای خود اشاره می‌کند. او از وجود وام بدون ضامن و رهن ابراز ناامیدی می‌کند و به طور کلی از عدم توانایی برای دستیابی به نیازهای روزمره‌اش، مانند خوراک، سخن می‌گوید. به عبارت دیگر، این شعر احساس کمبود و نیاز به امکانات را منتقل می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اممیبایدنیست",
+      "PlainText": "بی ضامن و رهن وام می باید نیست\r\nعنقا ما را به دام می باید نیست\r\nدندان که معطل است درکامم هست\r\nنانی که صباح و شام می باید نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی ضامن و رهن، وام می باید، نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعنقا ما را به دام می باید، نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدندان که معطل است، درکامم هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنانی که صباح و شام می باید، نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی ضامن و رهن، وام می باید، نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عنقا ما را به دام می باید، نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دندان که معطل است، درکامم هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نانی که صباح و شام می باید، نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

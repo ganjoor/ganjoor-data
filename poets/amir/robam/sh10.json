@@ -1,0 +1,58 @@
+{
+  "Id": 70053,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/amir/robam/sh10",
+  "RhymeLetters": "ایتورا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از زیبایی و مقام شاه صحبت می‌کند و بیان می‌کند که اگر آسمان زیبایی‌های او را ببیند، به تحسین او می‌پردازد و آرزو می‌کند که در خدمت و خاک پای او باشد. این شعر به تحسین و ستایش از شاه و جایگاه او اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتورا",
+      "PlainText": "ای شاه چو بیند آسمان رای تو را\r\nوین طبع لطیف رامش افزای تو را\r\nاحسنت زند طلعت زیبای تو را\r\nخواهد که شود خاک  کف پای تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه چو بیند آسمان رای تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین طبع لطیف رامش افزای تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاحسنت زند طلعت زیبای تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهد که شود خاک‌ کف پای تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه چو بیند آسمان رای تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین طبع لطیف رامش افزای تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "احسنت زند طلعت زیبای تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خواهد که شود خاک‌ کف پای تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

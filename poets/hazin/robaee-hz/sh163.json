@@ -1,0 +1,58 @@
+{
+  "Id": 83051,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۶۳",
+  "FullUrl": "/hazin/robaee-hz/sh163",
+  "RhymeLetters": "یز",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به سختی‌ها و مشکلات زندگی اشاره می‌کند و از بی‌رحمی روزگار گله می‌کند. او ناامیدی و یأس خود را بیان کرده و می‌گوید که نه راهی برای تدبیر دارد و نه نیروی مبارزه، و در نتیجه، نه می‌تواند صبر کند و نه می‌تواند فرار کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یز",
+      "PlainText": "از خصمی روزگار بی مهر و تمیز\r\nتا چند زنیم سینه بر خنجر تیز\r\nنی ناخن تدبیر و نه بازوی ستیز\r\nنه جای شکیبایی و نه پای گریز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خصمی روزگار بی مهر و تمیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چند زنیم سینه بر خنجرِ تیز؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی ناخن تدبیر و نه بازوی ستیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه جای شکیبایی و نه پای گریز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خصمی روزگار بی مهر و تمیز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چند زنیم سینه بر خنجرِ تیز؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی ناخن تدبیر و نه بازوی ستیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه جای شکیبایی و نه پای گریز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

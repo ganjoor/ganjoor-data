@@ -1,0 +1,58 @@
+{
+  "Id": 69442,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۸۱",
+  "FullUrl": "/azraghi/arob/sh81",
+  "RhymeLetters": "شوقنیم",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، عاشق به معشوق خود می گوید که اگرچه دیگران او را زیبا نمی دانند، اما او همچنان به عشق و زیبایی او ایمان دارد. به رغم نقدهایی که ممکن است به زیبایی او شود، عاشق نمی تواند عشق خود را نسبت به او انکار کند و او را غیرمحبوب بداند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شوقنیم",
+      "PlainText": "زآن بر دو لبت ز بوسه مرزوق نیم\r\nکز حسن و جمال چون تو ممشوق نیم\r\nمی طعنه زنی که تو مرا خوب نه ای\r\nمن عاشقم ای نگار معشوق نیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن بر دو لبت ز بوسه مرزوق نیَم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز حسن و جمال چون تو ممشوق نیَم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی طعنه زنی که تو مرا خوب نه‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن عاشقم، ای نگار، معشوق نیَم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زآن بر دو لبت ز بوسه مرزوق نیَم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز حسن و جمال چون تو ممشوق نیَم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می طعنه زنی که تو مرا خوب نه‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من عاشقم، ای نگار، معشوق نیَم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

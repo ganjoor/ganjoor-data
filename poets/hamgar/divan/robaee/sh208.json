@@ -1,0 +1,58 @@
+{
+  "Id": 120924,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۲۰۸",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۲۰۸",
+  "FullUrl": "/hamgar/divan/robaee/sh208",
+  "RhymeLetters": "ردینیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر از محبت و غم عشق سخن می‌گوید. او بیان می‌کند که دل‌ها به خاطر غم و جفاهای معشوق بی‌تاب هستند و لب‌ها نیز از درد او سردند. شاعر تنها درد دیگری را فراق می‌داند و اذعان می‌کند که این درد از دیگر دردها سخت‌تر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردینیست",
+      "PlainText": "دلها ز جفاهای تو بی گردی نیست\r\nلبها ز غم تو بی دم سردی نیست\r\nدردی دگرم نمای جز درد فراق\r\nکز درد فراق صعبتر دردی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلها ز جفاهای تو بی گردی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلبها ز غم تو بی دمِ سردی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردی دگرم نمای جز درد فراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز درد فراق صعبتر دردی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلها ز جفاهای تو بی گردی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لبها ز غم تو بی دمِ سردی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دردی دگرم نمای جز درد فراق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز درد فراق صعبتر دردی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

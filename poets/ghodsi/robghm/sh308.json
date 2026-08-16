@@ -1,0 +1,58 @@
+{
+  "Id": 74849,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۳۰۸",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۳۰۸",
+  "FullUrl": "/ghodsi/robghm/sh308",
+  "RhymeLetters": "ادبود",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به آزادی روح و دل اشاره دارد که از قید و بندهای مادی رها شده است. شاعر به این نکته پرداخته که چنین دل آزاده‌ای نمی‌تواند به ارتباطات دنیوی و متصل به دیگران خوشحال باشد. همچنین، با تشبیه دریا به دو گره (یکی آب و دیگری باد)، به تضاد و تفاوت‌های موجود در عالم اشاره می‌کند. در واقع، این گره‌ها نشانه‌ای از جدایی و پیوستگی در زندگی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادبود",
+      "PlainText": "آن را که دل از دو کون آزاد بود\r\nکی طبع به وصل این و آن شاد بود\r\nبحر از گهر و حباب دارد دو گره\r\nدر یک گره آب و در یکی باد بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن را که دل از دو کون آزاد بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی طبع به وصل این و آن شاد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحر از گهر و حباب دارد دو گره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر یک گره آب و در یکی باد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که دل از دو کون آزاد بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی طبع به وصل این و آن شاد بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بحر از گهر و حباب دارد دو گره",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در یک گره آب و در یکی باد بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70129,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۸۶",
+  "FullUrl": "/amir/robam/sh86",
+  "RhymeLetters": "اهکنند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف حال و وضعیت خصمان و دشمنان می‌پردازد. شاعر به مقایسه خصمان با جغدی در ویرانگاه می‌پردازد که همواره نظاره‌گر و در حال آزار دیگران هستند. آن‌ها خود را همچون پرنده‌ای مقدس و بزرگ می‌دانند، در حالی که حقیقت آن‌ها پنهان و پوشیده است. این ابیات نشان‌دهنده نفاق و فریب‌کاری دشمنان است که در پس چهره‌ای خودپسند، اعمال ناپسندی انجام می‌دهند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انند",
+      "PlainText": "خصمان ملک چو جغد در ویرانند\r\nدایم همه را همچو مگس میرانند\r\nخود را چو همای از چه قبل می دانند\r\nکز چشم چو سیمرغ همی پنهانند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخصمان ملک چو جغد در ویرانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدایم همه را همچو مگس میرانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود را چو همای از چه قِبَل می‌دانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز چشم چو سیمرغ همی پنهانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خصمان ملک چو جغد در ویرانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دایم همه را همچو مگس میرانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود را چو همای از چه قِبَل می‌دانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز چشم چو سیمرغ همی پنهانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

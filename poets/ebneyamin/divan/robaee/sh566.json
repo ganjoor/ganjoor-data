@@ -1,0 +1,58 @@
+{
+  "Id": 94332,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۵۶۶",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۵۶۶",
+  "FullUrl": "/ebneyamin/divan/robaee/sh566",
+  "RhymeLetters": "ان",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر می‌گوید که زندگی بدون نان و خوراک ممکن نیست، زیرا جان انسان به نان وابسته است. شاعر از خداوند درخواست می‌کند که علاوه بر جان، نیازهای زندگی‌اش را نیز تامین کند، زیرا زندگی بدون نان نمی‌تواند دوام بیاورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "جان باید و نان و نان نباید بیجان\r\nآن باید و این وزین چه آید بی آن\r\nیا رب چو بفضل خویش جانم دادی\r\nنان نیز بده که جان نپاید بی نان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان باید و نان و نان نباید بیجان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن باید و این وزین چه آید بی آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب چو بفضل خویش جانم دادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنان نیز بده که جان نپاید بی نان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان باید و نان و نان نباید بیجان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن باید و این وزین چه آید بی آن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا رب چو بفضل خویش جانم دادی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نان نیز بده که جان نپاید بی نان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

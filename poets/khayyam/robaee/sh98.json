@@ -1,0 +1,58 @@
+{
+  "Id": 1216,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹۸",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹۸",
+  "FullUrl": "/khayyam/robaee/sh98",
+  "RhymeLetters": "رد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به این معناست که اگر حتی یک نان برای دو روز به دست آید، برای مرد کافی است. همچنین اشاره می‌کند که چرا باید از خودی کمتر عمل کند یا چرا باید به دیگران خدمت کند، در حالی که از خودی بهره‌مند نیست. در حقیقت، شاعر به اهمیت خودکفایی و استقلال اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "یک نان به دو روز اگر بود حاصل مرد\r\nاز کوزه شکسته ای دمی آبی سرد\r\nمأمور کم از خودی چرا باید بود\r\nیا خدمت چون خودی چرا باید کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک نان به دو روز اگر بود حاصل مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کوزه شکسته‌ای دمی آبی سرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمأمور کم از خودی چرا باید بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا خدمت چون خودی چرا باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک نان به دو روز اگر بود حاصل مرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از کوزه شکسته‌ای دمی آبی سرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مأمور کم از خودی چرا باید بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا خدمت چون خودی چرا باید کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

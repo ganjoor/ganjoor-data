@@ -1,0 +1,58 @@
+{
+  "Id": 116139,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/akhsikati/divan/robaee/sh13",
+  "RhymeLetters": "ست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی لب ها و نقش آن‌ها در دنیا اشاره دارد. شاعر می‌گوید که دایره لب تو به هم پیوسته و به دقت می‌نگرد که چقدر فضای تنگ و محدودی وجود دارد. همچنین اشاره به نقطه‌ای عنبرین دارد که به دلیل اندازه‌اش، در دایره جا نمی‌گیرد و در گوشه‌ای قرار می‌گیرد. این تصویر نشان‌دهنده زیبایی و محدودیت‌های آن است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "چون دایره ی لب تو  در هم پیوست\r\nبنگر که چه تنگ عرصه یی داشت به دست\r\nکان نقطه ی عنبرین  که نه نیست نه هست\r\nدر دایره جا نیافت در گوشه نشست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دایره‌ی لب تو‌، در هم پیوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنگر که چه تنگ عرصه‌یی داشت به‌دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکان نقطه‌ی عنبرین‌، که نه نیست نه هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دایره جا نیافت در گوشه نشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون دایره‌ی لب تو‌، در هم پیوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنگر که چه تنگ عرصه‌یی داشت به‌دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کان نقطه‌ی عنبرین‌، که نه نیست نه هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دایره جا نیافت در گوشه نشست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

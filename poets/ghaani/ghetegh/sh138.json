@@ -1,0 +1,58 @@
+{
+  "Id": 45800,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۳۸",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۳۸",
+  "FullUrl": "/ghaani/ghetegh/sh138",
+  "RhymeLetters": "انگی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به اهمیت ادب و احترام به دیگران، به ویژه افراد دیوانه، اشاره می‌کند. او می‌گوید که نباید خود را از دانایی و فرزانگی برتر بدانیم، زیرا ممکن است افرادی که ظاهراً دیوانه به نظر می‌رسند، در درون خود دانایی پنهان داشته باشند. بنابراین، برخورد با این افراد باید با احترام و ادب باشد.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انگی",
+      "PlainText": "باادب باش ای برادر خاصه با دیوانگان\r\nخود مگوکاورا نباشد بهره از فرزانگی\r\nای بسا دانای کامل کز پی روپوش  خلق\r\nروز و شب بر خویش بندد حالت دیوانگی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباادب باش ای برادر خاصه با دیوانگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود مگوکاورا نباشد بهره از فرزانگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بسا دانای کامل کز پی روپوش‌ خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز و شب بر خویش بندد حالت دیوانگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باادب باش ای برادر خاصه با دیوانگان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود مگوکاورا نباشد بهره از فرزانگی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای بسا دانای کامل کز پی روپوش‌ خلق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روز و شب بر خویش بندد حالت دیوانگی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

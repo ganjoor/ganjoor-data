@@ -1,0 +1,58 @@
+{
+  "Id": 74733,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۱۹۲",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۱۹۲",
+  "FullUrl": "/ghodsi/robghm/sh192",
+  "RhymeLetters": "اهافتد",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که اگر دل کسی شاد باشد، از غم و ناراحتی به دور خواهد ماند. همچنین گفته می‌شود که در شرایط سخت، مانند کشیدن آب از چاه، با تلاش و اراده می‌توان به موفقیت رسید. خلاصه این‌که شادی و کوشش در مواجهه با چالش‌ها می‌تواند ما را از غم و سختی‌ها نجات دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهافتد",
+      "PlainText": "آن را که دلش به شادی از راه افتد\r\nاز ناخن غم کار به دلخواه افتد\r\nاز چاه به قلاب برون می آرند\r\nهرگاه که دلو آب در چاه افتد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن را که دلش به شادی از راه افتد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ناخن غم، کار به دلخواه افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چاه، به قلاب برون می‌آرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگاه که دلو آب در چاه افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که دلش به شادی از راه افتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از ناخن غم، کار به دلخواه افتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از چاه، به قلاب برون می‌آرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگاه که دلو آب در چاه افتد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

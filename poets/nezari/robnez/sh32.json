@@ -1,0 +1,58 @@
+{
+  "Id": 75779,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/nezari/robnez/sh32",
+  "RhymeLetters": "لعشقخوشست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در دنیای عقل، مسیر عشق زیباست و جان دادن عاشق برای عشق لذت‌بخش است. در آغاز زندگی، عشق مانند جهل و جنون به نظر می‌رسد، اما در پایان عمر، حقیقت عشق خود را نشان می‌دهد و خوشایند می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لعشقخوشست",
+      "PlainText": "در عالم عقل مدخل عشق خوشست\r\nجان دادن عاشق بدل عشق خوشست\r\nدر اول عمر عشق جهلست و جنون\r\nدر آخر عمر اول عشق خوشست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عالم عقل مدخل عشق خوشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان دادن عاشق بدل عشق خوشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر اول عمر عشق جهلست و جنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آخر عمر اول عشق خوشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عالم عقل مدخل عشق خوشست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان دادن عاشق بدل عشق خوشست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در اول عمر عشق جهلست و جنون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آخر عمر اول عشق خوشست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

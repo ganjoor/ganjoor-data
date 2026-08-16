@@ -1,0 +1,58 @@
+{
+  "Id": 75017,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۴۷۶",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۴۷۶",
+  "FullUrl": "/ghodsi/robghm/sh476",
+  "RhymeLetters": "ارشدم",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف حالتی از گناه و فسق پرداخته است. شاعر در ابتدا از پیروی کردن خود از معصیت و گناهان می‌گوید و حتی در کعبه، جایی مقدس، به دنبال لذت‌های دنیوی بوده است. اما در لحظه‌ای بحرانی و زمانی که به حالت نزع نزدیک می‌شود، یاد توبه و بازگشت به راه راست به او دست می‌دهد و بیدار می‌شود. به طور کلی، این شعر نشان‌دهنده کشمکش میان گناه و توبه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارشدم",
+      "PlainText": "یک چند به فسق و معصیت یار شدم\r\nدر کعبه ترانه سنج زنار شدم\r\nدر حالت نزع توبه ام یاد آمد\r\nچون قافله کوچ کرد بیدار شدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک چند به فسق و معصیت یار شدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کعبه، ترانه‌سنج زنّار شدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حالت نزع، توبه‌ام یاد آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون قافله کوچ کرد، بیدار شدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک چند به فسق و معصیت یار شدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کعبه، ترانه‌سنج زنّار شدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حالت نزع، توبه‌ام یاد آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون قافله کوچ کرد، بیدار شدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

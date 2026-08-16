@@ -1,0 +1,77 @@
+{
+  "Id": 125581,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۴۵",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۴۵",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh46",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از خداوند می‌خواهد که نفس انسانی‌اش را به دینداری متمایل کند و در پایان زندگی او را از اهل ایمان قرار دهد. او نگران این است که به خاطر اعمال زشتش به جهنم برود و از خدا درخواست می‌کند که او را از این کارهای ناپسند پشیمان کند.",
+  "Sections": [
+    {
+      "Index": 68,
+      "Number": 68,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مانشکن",
+      "PlainText": "یا رب سگ نفس را مسلمانش کن\r\nدر آخر کار از اهل ایمانش کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب سگ نفس را مسلمانش کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آخر کار از اهل ایمانش کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 69,
+      "Number": 69,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "بسته است کمر که در جهنم بروم\r\nاز این عمل زشت پشیمانش کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسته است کمر که در جهنم بروم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز این عمل زشت پشیمانش کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 118,
+      "Number": 118,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یمانشکن",
+      "PlainText": "یا رب سگ نفس را مسلمانش کن\r\nدر آخر کار از اهل ایمانش کن\r\nبسته است کمر که در جهنم بروم\r\nاز این عمل زشت پشیمانش کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب سگ نفس را مسلمانش کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آخر کار از اهل ایمانش کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسته است کمر که در جهنم بروم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز این عمل زشت پشیمانش کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب سگ نفس را مسلمانش کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 118,
+      "SectionIndex2": 68
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آخر کار از اهل ایمانش کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 118,
+      "SectionIndex2": 68
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسته است کمر که در جهنم بروم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 118,
+      "SectionIndex2": 69
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از این عمل زشت پشیمانش کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 118,
+      "SectionIndex2": 69
+    }
+  ]
+}

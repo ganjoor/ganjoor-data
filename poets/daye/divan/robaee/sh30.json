@@ -1,0 +1,58 @@
+{
+  "Id": 107193,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/daye/divan/robaee/sh30",
+  "RhymeLetters": "ستامدهاند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: عشاق تو از عالم ماورا در حال مستی آمده‌اند. آن‌ها مست از باده‌ای هستند که از عالم الست به دست آورده‌اند. می‌نوشند و به پند و اندرز گوش نمی‌دهند، زیرا به عشق تو و از عالم الست آمده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستامدهاند",
+      "PlainText": "عشاق تو از الست مست آمده اند\r\nسر مست ز باده الست آمده اند\r\nمی می نوشند و پند می ننیوشند\r\nکایشان ز الست می پرست آمده اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشاق تو از الست مست آمده اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر مست ز بادهٔ الست آمده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی می نوشند و پند می ننیوشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکایشان ز الست می پرست آمده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشاق تو از الست مست آمده اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر مست ز بادهٔ الست آمده اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می می نوشند و پند می ننیوشند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کایشان ز الست می پرست آمده اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

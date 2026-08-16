@@ -1,0 +1,58 @@
+{
+  "Id": 83153,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۵۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۵۶",
+  "FullUrl": "/hazin/robaee-hz/sh256",
+  "RhymeLetters": "ستی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به کسی خطاب می‌کند که در ادعای خود نیرومند و پرشور است، اما در جستجوی حقیقت و عرفان سست و بی‌عزم به نظر می‌رسد. او به این فرد توصیه می‌کند که اگر بخواهد حقیقت را دریابد، باید تلاش بیشتری کند و کمتر به خود و توانایی‌هایش تکیه کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستی",
+      "PlainText": "ای آنکه به لافگاه دعوی چستی\r\nواندر طلب گوهر عرفان سستی\r\nتا دریابی که در گره داری هیچ\r\nکاش آنچه سپرده ای به خود می جستی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه به لافگاه دعوی چستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواندر طلب گوهر عرفان سستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دریابی که در گره داری هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاش آنچه سپرده ای به خود، می جستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه به لافگاه دعوی چستی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "واندر طلب گوهر عرفان سستی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا دریابی که در گره داری هیچ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاش آنچه سپرده ای به خود، می جستی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

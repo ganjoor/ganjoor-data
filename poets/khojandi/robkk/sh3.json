@@ -1,0 +1,58 @@
+{
+  "Id": 76481,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/khojandi/robkk/sh3",
+  "RhymeLetters": "ا",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده با معشوقش به گفت و گو می‌پردازد. او از حال مستی و عشق صحبت می‌کند و معشوق پاسخ می‌دهد که این وضع را پذیرفته است. همچنین، گوینده از او می‌خواهد که برگردد، اما معشوق می‌گوید که دیگر برنگردد. این دیالوگ بیانگر تنش‌ها و احساسات عمیق در رابطه عاشقانه‌ای است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "گفتم مستی گفت که آری بخدا\r\nگفتم مگذار گفت که بگذار مرا\r\nگفتم بازا گفت که از من بازا\r\nگفتم رفتم گفت دگر باز میا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم مستی گفت که آری بخدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم مگذار گفت که بگذار مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم بازا گفت که از من بازا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم رفتم گفت دگر باز میا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم مستی گفت که آری بخدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم مگذار گفت که بگذار مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم بازا گفت که از من بازا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم رفتم گفت دگر باز میا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

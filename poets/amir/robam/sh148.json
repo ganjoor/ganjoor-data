@@ -1,0 +1,58 @@
+{
+  "Id": 70191,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴۸",
+  "FullUrl": "/amir/robam/sh148",
+  "RhymeLetters": "راو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به بیان تلاش و خدمت فردی می‌پردازد که به ناحق ستم دیده و همواره در پی خدمت به دیگران بوده است. او به مقام و جایگاهی بالا دست یافته و صاحب نعمت و مال شده است، در حالی که در ابتدا تحت فشار و ستم قرار داشته است. در نهایت، این فرد به مسئولیت و مقام خود رسیده و می‌تواند از نعمت‌های زندگی‌اش بهره‌مند شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "متاو",
+      "PlainText": "خصمی که ستم بود همه همت او\r\nکردند به  کره عالمی خدمت او\r\nآمد به سر آن مرتبه و حشمت او\r\nمالک تن او برد و ملک نعمت او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخصمی‌که ستم بود همه همت او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکردند به‌ کُره عالمی خدمت او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد به‌سر آن مرتبه و حشمت او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمالک تن او برد و ملک نعمت او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خصمی‌که ستم بود همه همت او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کردند به‌ کُره عالمی خدمت او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمد به‌سر آن مرتبه و حشمت او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مالک تن او برد و ملک نعمت او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

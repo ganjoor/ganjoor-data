@@ -1,0 +1,58 @@
+{
+  "Id": 118978,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۵۷",
+  "FullUrl": "/azar/divan/robaee/sh57",
+  "RhymeLetters": "یبرسد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس اشتیاق و انتظار اشاره دارد. شاعر از نشانه‌هایی مانند نی و ساقی سخن می‌گوید و نشان می‌دهد که در حال انتظار برای رسیدن به لذت و آرامش است. ناله و درد درونی او نیز به تأخیر در دستیابی به این خواسته‌ها اشاره دارد. در نهایت، او در تلاش است تا به یک جرعه از این لذت برسد و می‌پرسد که این انتظار تا کی ادامه خواهد داشت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یبرسد",
+      "PlainText": "نایی ز نوا فتاده تا نی برسد\r\nساقی سر خم ستاده تا می برسد\r\nیک ناله بسینه مانده تا کی بکشیم\r\nیک جرعه نصیب ماست تا کی برسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنایی ز نوا فتاده، تا نی برسد!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساقی سر خم ستاده، تا می برسد!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک ناله بسینه مانده، تا کی بکشیم؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک جرعه نصیب ماست، تا کی برسد؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نایی ز نوا فتاده، تا نی برسد!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساقی سر خم ستاده، تا می برسد!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک ناله بسینه مانده، تا کی بکشیم؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک جرعه نصیب ماست، تا کی برسد؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

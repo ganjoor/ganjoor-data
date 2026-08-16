@@ -1,0 +1,58 @@
+{
+  "Id": 72443,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۷۰۶",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۷۰۶",
+  "FullUrl": "/kamal/robaeek-kamal/sh706",
+  "RhymeLetters": "ازیمن",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شعر بیانگر احساس ناامیدی و ناکامی در عشق است. یار به بازیگری و زیبایی‌های شاعر توجهی ندارد و از او فاصله می‌گیرد. شاعر احساس می‌کند که جانش برای جلب توجه یار لازم است و دلش می‌خواهد که یار به او توجه کند و به بازی عشق با او بپردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازیمن",
+      "PlainText": "خرسند نشد یار بسر بازی من\r\nبرخاست غنش بخانه پردازی من\r\nاز من به بها ی عشوه جان میخواهد\r\nدل می گوید  بخر بانبازی من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرسند نشد یار بسر بازی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخاست غنش بخانه پردازی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز من به بها ی عشوه جان میخواهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل می گوید : بخر بانبازی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرسند نشد یار بسر بازی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برخاست غنش بخانه پردازی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از من به بها ی عشوه جان میخواهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل می گوید : بخر بانبازی من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

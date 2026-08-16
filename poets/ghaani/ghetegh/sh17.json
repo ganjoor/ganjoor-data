@@ -1,0 +1,72 @@
+{
+  "Id": 45657,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۷",
+  "FullUrl": "/ghaani/ghetegh/sh17",
+  "RhymeLetters": "است",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعری در این شعر درباره انسان‌هایی که به عشق و عقل می‌بالند صحبت می‌کند. او می‌گوید که چنین افرادی تنها بخشی از حقیقت را درک کرده‌اند و همچنان درگیر ترس و تردید هستند. در ادامه، اشاره می‌کند که عشق واقعی نباید با امید و ترس در آمیخته شود، زیرا این ویژگی‌ها متعلق به عشق الهی‌اند، نه عشق انسانی.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "ای که از عشق و عقل می لافی\r\nهست نیمی دروع و نیمی راست\r\nعقل داری ولی نداری عشق\r\nزان وجودت اسیر خوف و رجاست\r\nعشق را با امید و بیم چکار\r\nبیم و امید اهل عشق خداست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که از عشق و عقل می‌لافی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست نیمی دروع و نیمی راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل داری ولی نداری عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان وجودت اسیر خوف و رجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق را با امید و بیم چکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیم و امید اهل عشق خداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای که از عشق و عقل می‌لافی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هست نیمی دروع و نیمی راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عقل داری ولی نداری عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان وجودت اسیر خوف و رجاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عشق را با امید و بیم چکار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بیم و امید اهل عشق خداست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

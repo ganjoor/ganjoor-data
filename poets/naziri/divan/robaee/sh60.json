@@ -1,0 +1,58 @@
+{
+  "Id": 123626,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/naziri/divan/robaee/sh60",
+  "RhymeLetters": "ونگردد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به تحول و دگرگونی اشاره دارند. در اینجا، نی به عنوان نمادی از شراب یا طعم می‌آید که با تغییر، حالتی نو به خود می‌گیرد. همچنین بیان می‌کند که حتی اگر صد روزن را ببندی یا باز کنی، نور خورشید نمی‌تواند ناقص یا کلا کامل شود. این سخنان به مفاهیم تغییر و محدودیت در دستیابی به کمال اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونگردد",
+      "PlainText": "نی طعم می است تا دگرگون گردد\r\nنی خم که تهی شود چو وارون گردد\r\nصد روزن اگر ببندی و بگشایی\r\nکی پرتو خور ناقص و افزون گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی طعم می است تا دگرگون گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی خم که تهی شود چو وارون گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد روزن اگر ببندی و بگشایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی پرتو خور ناقص و افزون گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی طعم می است تا دگرگون گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی خم که تهی شود چو وارون گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد روزن اگر ببندی و بگشایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کی پرتو خور ناقص و افزون گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

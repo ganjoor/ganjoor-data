@@ -1,0 +1,58 @@
+{
+  "Id": 70154,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/amir/robam/sh111",
+  "RhymeLetters": "از",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: اگر می‌خواهی شانس و عمر طولانی داشته باشی، باید از نعمت و ثروت استفاده کنی. اگر جسم پادشاهان دوباره جان بگیرد، از آن صدای همه برکیارقی (سرود شادی و شادمانی) به گوش خواهد رسید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "از",
+      "PlainText": "گر بخت بلند خواهی و عمر دراز\r\nاز دولت برکیارقی سر بفراز\r\nگر کالبد ملوک جان یابد باز\r\nاز وی همه برکیارق آید آواز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بخت بلند خواهی و عمر دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دولت برکیارقی سر بفراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کالبد ملوک جان یابد باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز وی همه برکیارق آید آواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر بخت بلند خواهی و عمر دراز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دولت برکیارقی سر بفراز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر کالبد ملوک جان یابد باز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از وی همه برکیارق آید آواز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

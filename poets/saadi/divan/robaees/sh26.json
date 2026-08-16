@@ -1,0 +1,58 @@
+{
+  "Id": 10087,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۲۶",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۲۶",
+  "FullUrl": "/saadi/divan/robaees/sh26",
+  "RhymeLetters": "وست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعر نگرانی درباره دوستی و روابط انسانی را مطرح می‌کند. او می‌گوید اگر دوستی بدخو و بدرفتار است، بهتر است از او فاصله بگیریم، زیرا خوبی‌های او ارزش رنج‌ها و بدی‌هایش را ندارد. در نهایت، تاکید می‌کند که نیکی و بدی، رنج و آرامش باید از دوستی حقیقی ناشی شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "گویند رها کنش که یاری بدخوست\r\nخوبیش نیرزد به درشتی که دروست\r\nبالله بگذارید میان من و دوست\r\nنیک و بد و رنج و راحت از دوست نکوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند رها کنش که یاری بدخوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوبیش نیرزد به درشتی که دروست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبالله بگذارید میان من و دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیک و بد و رنج و راحت از دوست نکوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند رها کنش که یاری بدخوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوبیش نیرزد به درشتی که دروست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالله بگذارید میان من و دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نیک و بد و رنج و راحت از دوست نکوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

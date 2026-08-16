@@ -1,0 +1,58 @@
+{
+  "Id": 97100,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/faghani/divan/robaee/sh28",
+  "RhymeLetters": "رامنشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از عدم آرامش و سرانجامی صحبت می‌کند. او می‌گوید که در جستجوی حقیقت و معنای زندگی به هر سو سفر کرده ولی هنوز به آرامش نرسیده و مانند غزالی که در دشت‌ها می‌دود، نتوانسته به آنچه می‌خواهد برسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رامنشد",
+      "PlainText": "روزی دلم از پی سرانجام نشد\r\nجانم نفسی مایل آرام نشد\r\nسرتاسر صحرای جهان پیمودم\r\nرفتم چو غزال چشم او رام نشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی دلم از پی سرانجام نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانم نفسی مایل آرام نشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرتاسر صحرای جهان پیمودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتم، چو غزال چشم او رام نشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزی دلم از پی سرانجام نشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانم نفسی مایل آرام نشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرتاسر صحرای جهان پیمودم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتم، چو غزال چشم او رام نشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

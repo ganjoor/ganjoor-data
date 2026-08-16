@@ -1,0 +1,58 @@
+{
+  "Id": 83078,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۸۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۸۱",
+  "FullUrl": "/hazin/robaee-hz/sh181",
+  "RhymeLetters": "رق",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به یک صوفی اشاره می‌کند که ظاهراً بر اساس تظاهر و ظاهرگرایی عمل می‌کند. او در حالت نااستواری قرار دارد و در ابتدای راه به مشکلاتی برمی‌خورد. دیگران نیز در شرایط سختی قرار دارند و درگیر غرق شدن در مشکلات زندگی هستند. به طور کلی، روح ظاهربینی و ناپایداری در این ابیات مشهود است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رق",
+      "PlainText": "صوفی که بود اساس کارش بر زرق\r\nژاژش به دهان خاک سیاهش بر فرق\r\nخضر ره اوا پای سست در گام نخست\r\nنوح دگران و خویش تا گردن غرق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی که بود اساس کارش بر زرق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eژاژش به دهان، خاک سیاهش بر فرق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخضر ره اوا پای سست، در گام نخست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوح دگران و خویش تا گردن غرق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صوفی که بود اساس کارش بر زرق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ژاژش به دهان، خاک سیاهش بر فرق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خضر ره اوا پای سست، در گام نخست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نوح دگران و خویش تا گردن غرق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

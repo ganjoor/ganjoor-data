@@ -1,0 +1,58 @@
+{
+  "Id": 90726,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/kalim/divan/robaee/sh15",
+  "RhymeLetters": "نگمباش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به یکدیگر نکات مهمی را یادآوری می‌کند. شاعر به معشوقه‌اش می‌گوید که از جنگ و جدل دور باشد و از زوال زیبایی خود نگران نباشد. همچنین اشاره می‌کند که مانند شمشیری که زنگش را پاک کرده‌اند، زیبایی‌ها می‌توانند دوباره جلا پیدا کنند. به او توصیه می‌کند که از غم و اندوهی که به خاطر تغییرات ظاهری‌اش دارد، فاصله بگیرد و دلگیر نباشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگمباش",
+      "PlainText": "ای شوخ بغمزه بر سر جنگ مباش\r\nوی گل ز خزان حسن بیرنگ مباش\r\nشمشیر که زنگش بزدایند خوشست\r\nابروی تو گر ریخته دلتنگ مباش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شوخ بغمزه بر سر جنگ مباش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی گل ز خزان حسن بیرنگ مباش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمشیر که زنگش بزدایند خوشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابروی تو گر ریخته دلتنگ مباش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شوخ بغمزه بر سر جنگ مباش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی گل ز خزان حسن بیرنگ مباش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمشیر که زنگش بزدایند خوشست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ابروی تو گر ریخته دلتنگ مباش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 103063,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/jooya/divan/robaee/sh9",
+  "RhymeLetters": "اب",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به اهمیت جستجوی حقیقت و عشق واقعی اشاره می‌کند. او می‌گوید اگر می‌خواهی به شادی و خیر برسی، باید به سوی عمق حقیقت بروی. در عشق مجاز، کسی که خود را در این مسیر گم کند، مثل سیلی است که باعث ویرانی‌اش می‌شود. به طور کلی، این اشعار تأکید می‌کنند که عشق واقعی نیازمند تلاش و جستجو است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "خواهی که به دستت افتد آن در خوشاب\r\nجویا به سوی بحر حقیقت بشتاب\r\nدر عشق مجاز هر که خود را درباخت\r\nاز سیل سراب خانه اش گشت خراب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی که به دستت افتد آن دُر خوشاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجویا به سوی بحر حقیقت بشتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق مجاز هر که خود را درباخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سیل سراب خانه‌اش گشت خراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواهی که به دستت افتد آن دُر خوشاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جویا به سوی بحر حقیقت بشتاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عشق مجاز هر که خود را درباخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سیل سراب خانه‌اش گشت خراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

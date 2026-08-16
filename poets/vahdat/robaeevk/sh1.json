@@ -1,0 +1,58 @@
+{
+  "Id": 84963,
+  "CatId": 2217,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "وحدت کرمانشاهی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/vahdat/robaeevk/sh1",
+  "RhymeLetters": "است",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این ابیات عاشقانه به عشق خدا و زیبایی‌های آفرینش اشاره دارد. شاعر می‌گوید اگر عشق خدا در دل تو قرار گرفته، با درخواست از حق، هر آنچه را که می‌خواهی طلب کن. او همچنین بر این نکته تأکید دارد که با نگاهی صحیح و الهی، باید به زیبایی‌های آفرینش و رخسار نیکو توجه کرد که نشان‌دهنده هنر خداست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "از عشق خدا گر به سرت شور و نواست\r\nاز حق بنما طلب دلت هرچه که خواست\r\nبا دیده حق بین بنگر خوبان را\r\nرخسار نکو آینه صنع خداست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عشق خدا گر به سرت شور و نواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حق بنما طلب دلت هرچه که خواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا دیده حق‌بین بنگر خوبان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخسار نکو آینه صنع خداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عشق خدا گر به سرت شور و نواست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از حق بنما طلب دلت هرچه که خواست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با دیده حق‌بین بنگر خوبان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رخسار نکو آینه صنع خداست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

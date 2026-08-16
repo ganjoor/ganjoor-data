@@ -1,0 +1,58 @@
+{
+  "Id": 76482,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/khojandi/robkk/sh4",
+  "RhymeLetters": "رهیچاست",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان زیبایی و ارزش‌های پسته و سنبل پرداخته و تأکید می‌کند که این زیبایی‌ها به قدری باارزش و معنادار هستند که چیزهای دیگر در مقایسه با آن‌ها بی‌اهمیت به نظر می‌رسند. شاعر همچنین اشاره می‌کند که در تنگی دهان، سخن از هیچ چیز ارزشمندتر نیست و خودش هیچ چیزی را در این رابطه ندیده است. در کل، شعر بر غنای زیبایی و اهمیت وجودی برخی عناصر تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رهیچاست",
+      "PlainText": "با پسته شیرین تو شکر هیچ است\r\nبا سنبل مشگین تو عنبر هیچ است\r\nگویند که هیچ است ز تنگی دهنت\r\nمن هیچ ندیده ام سخن در هیچ است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا پسته شیرین تو شکر هیچ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سنبل مشگین تو عنبر هیچ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند که هیچ است ز تنگی دهنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن هیچ ندیده ام سخن در هیچ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با پسته شیرین تو شکر هیچ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با سنبل مشگین تو عنبر هیچ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویند که هیچ است ز تنگی دهنت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من هیچ ندیده ام سخن در هیچ است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

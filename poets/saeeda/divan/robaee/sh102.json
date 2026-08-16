@@ -1,0 +1,58 @@
+{
+  "Id": 108002,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۰۲",
+  "FullUrl": "/saeeda/divan/robaee/sh102",
+  "RhymeLetters": "اگردیدم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از تنهایی و فاصله‌اش از معشوق صحبت می‌کند. او می‌گوید که تنها به دوری و هجران آشنا شده و در مسیر یادآوری آن عشق، دچار درد و رنج شده است. احساس می‌کند که با دوری از محبوب، به حالتی اندوهگین و بی‌چاره تبدیل شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اگردیدم",
+      "PlainText": "تنها نه به هجر آشنا گردیدم\r\nاندر ره آشنا چها گردیدم\r\nاز آن نفسی که دورم از همدمیت\r\nچون نی بالله بینوا گردیدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتنها نه به هجر آشنا گردیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر ره آشنا چها گردیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن نفسی که دورم از همدمیت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نی بالله بینوا گردیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تنها نه به هجر آشنا گردیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندر ره آشنا چها گردیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آن نفسی که دورم از همدمیت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون نی بالله بینوا گردیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

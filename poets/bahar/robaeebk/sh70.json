@@ -1,0 +1,58 @@
+{
+  "Id": 51793,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/bahar/robaeebk/sh70",
+  "RhymeLetters": "وی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به ما می‌گوید که به گذشته و آینده فکر نکنیم و از لحظه حال لذت ببریم. باید به جای نگرانی درباره‌ی آنچه گذشته یا هنوز نیامده، بر لحظه‌ی فعلی تمرکز کنیم و از آن بهره‌برداری کنیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وی",
+      "PlainText": "از پیش و پس حیات بر خیره مپوی\r\nدم را بنگر ز آمده و رفته مگوی\r\nآن را که گذشته است بیهوده میاب\r\nوآن را که نیامده است بیهوده مجوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پیش و پس حیات بر خیره مپوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدم را بنگر ز آمده و رفته مگوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن را که گذشته است بیهوده میاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن را که نیامده است بیهوده مجوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از پیش و پس حیات بر خیره مپوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دم را بنگر ز آمده و رفته مگوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن را که گذشته است بیهوده میاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وآن را که نیامده است بیهوده مجوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

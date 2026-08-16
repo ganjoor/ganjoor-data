@@ -1,0 +1,58 @@
+{
+  "Id": 83162,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh1",
+  "RhymeLetters": "ارا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به ناامیدی و دوری از وفا اشاره دارد. شاعر از بیگانگی و نداشتن ارتباط با آشنایان صحبت می‌کند و به بی ثمر بودن و نازایی درختان خود، نمادی از احساسات و وضعیت خود، اشاره می‌کند. او خود را به یک شاخه خشک شبیه می‌داند که از دیگران می‌خواهد که او را ببخشند.",
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارا",
+      "PlainText": "بر رخ چه درگشاید بیگانه وفا را\r\nچشمی که می نبیند دیدار آشنا را\r\nنخل فسرده ی ما نه سایه نه ثمر داشت\r\nما شاخ خشک بیدیم معذور دار ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر رخ چه درگشاید، بیگانهٔ وفا را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمی که می نبیند دیدار آشنا را؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخل فسرده ی ما، نه سایه نه ثمر داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما شاخ خشک بیدیم، معذور دار ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر رخ چه درگشاید، بیگانهٔ وفا را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشمی که می نبیند دیدار آشنا را؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نخل فسرده ی ما، نه سایه نه ثمر داشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما شاخ خشک بیدیم، معذور دار ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

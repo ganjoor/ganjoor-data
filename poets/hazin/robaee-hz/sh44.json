@@ -1,0 +1,58 @@
+{
+  "Id": 82932,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴۴",
+  "FullUrl": "/hazin/robaee-hz/sh44",
+  "RhymeLetters": "ونشدورفت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از وداعی تلخ صحبت می‌کند. جیحون به معنای دلتنگی و جدایی، به نوعی به نماد احساسات عمیق و غمناک بدل می‌شود. فردی که به شدت تحت تأثیر این جدایی قرار گرفته، به حالت جنون دچار می‌شود. او در حالا به شدت دچار درد و عذاب است؛ تنش به آتش و دلش به خون تبدیل شده و احساساتش به شدت در حال فوران است. در نهایت، تمام این حزن و دلشکستگی به رفتن و پایان رابطه منجر می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونشدورفت",
+      "PlainText": "از حرف وداع دیده جیحون شد و رفت\r\nهوش از سر سودا زده مجنون شد و رفت\r\nتن شعله کشید و دود آهی برخاست\r\nدل خون شد و خون ز دیده بیرون شد و رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حرف وداع، دیده جیحون شد و رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهوش از سر سودا زده مجنون شد و رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن شعله کشید و دود آهی برخاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل خون شد و خون ز دیده بیرون شد و رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حرف وداع، دیده جیحون شد و رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هوش از سر سودا زده مجنون شد و رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تن شعله کشید و دود آهی برخاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل خون شد و خون ز دیده بیرون شد و رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

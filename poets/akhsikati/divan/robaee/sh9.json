@@ -1,0 +1,58 @@
+{
+  "Id": 116135,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/akhsikati/divan/robaee/sh9",
+  "RhymeLetters": "یرشدست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این چند بیت شاعر به این نکته اشاره دارد که اگر مشکلی برای انسان به وجود بیاید، حالا که زمان دیر شده است، باید به صحت و درستی آن توجه کرد. او همچنین می‌گوید که تو جان جهان هستی و جهان به وجود تو زنده است، و در نهایت جهان نمی‌تواند بدون وجود تو زندگی کند. به نوعی، شاعر به اهمیت و ارزش وجودی انسان اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرشدست",
+      "PlainText": "بر عرض تو گر عارضه یی چیر شدست\r\nصحت برسد کنون که بس دیر شدست\r\nتو جان جهانی و جهان زنده به تو\r\nآخر نه جهان ز جان خود سیر شدست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر عرض تو، گر عارضه یی چیر شدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصحت برسد کنون، که بس دیر شدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو جان جهانی و جهان زنده به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر نه جهان، ز جان خود سیر شدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر عرض تو، گر عارضه یی چیر شدست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صحت برسد کنون، که بس دیر شدست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو جان جهانی و جهان زنده به تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر نه جهان، ز جان خود سیر شدست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1252,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۳۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۳۴",
+  "FullUrl": "/khayyam/robaee/sh134",
+  "RhymeLetters": "ادشدیم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به گذر زمان و تجربه‌های زندگی اشاره می‌کند. او از دوران کودکی تا استادی را طی کرده و از این تغییرات خوشحال بوده است. اما در پایان نتیجه‌گیری می‌کند که در نهایت همه چیز زودگذر است و از خاک به وجود آمده‌اند و در نهایت به باد خواهند رفت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادشدیم",
+      "PlainText": "یک چند به کودکی به استاد شدیم\r\nیک چند به استادی خود شاد شدیم\r\nپایان سخن شنو که ما را چه رسید\r\nاز خاک در آمدیم و بر باد شدیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک چند به کودکی به استاد شدیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک چند به استادی خود شاد شدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپایان سخن شنو که ما را چه رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خاک در آمدیم و بر باد شدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک چند به کودکی به استاد شدیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک چند به استادی خود شاد شدیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پایان سخن شنو که ما را چه رسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خاک در آمدیم و بر باد شدیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

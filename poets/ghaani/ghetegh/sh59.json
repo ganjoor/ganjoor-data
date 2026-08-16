@@ -1,0 +1,58 @@
+{
+  "Id": 45721,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۵۹",
+  "FullUrl": "/ghaani/ghetegh/sh59",
+  "RhymeLetters": "قصاید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به زیبایی و شیرینی کلام اشاره می‌کند و بیان می‌کند که این زیبایی، شگفت‌آور نیست که خاک به شادی و آسمان به رقص درآید. همچنین می‌گوید که هر کمالی که به خاطر پذیرش و قبول تو به وجود می‌آید، همانند ذات عقل است که از عیب و نقص خالی است. در واقع، این اشعار به زیبایی و کمال وجود می‌پردازد و ارتباط آن با عشق و پذیرش را نشان می‌دهد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "قصاید",
+      "PlainText": "ازین حلاوت گفتار بس عجب نبود\r\nکه خاک در طرب و آسمان به رقص آید\r\nهرآن کمال که داغ قبول تست بر آن\r\nچو ذات عقل مبر از عیب و نقص آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازین حلاوت گفتار بس عجب نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خاک در طرب و آسمان به رقص آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرآن کمال که داغ قبول تست بر آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو ذات عقل مبر از عیب و نقص آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ازین حلاوت گفتار بس عجب نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که خاک در طرب و آسمان به رقص آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرآن کمال که داغ قبول تست بر آن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو ذات عقل مبر از عیب و نقص آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82988,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/hazin/robaee-hz/sh100",
+  "RhymeLetters": "وزشود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شعر به موضوع فتنه و فتنه‌انگیزی اشاره دارد. در این جا شاعر می‌گوید که هر زمان و در هر جا ممکن است موجودی سیاه و بداندیش فتنه‌ای ایجاد کند. او به این نکته می‌پردازد که بهتر است جهانیان به دروغ‌ها و فریب‌ها توجه نکنند و از خطرات سرزمینی که به دام فریب یا دسیسه افتاده، دوری کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزشود",
+      "PlainText": "تا چند زمانه فتنه اندوز شود\r\nهر گوشه کمان کین سیه توز شود\r\nزیبد که جهانیان به پشمی نخرند\r\nملکی که به کام پوستین دوز شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند زمانه فتنه اندوز شود؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر گوشه، کمانِ کین سیه توز شود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیبد که جهانیان به پشمی نخرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملکی که به کامِ پوستین دوز شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند زمانه فتنه اندوز شود؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر گوشه، کمانِ کین سیه توز شود؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زیبد که جهانیان به پشمی نخرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ملکی که به کامِ پوستین دوز شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

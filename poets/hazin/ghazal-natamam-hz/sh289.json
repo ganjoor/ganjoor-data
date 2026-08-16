@@ -1,0 +1,58 @@
+{
+  "Id": 83450,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۸۹",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۸۹",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh289",
+  "RhymeLetters": "انهکن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان احساسات عمیق و تأملات شاعر درباره زندگی و ناپایداری آن می‌پردازد. شاعر به بی‌دلیلی برخی از نتایج و حوادث اشاره می‌کند و تصویری از کشتی بدون ناخدا و خانه‌ای بی‌ثبات و آسیب‌پذیر ارائه می‌دهد. او نگران است که سیلاب حوادث چه بلایی بر سر آرامش و امنیت زندگی‌اش خواهد آورد. در کل، این اشعار حس ناامنی و بی‌ثباتی زندگی را به خوبی منتقل می‌کند.",
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایمن",
+      "PlainText": "نماید بی سبب حاصل مسبب مدعای من\r\nچو موج آید به ساحل کشتی بی ناخدای من\r\nبه دنیا خانه از نقش پا برچیده ای دارم\r\nچه خواهد برد سیلاب حوادث از سرای من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنماید بی سبب حاصل، مسبب مدعای من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو موج آید به ساحل، کشتی بی ناخدای من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دنیا، خانهٔ از نقش پا برچیده ای دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه خواهد برد سیلاب حوادث، از سرای من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نماید بی سبب حاصل، مسبب مدعای من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو موج آید به ساحل، کشتی بی ناخدای من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به دنیا، خانهٔ از نقش پا برچیده ای دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه خواهد برد سیلاب حوادث، از سرای من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

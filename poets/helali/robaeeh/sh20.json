@@ -1,0 +1,58 @@
+{
+  "Id": 45363,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۲۰",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۲۰",
+  "FullUrl": "/helali/robaeeh/sh20",
+  "RhymeLetters": "روزفراق",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شعر به شدت احساس دوری و فراق را بیان می‌کند. شاعر از شدت درد و سوز فراق شکایت دارد و روزی را توصیف می‌کند که به نظرش به روز قیامت شبیه است، زیرا شدت احساساتش در این روز بسیار زیاد است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روزفراق",
+      "PlainText": "امروز ز حد می گذرد سوز فراق\r\nوین شعله آه آتش افروز فراق\r\nروز عجبی پیش من آمد یا رب\r\nاین روز قیامت ست یا روز فراق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز ز حد می‌گذرد سوز فراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین شعلهٔ آهِ آتش‌افروز فراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز عجبی پیش من آمد! یا رب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین روز قیامت‌ست یا روز فراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز ز حد می‌گذرد سوز فراق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین شعلهٔ آهِ آتش‌افروز فراق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روز عجبی پیش من آمد! یا رب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این روز قیامت‌ست یا روز فراق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

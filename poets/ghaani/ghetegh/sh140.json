@@ -1,0 +1,72 @@
+{
+  "Id": 45802,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۴۰",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۴۰",
+  "FullUrl": "/ghaani/ghetegh/sh140",
+  "RhymeLetters": "رکندهمی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیان می‌کند که کسی که دارای معرفت و شناخت خداست، به طور طبیعی ذکر خدا را بر زبان می‌آورد، در حالی که کسی که معرفت ندارد، این کار را از روی انتخاب و اراده خود انجام می‌دهد. همچنین، ذکر خدا به خاطر خود اوست، ولی ذکر دیگران به خاطر خلق و مردم است. در پایان، شاعر می‌پرسد که آیا می‌توان این دو نوع ذکر را با هم برابر دانست یا خیر.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رکندهمی",
+      "PlainText": "آن راکه گنج معرفت کردگار هست\r\nبی اختیار ذکر خدا سرکند همی\r\nوان راکه نیست معرفت ذکرکردگار\r\nاز روی اختیار مکرر کند همی\r\nآن ذکر بهر حق کند این یک برای خلق\r\nکی این دو را خدای برابر کند همی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن راکه گنج معرفت کردگار هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌اختیار ذکر خدا سرکند همی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان راکه نیست معرفت ذکرکردگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز روی اختیار مکرّر کند همی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ذکر بهر حق کند این‌یک برای خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی این دو را خدای برابر کند همی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن راکه گنج معرفت کردگار هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌اختیار ذکر خدا سرکند همی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وان راکه نیست معرفت ذکرکردگار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از روی اختیار مکرّر کند همی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن ذکر بهر حق کند این‌یک برای خلق",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کی این دو را خدای برابر کند همی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

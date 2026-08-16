@@ -1,0 +1,58 @@
+{
+  "Id": 70044,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/amir/robam/sh1",
+  "RhymeLetters": "رمارا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار درباره عشق و احساسات عمیق انسانی صحبت می‌کند. شاعر به یاد شاه سنجر و عشق خود اشاره می‌کند و بیان می‌کند که عشق در دل او و دیگران غم و شوری ایجاد کرده است. همچنین نشان می‌دهد که این عشق همچون پیکانی به دل او و دیگران اثر می‌گذارد. در کل، احساسات عاشقانه و تأثیرات آن‌ها بر زندگی انسان‌ها در این ابیات به تصویر کشیده شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمارا",
+      "PlainText": "گر سینه بخست شاه سنجر ما را\r\nکم نیست خمار عشق در سر ما را\r\nگر دل  بربود یار دلبر ما را\r\nپیکان بدل دل است در بر ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر سینه بخست شاه سنجر ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکم نیست خمار عشق در سر ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دل‌ برُبود یار دلبر ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیکان بَدَل دل است در بر ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر سینه بخست شاه سنجر ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کم نیست خمار عشق در سر ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دل‌ برُبود یار دلبر ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیکان بَدَل دل است در بر ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

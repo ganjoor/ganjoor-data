@@ -1,0 +1,58 @@
+{
+  "Id": 95899,
+  "CatId": 2468,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "دقیقی » ابیات پراکنده » شمارهٔ ۷",
+  "FullUrl": "/daghighi/parakande/sh7",
+  "RhymeLetters": "ردهد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این شعر به مفهوم شکایت و گله از بی‌نتیجه بودن صبر و بی‌قراری برای رسیدن به معشوق پرداخته است. شاعر می‌گوید همه او را پند می‌دهند که برای رسیدن به مطلوب باید صبر کنی و او به آنها پاسخ می‌دهد که یک عمر صبر کردم گویی یک عمر دیگر لازم دارم!",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردهد",
+      "PlainText": "گویند صبر کن که ترا صبر بر دهد\r\nآری دهد ولیک به عمر دگر دهد\r\nمن عمر خویش را به صبوری گذاشتم\r\nعمری دگر بباید تا صبر بر دهد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند صبر کن که ترا صبر بر دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری دهد ولیک به عمر دگر دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن عمر خویش را به صبوری گذاشتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعمری دگر بباید تا صبر بر دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند صبر کن که ترا صبر بر دهد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آری دهد ولیک به عمر دگر دهد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من عمر خویش را به صبوری گذاشتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عمری دگر بباید تا صبر بر دهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

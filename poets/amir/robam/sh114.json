@@ -1,0 +1,58 @@
+{
+  "Id": 70157,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۱۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۱۴",
+  "FullUrl": "/amir/robam/sh114",
+  "RhymeLetters": "فش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن درباره یک فرد با قد بلند و موی کم‌پشت است که به زیبایی و ویژگی‌های محبوبش اشاره دارد. او به شراب نوشی و حالت مستی نرگس (نماد عشق) اشاره کرده و ابراز می‌کند که در کلیسا نشسته و با یک دست ناقوس و با دست دیگر معشوقش را نگه داشته است. این تصویر نمادین نشان دهنده تضاد میان عشق و مذهب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستش",
+      "PlainText": "از جور قد بلند و موی پستش\r\nوز کافری نرگس  بی می ْ مستش\r\nگریان به کلیسیا شوم بنشینم\r\nناقوس به یک دست و به دستی دستش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جور قد بلند و موی پستش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز کافری نرگس ِ بی می‌ْ مستش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگریان به کلیسیا شوم بنشینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناقوس به یک دست و به دستی دستش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از جور قد بلند و موی پستش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز کافری نرگس ِ بی می‌ْ مستش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گریان به کلیسیا شوم بنشینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناقوس به یک دست و به دستی دستش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

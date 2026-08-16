@@ -1,0 +1,58 @@
+{
+  "Id": 82917,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/hazin/robaee-hz/sh29",
+  "RhymeLetters": "شکراوست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات عشق به سلیمان تشبیه شده و دل انسان به انگشتر او می‌باشد. درد و رنج دل به نوعی به یاری سلیمان و یارانش تعبیر شده و در نهایت ناله‌های عاشقانه به شیرینی شکر تشبیه می‌شوند. به طور کلی، این اشعار احساسات عمیق عاشقانه و ارتباط نزدیک بین عشق و رنج را بیان می‌کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شکراوست",
+      "PlainText": "عشق است سلیمان و دل انگشتر اوست\r\nداغ جگرم سیاهی لشکر اوست\r\nقالب نی و جان ناشکیباست نوا\r\nنالیدن ما از لب چون شکر اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق است سلیمان و دل انگشتر اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغ جگرم سیاهی لشکر اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقالب نی و جان ناشکیباست نوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنالیدن ما از لب چون شکر اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق است سلیمان و دل انگشتر اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ جگرم سیاهی لشکر اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قالب نی و جان ناشکیباست نوا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نالیدن ما از لب چون شکر اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 37154,
+  "CatId": 874,
+  "Title": "بخش ۴۷ - وله ایضاً",
+  "FullTitle": "عطار » وصلت نامه » بخش ۴۷ - وله ایضاً",
+  "FullUrl": "/attar/vaslatname/sh47",
+  "RhymeLetters": "یداست",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس دلتنگی و امید است. شاعر می‌گوید که بدون یاد معشوق، دلش همچون سایه‌ای در نور خورشید بی‌رمق است. اما با یاد او، امیدی بی‌نهایت در دلش بوجود می‌آید. همچنین اشاره می‌کند که هر بذری که در دل می‌کارد، به جز یاد معشوق، تنها حسرتی جاویدان خواهد بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یداست",
+      "PlainText": "بی یاد تو دل چو سایه در خورشید است\r\nبا یاد تو بی نهایت امید است\r\nهر تخم که در زمین دل کاشته ایم\r\nجز یاد تو تخم حسرت جاوید است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی یاد تو دل چو سایه در خورشید است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا یاد تو بی‌نهایت امید است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر تخم که در زمین دل کاشته‌ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز یاد تو تخم حسرت جاوید است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی یاد تو دل چو سایه در خورشید است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با یاد تو بی‌نهایت امید است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر تخم که در زمین دل کاشته‌ایم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز یاد تو تخم حسرت جاوید است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

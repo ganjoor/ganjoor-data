@@ -1,0 +1,58 @@
+{
+  "Id": 119584,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/neshat/divan/robaee/sh50",
+  "RhymeLetters": "ستم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به احساس دیوانگی و مستی اشاره می‌کند. او بیان می‌کند که در حال حاضر بسیار سرشار از عشق و جنون است و به خاطر عدم توجه معشوق، احساس ناامیدی می‌کند. او تمنا دارد که معشوق دستش را بگیرد و او را از این حال و روز نجات دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستم",
+      "PlainText": "امشب دگر ای دوست نه تنها مستم\r\nدیوانه و مست هر چه خواهی هستم\r\nچون دست نمیدهد که بوسم پایت\r\nافتاده ام از پای که گیری دستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب دگر ای دوست نه تنها مستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیوانه و مست هر چه خواهی هستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دست نمیدهد که بوسم پایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتاده ام از پای که گیری دستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب دگر ای دوست نه تنها مستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیوانه و مست هر چه خواهی هستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون دست نمیدهد که بوسم پایت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افتاده ام از پای که گیری دستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

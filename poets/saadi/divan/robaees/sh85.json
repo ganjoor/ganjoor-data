@@ -1,0 +1,58 @@
+{
+  "Id": 10146,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۸۵",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۸۵",
+  "FullUrl": "/saadi/divan/robaees/sh85",
+  "RhymeLetters": "س",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "\u00A0در این شعر شاعر از محبوب گلایه می‌کند و بیان می‌کند که نمی‌خواسته کسی غیر از دوست در کنار او باشد. او که هیچ پناهی ندارد از خدایش کمک می‌خواهد تا به فریاد اورسد و رنجش را درک کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "س",
+      "PlainText": "رویی که نخواستم که بیند همه کس\r\nالا شب و روز پیش من باشد و بس\r\nپیوست به دیگران و از من ببرید\r\nیارب تو به فریاد من مسکین رس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرویی که نخواستم که بیند همه کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالا شب و روز پیش من باشد و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوست به دیگران و از من ببرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب تو به فریاد من مسکین رس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رویی که نخواستم که بیند همه کس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "الا شب و روز پیش من باشد و بس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیوست به دیگران و از من ببرید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یارب تو به فریاد من مسکین رس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

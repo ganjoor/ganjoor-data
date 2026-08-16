@@ -1,0 +1,58 @@
+{
+  "Id": 83012,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۲۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۲۴",
+  "FullUrl": "/hazin/robaee-hz/sh124",
+  "RhymeLetters": "تمجدانتوانکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساس تنهایی و عزلت خود اشاره می‌کند و می‌گوید که نمی‌تواند از این وضعیت جدا شود. او از کمبودها و فقر خود می‌گوید و تاکید می‌کند که با وجود مجروح بودن، همچنان شور و اشتیاقی برای جان فشانی دارد و نمی‌تواند این احساسات را کنار بگذارد. در نهایت، شاعر به اراده و همت خود اشاره می‌کند که او را از این حال و هوا جدا نمی‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تمجدانتوانکرد",
+      "PlainText": "از گوشه عزلتم جدا نتوان کرد\r\nوز فقر به دولتم جدا نتوان کرد\r\nمجروحم و ذوق جان فشانی دارم\r\nبا تیغ ز همتم جدا نتوان کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز گوشهٔ عزلتم جدا نتوان کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز فقر، به دولتم جدا نتوان کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجروحم و ذوق جان فشانی دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تیغ ز همّتم جدا نتوان کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از گوشهٔ عزلتم جدا نتوان کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز فقر، به دولتم جدا نتوان کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مجروحم و ذوق جان فشانی دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با تیغ ز همّتم جدا نتوان کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

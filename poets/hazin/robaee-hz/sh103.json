@@ -1,0 +1,58 @@
+{
+  "Id": 82991,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۰۳",
+  "FullUrl": "/hazin/robaee-hz/sh103",
+  "RhymeLetters": "اارزد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این موضوع اشاره دارند که دنیا و خواسته‌های دنیوی هرچند جذاب و مهم به نظر می‌رسند، اما در واقع ارزش واقعی ندارند. شاعر بیان می‌کند که در این جهان هیچ چیزی به اندازه دلبستگی‌ها و احساسات ما ارزشمند نیست و حسرت و غم ناشی از این دلبستگی‌ها به نوعی از دوری و عدم دسترسی به آنچه که می‌خواهیم نشأت می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اارزد",
+      "PlainText": "دنیا طلب دنی به دنیا ارزد\r\nمفتون تمنا به تمنا ارزد\r\nدر عالم ایجاد ندیدیم حزین\r\nچیزی که به دلبستگی ما ارزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیا طلب دنی، به دنیا ارزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمفتون تمنا به تمنا ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عالم ایجاد ندیدیم حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچیزی که به دلبستگی ما ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دنیا طلب دنی، به دنیا ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مفتون تمنا به تمنا ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عالم ایجاد ندیدیم حزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چیزی که به دلبستگی ما ارزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

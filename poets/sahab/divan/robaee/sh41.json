@@ -1,0 +1,58 @@
+{
+  "Id": 112365,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/sahab/divan/robaee/sh41",
+  "RhymeLetters": "نمیخوانی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به انتقاد از کسی می‌پردازد که اشعار او را می‌دزدد و بعد به نام خود می‌خواند. او می‌گوید که اگر کسی از اشعار قدیمی بخواند اشکالی ندارد، اما درد او این است که اشعار خودش را می‌ربایند و به او نسبت می‌دهند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمیخوانی",
+      "PlainText": "هر شعر کز اوراق کهن میخوانی\r\nسهل است اگر زخویشتن میخوانی\r\nبا این چه کنم که هر زمان شعر مرا\r\nمی دزدی و آن گاه به من میخوانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شعر کز اوراق کهن میخوانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسهل است اگر زخویشتن میخوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا این چه کنم که هر زمان شعر مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی دزدی و آن گاه به من میخوانی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شعر کز اوراق کهن میخوانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سهل است اگر زخویشتن میخوانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با این چه کنم که هر زمان شعر مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می دزدی و آن گاه به من میخوانی؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

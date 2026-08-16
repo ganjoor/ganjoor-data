@@ -1,0 +1,58 @@
+{
+  "Id": 94105,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۳۳۹",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۳۳۹",
+  "FullUrl": "/ebneyamin/divan/robaee/sh339",
+  "RhymeLetters": "تارشود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و تاثیرگذار بودن زیبایی معشوق اشاره دارد. شاعر می‌گوید که وقتی ماه به رویداد زیبایی او خجالت می‌کشد و زلف معشوق در باد گرفتار می‌شود، شب و روز تحت تاثیر این زیبایی دگرگون می‌شوند و روز به شب تبدیل می‌شود. در واقع، شاعر از قدرت و تاثیر زیبایی معشوق بر طبیعت و زمان سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تارشود",
+      "PlainText": "رویت که ازو ماه خجل سار شود\r\nزلفت که در او باد گرفتار شود\r\nاز ظلمت این و نور آن در شب و روز\r\nشب روز شود روز شب تار شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرویت که ازو ماه خجل سار شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلفت که در او باد گرفتار شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ظلمت این و نور آن در شب و روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب روز شود روز شب تار شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رویت که ازو ماه خجل سار شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلفت که در او باد گرفتار شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ظلمت این و نور آن در شب و روز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب روز شود روز شب تار شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

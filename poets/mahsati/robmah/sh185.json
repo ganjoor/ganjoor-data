@@ -1,0 +1,58 @@
+{
+  "Id": 50245,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۸۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۸۵",
+  "FullUrl": "/mahsati/robmah/sh185",
+  "RhymeLetters": "ارشوی",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر می‌خواهد بگوید که نمی‌خواهد محبوبش به خاطر او ناراحت و دلشکسته شود. او نمی‌خواهد در نگاه یا قلبش جایی داشته باشد تا از او خوار و ذلیل نشود. شاعر به جای آن، محبوبش را در جان و وجود خود جای می‌دهد تا در لحظه‌های آخر زندگی‌اش، باز هم کنار او باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارشوی",
+      "PlainText": "در دل نگذارمت که افگار شوی\r\nدر دیده ندارمت که بس خوار شوی\r\nدر جان کنمت جای نه در دیده و دل\r\nتا با نفس باز پسین یار شوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دل نگذارمت که افگار شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیده ندارمت که بس خوار شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جان کنمت جای نه در دیده و دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا با نفس باز پسین یار شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دل نگذارمت که افگار شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیده ندارمت که بس خوار شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در جان کنمت جای نه در دیده و دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا با نفس باز پسین یار شوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

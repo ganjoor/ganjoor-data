@@ -1,0 +1,58 @@
+{
+  "Id": 82960,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/hazin/robaee-hz/sh72",
+  "RhymeLetters": "اج",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف حال و هوای زاهدان پرداخته است. سرمای دم زاهدان و تأثیر آن بر حرارت انسان‌ها را بیان می‌کند. او اشاره می‌کند که دور زمانه، بی‌مزه و سرد شده و به کسانی که به باده‌نوشی و شادی‌های زندگی در گذشته می‌پرداختند، اشاره می‌کند که اکنون دیگر خبری از آنها نیست. به طور کلی، روح حاکم بر شعری ناظر به یأس و سردی زندگی و دوری از لذت‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اج",
+      "PlainText": "دم سردی زاهدان کافورمزاج\r\nافسرد حرارت به عروق و اوداج\r\nپر بی مزه گشته دور گردون چه شدند\r\nآنها که دهند دور پیمانه رواج",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدم سردی زاهدان کافورمزاج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسرد حرارت به عروق و اوداج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپر بی مزه گشته دور گردون، چه شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنها که دهند دور پیمانه رواج؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دم سردی زاهدان کافورمزاج",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افسرد حرارت به عروق و اوداج",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پر بی مزه گشته دور گردون، چه شدند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنها که دهند دور پیمانه رواج؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

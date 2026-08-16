@@ -1,0 +1,58 @@
+{
+  "Id": 45644,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۴",
+  "FullUrl": "/ghaani/ghetegh/sh4",
+  "RhymeLetters": "انایدتورا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به پسر خود توصیه می‌کند که در دنیای پر از تغییرات و ناامنی‌ها، هرگز دل به دنیا نبندد و برای هر سودی که به دست می‌آورد، به ضررها و زیان‌های آن نیز توجه کند. او همچنین هشدار می‌دهد که اگر به وابستگی به لذت‌های زودگذر، مانند می‌خوری (شراب) بپردازد، ممکن است در صبح روز بعد دچار پشیمانی و خماری شود. به‌طور کلی، پیام شعر این است که انسان باید از وابستگی به دنیای مادی و لذات آن دوری کند.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انایدتورا",
+      "PlainText": "ای پسر درکار دنیا تا توانی دل مبند\r\nکز پی هر سود او چندین زیان آید تو را\r\nچند گویی شب بهل کز می دماغی تر کنم\r\nصبحدم ترسم خماری ناگهان آید تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پسر درکار دنیا تا توانی دل مبند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز پی هر سود او چندین زیان آید تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند گویی شب بهل کز می دماغی تر کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبحدم ترسم خماری ناگهان آید تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای پسر درکار دنیا تا توانی دل مبند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز پی هر سود او چندین زیان آید تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چند گویی شب بهل کز می دماغی تر کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبحدم ترسم خماری ناگهان آید تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

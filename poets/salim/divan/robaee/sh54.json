@@ -1,0 +1,58 @@
+{
+  "Id": 101845,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۵۴",
+  "FullUrl": "/salim/divan/robaee/sh54",
+  "RhymeLetters": "لیمیاید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، صبح با صدای بلبلی آغاز می‌شود و نسیم لطیفی که بوی گل می‌دهد، فضا را دلپذیر کرده است. شاعر به زیبایی طبیعی اشاره می‌کند و احساس می‌کند که این زیبایی مانند مژۀ چشمش در دل او جای دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لیمیاید",
+      "PlainText": "صبح است و نوای بلبلی می آید\r\nزان طره نسیم سنبلی می آید\r\nهمچون مژه در دیده ی ما جا دارد\r\nخاری که ازو بوی گلی می آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح است و نوای بلبلی می آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان طره نسیم سنبلی می آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچون مژه در دیده ی ما جا دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاری که ازو بوی گلی می آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح است و نوای بلبلی می آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان طره نسیم سنبلی می آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچون مژه در دیده ی ما جا دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاری که ازو بوی گلی می آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

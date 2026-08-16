@@ -1,0 +1,58 @@
+{
+  "Id": 13005,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۲۷۰",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۲۷۰",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh270",
+  "RhymeLetters": "م",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به توصیف روز و شب می‌پردازد. روز با نور خورشید علم را برافراشته و شب آن را شکست می‌دهد و تاریکی را به ارمغان می‌آورد. سپس شب از میان دو زلف (مو) زیبا به مانند یک معشوق، چهره‌ی او را نمایان می‌سازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "روز آمد و برکشید خورشید علم\r\nشب کرد ازو هزیمت و برد حشم\r\nگویی ز میان آن دو زلفین به خم\r\nپیدا کردند روی آن شهره صنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز آمد و برکشید خورشید علم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب کرد ازو هزیمت و برد حشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی ز میان آن دو زلفین به خم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیدا کردند روی آن شهره صنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روز آمد و برکشید خورشید علم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب کرد ازو هزیمت و برد حشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی ز میان آن دو زلفین به خم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیدا کردند روی آن شهره صنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

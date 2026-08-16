@@ -1,0 +1,58 @@
+{
+  "Id": 36091,
+  "CatId": 849,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "عطار » مختارنامه » باب چهل و هشتم: در سخن گفتن به زبان شمع » شمارهٔ ۷",
+  "FullUrl": "/attar/mokhtarname/bb48/sh7",
+  "RhymeLetters": "باست",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شمع به دست آمده و می‌گوید که جانش به لب رسیده است. او از سوز شب‌هایی که به خاطر روزها کشیده می‌شود، ناراحت و متعجب است. همچنین، از اینکه چگونه اشک‌ها می‌سوزند، تعجب می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باست",
+      "PlainText": "شمع آمد و گفت آمده جانم به لب است\r\nباکشتن روزم این همه سوز شب است\r\nزین آتش تیز در عجب ماندهام\r\nتا اشک چگونه مینسوزد عجب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع آمد و گفت: آمده جانم به لب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباکشتن روزم این همه سوز شب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین آتش تیز در عجب ماندهام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اشک چگونه مینسوزد عجب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمع آمد و گفت: آمده جانم به لب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باکشتن روزم این همه سوز شب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین آتش تیز در عجب ماندهام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا اشک چگونه مینسوزد عجب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83367,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۰۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۰۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh206",
+  "RhymeLetters": "ارمیاید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان این نکته می‌پردازد که ما از کاروان سبکباران درنگ نمی‌کنیم و از رفتارهای ناپایدار و بی‌قرار منزل نمی‌سازیم. شاعر تأکید می‌کند که اگر لبانی مانند غنچه خاموش است، باید به گوش دل توجه کنیم، زیرا سخنان بیهوده و بی‌فایده بویی از خیر و نیکی نمی‌دهند. به طور کلی، شعر بر اهمیت توجه به معانی عمیق و واقعی زندگی تأکید دارد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتاراننمیاید",
+      "PlainText": "درنگ ازکاروان ما سبکباران نمی آید\r\nقرار منزل از سیلاب رفتاران نمی آید\r\nلبی چون غنچه گر خاموش بینی گوش دل بگشا\r\nکه بوی خیر ازین بیهوده گفتاران نمی آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرنگ ازکاروان ما سبکباران نمی آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقرار منزل از سیلاب رفتاران نمی آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلبی چون غنچه گر خاموش بینی، گوش دل بگشا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بوی خیر ازین بیهوده گفتاران نمی آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درنگ ازکاروان ما سبکباران نمی آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قرار منزل از سیلاب رفتاران نمی آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لبی چون غنچه گر خاموش بینی، گوش دل بگشا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بوی خیر ازین بیهوده گفتاران نمی آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

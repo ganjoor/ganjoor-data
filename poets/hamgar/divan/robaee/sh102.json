@@ -1,0 +1,58 @@
+{
+  "Id": 120818,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۱۰۲",
+  "FullUrl": "/hamgar/divan/robaee/sh102",
+  "RhymeLetters": "اراست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر احساس عمیق رنج و ناامیدی شاعر است. او از آزارهای موجود در زندگی، چه از جانب انسان‌ها و چه از دیوانگی‌ها و مشکلات، شکایت دارد. جان او مثل نوشی که به زهر تبدیل شده، برایش دردناک است و زندگی‌اش در نظرش بی‌ارزش و خوار به نظر می‌رسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اراست",
+      "PlainText": "از بس که ز دیو و دد مرا آزار است\r\nوز بس که ز خلق بر وجودم بار است\r\nاین جان چو نوش بر دلم چون زهر است\r\nوین عمر عزیز پیش چشمم خوار است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که ز دیو و دد مرا آزار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بس که ز خلق بر وجودم بار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین جان چو نوش بر دلم چون زهر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین عمر عزیز پیش چشمم خوار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بس که ز دیو و دد مرا آزار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز بس که ز خلق بر وجودم بار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این جان چو نوش بر دلم چون زهر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین عمر عزیز پیش چشمم خوار است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

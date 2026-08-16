@@ -1,0 +1,77 @@
+{
+  "Id": 125569,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۳۴",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۳۴",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh34",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعر بیانگر این است که او به دنیا نیامده تا جان خود را بگیرد، بلکه آمده تا آب را برای کودکان بیاورد. او می‌گوید که اگر لازم باشد جانش را فدای آوردن آب کند، برای او آسان است. اما در نهایت، هدف او این است که آب را حفظ کند و نه اینکه جان را بگیرد.",
+  "Sections": [
+    {
+      "Index": 46,
+      "Number": 46,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انببرم",
+      "PlainText": "من نامده ام که جان ز میدان ببرم\r\nآب آمده ام برای طفلان ببرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن نامده‌ام که جان ز میدان ببرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب آمده‌ام برای طفلان ببرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 47,
+      "Number": 47,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "جان گر بدهم برای آبی سهل است\r\nآب ار ببرم به است تا جان ببرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان گر بدهم برای آبی سهل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب ار ببرم به است تا جان ببرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 109,
+      "Number": 109,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انببرم",
+      "PlainText": "من نامده ام که جان ز میدان ببرم\r\nآب آمده ام برای طفلان ببرم\r\nجان گر بدهم برای آبی سهل است\r\nآب ار ببرم به است تا جان ببرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن نامده‌ام که جان ز میدان ببرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب آمده‌ام برای طفلان ببرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان گر بدهم برای آبی سهل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب ار ببرم به است تا جان ببرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من نامده‌ام که جان ز میدان ببرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 109,
+      "SectionIndex2": 46
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آب آمده‌ام برای طفلان ببرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 109,
+      "SectionIndex2": 46
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان گر بدهم برای آبی سهل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 109,
+      "SectionIndex2": 47
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آب ار ببرم به است تا جان ببرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 109,
+      "SectionIndex2": 47
+    }
+  ]
+}

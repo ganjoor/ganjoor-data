@@ -1,0 +1,58 @@
+{
+  "Id": 105624,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۳",
+  "FullUrl": "/ahli/saghiname/sh4",
+  "RhymeLetters": "وربخشدهمهرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد که جامی پر کند تا همه را نورانی کند و در لحظه‌ای که در حضور او هستند، احساس خوشی و پاکی کنند. او به این نکته اشاره می‌کند که این جام می‌تواند زنگارهای وجود انسان‌ها را برطرف کند و به آنها طهارت بخشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وربخشدهمهرا",
+      "PlainText": "ساقی قدحی که نور بخشد همه را\r\nپر کن که دمی حضور بخشد همه را\r\nخوشباش که هم ببخشد آلایش ما\r\nآنکس که می طهور بخشد همه را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی قدحی که نور بخشد همه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر کن که دمی حضور بخشد همه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشباش که هم ببخشد آلایش ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکس که می طهور بخشد همه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی قدحی که نور بخشد همه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پر کن که دمی حضور بخشد همه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوشباش که هم ببخشد آلایش ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنکس که می طهور بخشد همه را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

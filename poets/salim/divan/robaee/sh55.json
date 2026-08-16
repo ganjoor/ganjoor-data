@@ -1,0 +1,58 @@
+{
+  "Id": 101846,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/salim/divan/robaee/sh55",
+  "RhymeLetters": "واریدید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به اهمیت نرمی و دوستی در برابر کینه و دل‌آزردگی اشاره دارد. شاعر می‌فرماید که هر کسی که از کینه‌ورزی رنج می‌کشد، در واقع خود را به ذلت می‌اندازد. او بر این نکته تأکید می‌کند که نرمش و محبت می‌تواند به عنوان درمانی برای کینه‌ورزان عمل کند و می‌تواند مشکلات را حل کند، مانند زمانی که سیل در یک زمین هموار به راحتی حرکت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "واریدید",
+      "PlainText": "هرکس در کینه زد دل آزاری دید\r\nاز کرده ی خویشتن بسی خواری دید\r\nنرمی ست علاج کینه ی سخت دلان\r\nهموار شود سیل چو همواری دید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکس درِ کینه زد، دل‌آزاری دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کرده‌ی خویشتن بسی خواری دید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنرمی ست علاج کینه‌ی سخت‌دلان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهموار شود سیل چو همواری دید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس درِ کینه زد، دل‌آزاری دید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از کرده‌ی خویشتن بسی خواری دید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نرمی ست علاج کینه‌ی سخت‌دلان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هموار شود سیل چو همواری دید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

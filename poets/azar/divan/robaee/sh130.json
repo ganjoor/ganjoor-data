@@ -1,0 +1,58 @@
+{
+  "Id": 119051,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۳۰",
+  "FullUrl": "/azar/divan/robaee/sh130",
+  "RhymeLetters": "نم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعر به عمق رابطه و تغییر وضعیت انسان‌ها اشاره دارد. او به محرم رازهای خود اشاره می‌کند و می‌گوید که وقتی غم و رنج را در چهره دیگری می‌بیند، به او طعنه می‌زند. این نشان می‌دهد که روزی خود او هم در چنین شرایطی بوده و ممکن است روزی آن دیگری نیز به وضعیتی مشابه دچار شود. به نوعی، این ابیات به تقدیر و تغییرات زندگی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نم",
+      "PlainText": "ای محرم خلوت ومه انجمنم\r\nمحروم چو ببینم بتو طعنه زنم\r\nدی من بودم چنین که امروز تویی\r\nفردا تو چنان شوی که امروز منم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای محرم خلوت ومه انجمنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحروم چو ببینم بتو، طعنه زنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی من بودم چنین، که امروز تویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا تو چنان شوی، که امروز منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای محرم خلوت ومه انجمنم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محروم چو ببینم بتو، طعنه زنم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دی من بودم چنین، که امروز تویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فردا تو چنان شوی، که امروز منم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

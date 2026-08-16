@@ -1,0 +1,58 @@
+{
+  "Id": 76515,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/khojandi/robkk/sh37",
+  "RhymeLetters": "ری",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از فردی سخن می‌گوید که در تمام هنرها ماهر و سوارکار است. او از وعده‌ای که درباره‌ی اسب داده بودند یاد می‌کند و اشاره می‌کند که به تنهایی نمی‌تواند این کار را انجام دهد. در پایان، او می‌گوید که قصد دارند اسبی و خری را به راه بیندازند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "ای آنکه تویی سوار در هر هنری\r\nاز وعده اسب دادیم دی خبری\r\nبی همتی است اسب تنهها بتو داد\r\nخواهیم روانه کرد اسبی و خری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه تویی سوار در هر هنری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز وعده اسب دادیم دی خبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی همتی است اسب تنهها بتو داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهیم روانه کرد اسبی و خری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه تویی سوار در هر هنری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از وعده اسب دادیم دی خبری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی همتی است اسب تنهها بتو داد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خواهیم روانه کرد اسبی و خری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

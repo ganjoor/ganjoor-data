@@ -1,0 +1,58 @@
+{
+  "Id": 83278,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۱۷",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۱۷",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh117",
+  "RhymeLetters": "ولنیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساس تنهایی و درد عمیق خود اشاره می‌کند. او بیان می‌کند که مانند شمع بی‌دلیل نمی‌سوزد، بلکه رنجش ناشی از زیبایی و محبوبی است که در دسترسش نیست. او همچنین به تقدس و ارزشی که خاک پای او دارد اشاره می‌کند و می‌گوید که دیگر شرایط برای قدم گذاشتن به آنجا وجود ندارد و باید در حسرت بماند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازنیست",
+      "PlainText": "چون شمع بی سبب نفسم جانگداز نیست\r\nداغم که حسن لاله رخان دلنواز نیست\r\nیک ره به تربتم قدمی می توان گذاشت\r\nمن خاک راه گشته ام این وقت ناز نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شمع، بی سبب نفسم جانگداز نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغم که حسن لاله رخان، دلنواز نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک ره به تربتم قدمی می توان گذاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن خاک راه گشته ام، این وقت ناز نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شمع، بی سبب نفسم جانگداز نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغم که حسن لاله رخان، دلنواز نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک ره به تربتم قدمی می توان گذاشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من خاک راه گشته ام، این وقت ناز نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

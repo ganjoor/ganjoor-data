@@ -1,0 +1,58 @@
+{
+  "Id": 74543,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/ghodsi/robghm/sh2",
+  "RhymeLetters": "کاهجدا",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این اشعار بیانگر احساس جدایی و رهایی از درد و تمایلات دنیوی است. در بیت اول، اگر دل از دردهای عمیق رها نشود، نمی‌تواند خود را به سادگی از هوس‌ها جدا کند. در بیت دوم، اشاره می‌شود که هر خوشه‌ای که تحت فشار قرار گیرد، در نهایت دانه‌هایش از کاه جدا می‌شوند، که نشان‌دهندهٔ این است که در شرایط سخت، جدایی و خالص‌سازی اتفاق می‌افتد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کاهجدا",
+      "PlainText": "گر دل نشود ز درد جانکاه جدا\r\nخود را ز هوس کند به یک آه جدا\r\nهر خوشه که مالیده شد از جور کفی\r\nگردد به پفی دانه اش از کاه جدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دل نشود ز درد جانکاه جدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود را ز هوس کند به یک آه جدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر خوشه که مالیده شد از جور کفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردد به پفی دانه‌اش از کاه جدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر دل نشود ز درد جانکاه جدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود را ز هوس کند به یک آه جدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر خوشه که مالیده شد از جور کفی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردد به پفی دانه‌اش از کاه جدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

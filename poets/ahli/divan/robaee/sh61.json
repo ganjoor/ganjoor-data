@@ -1,0 +1,58 @@
+{
+  "Id": 104867,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/ahli/divan/robaee/sh61",
+  "RhymeLetters": "مت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس عمیق عاشقانه و درد ناشی از جدایی است. شاعر می‌گوید که اگر به خاطر ستم معشوق کشته شود، این مرگ به نوعی برکتی از محبت او خواهد بود. همچنین، او اشاره می‌کند که به خاطر غم معشوق، موی سیاهش را سفید کرده و آماده است تا جان خود را در راه عشق قربانی کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مت",
+      "PlainText": "من پیرم اگر کشته شوم از ستمت\r\nاین کشتن من باد مزید کرمت\r\nزان موی سیه سفید کردم ز غمت\r\nتا سرخ بخون خود کنم در قدمت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن پیرم اگر کشته شوم از ستمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کشتن من باد مزید کرمت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان موی سیه سفید کردم ز غمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سرخ بخون خود کنم در قدمت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من پیرم اگر کشته شوم از ستمت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این کشتن من باد مزید کرمت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان موی سیه سفید کردم ز غمت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سرخ بخون خود کنم در قدمت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

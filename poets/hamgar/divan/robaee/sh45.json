@@ -1,0 +1,58 @@
+{
+  "Id": 120761,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/hamgar/divan/robaee/sh45",
+  "RhymeLetters": "ابحیات",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره زیبایی و روشنی وجود یک معشوق است که به او تشبیه شده به درخت سرو شاداب و چشمه‌ای نایاب. قد و قامت او باعث می‌شود که باد در باغ به رقص بیفتد و زیبایی لب‌هایش مانند لعل، زندگی را به زمین و آب حیات می‌بخشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابحیات",
+      "PlainText": "ای قد خوش تو سرو شاداب حیات\r\nلعل لب تو چشمه نایاب حیات\r\nبا قد تو باد در کف سرو چمن\r\nبا لعل تو خاک بر سر آب حیات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای قد خوش تو سرو شاداب حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلعل لب تو چشمه نایاب حیات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا قد تو باد در کف سرو چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا لعل تو خاک بر سر آب حیات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای قد خوش تو سرو شاداب حیات",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لعل لب تو چشمه نایاب حیات",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با قد تو باد در کف سرو چمن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با لعل تو خاک بر سر آب حیات",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

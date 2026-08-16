@@ -1,0 +1,58 @@
+{
+  "Id": 84227,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/maghrebi/robaee-sm/sh16",
+  "RhymeLetters": "ویم",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: این شعر به ارتباط عمیق و همزمان میان من و خداوند اشاره دارد. شاعر بیان می‌کند که هرچه می‌شنود و می‌جوید در واقع از اوست، و این نکته را تأکید می‌کند که من و خداوند در حقیقت یکی هستیم؛ حالت بودن او در من و حالتی که من در او دارم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویم",
+      "PlainText": "آن کس که بدو می شنوم می گویم\r\nوانکس که بدو هرطرفی می پویم\r\nهم اوست ز من که هر زمان می گوید\r\nپیدا و نهان که او من و من اویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که بدو می شنوم می گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانکس که بدو هرطرفی می‌پویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم اوست ز من که هر زمان می گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیدا و نهان که او من و من اویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که بدو می شنوم می گویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وانکس که بدو هرطرفی می‌پویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم اوست ز من که هر زمان می گوید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیدا و نهان که او من و من اویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

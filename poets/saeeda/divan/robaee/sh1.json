@@ -1,0 +1,58 @@
+{
+  "Id": 107901,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/saeeda/divan/robaee/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت به زیبایی و قدرت خالق اشاره دارد و بیان می‌کند که با دیدن روی محبوب، یقین به عظمت خداوند حاصل می‌شود. همچنین اشاره دارد که از زیبایی محبوب می‌توان به معنا و حقیقت پی برد، که در چهره‌ها نیز نشان داده شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "تا روی تو دیدیم یقین شد ما را\r\nبر قدرت ذات خالق ارض و سما\r\nاز روی تو می توان به معنی پی برد\r\nسیماهم فی وجوهمم گفت خدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا روی تو دیدیم یقین شد ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر قدرت ذات خالق ارض [و] سما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز روی تو می توان به معنی پی برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E«سیماهم فی وجوهمم» گفت خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا روی تو دیدیم یقین شد ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر قدرت ذات خالق ارض [و] سما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از روی تو می توان به معنی پی برد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "«سیماهم فی وجوهمم» گفت خدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

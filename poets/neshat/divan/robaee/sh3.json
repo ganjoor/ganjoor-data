@@ -1,0 +1,58 @@
+{
+  "Id": 119537,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/neshat/divan/robaee/sh3",
+  "RhymeLetters": "باست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که غم و اندوه ناشی از شادی‌ها و لذت‌های گذشته است. شاعر می‌گوید امروز که از خوشی‌ها غافل بوده‌ایم، اگر حالا درد و ناله کنیم، جالب و عجیب نیست، زیرا نتیجه‌ی رفتار و انتخاب‌های دیروز ماست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باست",
+      "PlainText": "این غصه و غم از پی چندین طرب است\r\nوین انده و درد را نشاط از عقب است\r\nآن روز چو شکر حق نکردی امروز\r\nگر ناله و فریاد بر آری عجب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین غصه و غم از پی چندین طرب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین انده و درد را نشاط از عقب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روز چو شکر حق نکردی امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر ناله و فریاد بر آری عجب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این غصه و غم از پی چندین طرب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین انده و درد را نشاط از عقب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن روز چو شکر حق نکردی امروز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر ناله و فریاد بر آری عجب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

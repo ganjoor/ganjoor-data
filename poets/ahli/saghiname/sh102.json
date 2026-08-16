@@ -1,0 +1,58 @@
+{
+  "Id": 105722,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۱۰۱",
+  "FullUrl": "/ahli/saghiname/sh102",
+  "RhymeLetters": "سی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد که مانند خود او به یکی باشد و اگر دردها و مشکلات زیادی وجود دارد، او نیز داروهای زیادی دارد. همچنین از ساقی می‌خواهد که فریادرس نیازمندان باشد و خود او هم در این زمینه کمک کند. به طور کلی، شعر به معانی محبت، یاری‌رسانی و همدردی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سی",
+      "PlainText": "ساقی قدحی که بیکسان را تو کسی\r\nگر درد بسی بود دوا هم تو بسی\r\nفریاد رس اهلی مسکین که شود\r\nفریاد رسش که هم تو فریاد رسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی قدحی که بیکسان را تو کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر درد بسی بود دوا هم تو بسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریاد رس اهلی مسکین که شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد رسش که هم تو فریاد رسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی قدحی که بیکسان را تو کسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر درد بسی بود دوا هم تو بسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریاد رس اهلی مسکین که شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فریاد رسش که هم تو فریاد رسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

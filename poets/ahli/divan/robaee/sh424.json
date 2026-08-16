@@ -1,0 +1,58 @@
+{
+  "Id": 105230,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۴۲۴",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۴۲۴",
+  "FullUrl": "/ahli/divan/robaee/sh424",
+  "RhymeLetters": "س",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر بیانگر احساس تنهایی و ناامیدی شاعر است. او می‌گوید که در زندگی‌اش تنها کسی که مانده، نفس‌هایش هستند و با هر نفس، حس می‌کند که مرگ در انتظارش است. در واقع، او از کمبود ارتباط و یاری در زندگی‌اش رنج می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "س",
+      "PlainText": "بیمار و جز تو یاریم نیست ز کس\r\nدر زندگیم نمانده جز یکدو نفس\r\nبا این دو نفس که باقی از عمر منست\r\nدر هر نفسم هزار مرگست هوس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیمار و جز تو یاریم نیست ز کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زندگیم نمانده جز یکدو نفس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا این دو نفس که باقی از عمر منست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر هر نفسم هزار مرگست هوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیمار و جز تو یاریم نیست ز کس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در زندگیم نمانده جز یکدو نفس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با این دو نفس که باقی از عمر منست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در هر نفسم هزار مرگست هوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

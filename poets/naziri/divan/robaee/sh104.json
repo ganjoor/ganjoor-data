@@ -1,0 +1,58 @@
+{
+  "Id": 123670,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۰۴",
+  "FullUrl": "/naziri/divan/robaee/sh104",
+  "RhymeLetters": "ام",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در کوی هوس، من همیشه در خاک زندگی می‌کنم و هر صبح، شام به ملاقات من می‌آید. خواب‌ها و آرزوهای زیادی با من هستند و هر کدام به سمت خوشی‌های زندگی‌ام می‌آیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ام",
+      "PlainText": "در کوی هوس خاک نشینم ایام\r\nهر روز سحر به خدمتم آید شام\r\nصد قافله خواب پیش بختم به سجود\r\nصد دریا ز هر نزد عیشم به سلام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کوی هوس خاک نشینم ایام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر روز سحر به خدمتم آید شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد قافله خواب پیش بختم به سجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد دریا ز هر نزد عیشم به سلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کوی هوس خاک نشینم ایام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر روز سحر به خدمتم آید شام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد قافله خواب پیش بختم به سجود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد دریا ز هر نزد عیشم به سلام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

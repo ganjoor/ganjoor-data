@@ -1,0 +1,58 @@
+{
+  "Id": 34995,
+  "CatId": 825,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "عطار » مختارنامه » باب بیست و چهارم: در آنكه مرگ لازم و روی زمین خاك رفتگان است » شمارهٔ ۸",
+  "FullUrl": "/attar/mokhtarname/bb24/sh8",
+  "RhymeLetters": "شتی",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به اهمیت و تاثیر زندگی انسان‌ها بر زمین و گذشته اشاره دارد. شاعر بیان می‌کند که چه در کوهستان زندگی کنی یا در دشت، در نهایت بر خاک گذشتگان زندگی خواهی کرد. همچنین اشاره می‌کند که ناآمدگان نیز روزی بر خاک تو خواهند گذشت، به همان اندازه که تو بر خاک گذشتگان عبور کرده‌ای. این متن به نوعی به ارتباط میان نسل‌ها و تاثیرات متقابل آن‌ها می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شتی",
+      "PlainText": "گر در کوهی مقیم و گر در دشتی\r\nبر خاک گذشتگان مجاور گشتی\r\nبر خاک تو بگذرند ناآمدگان\r\nچندان که تو برگذشتگان بگذشتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در کوهی مقیم و گر در دشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خاک گذشتگان مجاور گشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خاک تو بگذرند ناآمدگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان که تو برگذشتگان بگذشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر در کوهی مقیم و گر در دشتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر خاک گذشتگان مجاور گشتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر خاک تو بگذرند ناآمدگان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان که تو برگذشتگان بگذشتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

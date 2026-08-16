@@ -1,0 +1,58 @@
+{
+  "Id": 10125,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۶۴",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۶۴",
+  "FullUrl": "/saadi/divan/robaees/sh64",
+  "RhymeLetters": "یباندانند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر درد و غم ناشی از عشق و محبت است. شاعر تأکید می‌کند که این درد خاص، تنها برای عاشقان و آشنایان قابل درک است و دیگران نمی‌توانند آن را بفهمند. غم عشق به حدی است که شاعر حس می‌کند که باید پنهان بماند و غریبه‌ها از آن آگاه نشوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یباندانند",
+      "PlainText": "آن درد ندارم که طبیبان دانند\r\nدردیست محبت که حبیبان دانند\r\nما را غم روی آشنایی کشتست\r\nاین حال نباید که غریبان دانند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن درد ندارم که طبیبان دانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردیست محبت که حبیبان دانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را غم روی آشنایی کشتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین حال نباید که غریبان دانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن درد ندارم که طبیبان دانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دردیست محبت که حبیبان دانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را غم روی آشنایی کشتست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این حال نباید که غریبان دانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

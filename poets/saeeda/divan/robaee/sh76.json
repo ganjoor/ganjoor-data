@@ -1,0 +1,58 @@
+{
+  "Id": 107976,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/saeeda/divan/robaee/sh76",
+  "RhymeLetters": "ود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به وصف حالتی می‌پردازد که در آن بی‌رنگی به شکل رنگی جلوه‌گر می‌شود. در پی این تغییر، دو دشمن، یعنی خلیل (حضرت ابراهیم) و نمرود، با یکدیگر آرامش یافته و بدون هیچ گونه گفت‌وگویی به صلح می‌رسند. به عبارت دیگر، در شرایطی که همه چیز تغییر می‌کند، روابط نیز دستخوش تحول می‌شود و صلح ایجاد می‌گردد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ود",
+      "PlainText": "بی رنگ به رنگ چون تجلی بنمود\r\nگشتند عدوی هم خلیل و نمرود\r\nچون باز ز دست رنگ گشتند خلاص\r\nبا هم کردند صلح بی گفت و شنود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی رنگ به رنگ چون تجلی بنمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشتند [عدوی] هم خلیل و نمرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون باز ز دست رنگ گشتند خلاص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا هم کردند صلح، بی گفت و شنود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی رنگ به رنگ چون تجلی بنمود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشتند [عدوی] هم خلیل و نمرود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون باز ز دست رنگ گشتند خلاص",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با هم کردند صلح، بی گفت و شنود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

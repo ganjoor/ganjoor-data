@@ -1,0 +1,58 @@
+{
+  "Id": 82913,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/hazin/robaee-hz/sh25",
+  "RhymeLetters": "اماناست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که نباید به دنیای مادی و لذایذ آن وابسته شد، چرا که این گونه وابستگی‌ها می‌تواند به دام افتادن منجر شود. در نهایت، هرچه در آغاز زندگی اتفاق می‌افتد، نتیجه و پایان آن نیز به همان مرتبط است. به عبارتی، از فهم عمیق تری در زندگی و مسیری روشن‌تر باید برخوردار بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اماناست",
+      "PlainText": "آلوده ی کام دل مشو کام آن است\r\nهرگز طمع دانه مکن دام آن است\r\nدر دایره ی فلک چه سرگردانی\r\nآغاز تو هر چه بود انجام آن است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآلوده ی کام دل مشو، کام آن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز طمع دانه مکن، دام آن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دایره ی فلک چه سرگردانی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآغاز تو هر چه بود، انجام آن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آلوده ی کام دل مشو، کام آن است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرگز طمع دانه مکن، دام آن است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دایره ی فلک چه سرگردانی؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آغاز تو هر چه بود، انجام آن است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

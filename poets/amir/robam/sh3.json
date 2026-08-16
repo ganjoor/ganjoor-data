@@ -1,0 +1,58 @@
+{
+  "Id": 70046,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/amir/robam/sh3",
+  "RhymeLetters": "انانرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به تمجید از شخصی می‌پردازد که به عنوان یک جنگجو و قهرمان، سلطه‌گران و قلعه‌داران را به چالش کشیده و نظم و امنیت آن‌ها را مختل کرده است. همچنین او را وارث بزرگان و سلطانی می‌داند که برای مسلمانان مایه افتخار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انانرا",
+      "PlainText": "ای تاخته از جهان جهانبانان را\r\nبرهم زده ملک و خانه خانان را\r\nای وارث نامدار سلطانان را\r\nفخرست به تو جمله مسلمانان را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تاخته از جهان جهانبانان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرهم زده ملک و خانهٔ خانان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای وارث نامدار سلطانان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفخرست به تو جمله مسلمانان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تاخته از جهان جهانبانان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برهم زده ملک و خانهٔ خانان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای وارث نامدار سلطانان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فخرست به تو جمله مسلمانان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

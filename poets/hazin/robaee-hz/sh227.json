@@ -1,0 +1,58 @@
+{
+  "Id": 83124,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲۷",
+  "FullUrl": "/hazin/robaee-hz/sh227",
+  "RhymeLetters": "اهیبیتو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از حال و روز غم‌انگیز و ناامید خود در نبود معشوق سخن می‌گوید. او به مضطرب بودن و جسم بیمار خود اشاره کرده و بیان می‌کند که حتی در شرایط سخت و بی‌پناهی، بودن با محبوبش را ارجح می‌داند بر داشتن تاج و تخت پادشاهی. در واقع، عشق و وصال محبوب برای او از هر چیز دیگری مهم‌تر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیبیتو",
+      "PlainText": "ای بخت نژند در سیاهی بی تو\r\nتن زار و نزار چهره کاهی بی تو\r\nبا تو سر و پا برهنه در کنج خراب\r\nخوشتر که به تخت پادشاهی بی تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بخت نژند در سیاهی بی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن زار و نزار، چهره کاهی بی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تو، سر و پا برهنه در کنج خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوشتر که به تخت پادشاهی بی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بخت نژند در سیاهی بی تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تن زار و نزار، چهره کاهی بی تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با تو، سر و پا برهنه در کنج خراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوشتر که به تخت پادشاهی بی تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

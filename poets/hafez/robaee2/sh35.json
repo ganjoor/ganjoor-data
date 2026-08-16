@@ -1,0 +1,58 @@
+{
+  "Id": 2085,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۳۵",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۳۵",
+  "FullUrl": "/hafez/robaee2/sh35",
+  "RhymeLetters": "انشمیگو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از باد درخواست می‌کند که رازهای درونش را به کسانی بگوید. او می‌خواهد که این صحبت‌ها به گونه‌ای باشد که احساس ناخرسندی نکند و بین سخن‌ها، معانی عمیق‌تری نهفته باشد. شاعر به نوعی دلتنگی و نیاز به بیان احساساتش اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انشمیگو",
+      "PlainText": "ای باد حدیث من نهانش می گو\r\nسر دل من به صد زبانش می گو\r\nمی گو نه بدان سان که ملالش گیرد\r\nمی گو سخنی و در میانش می گو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باد! حدیثِ من نهانش می‌گو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسِرّ دل من به صد زبانش می‌گو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌گو نه بِدان‌سان که ملالش گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌گو سخنی و در میانش می‌گو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باد! حدیثِ من نهانش می‌گو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سِرّ دل من به صد زبانش می‌گو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌گو نه بِدان‌سان که ملالش گیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌گو سخنی و در میانش می‌گو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

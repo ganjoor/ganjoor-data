@@ -1,0 +1,58 @@
+{
+  "Id": 64853,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۵۶",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۵۶",
+  "FullUrl": "/ebnehesam/robaeebn/sh56",
+  "RhymeLetters": "اربپرس",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از باد می‌خواهد که به دلدارش پیام بدهد و از او درباره دعا و حال عاشق بپرسد. حتی اگر هزار بار هم این کار را بکنی، باز هم از جان دل بپرس و او را خوب بشناس. شاعر با این درخواست، عمق عشق و احساس خود را به نمایش می‌گذارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اربپرس",
+      "PlainText": "ای باد نشان کوی دلدار بپرس\r\nاز ماش دعا رسان و بسیار بپرس\r\nصد بار اگر زیار بر دل بیش است\r\nاو را تو بجان او که صد بار بپرس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باد نشان کوی دلدار بپرس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ماش دعا رسان و بسیار بپرس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد بار اگر زیار بر دل بیش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را تو بجان او که صد بار بپرس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باد نشان کوی دلدار بپرس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از ماش دعا رسان و بسیار بپرس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد بار اگر زیار بر دل بیش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او را تو بجان او که صد بار بپرس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

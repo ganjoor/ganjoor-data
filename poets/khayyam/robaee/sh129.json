@@ -1,0 +1,58 @@
+{
+  "Id": 1247,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۲۹",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۲۹",
+  "FullUrl": "/khayyam/robaee/sh129",
+  "RhymeLetters": "یم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت به بیان این موضوع می‌پردازد که دشمن به اشتباه خود را فلسفی معرفی کرده است. گویا راوی می‌داند که او حقیقتاً فلسفی نیست، اما به دلیل غم و مشکلاتی که دارد، خود را در وضعیت نامشخصی احساس می‌کند و نمی‌داند دقیقاً چه کسی است. در واقع، با وجود آگاهی از واقعیت، محاصره‌ی غم باعث بلاتکلیفی او شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یام",
+      "PlainText": "دشمن به غلط گفت که من فلسفی ام\r\nایزد داند که آنچه او گفت نی ام\r\nلیکن چو در این غم آشیان آمده ام\r\nآخر کم از آنکه من بدانم که کی ام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشمن به غلط گفت که من فلسفی‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایزد داند که آنچه او گفت نی‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیکن چو در این غم‌آشیان آمده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر کم از آنکه من بدانم که کی‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دشمن به غلط گفت که من فلسفی‌ام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ایزد داند که آنچه او گفت نی‌ام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن چو در این غم‌آشیان آمده‌ام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر کم از آنکه من بدانم که کی‌ام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119634,
+  "CatId": 2755,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » قطعات » شمارهٔ ۱۴",
+  "FullUrl": "/neshat/divan/ghete/sh14",
+  "RhymeLetters": "یببود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به جستجوی درمان برای دردهای درونی اشاره دارد. شاعر به این نکته می‌رسد که درد او خود به نوعی دارو و درمان است و غافل از این حقیقت بوده است. همچنین، او از وضعیت آسودگی‌اش در برابر سختی‌های زندگی صحبت می‌کند، زیرا هیچ‌یک از آرزوها و خواسته‌هایش محقق نشده است و از این رو، از دغدغه‌ها و ناکامی‌ها دور است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یببود",
+      "PlainText": "عمری دوای در دل خویش جستمی\r\nغافل از اینکه درد مرا خود طبیب بود\r\nآسوده ایم ما زمکافات روزگار\r\nکز هر چه خواست خاطر ما بی نصیب بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمری دوای در دل خویش جستمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغافل از اینکه درد مرا خود طبیب بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسوده ایم ما زمکافات روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز هر چه خواست خاطر ما بی نصیب بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمری دوای در دل خویش جستمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غافل از اینکه درد مرا خود طبیب بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آسوده ایم ما زمکافات روزگار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز هر چه خواست خاطر ما بی نصیب بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

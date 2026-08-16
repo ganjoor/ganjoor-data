@@ -1,0 +1,58 @@
+{
+  "Id": 77916,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/homam/robaeeho/sh98",
+  "RhymeLetters": "ایی",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات غم و شادی می‌پردازد. گوینده از نیی سخن می‌گوید که با ناله‌هایش غم را بیان می‌کند و در عین حال با نغمه‌های خوش، شادی را ایجاد می‌کند. او اشاره می‌کند که نی از شکر جدا شده و به همین دلیل ناله می‌کند، ولی جالب اینجاست که بدون داشتن شکر، هنوز هم شیرینی وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایی",
+      "PlainText": "ای نی که به ناله غم همی فرسایی\r\nوز نغمه خوش طرب همی افزایی\r\nببریده ای از شکر از آن می نالی\r\nوین طرفه که بی شکر شکر می خایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نی که به ناله غم همی‌فرسایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نغمه خوش طرب همی‌افزایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eببریده‌ای از شکر از آن می‌نالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین طرفه که بی شکر شکر می‌خایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نی که به ناله غم همی‌فرسایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز نغمه خوش طرب همی‌افزایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ببریده‌ای از شکر از آن می‌نالی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین طرفه که بی شکر شکر می‌خایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

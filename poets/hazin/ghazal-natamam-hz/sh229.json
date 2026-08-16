@@ -1,0 +1,58 @@
+{
+  "Id": 83390,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۲۹",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۲۹",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh229",
+  "RhymeLetters": "ارتر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساغر و عشق سخن می‌گوید و از معشوق می‌خواهد که به اندازه‌ای او را مست کند. او احساسات و هیجانات عمیق خود را بیان می‌کند و به شدت خواهان حضور عشق و شور و اشتیاق در زندگی‌اش است. شاعر همچنین به داغی اشاره می‌کند که بر سر خورشید می‌نشیند و به عشق و شور و شوق در قلبش می‌پردازد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وربیار",
+      "PlainText": "ساغر ای عشق به اندازه مخمور بیار\r\nخون به جوش آمده ما را می منصور بیار\r\nداغ گرمی که کند بر سر خورشید خراج\r\nبه قیامتکده سینه پرشور بیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساغر ای عشق به اندازهٔ مخمور بیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون به جوش آمده ما را، می منصور بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداغ گرمی که کند بر سر خورشید خراج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه قیامتکدهٔ سینهٔ پرشور بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساغر ای عشق به اندازهٔ مخمور بیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون به جوش آمده ما را، می منصور بیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "داغ گرمی که کند بر سر خورشید خراج",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به قیامتکدهٔ سینهٔ پرشور بیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

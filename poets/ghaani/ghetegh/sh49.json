@@ -1,0 +1,58 @@
+{
+  "Id": 45689,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۴۹",
+  "FullUrl": "/ghaani/ghetegh/sh49",
+  "RhymeLetters": "اختنتواند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به اهمیت خودشناسی اشاره دارد. او می‌گوید که کسی که خودش را نشناسد، نمی‌تواند خدا را بشناسد. برای درک توحید و حقیقت وجود، فرد باید از خودگذشتگی کرده و به ترک شخصیت خود بپردازد. به بیان دیگر، درک عمق خداوند نیازمند آگاهی از خویشتن است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اختنتواند",
+      "PlainText": "ای دل آن کس که خویش را نشناخت\r\nمر خدا را شناخت نتواند\r\nتا نگوید به ترک هستی خویش\r\nنرد توحید باخت نتواند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل آن کس که خویش را نشناخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر خدا را شناخت نتواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نگوید به ترک هستی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرد توحید باخت نتواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل آن کس که خویش را نشناخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مر خدا را شناخت نتواند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا نگوید به ترک هستی خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نرد توحید باخت نتواند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

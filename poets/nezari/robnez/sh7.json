@@ -1,0 +1,58 @@
+{
+  "Id": 75754,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/nezari/robnez/sh7",
+  "RhymeLetters": "متما",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از فقدان جایگاه و عظمت خود صحبت می‌کند و اشاره دارد که مخدوم او فقط در پی خدمت او بوده است. همچنین به خداوند متعال یادآوری می‌کند که به جز او، کسی دیگر نمی‌تواند این مقام را برای او حفظ کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "متما",
+      "PlainText": "با دل گفتم کجا شد آن حشمت ما\r\nمخدوم نمی خواست مگر خدمت ما\r\nآری به خداوند تعالی ور نه\r\nما را به که بگذاشت ولی نعمت ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا دل گفتم کجا شد آن حشمت ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمخدوم نمی خواست مگر خدمت ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآری به خداوند تعالی ور نه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما را به که بگذاشت ولی نعمت ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با دل گفتم کجا شد آن حشمت ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مخدوم نمی خواست مگر خدمت ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آری به خداوند تعالی ور نه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما را به که بگذاشت ولی نعمت ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

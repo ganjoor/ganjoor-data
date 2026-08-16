@@ -1,0 +1,58 @@
+{
+  "Id": 77868,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/homam/robaeeho/sh50",
+  "RhymeLetters": "ندمباید",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی و جذابیت فردی می‌پردازد. شاعر اشاره می‌کند که گفتار او باید شیرین و دل‌چسب باشد و موهایش باید بلند و زیبا مثل کمند باشد. همچنین بر این نکته تأکید می‌کند که یار او باید قد بلندی داشته باشد و او نیز باید فردی با ویژگی‌های عالی و جذاب باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندمباید",
+      "PlainText": "گفتار خوش و لب چو قندم باید\r\nگیسوی دراز چون کمندم باید\r\nگویند که یار سرو بالا داری\r\nعالی نظرم قد بلندم باید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتار خوش و لب چو قندم باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیسوی دراز چون کمندم باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند که یار سرو بالا داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالی نظرم قد بلندم باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتار خوش و لب چو قندم باید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گیسوی دراز چون کمندم باید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویند که یار سرو بالا داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عالی نظرم قد بلندم باید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

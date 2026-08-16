@@ -1,0 +1,58 @@
+{
+  "Id": 51728,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/bahar/robaeebk/sh5",
+  "RhymeLetters": "ست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به تصویر کشیدن یک لحظه زیبا و شگفت‌انگیز است. این لحظه، ظهور شخصیتی است که با چهره‌ای گلگون و تیشه‌ای سبز در دستانش از دامن کوه بیرون می‌آید. او همانند فرهاد، قهرمان افسانه‌ای، به نظر می‌رسد که از زمین برخاسته و بر سنگی نشسته است. این توصیف، حس قدرت و زیبایی را در کنار هم نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "از دامن کوه لاله ناگه برجست\r\nگلگون رخی و تیشه سبزی در دست\r\nبا فرق سر دریده گویی فرهاد\r\nاز خاک برون آمد و بر سنگ نشست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دامن کوه لاله ناگه برجست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلگون‌رخی و تیشهٔ سبزی در دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا فرق سر دریده گویی فرهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خاک برون آمد و بر سنگ نشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دامن کوه لاله ناگه برجست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلگون‌رخی و تیشهٔ سبزی در دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با فرق سر دریده گویی فرهاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خاک برون آمد و بر سنگ نشست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

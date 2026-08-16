@@ -1,0 +1,58 @@
+{
+  "Id": 1165,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۴۷",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۴۷",
+  "FullUrl": "/khayyam/robaee/sh47",
+  "RhymeLetters": "انیایناست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این اشعار به مفهوم لذت‌بردن از زندگی و لحظات شاد اشاره دارد. شاعر با کنایه به عمر جاودانه که برای انسان‌ها شادمان کننده است، به این نکته تأکید می‌کند که زندگی جاودانه حقیقی در واقع از شادی و جوانی حاصل می‌شود. او پیشنهاد می‌کند از زیبایی‌های زندگی لذت ببریم و خوش‌باشیم، زیرا این‌ها نشانه‌هایی از زندگی واقعی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیایناست",
+      "PlainText": "می نوش که عمر جاودانی این است\r\nخود حاصلت از دور جوانی این است\r\nهنگام گل و باده و یاران سرمست\r\nخوش باش دمی که زندگانی این است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نوش که عمر جاودانی این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود حاصلت از دور جوانی این است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهنگام گل و باده و یاران سرمست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش باش دمی که زندگانی این است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می نوش که عمر جاودانی این است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود حاصلت از دور جوانی این است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنگام گل و باده و یاران سرمست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوش باش دمی که زندگانی این است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

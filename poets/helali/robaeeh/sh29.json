@@ -1,0 +1,58 @@
+{
+  "Id": 45372,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۲۹",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۲۹",
+  "FullUrl": "/helali/robaeeh/sh29",
+  "RhymeLetters": "انددلمن",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر بیان می‌کند که دل او بدون وجود معشوق نمی‌تواند صبوری کند و زندگی‌اش وابسته به وصال اوست. او از دوست می‌خواهد که به آرامی حرکت کند، زیرا دل او نیز در پی اوست و اگر او برود، دلش همچنان باقی می‌ماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انددلمن",
+      "PlainText": "دور از تو صبوری نتواند دل من\r\nوصل تو حیات خویش داند دل من\r\nآهسته رو ای دوست که دل هم ره توست\r\nزنهار چنان مرو که ماند دل من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدور از تو صبوری نتواند دل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصل تو حیات خویش داند دل من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهسته رو ای دوست که دل هم‌ره توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنهار چنان مرو که ماند دل من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دور از تو صبوری نتواند دل من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وصل تو حیات خویش داند دل من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آهسته رو ای دوست که دل هم‌ره توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنهار چنان مرو که ماند دل من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

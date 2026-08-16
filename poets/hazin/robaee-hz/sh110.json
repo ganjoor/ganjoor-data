@@ -1,0 +1,58 @@
+{
+  "Id": 82998,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۱۰",
+  "FullUrl": "/hazin/robaee-hz/sh110",
+  "RhymeLetters": "یزفکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف جاذبه و تاثیر چشم و نگاه معشوق می‌پردازد. نگاه پرخاصیت و معجزه‌گونه‌ی او به گونه‌ای است که احساسات و اعتقادات زاهدانه را تحت تأثیر قرار می‌دهد و آتش عشق را در دل آن‌ها می‌افکند. در واقع، این نگاه توانایی شگفت‌انگیزی دارد که می‌تواند روح و جان را تحت تأثیر قرار دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزفکند",
+      "PlainText": "این شور نه آن لعل شکرریز فکند\r\nجادوی نگاه معجزآمیز فکند\r\nمستانه ز چشم او برآمد نگهی\r\nآتش به نهاد زهد و پرهیز فکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین شور نه آن لعل شکرریز فکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجادوی نگاهِ معجزآمیز فکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستانه ز چشم او برآمد نگهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش به نهاد زهد و پرهیز فکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این شور نه آن لعل شکرریز فکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جادوی نگاهِ معجزآمیز فکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مستانه ز چشم او برآمد نگهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتش به نهاد زهد و پرهیز فکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

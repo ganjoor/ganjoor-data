@@ -1,0 +1,77 @@
+{
+  "Id": 125570,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۳۵",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۳۵",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh35",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از بار سنگین گناهان خود سخن می‌گوید و احساس ناامیدی از نجات را بیان می‌کند. او با تشبیه خود به خار در پای گل محمد، به شدت احساس حقارت و ناتوانی می‌کند و این نشان می‌دهد که با وجود گناهانی که مرتکب شده، در برابر مقام و شأن پیامبر (ص) خود را ناچیز می‌داند.",
+  "Sections": [
+    {
+      "Index": 48,
+      "Number": 48,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارم",
+      "PlainText": "هر چند ز معصیت گران شد بارم\r\nامید نجات نیست در کردارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند ز معصیت گران شد بارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامید نجات نیست در کردارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 49,
+      "Number": 49,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "چون خوار خورد به پای گل آب چه باک\r\nدر پای گل یل محمد خارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خوار خورد به پای گل آب چه باک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پای گل یل محمد خارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 108,
+      "Number": 108,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارم",
+      "PlainText": "هر چند ز معصیت گران شد بارم\r\nامید نجات نیست در کردارم\r\nچون خوار خورد به پای گل آب چه باک\r\nدر پای گل یل محمد خارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند ز معصیت گران شد بارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامید نجات نیست در کردارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خوار خورد به پای گل آب چه باک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پای گل یل محمد خارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند ز معصیت گران شد بارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 108,
+      "SectionIndex2": 48
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امید نجات نیست در کردارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 108,
+      "SectionIndex2": 48
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون خوار خورد به پای گل آب چه باک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 108,
+      "SectionIndex2": 49
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در پای گل یل محمد خارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 108,
+      "SectionIndex2": 49
+    }
+  ]
+}

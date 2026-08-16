@@ -1,0 +1,58 @@
+{
+  "Id": 74892,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۳۵۱",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۳۵۱",
+  "FullUrl": "/ghodsi/robghm/sh351",
+  "RhymeLetters": "ید",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به سفر از کشمیر به لاهور اشاره دارد و بیان می‌کند که در این مسیر، فرمانی از درگاه خداوند صادر می‌شود. پس از آن، شاعر به تأمل در تاریخ می‌پردازد که مانند کتابی است که به عرش الهی تعلق دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "چرخم چو ز کشمیر به لاهور کشید\r\nفرمان کتابه ای ز درگاه رسید\r\nفکرم چو کتابه را به انجام رساند\r\nتاریخ بود کتابه عرش مجید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرخم چو ز کشمیر به لاهور کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرمان کتابه‌ای ز درگاه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکرم چو کتابه را به انجام رساند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاریخ بود کتابه عرش مجید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چرخم چو ز کشمیر به لاهور کشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فرمان کتابه‌ای ز درگاه رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فکرم چو کتابه را به انجام رساند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاریخ بود کتابه عرش مجید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

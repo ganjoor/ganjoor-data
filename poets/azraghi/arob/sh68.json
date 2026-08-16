@@ -1,0 +1,58 @@
+{
+  "Id": 69429,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۶۸",
+  "FullUrl": "/azraghi/arob/sh68",
+  "RhymeLetters": "رگ",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به احساس عمیق غم و فراق از محبوب اشاره دارد. شاعر از بارش تگرگ به عنوان نمادی از درد و اندوه یاد می‌کند که بر روی شاخ امید او می‌بارد و همه چیز را نابود می‌کند. او همچنین بیان می‌کند که هجران محبوب را نه به اختیار خود تجربه کرده و نه می‌تواند با آن کنار بیاید، گویی در چنین حالتی مرگ نیز به سراغ او می‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رگ",
+      "PlainText": "تا ز ابر فراق تو ببارید تگرگ\r\nبر شاخ امید ما نه بر ماند و نه برگ\r\nدیدم نه به اختیار خود هجر ترا\r\nمردم نه به اختیار خود بیند مرگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ز ابر فراق تو ببارید تگرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شاخ امید ما نه بر ماند و نه برگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدم نه به اختیار خود هجر ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمَردُم نه به اختیار خود بیند مرگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا ز ابر فراق تو ببارید تگرگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر شاخ امید ما نه بر ماند و نه برگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیدم نه به اختیار خود هجر ترا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مَردُم نه به اختیار خود بیند مرگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

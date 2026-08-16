@@ -1,0 +1,58 @@
+{
+  "Id": 101830,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۹",
+  "FullUrl": "/salim/divan/robaee/sh39",
+  "RhymeLetters": "انمیافتد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به شدت تأثیرگذار بودن محبوبش اشاره می‌کند. با یادآوری تب و شوقی که به محبوب دارد، می‌گوید وقتی نام محبوب بر زبان می‌آید، همه چیز تحت‌تأثیر قرار می‌گیرد. پیمانه‌ی شراب از دستش می‌افتد و حتی آسمان از لرزش او به لرزه درمی‌آید. شاعر از محبوب می‌خواهد که برخیزد و خود را نشان دهد، وگرنه آسمان هم سقوط خواهد کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمیافتد",
+      "PlainText": "چون حرف تب تو در میان می افتد\r\nپیمانه ز دست می کشان می افتد\r\nافلاک ز لرزیدن تو می لرزد\r\nبرخیز وگرنه آسمان می افتد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون حرف تب تو در میان می افتد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمانه ز دست می کشان می افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافلاک ز لرزیدن تو می لرزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخیز، وگرنه آسمان می افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون حرف تب تو در میان می افتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیمانه ز دست می کشان می افتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افلاک ز لرزیدن تو می لرزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برخیز، وگرنه آسمان می افتد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

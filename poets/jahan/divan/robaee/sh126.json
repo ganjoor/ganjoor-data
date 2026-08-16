@@ -1,0 +1,58 @@
+{
+  "Id": 113999,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۲۶",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۲۶",
+  "FullUrl": "/jahan/divan/robaee/sh126",
+  "RhymeLetters": "اننکند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به این موضوع اشاره می‌کند که هیچ طبیبی نمی‌تواند درد او را درمان کند و غصه‌اش نیز برطرف نخواهد شد. او از بادی می‌خواهد که به محبوبش بگوید به خاطر مهربانی‌اش، حالش را این‌گونه مختل نکند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننکند",
+      "PlainText": "این درد مرا طبیب درمان نکند\r\nوین غصه مشکل من آسان نکند\r\nای باد به یار من بگو کز سر لطف\r\nچون زلف خودم حال پریشان نکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین درد مرا طبیب درمان نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین غصّه مشکل من آسان نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باد به یار من بگو کز سر لطف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون زلف خودم حال پریشان نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این درد مرا طبیب درمان نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین غصّه مشکل من آسان نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای باد به یار من بگو کز سر لطف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون زلف خودم حال پریشان نکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 75804,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۵۷",
+  "FullUrl": "/nezari/robnez/sh57",
+  "RhymeLetters": "یزست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این موضوع اشاره دارد که گرچه بعضی حقیقت‌ها تلخ و دشوارند، اما آنها حیات‌بخش و ارزشمندند. این حقیقت‌ها ممکن است برای فهمیدن سخت باشند، اما عقل انسان همیشه آماده است تا به آن‌ها پی ببرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزست",
+      "PlainText": "می گر چه که طبع تلخ شورانگیز ست\r\nموتی است حقیقت که حیات آمیزست\r\nکندست ازو فهم فرو بسته دهان\r\nبا عقلش از آن همیشه دندان تیزست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی گر چه که طبع تلخ، شورانگیز ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموتی است حقیقت که حیات آمیزست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکندست ازو فهم فرو بسته دهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا عقلش از آن همیشه دندان تیزست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می گر چه که طبع تلخ، شورانگیز ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "موتی است حقیقت که حیات آمیزست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کندست ازو فهم فرو بسته دهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با عقلش از آن همیشه دندان تیزست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

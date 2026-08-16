@@ -1,0 +1,58 @@
+{
+  "Id": 101859,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۸",
+  "FullUrl": "/salim/divan/robaee/sh68",
+  "RhymeLetters": "ادم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از احساس ناامیدی و افتادن خود صحبت می‌کند. او می‌گوید که وقتی از مقام و جایگاه خود سقوط کرده، دیگر نمی‌تواند به نسبتش با مرکب (اسب) تکیه کند و حالا به دشمنی تبدیل شده است. او آرزو داشته که همانند دیگران موفق باشد، اما چون اسبی ندارد، به زمین افتاده است و از این وضعیت ناراحت و شکست‌خورده احساس می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادم",
+      "PlainText": "تا افتادی ز صدر زین ناشادم\r\nاز نسبت مرکب تو خصم بادم\r\nمی خواستم این الم مرا هم باشد\r\nچون اسب نداشتم ز پا افتادم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا افتادی ز صدر زین، ناشادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نسبت مرکب تو خصم بادم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی خواستم این الم مرا هم باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون اسب نداشتم، ز پا افتادم!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا افتادی ز صدر زین، ناشادم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نسبت مرکب تو خصم بادم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می خواستم این الم مرا هم باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون اسب نداشتم، ز پا افتادم!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

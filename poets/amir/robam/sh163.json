@@ -1,0 +1,58 @@
+{
+  "Id": 70206,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۶۳",
+  "FullUrl": "/amir/robam/sh163",
+  "RhymeLetters": "ری",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به عشق و احساسات عمیق خود اشاره می‌کند. او از این می‌گوید که عشقش عمرش را به پایان نزدیک کرده و جدایی او را به شدت رنج می‌دهد. دلش به خاطر این عشق به درد آمده و چشمش از غم و فراق به سخن آمده است. این ابیات نشان‌دهندهٔ عواطف عمیق و درد فراق در عشق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناوردی",
+      "PlainText": "ای عشق تو عمرم به کران آوردی\r\nای هجر تنم را به فغان آوردی\r\nای دل تو مرا کار به جان آوردی\r\nای دیده دلم را به زبان آوردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عشق تو عمرم به کران آوردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای هجر تنم را به فغان آوردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل تو مرا کار به جان آوردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دیده دلم را به زبان آوردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق تو عمرم به کران آوردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای هجر تنم را به فغان آوردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای دل تو مرا کار به جان آوردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای دیده دلم را به زبان آوردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

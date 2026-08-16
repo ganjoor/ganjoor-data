@@ -1,0 +1,58 @@
+{
+  "Id": 2070,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۲۰",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۲۰",
+  "FullUrl": "/hafez/robaee2/sh20",
+  "RhymeLetters": "انهیعمر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به مفهوم گذر زمان و ناپایداری زندگی اشاره دارد. شاعر از بیداری و آگاهی نسبت به عمر و زمانه صحبت می‌کند و به خواننده توصیه می‌کند که از خواب غفلت بیرون بیاید و به حقیقت گذران عمر خود پی ببرد. زندگی مانند یک پیمانه‌ای است که از آن می‌کاهد و افراد باید به این واقعیت توجه کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهیعمر",
+      "PlainText": "سیلاب گرفت گرد ویرانه عمر\r\nو آغاز پری نهاد پیمانه عمر\r\nبیدار شو ای خواجه که خوش خوش بکشد\r\nحمال زمانه رخت از خانه عمر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیلاب گرفت گِرد ویرانهٔ عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو‌آغاز پُری نهاد پیمانهٔ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیدار شو ای خواجه که خوش‌خوش بکِشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحمّال زمانه رخت از خانهٔ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سیلاب گرفت گِرد ویرانهٔ عمر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و‌آغاز پُری نهاد پیمانهٔ عمر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیدار شو ای خواجه که خوش‌خوش بکِشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حمّال زمانه رخت از خانهٔ عمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

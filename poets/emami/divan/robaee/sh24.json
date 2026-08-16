@@ -1,0 +1,58 @@
+{
+  "Id": 97283,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/emami/divan/robaee/sh24",
+  "RhymeLetters": "ویی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به زیبایی و مقام والای محبوبش اشاره می‌کند. او می‌گوید که بوی گل و نعمت‌های او او را از قید و بندهای این دنیا رها کرده است. شاعر تلاش دارد مانند سوسن با زبانش او را مدح و ستایش کند و همچون بید، از هر ویژگی به زیبایی محبوبش سخن بگوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویی",
+      "PlainText": "ای از گل دولت تو شاهی بویی\r\nاز بند جهان برغم هر بد گویی\r\nچون سوسن ده زبان بمدحت کوشم\r\nچون بید زبانی کنم از هر مویی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از گل دولت تو شاهی بوئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بند جهان برغم هر بد گوئی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سوسن ده زبان بمدحت کوشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بید زبانی کنم از هر موئی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای از گل دولت تو شاهی بوئی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بند جهان برغم هر بد گوئی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون سوسن ده زبان بمدحت کوشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بید زبانی کنم از هر موئی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

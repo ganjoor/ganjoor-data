@@ -1,0 +1,58 @@
+{
+  "Id": 45819,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۶",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۶",
+  "FullUrl": "/ghaani/robaeegh/sh6",
+  "RhymeLetters": "ویمنست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و مدعی بودن شاعر اشاره دارد. او خود را با جنت و دوزخ مقایسه می‌کند و بیانگر زیبایی‌های ظاهری و باطنی خود است. همچنین به قدرت و نیرومندی که در چهره و ابروی خود دارد، اشاره می‌کند و نشان می‌دهد که این جذابیت‌ها ممکن است حتی خطرناک و سوزاننده باشند، مثل شمشیر یک قهرمان.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویمنست",
+      "PlainText": "آراسته جنتی که این روی منست\r\nافروخته دوزخی که این خوی منست\r\nشمشیر جهانسوز بهادر شه را\r\nدزدیده که این کمان ابروی منست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآراسته جنتی که این روی منست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافروخته دوزخی که این خوی منست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمشیر جهانسوز بهادر شه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدزدیده که این کمان ابروی منست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آراسته جنتی که این روی منست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افروخته دوزخی که این خوی منست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمشیر جهانسوز بهادر شه را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دزدیده که این کمان ابروی منست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

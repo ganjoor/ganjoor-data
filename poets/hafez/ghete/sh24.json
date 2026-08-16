@@ -1,0 +1,57 @@
+{
+  "Id": 2116,
+  "CatId": 25,
+  "Title": "قطعه شمارهٔ ۲۴",
+  "FullTitle": "حافظ » قطعات » قطعه شمارهٔ ۲۴",
+  "FullUrl": "/hafez/ghete/sh24",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن به احساس ناامیدی و انتظار زیبایی اشاره دارد. شخص در این ظلمت و تنهایی، به بوی دوست معتاد شده و در حسرت وصالی است. او به پرنده‌ای که مژده‌ی وصل را بیاورد دعوت می‌کند و آرزوی بازگشت روزهای خوب گذشته را دارد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انو",
+      "PlainText": "در این ظلمت سرا تا کی به بوی دوست بنشینم\r\nگهی انگشت بر دندان گهی سر بر سر زانو\r\nبیا ای طایر دولت بیاور مژده وصلی\r\nعسی الایام ان یرجعن قوما کالذی کانوا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر این ظلمت‌سرا تا کی، به بوی دوست بنشینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی انگشت بر دندان، گهی سر بر سر زانو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا ای طایر دولت، بیاور مژدهٔ وصلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعَسَی الْاَیّامُ اَنْ یَرْجِعْنَ قَوْماً کَالَّذی کانوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در این ظلمت‌سرا تا کی، به بوی دوست بنشینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گهی انگشت بر دندان، گهی سر بر سر زانو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیا ای طایر دولت، بیاور مژدهٔ وصلی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عَسَی الْاَیّامُ اَنْ یَرْجِعْنَ قَوْماً کَالَّذی کانوا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Id": 125562,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۲۷",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۲۷",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh27",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از پایان دفترش خوشنود است و احساس می‌کند که به آرامش رسیده است. او همچنین اشاره می‌کند که جن و آدم و فرشته‌ها هم می‌گویند یزید از دنیا رفته و به سرنوشت بدی دچار شده است.",
+  "Sections": [
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انامد",
+      "PlainText": "صد شکر که دفترم به پایان آمد\r\nاکنون سر شوریده به سامان آمد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد شکر که دفترم به پایان آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون سر شوریده به سامان آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "جن و بشر و ملک و ملک می گویند\r\nکامروز ز دنیا به درک رفته یزید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجن و بشر و ملک و ملک می‌گویند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامروز ز دنیا به درک رفته یزید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 96,
+      "Number": 96,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "صد شکر که دفترم به پایان آمد\r\nاکنون سر شوریده به سامان آمد\r\nجن و بشر و ملک و ملک می گویند\r\nکامروز ز دنیا به درک رفته یزید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد شکر که دفترم به پایان آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون سر شوریده به سامان آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجن و بشر و ملک و ملک می‌گویند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامروز ز دنیا به درک رفته یزید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد شکر که دفترم به پایان آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 96,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اکنون سر شوریده به سامان آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 96,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جن و بشر و ملک و ملک می‌گویند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 96,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کامروز ز دنیا به درک رفته یزید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 96,
+      "SectionIndex2": 34
+    }
+  ]
+}

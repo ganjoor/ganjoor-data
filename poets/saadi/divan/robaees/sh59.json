@@ -1,0 +1,58 @@
+{
+  "Id": 10120,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۵۹",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۵۹",
+  "FullUrl": "/saadi/divan/robaees/sh59",
+  "RhymeLetters": "اند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر بیان می‌کند که هیچ‌کس نمی‌تواند با تو دشمنی کند، زیرا هر کس که به تو نزدیک می‌شود، در دام جذابیت تو گرفتار می‌شود. آن‌ها نه دل و جرأت دارند که علیه تو مبارزه کنند و نه صبر و توانایی دارند که از تو فاصله بگیرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اند",
+      "PlainText": "کس با تو عدو محاربت نتواند\r\nزیرا که گرفتار کمندت ماند\r\nنه دل دهدش که با تو شمشیر زند\r\nنه صبر که از تو روی برگرداند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس با تو عدو محاربت نتواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که گرفتار کمندت ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه دل دهدش که با تو شمشیر زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه صبر که از تو روی برگرداند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کس با تو عدو محاربت نتواند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیرا که گرفتار کمندت ماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه دل دهدش که با تو شمشیر زند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه صبر که از تو روی برگرداند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

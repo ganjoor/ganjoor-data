@@ -1,0 +1,58 @@
+{
+  "Id": 45685,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۴۵",
+  "FullUrl": "/ghaani/ghetegh/sh45",
+  "RhymeLetters": "ردبرامد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به تاریکی و غبار موجود در آسمان اشاره می‌کند. به دلیل این غبار و سردی، هوا به شدت سرد شده و احساس ناامیدی و غم را از عمق دل خود بروز می‌دهد.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردبرامد",
+      "PlainText": "صحن فلک شد سیاه بسکه ز غبرا\r\nگرد به گردون گردگرد برآمد\r\nگشت هوا زمهریر بسکه ز هر سو\r\nاز جگر گرم آه سرد برآمد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصحن فلک شد سیاه بسکه ز غبرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد به گردون گردگرد برآمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت هوا زمهریر بسکه ز هر سو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جگر گرم آه سرد برآمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحن فلک شد سیاه بسکه ز غبرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرد به گردون گردگرد برآمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گشت هوا زمهریر بسکه ز هر سو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از جگر گرم آه سرد برآمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

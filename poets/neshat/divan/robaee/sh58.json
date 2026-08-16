@@ -1,0 +1,58 @@
+{
+  "Id": 119592,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۵۸",
+  "FullUrl": "/neshat/divan/robaee/sh58",
+  "RhymeLetters": "ردلمن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر درد و اندوه عاطفی است. شاعر از سوزش دلش به خاطر غم سخن می‌گوید و اشاره دارد که هرچند دلش از آتش عشق می‌سوزد، اما نتوانسته احساساتش را به معشوق خود منتقل کند. او به نوعی تأکید می‌کند که دل سنگی معشوقش باعث شده آتش عشقش در درونش شعله‌ور شود. این تضاد بین عشق و بی‌تفاوتی معشوق حس عمیق غم را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردلمن",
+      "PlainText": "از آتش غم سوخت سراسر دل من\r\nیک بار تو را نسوخت دل بر دل من\r\nآتش در سنگ باشد این طرفه که هست\r\nاز سنگ دل تو آتش اندر دل من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آتش غم سوخت سراسر دل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک بار تو را نسوخت دل بر دل من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش در سنگ باشد این طرفه که هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سنگ دل تو آتش اندر دل من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از آتش غم سوخت سراسر دل من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک بار تو را نسوخت دل بر دل من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آتش در سنگ باشد این طرفه که هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سنگ دل تو آتش اندر دل من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

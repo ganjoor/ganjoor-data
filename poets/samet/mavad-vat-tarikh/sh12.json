@@ -1,0 +1,56 @@
+{
+  "Id": 76926,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۱۲",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۱۲",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh12",
+  "RhymeLetters": "ا",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این بیت به این مطلب اشاره دارد که شخص برای رفتن به مقصدی خاص نیازمند لطف و حمایت دیگری است. به عبارت دیگر، او بدون کمک و محبت آن فرد نمی‌تواند به خواسته‌اش دست یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ج",
+      "PlainText": "زانرو ببر هر که بخواهم بروم\r\nآن هم به تو و لطف تو باشد محتاج",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانرو ببر هر که بخواهم بروم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن هم به تو و لطف تو باشد محتاج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 91,
+      "Number": 91,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهمبهتوولطفتوباشدمحتاج",
+      "PlainText": "زانرو ببر هر که بخواهم بروم\r\nآن هم به تو و لطف تو باشد محتاج",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانرو ببر هر که بخواهم بروم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن هم به تو و لطف تو باشد محتاج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زانرو ببر هر که بخواهم بروم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 91,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن هم به تو و لطف تو باشد محتاج",
+      "CoupletIndex": 0,
+      "SectionIndex1": 91,
+      "SectionIndex2": 4
+    }
+  ]
+}

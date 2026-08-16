@@ -1,0 +1,58 @@
+{
+  "Id": 83474,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۳۱۳",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۳۱۳",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh313",
+  "RhymeLetters": "ارمنستی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به یک صبح دل انگیز اشاره می‌کند و از شخصی به نام پیر خانقاه می‌خواهد که با درک و بصیرت به زندگی نگاه کند. او می‌گوید که اگر چشمانش به ساقی (دختر ساقی) و صورتش به ساغر (لیوان شراب) دوخته شده، آرامش داشته باشد که از خطرات دور شده است. در واقع، شاعر به جستجوی شادی و لذت از زندگی و دوری از مشکلات اشاره می‌کند.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اتکردهای",
+      "PlainText": "صبح است و عزم کوی خرابات کرده ای\r\nای پیر خانقاه کرامات کرده ای\r\nگر دیده ات به ساقی و رویت به ساغر است\r\nایمن نشین که پشت به آفات کرده ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح است و عزم کوی خرابات کرده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای پیر خانقاه، کرامات کرده‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر، دیده‌ات به ساقی و رویت به ساغر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایمن نشین، که پشت به آفات کرده‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح است و عزم کوی خرابات کرده‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای پیر خانقاه، کرامات کرده‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر، دیده‌ات به ساقی و رویت به ساغر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایمن نشین، که پشت به آفات کرده‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

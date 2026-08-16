@@ -1,0 +1,58 @@
+{
+  "Id": 103068,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/jooya/divan/robaee/sh14",
+  "RhymeLetters": "است",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمجید از حکومت شاهنشاه و ویژگی‌های او می‌پردازد. شاعر بر عظمت و تقوای او تأکید می‌کند و می‌گوید که این صفات باعث زیبایی سلطنت و قدرت او می‌شود. همچنین اشاره به کرم و بزرگی او دارد که مانند مرواریدی در دریاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "شاهنشاها کف تو بحرین عطاست\r\nتقوای تو زیب سلطنت نام خداست\r\nزینت بخش صلاح باشد کرمت\r\nدر دست تو سبحه چون گهر در دریا است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهنشاها کف تو بحرین عطاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتقوای تو زیب سلطنت نام خداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزینت بخش صلاح باشد کرمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دست تو سبحه چون گهر در دریا است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاهنشاها کف تو بحرین عطاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تقوای تو زیب سلطنت نام خداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زینت بخش صلاح باشد کرمت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دست تو سبحه چون گهر در دریا است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

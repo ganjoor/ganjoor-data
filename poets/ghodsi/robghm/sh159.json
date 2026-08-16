@@ -1,0 +1,58 @@
+{
+  "Id": 74700,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۱۵۹",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۱۵۹",
+  "FullUrl": "/ghodsi/robghm/sh159",
+  "RhymeLetters": "سپیدانیست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان حس تنهایی و فقدان می‌پردازد. شاعر به عشق اشاره می‌کند و می‌گوید که در واقعیت، همدمی برای عشق واقعی وجود ندارد. هرچند که آدم‌ها زیادند، اما هیچ‌کس نمی‌تواند جای کس دیگری را پر کند. همچنین، ناله‌های پرندگان زندانی از هر سو شنیده می‌شود، اما هیچ‌جا آزادی و رهایی یافت نمی‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سپیدانیست",
+      "PlainText": "در عشق مگو که همنفس پیدا نیست\r\nکس بسیارست جای کس پیدا نیست\r\nاز هر طرفی ناله مرغان اسیر\r\nمی آید و هیچ جا قفس پیدا نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق مگو که همنفس پیدا نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس بسیارست، جای کس پیدا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هر طرفی ناله مرغان اسیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌آید و هیچ‌جا قفس پیدا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق مگو که همنفس پیدا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کس بسیارست، جای کس پیدا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هر طرفی ناله مرغان اسیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌آید و هیچ‌جا قفس پیدا نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

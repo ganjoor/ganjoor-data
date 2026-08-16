@@ -1,0 +1,58 @@
+{
+  "Id": 50936,
+  "CatId": 1827,
+  "Title": "رباعی شمارهٔ ۱۳۶",
+  "FullTitle": "باباافضل کاشانی » رباعیات » رباعی شمارهٔ ۱۳۶",
+  "FullUrl": "/babaafzal/robba/sh136",
+  "RhymeLetters": "یکسوزن",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تضاد بین پسر و زن اشاره می‌کند و از عیسی یاد می‌کند که نتوانسته به آسمان‌ها برسد، چراکه در این جهان حتی یک سوزن هم نمی‌تواند بیابد. هدف از این بیان، نشان دادن سختی‌ها و محدودیت‌های دنیوی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یکسوزن",
+      "PlainText": "یک سو پسرت نشسته و یک سو زن\r\nاین جمله به هم گذار و بر یک سو زن\r\nعیسی نتوانست بر افلاک رسید\r\nتا داشت ز اسباب جهان یک سوزن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک سو پسرت نشسته و یک سو زن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین جمله به هم گذار و بر یک سو زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیسی نتوانست بر افلاک رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا داشت ز اسباب جهان یک سوزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک سو پسرت نشسته و یک سو زن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این جمله به هم گذار و بر یک سو زن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عیسی نتوانست بر افلاک رسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا داشت ز اسباب جهان یک سوزن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

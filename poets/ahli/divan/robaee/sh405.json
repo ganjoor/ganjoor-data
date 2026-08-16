@@ -1,0 +1,58 @@
+{
+  "Id": 105211,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۴۰۵",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۴۰۵",
+  "FullUrl": "/ahli/divan/robaee/sh405",
+  "RhymeLetters": "یر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر اشاره به ناپایداری و تغییرات در زندگی دارد. شاعر می‌گوید که گاهی در کعبه (مکان مقدس) و گاهی در دیر (مکان غیرمقدس) حضور دارد، بدین معنا که در دو موقعیت متفاوت و با افراد مختلف در ارتباط است. همچنین، خیر و شر در وضعیت فعلی مشخص نیست و در نهایت امیدوار است که نتیجه کار به نیکویی ختم شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یر",
+      "PlainText": "گه بر در کعبه ایم گه بر در دیر\r\nگه همدم خویشیم و گهی محرم غیر\r\nخیر و شر کار حالیا پیدا نیست\r\nباشد که بود خاتمت کار بخیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه بر در کعبه ایم گه بر در دیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه همدم خویشیم و گهی محرم غیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیر و شر کار حالیا پیدا نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد که بود خاتمت کار بخیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه بر در کعبه ایم گه بر در دیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه همدم خویشیم و گهی محرم غیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خیر و شر کار حالیا پیدا نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باشد که بود خاتمت کار بخیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 75766,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/nezari/robnez/sh19",
+  "RhymeLetters": "انهیماست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر نشان‌دهنده‌ی عشق و ارتباط عمیق روحانی است. شاعر به این نکته اشاره می‌کند که جان و زندگی از عشق الهی و نسیم معنوی ناشی می‌شود و عشق عقل را به دیوانگی می‌کشاند. همچنین، با پرسش از خواجه، شاعر می‌گوید که آنچه او دنبالش می‌گردد، مدت‌هاست که در خانه و دل او حضور دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهیماست",
+      "PlainText": "جان زنده دل از نسیم جانانه ماست\r\nعشق آفت عقل و عقل دیوانه ی ماست\r\nای خواجه تو او را ز کجا می طلبی\r\nدیریست که مطلوب تو هم خانه ی ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان زنده دل از نسیم جانانه ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق آفت عقل و عقل دیوانه ی ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه تو او را ز کجا می طلبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیریست که مطلوب تو هم خانه ی ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان زنده دل از نسیم جانانه ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشق آفت عقل و عقل دیوانه ی ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خواجه تو او را ز کجا می طلبی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیریست که مطلوب تو هم خانه ی ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

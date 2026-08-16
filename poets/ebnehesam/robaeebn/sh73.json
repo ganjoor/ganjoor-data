@@ -1,0 +1,58 @@
+{
+  "Id": 64870,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۷۳",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۷۳",
+  "FullUrl": "/ebnehesam/robaeebn/sh73",
+  "RhymeLetters": "منزنیم",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به حس غم و جدایی می‌پردازد. شاعر می‌گوید که ما بی‌غم نیستیم و حتی لحظه‌ای هم نمی‌توانیم به خواسته‌های خود برسیم. او همچنین به از دست دادن و درد فراق اشاره می‌کند و می‌گوید که حتی اگر صد بار در شب غمگین باشیم، چشم‌هایمان را بر هم نمی‌گذاریم و از عذاب فراق غافل نمی‌شویم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منزنیم",
+      "PlainText": "ماییم که بی هیچ غمی دم نزنیم\r\nیک دم به مراد خویش بی غم نزنیم\r\nصدبار شبی بود که صد خار فراق\r\nبر دیده زنیم و دیده بر هم نزنیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماییم که بی هیچ غمی دم نزنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دم به مراد خویش بی غم نزنیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصدبار شبی بود که صد خار فراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دیده زنیم و دیده بر هم نزنیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماییم که بی هیچ غمی دم نزنیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک دم به مراد خویش بی غم نزنیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صدبار شبی بود که صد خار فراق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر دیده زنیم و دیده بر هم نزنیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50192,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۳۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۳۲",
+  "FullUrl": "/mahsati/robmah/sh132",
+  "RhymeLetters": "ابیبینم",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس درد و غم شاعر اشاره دارد. شاعر هر شب به خاطر عشقش در عذاب است و به جای خواب آرام، غم واندوه را تجربه می‌کند. وقتی که خوابش می‌برد، خوابش همچنان آشفته و پریشان از یاد محبوبش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابیبینم",
+      "PlainText": "هر شب ز غمت تازه عذابی بینم\r\nدر دیده به جای خواب آبی بینم\r\nو آنگه که چو نرگس تو خوابم ببرد\r\nآشفته تر از زلف تو خوابی بینم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شب ز غمت تازه عذابی بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیده به جای خواب آبی بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آنگه که چو نرگس تو خوابم ببرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآشفته‌تر از زلف تو خوابی بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شب ز غمت تازه عذابی بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیده به جای خواب آبی بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "و آنگه که چو نرگس تو خوابم ببرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آشفته‌تر از زلف تو خوابی بینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

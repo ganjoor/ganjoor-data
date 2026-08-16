@@ -1,0 +1,58 @@
+{
+  "Id": 1146,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۲۸",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۲۸",
+  "FullUrl": "/khayyam/robaee/sh28",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این اشعار به عدم وجود حقیقت و یقین در زندگی اشاره دارد. شاعر می‌گوید که نمی‌توان همیشه در شک و تردید زندگی کرد و بهتر است از لحظات زندگی لذت ببریم. چه فرقی دارد که آدم هشیار باشد یا مست، وقتی در بی‌خبری زندگی می‌کند، بهتر است خوشی‌ها را در آغوش بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "چون نیست حقیقت و یقین اندر دست\r\nنتوان به امید شک همه عمر نشست\r\nهان تا ننهیم جام می از کف دست\r\nدر بی خبری مرد چه هشیار و چه مست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نیست حقیقت و یقین اندر دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتوان به امید شَک همه عمر نشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهان تا ننهیم جامِ مِی از کف دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بی‌خبری، مَرد، چه هشیار و چه مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نیست حقیقت و یقین اندر دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نتوان به امید شَک همه عمر نشست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هان تا ننهیم جامِ مِی از کف دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در بی‌خبری، مَرد، چه هشیار و چه مست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

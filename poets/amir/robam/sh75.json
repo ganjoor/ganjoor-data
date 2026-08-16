@@ -1,0 +1,58 @@
+{
+  "Id": 70118,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۵",
+  "FullUrl": "/amir/robam/sh75",
+  "RhymeLetters": "اند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی و جذابیت معشوقی می‌پردازد که با گشادن چهره‌اش جلوه‌ای ویژه به جهان می‌بخشد. شاعر با ستایش از این زیبایی، بر اهمیت و ارزش مادرانی که چنین فرزندانی را به دنیا می‌آورند تأکید می‌کند و آن‌ها را شایسته دعا و احترام می‌داند. در واقع، لحظه‌ای به یاد ماندنی را با تحسین ستاره‌ها و چرخ فلک مقایسه می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "چون رخ بگشاد آن نگار دلبند\r\nجای صلوات باشد و جای سپند\r\nاحسنت زند ستاره از چرخ بلند\r\nآن مادر راکه چون تو زاید فرزند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون رخ بگشاد آن نگار دلبند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجای صلوات باشد و جای سپند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاحسنت زند ستاره از چرخ بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن مادر راکه چون تو زاید فرزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون رخ بگشاد آن نگار دلبند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جای صلوات باشد و جای سپند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "احسنت زند ستاره از چرخ بلند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن مادر راکه چون تو زاید فرزند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

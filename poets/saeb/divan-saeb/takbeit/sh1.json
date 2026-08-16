@@ -1,0 +1,44 @@
+{
+  "Id": 20000,
+  "CatId": 282,
+  "Title": "تک‌بیت شمارهٔ ۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱",
+  "FullUrl": "/saeb/divan-saeb/takbeit/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که زندگی (نشاط دهر) تحت تأثیر ندامت و پشیمانی قرار دارد. همچنین، بیان می‌کند که شادی و لذت‌هایی که به ما دست می‌دهد (مانند نوشیدن شراب) در واقع به نوعی درد و شکست (شیشه خوردن) پیوند خورده‌اند. به‌طور کلی، شاعر به تضاد بین لذت و زخم‌های درونی اشاره دارد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شرابخوردنماشیشهخوردناستاینجا",
+      "PlainText": "نشاط دهر به زخم ندامت آغشته است\r\nشراب خوردن ما شیشه خوردن است این جا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشاط دهر به زخم ندامت آغشته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشراب خوردن ما شیشه خوردن است این جا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نشاط دهر به زخم ندامت آغشته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شراب خوردن ما شیشه خوردن است این جا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

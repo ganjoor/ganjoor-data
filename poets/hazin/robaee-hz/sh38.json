@@ -1,0 +1,58 @@
+{
+  "Id": 82926,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۳۸",
+  "FullUrl": "/hazin/robaee-hz/sh38",
+  "RhymeLetters": "ابیننوشت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر از غم و دلشکستگی خود می‌گوید. او اشاره می‌کند که برای کسی نامه‌ای نوشته اما جوابی دریافت نکرده است. با وجود این غم و بی‌توجهی، شاعر تلاش کرده تا خود را امیدوار نگه دارد، اما در نهایت به تلخی می‌رسد که انتظار و امیدش بی‌ثمر بوده و به خرابی منجر شده است. ",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابیننوشت",
+      "PlainText": "غمنامه ما خواند و جوابی ننوشت\r\nاز لطف گذشتیم و عتابی ننوشت\r\nخاطر به امید ستمش خوش می بود\r\nبی رحم خراجی به خرابی ننوشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمنامهٔ ما خواند و جوابی ننوشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز لطف گذشتیم و عتابی ننوشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاطر به امید ستمش خوش می بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی رحم، خراجی به خرابی ننوشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غمنامهٔ ما خواند و جوابی ننوشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از لطف گذشتیم و عتابی ننوشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاطر به امید ستمش خوش می بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی رحم، خراجی به خرابی ننوشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

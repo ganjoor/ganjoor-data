@@ -1,0 +1,58 @@
+{
+  "Id": 45840,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۲۷",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۲۷",
+  "FullUrl": "/ghaani/robaeegh/sh27",
+  "RhymeLetters": "وری",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این چهار بیت احساس دلتنگی و دوری را بیان می‌کند. شاعر به محبوبش اشاره می‌کند که با وجود نزدیکی، او را دور می‌بیند. او محبوبش را جان شیرین خود می‌داند و به نوعی ابراز غم و فاصله عاطفی می‌کند، هرچند که محبوب همیشه در ذهن اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وری",
+      "PlainText": "تو مردمک چشم من مهجوری\r\nزان با همه نزدیکیت از من دوری\r\nنی نی غلطم تو جان شیرین منی\r\nزان با منی و ز چشم من مستوری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو مردمک چشم من مهجوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان با همه نزدیکیت از من دوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نی غلطم تو جان شیرین منی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان با منی و ز چشم من مستوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو مردمک چشم من مهجوری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان با همه نزدیکیت از من دوری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی نی غلطم تو جان شیرین منی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان با منی و ز چشم من مستوری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 36198,
+  "CatId": 850,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "عطار » مختارنامه » باب چهل و نهم: در سخن گفتن به زبان پروانه » شمارهٔ ۱۳",
+  "FullUrl": "/attar/mokhtarname/bb49/sh13",
+  "RhymeLetters": "ری",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: پروانه به شمع می‌گوید که متوجه حالت او نیست و شمع پاسخ می‌دهد که از حال او خبر ندارد. پروانه به شمع می‌گوید که شب‌ها او را می‌بیند و حس می‌کند که در حال سوختن است، در حالی که شمع فقط از او می‌سوزد و به دیگری فکر می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "پروانه به شمع گفت آخر نظری\r\nشمعش گفتا ز من نداری خبری\r\nپروانه شمعی دگرم من همه شب\r\nتو میسوزی از من و من از دگری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپروانه به شمع گفت: آخر نظری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمعش گفتا: ز من نداری خبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپروانهٔ شمعی دگرم من همه شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو میسوزی از من و من از دگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پروانه به شمع گفت: آخر نظری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمعش گفتا: ز من نداری خبری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پروانهٔ شمعی دگرم من همه شب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو میسوزی از من و من از دگری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

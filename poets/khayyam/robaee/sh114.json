@@ -1,0 +1,58 @@
+{
+  "Id": 1232,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۱۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۱۴",
+  "FullUrl": "/khayyam/robaee/sh114",
+  "RhymeLetters": "وس",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، مرغی بر باره طوس نشسته و در برابر خود کله کیکاووس را قرار داده است. آن مرغ در حال ناله و افسوس خوردن است و از فقدان بانگ جرس‌ها و ناله کوس‌ها که مثلاً نماد شادی یا زندگی هستند، غمگین است. این تصویر حاکی از یک حس تأسف و یادآوری لحظات خوش گذشته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وس",
+      "PlainText": "مرغی دیدم نشسته بر باره طوس\r\nدر پیش نهاده کله کیکاووس\r\nبا کله همی گفت که افسوس افسوس\r\nکو بانگ جرس ها و کجا ناله کوس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغی دیدم نشسته بر بارهٔ طوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پیش نهاده کله کیکاووس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا کله همی‌گفت که افسوس افسوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو بانگ جرس‌ها و کجا ناله کوس‌‌!؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرغی دیدم نشسته بر بارهٔ طوس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پیش نهاده کله کیکاووس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با کله همی‌گفت که افسوس افسوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو بانگ جرس‌ها و کجا ناله کوس‌‌!؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

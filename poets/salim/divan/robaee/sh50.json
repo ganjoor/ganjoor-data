@@ -1,0 +1,58 @@
+{
+  "Id": 101841,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/salim/divan/robaee/sh50",
+  "RhymeLetters": "ید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، نویسنده از آزادی خود سخن می‌گوید. او اشاره به این دارد که نه از چیزی می‌ترسد و نه به چیزی امید دارد. او دیگر به وسایل و تعلقات دنیا وابسته نیست و خود را آزاد می‌داند، شبیه به دزدی که در خفا به سراغ چیزهای دیگر می‌رود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "در خانه مرا نه بیم ماند و نه امید\r\nنه قفل کنون به کار دارم نه کلید\r\nآزادم از اسباب تعلق کردی\r\nچون دزد حنا روی تو ای دزد سفید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خانه مرا نه بیم ماند و نه امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه قفل کنون به کار دارم، نه کلید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآزادم از اسباب تعلق کردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دزد حنا، روی تو ای دزد سفید!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در خانه مرا نه بیم ماند و نه امید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه قفل کنون به کار دارم، نه کلید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آزادم از اسباب تعلق کردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون دزد حنا، روی تو ای دزد سفید!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

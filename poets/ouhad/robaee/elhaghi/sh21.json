@@ -1,0 +1,58 @@
+{
+  "Id": 98989,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۲۱",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh21",
+  "RhymeLetters": "وبینتنیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ناتوانی در دیدن عیوب و واقعیات دنیا سخن می‌گوید. او می‌گوید که در تمام اجزای جهان، خوب و بد وجود دارد و خداوند در همه جا هست، اما ما توانایی درک و مشاهده این واقعیت‌ها را نداریم. به عبارتی، چشم ما قادر به دیدن حقیقت و عیوب نیست و باید به دنبال بینش واقعی باشیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وبینتنیست",
+      "PlainText": "افسوس که دیده نکوبینت نیست\r\nچشمی به عیوب خوش فروبینت نیست\r\nدر جمله ذرات جهان از بد و نیک\r\nاو هست ولی دیده او بینت نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که دیدهٔ نکوبینت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمی به عیوب خوش فروبینت نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جملهٔ ذرّات جهان از بد و نیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو هست ولی دیدهٔ او بینت نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که دیدهٔ نکوبینت نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشمی به عیوب خوش فروبینت نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در جملهٔ ذرّات جهان از بد و نیک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او هست ولی دیدهٔ او بینت نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

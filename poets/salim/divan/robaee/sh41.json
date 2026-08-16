@@ -1,0 +1,58 @@
+{
+  "Id": 101832,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/salim/divan/robaee/sh41",
+  "RhymeLetters": "لدارد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به فردی خطاب می‌کند که دانش عمیق مسیح را در دل خود دارد. او به ضعف دل خود راضی شده و از درد و مشکلاتی که به آن دچار است، شکایت می‌کند، ولی در عین حال به آرامش و تسلی یافتن از آن دردها اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لدارد",
+      "PlainText": "ای آن که مسیح آنچه مجمل دارد\r\nاز علم آن را دلت مفصل دارد\r\nراضی شده ام باز به ضعف دل خویش\r\nزین دردسری که قرص صندل دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آن که مسیح آنچه مجمل دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز علم آن را دلت مفصل دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراضی شده ام باز به ضعف دل خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین دردسری که قرص صندل دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که مسیح آنچه مجمل دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از علم آن را دلت مفصل دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راضی شده ام باز به ضعف دل خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین دردسری که قرص صندل دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

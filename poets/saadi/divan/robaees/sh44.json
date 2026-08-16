@@ -1,0 +1,58 @@
+{
+  "Id": 10105,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۴۴",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۴۴",
+  "FullUrl": "/saadi/divan/robaees/sh44",
+  "RhymeLetters": "سباشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بررسی دیدگاه‌های متفاوت درباره عشق و محبت می‌پردازد. شاعر می‌گوید اگر کسی توجهش به دیگران باشد، از نظر اهل خرد ناپسند است. همچنین، در مسائل عشق، گواهی و شاهدی که مورد قبول قرار می‌گیرد، فراتر از شواهد معمول شرعی است. در واقع، عشق برای خود استانداردها و شواهد خاصی دارد که ممکن است از قوانین مرسوم خارج باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سباشد",
+      "PlainText": "آن را که نظر به سوی هر کس باشد\r\nدر دیده صاحبنظران خس باشد\r\nقاضی به دو شاهد بدهد فتوی شرع\r\nدر مذهب عشق شاهدی بس باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن را که نظر به سوی هر کس باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیدهٔ صاحبنظران خس باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقاضی به دو شاهد بدهد فتوی شرع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر مذهب عشق شاهدی بس باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که نظر به سوی هر کس باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیدهٔ صاحبنظران خس باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قاضی به دو شاهد بدهد فتوی شرع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در مذهب عشق شاهدی بس باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

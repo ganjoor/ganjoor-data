@@ -1,0 +1,58 @@
+{
+  "Id": 83146,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۴۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۴۹",
+  "FullUrl": "/hazin/robaee-hz/sh249",
+  "RhymeLetters": "اییکردی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر به ستایش از قدرت بیان خود پرداخته و می‌گوید که با کلامش نکات زیبا را به تصویر کشیده و از مشکلات سخن می‌گوید. او همچنین اشاره می‌کند که اگر کسی که صاحب درد است به کمک نیاید، زندگی در عوض به بیهودگی می‌گذرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییکردی",
+      "PlainText": "ای خامه بسی نکته سرایی کردی\r\nاز زلف سخن گره گشایی کردی\r\nصاحب دردی اگر به دادت نرسد\r\nعمری به عبث هرزه درایی کردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خامه بسی نکته سرایی کردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز زلف سخن گره گشایی کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحب دردی اگر به دادت نرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعمری به عبث هرزه درایی کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خامه بسی نکته سرایی کردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از زلف سخن گره گشایی کردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صاحب دردی اگر به دادت نرسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عمری به عبث هرزه درایی کردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

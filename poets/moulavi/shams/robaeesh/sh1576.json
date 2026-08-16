@@ -1,0 +1,58 @@
+{
+  "Id": 31034,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۵۷۶",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۵۷۶",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1576",
+  "RhymeLetters": "انهمگو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: فرزانه، عشق را دیوانگی نخوان. روح مشترک را بیگانه ندان. دریا را اندازه‌گیری نکن، چرا که او خودش می‌داند چه کسی است. افسانه‌های بی‌اساس نگو.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهمگو",
+      "PlainText": "فرزانه عشق را تو دیوانه مگو\r\nهم خرقه روح را تو بیگانه مگو\r\nدریای محیط را تو پیمانه مگو\r\nاو داند نام خود تو افسانه مگو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرزانهٔ عشق را تو دیوانه مگو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم خرقهٔ روح را تو بیگانه مگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریای محیط را تو پیمانه مگو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو داند نام خود، تو افسانه مگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرزانهٔ عشق را تو دیوانه مگو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم خرقهٔ روح را تو بیگانه مگو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دریای محیط را تو پیمانه مگو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او داند نام خود، تو افسانه مگو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

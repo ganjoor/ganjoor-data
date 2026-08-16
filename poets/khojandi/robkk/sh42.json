@@ -1,0 +1,58 @@
+{
+  "Id": 76520,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/khojandi/robkk/sh42",
+  "RhymeLetters": "ری",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده در حال گفتگو با اعضای مختلف وجودش است. وقتی از چشمش درخواست می‌کند، او به بی‌بصری اشاره می‌کند. وقتی از جانش صحبت می‌کند، جانش نمی‌خواهد که از او جدا شود. همچنین، عقلش او را از تمسخر بر عقل برحذر می‌دارد و در نهایت، بدنش نیز به او می‌گوید که از آن دور نشود. این گفتگوها نشان‌دهنده‌ی ارتباط عمیق و وابستگی‌های درونی انسان به اجزای وجودش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "گفتم چشمم گفت مگر بی بصری\r\nگفتم جانم گفت ز دستم نبری\r\nگفتم عقلم گفت که بر عقل مخند\r\nگفتم که تنم گفت که بر تن بگری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم چشمم گفت مگر بی بصری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم جانم گفت ز دستم نبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم عقلم گفت که بر عقل مخند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم که تنم گفت که بر تن بگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم چشمم گفت مگر بی بصری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم جانم گفت ز دستم نبری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم عقلم گفت که بر عقل مخند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم که تنم گفت که بر تن بگری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

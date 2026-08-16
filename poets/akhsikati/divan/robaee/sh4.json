@@ -1,0 +1,58 @@
+{
+  "Id": 116130,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/akhsikati/divan/robaee/sh4",
+  "RhymeLetters": "شما",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به یاد شب‌هایی می‌افتد که سر بر بالش محبوب گذاشته و از آن زمان به بعد هر شب بر افلاک ناله‌اش می‌رسد. او به محبوبش می‌گوید که ای کسی که به راحتی یک شب به وصالش رسیده، برگرد و اگر این دورانی که در جدایی سپری شده، به پایان رسیده باشد، ما هم حاضر به آشتی هستیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شما",
+      "PlainText": "زان شب که نهاد روی بر بالش ما\r\nهر شب به فلک همی رسد نالش ما\r\nای یک شبه وصل از پی یکساله فراق\r\nباز آی اگر تمام شد لایش ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان شب که نهاد روی بر بالش ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر شب به فلک همی رسد نالش ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای یک شبه وصل از پی یکساله فراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز آی، اگر تمام شد لایش ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زان شب که نهاد روی بر بالش ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر شب به فلک همی رسد نالش ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای یک شبه وصل از پی یکساله فراق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باز آی، اگر تمام شد لایش ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

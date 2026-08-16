@@ -1,0 +1,58 @@
+{
+  "Id": 75770,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/nezari/robnez/sh23",
+  "RhymeLetters": "رمبگذشتست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها شاعر به درد و رنجی که از دوری معشوقش می‌کشد اشاره می‌کند. هر لحظه که یاد او به خاطرش می‌آید، بر آلامش افزوده می‌شود. او می‌گوید که نمی‌داند چگونه برای دیگران از مصائب و حوادثی که بعد از جدایی از معشوقش بر او گذشته، سخن بگوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمبگذشتست",
+      "PlainText": "هر دم که خیال از نظرم بگذشتست\r\nصد نیز جفا بر جگرم بگذشتست\r\nچون شرح دهم که تا برفتم ز برت\r\nاز حادثه ها چه بر سرم بگذشتست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم که خیال از نظرم بگذشتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد نیز جفا بر جگرم بگذشتست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شرح دهم که تا برفتم ز برت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حادثه ها چه بر سرم بگذشتست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر دم که خیال از نظرم بگذشتست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد نیز جفا بر جگرم بگذشتست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون شرح دهم که تا برفتم ز برت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از حادثه ها چه بر سرم بگذشتست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

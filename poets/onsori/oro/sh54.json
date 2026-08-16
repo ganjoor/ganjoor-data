@@ -1,0 +1,58 @@
+{
+  "Id": 68904,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۵۴",
+  "FullUrl": "/onsori/oro/sh54",
+  "RhymeLetters": "ارمازو",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به مشکلات و دردهایی که از عشق و معشوق ناشی می‌شود، اشاره می‌کند. او احساس می‌کند که از طرف معشوقش رنجیده خاطر شده و دلش از او دور شده است. همچنین بیان می‌کند که این دل به جز معشوق، هزاران درد و مشکل دیگر نیز دارد. در کل، بیانگر رنج و جدایی از معشوق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمازو",
+      "PlainText": "وز دست همی در گذرد کارم ازو\r\nآن دل که بدست بت گرفتارم ازو\r\nبیزار شدست از من و من زارم ازو\r\nدل نه که هزار درد دل دارم ازو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز دست همی در گذرد کارم ازو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن دل که بدست بت گرفتارم ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیزار شدست از من و من زارم ازو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل نه ،که هزار درد دل دارم ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وز دست همی در گذرد کارم ازو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن دل که بدست بت گرفتارم ازو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیزار شدست از من و من زارم ازو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل نه ،که هزار درد دل دارم ازو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83088,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۹۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۹۱",
+  "FullUrl": "/hazin/robaee-hz/sh191",
+  "RhymeLetters": "ادم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس شادمانی و آزادی شاعر در عشق است. او از بی‌توجهی به محدودیت‌های دینی و اجتماعی سخن می‌گوید و خود را در دل عشق رها και خوشحال می‌بیند. برعکس، دیگری که زاهد است، از این لذت‌ها دوری می‌جوید و به دنبال جلب تأیید دیگران است، در حالی که شاعر خود را آزاد و بی‌نیاز از تأیید می‌بیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادم",
+      "PlainText": "آنم که ز ذوق نیستی دلشادم\r\nهمواره خراب عشقم و آبادم\r\nتو در طلب قبول عامی زاهد\r\nمن از طلب هر دو جهان آزادم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنم که ز ذوق نیستی دلشادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمواره خراب عشقم و آبادم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو در طلب قبول عامی زاهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن از طلب هر دو جهان آزادم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنم که ز ذوق نیستی دلشادم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همواره خراب عشقم و آبادم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو در طلب قبول عامی زاهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من از طلب هر دو جهان آزادم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 71940,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۲۰۳",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۲۰۳",
+  "FullUrl": "/kamal/robaeek-kamal/sh203",
+  "RhymeLetters": "وشمباد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر از احساس عمیق محبت و وابستگی سخن می‌گوید. شاعر می‌گوید که بدون حضور و یاد محبوبش، هیچ چیزی برایش خوشایند نیست. حتی اگر محبوب به او فکر نکند، او هرگز نمی‌تواند غم او را فراموش کند و این غم برایش همیشه باقی خواهد ماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشمباد",
+      "PlainText": "بی روی توام صبر و دل و هوش مباد\r\nبی یاد تو هر می که خورم نوش مباد\r\nهرچند ترا زمن نمی آید یاد\r\nهرگز غم تو مرا فراموش مباد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی روی توام صبر و دل و هوش مباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی یاد تو هر می که خورم نوش مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچند ترا زمن نمی آید یاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز غم تو مرا فراموش مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی روی توام صبر و دل و هوش مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی یاد تو هر می که خورم نوش مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند ترا زمن نمی آید یاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز غم تو مرا فراموش مباد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

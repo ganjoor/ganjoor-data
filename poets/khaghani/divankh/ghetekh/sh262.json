@@ -1,0 +1,58 @@
+{
+  "Id": 27925,
+  "CatId": 233,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "خاقانی » دیوان اشعار » قطعات » شمارهٔ ۲۶۲",
+  "FullUrl": "/khaghani/divankh/ghetekh/sh262",
+  "RhymeLetters": "ابمیکنم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر به تضاد رنگ‌ها و زیبایی‌های هر یک اشاره دارد. شاعر به تفاوت رنگ پوست خود و یارش اشاره می‌کند؛ او سیاه و شاعر سپید است. با این حال، هر کدام به زیبایی دیگری احترام می‌گذارند و در کارهای خود به این تفاوت‌ها توجه دارند. شاعر نقش سپیداب را بر چهره یارش و نقش آب را بر سر خود ذکر می‌کند و این تاثیرات متقابل را نشان می‌دهد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابمیکنم",
+      "PlainText": "هست او سیاه چرده و من هم سپید سر\r\nبا یار من موافقه زین باب می کنم\r\nاو بر رخ سیاه سپیداب می کند\r\nمن بر سر سپید سیاه آب می کنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست او سیاه چرده و من هم سپید سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا یار، من موافقه زین باب می‌کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو بر رخ سیاه، سپیداب می‌کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بر سر سپید، سیاه آب می‌کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هست او سیاه چرده و من هم سپید سر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با یار، من موافقه زین باب می‌کنم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او بر رخ سیاه، سپیداب می‌کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بر سر سپید، سیاه آب می‌کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

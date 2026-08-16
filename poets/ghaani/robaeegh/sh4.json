@@ -1,0 +1,58 @@
+{
+  "Id": 45817,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۴",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۴",
+  "FullUrl": "/ghaani/robaeegh/sh4",
+  "RhymeLetters": "ارکجاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر ابراز عشق و وابستگی عمیق خود به معشوق می‌کند. او می‌گوید که هرچند ابروی معشوق کج است و این امر ممکن است در نظر دیگران نادرست به نظر برسد، اما این زیبایی و وجهه‌ی منحصر به فرد او را می‌ستاید. شاعر تأکید می‌کند که حتی اگر به سمت قبله‌ای دیگر نرویم، همین قبله کج، برای او به عنوان مقصد اصلی و جایگاه محبت و عشق باقی می‌ماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارکجاست",
+      "PlainText": "تا قبله ابروی تو ای یار کج است\r\nمحراب دل و قبله احرار کج است\r\nما جانب قبله دگر رو نکنیم\r\nآن قبله ماست گرچه بسیار کج است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا قبلهٔ ابروی تو ای یار کج است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحراب دل و قبلهٔ احرار کج است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما جانب قبلهٔ دگر رو نکنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن قبله ماست گرچه بسیار کج است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا قبلهٔ ابروی تو ای یار کج است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محراب دل و قبلهٔ احرار کج است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما جانب قبلهٔ دگر رو نکنیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن قبله ماست گرچه بسیار کج است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

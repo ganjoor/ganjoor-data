@@ -1,0 +1,58 @@
+{
+  "Id": 99010,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۴۲",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh42",
+  "RhymeLetters": "ینمنرود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس عمیق عشق و دلتنگی است. شاعر می‌گوید که محبت معشوق همچون نگین در دل او جاودانه خواهد ماند و عشق او هرگز از دلش نخواهد رفت. حتی اگر خود شاعر دور شود، اشک‌هایش نشان‌دهنده‌ی رنجی است که از جدایی می‌برد و این درد و حسرت تا آخر عمرش همراه او خواهد بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینمنرود",
+      "PlainText": "مهر تو چو مهر از نگینم نرود\r\nسودای تو از دل حزینم نرود\r\nمن خود رفتم ولیک خونابه چشم\r\nتا دامن عمر زآستینم نرود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمِهر تو چو مُهر از نگینم نرود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسودای تو از دل حزینم نرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن خود رفتم ولیک خونابهٔ چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دامن عمر زآستینم نرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مِهر تو چو مُهر از نگینم نرود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سودای تو از دل حزینم نرود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من خود رفتم ولیک خونابهٔ چشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا دامن عمر زآستینم نرود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

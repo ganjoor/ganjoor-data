@@ -1,0 +1,58 @@
+{
+  "Id": 101839,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/salim/divan/robaee/sh48",
+  "RhymeLetters": "ارانریزند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات عمیق و رنج دل اشاره دارد. خطوط اول و دوم به زیبایی و ظرافت الماس و سیماب اشاره می‌کنند که نشان‌دهنده درد و غم فگاران و بی‌قراری عاشقان است. در پایان، با تصویر باران در فصل گل، به اشکی اشاره می‌شود که برای وداع با دوستان و یاران ریخته می‌شود. در کل، شعر احساسی از غم و جدایی را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارانریزند",
+      "PlainText": "الماس به زخم دل فگاران ریزند\r\nسیماب به جام بی قراران ریزند\r\nدر موسم گل قطره ی باران از ابر\r\nاشکی ست که در وداع یاران ریزند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالماس به زخم دل فگاران ریزند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیماب به جام بی قراران ریزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر موسم گل، قطره ی باران از ابر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاشکی ست که در وداع یاران ریزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "الماس به زخم دل فگاران ریزند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیماب به جام بی قراران ریزند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در موسم گل، قطره ی باران از ابر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اشکی ست که در وداع یاران ریزند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

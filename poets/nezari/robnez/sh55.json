@@ -1,0 +1,58 @@
+{
+  "Id": 75802,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/nezari/robnez/sh55",
+  "RhymeLetters": "ست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به ما یادآوری می‌کند که زندگی کوتاه و دنیای مادی گذراست. شاعر به دل می‌گوید که اگرچه مشکلات و ناراحتی‌ها وجود دارد، اما باید شادی کرد و نگران نبود، زیرا دنیا فقط یک میوه‌ای است که به زودی می‌گذرد. همچنین اشاره می‌کند که چرخ زمان و سرنوشت ما را گم کرده و در واقع خود چرخ نیز از ما سرگشته‌تر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "ای دل چو بدو نیک جهان در گذرست\r\nشادی کن و غم مخور که دنیا سمرست\r\nسر گشتگی من و تو از چرخ مدان\r\nکو هم ز من و تو نیز سرگشته تر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل چو بدو نیک جهان در گذرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشادی کن و غم مخور که دنیا سمرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر گشتگی من و تو از چرخ مدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو هم ز من و تو نیز سرگشته تر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل چو بدو نیک جهان در گذرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شادی کن و غم مخور که دنیا سمرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر گشتگی من و تو از چرخ مدان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو هم ز من و تو نیز سرگشته تر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

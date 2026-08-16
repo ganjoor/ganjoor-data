@@ -1,0 +1,58 @@
+{
+  "Id": 97276,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/emami/divan/robaee/sh17",
+  "RhymeLetters": "ویم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر عشق عمیق شاعر به معشوقش است. شاعر به معشوق می‌گوید که وقتی او درباره‌ی زیبایی‌های او صحبت می‌کند، در واقع این عشق و زیبایی است که او را به سخن وادار می‌کند. به نظر می‌رسد که شاعر در تلاش است تا احساسات خود را به زیباترین شکل بیان کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویم",
+      "PlainText": "آن ماه که پرورده ی مهر اویم\r\nدی گفت غزل مگو که من می گویم\r\nگفتم چو حدیث زلف و خال تو رود\r\nدانی که بگفتن غزل نیکویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ماه که پرورده ی مهر اویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدی گفت غزل مگو که من می گویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم چو حدیث زلف و خال تو رود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانی که بگفتن غزل نیکویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن ماه که پرورده ی مهر اویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دی گفت غزل مگو که من می گویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم چو حدیث زلف و خال تو رود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دانی که بگفتن غزل نیکویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

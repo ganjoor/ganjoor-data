@@ -1,0 +1,58 @@
+{
+  "Id": 1181,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۶۳",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۶۳",
+  "FullUrl": "/khayyam/robaee/sh63",
+  "RhymeLetters": "یشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "شاعر در این دو بیت، افسوس از دست رفتن جوانی را می‌خورد و ضمن تشبیه کردن آن به بهار، به این واقعیت اشاره می‌کند که هرچه گذشت، دیگر برنمی‌گردد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشد",
+      "PlainText": "افسوس که نامه جوانی طی شد\r\nوآن تازه بهار زندگانی دی شد\r\nآن مرغ طرب که نام او بود شباب\r\nافسوس ندانم که کی آمد کی شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که نامهٔ جوانی طی شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن تازه‌بهارِ زندگانی دی شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن مرغِ طَرَب که نام او بود شَباب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسوس ندانم که کی آمد کی شد!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که نامهٔ جوانی طی شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآن تازه‌بهارِ زندگانی دی شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن مرغِ طَرَب که نام او بود شَباب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسوس ندانم که کی آمد کی شد!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

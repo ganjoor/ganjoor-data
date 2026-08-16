@@ -1,0 +1,58 @@
+{
+  "Id": 101881,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۹۰",
+  "FullUrl": "/salim/divan/robaee/sh90",
+  "RhymeLetters": "سی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره پیکر زرینی است که در جهان وجود دارد و به آرامی مانند سیماب، بی‌وقفه در حرکت است. شاعر به خورشید اشاره می‌کند و گاهی می‌گوید که این دنیا همانند یک غماز (خبرچین) است که هر روز رازها و اتفاقات را فاش می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سی",
+      "PlainText": "این پیکر زرین که جهان گشته بسی\r\nآرام چو سیماب ندارد نفسی\r\nخورشید مگو که این سپهر غماز\r\nهر روز ز بام افکند طشت کسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین پیکر زرین که جهان گشته بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآرام چو سیماب ندارد نفسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید مگو، که این سپهر غماز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر روز ز بام افکند طشت کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این پیکر زرین که جهان گشته بسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آرام چو سیماب ندارد نفسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورشید مگو، که این سپهر غماز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر روز ز بام افکند طشت کسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 2091,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۴۱",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۴۱",
+  "FullUrl": "/hafez/robaee2/sh41",
+  "RhymeLetters": "اریکردی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این شعر درباره شکایت از روزگار از دست رفته جوانی‌است که در آن شاعر آرزو می‌کند که کاش دست تقدیر و یار در این روز سختی پیری به‌او کمک می‌کردند تا بتواند سختی‌ها را تحمل کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریکردی",
+      "PlainText": "ای کاش که بخت سازگاری کردی\r\nبا جور زمانه یار یاری کردی\r\nاز دست جوانی ام چو بربود عنان\r\nپیری چو رکاب پایداری کردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کاش که بخت، سازگاری کردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا جور زمانه یار، یاری کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دست جوانی‌ام چو بِرْبود عنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیری چو رکاب، پایداری کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کاش که بخت، سازگاری کردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با جور زمانه یار، یاری کردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دست جوانی‌ام چو بِرْبود عنان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیری چو رکاب، پایداری کردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

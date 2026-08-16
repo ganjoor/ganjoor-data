@@ -1,0 +1,58 @@
+{
+  "Id": 70170,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۲۷",
+  "FullUrl": "/amir/robam/sh127",
+  "RhymeLetters": "ارم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس غم و longing شاعر برای معشوقش است. او هر شب به یاد معشوقش گریه می‌کند و از بیخوابی رنج می‌برد. شاعر می‌گوید که هیچ شبی نیست که نتواند به خاطر یاد معشوقش خوابش ببرد و این خاطره همیشه در ذهنش به شدت حاضر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تکندم",
+      "PlainText": "هر شب غم تو به مه اشارت کندم\r\nوز چشم پر آب خواب غارت کندم\r\nیک شب نگذارد که کنم دیده فراز\r\nچندان که خیال تو زیادت کندم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شب غم تو به مه اشارت‌کُنَدَم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز چشم پر آب خواب غارت کندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک شب نگذارد که کنم دیده فراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان که خیال تو زیادت کندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شب غم تو به مه اشارت‌کُنَدَم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز چشم پر آب خواب غارت کندم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک شب نگذارد که کنم دیده فراز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان که خیال تو زیادت کندم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

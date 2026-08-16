@@ -1,0 +1,58 @@
+{
+  "Id": 70164,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۲۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۲۱",
+  "FullUrl": "/amir/robam/sh121",
+  "RhymeLetters": "اک",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر عواطف عمیق و شدید عشق است. شاعر از چشمی که پر از اشک عشق است و جانی که تحت تأثیر سوز و گداز عشق می‌سوزد، سخن می‌گوید. همچنین، او به حضور دائمی‌اش در دنیای عشق اشاره می‌کند و تضاد بین هوشیاری جهان و دیوانگی عشق را نمایش می‌دهد. در کل، این شعر به عمق و شدت احساسات عاشقانه می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وانهٔعشق",
+      "PlainText": "چشمی دارم ز اشک پیمانه عشق\r\nجانی دارم ز سوز پروانه عشق\r\nهر روز منم مقیم درخانه عشق\r\nهشیار همه جهان و دیوانه عشق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمی دارم ز اشک پیمانهٔ عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانی دارم ز سوز پروانهٔ عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر روز منم مقیم درخانهٔ عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهشیار همه جهان و دیوانهٔ عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشمی دارم ز اشک پیمانهٔ عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانی دارم ز سوز پروانهٔ عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر روز منم مقیم درخانهٔ عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هشیار همه جهان و دیوانهٔ عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

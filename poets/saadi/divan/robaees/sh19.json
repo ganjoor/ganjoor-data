@@ -1,0 +1,58 @@
+{
+  "Id": 10080,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۹",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۹",
+  "FullUrl": "/saadi/divan/robaees/sh19",
+  "RhymeLetters": "ختمنست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از یک عشق نااستوار سخن می‌گوید که همزمان برای دیگران شمع و روشنی است، اما برای او دردسر و آتش. او به این نکته اشاره می‌کند که در روابطش با دیگران، عشقش با او در تضاد است و این مشکل از خود او نیست، بلکه به بداقبالی‌اش مرتبط می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ختمناست",
+      "PlainText": "آن سست وفا که یار دل سخت من است\r\nشمع دگران و آتش رخت من است\r\nای با همه کس به صلح و با ما به خلاف\r\nجرم از تو نباشد گنه از بخت من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن سست وفا که یار دل‌سخت من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمع دگران و آتشِ رخت من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای با همه کس به صلح و با ما به خلاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجرم از تو نباشد گنه از بخت من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن سست وفا که یار دل‌سخت من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع دگران و آتشِ رخت من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای با همه کس به صلح و با ما به خلاف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جرم از تو نباشد گنه از بخت من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

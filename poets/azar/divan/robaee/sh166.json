@@ -1,0 +1,58 @@
+{
+  "Id": 119087,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۶۶",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۶۶",
+  "FullUrl": "/azar/divan/robaee/sh166",
+  "RhymeLetters": "فتهباشیمهمه",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات نشان‌دهنده زیبایی و زودگذری زندگی هستند. شاعر می‌گوید امروز مانند گلی شکفته‌ایم، اما ممکن است فردا در خاک پنهان شویم. او به زیبایی نرگس در باغ اشاره می‌کند که هر روز از خواب بیدار می‌شود، اما همه در نهایت به خواب ابدی خواهند رفت. این اشعار به تأمل در زندگی و فناپذیری آن پرداخته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتهباشیمهمه",
+      "PlainText": "امروز چو گل شکفته باشیم همه\r\nفردا در گل نهفته باشیم همه\r\nبس نرگس این باغ که هر روز از خواب\r\nبیدار شود که خفته باشیم همه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز چو گل شکفته باشیم همه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا در گل نهفته باشیم همه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس نرگس این باغ که هر روز از خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیدار شود که خفته باشیم همه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز چو گل شکفته باشیم همه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فردا در گل نهفته باشیم همه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس نرگس این باغ که هر روز از خواب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیدار شود که خفته باشیم همه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 112355,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/sahab/divan/robaee/sh31",
+  "RhymeLetters": "ابم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از تاثیر خواب و بیداری بر زندگی‌اش سخن می‌گوید. او از اینکه خوابش ربوده شده و تحت‌تاثیر آن، دلش به تابی آرام و روشن از دوستانش دچار شده، می‌گوید. همچنین به بخت بد خود اشاره می‌کند که گاهی او را از خواب بیدار می‌کند در حالی که در عالم خواب زندگی می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابم",
+      "PlainText": "وقتی که ربود خواب و از دل تابم\r\nشد کلبه منور از رخ احبابم\r\nاین هم اثر بخت بد من که زخواب\r\nبیدار گهی شود که من در خوابم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتی که ربود خواب و از دل تابم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد کلبه منور از رخ احبابم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین هم اثر بخت بد من که زخواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیدار گهی شود که من در خوابم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقتی که ربود خواب و از دل تابم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد کلبه منور از رخ احبابم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این هم اثر بخت بد من که زخواب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیدار گهی شود که من در خوابم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

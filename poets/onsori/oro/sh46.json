@@ -1,0 +1,58 @@
+{
+  "Id": 68896,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/onsori/oro/sh46",
+  "RhymeLetters": "ارم",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این بیت بیانگر عشق عمیق و احساس عاطفی شاعر نسبت به معشوق است. شاعر می‌گوید که چهره محبوبش همیشه در نظرش است و او به خاطر زیبایی و دلربایی‌اش، چشمانش را پر از اشک کرده است. او می‌خواهد به هر طریقی صورت محبوبش را از دل خود بیرون کند، اما در عین حال نمی‌تواند از عشق و تصویر آن دلبر فارغ شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارم",
+      "PlainText": "من صورت تو به دیده اندر دارم\r\nکز دیده همی به رخ برش بنگارم\r\nچندان صنما ز دیدگان خون بارم\r\nتا صورت تو ز دیده بیرون آرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن صورت تو به دیده اندر دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز دیده همی به رخ برش بنگارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان صنما ز دیدگان خون بارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا صورت تو ز دیده بیرون آرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من صورت تو به دیده اندر دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز دیده همی به رخ برش بنگارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چندان صنما ز دیدگان خون بارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا صورت تو ز دیده بیرون آرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 94180,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۴۱۴",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۴۱۴",
+  "FullUrl": "/ebneyamin/divan/robaee/sh414",
+  "RhymeLetters": "وش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، دهقان به بچه‌ای می‌گوید که نوشیدن می‌حلال است و او نباید نگران باشد. بچه اعتراض می‌کند که نوشیدن می حرام است، اما دهقان تأکید می‌کند که انگور را خود از باغش چیده و می‌نوشد، پس نباید نگرانی داشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وش",
+      "PlainText": "دهقان بچه یی داد می نابم دوش\r\nگفتم که حرام باشد این گفت خموش\r\nمن از رز خویش چیده ام انگورش\r\nتشویش مکن می حلالست بنوش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهقان بچه ئی داد می نابم دوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم که حرام باشد این گفت خموش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از رز خویش چیده ام انگورش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتشویش مکن می حلالست بنوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دهقان بچه ئی داد می نابم دوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم که حرام باشد این گفت خموش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من از رز خویش چیده ام انگورش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تشویش مکن می حلالست بنوش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

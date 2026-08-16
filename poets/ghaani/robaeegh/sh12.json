@@ -1,0 +1,58 @@
+{
+  "Id": 45825,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۱۲",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۱۲",
+  "FullUrl": "/ghaani/robaeegh/sh12",
+  "RhymeLetters": "یشکنند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به تمجید از درویشان و سادگی زندگی آن‌ها می‌پردازد. او بیان می‌کند که برخی افراد یک عمر تلاش می‌کنند تا به لذت‌های زندگی دست یابند، اما درویش‌ها با کمترین امکانات و با یک لقمه، از زندگی نهایت بهره را می‌برند و به شادی و عیش می‌رسند. شاعر به همت و سادگی درویشان احترام می‌گذارد و آن را ارزشمند می‌شمارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشکنند",
+      "PlainText": "یک عمر شهان تربیت جیش کنند\r\nتا نیم نفس عیش به صد طیش کنند\r\nنازم به جهان همت درویشان را\r\nکایشان به یکی لقمه دوصد عیش کنند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک عمر شهان تربیت جیش کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نیم نفس عیش به صد طیش کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازم به جهان همت درویشان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکایشان به یکی لقمه دوصد عیش کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک عمر شهان تربیت جیش کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا نیم نفس عیش به صد طیش کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نازم به جهان همت درویشان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کایشان به یکی لقمه دوصد عیش کنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

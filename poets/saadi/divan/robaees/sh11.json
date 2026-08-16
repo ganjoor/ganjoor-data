@@ -1,0 +1,58 @@
+{
+  "Id": 10072,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۱",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۱",
+  "FullUrl": "/saadi/divan/robaees/sh11",
+  "RhymeLetters": "ویازماست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت به این موضوع اشاره دارد که اگر مشکلات و نارضایتی‌های مردم ناشی از رفتار ما باشد، یا اگر چهره‌ی نگران‌کننده مانند ترشی از ماست، ممکن است که در آینده همه چیز تغییر کند و چهره‌ای زنده و خوشحال پیدا کند. در این صورت، ما هم باید از این وضعیت خارج شویم. این به نوعی نشان‌دهنده‌ی تغییر و تحول در روابط انسانی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویازماست",
+      "PlainText": "گر زحمت مردمان این کوی از ماست\r\nیا جرم ترش بودن آن روی از ماست\r\nفردا متغیر شود آن روی چو شیر\r\nما نیز برون شویم چون موی از ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زحمت مردمان این کوی از ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا جرم ترش بودن آن روی از ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا متغیر شود آن روی چو شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما نیز برون شویم چون موی از ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر زحمت مردمان این کوی از ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا جرم ترش بودن آن روی از ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فردا متغیر شود آن روی چو شیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما نیز برون شویم چون موی از ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

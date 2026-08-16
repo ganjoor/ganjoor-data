@@ -1,0 +1,58 @@
+{
+  "Id": 45749,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۸۷",
+  "FullUrl": "/ghaani/ghetegh/sh87",
+  "RhymeLetters": "اک",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات خود را به عنوان فردی بی‌پروا و عیاش معرفی می‌کند که از هیچ‌چیز در دنیا نگران نیست. او به این حقیقت اشاره می‌کند که اگر وضعیت زندگی به این شکل باشد، بهتر است بر روی هر دو عالم خاک بزند و بدون هیچ دغدغه‌ای زندگی کند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اک",
+      "PlainText": "من همان رند و مست و بیباکم\r\nکه ندارم ز هر دو عالم باک\r\nراستی را دو عالم ار اینست\r\nباد بر فرق هر دو عالم خاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن همان رند و مست و بیباکم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ندارم ز هر دو عالم باک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراستی را دو عالم ار اینست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد بر فرق هر دو عالم خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من همان رند و مست و بیباکم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که ندارم ز هر دو عالم باک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راستی را دو عالم ار اینست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باد بر فرق هر دو عالم خاک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

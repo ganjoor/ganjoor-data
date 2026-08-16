@@ -1,0 +1,58 @@
+{
+  "Id": 48726,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۷",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۷",
+  "FullUrl": "/orfi/robaeeor/sh7",
+  "RhymeLetters": "اب",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان احساس و دردی عمیق اشاره دارد. ناله‌ای که به شکل کباب در آتش می‌سوزد و گریه‌ای که مانند شراب در شیشه جا دارد، نشان‌دهنده‌ی عواطف و رنج‌های عمیق است. همچنین، وجود مرغی که از آتش در آسمان می‌افتد و مستی که به دنبال شراب خمر است، به حس ناامیدی و جستجو برای رهایی و لذت اشاره می‌کند. این شعر به نوعی نمایان‌گر تضاد بین درد و لذت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "این ناله که در آتش خویش است کباب\r\nاین گریه که در شیشه خم کرده شراب\r\nمرغی است که آتش از هوا می گیرد\r\nمستی است که از خمار جوید می ناب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین ناله که در آتش خویش است کباب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین گریه که در شیشهٔ خم کرده شراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغی است که آتش از هوا می گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمستی است که از خمار جوید می ناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این ناله که در آتش خویش است کباب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این گریه که در شیشهٔ خم کرده شراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرغی است که آتش از هوا می گیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مستی است که از خمار جوید می ناب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

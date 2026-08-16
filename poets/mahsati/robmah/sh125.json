@@ -1,0 +1,58 @@
+{
+  "Id": 50185,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۲۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۲۵",
+  "FullUrl": "/mahsati/robmah/sh125",
+  "RhymeLetters": "رمیکردم",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عواطف و احساسات خود نسبت به شتر و سفر صحبت می‌کند. او می‌گوید هر زمانی که برای شتر ناله و فریاد می‌زده، در عوض، عشق و محبت خود را نثار او می‌کرده و همچنین وقتی کاروان به چاهی می‌رسیده و آب نداشته، او از چشمانش اشک می‌ریخته که نشان از نگرانی و احساسش نسبت به وضعیت سفر و نبود آب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمیکردم",
+      "PlainText": "هر ناله که بر سر شتر می کردم\r\nدر پای شتر نثار در می کردم\r\nهر چاه که کاروان تهی کرد ز آب\r\nمن باز به آب دیده پر می کردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر ناله که بر سر شتر می‌کردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پای شتر نثار دُر می‌کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چاه که کاروان تهی کرد ز آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن باز به آب دیده پر می‌کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر ناله که بر سر شتر می‌کردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پای شتر نثار دُر می‌کردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چاه که کاروان تهی کرد ز آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من باز به آب دیده پر می‌کردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

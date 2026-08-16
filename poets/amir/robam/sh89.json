@@ -1,0 +1,58 @@
+{
+  "Id": 70132,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/amir/robam/sh89",
+  "RhymeLetters": "وشمبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، به زیبایی و نورانی بودن چشمان شخصی اشاره شده که باعث می‌شود چشم بد از او دور بماند. همچنین، به شهریاری و قدرت او اشاره می‌شود که ملک و سپاه و خزانه نیز تحت سلطه او هستند و او را به عنوان یک رهبر بزرگ توصیف می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وربود",
+      "PlainText": "تا چند دل تو چشمه نور بود\r\nزان چشمه نور چشم بد دور بود\r\nملک و سپه و خزینه معمور بود\r\nآن خسرو را که چون تو دستور بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند دل تو چشمهٔ نور بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان چشمهٔ نور چشم بد دور بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک و سپه و خزینه معمور بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن خسرو را که چون تو دستور بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند دل تو چشمهٔ نور بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان چشمهٔ نور چشم بد دور بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ملک و سپه و خزینه معمور بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن خسرو را که چون تو دستور بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

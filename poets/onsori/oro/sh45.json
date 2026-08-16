@@ -1,0 +1,58 @@
+{
+  "Id": 68895,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/onsori/oro/sh45",
+  "RhymeLetters": "م",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر با شخصی صحبت می‌کند و از او می‌پرسد که نامش چیست. شخص پاسخ می‌دهد که نامش «غم» است. شاعر سپس از او می‌پرسد که چقدر عاشق است و او جواب می‌دهد که عشقش کم است. شاعر از او می‌پرسد که آیا او را به‌طور کامل به خود وابسته کرده است، و او پاسخ می‌دهد که بدی کرده است. در انتها، شاعر از او می‌پرسد که شغلش چیست و او می‌گوید که شغلش ستمگری است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "گفتم که چه نامی ای پسر گفتا غم\r\nگفتم نگری به عاشقان گفتا کم\r\nگفتم به چه بسته ای مرا گفت به دم\r\nگفتم چه بود پیشه تو گفت ستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که چه نامی ای پسر؟ گفتا: غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم: نگری به عاشقان؟ گفتا: کم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: به چه بسته‌ای مرا؟ گفت: به دَم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم: چه بُوَد پیشهٔ تو؟ گفت: ستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که چه نامی ای پسر؟ گفتا: غم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم: نگری به عاشقان؟ گفتا: کم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم: به چه بسته‌ای مرا؟ گفت: به دَم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم: چه بُوَد پیشهٔ تو؟ گفت: ستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

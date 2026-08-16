@@ -1,0 +1,58 @@
+{
+  "Id": 1212,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹۴",
+  "FullUrl": "/khayyam/robaee/sh94",
+  "RhymeLetters": "منماند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به موضوع امید و دوستی اشاره می‌کند. او می‌گوید که اگر چه در absence از همدیگر، زندگی و امید همچنان وجود دارد، اما اهمیت دوستی را یادآوری می‌کند. او همچنین به این نکته اشاره می‌کند که بهتر است با دوستان خود شادی و ثروت را تقسیم کنیم، وگرنه دچار مشکلاتی با دشمنان خواهیم شد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منماند",
+      "PlainText": "هم دانه امید به خرمن ماند\r\nهم باغ و سرای بی تو و من ماند\r\nسیم و زر خویش از درمی تا به جوی\r\nبا دوست بخور گرنه به دشمن ماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم دانهٔ امید به خرمن ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم باغ و سرای بی تو و من ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیم و زر خویش از درمی تا به جوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دوست بخور گرنه به دشمن ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هم دانهٔ امید به خرمن ماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم باغ و سرای بی تو و من ماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سیم و زر خویش از درمی تا به جوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با دوست بخور گرنه به دشمن ماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119563,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/neshat/divan/robaee/sh29",
+  "RhymeLetters": "امنخوشتر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به این معناست که اگر عشق و دوستی به او (محبوب) در دل نباشد، حتی خوب‌ترین قدم‌ها و مسیرها نیز بی‌مفهوم و ناپسند خواهند بود. اینجا تأکید بر این است که هر پیوند و حرکتی که به سوی محبوب نباشد، در واقع بی‌فایده و گم شده است. در نهایت، بر اهمیت عشق و جهت‌گیری به سوی محبوب تأکید می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امنخوشتر",
+      "PlainText": "سر گر نه بپای اوست بی تن خوشتر\r\nپا گر نه براه او بدامن خوشتر\r\nآن ره که نه سوی اوست گمگشته نکوست\r\nآن سوی که نه بکوی اوست بی من خوشتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر گر نه بپای اوست بی تن خوشتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپا گر نه براه او بدامن خوشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ره که نه سوی اوست گمگشته نکوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن سوی که نه بکوی اوست بی من خوشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سر گر نه بپای اوست بی تن خوشتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پا گر نه براه او بدامن خوشتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن ره که نه سوی اوست گمگشته نکوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن سوی که نه بکوی اوست بی من خوشتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82958,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/hazin/robaee-hz/sh70",
+  "RhymeLetters": "وربهاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات از شاعر به بیان ویژگی‌های عشق و حقیقت وجود می‌پردازند. شاعر می‌گوید که هر چند حسن و عشق پنهان هستند، اما نشانه‌هایی از نیاز و زیبایی آن‌ها شناخته‌شده است. همچنین اشاره می‌کند که هر کسی که در دل خود درد و عشق ندارد، مانند سنگی است که در قبر نهاده شده است. از طرفی، لب‌هایی که از عشق ناله نمی‌کنند، به مرگ نزدیک‌ترند. به طور کلی، این ابیات بر اهمیت عشق و احساسات عمیق تأکید دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وربهاست",
+      "PlainText": "هرحند که حسن و عشق مستور به است\r\nآیات نیاز و ناز مشهور به است\r\nهر سینه که داغ نیست خشت لحد است\r\nزان لب که ننالید لب گور به است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرحند که حسن و عشق، مستور به است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیات نیاز و ناز، مشهور به است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر سینه که داغ نیست، خشت لحد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان لب که ننالید، لب گور به است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرحند که حسن و عشق، مستور به است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیات نیاز و ناز، مشهور به است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر سینه که داغ نیست، خشت لحد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان لب که ننالید، لب گور به است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

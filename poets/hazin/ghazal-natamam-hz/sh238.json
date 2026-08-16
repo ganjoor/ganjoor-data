@@ -1,0 +1,58 @@
+{
+  "Id": 83399,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۳۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۳۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh238",
+  "RhymeLetters": "ابیکهمپرس",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت بهار اشاره می‌کند که با دلربایی خود در روزگار عذر و توبه، حس و حال خاصی را به وجود آورده است. او به شوق و شگفتی بهار پرداخته و در عین حال از حالتی دل‌نواز و مدهوش‌کننده صحبت می‌کند، به‌طوری‌که نمی‌تواند از زیبایی‌هایش چشم‌پوشی کند.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارامروز",
+      "PlainText": "ز خط شده ست عذارش بنفشه زار امروز\r\nکرشمه عجبی می کند بهار امروز\r\nگرفته ام به سخن لعل می چکانش را\r\nبه خون توبه چرا نشکنم خمار امروز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خط شده ست عذارش بنفشه زار امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرشمهٔ عجبی می کند بهار امروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرفته ام به سخن لعل می چکانش را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خون توبه چرا نشکنم خمار امروز؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز خط شده ست عذارش بنفشه زار امروز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کرشمهٔ عجبی می کند بهار امروز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرفته ام به سخن لعل می چکانش را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به خون توبه چرا نشکنم خمار امروز؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

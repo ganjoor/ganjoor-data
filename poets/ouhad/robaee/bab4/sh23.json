@@ -1,0 +1,58 @@
+{
+  "Id": 98022,
+  "CatId": 2503,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » الباب الرابع: فی الطهارة و تهذیب النفس و معارفها و ما یلیق بها عن ترک الشهوات » شمارهٔ ۲۳",
+  "FullUrl": "/ouhad/robaee/bab4/sh23",
+  "RhymeLetters": "دنیکی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به این نکته اشاره دارد که خودپسندی و خودبینی ارزشی ندارد و حتی دانستن عیب‌های خود بهتر از صد نیکی است. شاعر به این موضوع اعتراف می‌کند که او به بدی‌های خود آگاه است، در حالی که دیگران به خوبی‌های خود مغرورند. او خود را نیک می‌داند اما به این نتیجه می‌رسد که این نیکی‌ها ممکن است در برابر بدی‌ها چندان ارزشمند نباشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دنیکی",
+      "PlainText": "با خود بینی خاک نیرزد نیکی\r\nدانستن بد به خود به از صد نیکی\r\nمن معترفم به بد تو مغرور به نیک\r\nمن نیک بدم ولیک تو بد نیکی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا خود بینی خاک نیرزد نیکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانستن بد به خود به از صد نیکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن معترفم به بد تو مغرور به نیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن نیک بدم ولیک تو بد نیکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با خود بینی خاک نیرزد نیکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانستن بد به خود به از صد نیکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من معترفم به بد تو مغرور به نیک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من نیک بدم ولیک تو بد نیکی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

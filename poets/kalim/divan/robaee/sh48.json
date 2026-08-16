@@ -1,0 +1,58 @@
+{
+  "Id": 90759,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/kalim/divan/robaee/sh48",
+  "RhymeLetters": "ابشوی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت‌ها به وضعیت دشوار و بی‌آبی اشاره می‌کند. او می‌پرسد که چرا در این شرایط سخت و بدون آب، باید بی‌تاب و ناراحت باشی. همچنین به این نکته می‌پردازد که در حالی که پای تو زخمی شده، باز هم نتوانسته‌ای سیراب و راضی شوی. در کل، بیت‌ها حالتی از دلتنگی و ناکامی را نشان می‌دهند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابشوی",
+      "PlainText": "در بادیه گر دو گام بی آب شوی\r\nبیدرد چرا اینهمه بیتاب شوی\r\nاز آبله پای تو یکره خاری\r\nسیراب نشد چرا تو سیراب شوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بادیه گر دو گام بی آب شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیدرد چرا اینهمه بیتاب شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آبله پای تو یکره خاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیراب نشد چرا تو سیراب شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بادیه گر دو گام بی آب شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیدرد چرا اینهمه بیتاب شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آبله پای تو یکره خاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیراب نشد چرا تو سیراب شوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

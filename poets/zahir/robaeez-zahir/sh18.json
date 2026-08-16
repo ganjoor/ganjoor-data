@@ -1,0 +1,58 @@
+{
+  "Id": 73610,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/zahir/robaeez-zahir/sh18",
+  "RhymeLetters": "یست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به عمق احساسات عاشقانه اشاره دارد. شاعر می‌گوید اگر محبوبش بداند که در دل او چه می‌گذرد و چه کسی را در دل دارد، شاید دیگر نیازی به پنهان‌کاری نمی‌بود. او از رنج و درد دل سخن می‌گوید و اینکه باید به خواسته‌های دل توجه شود و در کنار محبوب زندگی کرد. به طور کلی، شعر بر اهمیت درک احساسات و زندگی مشترک تأکید می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یست",
+      "PlainText": "گر یار بداندی کم اندر دل چیست\r\nیا گفت بیارمی که دلدارم کیست\r\nبودی که به درد دل نبایستی مرد\r\nبودی که به کام دل بشایستی زیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر یار بداندی کِم اندر دل چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا گفت بیارمی که دلدارم کیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبودی که به درد دل نبایستی مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبودی که به کام دل بشایستی زیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر یار بداندی کِم اندر دل چیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا گفت بیارمی که دلدارم کیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بودی که به درد دل نبایستی مرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بودی که به کام دل بشایستی زیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

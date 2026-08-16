@@ -1,0 +1,58 @@
+{
+  "Id": 97089,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/faghani/divan/robaee/sh17",
+  "RhymeLetters": "اران",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف لذت و شادی ناشی از میگساری و عشق می‌پردازد. فردوس یا بهشت پاداش عمل افرادی است که هشیار و با درک هستند. در آنجا، زیبایی‌های دوستان و عشق‌های آتشین نیز قابل مشاهده است. در کل، شعر فضای شاداب و عاشقانه‌ای را ترسیم می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اران",
+      "PlainText": "جام می و بزم عشرت از میخواران\r\nفردوس جزای عمل هشیاران\r\nنظاره ی سرو و ارغوان از یاران\r\nعشاق و خیال آتشین رخساران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجام می و بزم عشرت از میخواران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردوس جزای عمل هشیاران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظاره ی سرو و ارغوان از یاران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشاق و خیال آتشین رخساران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جام می و بزم عشرت از میخواران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فردوس جزای عمل هشیاران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نظاره ی سرو و ارغوان از یاران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشاق و خیال آتشین رخساران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

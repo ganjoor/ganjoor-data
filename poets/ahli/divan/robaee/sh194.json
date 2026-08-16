@@ -1,0 +1,58 @@
+{
+  "Id": 105000,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۱۹۴",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۱۹۴",
+  "FullUrl": "/ahli/divan/robaee/sh194",
+  "RhymeLetters": "رمیسوزد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این اشعار می‌گوید که عشق به زیبایی و هنر نیاز ندارد و با یک نگاه می‌تواند همه چیز را تحت تأثیر قرار دهد. عقل مانند آب روان است که به دنبال چیزهای خوشایند می‌گردد، اما عشق مانند آتشی است که همه چیز را، چه تر و چه خشک، می‌سوزاند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمیسوزد",
+      "PlainText": "عشق ار پی زینت و هنر میسوزد  کذا \r\nعشق آنهمه را بیک نظر میسوزد\r\nعقل آب روان و در پی سبزه باغ\r\nعشق آتش محض خشک و تر میسوزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق ار پی زینت و هنر میسوزد « کذا »\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق آنهمه را بیک نظر میسوزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل آب روان و در پی سبزه باغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق آتش محض خشک و تر میسوزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق ار پی زینت و هنر میسوزد « کذا »",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشق آنهمه را بیک نظر میسوزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عقل آب روان و در پی سبزه باغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشق آتش محض خشک و تر میسوزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

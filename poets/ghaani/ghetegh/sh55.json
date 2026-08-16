@@ -1,0 +1,58 @@
+{
+  "Id": 45695,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۵۵",
+  "FullUrl": "/ghaani/ghetegh/sh55",
+  "RhymeLetters": "رمنبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که فردی که دارای نیک‌نیا و کرم (خوبی و بخشندگی) است، حتی اگر پول و ثروت نداشته باشد، بهتر از فردی است که دارای مال و ثروت است اما فاقد اخلاق و بخشندگی است. به عبارت دیگر، ارزش انسان به خوبی‌های درونی اوست نه به دارایی‌های مادی‌اش.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمنبود",
+      "PlainText": "چه غم از بینوایی آن کس را\r\nکه کرم باشد و درم نبود\r\nکرم بی درم از آن بهتر\r\nکه درم باشد و کرم نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه غم از بینوایی آن کس را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کَرَم باشد و درم نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرم بی‌درم از آن بهتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دِرم باشد و کَرَم نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه غم از بینوایی آن کس را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که کَرَم باشد و درم نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کرم بی‌درم از آن بهتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دِرم باشد و کَرَم نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

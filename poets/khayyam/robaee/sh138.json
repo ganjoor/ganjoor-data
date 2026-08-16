@@ -1,0 +1,58 @@
+{
+  "Id": 1256,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۳۸",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۳۸",
+  "FullUrl": "/khayyam/robaee/sh138",
+  "RhymeLetters": "ران",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این چهارخطی به مخاطب می‌گوید که از غم و اندوه دنیا بپرهیزد و به جای آن لحظاتی را به شادمانی بگذراند. او همچنین اشاره می‌کند که اگر دنیا وفادار و پایدار بود، نوبت شادی و خوشی به او نمی‌رسید و باید از دیگران انتظار نداشت. در واقع، به نوعی به پذیرش و لذت بردن از زندگی دعوت می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ران",
+      "PlainText": "برخیز و مخور غم جهان گذران\r\nبنشین و دمی به شادمانی گذران\r\nدر طبع جهان اگر وفایی بودی\r\nنوبت به تو خود نیامدی از دگران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخیز و مخور غم جهان گذران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنشین و دمی به شادمانی گذران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر طبع جهان اگر وفایی بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوبت به تو خود نیامدی از دگران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برخیز و مخور غم جهان گذران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنشین و دمی به شادمانی گذران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در طبع جهان اگر وفایی بودی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نوبت به تو خود نیامدی از دگران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 77839,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/homam/robaeeho/sh21",
+  "RhymeLetters": "یناست",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و شیرینی نکته‌ای که درون شخص وجود دارد اشاره دارد. با وجود اینکه ظاهراً ممکن است شخص احساس ناخوشایندی داشته باشد (ترشی)، اما نکته‌ای که بیان می‌کند بسیار ارزشمند و شایسته تحسین است. شاعر در پایان به این معنا می‌رسد که درون این ظاهری که شاید زشت به نظر برسد، حقیقتی روشن و ارزشمند نهفته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یناست",
+      "PlainText": "ترشی تو ولیک نکته ات شیرین است\r\nیک نکته تو لایق صد تحسین است\r\nچون نکته شنیدم از دهانت گفتم\r\nدری که ز کون خر بیفتد این است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترشی تو ولیک نکته‌ات شیرین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک نکته تو لایق صد تحسین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نکته شنیدم از دهانت گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرّی که ز کون خر بیفتد این است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترشی تو ولیک نکته‌ات شیرین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک نکته تو لایق صد تحسین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نکته شنیدم از دهانت گفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درّی که ز کون خر بیفتد این است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Id": 125580,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۴۴",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۴۴",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh45",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از محبوب خود می‌خواهد که با لبخند و محبتش، عشق او را افزایش دهد و دلش را بیشتر به خود جلب کند. او از اینکه محبوبش کسی چون او را در دام خود دارد، شکرگزاری می‌کند و از او می‌خواهد که دیگران را هم از قید و بند رها کند.",
+  "Sections": [
+    {
+      "Index": 66,
+      "Number": 66,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ونکن",
+      "PlainText": "جانا به من ارجو کنی افزون کن\r\nزین بیش مرا به عشق خود مفتون کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانا به من ارجو کنی افزون کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین بیش مرا به عشق خود مفتون کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 67,
+      "Number": 67,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "شکرانه اینکه چون منی در دامت\r\nمرغان دیگر را ز قفس بیرون کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکرانه اینکه چون منی در دامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغان دیگر را ز قفس بیرون کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 119,
+      "Number": 119,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونکن",
+      "PlainText": "جانا به من ارجو کنی افزون کن\r\nزین بیش مرا به عشق خود مفتون کن\r\nشکرانه اینکه چون منی در دامت\r\nمرغان دیگر را ز قفس بیرون کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانا به من ارجو کنی افزون کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین بیش مرا به عشق خود مفتون کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکرانه اینکه چون منی در دامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغان دیگر را ز قفس بیرون کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانا به من ارجو کنی افزون کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 119,
+      "SectionIndex2": 66
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین بیش مرا به عشق خود مفتون کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 119,
+      "SectionIndex2": 66
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکرانه اینکه چون منی در دامت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 119,
+      "SectionIndex2": 67
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرغان دیگر را ز قفس بیرون کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 119,
+      "SectionIndex2": 67
+    }
+  ]
+}

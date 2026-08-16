@@ -1,0 +1,58 @@
+{
+  "Id": 77858,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/homam/robaeeho/sh40",
+  "RhymeLetters": "اند",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: شاعر به بیان احساسی عمیق از عشق و غم ناشی از آن می‌پردازد. او می‌گوید همه از غم عشقی که دارد باخبرند، اما او هیچگاه راز عشق خود را فاش نکرده است. در پایان، اشاره می‌کند که اشک‌های او به مانند آب، درد و غم او را به نمایش می‌گذارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اند",
+      "PlainText": "گفتی غم عشقت همه کس می داند\r\nاین راز گشاده ای بدان می ماند\r\nما راز ترا فاش نکردیم ولی\r\nاشک است که چون آب فرو می خواند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی غم عشقت همه کس می‌داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین راز گشاده‌ای بدان می‌ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما راز ترا فاش نکردیم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاشک است که چون آب فرو می‌خواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتی غم عشقت همه کس می‌داند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این راز گشاده‌ای بدان می‌ماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما راز ترا فاش نکردیم ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اشک است که چون آب فرو می‌خواند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

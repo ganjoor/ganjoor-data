@@ -1,0 +1,58 @@
+{
+  "Id": 73596,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/zahir/robaeez-zahir/sh4",
+  "RhymeLetters": "یخت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به ناتوانی از فرار از سختی‌ها و ظلم زندگی اشاره می‌کند. او می‌گوید که نمی‌توان از زحمت و بی‌رحمی روزگار فرار کرد و عقل نیز از درک این رنج‌ها عاجز است. تصویر \u0022طاس نگون\u0022 به این معناست که مانند سطلی که آب را بر سر مردم می‌ریزد، مشکلات زندگی به همگان فرود می‌آید و هیچ راهی برای گریز از آن‌ها وجود ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یخت",
+      "PlainText": "نتوان ز جفای چرخ گردنده گریخت\r\nدست ستمش به عقل بر نتوان بیخت\r\nآن طاس نگون به گردن آویخته باد\r\nچون سطل که آب روی مردم همه ریخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنتوان ز جفای چرخ گردنده گریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست ستمش به عقل بر نتوان بیخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن طاس نگون به گردن آویخته باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سطل که آب روی مردم همه ریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نتوان ز جفای چرخ گردنده گریخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست ستمش به عقل بر نتوان بیخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن طاس نگون به گردن آویخته باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون سطل که آب روی مردم همه ریخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

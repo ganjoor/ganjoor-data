@@ -1,0 +1,58 @@
+{
+  "Id": 12837,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۱۰۲",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۰۲",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh102",
+  "RhymeLetters": "ویت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشق و زیبایی است که شاعر به آن اشاره می‌کند. او به معشوقه‌اش می‌گوید که آتش عشق او در دلش را نمی‌تواند به کسی نشان دهد و از او می‌خواهد که زیبایی‌اش را پنهان کند. زیرا دیدن آن زیبایی برای او سخت و دشوار است. شاعر احساس می‌کند که عشقش خاص و خصوصی است و نمی‌خواهد کسی به آن‌ها فضولی کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویت",
+      "PlainText": "آتش در زن ز کبریا در کویت\r\nتا ره نبرد هیچ فضولی سویت\r\nآن روی نکو ز ما بپوش از مویت\r\nزیرا که به ما دریغ باشد رویت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش در زن ز کبریا در کویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ره نبرد هیچ فضولی سویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روی نکو ز ما بپوش از مویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که به ما دریغ باشد رویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتش در زن ز کبریا در کویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا ره نبرد هیچ فضولی سویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن روی نکو ز ما بپوش از مویت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیرا که به ما دریغ باشد رویت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 76499,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/khojandi/robkk/sh21",
+  "RhymeLetters": "اننازک",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و لطافت محبوبی اشاره دارد و از او خواسته می‌شود که قیماغ (شیرینجات) و نان نازک بیاورد. تشبیه‌هایی نیز به لطافت و شیرینی چهره محبوب و لبان او شده است. در کل، مضمون شعر بر حس زیبایی و لذت از طعم و ظرافت تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننازک",
+      "PlainText": "ای یار لطیف دلستان نازک\r\nقیماغ و عسل بیار و نان نازک\r\nقیماغ ز لطف عارض همچو شیر\r\nنان و عسل از لب و دهان نازک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای یار لطیف دلستان نازک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقیماغ و عسل بیار و نان نازک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقیماغ ز لطف عارض همچو شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنان و عسل از لب و دهان نازک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای یار لطیف دلستان نازک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قیماغ و عسل بیار و نان نازک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قیماغ ز لطف عارض همچو شیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نان و عسل از لب و دهان نازک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

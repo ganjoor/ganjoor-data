@@ -1,0 +1,58 @@
+{
+  "Id": 97202,
+  "CatId": 2494,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "امامی هروی » دیوان اشعار » مقطعات » شمارهٔ ۳",
+  "FullUrl": "/emami/divan/ghete/sh3",
+  "RhymeLetters": "امینیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بخش بیان می‌کند که بدون خواست خدا، هیچ چیزی وجود ندارد و حتی بهترین موجودات نیز تحت اراده او هستند. با وجود اینکه بندگان زیادی وجود دارند، تنها امام به عنوان بنده خاص خدا شناخته می‌شود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امینیست",
+      "PlainText": "بخدایی که بی ارادت او\r\nسرورا برگ خوش خرامی نیست\r\nکه ترا گرچه بنده بسیارند\r\nبنده ی خاص جز امامی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخدائی که بی ارادت او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرورا برگ خوش خرامی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه ترا گرچه بنده بسیارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنده ی خاص جز امامی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بخدائی که بی ارادت او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرورا برگ خوش خرامی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "که ترا گرچه بنده بسیارند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنده ی خاص جز امامی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

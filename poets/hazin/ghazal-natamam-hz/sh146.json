@@ -1,0 +1,58 @@
+{
+  "Id": 83307,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۴۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۴۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh146",
+  "RhymeLetters": "انهمیسازد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات و وضعیت معنوی شاعر اشاره دارد. شاعر به تقلید از شراب لذیذ و خوشمزه صحبت می‌کند و می‌گوید که به او چه ارتباطی دارد. همچنین از خضر، نماد زندگی و جوانی، نام می‌برد و نشان می‌دهد که حال او بر اثر خون‌گرفتن، متفاوت است. در پایان، از تن نحیف و ناتوانی خود در برابر این وضعیت ناخوشایند صحبت می‌کند و می‌پرسد از این حال چگونه می‌تواند رهایی یابد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اچهرسد",
+      "PlainText": "شراب لعلی آن نوش لب به ما چه رسد\r\nز آب خضر به ما خون گرفته ها چه رسد\r\nچو نی فتاده مرا همدمی به دم سردان\r\nتن نحیف مرا تا ازین هوا چه رسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشراب لعلی آن نوش لب، به ما چه رسد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آب خضر، به ما خون گرفته ها چه رسد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو نی فتاده مرا همدمی، به دم سردان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن نحیف مرا تا ازین هوا چه رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شراب لعلی آن نوش لب، به ما چه رسد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز آب خضر، به ما خون گرفته ها چه رسد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو نی فتاده مرا همدمی، به دم سردان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تن نحیف مرا تا ازین هوا چه رسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

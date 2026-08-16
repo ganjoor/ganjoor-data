@@ -1,0 +1,58 @@
+{
+  "Id": 45738,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۷۶",
+  "FullUrl": "/ghaani/ghetegh/sh76",
+  "RhymeLetters": "س",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به مقایسه دو گروه می‌پردازد: عارفان و زاهدان. عارفان به خاطر وجود خداوند و مراقبت از خود، از گناه کردن شرم دارند و همیشه در حضور او هستند. در مقابل، زاهدان به خاطر ترس از عواقب کارهایشان، از لذت‌هایی همچون نوشیدن شراب دوری می‌کنند، زیرا نگران تأثیرات آن بر آینده خود هستند.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "س",
+      "PlainText": "عارفان را شرم امروزست مانع از گناه\r\nکز خدا غایب نمی بینند خود را یک نفس \r\nزاهدان را هست حال باده پیمایی جبان\r\nکاو ننوشد شب شراب از بیم فردای عسس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارفان را شرم امروزست مانع از گناه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز خدا غایب نمی بینند خود را یک‌نفس‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزاهدان را هست حال باده‌پیمایی جبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاو ننوشد شب شراب از بیم‌فردای عسس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عارفان را شرم امروزست مانع از گناه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز خدا غایب نمی بینند خود را یک‌نفس‌",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاهدان را هست حال باده‌پیمایی جبان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاو ننوشد شب شراب از بیم‌فردای عسس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

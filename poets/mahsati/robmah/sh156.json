@@ -1,0 +1,58 @@
+{
+  "Id": 50216,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۵۶",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۵۶",
+  "FullUrl": "/mahsati/robmah/sh156",
+  "RhymeLetters": "ماندغمتو",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت‌ها به غم و اندوهی اشاره می‌کند که مانند ابری است که قطراتش را بر زمین میریزد. این غم او را در حالت حیرت و شگفتی قرار داده و حتی اگر بر آتش او بریزد، باز هم از بین نمی‌رود. در نهایت، او می‌گوید که هرگاه غم او را غمگین کند، همچنان این غم باقی می‌ماند و از بین نمی‌رود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ماندغمتو",
+      "PlainText": "ابریست که قطره نم فشاند غم تو\r\nدر بوالعجبی هم به تو ماند غم تو\r\nهر چند بر آتشم نشاند غم تو\r\nغمناک شوم گرم نماند غم تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابریست که قطره نم فشاند غم تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بوالعجبی هم به تو ماند غم تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند بر آتشم نشاند غم تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغمناک شوم گرم نماند غم تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابریست که قطره نم فشاند غم تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بوالعجبی هم به تو ماند غم تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چند بر آتشم نشاند غم تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غمناک شوم گرم نماند غم تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

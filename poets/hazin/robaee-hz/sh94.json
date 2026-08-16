@@ -1,0 +1,58 @@
+{
+  "Id": 82982,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/hazin/robaee-hz/sh94",
+  "RhymeLetters": "انشود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از درد و غم خود صحبت می‌کند. او می‌گوید که از غم عشقش دلش باز نخواهد شد، اما طرف مقابل در پاسخ می‌گوید که چرا این‌قدر فضولی می‌کند که آیا دلش باز می‌شود یا نه. همچنین اشاره می‌کند که چرا باید از سنگینی دل خود شکایت کند وقتی که غم مربوط به همه است و نباید باری بر دوش دل‌ها باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انشود",
+      "PlainText": "گفتم ز غمت غنچه دل وا نشود\r\nگفتا چه فضولی ست شود یا نشود\r\nبیهوده چه نالی از گرانباری دل\r\nگر غم غم ماست بار دلها نشود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم ز غمت غنچهٔ دل وا نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا چه فضولی ست، شود یا نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیهوده چه نالی از گرانباری دل؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر غم غم ماست، بار دلها نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم ز غمت غنچهٔ دل وا نشود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا چه فضولی ست، شود یا نشود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیهوده چه نالی از گرانباری دل؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر غم غم ماست، بار دلها نشود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

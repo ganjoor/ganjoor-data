@@ -1,0 +1,58 @@
+{
+  "Id": 10640,
+  "CatId": 141,
+  "Title": "رباعی شمارهٔ ۴۱",
+  "FullTitle": "سعدی » مواعظ » رباعیات » رباعی شمارهٔ ۴۱",
+  "FullUrl": "/saadi/mavaez/robaees2/sh41",
+  "RhymeLetters": "ریم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به نوعی گفتگو و ارتباط نزدیک بین دو نفر اشاره دارد. شاعر می‌گوید که اگر ما به یکدیگر نزدیکیم و صمیمی، نباید عیوب هم را بیان کنیم. چون هر دو دارای نقص‌هایی هستیم و اگر یکی عیب دیگری را بگوید، باید خود نیز منتظر باشد که عیب او نیز مطرح شود. این بیان در نهایت بر همدلی و پذیرش عیوب یکدیگر تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریم",
+      "PlainText": "چون ما و شما مقارب یکدگریم\r\nبه زان نبود که پرده هم ندریم\r\nای خواجه تو عیب من مگو تا من نیز\r\nعیب تو نگویم که یک از یک بتریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ما و شما مقارب یکدگریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه زان نبود که پردهٔ هم ندریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه تو عیب من مگو تا من نیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیب تو نگویم که یک از یک بتریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون ما و شما مقارب یکدگریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به زان نبود که پردهٔ هم ندریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خواجه تو عیب من مگو تا من نیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیب تو نگویم که یک از یک بتریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

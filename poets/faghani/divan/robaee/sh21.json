@@ -1,0 +1,58 @@
+{
+  "Id": 97093,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/faghani/divan/robaee/sh21",
+  "RhymeLetters": "تنخورم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از خداوند درخواست می‌کند که او را از حسرت و غفلت دور کند و با نعمت معرفت غنی سازد تا مجبور نشود از نان و نعمت‌های بد و ناچیز دیگران بهره‌مند شود. به عبارتی، او خواهان درک و آگاهی است تا زندگی‌اش تحت تأثیر کمبودها و وابستگی‌های ناچیز قرار نگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تنخورم",
+      "PlainText": "یا رب سببی که آب حسرت نخورم\r\nوز جام هوس شراب غفلت نخورم\r\nاز نعمت معرفت غنی ساز مرا\r\nتا نان خسان بزهر منت نخورم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب سببی که آب حسرت نخورم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز جام هوس شراب غفلت نخورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نعمت معرفت غنی ساز مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نان خسان بزهر منت نخورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب سببی که آب حسرت نخورم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز جام هوس شراب غفلت نخورم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از نعمت معرفت غنی ساز مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا نان خسان بزهر منت نخورم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

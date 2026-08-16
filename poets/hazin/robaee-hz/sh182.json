@@ -1,0 +1,58 @@
+{
+  "Id": 83079,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۸۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۸۲",
+  "FullUrl": "/hazin/robaee-hz/sh182",
+  "RhymeLetters": "اک",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساساتی عمیق و دردناک اشاره دارد. او خود را شبیه به لاله‌ای آتشین در تیره‌گی زندگی می‌داند و از داغ دلش که سینه‌اش را چاک کرده، سخن می‌گوید. او از عشق سخن می‌گوید که او را از خود و آرزوهای غیر جدا کرده و به آرامش رسانده است. در پایان، از عشق تقدیر می‌کند و از او شکرگزاری می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اک",
+      "PlainText": "چون لاله آتشین درین تیره مغاک\r\nپیداست مرا داغ دل از سینه چاک\r\nفارغ ز خود آسوده ز غیرم کردی\r\nای غیرت عشق احسن الله جزاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون لاله آتشین درین تیره مغاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیداست مرا داغ دل از سینهٔ چاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفارغ ز خود، آسوده ز غیرم کردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای غیرت عشق، احسَنَ اللهُ جَزاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون لاله آتشین درین تیره مغاک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیداست مرا داغ دل از سینهٔ چاک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فارغ ز خود، آسوده ز غیرم کردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای غیرت عشق، احسَنَ اللهُ جَزاک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

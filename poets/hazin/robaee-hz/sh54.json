@@ -1,0 +1,58 @@
+{
+  "Id": 82942,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۵۴",
+  "FullUrl": "/hazin/robaee-hz/sh54",
+  "RhymeLetters": "انوقتاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به احوالات انسانی در زمان فراق و جدایی اشاره دارد. شاعر به تیره بودن شب فراق و رسیدن صبح امید اشاره می‌کند. او از درد و رنج دلش می‌گوید که به خاطر ناله‌ها و غم‌هایش دچار زخم شده است. در پایان، از زمزمه‌ی مرغ سحر به‌عنوان نشانه‌ای از شروع یک زمان جدید و امید به بهبودی یاد می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انوقتاست",
+      "PlainText": "ای تیره شب فراق پایان وقت است\r\nای صبح بکش سر از گریبان وقت است\r\nخون شد دل سنگ از اثر ناله ما\r\nای زمزمه مرغ سحر خوان وقت است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تیره شب فراق، پایان وقت است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای صبح بکش سر از گریبان، وقت است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخون شد دل سنگ از اثر نالهٔ ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای زمزمهٔ مرغ سحر خوان، وقت است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تیره شب فراق، پایان وقت است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای صبح بکش سر از گریبان، وقت است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون شد دل سنگ از اثر نالهٔ ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای زمزمهٔ مرغ سحر خوان، وقت است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

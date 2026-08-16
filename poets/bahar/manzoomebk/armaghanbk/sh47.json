@@ -1,0 +1,49 @@
+{
+  "Id": 52041,
+  "CatId": 1849,
+  "Title": "فقرۀ ۴۹",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۴۹",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh47",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت توصیه می‌کند که از خویشاوندان و دوستان وام بگیریم و از بیگانگان دوری کنیم، چرا که وام گرفتن از بیگانگان نادرست است.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "اگر وام  خواهی  ز خویشان  بجاست\r\nز بیگانه وام ار ستانی خطاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر وام ‌خواهی ‌ز خویشان‌ بجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بیگانه وام ار ستانی خطاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "جز از خویشاوندان و دوستان هیچ وام مگیر.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "اگر وام ‌خواهی ‌ز خویشان‌ بجاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "ز بیگانه وام ار ستانی خطاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

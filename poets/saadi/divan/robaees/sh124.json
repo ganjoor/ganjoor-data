@@ -1,0 +1,58 @@
+{
+  "Id": 10185,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۲۴",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۲۴",
+  "FullUrl": "/saadi/divan/robaees/sh124",
+  "RhymeLetters": "امنوتو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت از عشق و خلوت دو نفره صحبت می‌کند. او تصور می‌کند که اگر روزی به دور از شلوغی شهر تنها با هم باشند، آن زمان می‌توانند به واقع خوشحال باشند، زیرا هیچ کس دیگری در آنجا نیست و فقط آنها هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امنوتو",
+      "PlainText": "یک روز به اتفاق صحرا من و تو\r\nاز شهر برون شویم تنها من و تو\r\nدانی که من و تو کی به هم خوش باشیم\r\nآن وقت که کس نباشد الا من و تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک روز به اتفاق صحرا من و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شهر برون شویم تنها من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی که من و تو کی به هم خوش باشیم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن وقت که کس نباشد الا من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک روز به اتفاق صحرا من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شهر برون شویم تنها من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دانی که من و تو کی به هم خوش باشیم؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن وقت که کس نباشد الا من و تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 73638,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/zahir/robaeez-zahir/sh46",
+  "RhymeLetters": "د",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به رابطه‌اش با دل اشاره می‌کند و می‌گوید که دلش باید مانند دلدارش باشد، در خوشی و ناخوشی به یاد او بیفتد. اکنون که از دایره عشق خارج شده، تصمیم دارد او را رها کند تا سرش به دیوار برسد و از او فاصله بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "گفتم که مگر دل نه چو دلدار آید\r\nتا در غم و شادیی مرا یاد آمد\r\nاکنون چو برون نهاد از دایره پای\r\nبگذارم تا سرش به دیوار آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که مگر دل نه چو دلدار آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا در غم و شادیی مرا یاد آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون چو برون نهاد از دایره پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذارم تا سرش به دیوار آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که مگر دل نه چو دلدار آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا در غم و شادیی مرا یاد آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون چو برون نهاد از دایره پای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگذارم تا سرش به دیوار آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

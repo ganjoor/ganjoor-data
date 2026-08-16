@@ -1,0 +1,58 @@
+{
+  "Id": 50812,
+  "CatId": 1827,
+  "Title": "رباعی شمارهٔ ۱۲",
+  "FullTitle": "باباافضل کاشانی » رباعیات » رباعی شمارهٔ ۱۲",
+  "FullUrl": "/babaafzal/robba/sh12",
+  "RhymeLetters": "ست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: شاعر بیان می‌کند که خداوند خلق را از عدم به وجود آورده است و در درگاه او، چه درویش و چه شاه، همه برابرند. در خانهٔ عفو و رحمت خدا، فرقی میان هشیار و مست نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "وی جمله خلق را ز بالا و ز پست\r\nآورده به فضل خویش از نیست به هست\r\nبر درگه عدل تو چه درویش و چه شاه\r\nدر خانه عفو تو چه هشیار و چه مست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوی جملهٔ خلق را ز بالا و ز پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآورده به فضل خویش از نیست به هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر درگه عدل تو چه درویش و چه شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانهٔ عفو تو چه هشیار و چه مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وی جملهٔ خلق را ز بالا و ز پست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آورده به فضل خویش از نیست به هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر درگه عدل تو چه درویش و چه شاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خانهٔ عفو تو چه هشیار و چه مست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

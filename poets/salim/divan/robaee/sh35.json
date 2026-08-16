@@ -1,0 +1,58 @@
+{
+  "Id": 101826,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۵",
+  "FullUrl": "/salim/divan/robaee/sh35",
+  "RhymeLetters": "ازیباد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به شادی و رونق عید اشاره می‌کند و از زیبایی و شکوه آن می‌گوید. او کار و موجودیت فرد را به خورشید که نماد روشنی و سرافرازی است تشبیه می‌کند. همچنین، بزم و شادی‌های این روز را به چرخ و هلال تشبیه می‌کند که مانند کاسه‌ای چینی با نوای دل‌نشین می‌درخشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازیباد",
+      "PlainText": "عید تو همیشه در طرب سازی باد\r\nکار تو چو خورشید سرافرازی باد\r\nدر بزم تو چرخ از سرانگشت هلال\r\nچون کاسه ی چینی به خوش آوازی باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید تو همیشه در طرب سازی باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار تو چو خورشید سرافرازی باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بزم تو چرخ از سرانگشت هلال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون کاسه ی چینی به خوش آوازی باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عید تو همیشه در طرب سازی باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کار تو چو خورشید سرافرازی باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بزم تو چرخ از سرانگشت هلال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون کاسه ی چینی به خوش آوازی باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

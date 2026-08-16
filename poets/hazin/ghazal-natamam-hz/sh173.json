@@ -1,0 +1,58 @@
+{
+  "Id": 83334,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۷۳",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۷۳",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh173",
+  "RhymeLetters": "اکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی آتش بهار و تأثیر آن بر زندگی و عشق شاعر است. شاعر اشاره می‌کند که تنها آتش بهار و می‌تواند زنجیرهای توبه او را بشکند و از دل شکسته‌اش می‌گوید که از کار کرده‌ای ناراحت است. او همچنین به زیبایی زلف معشوق اشاره دارد و خواهان این است که آن را بشکند تا بتواند به آرامش برسد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اراکهبشکند",
+      "PlainText": "جز آتش بهار هوا را که بشکند\r\nجز می طلسم توبه ما را که بشکند\r\nدست و دل شکسته ام از کار برده ای\r\nبر عارض تو زلف دو تا را که بشکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز آتش بهار هوا را که بشکند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز می، طلسم توبهٔ ما را کِه بشکند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست و دل شکسته ام از کار برده ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر عارض تو، زلف دو تا را که بشکند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز آتش بهار هوا را که بشکند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز می، طلسم توبهٔ ما را کِه بشکند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دست و دل شکسته ام از کار برده ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر عارض تو، زلف دو تا را که بشکند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

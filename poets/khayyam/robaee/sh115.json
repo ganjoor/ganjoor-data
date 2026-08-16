@@ -1,0 +1,58 @@
+{
+  "Id": 1233,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۱۵",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۱۵",
+  "FullUrl": "/khayyam/robaee/sh115",
+  "RhymeLetters": "ینمیزندش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعر به توصیف جامی می‌پردازد که با عقل و اندیشه درست ساخته شده و به زیبایی با بوسه‌های مهر مزین شده است. همچنین اشاره به هنرمندی دارد که این جام لطیف را ساخته و دوباره آن را بر زمین می‌زند، شاید به معنای ناپایداری و زودگذری دنیا باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینمیزندش",
+      "PlainText": "جامی است که عقل آفرین می زندش\r\nصد بوسه ز مهر بر جبین می زندش\r\nاین کوزه گر دهر چنین جام لطیف\r\nمی سازد و باز بر زمین می زندش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجامی است که عقل آفرین می‌زندش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد بوسه ز مهر بر جبین می‌زندش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین کوزه‌گر دهر چنین جام لطیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌سازد و باز بر زمین می‌زندش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جامی است که عقل آفرین می‌زندش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد بوسه ز مهر بر جبین می‌زندش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این کوزه‌گر دهر چنین جام لطیف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌سازد و باز بر زمین می‌زندش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 71807,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/kamal/robaeek-kamal/sh70",
+  "RhymeLetters": "ندگیاست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این متن، شاعر از حال و روز خود در روز بارانی صحبت می‌کند. او احساس رنج و پریشانی دارد و نه از لذت‌های دنیا خوشحال است و نه از بندگی. در نهایت، او به این نتیجه می‌رسد که اگر زندگی به این شکل باشد، مرگ چه ارزشی دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندگیاست",
+      "PlainText": "امروز مرا ز چشم بارندگی است\r\nتا شب زدلم رنج و پراکندگی است\r\nنه فسق خوش و نه لذت بندگی است\r\nپس مرگ چه باشد اگر این زندگی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز مرا ز چشم بارندگی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شب زدلم رنج و پراکندگی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه فسق خوش و نه لذت بندگی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس مرگ چه باشد اگر این زندگی است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز مرا ز چشم بارندگی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا شب زدلم رنج و پراکندگی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه فسق خوش و نه لذت بندگی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پس مرگ چه باشد اگر این زندگی است؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

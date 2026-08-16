@@ -1,0 +1,58 @@
+{
+  "Id": 69386,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/azraghi/arob/sh25",
+  "RhymeLetters": "نج",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و حسن یک شخص اشاره می‌کند و حسادت دیگران را مورد تمسخر قرار می‌دهد. او به توصیف رنگ و زیبایی چهره‌اش می‌پردازد و حسادت را به یک میوه‌ترنج زرد تشبیه می‌کند که در مقابل زیبایی فرد خوب می‌نشیند. از این طریق، شاعر احساساتی مانند زیبایی و حسادت را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نج",
+      "PlainText": "ای تو تبتی مشک و حسودت زرغنج\r\nبا بور تو رخش پور دستان خرمنج\r\nبادا رخ حاسدت ترنجیده و زرد\r\nسر بر طبقی نهاده پیشت چو ترنج",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تو تبتی مشک و حسودت زرغُنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا بور تو رخش پور دستان خرمُنج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادا رخ حاسدت ترنجیده و زرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بر طبقی نهاده پیشت چو ترنج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تو تبتی مشک و حسودت زرغُنج",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با بور تو رخش پور دستان خرمُنج",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بادا رخ حاسدت ترنجیده و زرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر بر طبقی نهاده پیشت چو ترنج",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

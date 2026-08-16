@@ -1,0 +1,58 @@
+{
+  "Id": 75830,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۸۳",
+  "FullUrl": "/nezari/robnez/sh83",
+  "RhymeLetters": "انمزد",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به شدت تحت تأثیر عشق و غم معشوقه‌اش قرار دارد. او احساس می‌کند که عواطف او مانند صاعقه بر جانش فرود آمده و این احساسات او را به شدت آزار می‌دهد. او ناتوانی خود را در دوری از معشوق و تلاش برای حفظ ارتباطش بیان می‌کند. در نهایت، این احساسات عمیق او را مجبور می‌کند که در عشقش ادامه دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمزد",
+      "PlainText": "سودای تو دست در گریبانم زد\r\nاندوه تو چون صاعقه بر جانم زد\r\nتا دست ز هر دو کون کوته نکنم\r\nدر کوی زنخدان تو نتوانم زد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسودای تو دست در گریبانم زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندوه تو چون صاعقه بر جانم زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دست ز هر دو کون کوته نکنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کوی زنخدان تو نتوانم زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سودای تو دست در گریبانم زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندوه تو چون صاعقه بر جانم زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا دست ز هر دو کون کوته نکنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کوی زنخدان تو نتوانم زد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28291,
+  "CatId": 140,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "سعدی » مواعظ » مثنویات » شمارهٔ ۱۸",
+  "FullUrl": "/saadi/mavaez/masnaviat/sh18",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که غم و درد نه تنها بر دل انسان تاثیر می‌گذارد، بلکه اگر بر کوه هم بیفتد، آنجا را نیز تحت تاثیر قرار می‌دهد. همچنین، اشاره می‌کند که جان انسانی که رنج می‌کشد، چگونه می‌تواند در چنین شرایطی خوشحال باشد، در حالی که بدن او در رنج و عذاب است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "غم نه بر دل که گر نهی بر کوه\r\nکوه گردد ز بار غصه ستوه\r\nجان شیرین که رنج کش باشد\r\nتن مسکین چگونه خوش باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم نه بر دل که گر نهی بر کوه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوه گردد ز بار غصه ستوه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان شیرین که رنج کش باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن مسکین چگونه خوش باشد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم نه بر دل که گر نهی بر کوه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کوه گردد ز بار غصه ستوه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان شیرین که رنج کش باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تن مسکین چگونه خوش باشد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

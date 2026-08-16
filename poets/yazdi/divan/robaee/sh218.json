@@ -1,0 +1,58 @@
+{
+  "Id": 111765,
+  "CatId": 2631,
+  "Title": "شمارهٔ ۲۱۸",
+  "FullTitle": "فرخی یزدی » دیوان اشعار » رباعیات » شمارهٔ ۲۱۸",
+  "FullUrl": "/yazdi/divan/robaee/sh218",
+  "RhymeLetters": "انشود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به نقد نظام قضایی و اجتماعی می‌پردازد و می‌گوید که اگر حاکم ظالم باشد، در سیستم عدالت ظلم حاکم خواهد شد. حکمی که به نفع ضعیفان صادر می‌شود، تا زمانی که قدرت در دست قویان باشد، به اجرا نخواهد رسید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انشود",
+      "PlainText": "گر عامل جور حاکم ما نشود\r\nدر عدلیه ظلم حکمفرما نشود\r\nحکمی که بود بر له یکمشت ضعیف\r\nتا دست قوی قویست اجرا نشود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر عامل جور حاکم ما نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عدلیه ظلم حکمفرما نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکمی که بود بر له یکمشت ضعیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دست قوی قویست اجرا نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر عامل جور حاکم ما نشود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عدلیه ظلم حکمفرما نشود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حکمی که بود بر له یکمشت ضعیف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا دست قوی قویست اجرا نشود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

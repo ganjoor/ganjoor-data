@@ -1,0 +1,58 @@
+{
+  "Id": 75767,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/nezari/robnez/sh20",
+  "RhymeLetters": "یدهماست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به محبوب خود اشاره می‌کند و می‌گوید که شیوه و رفتار او همواره الگویی برای دیگران است. او تأکید می‌کند که هر جا که محبوب باشد، ما نیز حضور داریم. اگر در ذهن او جایی نداشته باشیم، این موضوع ناشی از سرنوشت و تقدیر ماست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدهماست",
+      "PlainText": "آنی تو که شیوه تو برگزیده ی ماست\r\nآنجا که تو را پای بود دیده ماست\r\nبر گوشه خاطر تو گر نگذشتیم\r\nآن از اثر طالع شوریده ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنی تو که شیوه تو برگزیده ی ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنجا که تو را پای بود دیده ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر گوشه خاطر تو گر نگذشتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن از اثر طالع شوریده ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی تو که شیوه تو برگزیده ی ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنجا که تو را پای بود دیده ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر گوشه خاطر تو گر نگذشتیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن از اثر طالع شوریده ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

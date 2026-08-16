@@ -1,0 +1,58 @@
+{
+  "Id": 75748,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/nezari/robnez/sh1",
+  "RhymeLetters": "وشهایدهمارا",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از محبوب خود می‌خواهد که در سایه‌ی عشق و محبتش به آن‌ها جایی دهد و از فراوانی خود، اندکی بهره‌اشان کند. او همچنین بیان می‌کند که دیگر آرزویی جز دریافت نعمت‌ها و نیازی که از محبوب دارد، ندارد و از او خواسته می‌شود که از خوان نعمت خود، توشه‌ای به آن‌ها عطا کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشهایدهمارا",
+      "PlainText": "در سایه خویش گوشه ای ده ما را\r\nو ز خرمن خویش خوشه ای ده ما را\r\nچیزی دگر از تو آرزو می نه کنیم\r\nاز خوان نیاز توشه ای ده ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سایه خویش گوشه ای ده ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو ز خرمن خویش خوشه ای ده ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیزی دگر از تو آرزو می نه کنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خوان نیاز توشه ای ده ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سایه خویش گوشه ای ده ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و ز خرمن خویش خوشه ای ده ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چیزی دگر از تو آرزو می نه کنیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خوان نیاز توشه ای ده ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

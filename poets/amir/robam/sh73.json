@@ -1,0 +1,58 @@
+{
+  "Id": 70116,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/amir/robam/sh73",
+  "RhymeLetters": "ازامد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به پیروزی و تأثیر یک شخصیت مهم در تاریخ اسلام اشاره دارند. با فتح او، تاریخ مسلمانان شکل گرفته و به نوعی رهبری و حکومت در جهان ایجاد شده است. همچنین، او به قدری قدرت و نفوذ داشته که حتی کسانی که در سیاست هستند، از او می‌ترسند و به همین دلیل تحت تأثیر قرار می‌گیرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیشد",
+      "PlainText": "تا فتح تو تاریخ مسلمانی شد\r\nپیروزی تو اصل جهانبانی شد\r\nتا خان ز سیاست تو زندانی شد\r\nاز بیم تو چشم خانیان خانی شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا فتح تو تاریخ مسلمانی شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیروزی تو اصل جهانبانی شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا خان ز سیاست تو زندانی شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بیم تو چشم خانیان خانی شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا فتح تو تاریخ مسلمانی شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیروزی تو اصل جهانبانی شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا خان ز سیاست تو زندانی شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بیم تو چشم خانیان خانی شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

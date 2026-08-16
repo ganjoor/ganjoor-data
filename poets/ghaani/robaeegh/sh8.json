@@ -1,0 +1,58 @@
+{
+  "Id": 45821,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۸",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۸",
+  "FullUrl": "/ghaani/robaeegh/sh8",
+  "RhymeLetters": "بردارد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی عشق و دلبستگی به شخصی خاص است. شاعر احساسات خود را نسبت به دلبرش بیان می‌کند و می‌گوید که وقتی دلبر از او دور می‌شود، دلش نیز از او دور می‌افتد. در واقع، شعر نشان‌دهنده‌ی وابستگی عمیق شاعر به معشوقش و دشواری‌های جدایی از اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بردارد",
+      "PlainText": "تا دل به برم هوای دلبر دارد\r\nافسانه عشق دلبر از بر دارد\r\nدل رفت ز بر چو رفت دلبر آری\r\nدل از دلبر چگونه دل بردارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دل به برم هوای دلبر دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسانهٔ عشق دلبر از بر دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل رفت ز بر چو رفت دلبر آری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل از دلبر چگونه دل بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دل به برم هوای دلبر دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افسانهٔ عشق دلبر از بر دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل رفت ز بر چو رفت دلبر آری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل از دلبر چگونه دل بردارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1199,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۸۱",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۸۱",
+  "FullUrl": "/khayyam/robaee/sh81",
+  "RhymeLetters": "ستیگذرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "شاعر در این رباعی، به تو می‌گوید که لحظه‌ای تأمل و تفکر کن؛ زندگی و عمری که پایان آن مرگ است چرا درباره بود و نبود آن نگران هستی؟ پس همان‌بهتر که آن‌را به شادی و خوشی بگذرانی تا بهره‌‌ای برده باشی که همه غم‌ها از خودپرستی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستیگذرد",
+      "PlainText": "عمرت تا کی به خودپرستی گذرد\r\nیا در پی نیستی و هستی گذرد\r\nمی نوش که عمری که اجل در پی اوست\r\nآن به که به خواب یا به مستی گذرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرت تا کی به خودپرستی گذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا در پی نیستی و هستی گذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نوش که عمری که اجل در پی اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن به که به خواب یا به مستی گذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمرت تا کی به خودپرستی گذرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا در پی نیستی و هستی گذرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می نوش که عمری که اجل در پی اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن به که به خواب یا به مستی گذرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

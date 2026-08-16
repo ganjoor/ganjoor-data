@@ -1,0 +1,58 @@
+{
+  "Id": 70125,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/amir/robam/sh82",
+  "RhymeLetters": "الزند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به توصیف جنگ و خصومت می‌پردازد. دشمنان با ضربه زدن به سپر زرد، به نوعی از قدرت و شجاعت خود می‌گویند. همچنین، در جریان بازی (نرد)، در حالی که شش و پنج به دست می‌آورند، به موقعیت‌های خود می‌بالند. وقتی که سخن به سردی می‌گراید، آن‌ها نیز به ستوه می‌آیند و در نهایت با تسلط و دولتِ خداوند، به آهن سرد ضربه می‌زنند، که به نوعی نماد ضعف و ناتوانی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردزدند",
+      "PlainText": "خصمان تو لاف سپر زرد زدند\r\nشش پنج به  گاه ماندن نرد زدند\r\nگر سرد سخن شدند وا مرد زدند\r\nبا دولت تو بر آهن سرد زدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخصمان تو لاف سپر زرد زدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشش پنج به‌ گاه ماندن نرد زدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر سرد سخن شدند وا مرد زدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دولت تو بر آهن سرد زدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خصمان تو لاف سپر زرد زدند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شش پنج به‌ گاه ماندن نرد زدند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر سرد سخن شدند وا مرد زدند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با دولت تو بر آهن سرد زدند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

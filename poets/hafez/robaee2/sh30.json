@@ -1,0 +1,58 @@
+{
+  "Id": 2080,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۳۰",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۳۰",
+  "FullUrl": "/hafez/robaee2/sh30",
+  "RhymeLetters": "عدارم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس ناامیدی و حسرت شاعر است. او سال ها برای دستیابی به آرزوهایش تلاش کرده، اما از دوری زمانه و نفعی که نمی‌بیند، دلسرد شده است. در نهایت، او با گفتن محبتش به دیگران، دشمنی و سوء تفاهم را تجربه کرده و از سرنوشتش غمگین است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "عدارم",
+      "PlainText": "عمری ز پی مراد ضایع دارم\r\nوز دور فلک چیست که نافع دارم\r\nبا هر که بگفتم که تو را دوست شدم\r\nشد دشمن من وه که چه طالع دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمری ز پی مراد ضایع دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز دور فلک چیست که نافع دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هر که بگفتم که تو را دوست شدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد دشمن من وه که چه طالع دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمری ز پی مراد ضایع دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز دور فلک چیست که نافع دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با هر که بگفتم که تو را دوست شدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد دشمن من وه که چه طالع دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

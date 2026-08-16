@@ -1,0 +1,58 @@
+{
+  "Id": 103081,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/jooya/divan/robaee/sh27",
+  "RhymeLetters": "اناست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شعر به توصیف شخصیتی قدرتمند و مهربان می‌پردازد که به عنوان سردار جوانان و سرمردان شناخته می‌شود. او همزمان با قدرت و مقام خود، منبع احسان و نیکی است و نشان از تأیید الهی در قدرت او دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناست",
+      "PlainText": "کان کرم است و منبع احسان است\r\nسردار جوانان و سرمردان است\r\nقوس فلک امروز به تأیید خدای\r\nدر قبضه قدرت خدایی خان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکان کرم است و منبع احسان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسردار جوانان و سرمردان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقوس فلک امروز به تأیید خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر قبضهٔ قدرت خدائی خان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کان کرم است و منبع احسان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سردار جوانان و سرمردان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قوس فلک امروز به تأیید خدای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در قبضهٔ قدرت خدائی خان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

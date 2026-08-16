@@ -1,0 +1,58 @@
+{
+  "Id": 118933,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/azar/divan/robaee/sh12",
+  "RhymeLetters": "زاریبرخاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از بادی سخن می‌گوید که از سمت مرغزار می‌وزد و نغمه‌هایی را به همراه دارد. او از عشق به یک گل در آشیانه‌اش ناله می‌کند و از هر گوشه‌ای صدای زاری به گوش می‌رسد. تم اصلی شعر، عشق و اندوه ناشی از آن است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "زاریبرخاست",
+      "PlainText": "باد سحری ز مرغزاری برخاست\r\nوز هر طرفی بانگ هزاری برخاست\r\nاز عشق گلی در آشیان نالیدم\r\nاز هر قفسی ناله ی زاری برخاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد سحری، ز مرغزاری برخاست؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز هر طرفی، بانگ هزاری برخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عشق گلی، در آشیان نالیدم؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هر قفسی ناله ی زاری برخاست!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باد سحری، ز مرغزاری برخاست؛",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز هر طرفی، بانگ هزاری برخاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از عشق گلی، در آشیان نالیدم؛",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از هر قفسی ناله ی زاری برخاست!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

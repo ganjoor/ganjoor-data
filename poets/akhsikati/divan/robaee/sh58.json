@@ -1,0 +1,58 @@
+{
+  "Id": 116184,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۵۸",
+  "FullUrl": "/akhsikati/divan/robaee/sh58",
+  "RhymeLetters": "ای",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به خالق بزرگ و والای خود دعا می‌کند و از او طلب کمک و امید دارد. او از خداوند می‌خواهد که در مشکلاتش یاری‌اش کند و درهای امید را به رویش بگشاید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ای",
+      "PlainText": "ای خالق ذوالجلال وای بار خدای\r\nبیشم مدوان در بدر و جای بجای\r\nیا خانه امید مرا در دربند\r\nیا قفل مهمات مرا در بگشای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خالق ذوالجلال وای بار خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیشم مدوان در بدر و جای بجای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا خانه امید مرا در دربند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا قفل مهمات مرا در بگشای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خالق ذوالجلال وای بار خدای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیشم مدوان در بدر و جای بجای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا خانه امید مرا در دربند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا قفل مهمات مرا در بگشای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

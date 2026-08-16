@@ -1,0 +1,58 @@
+{
+  "Id": 71865,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۱۲۸",
+  "FullUrl": "/kamal/robaeek-kamal/sh128",
+  "RhymeLetters": "یست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات می‌گوید که در این شهر افرادی بهتر از محبوبش وجود دارند. محبوب می‌گوید که هیچ‌کسی مانند او نیست. شاعر پاسخ می‌دهد که درست است، اما نه همه آن‌ها دارای نگاهی مانند او هستند. این گفتگو نشان‌دهنده‌ی خاص بودن و یکتایی محبوب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یست",
+      "PlainText": "گفتم ز تو خوبتر درین شهر بسیست\r\nگفتا که چو من بعالم اندر هم نیست\r\nگفتم نه همه چشم دو دارند ایشان\r\nگفت آری ولیکن نه همه چشم یکیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: ز تو خوبتر درین شهر بسیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا که چو من بعالم اندر هم نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: نه همه چشم دو دارند ایشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت آری، ولیکن نه همه چشم یکیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم: ز تو خوبتر درین شهر بسیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا که چو من بعالم اندر هم نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم: نه همه چشم دو دارند ایشان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفت آری، ولیکن نه همه چشم یکیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

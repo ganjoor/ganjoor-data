@@ -1,0 +1,58 @@
+{
+  "Id": 51741,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۱۸ - در مرگ پدر",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۱۸ - در مرگ پدر",
+  "FullUrl": "/bahar/robaeebk/sh18",
+  "RhymeLetters": "کخونبگریست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به وصف غم و سوگواری می‌پردازد که به خاطر از دست دادن یک ملک و عظمت او به وجود آمده است. او بیان می‌کند که این غم تا آسمان‌ها کشیده شده و حتی زمین نیز با این اندوه پر از گریه شده است. شاعر به عظمت و کمال آن ملک اشاره می‌کند و می‌گوید که با فقدان او، جهان به شدت تحت تأثیر قرار گرفته و در سوگ او گریسته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کخونبگریست",
+      "PlainText": "در ماتمت ای  ملک  ملک خون بگریست\r\nوز سوز تو در افق فلک خون بگریست\r\nتا خاک نشین شدی تو ای گنج کمال\r\nزین  غصه سماک  بر سمک خون بگریست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ماتمت ای‌ ملک‌، ملک خون بگریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز سوز تو در افق فلک خون بگریست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا خاک‌نشین شدی تو ای گنج کمال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین‌ غصه سماک‌ بر سمک خون بگریست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ماتمت ای‌ ملک‌، ملک خون بگریست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز سوز تو در افق فلک خون بگریست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا خاک‌نشین شدی تو ای گنج کمال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین‌ غصه سماک‌ بر سمک خون بگریست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

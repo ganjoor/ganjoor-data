@@ -1,0 +1,58 @@
+{
+  "Id": 116163,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/akhsikati/divan/robaee/sh37",
+  "RhymeLetters": "یش",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر دعوت به زندگی در لحظه حال و دوری از نگرانی نسبت به آینده دارد. شاعر به درویش می‌گوید که در روزی که چشمانش پر از اشک شود، باید به رحمت الهی نگاه کند و نه به اعمال خودش. باید از حال لذت برد و به فردا فکر نکرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یش",
+      "PlainText": "امروز میی در کف و یاری در پیش\r\nدستی بزن از حدیث فردا مندیش\r\nوآن روز که چشم تر کنی ای درویش\r\nدر رحمت او نگر نه در کرده خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز میی در کف و یاری در پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستی بزن، از حدیث فردا مندیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن روز، که چشم تر کنی، ای درویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر رحمت او نگر، نه در کردهٔ خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز میی در کف و یاری در پیش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دستی بزن، از حدیث فردا مندیش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وآن روز، که چشم تر کنی، ای درویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در رحمت او نگر، نه در کردهٔ خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

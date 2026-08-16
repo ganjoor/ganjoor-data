@@ -1,0 +1,58 @@
+{
+  "Id": 119100,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۷۹",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۷۹",
+  "FullUrl": "/azar/divan/robaee/sh179",
+  "RhymeLetters": "یریمکنی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از زیبایی یاد کردن و عشق می‌گوید. او آرزو دارد که معشوقش با یاد خود از حال اسیری او بکاهد، همچنین خواهان رحم و محبت به پیری و از دست دادن احساسات منفی است. او همچنین به نوعی درخواست می‌کند که معشوق با محبتش او را نرنجاند و با نوازش و حمایت، دست او را بوسه بزند. در کل، ابیات بیانگر longing و نیاز به عشق و محبت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یریمکنی",
+      "PlainText": "خوش آنکه چو یاد از اسیریم کنی\r\nآیی شبی و رحم به پیریم کنی\r\nپایت مالم که پایمالم نکنی\r\nدستت بوسم که دستگیریم کنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آنکه چو یاد از اسیریم کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیی شبی و رحم به پیریم کنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپایت مالم، که پایمالم نکنی؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستت بوسم، که دستگیریم کنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آنکه چو یاد از اسیریم کنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیی شبی و رحم به پیریم کنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پایت مالم، که پایمالم نکنی؛",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستت بوسم، که دستگیریم کنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

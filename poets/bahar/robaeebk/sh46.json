@@ -1,0 +1,58 @@
+{
+  "Id": 51769,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/bahar/robaeebk/sh46",
+  "RhymeLetters": "وختهایم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از سوختن جان و دل خود به خاطر عشق و احساسات عمیق می‌گوید. او به مانند شمعی که می‌سوزد و رشته‌های جانش را می‌سوزاند، با درد و اندوه زندگی را سپری کرده است. شاعر همچنین اشاره می‌کند که در طول این تجربه، اشک‌های زیادی جمع کرده و سوزش و درد را مانند پروانه‌ای که به شمع نزدیک می‌شود، نچشیده است. به طور کلی، شعر از عمق احساسات و رنج‌های عاشقانه صحبت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وختهایم",
+      "PlainText": "چون شمع بسی رشته جان سوخته ایم\r\nآتش به دل سوخته افروخته ایم\r\nصد دامن از اشگ دیده اندوخته ایم\r\nیک سوز ز پروانه نیاموخته ایم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شمع بسی رشتهٔ جان سوخته‌ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش به دل سوخته افروخته‌ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد دامن از اشگ دیده اندوخته‌ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک سوز ز پروانه نیاموخته‌ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شمع بسی رشتهٔ جان سوخته‌ایم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش به دل سوخته افروخته‌ایم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد دامن از اشگ دیده اندوخته‌ایم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک سوز ز پروانه نیاموخته‌ایم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

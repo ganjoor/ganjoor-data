@@ -1,0 +1,58 @@
+{
+  "Id": 70077,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/amir/robam/sh34",
+  "RhymeLetters": "امتودرست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توزیع عدالت و حق در جامعه اشاره دارند. دولت به سنجر اعتماد کرده و او را سزاوار مقام وزارت می‌داند. همچنین، سنجر هم حق را با درستی به مظفر داده است. بنابراین، به وضوح بیان می‌شود که حق و عدل در این روند برقرار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وردادست",
+      "PlainText": "دولت  که همه جهان به سنجر دادست\r\nداند به  یقین که خوب و درخور دادست\r\nسنجر که وزارت به مظفر دادست\r\nشک نیست که حق به  دست حقور دادست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت‌ که همه جهان به‌سنجر دادست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداند به‌ یقین که خوب و درخور دادست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسنجر که وزارت به مظفر دادست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشک نیست که حق به‌ دست حقور دادست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دولت‌ که همه جهان به‌سنجر دادست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داند به‌ یقین که خوب و درخور دادست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سنجر که وزارت به مظفر دادست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شک نیست که حق به‌ دست حقور دادست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

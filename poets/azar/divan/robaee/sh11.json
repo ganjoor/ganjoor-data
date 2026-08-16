@@ -1,0 +1,58 @@
+{
+  "Id": 118932,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/azar/divan/robaee/sh11",
+  "RhymeLetters": "است",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر بیان می‌کند که اگر کسی جز معشوقش دل او را ببرد، موجه است، اما اگر نگاه معشوق به کسی غیر از او باشد، نادرست است. شاعر همچنین می‌گوید که برخورد با عشق آسان است، اما در عشق واقعی تنها یک هدف وجود دارد و نمی‌توان به دو سمت نگاه کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "گر جز تو کسی دل مرا برد رواست\r\nاما نگه تو جانب غیر خطاست\r\nصد ناوک و یک نشانه سهل است  ولی\r\nیک ناوک و دو نشان نمی آید راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر جز تو کسی دل مرا برد رواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما نگه تو جانب غیر خطاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد ناوک و یک نشانه، سهل است ؛ ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ناوک و دو نشان، نمی آید راست!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر جز تو کسی دل مرا برد رواست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اما نگه تو جانب غیر خطاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد ناوک و یک نشانه، سهل است ؛ ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک ناوک و دو نشان، نمی آید راست!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

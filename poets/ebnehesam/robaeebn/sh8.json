@@ -1,0 +1,58 @@
+{
+  "Id": 64805,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۸",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۸",
+  "FullUrl": "/ebnehesam/robaeebn/sh8",
+  "RhymeLetters": "شت",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از زیبایی‌های بهار و سبزه دلشاد است و به لذت‌های زندگی اشاره می‌کند. او به میوه‌ی پسته و لب‌های شیرین حوریان اشاره می‌کند و از این که در باغ آرزوهایش هیچ نشانه‌ای از رشد و شکوفایی نیست، ابراز ناراحتی می‌کند. این ابیات نشان‌دهنده امید و آرزوی شاعر برای تحقق رویاهایش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شت",
+      "PlainText": "خوش وقت بهار و سبزه و دامن کشت\r\nبا پسته دهن شکر لب حور سرشت\r\nدر باغ مراد ما چنین سرو نرست\r\nبر خاک امید ما کس این دانه کشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش وقت بهار و سبزه و دامن کشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا پسته دهن شکر لب حور سرشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر باغ مراد ما چنین سرو نرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خاک امید ما کس این دانه کشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش وقت بهار و سبزه و دامن کشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با پسته دهن شکر لب حور سرشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در باغ مراد ما چنین سرو نرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر خاک امید ما کس این دانه کشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

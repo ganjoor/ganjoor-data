@@ -1,0 +1,58 @@
+{
+  "Id": 64831,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۳۴",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۳۴",
+  "FullUrl": "/ebnehesam/robaeebn/sh34",
+  "RhymeLetters": "اند",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این ابیات به اهمیت خواندن و درک نوشته‌ها اشاره دارند. شاعر می‌گوید که اگرچه نوشتن با قلم زیبا و خوشایند است، اما باید نامه و نوشته‌های خود را بخوانیم. همچنین به این نکته اشاره می‌کند که نبایستی کتابی را بنویسیم که نتوانیم آن را بخوانیم یا درک کنیم. در واقع، ارزش نوشته‌ها به فهم آن‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اند",
+      "PlainText": "گرچه به قلم کام بسی دانی راند\r\nوز نوک قلم مشک توانی افشاند\r\nچون نامه خویشتن بباید خواندن\r\nمنویس کتابتی که نتوانی خواند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه به قلم کام بسی دانی راند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نوک قلم مشک توانی افشاند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نامه خویشتن بباید خواندن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنویس کتابتی که نتوانی خواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه به قلم کام بسی دانی راند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز نوک قلم مشک توانی افشاند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نامه خویشتن بباید خواندن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "منویس کتابتی که نتوانی خواند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

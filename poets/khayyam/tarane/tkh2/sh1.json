@@ -1,0 +1,58 @@
+{
+  "Id": 50271,
+  "CatId": 1813,
+  "Title": "رباعی ۱۶",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » درد زندگی  [۲۵-۱۶] » رباعی ۱۶",
+  "FullUrl": "/khayyam/tarane/tkh2/sh1",
+  "RhymeLetters": "انیمناست",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت بیان می‌کند که در جوانی خود از شادی‌ها و کامیابی‌ها بهره‌مند است. او از دیگران می‌خواهد که عیب‌جویی نکنند، حتی اگر تلخی‌هایی در زندگی‌اش وجود دارد، چون این تلخی‌ها بخشی از زندگی او هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیمناست",
+      "PlainText": "امروز که نوبت جوانی من است\r\nمی نوشم از آن که کامرانی من است\r\nعیبم مکنید گرچه تلخ است خوش است\r\nتلخ است از آن که زندگانی من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز که نوبت جوانی من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمِی نوشم از آن که کامرانی من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیبم مکنید، گرچه تلخ است، خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتلخ است، از آن که زندگانی من است‌!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز که نوبت جوانی من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مِی نوشم از آن که کامرانی من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عیبم مکنید، گرچه تلخ است، خوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تلخ است، از آن که زندگانی من است‌!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

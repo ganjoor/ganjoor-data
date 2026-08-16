@@ -1,0 +1,58 @@
+{
+  "Id": 113979,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۰۶",
+  "FullUrl": "/jahan/divan/robaee/sh106",
+  "RhymeLetters": "اباشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به این موضوع اشاره می‌کند که دوستی که دل او را آرام می‌کند، ممکن است از نظر دیگران زشت به نظر برسد. اما برای او، همان دوست چون دلش را شاد می‌کند، زیباست و او ترجیح می‌دهد که این زیبایی تنها برای خودش باشد و تحت نظر دیگران نباشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباشد",
+      "PlainText": "آن دوست که آرام دل ما باشد\r\nگویند که زشتست بهل تا باشد\r\nشاید که به چشم کس نه زیبا باشد\r\nتا باری از آن من تنها باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن دوست که آرام دل ما باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویند که زشتست بهل تا باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که به چشم کس نه زیبا باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا باری از آن من تنها باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن دوست که آرام دل ما باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویند که زشتست بهل تا باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاید که به چشم کس نه زیبا باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا باری از آن من تنها باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

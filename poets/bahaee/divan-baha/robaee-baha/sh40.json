@@ -1,0 +1,58 @@
+{
+  "Id": 22704,
+  "CatId": 330,
+  "Title": "رباعی شمارهٔ ۴۰",
+  "FullTitle": "شیخ بهایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۴۰",
+  "FullUrl": "/bahaee/divan-baha/robaee-baha/sh40",
+  "RhymeLetters": "اید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساس ناکامی و نقص خود اشاره می‌کند. او می‌گوید که کارهایش از وجود ناتمامش برنمی‌آید و در واقع، وجود او به نوعی به عدم می‌انجامد. اما با این حال، امیدوار است که از این عدم به وجود و تحقق برسد، زیرا از نفی و نقص می‌توان به اثبات و حقیقتی جدید رسید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اید",
+      "PlainText": "کاری ز وجود ناقصم نگشاید\r\nگویی که ثبوتم انتفا می زاید\r\nشاید ز عدم من به وجودی برسم\r\nزان رو که ز نفی نفی اثبات آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاری ز وجود ناقصم نگشاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که ثبوتم انتفا می‌زاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید ز عدم، من به وجودی برسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان رو که ز نفی نفی، اثبات آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کاری ز وجود ناقصم نگشاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی که ثبوتم انتفا می‌زاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاید ز عدم، من به وجودی برسم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان رو که ز نفی نفی، اثبات آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 107212,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/daye/divan/robaee/sh49",
+  "RhymeLetters": "ستیمهنوز",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر حالتی از مستی و نشئگی است که شاعر به آن اشاره می‌کند. او از حالتی می‌گوید که همچنان در مستی باده‌ای به نام «الست» باقی‌مانده است و حتی در جایگاه‌های مذهبی مانند صومعه، با وجود سجاده و قرآن، همچنان به رنج و می‌پرستی مشغول است. این شعر نشان‌دهنده تقابل میان دنیای روحانی و دنیای مادی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستیمهنوز",
+      "PlainText": "ما مست ز باده الستیم هنوز\r\nوز عهده الست باز مستیم هنوز\r\nدر صومعه با سجاده و مصحف و ورد\r\nدردی کش و رند و می پرستیم هنوز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما مست ز بادهٔ الستیم هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز عهده الست باز مستیم هنوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر صومعه با سجاده و مصحف و ورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردی کش و رند و می پرستیم هنوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما مست ز بادهٔ الستیم هنوز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز عهده الست باز مستیم هنوز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در صومعه با سجاده و مصحف و ورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردی کش و رند و می پرستیم هنوز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 76502,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/khojandi/robkk/sh24",
+  "RhymeLetters": "م",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مالک روح می‌گوید که از عدم نترسد، زیرا اگر او در راه خدا فانی شود، جاودانه خواهد بود. همچنین، اشاره می‌کند که اگر قطره‌ای به دریا بپیوندد، جاویدان می‌شود و این نشان‌دهنده پیوستگی روح انسان به حقیقتی بالاتر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "ای مالک روح از چه ترسی ز عدم\r\nقدرت ز فنای جسم کی گردد کم\r\nگر فانی فی الله شوی جاویدی\r\nجاوید شود قطره چو پیوست به یم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مالک روح از چه ترسی ز عدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدرت ز فنای جسم کی گردد کم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر فانی فی الله شوی جاویدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجاوید شود قطره چو پیوست به یم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مالک روح از چه ترسی ز عدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قدرت ز فنای جسم کی گردد کم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر فانی فی الله شوی جاویدی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جاوید شود قطره چو پیوست به یم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

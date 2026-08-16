@@ -1,0 +1,58 @@
+{
+  "Id": 1206,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۸۸",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۸۸",
+  "FullUrl": "/khayyam/robaee/sh88",
+  "RhymeLetters": "رباشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف بهشت و نعمت‌های آن می‌پردازد. در آن به زیبایی‌های بهشت، همچون حور و کوثر، و خوشمزگی‌های می و شیر و شهد اشاره شده است. شاعر از مخاطب می‌خواهد تا قدحی از باده پر کند و بر دستش بگذارد، زیرا او معتقد است که لذت آنی (نقد) از لذت‌های طولانی‌مدت (نسیه) بهتر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رباشد",
+      "PlainText": "گویند بهشت و حور و کوثر باشد\r\nجوی می و شیر و شهد و شکر باشد\r\nپر کن قدح باده و بر دستم نه\r\nنقدی ز هزار نسیه خوش تر باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند بهشت و حور و کوثر باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجوی می و شیر و شهد و شکّر باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپر کن قدح باده و بر دستم نه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقدی ز هزار نسیه خوش‌تر باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند بهشت و حور و کوثر باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جوی می و شیر و شهد و شکّر باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پر کن قدح باده و بر دستم نه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نقدی ز هزار نسیه خوش‌تر باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

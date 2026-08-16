@@ -1,0 +1,58 @@
+{
+  "Id": 10199,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۳۸",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۳۸",
+  "FullUrl": "/saadi/divan/robaees/sh138",
+  "RhymeLetters": "شی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این چهار بیت، شاعر به زیبایی و جذابیت معشوق اشاره می‌کند و می‌گوید هیچ‌کس نمی‌تواند به زیبایی او باشد. حتی اگر معشوق روی خود را برگرداند یا سرش را پایین بیندازد، عاشق همچنان از عشق به او خوشحال است، هرچند که شاید معشوق با او خوشحال نباشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شی",
+      "PlainText": "ای پیش تو لعبتان چینی حبشی\r\nکس چون تو صنوبر نخرامد به کشی\r\nگر روی بگردانی و گر سر بکشی\r\nما با تو خوشیم گر تو با ما نه خوشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پیش تو لعبتان چینی حبشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس چون تو صنوبر نخرامد به کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر روی بگردانی و گر سر بکشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما با تو خوشیم گر تو با ما نه خوشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای پیش تو لعبتان چینی حبشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کس چون تو صنوبر نخرامد به کشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر روی بگردانی و گر سر بکشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما با تو خوشیم گر تو با ما نه خوشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

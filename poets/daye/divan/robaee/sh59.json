@@ -1,0 +1,58 @@
+{
+  "Id": 107222,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/daye/divan/robaee/sh59",
+  "RhymeLetters": "ارشوم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر حالتی از سرخوشی و بی‌خوابی است. شاعر می‌گوید که نه از نوشیدنی‌ای استفاده کرده که هوشیار شود و نه مستی دارد که دوباره به حالت عادی برگردد. او درخواست می‌کند که یک جام از زیبایی و جلال خداوند به او داده شود تا از وجود و عدم دنیا دل‌زده و جدا شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارشوم",
+      "PlainText": "ز آن باده نخورده ام که هشیار شوم\r\nو آن مست نیم که باز بیدار شوم\r\nیک جام تجلی جلال تو بسم\r\nتا از عدم و وجود بیزار شوم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آن باده نخورده ام که هشیار شوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آن مست نیم که باز بیدار شوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک جام تجلی جلال تو بسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا از عدم و وجود بیزار شوم.\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آن باده نخورده ام که هشیار شوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و آن مست نیم که باز بیدار شوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک جام تجلی جلال تو بسم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا از عدم و وجود بیزار شوم.",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

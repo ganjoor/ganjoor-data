@@ -1,0 +1,58 @@
+{
+  "Id": 104995,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۱۸۹",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۱۸۹",
+  "FullUrl": "/ahli/divan/robaee/sh189",
+  "RhymeLetters": "رمیداند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به تفاوت‌های بین سه نوع انسان اشاره دارد: منعم (ثروتمند) که فقط به مال و دارایی‌ها توجه دارد، زاهد (مجاهد) که به عبادت و دعا تمرکز دارد، و عارف که دانایی و معرفت را آموخته است. در نهایت، شاعر خوشبختی را برای کسی می‌داند که این دانایی و هنر را درک کرده باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمیداند",
+      "PlainText": "منعم همه مال و کسب زر میداند\r\nزاهد همه اوراد سحر میداند\r\nعارف هنر و معرفت آموخته است\r\nخوش وقت کسی که این هنر میداند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنعم همه مال و کسب زر میداند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزاهد همه اوراد سحر میداند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارف هنر و معرفت آموخته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش وقت کسی که این هنر میداند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منعم همه مال و کسب زر میداند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زاهد همه اوراد سحر میداند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عارف هنر و معرفت آموخته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوش وقت کسی که این هنر میداند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

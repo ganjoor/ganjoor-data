@@ -1,0 +1,58 @@
+{
+  "Id": 45347,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۴",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۴",
+  "FullUrl": "/helali/robaeeh/sh4",
+  "RhymeLetters": "وزامشب",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به زیبایی و اهمیت شب خاصی اشاره می‌کند. او می‌گوید که امشب مانند ماه و شمعی روشن است و به چرخ و فلک حسادت می‌ورزد. این شب را شب وصال و مهم‌تر از شب قدر می‌داند و آن را از هزار نوروز بهتر می‌شمارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزامشب",
+      "PlainText": "شد ماه من آن شمع شب افروز امشب\r\nگو چرخ و فلک ز رشک می سوز امشب\r\nامشب نه شب وصل شب قدر من ست\r\nبهتر ز هزار روز نوروز امشب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد ماه من آن شمع شب‌افروز امشب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو چرخ و فلک ز رشک می‌سوز امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب نه شب وصل، شب قدر من‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهتر ز هزار روز نوروز امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد ماه من آن شمع شب‌افروز امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گو چرخ و فلک ز رشک می‌سوز امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امشب نه شب وصل، شب قدر من‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهتر ز هزار روز نوروز امشب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

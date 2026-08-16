@@ -1,0 +1,58 @@
+{
+  "Id": 120702,
+  "CatId": 2781,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "مجد همگر » دیوان اشعار » معمیات » شمارهٔ ۶",
+  "FullUrl": "/hamgar/divan/moamma/sh6",
+  "RhymeLetters": "شت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: غزل اشاره به مرغی دارد که در مکان‌های مختلفی مانند کوه یا دشت قرار می‌گیرد. این مرغ نامی دارد که با عدد ده و هشت مرتبط است. اگر تمامی حروف نام این مرغ را از قلب (یا حذف) کنیم، به عدد ده می‌رسیم، در حالی که در ابتدا هجده بوده است. این شعر به نوعی نشان‌دهنده‌ی تغییر و تبدیل است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شت",
+      "PlainText": "مرغی که به کوه جای گیرد یا دشت\r\nنامش به حساب جمله آمد ده و هشت\r\nهر چار حروف نامش ار قلب کنی\r\nهر چند که هجده است حالی ده گشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغی که به کوه جای گیرد یا دشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامش به حساب جمله آمد ده و هشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چار حروف نامش ار قلب کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چند که هجده است حالی ده گشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرغی که به کوه جای گیرد یا دشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نامش به حساب جمله آمد ده و هشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چار حروف نامش ار قلب کنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چند که هجده است حالی ده گشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 103131,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۷",
+  "FullUrl": "/jooya/divan/robaee/sh77",
+  "RhymeLetters": "رق",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف شعله شمعی می‌پردازد که به سرعت در حال سوختن و خاموش شدن است. او بیان می‌کند که این شمع به خاطر تزئینات و ترفندهایش (حیله و زرق) در دریاچه‌ای از ناامیدی غرق می‌شود و تنها یک چشم به هم زدن کافی است تا روشنایی‌اش از بین برود. شاعر همچنین به این نکته اشاره می‌کند که انگار فتیله شمع مانند رگ‌های برق سریع عمل می‌کند. در کل، این شعر به لحظه‌های زودگذر زندگی و روشنایی‌های نامتداوم اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رق",
+      "PlainText": "شماعیک آن به بحر مکاری غرق\r\nمی ریزد شمع بس که با حیله و زرق\r\nیک چشم زدن بیش نباشد روشن\r\nگویی که بود فتیله اش از رگ برق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشماعیک آن به بحر مکاری غرق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌ریزد شمع بس که با حیله و زرق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک چشم زدن بیش نباشد روشن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که بود فتیله‌اش از رگ برق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شماعیک آن به بحر مکاری غرق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌ریزد شمع بس که با حیله و زرق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک چشم زدن بیش نباشد روشن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی که بود فتیله‌اش از رگ برق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

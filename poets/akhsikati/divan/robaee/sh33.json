@@ -1,0 +1,58 @@
+{
+  "Id": 116159,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/akhsikati/divan/robaee/sh33",
+  "RhymeLetters": "اریداد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر دربارهٔ عشق و وفاداری به معشوق است. شاعر از تاثیر عمیق زلف معشوق بر بیداری و هوشیاری خود سخن می‌گوید. همچنین، در دلتنگی و جدایی از معشوق، احساس بیزاری و دلشکستگی را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریداد",
+      "PlainText": "ما را خط تو داد وفاداری داد\r\nسودای سر زلف تو بیداری داد\r\nو آن خواب بماند نیز گرد لب او\r\nدر هجر تو دوشم خط بیزاری داد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را خط تو داد وفاداری داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسودای سر زلف تو، بیداری داد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن خواب بماند نیز گرد لب او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر هجر تو، دوشم خط بیزاری داد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما را خط تو داد وفاداری داد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سودای سر زلف تو، بیداری داد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "و آن خواب بماند نیز گرد لب او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در هجر تو، دوشم خط بیزاری داد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

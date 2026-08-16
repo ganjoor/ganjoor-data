@@ -1,0 +1,58 @@
+{
+  "Id": 111549,
+  "CatId": 2631,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "فرخی یزدی » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/yazdi/divan/robaee/sh2",
+  "RhymeLetters": "ختیما",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از احساس درد و غم ناشی از بی‌خودی و مشکلات زندگی صحبت می‌کند. او به نوعی ارتباط میان تن (بدن) و دل (روح) را به تصویر می‌کشد و می‌گوید که در شب عید، که باید شاد باشد، غم و اندوه ما را فراگرفته و به عزایی برای بدبختی‌هایمان تبدیل شده است. این بیانگر تضاد بین شادی و غم است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ختیما",
+      "PlainText": "تن یافت برهنگی ز بی رختی ما\r\nدل تن بقضا داد ز جان سختی ما\r\nچون دید غم و محنت ما را شب عید\r\nبگرفت عزای روز بدبختی ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن یافت برهنگی ز بی رختی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل تن بقضا داد ز جان سختی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دید غم و محنت ما را شب عید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگرفت عزای روز بدبختی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تن یافت برهنگی ز بی رختی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل تن بقضا داد ز جان سختی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون دید غم و محنت ما را شب عید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگرفت عزای روز بدبختی ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1240,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۲۲",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۲۲",
+  "FullUrl": "/khayyam/robaee/sh122",
+  "RhymeLetters": "انیم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این غزل به توصیف دنیای پر از حیرت و زیبایی می‌پردازد. شاعر به چرخ فلک و چراغ خیال اشاره می‌کند و بیان می‌کند که خورشید، نور بخش عالم است و ما مانند تصاویری هستیم که در این دنیا سرگردان و حیرانیم. به نوعی نوعی از وبستگی و شگفتی در تجربه زندگی را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیم",
+      "PlainText": "این چرخ فلک که ما در او حیرانیم\r\nفانوس خیال از او مثالی دانیم\r\nخورشید چراغ دان و عالم فانوس\r\nما چون صوریم کاندر او حیرانیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چرخ فلک که ما در او حیرانیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفانوس خیال از او مثالی دانیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید چراغ‌دان و عالم فانوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما چون صوریم کاندر او حیرانیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این چرخ فلک که ما در او حیرانیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فانوس خیال از او مثالی دانیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورشید چراغ‌دان و عالم فانوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما چون صوریم کاندر او حیرانیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

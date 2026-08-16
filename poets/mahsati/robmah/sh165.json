@@ -1,0 +1,58 @@
+{
+  "Id": 50225,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۶۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۶۵",
+  "FullUrl": "/mahsati/robmah/sh165",
+  "RhymeLetters": "اله",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، درخت در پاییز به واسطه زیبا بودن ژاله‌های باران مست و شاداب می‌شود و بعد از یک سال، شکوفه می‌زند. برای اینکه این شکوفه زیباتر به نظر برسد، چمن هزاران ظرف لعل (طلایی) از لاله‌ها را در زیر آن می‌چینند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اله",
+      "PlainText": "می خورد به پاییز درخت از ژاله\r\nشد مست و شکوفه می کند یک ساله\r\nاز بهر شکوفه کردنش بین که چمن\r\nبنهاد هزار تشت لعل از لاله",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی خورد به پاییز درخت از ژاله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد مست و شکوفه می‌کند یک ساله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بهر شکوفه کردنش بین که چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنهاد هزار تشت لعل از لاله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می خورد به پاییز درخت از ژاله",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد مست و شکوفه می‌کند یک ساله",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بهر شکوفه کردنش بین که چمن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنهاد هزار تشت لعل از لاله",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

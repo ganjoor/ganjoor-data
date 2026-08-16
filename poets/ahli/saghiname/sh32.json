@@ -1,0 +1,58 @@
+{
+  "Id": 105652,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۳۱",
+  "FullUrl": "/ahli/saghiname/sh32",
+  "RhymeLetters": "اکشدست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و فراوانی گل و سبزه اشاره می‌کند که حالا به حالت شاداب و طربناک درآمده‌اند. او از مخاطب می‌خواهد که از این moment استفاده کند و می‌گوید که به زودی این زیبایی به خاک تبدیل خواهد شد. پس باید از زندگی و زیبایی‌ها بهره برده و گلی بچینند، زیرا زمان بسیار زود می‌گذرد و همه چیز به زودی زوال می‌یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکشدست",
+      "PlainText": "ساقی گل و سبزه بس طربناک شدست\r\nدریاب که هفته دگر خاک شدست\r\nمی نوش و گلی بچین که تا درنگری\r\nگل خاک شدست و سبزه خاشاک شدست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی گل و سبزه بس طربناک شدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاب که هفته دگر خاک شدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نوش و گلی بچین که تا درنگری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل خاک شدست و سبزه خاشاک شدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی گل و سبزه بس طربناک شدست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریاب که هفته دگر خاک شدست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می نوش و گلی بچین که تا درنگری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل خاک شدست و سبزه خاشاک شدست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

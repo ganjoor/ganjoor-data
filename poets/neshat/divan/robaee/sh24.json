@@ -1,0 +1,58 @@
+{
+  "Id": 119558,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/neshat/divan/robaee/sh24",
+  "RhymeLetters": "اممباشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر دلتنگی و درد فراق معشوق هستند. شاعر می‌گوید اگر در دوری معشوق لحظه‌ای آرام پیدا کند، در وصل او زندگی را حرام می‌داند. همچنین، اگر بخواهد به یاد لب‌های سرخ معشوق شراب بنوشد، باید خون دل خود را در جام ببیند. این احساسات نشان‌دهنده‌ی شدت عشق و غم جدایی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اممباشد",
+      "PlainText": "در هجر تو گر دمی بکامم باشد\r\nدر وصل تو زندگی حرامم باشد\r\nبی لعل لبت گر هوس باده کنم\r\nخون دل خویشتن بجامم باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هجر تو گر دمی بکامم باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وصل تو زندگی حرامم باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی لعل لبت گر هوس باده کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون دل خویشتن بجامم باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در هجر تو گر دمی بکامم باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در وصل تو زندگی حرامم باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی لعل لبت گر هوس باده کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون دل خویشتن بجامم باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

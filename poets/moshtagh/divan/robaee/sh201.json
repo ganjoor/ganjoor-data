@@ -1,0 +1,58 @@
+{
+  "Id": 122005,
+  "CatId": 2803,
+  "Title": "شمارهٔ ۲۰۱",
+  "FullTitle": "مشتاق اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۰۱",
+  "FullUrl": "/moshtagh/divan/robaee/sh201",
+  "RhymeLetters": "نوتو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشق و نزدیکی عاطفی دو نفر است. شاعر از زیبایی‌های شب و نور ماه صحبت می‌کند و با تشبیهات مختلف به توصیف رابطه عمیق و شعله‌ور خود با محبوبش می‌پردازد. او به تصویرسازی از لحظات خوشی که با هم دارند، می‌پردازد و نمادهایی مانند پروانه، شمع، بلبل و گل را به کار می‌برد که نشان‌دهنده عشق و زیبایی در کنار یکدیگر هستند. در نهایت، شاعر از محبوبش می‌خواهد که دوباره به هم نزدیک شوند و از بودن در کنار یکدیگر لذت ببرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نوتو",
+      "PlainText": "گشت شب مهتاب و می روشن و تو\r\nمن شعله تو گل گلخن و من گلشن و تو\r\nبازآ که بهم خوشیم هرجا باشیم\r\nپروانه و شمع و بلبل و گل من و تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت شب مهتاب و می روشن و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن شعله تو گل گلخن و من گلشن و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازآ که بهم خوشیم هرجا باشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپروانه و شمع و بلبل و گل من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گشت شب مهتاب و می روشن و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من شعله تو گل گلخن و من گلشن و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بازآ که بهم خوشیم هرجا باشیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پروانه و شمع و بلبل و گل من و تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

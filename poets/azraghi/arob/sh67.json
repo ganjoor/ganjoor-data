@@ -1,0 +1,58 @@
+{
+  "Id": 69428,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/azraghi/arob/sh67",
+  "RhymeLetters": "اغ",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر ناگهان به شمع و چراغ خطاب می‌کند و با دلی پر از غم و درد از شهر به باغ می‌رود. هرچند باغ جایی برای تماشا و آرامش به نظر می‌رسد، اما برای او بدون چهره محبوبش همچون جهنمی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغ",
+      "PlainText": "ناگاه همی زدم من ای شمع و چراغ\r\nاز شهر به باغ با دلی پر غم و داغ\r\nباغ ار چه بود جای تماشا و فراغ\r\nدوزخ بود ای نگار بی روی تو باغ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناگاه همی زدم من، ای شمع و چراغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شهر به باغ با دلی پر غم و داغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباغ ار چه بود جای تماشا و فراغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوزخ بود ای نگار، بی روی تو باغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ناگاه همی زدم من، ای شمع و چراغ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شهر به باغ با دلی پر غم و داغ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باغ ار چه بود جای تماشا و فراغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوزخ بود ای نگار، بی روی تو باغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

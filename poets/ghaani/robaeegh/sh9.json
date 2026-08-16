@@ -1,0 +1,58 @@
+{
+  "Id": 45822,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۹",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۹",
+  "FullUrl": "/ghaani/robaeegh/sh9",
+  "RhymeLetters": "اکردچهمیبایدکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف احساسات انسانی در مواجهه با مشکلات و ناامیدی‌ها می‌پردازد. شاعر می‌گوید اگر زمانه به ما ظلم کند یا کسی به ما وفا نکند، باید چه کرد؟ همچنین در اشاره به دلش که می‌خواسته هدفی را نشانه بگیرد، اما تیر خطا رفته، احساس سردرگمی و ناامیدی را بیان می‌کند. در کل، شعر بازتاب‌دهنده اندیشه‌های عمیق درباره زندگی و چالش‌های آن است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکردچهمیبایدکرد",
+      "PlainText": "گر چرخ جفا کرد چه می باید کرد\r\nور ترک وفا کرد چه می باید کرد\r\nمی خواست دلم که بر نشان آید تیر\r\nچون تیر خطا کرد چه می باید کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چرخ جفا کرد چه می‌باید کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور ترک وفا کرد چه می‌باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌خواست دلم که بر نشان آید تیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون تیر خطا کرد چه می‌باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر چرخ جفا کرد چه می‌باید کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور ترک وفا کرد چه می‌باید کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌خواست دلم که بر نشان آید تیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون تیر خطا کرد چه می‌باید کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

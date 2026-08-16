@@ -1,0 +1,58 @@
+{
+  "Id": 120731,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/hamgar/divan/robaee/sh15",
+  "RhymeLetters": "اختمرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساسات درونی و تأثیر عود (خود موسیقی) بر روی خود صحبت می‌کند. او می‌گوید که عود او را می‌نوازد، با اینکه درونش دچار سوختگی است. یک رگ از دل او به خاطر عشق یا درد شکسته می‌شود و این ناله‌ای که از او بلند می‌شود، به دور از خود او پرتاب می‌شود. در نتیجه، نمایش عواطف و آثار موسیقی بر روح او شکل می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اختمرا",
+      "PlainText": "چون عود بنالیدم و بنواخت مرا\r\nبا آنکه به دم سوختنی ساخت مرا\r\nیک رگ ز دلم به گوشمالش بگسست\r\nناله ز کنار خود بینداخت مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عود بنالیدم و بنواخت مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا آنکه به دم سوختنی ساخت مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک رگ ز دلم به گوشمالش بگسست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناله ز کنار خود بینداخت مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون عود بنالیدم و بنواخت مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با آنکه به دم سوختنی ساخت مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک رگ ز دلم به گوشمالش بگسست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناله ز کنار خود بینداخت مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

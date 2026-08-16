@@ -1,0 +1,58 @@
+{
+  "Id": 108016,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۱۶",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۱۶",
+  "FullUrl": "/saeeda/divan/robaee/sh116",
+  "RhymeLetters": "اهمماییم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به همبستگی و یگانگی انسان‌ها اشاره دارد. شاعر می‌گوید که ما همگی درون و بیرون یکدیگر هستیم و در واقع همه ما یکی هستیم، حتی با تمام تضادها و تفاوت‌هایمان. با کنار گذاشتن غفلت و دیدن واقعیت، می‌توانیم متوجه شویم که ما همگی به هم مرتبطیم و در اصل یکی هستیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهمماییم",
+      "PlainText": "بیرون و درون برو بیا هم ماییم\r\nاشکسته و سنگ و مومیا هم ماییم\r\nگر پرده غفلت از نظر برداری\r\nدانی که من و تو و شما هم ماییم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیرون و درون برو بیا هم ماییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاشکسته و سنگ و مومیا هم ماییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر پردهٔ غفلت از نظر برداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانی که من و تو و شما هم ماییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیرون و درون برو بیا هم ماییم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اشکسته و سنگ و مومیا هم ماییم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر پردهٔ غفلت از نظر برداری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دانی که من و تو و شما هم ماییم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119547,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/neshat/divan/robaee/sh13",
+  "RhymeLetters": "اریهست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعری به احساس درد و نارضایتی از زندگی اشاره می‌کند. او می‌گوید که این جان که از تن جدا نیست مدام در رنج و آزار است و از خود می‌پرسد اگر کاری برای انجام دادن وجود ندارد، چرا مرغی در قفس بماند وقتی که در هر طرف به گلزارها دسترسی دارد؟ در واقع، او به آزادی و نیاز به زندگی بهتر اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریهست",
+      "PlainText": "این جان که زتن هر دمش آزاری هست\r\nگفتم که مگر ترا بوی کاری هست\r\nورنه بقفس چرا بماند مرغی\r\nکز هر طرفش راه بگلزاری هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین جان که زتن هر دمش آزاری هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم که مگر ترا بوی کاری هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورنه بقفس چرا بماند مرغی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز هر طرفش راه بگلزاری هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این جان که زتن هر دمش آزاری هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم که مگر ترا بوی کاری هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ورنه بقفس چرا بماند مرغی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز هر طرفش راه بگلزاری هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

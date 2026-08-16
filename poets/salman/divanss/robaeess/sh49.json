@@ -1,0 +1,58 @@
+{
+  "Id": 39013,
+  "CatId": 1136,
+  "Title": "رباعی شمارهٔ ۴۹",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۴۹",
+  "FullUrl": "/salman/divanss/robaeess/sh49",
+  "RhymeLetters": "ونیمناست",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی اشکی است که نماد درد و رنج شاعر است و به نوعی به خون او تبدیل شده. این اشک از احساس ضعف و زبونی شاعر ناشی می‌شود. در نهایت، شاعر بیان می‌کند که دلش از چشمش افتاده و در واقع یار و معشوق واقعی او همان احساسات درونی‌اش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونیمناست",
+      "PlainText": "این اشک گریز پا که خونی من است \r\nدر خون من از عین زبونی من است \r\nبا اینهمه کز چشم من افتاد دلم \r\nبا اوست که یار اندرونی من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین اشک گریز پا که خونی من است \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خون من از عین زبونی من است \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا اینهمه کز چشم من افتاد، دلم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا اوست که یار اندرونی من است \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این اشک گریز پا که خونی من است ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خون من از عین زبونی من است ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با اینهمه کز چشم من افتاد، دلم ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با اوست که یار اندرونی من است ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

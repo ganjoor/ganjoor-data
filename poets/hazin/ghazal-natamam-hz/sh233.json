@@ -1,0 +1,58 @@
+{
+  "Id": 83394,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۳۳",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۳۳",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh233",
+  "RhymeLetters": "ازتر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر از کسی می‌خواهد که از روی قبر او نگذرد و دلش را نشکند. او درخواست می‌کند که به یاد او و خاطرش، آستین خود را نچرخاند و همچنین هشدار می‌دهد که مبادا خاکستر او را به باد دهند، زیرا از خاک سوخته‌ی او شعله‌ای آتشین به پا خواهد خواست. در واقع، شاعر به اهمیت یاد و خاطره‌اش اشاره کرده و برای آن ارزش قائل است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمگذر",
+      "PlainText": "کنون ز تربتم ای شوخ سرگران مگذر\r\nبه شمع کشته خود آستین فشان مگذر\r\nمباد توده ی خاکسترم به باد دهی\r\nز خاک سوخته ات آتشین عنان مگذر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون ز تربتم ای شوخ، سرگران مگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شمع کشتهٔ خود آستین فشان مگذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمباد توده ی خاکسترم به باد دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خاک سوخته ات، آتشین عنان مگذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کنون ز تربتم ای شوخ، سرگران مگذر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به شمع کشتهٔ خود آستین فشان مگذر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مباد توده ی خاکسترم به باد دهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز خاک سوخته ات، آتشین عنان مگذر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

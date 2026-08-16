@@ -1,0 +1,58 @@
+{
+  "Id": 50940,
+  "CatId": 1827,
+  "Title": "رباعی شمارهٔ ۱۴۰",
+  "FullTitle": "باباافضل کاشانی » رباعیات » رباعی شمارهٔ ۱۴۰",
+  "FullUrl": "/babaafzal/robba/sh140",
+  "RhymeLetters": "زادممن",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر بیان می‌کند که تنها شادی‌اش در این جهان به وصل معشوق مربوط می‌شود. او می‌گوید که اگر این وصل نباشد، برایش فرقی نمی‌کند که در وجود یا عدم باشد؛ یعنی در حقیقت به وجود خود وابسته نیست و هدفش تنها رسیدن به معشوق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "زادممن",
+      "PlainText": "گویند کز این جهان مگر شادم من \r\nیا خود ز عدم برای این زادم من\r\nمقصود من از هر دو جهان وصل تو بود\r\nور نه ز وجود و عدم آزادم من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند کز این جهان مگر شادم من \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا خود ز عدم برای این زادم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمقصود من از هر دو جهان وصل تو بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه ز وجود و عدم آزادم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند کز این جهان مگر شادم من ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا خود ز عدم برای این زادم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مقصود من از هر دو جهان وصل تو بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور نه ز وجود و عدم آزادم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

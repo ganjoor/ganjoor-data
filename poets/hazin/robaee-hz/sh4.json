@@ -1,0 +1,58 @@
+{
+  "Id": 82892,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/hazin/robaee-hz/sh4",
+  "RhymeLetters": "اب",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از عشق و احساسات عمیق خود سخن می‌گوید. او به زیبایی و جذابیت معشوقه‌اش اشاره می‌کند و بیان می‌کند که نه تنها از محبت او بهره‌مند نیست، بلکه تحت تاثیر عتاب و خشم او نیز قرار دارد. همچنین، او می‌خواهد که عشق‌شان همیشه دوام بیاورد؛ چرا که خون و احساساتشان مانند شمشیری است که در نهایت به آب تبدیل می‌شود. به‌عبارتی، عشق و هیجان آنها بسیار عمیق و گرم است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "کردی دلم از حسن گلوسوز کباب\r\nنه پرتو لطف دیده نه برق عتاب\r\nخواهیم به عشق نیم بسمل شده ماند\r\nکز گرمی خون ماست شمشیر تو آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردی دلم از حسن گلوسوز کباب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه پرتو لطف دیده نه برق عتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهیم به عشق، نیم بسمل شده ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز گرمی خون ماست، شمشیر تو آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کردی دلم از حسن گلوسوز کباب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه پرتو لطف دیده نه برق عتاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهیم به عشق، نیم بسمل شده ماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز گرمی خون ماست، شمشیر تو آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

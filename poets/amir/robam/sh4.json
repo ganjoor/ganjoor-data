@@ -1,0 +1,58 @@
+{
+  "Id": 70047,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/amir/robam/sh4",
+  "RhymeLetters": "ورا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان زیبایی و ظرافت می‌پردازند. شاعر به خداوند یا جبر و تقدیر اشاره می‌کند و از او می‌خواهد که اگر با بدرفتاری یا خطاهایی رو به رو شد، نعمت‌های خوب را به دست آورد. همچنین از لزوم غلبه بر خطاها و اشتباهات سخن می‌گوید و بر بخشش تاکید می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورا",
+      "PlainText": "شاها ادبی کن فلک بد خو را\r\nگر چشم رسانید رخ نیکو را\r\nگرگوی خطا کرد به چوگانش زن\r\nور اسب خطا کرد به  من بخش او را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها ادبی کن فلک بد خو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر چشم رسانید رخ نیکو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرگوی خطا کرد به چوگانش زن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور اسب خطا کرد به‌ من بخش او را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها ادبی کن فلک بد خو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر چشم رسانید رخ نیکو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرگوی خطا کرد به چوگانش زن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور اسب خطا کرد به‌ من بخش او را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

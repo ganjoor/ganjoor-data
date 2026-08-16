@@ -1,0 +1,58 @@
+{
+  "Id": 113890,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/jahan/divan/robaee/sh17",
+  "RhymeLetters": "است",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر صبحی زیبا را توصیف می‌کند که در آن گل‌های سوسن آزاد شکوفا شده‌اند. او از زیبایی چهره‌ی معشوقه‌اش که به لاله می‌ماند، صحبت می‌کند و به تصویر زیبای او در میان گل‌ها اشاره می‌کند. همچنین، شاعر به این نکته اشاره می‌کند که نباید در زیبایی و عشق آتش افروخت و به طور غیرموجه، خرمن عشق را بسوزاند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "صبحی به چمن سوسن آزاد بخاست\r\nوز قامت خود صحن چمن می آراست\r\nرخسار چو لاله اش بدیدم گفتم\r\nدر سوخته خرمن زدن آتش نه رواست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبحی به چمن سوسن آزاد بخاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز قامت خود صحن چمن می‌آراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخسار چو لاله‌اش بدیدم گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سوخته خرمن زدن آتش نه رواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبحی به چمن سوسن آزاد بخاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز قامت خود صحن چمن می‌آراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رخسار چو لاله‌اش بدیدم گفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سوخته خرمن زدن آتش نه رواست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

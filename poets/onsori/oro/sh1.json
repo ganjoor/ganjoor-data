@@ -1,0 +1,58 @@
+{
+  "Id": 68851,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/onsori/oro/sh1",
+  "RhymeLetters": "اهیصنما",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با ابراز محبت و تمجید به محبوبش می‌گوید که تو همچون ماه زیبایی و من را به عنوان عاشق خود می‌ستاید. او همچنین اشاره می‌کند که محبوبش در زندگی‌اش مثل یک پادشاه است و هر چیزی که بخواهد را می‌تواند به دست آورد. به‌طور کلی، شعر به بیان عشق و ارادت عمیق شاعر به محبوبش می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیصنما",
+      "PlainText": "من گفت نیارم که تو ماهی صنما\r\nروشن به تو گشت ماه و ماهی صنما\r\nمن شاه جهان مرا تو شاهی صنما\r\nفرمانت  روا به هر چه خواهی صنما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن گفت نیارم که تو ماهی صنما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروشن به تو گشت ماه و ماهی صنما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن شاهِ جهان مرا تو شاهی صنما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرمانت‌ْ روا به‌هر چه خواهی صنما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من گفت نیارم که تو ماهی صنما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روشن به تو گشت ماه و ماهی صنما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من شاهِ جهان مرا تو شاهی صنما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرمانت‌ْ روا به‌هر چه خواهی صنما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

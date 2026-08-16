@@ -1,0 +1,58 @@
+{
+  "Id": 116182,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/akhsikati/divan/robaee/sh56",
+  "RhymeLetters": "رمی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به درد و رنج عشق اشاره دارد و می‌گوید اگر با من دردی داری، می‌توانی همچون قارون (شخصیت ثروتمند افسانه‌ای) شب را به خوشی بگذرانی. دل او پر از غم است، اما احتمالاً می‌تواند از شراب (ساغر می) مدد بگیرد تا کمی تسکین یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمی",
+      "PlainText": "گر با من دردخواره داری سر می\r\nقارون شوی امشب چو من از گوهر می\r\nدل یک تنه و لشکر غم بیعدد است\r\nلابد مددی بیابد از ساغر می",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر با من دُردخواره داری سرِ می\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقارون شوی امشب چو من از گوهر می\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل یک تنه و لشکر غم بیعدد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلابد مددی بیابد از ساغر می\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر با من دُردخواره داری سرِ می",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قارون شوی امشب چو من از گوهر می",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل یک تنه و لشکر غم بیعدد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لابد مددی بیابد از ساغر می",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

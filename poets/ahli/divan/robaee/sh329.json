@@ -1,0 +1,58 @@
+{
+  "Id": 105135,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۳۲۹",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۳۲۹",
+  "FullUrl": "/ahli/divan/robaee/sh329",
+  "RhymeLetters": "ابخورد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به پیری و زوال اشاره می‌کند. او می‌گوید که حتی اگر پیرمرد از نعمت‌ها و لذت‌ها بهره‌مند شود، باز هم به دلیل خستگی و کهن‌سالی، روح و جانش شاداب نمی‌ماند. همچنین به برگی که در فصل خزان زرد می‌شود اشاره می‌کند، که با وجود مصرف آب، به خاطر فصلش دیگر نمی‌تواند زندگی‌اش را ادامه دهد. به طور کلی، ابیات به زوال و ناتوانی در پیری پرداخته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابخورد",
+      "PlainText": "پیری که ز خستگی تنش تاب خورد\r\nسودش ندهد اگر چه جلاب خورد\r\nبرگی که بموسم خزان زرد شود\r\nریز دز درخت اگر چه صد آب خورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیری که ز خستگی تنش تاب خورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسودش ندهد اگر چه جلاب خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرگی که بموسم خزان زرد شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eریز دز درخت اگر چه صد آب خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیری که ز خستگی تنش تاب خورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سودش ندهد اگر چه جلاب خورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برگی که بموسم خزان زرد شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ریز دز درخت اگر چه صد آب خورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

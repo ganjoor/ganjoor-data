@@ -1,0 +1,58 @@
+{
+  "Id": 82919,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/hazin/robaee-hz/sh31",
+  "RhymeLetters": "ابکجاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به ساقی و محبوب خود فرا می‌خواند و از او می‌خواهد که می ناب و آب زندگی را بیاورد. او احساس تشنگی عمیقی دارد و بر نداشتن محبوبش اشاره می‌کند. همچنین با اشاره به مژگان سیاه محبوب، به درد و رنج ناشی از دوری او اشاره می‌کند. به طور کلی، این اشعار از longing و عطش روحی سخن می‌گویند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابکجاست",
+      "PlainText": "ای ساقی عاشقان می ناب کجاست\r\nای خضره ره سوختگان آب کجاست\r\nعمریست که بی تو تشنه خون خودم\r\nآن خنجر مژگان سیه تاب کجاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ساقی عاشقان، می ناب کجاست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای خضره ره سوختگان، آب کجاست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمریست که بی تو تشنهٔ خون خودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن خنجر مژگان سیه تاب کجاست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ساقی عاشقان، می ناب کجاست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای خضره ره سوختگان، آب کجاست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمریست که بی تو تشنهٔ خون خودم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن خنجر مژگان سیه تاب کجاست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

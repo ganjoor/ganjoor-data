@@ -1,0 +1,58 @@
+{
+  "Id": 70068,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/amir/robam/sh25",
+  "RhymeLetters": "هرتوراست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و ارزش باده صبوح اشاره می‌کند و می‌گوید که هر کسی که به دنبال شادی است، باید به صبوح توجه کند. باده در هر زمان می‌تواند موجب شادابی و خوشحالی شود، اما صبوح به ویژه به عنوان گنجی برای شادی و سرور شناخته می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باست",
+      "PlainText": "شاها اثر صبوح کاری عجب است\r\nنازد به صبوح هرکه شادی طلب است\r\nباده به همه وقت طرب را سبب است\r\nلیکن به صبوح  کیمیای طرب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها اثر صبوح کاری عجب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنازد به صبوح هرکه شادی طلب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباده به همه وقت طرب را سبب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن به صبوح‌ کیمیای طرب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها اثر صبوح کاری عجب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نازد به صبوح هرکه شادی طلب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باده به همه وقت طرب را سبب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لیکن به صبوح‌ کیمیای طرب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

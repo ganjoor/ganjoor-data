@@ -1,0 +1,58 @@
+{
+  "Id": 112326,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/sahab/divan/robaee/sh2",
+  "RhymeLetters": "ودمرا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از احساس شادی و خشنودی خود نسبت به یکی از دلبرها سخن می‌گوید. او می‌گوید هر لحظه دلش به یکی از معشوقانش خوش است و این شخص به مانند بت جدیدی برای اوست. او آرزو می‌کند که دلبرها کمتر و محدودتر بودند، زیرا با وجود داشتن هزار دل، هنوز هم به یک نفر قانع است. این نشان‌دهنده عشق عمیق و تمرکز شاعر بر یک عشق خاص است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ودمرا",
+      "PlainText": "هر لحظه دل از یکی است خشنود مرا\r\nگویی بت تازه ایست مقصود مرا\r\nای کاش فزون نبود دلبر ز یکی\r\nیا آنکه هزار دل فزون بود مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر لحظه دل از یکی است خشنود مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی بت تازه ایست مقصود مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کاش فزون نبود دلبر ز یکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا آنکه هزار دل فزون بود مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر لحظه دل از یکی است خشنود مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی بت تازه ایست مقصود مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای کاش فزون نبود دلبر ز یکی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا آنکه هزار دل فزون بود مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

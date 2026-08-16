@@ -1,0 +1,58 @@
+{
+  "Id": 100250,
+  "CatId": 2527,
+  "Title": "شمارهٔ  ۷۵۲",
+  "FullTitle": "آشفتهٔ شیرازی » غزلیات » شمارهٔ  ۷۵۲",
+  "FullUrl": "/ashofte/ghazal/sh752",
+  "RhymeLetters": "ستیم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شعر به زندگی و حیات دوباره‌ای اشاره دارد که عیسی (ع) به مردگان بخشید. شاعر از اینکه کمتر از عیسی نیست و عظمت خاصی دارد سخن می‌گوید و می‌افزاید که غیر از عشق، هر اشتباهی را پذیرفته و تنها مدح مرتضی (ع) را می‌ستاید.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یم",
+      "PlainText": "مردگان را از دم عیسی حیاتی تازه بود\r\nکم ز عیسی نیستی من عظمکی دارم رمیم\r\nهرچه جز عشق است آشفته خطا کردم خطا\r\nغیر مدح مرتضی استغفرالله العظیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردگان را از دم عیسی حیاتی تازه بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکم ز عیسی نیستی من عظمکی دارم رمیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچه جز عشق است آشفته خطا کردم خطا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیر مدح مرتضی استغفرالله العظیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردگان را از دم عیسی حیاتی تازه بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کم ز عیسی نیستی من عظمکی دارم رمیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچه جز عشق است آشفته خطا کردم خطا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غیر مدح مرتضی استغفرالله العظیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

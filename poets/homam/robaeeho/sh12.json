@@ -1,0 +1,58 @@
+{
+  "Id": 77830,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/homam/robaeeho/sh12",
+  "RhymeLetters": "باست",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر اشتیاق و آرزوی شدید شاعر برای معشوقش است. شاعر از شمع به عنوان نماد عشق و زیبایی یاد می‌کند و خود را به پروانه‌ای تشبیه می‌کند که در تلاش برای نزدیک شدن به شمع، می‌سوزد و نابود می‌شود. او از روز و شب به خاطر عشقش رنج می‌برد و در این حال، عشق به معشوقش را امری شگفت‌انگیز می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باست",
+      "PlainText": "در آرزوی تو شمع را جان به لب است\r\nزان مرده و سوخته چو من روز و شب است\r\nای شمع رخ تو را دو صد پروانه\r\nپروانه منم دست تو سوزد عجب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آرزوی تو شمع را جان به لب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان مرده و سوخته چو من روز و شب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمع رخ تو را دو صد پروانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپروانه منم دست تو سوزد عجب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در آرزوی تو شمع را جان به لب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان مرده و سوخته چو من روز و شب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای شمع رخ تو را دو صد پروانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پروانه منم دست تو سوزد عجب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

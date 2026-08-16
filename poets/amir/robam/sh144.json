@@ -1,0 +1,58 @@
+{
+  "Id": 70187,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴۴",
+  "FullUrl": "/amir/robam/sh144",
+  "RhymeLetters": "ین",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن به ستایش دو شخصیت یعنی حیدر و جمشید می‌پردازد. آن‌ها به عنوان نمادهای قدرت و دین معرفی می‌شوند. همچنین به مقام و موقعیت بالای آن‌ها اشاره شده و برتری آن‌ها در زمین و آسمان را توصیف می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "ای حیدر و جمشید به شمشیر و نگین\r\nدارنده دولتی و دارنده دین\r\nدر ملک تو همچو آفتابی به یقین\r\nاو هفت فلک دارد و تو هفت زمین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای حیدر و جمشید به شمشیر و نگین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارندهٔ دولتی و دارندهٔ دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ملک تو همچو آفتابی به یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو هفت فلک دارد و تو هفت زمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای حیدر و جمشید به شمشیر و نگین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دارندهٔ دولتی و دارندهٔ دین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در ملک تو همچو آفتابی به یقین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او هفت فلک دارد و تو هفت زمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

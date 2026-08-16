@@ -1,0 +1,58 @@
+{
+  "Id": 64097,
+  "CatId": 227,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "فرخی سیستانی » دیوان اشعار » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/farrokhi/divanf/robaeef/sh25",
+  "RhymeLetters": "ام",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره اشتیاق و میل به عشق و بوسه است. شاعر در توصیف احساسش می‌گوید که اگر بوسه‌ای از معشوق بگیرد، در انتهای شب، هوس وصل او را خواهد داشت. اما در عین حال، این علاقه و آرزوی او به محدودیت‌ها و ممنوعیت‌ها اشاره دارد که ممکن است درگیر احساساتی متضاد شود. شاعر خواهان وصل و نزدیکی است، ولی در عین حال با موانع و ممنوعیت‌هایی روبروست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ام",
+      "PlainText": "هر چند که از تو بوسه یابم گه بام\r\nدر آخر شب مرا هوس آید کام\r\nبوسه بده و کنار برتست حرام\r\nنشنودستی درو غزن باشد شام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که از تو بوسه یابم گه بام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آخر شب مرا هوس آید کام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوسه بده و کنار برتست حرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنودستی درو غزن باشد شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که از تو بوسه یابم گه بام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آخر شب مرا هوس آید کام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بوسه بده و کنار برتست حرام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نشنودستی درو غزن باشد شام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

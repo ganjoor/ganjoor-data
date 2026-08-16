@@ -1,0 +1,58 @@
+{
+  "Id": 2053,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۳",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۳",
+  "FullUrl": "/hafez/robaee2/sh3",
+  "RhymeLetters": "ات",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و طراوت معشوق اشاره می‌کند. او از لبه معشوق به آب حیات و از دهانش به شیرینی نبات می‌گوید. همچنین، اشاره‌ای به سخنان حافظ دارد و در پایان با بیان اینکه شادی در گفتار لطیفه‌گویان است، به دعا و صلوات ختم می‌کند. به طور کلی، شعر به عشق و زیبایی معشوق می‌پردازد و فضایی شاداب و معنوی ایجاد می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ات",
+      "PlainText": "گفتم که لبت گفت لبم آب حیات\r\nگفتم دهنت گفت زهی حب نبات\r\nگفتم سخن تو گفت حافظ گفتا\r\nشادی همه لطیفه گویان صلوات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که لبت، گفت لبم آب حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم دهنت، گفت زهی حبّ نبات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم سخن تو، گفت حافظ گفتا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشادیِ همه لطیفه‌گویان صلوات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که لبت، گفت لبم آب حیات",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم دهنت، گفت زهی حبّ نبات",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم سخن تو، گفت حافظ گفتا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شادیِ همه لطیفه‌گویان صلوات",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

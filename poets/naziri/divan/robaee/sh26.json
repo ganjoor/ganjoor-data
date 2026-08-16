@@ -1,0 +1,58 @@
+{
+  "Id": 123592,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/naziri/divan/robaee/sh26",
+  "RhymeLetters": "رست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که در زندگی نه خطا وجود دارد و نه هنر به معنای طاعت و عبادت، بلکه تسلیم و رضا اهمیت دارد. همچنین، فقر و فنا نشان‌دهنده ارزش بالاتری نسبت به زهد است. در نهایت، روی‌کردن به عجز و گناهان، برخلاف عبادت و بندگی واقعی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رست",
+      "PlainText": "این جا نه خطا عیب و نه طاعت هنرست\r\nورزیدن تسلیم و رضا معتبرست\r\nبا فقر و فناست کار نه زهد مجو\r\nاز عجز گنه عجب عبادت بترست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین جا نه خطا عیب و نه طاعت هنرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورزیدن تسلیم و رضا معتبرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا فقر و فناست کار نه زهد مجو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عجز گنه عجب عبادت بترست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این جا نه خطا عیب و نه طاعت هنرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ورزیدن تسلیم و رضا معتبرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با فقر و فناست کار نه زهد مجو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از عجز گنه عجب عبادت بترست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

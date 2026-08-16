@@ -1,0 +1,58 @@
+{
+  "Id": 101825,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/salim/divan/robaee/sh34",
+  "RhymeLetters": "اد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر به زیبایی و جذابیت معشوقه‌اش اشاره می‌کند و می‌گوید که چشمان او مانند تیغی خون‌ریز هستند که درد و رنج می‌آورند. جدایی از او به قدری تلخ است که روح و جسم او را تحت تأثیر قرار داده و او را مانند نی‌ای می‌سازد که در فراق عشقش فریاد می‌زند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اد",
+      "PlainText": "ای غمزه ی تو نهاده رسم بیداد\r\nمژگان تو خونریز چو تیغ جلاد\r\nاز داغ جدایی تو هفت اعضایم\r\nمچون نی هفت بند دارد فریاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای غمزه ی تو نهاده رسم بیداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژگان تو خونریز چو تیغ جلاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز داغ جدایی تو هفت اعضایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمچون نی هفت بند، دارد فریاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای غمزه ی تو نهاده رسم بیداد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مژگان تو خونریز چو تیغ جلاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از داغ جدایی تو هفت اعضایم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مچون نی هفت بند، دارد فریاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 84229,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/maghrebi/robaee-sm/sh18",
+  "RhymeLetters": "ابستجهان",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف یار و وجود او می‌پردازند. شاعر بیان می‌کند که در چهره یار، نقابی است که بر واقعیت وجود او ساتر شده و جهان به عنوان حبابی در دریا وجود او جلوه‌گر است. همچنین، برای تشنگان حقیقت و هستی، جهان فقط سراب است و در بادیه طلب، آب واقعی وجود ندارد. به طور کلی، شاعر به تناقض بین ظاهر و باطن و جستجوی حقیقت در زندگی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباستجهان",
+      "PlainText": "بر چهره یار ما نقابست\u00A0 جهان\r\nبر بحر وجود او حباب است جهان\r\nدر دیده تشنگان آب هستی\r\nدر بادیه طلب سراب است جهان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر چهره یار ما نقابست\u00A0 جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر بحر وجود او حباب است جهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دیده تشنگان آب هستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بادیه طلب سراب است جهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر چهره یار ما نقابست\u00A0 جهان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر بحر وجود او حباب است جهان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دیده تشنگان آب هستی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در بادیه طلب سراب است جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 105670,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۴۹",
+  "FullUrl": "/ahli/saghiname/sh50",
+  "RhymeLetters": "مارزد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد که به او نگاهی بیفکند، زیرا یک لحظه غم به هیچ چیزی نمی‌ارزد. او تأکید می‌کند که اگر ساقی یک گوشه از چشمش را به او بدهد، تمام عوالم و دنیاها را فدای آن نگاه می‌کند، چراکه ارزش آن نگاه برایش بی‌نهایت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مارزد",
+      "PlainText": "ساقی دو جهان کجا دمی غم ارزد\r\nیکجا بده که ملک صد جم ارزد\r\nعالم چکنم تو گوشه چشم فکن\r\nیک گوشه چشم تو دو عالم ارزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی دو جهان کجا دمی غم ارزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکجا بده که ملک صد جم ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم چکنم تو گوشه چشم فکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک گوشه چشم تو دو عالم ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی دو جهان کجا دمی غم ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یکجا بده که ملک صد جم ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عالم چکنم تو گوشه چشم فکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک گوشه چشم تو دو عالم ارزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

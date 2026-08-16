@@ -1,0 +1,77 @@
+{
+  "Id": 125560,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۲۵",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۲۵",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh25",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان اهمیت دوستی و محبت در زندگی انسان‌ها می‌پردازد. شاعر اشاره می‌کند که گروهی که از دوستی و ارتباطات انسانی خوشنودند، چگونه به این دوستی‌ها ارزش می‌دهند و می‌فهمند که افراد برجسته و سر افراز، با محبت و دوستی می‌توانند جهان را دگرگون کنند. در واقع، دندان محبت به معنای توانایی و قدرت دوستی در تأثیرگذاری بر زندگی است.",
+  "Sections": [
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ندند",
+      "PlainText": "آن قوم کز الفت جهان خرسندند\r\nبر دوستیش چگونه دل می بندند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن قوم کز الفت جهان خرسندند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دوستیش چگونه دل می‌بندند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دند",
+      "PlainText": "آنان که بر آدمی سر افراز شدند\r\nدندان محبت جهان را کندند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که بر آدمی سر افراز شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدندان محبت جهان را کندند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 98,
+      "Number": 98,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندند",
+      "PlainText": "آن قوم کز الفت جهان خرسندند\r\nبر دوستیش چگونه دل می بندند\r\nآنان که بر آدمی سر افراز شدند\r\nدندان محبت جهان را کندند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن قوم کز الفت جهان خرسندند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دوستیش چگونه دل می‌بندند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که بر آدمی سر افراز شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدندان محبت جهان را کندند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن قوم کز الفت جهان خرسندند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 98,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر دوستیش چگونه دل می‌بندند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 98,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنان که بر آدمی سر افراز شدند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 98,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دندان محبت جهان را کندند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 98,
+      "SectionIndex2": 30
+    }
+  ]
+}

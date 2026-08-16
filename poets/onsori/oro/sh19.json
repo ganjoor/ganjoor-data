@@ -1,0 +1,58 @@
+{
+  "Id": 68869,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/onsori/oro/sh19",
+  "RhymeLetters": "اد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به زیبایی و جذابیت معشوق اشاره می‌کند و او را به عنوان ماه سخنگو و حوری توصیف می‌کند. همچنین، از حسن و زیبایی او به عنوان یک کودک خردسال یاد می‌کند و از شگفتی‌های سحرانگیز او صحبت می‌کند. در نهایت، شاعر از معشوق می‌پرسد که این زیبایی را از چه کسی به ارث برده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اد",
+      "PlainText": "ای ماه سخنگوی من ای حورنژاد\r\nاز حسن بزرگ کودک خرد نزاد\r\nدر سحر به دلبری شده ستی استاد\r\nاین ساحری از که داری ای دلبر یاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ماه سخنگوی من ای حورنژاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حسن بزرگ، کودکِ خُرد نزاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سِحر به دلبری شده‌ستی استاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین ساحری از که داری ای دلبر یاد؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ماه سخنگوی من ای حورنژاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از حسن بزرگ، کودکِ خُرد نزاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سِحر به دلبری شده‌ستی استاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این ساحری از که داری ای دلبر یاد؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

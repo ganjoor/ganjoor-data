@@ -1,0 +1,58 @@
+{
+  "Id": 83084,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۸۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۸۷",
+  "FullUrl": "/hazin/robaee-hz/sh187",
+  "RhymeLetters": "مدل",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت از اندوه زیاد سخن می‌گوید و بیان می‌کند که دلش به شدت در ماتم است. او از عذابی که دارد می‌کشد، رنج می‌برد و از نبود همدمی که بتواند دردهای دلش را با او در میان بگذارد، نالان است. احساس تنهایی و غم عمیق او، باعث می‌شود که نتواند غم خود را با دیگران به اشتراک بگذارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مدل",
+      "PlainText": "اندوه چو بیش شد گرفتم کم دل\r\nدل ماتم من گرفت و من ماتم دل\r\nامروز کجاست ور بود همدم دل\r\nگفتن نتوان به غمگساران غم دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندوه چو بیش شد گرفتم کم دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل ماتم من گرفت و من ماتم دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز کجاست ور بود همدم دل؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتن نتوان به غمگساران غم دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اندوه چو بیش شد گرفتم کم دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل ماتم من گرفت و من ماتم دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز کجاست ور بود همدم دل؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتن نتوان به غمگساران غم دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

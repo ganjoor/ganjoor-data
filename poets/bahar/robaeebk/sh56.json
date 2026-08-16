@@ -1,0 +1,58 @@
+{
+  "Id": 51779,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/bahar/robaeebk/sh56",
+  "RhymeLetters": "سان",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به انسان اشاره دارد که باید به زیبایی و ظاهر خود دقت کند، زیرا اگر به خود غفلت کند، ممکن است در نهایت آسیب ببیند. شاعر همچنین به این نکته تأکید می‌کند که مانند تیغ باید تیز و هوشیار بود تا در تعامل با دیگران به راحتی عبور کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سان",
+      "PlainText": "یک روی چو آیینه مبادا انسان\r\nکاخر شکند ز جلوه روی خسان\r\nماننده تیغ شو همه روی و زبان\r\nتا بگذری از میان مردم آسان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک روی چو آیینه مبادا انسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاخر شکند ز جلوهٔ روی خسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانندهٔ تیغ شو همه روی و زبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بگذری از میان مردم آسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک روی چو آیینه مبادا انسان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاخر شکند ز جلوهٔ روی خسان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مانندهٔ تیغ شو همه روی و زبان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بگذری از میان مردم آسان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

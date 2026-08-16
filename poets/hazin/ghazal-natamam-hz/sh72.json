@@ -1,0 +1,72 @@
+{
+  "Id": 83233,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۷۲",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh72",
+  "RhymeLetters": "لمارا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات عمیق و دردناکی اشاره دارد که در اثر جدایی و حسرت در دل شاعر شکل گرفته است. شاعر به تصویر سیل و رگ ابر به عنوان نشانه‌هایی از آشفتگی و غم درونی اشاره می‌کند. او تجربه داغی شدید را توصیف می‌کند که ناشی از فقدان و جدایی از عزیزانش است. در انتها، شاعر به چرخ فلک اشاره می‌کند و می‌گوید که از آن دور، اوضاع روشن نشده است و این درد جدایی همچنان در محفل شان حس می‌شود.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لمارا",
+      "PlainText": "هم آغوش است سیل خانه زادی منزل ما را\r\nرگ ابر است مژگان دیده دریا دل ما را\r\nبه هر لخت جگر از داغ حسرت دوزخی دارم\r\nچه می دانی کدامین شعله می سوزد دل ما را\r\nز دور ای چرخ شوراختر تماشا کن که روشن شد\r\nچراغ از داغ هجر هم نشینان محفل ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم آغوش است، سیل خانه زادی منزل ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرگ ابر است مژگان، دیده دریا دل ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر لخت جگر از داغ حسرت دوزخی دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه می دانی کدامین شعله می سوزد دل ما را؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دور ای چرخ شوراختر، تماشا کن که روشن شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچراغ از داغ هجر هم نشینان محفل ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هم آغوش است، سیل خانه زادی منزل ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رگ ابر است مژگان، دیده دریا دل ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به هر لخت جگر از داغ حسرت دوزخی دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه می دانی کدامین شعله می سوزد دل ما را؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز دور ای چرخ شوراختر، تماشا کن که روشن شد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چراغ از داغ هجر هم نشینان محفل ما را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

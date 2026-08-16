@@ -1,0 +1,58 @@
+{
+  "Id": 69382,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/azraghi/arob/sh21",
+  "RhymeLetters": "فت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در دل من عشق تو شکوفا شد و از وجودت خشنود شدم، هم در پنهان و هم در آشکار. ای زیبایی که با خداوند همساز هستی، من شکرگزاری خدای خود را به خاطر تو می‌دانم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فت",
+      "PlainText": "تا در دل من گل هوای تو شکفت\r\nخشنود شدم از تو به پیدا و نهفت\r\nای خوی خوش تو با خداوندی جفت\r\nشکر تو خدای خویش را دانم گفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا در دل من گل هوای تو شکفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخشنود شدم از تو به پیدا و نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خوی خوش تو با خداوندی جفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکر تو خدای خویش را دانم گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا در دل من گل هوای تو شکفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خشنود شدم از تو به پیدا و نهفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خوی خوش تو با خداوندی جفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکر تو خدای خویش را دانم گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

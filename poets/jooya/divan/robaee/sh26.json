@@ -1,0 +1,58 @@
+{
+  "Id": 103080,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/jooya/divan/robaee/sh26",
+  "RhymeLetters": "ماست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به بزرگی و کرم نواب کزو اشاره می‌کند که سران قوم در برابر او تعظیم می‌کنند. در سایه عدالت او، همه در آرامش به سر می‌برند، اما شاعر خود را در دوری از او دچار ستم و ناآرامی می‌بیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ماست",
+      "PlainText": "نواب کزو رواج جود و کرم است\r\nسرهای سران پیش بزرگیش خم است\r\nدر سایه عدلش همه را آرام است\r\nجز من که مرا دوری از آن در ستم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنواب کزو رواج جود و کرم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرهای سران پیش بزرگیش خم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سایهٔ عدلش همه را آرام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز من که مرا دوری از آن در ستم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نواب کزو رواج جود و کرم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرهای سران پیش بزرگیش خم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سایهٔ عدلش همه را آرام است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز من که مرا دوری از آن در ستم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

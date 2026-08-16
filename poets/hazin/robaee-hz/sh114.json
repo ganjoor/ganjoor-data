@@ -1,0 +1,58 @@
+{
+  "Id": 83002,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۱۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۱۴",
+  "FullUrl": "/hazin/robaee-hz/sh114",
+  "RhymeLetters": "اریهاکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق عاشقانه و درد جدایی می‌پردازد. دل در غم فراق معشوق بی‌قرار است و چشمان شاعر مانند طوفانی می‌بارند. علی‌رغم زخم‌هایی که خورده، شاعر همچنان برای رسیدن به معشوق تلاش می‌کند و از پا نمی‌افتد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریهاکرد",
+      "PlainText": "دل در غم هجر بی قراری ها کرد\r\nوین دیده طوفان زده زاریها کرد\r\nبا دامن وصل او نیفتاد حریف\r\nاین دست شکسته پایداریها کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل در غم هجر، بی قراری ها کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین دیدهٔ طوفان زده زاریها کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا دامن وصل او نیفتاد حریف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین دست شکسته، پایداریها کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل در غم هجر، بی قراری ها کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین دیدهٔ طوفان زده زاریها کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با دامن وصل او نیفتاد حریف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این دست شکسته، پایداریها کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

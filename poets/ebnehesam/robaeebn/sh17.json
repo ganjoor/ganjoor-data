@@ -1,0 +1,58 @@
+{
+  "Id": 64814,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۱۷",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۱۷",
+  "FullUrl": "/ebnehesam/robaeebn/sh17",
+  "RhymeLetters": "یشتوباد",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به نوعی نشان‌دهنده قدرت و تأثیر ناپسندی است که بر افرادی که بداندیش هستند، دارد. شاعر در آن از تیر سرنوشت و چرخ روزگار صحبت می‌کند که موجب هلاکت دشمنان و بداندیشان می‌شود. او همچنین از خدمت به راست‌کرداری و تلاش برای برطرف کردن مشکلات اشاره کرده و تصویر کمانی را به کار می‌برد که به دو حالت خمیدگی و راست‌کردن زندگی اشاره دارد. به طور کلی، شعر به تقابل خوبی و بدی و سرنوشت افراد بداندیش می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشتوباد",
+      "PlainText": "تیر تو هلاکت بداندیش تو باد\r\nقربان رهت دشمن بدکیش تو باد\r\nای چرخ کمان پشت به خدمت کاری\r\nخم ساخته پشت چون کمان پیش تو باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیر تو هلاکت بداندیش تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقربان رهت دشمن بدکیش تو باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چرخ کمان پشت به خدمت کاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخم ساخته پشت چون کمان پیش تو باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تیر تو هلاکت بداندیش تو باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قربان رهت دشمن بدکیش تو باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای چرخ کمان پشت به خدمت کاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خم ساخته پشت چون کمان پیش تو باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

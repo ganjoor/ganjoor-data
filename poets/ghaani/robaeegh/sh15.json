@@ -1,0 +1,58 @@
+{
+  "Id": 45828,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۱۵",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۱۵",
+  "FullUrl": "/ghaani/robaeegh/sh15",
+  "RhymeLetters": "س",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به این موضوع اشاره می‌کند که در روز ستاره، افشانی و زیبایی ادامه نخواهد داشت. او از این نگران است که اگر کسی زیبایی را ببیند، ممکن است با آرزوهای خود نرسد. در نهایت، به این نتیجه می‌رسد که یا باید به دنیا بی‌اعتنایی کند یا از خواسته‌های نفسانی خود فاصله بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "س",
+      "PlainText": "بر روز ستاره تا کی افشانی بس\r\nدر روز ستاره بالله ار بیند کس\r\nدهرت ز مراد خویش دارد محروم\r\nیا دست جهان ببند یا پای هوس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر روز ستاره تا کی افشانی بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر روز ستاره بالله ار بیند کس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهرت ز مراد خویش دارد محروم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا دست جهان ببند یا پای هوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر روز ستاره تا کی افشانی بس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در روز ستاره بالله ار بیند کس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دهرت ز مراد خویش دارد محروم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا دست جهان ببند یا پای هوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

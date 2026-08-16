@@ -1,0 +1,58 @@
+{
+  "Id": 35280,
+  "CatId": 831,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "عطار » مختارنامه » باب سی‌ام: در فراغت نمودن از معشوق » شمارهٔ ۲۵",
+  "FullUrl": "/attar/mokhtarname/bb30/sh25",
+  "RhymeLetters": "ربیتو",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شاعر با استفاده از نمادهایی مثل حلقه، اشک و زر، احساس تنهایی و بی‌خبری از محبوبش را بیان می‌کند. او در دلتنگی و اندوه به سر می‌برد و به تضاد بین حالت خود و حال محبوب اشاره می‌کند. در حالی که محبوب در حال فعالیت و پیشرفت است، او احساس خاک و بی‌کسی می‌کند. این اختلاف در وضعیت عاطفی، این شعر را به اوج افکار عمیق و دلتنگی شاعر می‌رساند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ربیتو",
+      "PlainText": "تاکی باشم چو حلقه بر در بی تو\r\nبا اشک چو سیم و رخ چون زر بی تو\r\nتو بر سر کار و سر به کار آورده\r\nمن بر سر خاک و خاک بر سر بی تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاکی باشم چو حلقه بر در بی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا اشکِ چو سیم و رخ چون زر بی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بر سر کار و سر به کار آورده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بر سر خاک و خاک بر سر بی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تاکی باشم چو حلقه بر در بی تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با اشکِ چو سیم و رخ چون زر بی تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو بر سر کار و سر به کار آورده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بر سر خاک و خاک بر سر بی تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

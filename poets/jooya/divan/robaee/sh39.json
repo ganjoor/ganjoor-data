@@ -1,0 +1,58 @@
+{
+  "Id": 103093,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۹",
+  "FullUrl": "/jooya/divan/robaee/sh39",
+  "RhymeLetters": "ینهفتد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به این نکته اشاره می‌کند که اگر کینه‌ای در دل شخص جای گیرد، آن کینه به نوعی در دلش محبوس می‌شود. همچنین، بیان می‌کند که عیب دیگر این فرد این است که به خاطر بی‌روئی و نبودن او، تصویرش در آینه منعکس نخواهد شد. به طور کلی، شاعر به نگریستن به درون و تأثیرات منفی احساسات و رفتارها اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینهفتد",
+      "PlainText": "در سینه تو چون گذر کینه فتد\r\nآن کینه به حبس دیرینه فتد\r\nعیب دگرت اینکه ز بس بیرویی\r\nعکس تو محال است در آیینه فتد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سینهٔ تو چون گذر کینه فتد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کینه به حبس دیرینه فتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیب دگرت اینکه ز بس بیرویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعکس تو محال است در آیینه فتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سینهٔ تو چون گذر کینه فتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن کینه به حبس دیرینه فتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عیب دگرت اینکه ز بس بیرویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عکس تو محال است در آیینه فتد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

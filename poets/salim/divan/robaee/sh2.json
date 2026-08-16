@@ -1,0 +1,58 @@
+{
+  "Id": 101793,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/salim/divan/robaee/sh2",
+  "RhymeLetters": "اییستخدا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در دل همه افراد، خداوندی وجود دارد که به ما کمک می‌کند. زمانی که در تنگنا هستیم، به سوی خداوند می‌رویم، زیرا او تنها عشق و امید ما در روزهای سختی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییستخدا",
+      "PlainText": "در دل همه در گره گشایی ست خدا\r\nبا ما به سر لطف خدایی ست خدا\r\nمفلس چو شدیم رو به او می آریم\r\nمعشوقه ی روز بینوایی ست خدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دل همه در گره گشایی ست خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا ما به سر لطف خدایی ست خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمفلس چو شدیم، رو به او می آریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعشوقه ی روز بینوایی ست خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دل همه در گره گشایی ست خدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با ما به سر لطف خدایی ست خدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مفلس چو شدیم، رو به او می آریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معشوقه ی روز بینوایی ست خدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

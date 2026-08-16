@@ -1,0 +1,58 @@
+{
+  "Id": 107270,
+  "CatId": 2586,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » سایر اشعار » شمارهٔ ۲۰",
+  "FullUrl": "/daye/divan/sayer/sh20",
+  "RhymeLetters": "مبراورم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از درد و غم خود سخن می‌گوید. او بیان می‌کند که اگر در صبح زود از سوز و اندوه خود خارج شود، می‌تواند جهانیان را از غم آزاد کند. اما هر لحظه با نفس‌هایش، درد و اندوه را درون خود نگه می‌دارد و از خود می‌پرسد که تا کی می‌تواند این غم را تحمل کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مبراورم",
+      "PlainText": "گر صبحدم ز سوز غمت سر برآورم\r\nگرد از نهاد عالم و آدم برآورم\r\nهر دم هزار بار فرو می رود نفس\r\nتا کی نفس فرو برم و غم برآورم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر صبحدم ز سوز غمت سر برآورم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد از نهاد عالم و آدم برآورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم هزار بار فرو می رود نفس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کی نفس فرو برم و غم برآورم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر صبحدم ز سوز غمت سر برآورم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرد از نهاد عالم و آدم برآورم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر دم هزار بار فرو می رود نفس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا کی نفس فرو برم و غم برآورم؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

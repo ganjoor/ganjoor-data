@@ -1,0 +1,58 @@
+{
+  "Id": 45687,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۴۷",
+  "FullUrl": "/ghaani/ghetegh/sh47",
+  "RhymeLetters": "ند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات به نفس انسان اجازه داده شده که هر چه می‌خواهد انجام دهد، اما باید از ارتباط با جاهلان پرهیز کند. زیرا اگرچه جاهل ممکن است به عنوان برادر او باشد، اما ارتباط با او می‌تواند آسیب‌های زیادی به آخرت انسان برساند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "بکن ای نفس هرچه می خواهی\r\nلیک با جاهلان مکن پیوند\r\nجاهل ار فی المثل برادر تست\r\nآخرت زو رسد هزار گزند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکن ای نفس هرچه می‌خواهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک با جاهلان مکن پیوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجاهل ار فی‌المثل برادر تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخرت زو رسد هزار گزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بکن ای نفس هرچه می‌خواهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیک با جاهلان مکن پیوند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جاهل ار فی‌المثل برادر تست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخرت زو رسد هزار گزند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45728,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۶۶",
+  "FullUrl": "/ghaani/ghetegh/sh66",
+  "RhymeLetters": "ار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این نکته است که اگر در کارها کم‌کاری یا افراط وجود داشته باشد، در پایان به زیان منجر می‌شود. حتی آتش کوچک می‌تواند دودمان‌ها را به خطر بیندازد، بنابراین باید به مسائل کوچک نیز توجه کرد تا از عواقب بزرگتر جلوگیری شود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "جور اگر کم بود اگر فزون\r\nزان زیانها رسد در آخر کار\r\nای بسا دودمان  که خواهد سوخت\r\nآتش ار اندکست اگر بسیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجور اگر کم بود اگر فزون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان زیانها رسد در آخر کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بسا دودمان‌ که خواهد سوخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش ار اندکست اگر بسیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جور اگر کم بود اگر فزون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان زیانها رسد در آخر کار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای بسا دودمان‌ که خواهد سوخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتش ار اندکست اگر بسیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

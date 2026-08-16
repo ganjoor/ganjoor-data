@@ -1,0 +1,58 @@
+{
+  "Id": 2055,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۵",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۵",
+  "FullUrl": "/hafez/robaee2/sh5",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به احساسی اشاره دارد که هنگام در آغوش گرفتن معشوق به او دست زده است و در ذهنش فکر کرده که در این آغوش چیزی وجود دارد. اما وقتی متوجه می‌شود که عشق و ارتباط واقعی میان آنها وجود ندارد، دچار سردرگمی می‌شود و نمی‌داند باید در این ارتباط چه قدمی بردارد. این شعر به عمق احساسات و نااطمینانی در روابط عاشقانه پرداخته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "من با کمر تو در میان کردم دست\r\nپنداشتمش که در میان چیزی هست\r\nپیداست از آن میان چو بربست کمر\r\nتا من ز کمر چه طرف خواهم بربست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن با کمر تو در میان کردم دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنداشتمش که در میان چیزی هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیداست از آن میان چو بربست کمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا من ز کمر چه طرْف خواهم بربست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من با کمر تو در میان کردم دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پنداشتمش که در میان چیزی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیداست از آن میان چو بربست کمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا من ز کمر چه طرْف خواهم بربست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

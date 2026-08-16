@@ -1,0 +1,58 @@
+{
+  "Id": 64854,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۵۷",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۵۷",
+  "FullUrl": "/ebnehesam/robaeebn/sh57",
+  "RhymeLetters": "رپرس",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره احساسات عمیق و ناامیدی شاعر است. او در شب‌ها به ستاره‌ها می‌نگرد و از آنها حال دل خود را می‌پرسد. همچنین به این نکته اشاره می‌کند که بدون محبت دوست، نمی‌توان به شادی و آرامش واقعی دست یافت. شاعر با این بیان، از دوست خود می‌خواهد که به او سر بزند و حالش را بپرسد، حتی اگر هیچ چیزی نداشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رپرس",
+      "PlainText": "بیداری شبهای من از اختر پرس\r\nحال دل پر خون ز لب ساغر پرس\r\nبی زر ز لب دوست به کامی نرسند\r\nای دوست بیا و از من بی زر پرس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیداری شبهای من از اختر پرس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحال دل پر خون ز لب ساغر پرس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی زر ز لب دوست به کامی نرسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دوست بیا و از من بی زر پرس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیداری شبهای من از اختر پرس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حال دل پر خون ز لب ساغر پرس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی زر ز لب دوست به کامی نرسند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای دوست بیا و از من بی زر پرس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

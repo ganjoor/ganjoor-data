@@ -1,0 +1,58 @@
+{
+  "Id": 75821,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/nezari/robnez/sh74",
+  "RhymeLetters": "ونگردد",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به تغییرات مکرر و ناپایداری دنیا اشاره می‌کند. او به این نکته می‌پردازد که در آینه‌ی زمان، هر لحظه ممکن است اوضاع دگرگون شود و انسان‌ها به تناسب شرایط، تغییر کنند. این تحولات باعث می‌شود دل انسان به شدت تحت تأثیر قرار گیرد و احساساتش به نوسان بیفتد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونگردد",
+      "PlainText": "هر دم زدنی فلک دگرگون گردد\r\nهر دون سخی ای و هر سخی دون گردد\r\nزاندیشه آنک تا دگر چون گردد\r\nدل در بر زیرکان همی خون گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم زدنی فلک دگرگون گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دون سخی ای و هر سخی دون گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزاندیشه آنک تا دگر چون گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل در بر زیرکان همی خون گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر دم زدنی فلک دگرگون گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر دون سخی ای و هر سخی دون گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاندیشه آنک تا دگر چون گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل در بر زیرکان همی خون گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

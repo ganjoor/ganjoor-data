@@ -1,0 +1,58 @@
+{
+  "Id": 118929,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/azar/divan/robaee/sh8",
+  "RhymeLetters": "اریها",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در یک شب دور از تو به شدت ناله می‌کردم و در خواب بسیاری از یاران تو را دیدم. اما از آن شب به بعد، دیگر خواب نمی‌بینم و فقط بیداری‌ها را تجربه می‌کنم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریها",
+      "PlainText": "دور از تو شبی در اثر زاری ها\r\nدیدم ز تو در خواب بسی یاری ها\r\nزان شب دگرم خواب نه سبحان الله\r\nیک خواب وز پی این همه بیداری ها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدور از تو شبی در اثر زاری‌ها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدم ز تو در خواب بسی یاری‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان شب دگرم خواب نه، سبحان الله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک خواب وز پی این همه بیداری‌ها؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دور از تو شبی در اثر زاری‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیدم ز تو در خواب بسی یاری‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان شب دگرم خواب نه، سبحان الله",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک خواب وز پی این همه بیداری‌ها؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

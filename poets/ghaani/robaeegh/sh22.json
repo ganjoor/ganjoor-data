@@ -1,0 +1,58 @@
+{
+  "Id": 45835,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۲۲",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۲۲",
+  "FullUrl": "/ghaani/robaeegh/sh22",
+  "RhymeLetters": "شم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که هرچند حاضر است خود را در سختی و خفت بیندازد، اما نمی‌خواهد بار شرمندگی را بر دوش بکشد. او همچنین می‌افزاید که دوست به مرگ او خوشحال است و او نیز به مرگ خود به نوعی خوشحال است، به این معنی که مرگ را به موقعیت شرم‌آور ترجیح می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شم",
+      "PlainText": "بگذار که خویش را به خواری بکشم\r\nمپسند که بار شرمساری بکشم\r\nچون دوست به مرگ من به هر حال خوشست\r\nمن نیز به مرگ خود به هر حال خوشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذار که خویش را به خواری بکشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمپسند که بار شرمساری بکشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دوست به مرگ من به هر حال خوشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن نیز به مرگ خود به هر حال خوشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگذار که خویش را به خواری بکشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مپسند که بار شرمساری بکشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون دوست به مرگ من به هر حال خوشست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من نیز به مرگ خود به هر حال خوشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

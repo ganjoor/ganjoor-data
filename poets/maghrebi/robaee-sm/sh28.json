@@ -1,0 +1,58 @@
+{
+  "Id": 84239,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/maghrebi/robaee-sm/sh28",
+  "RhymeLetters": "اامدهای",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: این شعر به بررسی وجود و وضعیت فرد می‌پردازد. شاعر می‌پرسد چرا فردی به اینجا آمده و از کجا آمده است. فرد به حدی در بازی و سرگرمی غرق شده که گویی تنها برای سرگرمی و بازی به اینجا آمده است و به عمق مسائل توجهی ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اامدهای",
+      "PlainText": "با ما نتوان گفت چرا آمده ای\r\nبا خود تو که ای\u00A0 و از کجا آمده ای\r\nاز بس که به بازی و هوا مشغولی\r\nگویی که به بازی و هوا آمده ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا ما نتوان گفت چرا آمده ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خود تو که ای\u00A0 و از کجا آمده ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که به بازی و هوا مشغولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که به بازی و هوا آمده ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با ما نتوان گفت چرا آمده ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خود تو که ای\u00A0 و از کجا آمده ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که به بازی و هوا مشغولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی که به بازی و هوا آمده ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

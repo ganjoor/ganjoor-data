@@ -1,0 +1,58 @@
+{
+  "Id": 101834,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/salim/divan/robaee/sh43",
+  "RhymeLetters": "نمیمیرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر احساس درد و بی‌تابی خود را به تصویر می‌کشد. او تشبیه می‌کند که مانند شمع در حال ذوب شدن است و اگر آتش وجودش خاموش شود، او نیز می‌میرد. با وجود آتش دوزخ، او به سوختن و دردهای دیگر اهمیت نمی‌دهد و تنها به سرنوشت خود می‌اندیشد. در واقع، این شعر بیانگر عواطف عمیق و نگران‌کننده شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمیمیرد",
+      "PlainText": "بی تاب و تبم چو شمع تن می میرد\r\nمی میرم اگر آتش من می میرد\r\nاز آتش دوزخ دل ما را چه غم است\r\nهندو ز برای سوختن می میرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی تاب و تبم چو شمع تن می میرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی میرم اگر آتش من می میرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آتش دوزخ دل ما را چه غم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهندو ز برای سوختن می میرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی تاب و تبم چو شمع تن می میرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می میرم اگر آتش من می میرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آتش دوزخ دل ما را چه غم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هندو ز برای سوختن می میرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

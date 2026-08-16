@@ -1,0 +1,58 @@
+{
+  "Id": 51745,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۲۲ - تاریخ وفات مرحوم سید محمد طباطبایی",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۲۲ - تاریخ وفات مرحوم سید محمد طباطبایی",
+  "FullUrl": "/bahar/robaeebk/sh22",
+  "RhymeLetters": "اکبرفت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات درباره‌ی وفات حجه دین محمد صحبت می‌کند. شاعر می‌گوید که او از خاک به عالم دیگر رفت و در این مسیر، پاک و بی‌آلایش زندگی کرد و سرانجام نیز با طهارت از دنیا رفت. تاریخ مرگ او به‌صورت مختصر بیان شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکبرفت",
+      "PlainText": "تا حجه دین محمد از خاک برفت\r\nاز خاک خروش ما بر افلاک برفت\r\nتاریخ وفاتش این چنین است که وی\r\nپاک آمد و پاک زیست هم پاک برفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا حجهٔ دین محمد از خاک برفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خاک خروش ما بر افلاک برفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاریخ وفاتش این چنین است که: وی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپاک آمد و پاک زیست هم پاک برفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا حجهٔ دین محمد از خاک برفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خاک خروش ما بر افلاک برفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تاریخ وفاتش این چنین است که: وی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پاک آمد و پاک زیست هم پاک برفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

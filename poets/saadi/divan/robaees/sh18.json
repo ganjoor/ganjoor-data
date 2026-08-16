@@ -1,0 +1,58 @@
+{
+  "Id": 10079,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۸",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۸",
+  "FullUrl": "/saadi/divan/robaees/sh18",
+  "RhymeLetters": "انست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به تضاد میان زیبایی و زشتی اشاره می‌کند. او می‌گوید که آنچه در ابتدا زیبا و دل‌انگیز به نظر می‌رسید، در حال حاضر به زشت‌ترین و شیطانی‌ترین حالت خود درآمده است. زیبایی رویی که در زمستان شگفت‌انگیز است، اکنون مانند پالتوی پوستین در تابستان، نامناسب و ناخوشایند به نظر می‌رسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انست",
+      "PlainText": "آن ماه که گفتی ملک رحمانست\r\nاین بار اگرش نگه کنی شیطانست\r\nرویی که چو آتش به زمستان خوش بود\r\nامروز چو پوستین به تابستانست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ماه که گفتی ملک رحمانست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین بار اگرش نگه کنی شیطانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرویی که چو آتش به زمستان خوش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز چو پوستین به تابستانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن ماه که گفتی ملک رحمانست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این بار اگرش نگه کنی شیطانست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رویی که چو آتش به زمستان خوش بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز چو پوستین به تابستانست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

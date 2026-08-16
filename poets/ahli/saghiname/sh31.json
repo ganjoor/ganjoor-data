@@ -1,0 +1,58 @@
+{
+  "Id": 105651,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۳۰",
+  "FullUrl": "/ahli/saghiname/sh31",
+  "RhymeLetters": "رخواهدرفت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر به احساس دل، جدایی و سرگردانی اشاره شده است. شاعر می‌گوید اگر دل من (ساقی) از دست برود، به کجا خواهد رفت و به چه چیزی خواهد پیوست. همچنین اشاره می‌کند که صوفی (عارف) که مانند ظرفی تنگ پر از خودخواهی است، حتی اگر یک جرعه هم نوشیده باشد، نهایتاً به زودی از زندگی خود فاصله خواهد گرفت. به طور کلی، شعر به مفهوم فانی بودن وجود و عشق اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رخواهدرفت",
+      "PlainText": "ساقی دل من ز دست اگر خواهد رفت\r\nبحرست ز خود کجا بدر خواهد رفت\r\nصوفی که چو ظرف تنگ از خویش پرست\r\nیکجرعه گرش همی بسر خواهد رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی دل من ز دست اگر خواهد رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحرست ز خود کجا بدر خواهد رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی که چو ظرف تنگ از خویش پرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکجرعه گرش همی بسر خواهد رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی دل من ز دست اگر خواهد رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بحرست ز خود کجا بدر خواهد رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صوفی که چو ظرف تنگ از خویش پرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکجرعه گرش همی بسر خواهد رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

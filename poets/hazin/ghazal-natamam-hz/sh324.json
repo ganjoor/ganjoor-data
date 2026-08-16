@@ -1,0 +1,44 @@
+{
+  "Id": 83485,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۳۲۴",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۳۲۴",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh324",
+  "RhymeLetters": "اکندگوشی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به لحظه‌ای اشاره دارد که در صبح زود و با برکت سحر بیدار می‌شویم و مانند خورشید تابناک به زندگی و شادابی می‌پردازیم. یعنی روزی خوش و پرانرژی را آغاز می‌کنیم.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اببرخیزی",
+      "PlainText": "خوش آن ساعت که از فیض سحر شاداب برخیزی\r\nز خواب صبح چون خورشید عالمتاب برخیزی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن ساعت که از فیض سحر شاداب برخیزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خواب صبح، چون خورشید عالمتاب برخیزی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آن ساعت که از فیض سحر شاداب برخیزی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز خواب صبح، چون خورشید عالمتاب برخیزی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

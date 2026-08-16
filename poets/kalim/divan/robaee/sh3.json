@@ -1,0 +1,58 @@
+{
+  "Id": 90714,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/kalim/divan/robaee/sh3",
+  "RhymeLetters": "تلخاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار بیانگر تناقض میان ظاهر و باطن شاعر است. او خود را شیرین و خوشایند می‌داند، اما سخنانش تلخ و سخت به نظر می‌رسند. همچنین، او از عذابی که به خاطر گفتن حقیقت متحمل می‌شود رنج می‌برد و این باعث تلخی کلامش می‌شود. در کل، شاعر احساس می‌کند که حقایق تلخ زندگی‌اش باعث آزار او و دیگران می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمتلخاست",
+      "PlainText": "شیرینم و مغز سخنانم تلخ است\r\nعیش همه عالم از زبانم تلخ است\r\nمنهم از خویش در عذابم که مدام\r\nاز گفتن حرف حق دهانم تلخ است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیرینم و مغز سخنانم تلخ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیش همه عالم از زبانم تلخ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنهم از خویش در عذابم که مدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گفتن حرف حق دهانم تلخ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شیرینم و مغز سخنانم تلخ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عیش همه عالم از زبانم تلخ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منهم از خویش در عذابم که مدام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از گفتن حرف حق دهانم تلخ است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

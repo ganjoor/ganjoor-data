@@ -1,0 +1,58 @@
+{
+  "Id": 119625,
+  "CatId": 2755,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » قطعات » شمارهٔ ۵",
+  "FullUrl": "/neshat/divan/ghete/sh5",
+  "RhymeLetters": "ندنیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر اشاره به تلخی‌ها و دشواری‌های عشق دارد. شاعر می‌گوید که پاداش تلخ‌ها فقط یک بوسه است که به زحمت و تحمل نمی‌ارزد. همچنین کسی که به دنبال آزادی از قید و بند عشق است، باید در این دام نماند، زیرا عشق باید باعث شادابی و نشاط باشد نه بندگی و افسردگی.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندنیست",
+      "PlainText": "پاداش تلخها که از آن لب شنیده ام\r\nجز بوسه ای بر آن دهن نوشخند نیست\r\nصیدی که آرزوی رهایی کند نشاط\r\nدر صید گاه عشق سزاوار بندنیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپاداش تلخها که از آن لب شنیده ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز بوسه ای بر آن دهن نوشخند نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصیدی که آرزوی رهایی کند نشاط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صید گاه عشق سزاوار بندنیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پاداش تلخها که از آن لب شنیده ام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز بوسه ای بر آن دهن نوشخند نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صیدی که آرزوی رهایی کند نشاط",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در صید گاه عشق سزاوار بندنیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

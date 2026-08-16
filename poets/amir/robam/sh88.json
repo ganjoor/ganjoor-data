@@ -1,0 +1,58 @@
+{
+  "Id": 70131,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۸۸",
+  "FullUrl": "/amir/robam/sh88",
+  "RhymeLetters": "وربود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به شاه می‌گوید که او مانند ماه، دارای زیبایی و ارزش است و زیر قدم او، پادشاهی زمین شکل خواهد گرفت. همچنین، سلطنت او از سرزمین روم تا چین گسترش خواهد یافت و پیشگویی‌هایی که کرده‌اند، به حقیقت خواهد پیوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینخواهدبود",
+      "PlainText": "ای شاه تورا ماه نگین خواهد بود\r\nزیر قدمت ملک زمین خواهد بود\r\nملک تو ز روم تا به چین خواهد بود\r\nما فال زدیم و همچنین خواهد بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه تورا ماه نگین خواهد بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرِ قدمت ملک زمین خواهد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک تو ز روم تا به چین خواهد بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما فال زدیم و همچنین خواهد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه تورا ماه نگین خواهد بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیرِ قدمت ملک زمین خواهد بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ملک تو ز روم تا به چین خواهد بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما فال زدیم و همچنین خواهد بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

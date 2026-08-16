@@ -1,0 +1,58 @@
+{
+  "Id": 112339,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/sahab/divan/robaee/sh15",
+  "RhymeLetters": "استهاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس حسرت و اندوه دل عاشق می‌پردازد. شاعر بیان می‌کند که دیگران در حال خوشگذرانی هستند و او در آتش حسرت می‌سوزد. معشوق به جایی که دلش می‌خواهد رفته و دل شاعر بدون او چنان شده که انگار به خواست معشوق است. در واقع، شاعر از دوری و تنهایی خود ناله می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استهاست",
+      "PlainText": "غیر از تو بساط عیش آراسته است\r\nدر آتش رشک جان من کاسته است\r\nاو با تو به جایی که دلش خواسته است\r\nدل بی تو چنان شد که دلت خواسته است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از تو بساط عیش آراسته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آتش رشک جان من کاسته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو با تو به جائی که دلش خواسته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بی تو چنان شد که دلت خواسته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غیر از تو بساط عیش آراسته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آتش رشک جان من کاسته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او با تو به جائی که دلش خواسته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل بی تو چنان شد که دلت خواسته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

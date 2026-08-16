@@ -1,0 +1,58 @@
+{
+  "Id": 101858,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/salim/divan/robaee/sh67",
+  "RhymeLetters": "اناندردل",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر از غم معشوقه‌اش به شدت ناله می‌کند و این غم را مانند سنگینی زمین و آسمان در دل خود حس می‌کند. عشق او شبیه به خشم دشمنان و مهرش به دوستانش مانند حساب و کتابی در دلش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناندردل",
+      "PlainText": "دارم ز غم تو صد فغان اندر دل\r\nباری چو زمین و آسمان اندر دل\r\nعشقی چو عتاب دشمنان اندر سر\r\nمهری چو حساب دوستان اندر دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارم ز غم تو صد فغان اندر دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباری چو زمین و آسمان اندر دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشقی چو عتاب دشمنان اندر سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهری چو حساب دوستان اندر دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارم ز غم تو صد فغان اندر دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باری چو زمین و آسمان اندر دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشقی چو عتاب دشمنان اندر سر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مهری چو حساب دوستان اندر دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

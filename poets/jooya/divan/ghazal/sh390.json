@@ -1,0 +1,58 @@
+{
+  "Id": 102278,
+  "CatId": 2537,
+  "Title": "شمارهٔ ۳۹۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۹۰",
+  "FullUrl": "/jooya/divan/ghazal/sh390",
+  "RhymeLetters": "اربلنداست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به عشق و محبت در زمان پیری اشاره می‌کند. او دلش برای الفت و نزدیکی در عشق تنگ شده و با خم شدن قدم‌ها، عشق او را گرفتار کرده است. همچنین، زیبایی معشوقش از نیاز عاشق جوانه می‌زند و اشک شوق او بر گل، طراوتی تازه به وجود آورده است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تگشتهاست",
+      "PlainText": "با تو در پیری دلم جویای الفت گشته است\r\nتا قدم خم گشت قلاب محبت گشته است\r\nآب و رنگ حسنش از جوش نیاز عاشق است\r\nبر گل آن رو سرشک ما طراوت گشته است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تو در پیری دلم جویای الفت گشته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا قدم خم گشت قلاب محبت گشته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب و رنگ حسنش از جوش نیاز عاشق است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گل آن رو سرشک ما طراوت گشته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با تو در پیری دلم جویای الفت گشته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا قدم خم گشت قلاب محبت گشته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آب و رنگ حسنش از جوش نیاز عاشق است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر گل آن رو سرشک ما طراوت گشته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

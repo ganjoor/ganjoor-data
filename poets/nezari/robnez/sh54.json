@@ -1,0 +1,58 @@
+{
+  "Id": 75801,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۵۴",
+  "FullUrl": "/nezari/robnez/sh54",
+  "RhymeLetters": "ست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به ناآرامی و شوریدگی دلی اشاره دارد که تحت تأثیر معشوق و زیبایی اوست. شاعر به زیبایی زلف معشوق و تأثیر بی‌نهایت آن بر عاشقان پرداخته و به این نکته اشاره می‌کند که حتی یک حلقه موی معشوق می‌تواند دل‌های زیادی را درگیر کند و یک جرعه از جام عشقش کافی است تا عاشق‌های زیادی به دیوانگی بیفتند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "گویند که ای زمام دل داده ز دست\r\nچونست که شوریده و مستی پیوست\r\nاز زلف تو یک حلقه و صد بیدل صد\r\nوز جام تو یک جرعه و صد عاشق مست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند که ای زمام دل داده ز دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچونست که شوریده و مستی پیوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز زلف تو یک حلقه و صد بیدل صد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز جام تو یک جرعه و صد عاشق مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند که ای زمام دل داده ز دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چونست که شوریده و مستی پیوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از زلف تو یک حلقه و صد بیدل صد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز جام تو یک جرعه و صد عاشق مست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

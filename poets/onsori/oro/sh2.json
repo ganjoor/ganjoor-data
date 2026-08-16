@@ -1,0 +1,58 @@
+{
+  "Id": 68852,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/onsori/oro/sh2",
+  "RhymeLetters": "اهگرفت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی و جذابیت گل لاله و همچنین حس غم‌انگیز ناشی از آن می‌پردازد. شاعر به اصطلاح از ماه و زلف‌ها سخن می‌گوید، که نشان‌دهنده زیبایی و در عین حال، دشواری‌های زندگی است. احساساتی چون عشق و غم با هم ترکیب می‌شوند و تصویر جالبی از زیبایی و درد را به نمایش می‌گذارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهگرفت",
+      "PlainText": "از مشک نگر که لاله بنگاه گرفت\r\nزو طبع غمی دراز و کوتاه گرفت\r\nبر ماه به شست زلفکان راه گرفت\r\nگیرند به شست ماهی او ماه گرفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مشک نگر که لاله بنگاه گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزو طبع، غمی دراز و کوتاه گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر ماه به شست زلفکان راه گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیرند به شست ماهی او ماه گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مشک نگر که لاله بنگاه گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زو طبع، غمی دراز و کوتاه گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر ماه به شست زلفکان راه گرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گیرند به شست ماهی او ماه گرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

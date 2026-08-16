@@ -1,0 +1,58 @@
+{
+  "Id": 1131,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۳",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۳",
+  "FullUrl": "/khayyam/robaee/sh13",
+  "RhymeLetters": "اکت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "شاعر در این شعر به‌این مطلب مهم اشاره می‌کند که روان غمگین و افسردگی و غم زمانه، قدرت تصمیم‌گیری درست را از آدمی می‌گیرد و او را از پا در می‌آورد. سپس پیشنهاد می‌کند که از نعمت‌ها و خوشی‌های ممکن استفاده ببرد پیش از آنکه دیگر فرصت آن را نداشته باشد. بر روی سبزه بنشیند و چند روزی خوش بگذراند، قبل از اینکه دوباره به خاک برگردد و آن سبزه‌ها بر خاک گورش بردمد. یعنی از لحظات خوش زندگی استفاده کند و غم‌ها را فراموش کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکت",
+      "PlainText": "ای دل چو زمانه می کند غمناکت\r\nناگه برود ز تن روان پاکت\r\nبر سبزه نشین و خوش بزی روزی چند\r\nزآن پیش که سبزه بردمد از خاکت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل! چو زمانه می‌کند غمناکت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناگه برود ز تن روانِ پاکت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر سبزه نشین و خوش بِزی روزی چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن پیش که سبزه بَردَمد از خاکت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل! چو زمانه می‌کند غمناکت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناگه برود ز تن روانِ پاکت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر سبزه نشین و خوش بِزی روزی چند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زآن پیش که سبزه بَردَمد از خاکت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

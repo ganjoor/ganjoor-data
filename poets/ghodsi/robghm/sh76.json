@@ -1,0 +1,58 @@
+{
+  "Id": 74617,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/ghodsi/robghm/sh76",
+  "RhymeLetters": "ست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به درگاه خداوند (به عنوان مرکز فیض) می‌نگرد و از او می‌خواهد که او را فراموش نکند و دعاهایش را مورد توجه قرار دهد. شاعر به قدرت دعا و ایمان به اجابت آن تأکید می‌کند و از خداوند می‌خواهد که همیشه به یادش باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "ای مرکز فیض ازل از روز نخست\r\nقطبی چو تو آسمان به صد قرن نجست\r\nما را ز دعا مکن فراموش که هست\r\nایمان اجابت به دعای تو درست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرکز فیض ازل از روز نخست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطبی چو تو، آسمان به صد قرن نجست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را ز دعا مکن فراموش که هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایمان اجابت به دعای تو درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مرکز فیض ازل از روز نخست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قطبی چو تو، آسمان به صد قرن نجست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را ز دعا مکن فراموش که هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایمان اجابت به دعای تو درست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

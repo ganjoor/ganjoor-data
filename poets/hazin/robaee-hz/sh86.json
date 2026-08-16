@@ -1,0 +1,58 @@
+{
+  "Id": 82974,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸۶",
+  "FullUrl": "/hazin/robaee-hz/sh86",
+  "RhymeLetters": "ونناید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساس عاشقانه و دردهای ناشی از آن اشاره می‌کند. او می‌گوید که تا زمانی‌که عشق و احساسات عمیق به وجود نیاید، نشانه‌هایی از درد و رنج نمایان نخواهد شد. همچنین، او به ناامیدی و تکرار مشکلات در کشیدن باده و می‌نوشی اشاره می‌کند. به طور کلی، شعر بازتابی از عشق، احساسات و مشکلات در زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونناید",
+      "PlainText": "تا بر لب عاشق می گلگون ناید\r\nاز دیده نمی شود شط خون ناید\r\nخود را به خم باده درانداز حزین\r\nهر بار سبو درست بیرون ناید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بر لب عاشق می گلگون ناید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دیده نمی شود شط خون ناید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود را به خم باده درانداز حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر بار، سبو درست بیرون ناید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بر لب عاشق می گلگون ناید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دیده نمی شود شط خون ناید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود را به خم باده درانداز حزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر بار، سبو درست بیرون ناید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

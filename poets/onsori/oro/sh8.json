@@ -1,0 +1,58 @@
+{
+  "Id": 68858,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/onsori/oro/sh8",
+  "RhymeLetters": "انست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، کسی به محبوبش می‌گوید که دلش به او تنگ شده است. محبوب جواب می‌دهد که لب‌هایش می‌توانند درد او را درمان کنند. او همچنین به این نکته اشاره می‌کند که همیشه از درد فاصله و جدایی رنج می‌برد اما محبوبش می‌گوید که زیبایی و راز محبوب در دوری نهفته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناست",
+      "PlainText": "گفتم صنما دلم تو  را جویان  است\r\nگفتا که لبم درد تو  را درمان  است\r\nگفتم که همیشه از منت هجران است\r\nگفتا که پری ز آدمی پنهان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: صنما دلم تو‌ را جویان‌ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا که لبم درد تو‌ را درمان‌ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که همیشه از مَنَت هجران است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا که پری ز آدمی پنهان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم: صنما دلم تو‌ را جویان‌ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا که لبم درد تو‌ را درمان‌ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که همیشه از مَنَت هجران است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتا که پری ز آدمی پنهان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70076,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/amir/robam/sh33",
+  "RhymeLetters": "وردادست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به وحدت الله و یگانگی او اشاره دارد. شاعر نشان می‌دهد که با وجود تعداد زیاد مخلوقات و موجودات، تنها یک خدا وجود دارد. همچنین بر این نکته تأکید می‌کند که در میان ستارگان و ملکان، همه به یک حقیقت واحد اشاره دارند و در نهایت، قدرت و پادشاهی نیز تنها در دست خداوند یگانه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیکیاست",
+      "PlainText": "مخلوق فراوان است الله یکی است\r\nوانجا که حقیقت است درگاه یکی است\r\nهستند ستارگان بسی  ماه یکی است\r\nبسیار ملک هست  ملکشاه یکی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمخلوق فراوان است الله یکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانجا که حقیقت است درگاه یکی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستند ستارگان بسی‌، ماه یکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسیار ملک هست‌، ملکشاه یکی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مخلوق فراوان است الله یکی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وانجا که حقیقت است درگاه یکی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هستند ستارگان بسی‌، ماه یکی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسیار ملک هست‌، ملکشاه یکی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

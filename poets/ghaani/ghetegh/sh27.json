@@ -1,0 +1,58 @@
+{
+  "Id": 45667,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۲۷",
+  "FullUrl": "/ghaani/ghetegh/sh27",
+  "RhymeLetters": "نگیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به ما هشدار می‌دهد که از زندگی و لذت‌های دنیایی امیدی نداشته باشیم، چون این لذت‌ها زودگذر و فریبنده‌اند. او اشاره دارد که دنیا مانند یک بوقلمون است که همیشه در حال تغییر و رنگ‌آمیزی است، اما این تغییرات نمی‌توانند ما را از واقعیت‌های ناپسند و ننگین دور کنند. بنابراین، باید آگاه باشیم از این جلوه‌های فریبنده که ممکن است ما را به دام بیندازد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگیست",
+      "PlainText": "امید عیش مدار از جهان بوقلمون\r\nکه هر دمش چو مخنث طبیعتان رنگیست\r\nولی تو سخت ازین غافلی که از هر رنگ\r\nبسان مرد مخنث به دامنت ننگیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامید عیش مدار از جهان بوقلمون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هر دمش چو مخنث طبیعتان رنگیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولی تو سخت ازین غافلی که از هر رنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسان مرد مخنث به دامنت ننگیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امید عیش مدار از جهان بوقلمون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که هر دمش چو مخنث طبیعتان رنگیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولی تو سخت ازین غافلی که از هر رنگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسان مرد مخنث به دامنت ننگیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

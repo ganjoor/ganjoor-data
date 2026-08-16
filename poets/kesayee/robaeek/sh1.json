@@ -1,0 +1,58 @@
+{
+  "Id": 41585,
+  "CatId": 1677,
+  "Title": "هستی",
+  "FullTitle": "کسایی » رباعیها » هستی",
+  "FullUrl": "/kesayee/robaeek/sh1",
+  "RhymeLetters": "ستدگراست",
+  "SourceName": "مهرداد بیات",
+  "SourceUrlSlug": "mb",
+  "PoemSummary": "هوش مصنوعی: این شعر به تضاد و تفاوت‌های وجودی اشاره دارد. شاعر بیان می‌کند که هستی و حالتی که ما داریم، متفاوت از هستی‌های دیگر است. همچنین، به نوعی از آرامش و غرق شدن در تفکر دعوت می‌کند و یادآور می‌شود که آنچه که ما داریم، ممکن است فقط بخشی از یک واقعیت بزرگ‌تر باشد. به عبارتی، هر کسی تجربه و وضعیتی منحصر به فرد دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستدگراست",
+      "PlainText": "این هستی تو  هستی هست دگر است\r\nوین مستی تو  مستی مست دگر است\r\nرو  سر به گریبان تفکر درکش\r\nکاین دست تو  آستین دست دگر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین هستی تو ، هستی هست دگر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین مستی تو ، مستی مست دگر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرو ، سر به گریبان تفکر درکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین دست تو ، آستین دست دگر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این هستی تو ، هستی هست دگر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین مستی تو ، مستی مست دگر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رو ، سر به گریبان تفکر درکش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین دست تو ، آستین دست دگر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

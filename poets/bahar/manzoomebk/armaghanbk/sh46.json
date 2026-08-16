@@ -1,0 +1,49 @@
+{
+  "Id": 52040,
+  "CatId": 1849,
+  "Title": "فقرۀ ۴۸‌",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۴۸‌",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh46",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: پیشوا و مه را محترم بشمار و به سخنان آنها با دل و جان توجه کن.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مار",
+      "PlainText": "مه و پیشوا را گرامی شمار\r\nسخنشان به جان و به دل برگمار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمه و پیشوا را گرامی شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخنشان به جان و به دل برگمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "پیشوا مرد، گرامی و مه (‌بزرگ) دار و سخنش بپذیر.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "مه و پیشوا را گرامی شمار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "سخنشان به جان و به دل برگمار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

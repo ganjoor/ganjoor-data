@@ -1,0 +1,58 @@
+{
+  "Id": 75773,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/nezari/robnez/sh26",
+  "RhymeLetters": "الیماندست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساسات عمیق و اندوه ناشی از دوری معشوق سخن می‌گوید. او می‌گوید که تصویر معشوق همیشه در ذهنش باقی مانده و انتظار وصال او برایش به یک خیال تبدیل شده است. همچنین به این نکته اشاره می‌کند که اگر روزی از این وضعیت رهایی یابد، در سرنوشتش چیزی از این عشق و احساسات باقی خواهد ماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الیماندهست",
+      "PlainText": "از روی تو در نظر خیالی مانده ست\r\nوز وصل تو در سرم محالی مانده ست\r\nبیرون رود و بگذرد آخر روزی\r\nدر طالع من اگر وبالی مانده ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز روی تو در نظر خیالی مانده ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز وصل تو در سرم محالی مانده ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیرون رود و بگذرد آخر روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر طالع من اگر وبالی مانده ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از روی تو در نظر خیالی مانده ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز وصل تو در سرم محالی مانده ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیرون رود و بگذرد آخر روزی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در طالع من اگر وبالی مانده ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

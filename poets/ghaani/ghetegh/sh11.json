@@ -1,0 +1,58 @@
+{
+  "Id": 45651,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۱",
+  "FullUrl": "/ghaani/ghetegh/sh11",
+  "RhymeLetters": "یشرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت به بیان فلسفه عشق و جان باختن در راه آن پرداخته شده است. شاعر می‌گوید اگر کسی لذت از دست دادن جان را در راه عشق بداند، هیچ انسان عاقلی حاضر نیست به زندگی خود ادامه دهد. عشق می‌تواند آرامش و آسایشی به همراه داشته باشد که عقل از درک آن ناتوان است.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشرا",
+      "PlainText": "گر بداند لذت جان باختن در راه عشق\r\nهیچ عاقل زنده نگذارد به عالم خویش را\r\nعشق داند تا چه آسایش بود در ترک جان\r\nذوق این معنی نباشد عقل دوراندیش را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بداند لذت جان باختن در راه عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ عاقل زنده نگذارد به عالم خویش را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق داند تا چه آسایش بود در ترک جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذوق این معنی نباشد عقل دوراندیش را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر بداند لذت جان باختن در راه عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هیچ عاقل زنده نگذارد به عالم خویش را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق داند تا چه آسایش بود در ترک جان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ذوق این معنی نباشد عقل دوراندیش را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

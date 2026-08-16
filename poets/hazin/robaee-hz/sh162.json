@@ -1,0 +1,58 @@
+{
+  "Id": 83050,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۶۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۶۲",
+  "FullUrl": "/hazin/robaee-hz/sh162",
+  "RhymeLetters": "ویشکنیاولیتر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به نوعی به اهمیت رفتار بزرگوارانه و نیکو اشاره دارد. شاعر بیان می‌کند که برقراری ارتباط با افراد نیکو و درویش‌صفت از نظر اخلاقی بهتر است تا وابستگی به کسانی که کوچک‌فکر و دون‌پایه هستند. به عبارت دیگر، بهتر است انسان به جای درخواست کمک و وام از دیگران، بر روی خود و توانایی‌هایش تکیه کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویشکنیاولیتر",
+      "PlainText": "گر ترک کم و بیش کنی اولی تر\r\nخو با دل درویش کنی اولی تر\r\nتا چند دوی بر در دونان پی وام\r\nوام از شکم خویش کنی اولی تر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ترک کم و بیش کنی اولی تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخو با دل درویش کنی، اولی تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند دوی بر درِ دونان پی وام؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوام از شکم خویش کنی اولی تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر ترک کم و بیش کنی اولی تر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خو با دل درویش کنی، اولی تر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا چند دوی بر درِ دونان پی وام؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وام از شکم خویش کنی اولی تر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

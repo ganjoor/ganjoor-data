@@ -1,0 +1,58 @@
+{
+  "Id": 96193,
+  "CatId": 2476,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "ابوالحسن فراهانی » دیوان اشعار » قطعات » شمارهٔ ۳۶",
+  "FullUrl": "/abolhasan/divan/ghete/sh36",
+  "RhymeLetters": "م",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به موضوع مستی و عشق می‌پردازد. شاعر می‌گوید که حال مستی می‌تواند انسان را از غم‌ها دور کند، اما اگر از حد بگذرد، اوضاع بدتر می‌شود. بنابراین، مست شو اما به گونه‌ای که از واقعیت دور نشوی و در عین حال هوشیار باش. در نهایت، شاعر به این نکته اشاره می‌کند که بی‌خبر بودن از خود می‌تواند خطرناک باشد.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رشود",
+      "PlainText": "گرچه مستی می کند از قید غم فارغ تو را\r\nچون زحد بگذشت از دیوانگی بدتر شود\r\nمست شو اما نه چندانی که باشی بی خبر\r\nاز سر خود گر چو نرگس آتشت بر سر شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه مستی می کند از قید غم فارغ تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون زحد بگذشت از دیوانگی بدتر شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست شو اما نه چندانی که باشی بی خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سر خود گر چو نرگس آتشت بر سر شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه مستی می کند از قید غم فارغ تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون زحد بگذشت از دیوانگی بدتر شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مست شو اما نه چندانی که باشی بی خبر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سر خود گر چو نرگس آتشت بر سر شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

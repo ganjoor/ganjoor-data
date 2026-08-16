@@ -1,0 +1,58 @@
+{
+  "Id": 107243,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/daye/divan/robaee/sh80",
+  "RhymeLetters": "سی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به اهمیت عشق و نزدیکی به معشوق اشاره می‌کند. او می‌گوید که حتی یک کلام عاشقانه کافی است تا رابطه عمیق تری ایجاد کند. همچنین بیان می‌کند که برای درک و رسیدن به همدیگر، باید با هم ارتباط برقرار کرد و این ملاقات‌ها باعث رسیدن به عمق وجود یکدیگر می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سی",
+      "PlainText": "با عشق جمال ما اگر همنفسی\r\nیک حرف بس است اگر برین در تو کسی\r\nتا با تو تویی تست در ما نرسی\r\nدر ما تو گهی رسی که در ما برسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا عشق جمال ما اگر همنفسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک حرف بس است اگر برین در تو کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا با تو تویی تست در ما نرسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ما تو گهی رسی که در ما برسی.\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با عشق جمال ما اگر همنفسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک حرف بس است اگر برین در تو کسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا با تو تویی تست در ما نرسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در ما تو گهی رسی که در ما برسی.",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

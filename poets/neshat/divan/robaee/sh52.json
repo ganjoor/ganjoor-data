@@ -1,0 +1,58 @@
+{
+  "Id": 119586,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/neshat/divan/robaee/sh52",
+  "RhymeLetters": "انیمچهغم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که اگر درد و غم عشق تو به سراغ ما بیاید، چه باک که در عشق‌ت رسوا شویم. او اشاره می‌کند که از بدنامی و ننگ ترسی نداریم و حتی اگر در میان غم‌ها شاد بمانیم، باز هم اهمیتی ندارد. در واقع، عشق و احساسات عمیق او همه چیز را تحت تأثیر قرار می‌دهد و به غم‌ها اهمیت نمی‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیمچهغم",
+      "PlainText": "گر تیر غم تو را نشانیم چه غم\r\nدر عشق تو رسوای جهانیم چه غم\r\nبدنامی و ننگ را ندانیم چه باک\r\nوزغمناکی چو شاد مانیم چه غم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تیر غم تو را نشانیم چه غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عشق تو رسوای جهانیم چه غم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدنامی و ننگ را ندانیم چه باک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوزغمناکی چو شاد مانیم چه غم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر تیر غم تو را نشانیم چه غم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عشق تو رسوای جهانیم چه غم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بدنامی و ننگ را ندانیم چه باک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وزغمناکی چو شاد مانیم چه غم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45649,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۹",
+  "FullUrl": "/ghaani/ghetegh/sh9",
+  "RhymeLetters": "سا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات به زیبایی و اهمیت سخن گفتن اشاره شده است. سخنانی که مانند ماه و آفتاب در دل مردم روشنایی می‌بخشند و راهنمای آن‌ها هستند. اگرچه مدح و ستایش او ممکن است برای نادانان خوشایند نباشد، اما مانند عطر گل در دل‌های حساس، تاثیرگذار است.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سا",
+      "PlainText": "در سخن گفتن چو ماه و آفتاب\r\nرهنمای خلق هر صبح و مسا\r\nمدح او در گوش نادان ناگوار\r\nچون شمیم گل به مغز خنفسا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سخن گفتن چو ماه و آفتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهنمای خلق هر صبح و مسا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح او در گوش نادان ناگوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شمیم گل به مغز خنفسا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سخن گفتن چو ماه و آفتاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رهنمای خلق هر صبح و مسا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مدح او در گوش نادان ناگوار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شمیم گل به مغز خنفسا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 64829,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۳۲",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۳۲",
+  "FullUrl": "/ebnehesam/robaeebn/sh32",
+  "RhymeLetters": "یختهشد",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ترکیب زیبای طبیعت اشاره می‌کند که لاله و سبزه با هم آمیخته شده‌اند و جلوه‌ای زیبا و ارزشمند را به تصویر می‌کشند. همچنین، به گل خنجری اشاره می‌کند که به خاطر زیبایی و زندگی در حال حاضر، سپر دفاعی خود را برمی‌دارد و از جاری شدن خون ارغوان صحبت می‌کند که به معنای زیبایی و زوال است. در کل، شعر نمادی از زیبایی و تضادهای موجود در طبیعت و زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یختهشد",
+      "PlainText": "چون لاله و سبزه باهم آمیخته شد\r\nاز لؤلؤی تر زمرد انگیخته شد\r\nگل خنجر بید دید برداشت سپر\r\nمی گفت که خون ارغوان ریخته شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون لاله و سبزه باهم آمیخته شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز لؤلؤی تر زمرد انگیخته شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل خنجر بید دید برداشت سپر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی گفت که خون ارغوان ریخته شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون لاله و سبزه باهم آمیخته شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از لؤلؤی تر زمرد انگیخته شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل خنجر بید دید برداشت سپر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می گفت که خون ارغوان ریخته شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

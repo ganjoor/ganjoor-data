@@ -1,0 +1,58 @@
+{
+  "Id": 68152,
+  "CatId": 2021,
+  "Title": "دوبیتی شمارهٔ ۲۲",
+  "FullTitle": "فایز » دوبیتی‌ها » دوبیتی شمارهٔ ۲۲",
+  "FullUrl": "/fayez/dobeytiha/sh22",
+  "RhymeLetters": "یناست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این ابیات اشاره شده است که همه موجودات و انسان‌ها همان‌طور که به نظر می‌رسند نیستند. نه هر آهویی زیباست و نه هر گاوی خوشبو. همچنین وفاداری و صداقت در همه جا یافت نمی‌شود و تنها در یک مکان خاص، یعنی ارمن، وجود دارد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یناست",
+      "PlainText": "نه هر آهوی دشت آهوی چین است\r\nنه هر گاوی که بینی عنبرین است\r\nنه هر یاری وفادار است فایز\r\nوفا در خطه ارمن زمین است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه هر آهوی دشت آهوی چین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هر گاوی که بینی عنبرین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه هر یاری وفادار است، فایز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوفا در خطه ارمن زمین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه هر آهوی دشت آهوی چین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه هر گاوی که بینی عنبرین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه هر یاری وفادار است، فایز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وفا در خطه ارمن زمین است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

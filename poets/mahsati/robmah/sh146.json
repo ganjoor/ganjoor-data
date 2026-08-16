@@ -1,0 +1,58 @@
+{
+  "Id": 50206,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۴۶",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۴۶",
+  "FullUrl": "/mahsati/robmah/sh146",
+  "RhymeLetters": "ابممن",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از احساسات متضاد خود نسبت به معشوق صحبت می‌کند. او می‌گوید که از محبت و کینه معشوق دچار سردرگمی است و در چشمان او خود را غرق در آب می‌بیند. شاعر همچنین به این نکته اشاره می‌کند که یا خودش گناهی کرده و معشوق در خشم است، یا اینکه معشوق به شخص دیگری محبت دارد و او در خواب و غفلت به سر می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابممن",
+      "PlainText": "از مهر خود و کین تو در تابم من\r\nدر چشم تو گویی به میان آبم من\r\nیا من گنهی کردم و در خشمی تو\r\nیا تو دگری داری و در خوابم من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مهر خود و کین تو در تابم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چشم تو گوئی به میان آبم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا من گنهی کردم و در خشمی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا تو دگری داری و در خوابم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مهر خود و کین تو در تابم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در چشم تو گوئی به میان آبم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا من گنهی کردم و در خشمی تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا تو دگری داری و در خوابم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

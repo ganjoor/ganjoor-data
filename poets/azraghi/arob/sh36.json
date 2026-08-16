@@ -1,0 +1,58 @@
+{
+  "Id": 69397,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/azraghi/arob/sh36",
+  "RhymeLetters": "ند",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از محبوب خود می‌خواهد که به او آسیب نرساند. او به او می‌گوید که اگرچه ممکن است در اثر عشق به خود آسیب بزند، ولی این موضوع نباید برای محبوب خوشایند باشد و باید از آزار او پرهیز کند. شاعر در واقع به احساسات خود اشاره می‌کند و از محبوب می‌خواهد که او را بیشتر آزار ندهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "بیهوده بر آزار من ای سرو بلند\r\nتیغت شستی به خون و خوردی سوگند\r\nگر من به هلاک خویش گشتم خرسند\r\nباری تو ز خویشتن چنین بد مپسند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیهوده بر آزار من، ای سرو بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغت شُستی به خون و خوردی سوگند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر من به هلاک خویش گشتم خرسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباری تو ز خویشتن چنین بد مپسند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیهوده بر آزار من، ای سرو بلند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیغت شُستی به خون و خوردی سوگند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر من به هلاک خویش گشتم خرسند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باری تو ز خویشتن چنین بد مپسند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 10077,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۶",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۶",
+  "FullUrl": "/saadi/divan/robaees/sh16",
+  "RhymeLetters": "ارخوشست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر به زیبایی‌های فصل بهار اشاره شده است. شاعر می‌گوید که هوای بهار خوشبو و دل‌انگیز است، بوی گل‌ها و صدای پرندگان خوشایند است و حتی ناله‌های عاشقانه هم زیبایی خاصی دارند. او به بی‌خبران از این لذت‌ها می‌گوید که بودن با یار در این فصل بسیار دلپذیر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارخوشست",
+      "PlainText": "گویند هوای فصل آزار خوش ست\r\nبوی گل و بانگ مرغ گلزار خوش ست\r\nابریشم زیر و ناله زار خوشست\r\nای بی خبران این همه با یار خوش ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند هوای فصل آزار خوش‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی گل و بانگ مرغ گلزار خوش‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابریشم زیر و نالهٔ زار خوشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای بی‌خبران! این همه با یار خوش‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند هوای فصل آزار خوش‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی گل و بانگ مرغ گلزار خوش‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ابریشم زیر و نالهٔ زار خوشست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای بی‌خبران! این همه با یار خوش‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

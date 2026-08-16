@@ -1,0 +1,58 @@
+{
+  "Id": 83396,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۳۵",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۳۵",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh235",
+  "RhymeLetters": "رگیر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها شاعر به زیبایی و دلنوازی معشوق اشاره می‌کند و می‌گوید که هیچ چیزی نمی‌تواند به جذابیت او برسد. همچنین از طولانی‌تر شدن شب هجرت نسبت به روز قیامت سخن می‌گوید و از دل خود شکایت می‌کند که چه جفایی از جانب معشوق بر او رفته است، چون هر شیوه و رفتار معشوق از دیگری بیش‌تر آزاردهنده است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازتر",
+      "PlainText": "با آنکه نیست از تو بتی دلنوازتر\r\nاز روز حشر شد شب هجرم درازتر\r\nدل شکوه از کدام جفای تو سر کند\r\nهر شیوه تو از دگری جانگدازتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا آنکه نیست از تو بتی دلنوازتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز روز حشر، شد شب هجرم درازتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل شکوه از کدام جفای تو سر کند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر شیوهٔ تو از دگری جانگدازتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با آنکه نیست از تو بتی دلنوازتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از روز حشر، شد شب هجرم درازتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل شکوه از کدام جفای تو سر کند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر شیوهٔ تو از دگری جانگدازتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

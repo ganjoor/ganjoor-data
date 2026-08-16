@@ -1,0 +1,58 @@
+{
+  "Id": 70062,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/amir/robam/sh19",
+  "RhymeLetters": "ست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق و دلدادگی خود صحبت می‌کند و بیان می‌دارد که تنها او نیست که بی‌تاب و شوریده‌حال در کوی معشوق افتاده است. او اشاره می‌کند که بسیاری دیگر از عاشقان نیز در این راه به همین حال هستند، با جان بر کف و پای افتاده، به انتظار عشق نشسته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "بر خاک سر کوی تو ای عشق پرست\r\nتنها نه منم فتاده شوریده و مست\r\nچون من به سر کوی تو صد عاشق هست\r\nاز پای بیفتاده و جان بر کف دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خاک سر کوی تو ای عشق پرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنها نه منم فتاده شوریده و مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون من به سر کوی تو صد عاشق هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پای بیفتاده و جان بر کف دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر خاک سر کوی تو ای عشق پرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تنها نه منم فتاده شوریده و مست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون من به سر کوی تو صد عاشق هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از پای بیفتاده و جان بر کف دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70028,
+  "CatId": 2043,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "امیر معزی » قطعات » شمارهٔ ۱۹",
+  "FullUrl": "/amir/ghatam/sh19",
+  "RhymeLetters": "ان",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به مقایسه صدر دین و وزرا می‌پردازد. او می‌گوید که صدر دین همانند وزیران از بین همه مردم انتخاب شده است، مانند اینکه وزیران از میان همه انسان‌ها برگزیده می‌شوند. همچنین، او به این نکته اشاره می‌کند که صدر دین در میان وزرا در سطحی بالاتر قرار دارد، همان‌طور که شب قدر در ماه رمضان جایگاهی والا دارد. به عبارتی، صدر دین جایگاهی ویژه و منحصر به فرد دارد.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "صدر دین را ملک العرش گزید از وزرا\r\nهمچنان چون وزرا از همه خلق جهان\r\nوزرا از همگان چون رمضان اندر سال\r\nصدر دین از وزرا چون شب قدر از رمضان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصدر دین را ملک‌العرش گزید از وزرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچنان چون وزرا از همهٔ خلق جهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوزرا از همگان چون رمضان اندر سال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدر دین از وزرا چون شب قدر از رمضان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صدر دین را ملک‌العرش گزید از وزرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچنان چون وزرا از همهٔ خلق جهان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وزرا از همگان چون رمضان اندر سال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صدر دین از وزرا چون شب قدر از رمضان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

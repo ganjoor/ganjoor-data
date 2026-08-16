@@ -1,0 +1,58 @@
+{
+  "Id": 77914,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۹۶",
+  "FullUrl": "/homam/robaeeho/sh96",
+  "RhymeLetters": "ابینی",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: شاعر از باد می‌خواهد که اگر او را دل‌شکسته و بی‌کس می‌بیند، حال و هوای آن دل شیدا را به او منتقل کند و بگوید که دیروز چه گفته بود. از باد می‌خواهد که باخبرش کند تا حال او را بهتر درک کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابینی",
+      "PlainText": "ای باد اگرش خوش دل و تنها بینی\r\nاو را هوس این دل شیدا بینی\r\nگویش تو بدان نشان که دی می گفتی\r\nکاحوال تو چون است بیا تا بینی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باد اگرش خوش دل و تنها بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را هوس این دل شیدا بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویش تو بدان نشان که دی می‌گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاحوال تو چون است بیا تا بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باد اگرش خوش دل و تنها بینی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او را هوس این دل شیدا بینی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویش تو بدان نشان که دی می‌گفتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاحوال تو چون است بیا تا بینی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

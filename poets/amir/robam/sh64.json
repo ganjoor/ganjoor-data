@@ -1,0 +1,58 @@
+{
+  "Id": 70107,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/amir/robam/sh64",
+  "RhymeLetters": "یدنگیرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: خداوند با ساختن و تأسیس حکومت تو، مانع شد که دشمنان بتوانند به تو آسیب برسانند. اگر هم دشمنی از کینه به تو دلخوش باشد، فکر تو جهان را از او خالی می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الیکرد",
+      "PlainText": "ایزد که بنای دولتت عالی کرد\r\nنگذاشت که خصم با تو محتالی کرد\r\nگر خصم نکرد دل ز کینت خالی\r\nاندیشه تو جهان ازو خالی کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایزد که بنای دولتت عالی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگذاشت که خصم با تو محتالی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خصم نکرد دل ز کینت خالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندیشهٔ تو جهان ازو خالی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایزد که بنای دولتت عالی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگذاشت که خصم با تو محتالی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر خصم نکرد دل ز کینت خالی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندیشهٔ تو جهان ازو خالی کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

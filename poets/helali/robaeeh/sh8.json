@@ -1,0 +1,58 @@
+{
+  "Id": 45351,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۸",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۸",
+  "FullUrl": "/helali/robaeeh/sh8",
+  "RhymeLetters": "منیست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این اشعار به بی‌وفایی و غم در زندگی انسان‌ها اشاره دارد. شاعر بیان می‌کند که در این جهان هیچ کسی شاد و خوشحال نیست و اگر کسی در این زمان غمی ندارد، احتمالا یا انسان نیست یا از این جهان بی‌خبر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منیست",
+      "PlainText": "در عالم بی وفا کسی خرم نیست\r\nشادی و نشاط در بنی آدم نیست\r\nآن کس که درین زمانه او را غم نیست\r\nیا آدم نیست یا از این عالم نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عالم بی‌وفا کسی خرم نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشادی و نشاط در بنی‌آدم نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که درین زمانه او را غم نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا آدم نیست، یا از این عالم نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عالم بی‌وفا کسی خرم نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شادی و نشاط در بنی‌آدم نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن کس که درین زمانه او را غم نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا آدم نیست، یا از این عالم نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

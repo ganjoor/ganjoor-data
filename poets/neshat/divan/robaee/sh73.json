@@ -1,0 +1,58 @@
+{
+  "Id": 119607,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/neshat/divan/robaee/sh73",
+  "RhymeLetters": "ادی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، گوینده به اهمیت بی‌تفاوتی در برابر خوشی‌ها و ناخوشی‌های زندگی اشاره می‌کند. او می‌گوید که نباید از غم‌ها غمگین شد و از شادی‌ها شاد بود، زیرا در نهایت، هر دو حالت به یک اندازه اهمیت ندارند. اگر دل کسی به عشق و محبت وابسته باشد، تفاوتی بین بندگی و آزادی نخواهد داشت. یعنی عشق و وابستگی فراتر از این دو حالت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادی",
+      "PlainText": "غمگین از غم مباش و شاد از شادی\r\nیکسان بادت خرابی و آبادی\r\nآنرا که بمهر خواجه دل در بند است\r\nفرقی نکند بندگی و آزادی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمگین از غم مباش و شاد از شادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکسان بادت خرابی و آبادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنرا که بمهر خواجه دل در بند است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرقی نکند بندگی و آزادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غمگین از غم مباش و شاد از شادی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یکسان بادت خرابی و آبادی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنرا که بمهر خواجه دل در بند است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرقی نکند بندگی و آزادی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

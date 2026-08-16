@@ -1,0 +1,58 @@
+{
+  "Id": 45348,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۵",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۵",
+  "FullUrl": "/helali/robaeeh/sh5",
+  "RhymeLetters": "ذرت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر عشق عمیق و وفاداری به محبوب است. شاعر می‌گوید که اگر قلبش از محبوب دور شود، از نظر او دور نخواهد شد و حتی اگر جانش را نیز بدهد، حاضر است خاک درگاه او شود. او به شدت خواهان نزدیک شدن به محبوب است و از خاک درگاهش بلند نخواهد شد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ذرت",
+      "PlainText": "گر دل برود من نروم از نظرت\r\nور جان بدهم خاک شوم در گذرت\r\nچون گرد شوم بر آستانت آیم\r\nبنشینم و برنخیزم از خاک درت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دل برود من نروم از نظرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور جان بدهم، خاک شوم در گذرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون گرد شوم بر آستانت آیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنشینم و برنخیزم از خاک درت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر دل برود من نروم از نظرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور جان بدهم، خاک شوم در گذرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون گرد شوم بر آستانت آیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنشینم و برنخیزم از خاک درت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

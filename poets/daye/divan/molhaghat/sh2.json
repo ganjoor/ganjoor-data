@@ -1,0 +1,58 @@
+{
+  "Id": 107285,
+  "CatId": 2587,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » ملحقات » شمارهٔ ۲",
+  "FullUrl": "/daye/divan/molhaghat/sh2",
+  "RhymeLetters": "بازشوم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از تمایل خود برای نزدیکی و همدمی با معشوق سخن می‌گوید. او می‌خواهد مانند پروانه‌ای که به شمع نزدیک می‌شود، خود را به عشق بسپارد و به دمی از لذت عشق بهره‌مند شود. همچنین، در روزی که زندگی‌اش به پایان می‌رسد، آرزو دارد که همچون شهباز، آزاد و قوی به پرواز درآید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بازشوم",
+      "PlainText": "با شمع رخت دمی چو دمساز شوم\r\nپروانه مستمند جانباز شوم\r\nو آن روز که این قفص بباید پرداخت\r\nچون شهبازی به دست شه باز شوم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا شمع رخت دمی چو دمساز شوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپروانهٔ مستمند جانباز شوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن روز که این قفص بباید پرداخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شهبازی به دست شه باز شوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با شمع رخت دمی چو دمساز شوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پروانهٔ مستمند جانباز شوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "و آن روز که این قفص بباید پرداخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شهبازی به دست شه باز شوم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83173,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۲",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh12",
+  "RhymeLetters": "اغمرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با استفاده از تصویرسازی‌های زیبا، احساسات عمیق خود را بیان می‌کند. دل شبنم به مانند آتش می‌سوزد و نفس او به گرمی دما، احساساتش را به شدت تحت تأثیر قرار می‌دهد. نگاه معشوق او را به شدت مجذوب کرده و توبه‌اش را به چالش می‌کشد. به عبارت دیگر، عشق و زیبایی معشوق او را در وضعیتی دردناک و در عین حال خوشایند قرار داده است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغمرا",
+      "PlainText": "شرار آتش دل شبنم است باغ مرا\r\nنفس چو گرم کشم تر کند دماغ مرا\r\nنگاه مست تو دل را به هوش نگذارد\r\nبه خون توبه نشانده ست می ایاغ مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرار آتش دل، شبنم است باغ مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفس چو گرم کشم، تر کند دماغ مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگاه مست تو، دل را به هوش نگذارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خون توبه نشانده ست می، ایاغ مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شرار آتش دل، شبنم است باغ مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نفس چو گرم کشم، تر کند دماغ مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگاه مست تو، دل را به هوش نگذارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به خون توبه نشانده ست می، ایاغ مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

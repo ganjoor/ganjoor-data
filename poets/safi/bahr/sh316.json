@@ -1,0 +1,77 @@
+{
+  "Id": 139162,
+  "CatId": 3132,
+  "Title": "بخش ۳۱۶ - باب الغین الغراب",
+  "FullTitle": "صفی علیشاه » بحرالحقایق » بخش ۳۱۶ - باب الغین الغراب",
+  "FullUrl": "/safi/bahr/sh316",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این چهار خط شعری به تمایز بین عالم قدس و عالم ماده اشاره دارد. شاعر با استفاده از مفهوم \u0022غراب\u0022 (یا همان کلاغ) به این موضوع پرداخته که فاصله زیادی میان عالم قدس (عالم معنوی و نورانی) و عالم ماده وجود دارد. عالم قدس از نور و درک پر است، در حالی که عالم ماده نیاز به صفات مثالی و تجسمی دارد. در واقع، این ابیات بیانگر نادیده گرفتن نورانیت و ادراک در عالم ماده هستند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "غراب از جسم کلی شد کنایت\r\nبعید از عالم قدس او بغایت\r\nز نورانیت و ادراک خالی\r\nسواد بعد را وجه مثالی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغراب از جسم کلی شد کنایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعید از عالم قدس او بغایت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نورانیت و ادراک خالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسواد بعد را وجه مثالی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ایت",
+      "PlainText": "غراب از جسم کلی شد کنایت\r\nبعید از عالم قدس او بغایت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغراب از جسم کلی شد کنایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعید از عالم قدس او بغایت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "الی",
+      "PlainText": "ز نورانیت و ادراک خالی\r\nسواد بعد را وجه مثالی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نورانیت و ادراک خالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسواد بعد را وجه مثالی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غراب از جسم کلی شد کنایت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بعید از عالم قدس او بغایت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز نورانیت و ادراک خالی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سواد بعد را وجه مثالی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    }
+  ]
+}

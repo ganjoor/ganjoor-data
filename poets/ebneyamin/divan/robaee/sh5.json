@@ -1,0 +1,58 @@
+{
+  "Id": 93771,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/ebneyamin/divan/robaee/sh5",
+  "RhymeLetters": "امیها",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر ابراز می‌کند که از نامطلوبی‌های عشق و ناکامی‌هایی که تجربه کرده، رنج می‌برد. او از محبوبش می‌خواهد که این خامی‌ها و اشتباهات را کنار بگذارد و باور کند که او از عشق به او آزار دیده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیها",
+      "PlainText": "ای حاصل عمرم از تو بدنامی ها\r\nدر کام دل من از تو ناکامی ها\r\nمن سوختم از عشق و تو باور نکنی\r\nاز سر بنه ای نگار این خامی ها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای حاصل عمرم از تو بدنامی‌ها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کام دل من از تو ناکامی‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن سوختم از عشق و تو باور نکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سر بنه ای نگار این خامی‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای حاصل عمرم از تو بدنامی‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کام دل من از تو ناکامی‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من سوختم از عشق و تو باور نکنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سر بنه ای نگار این خامی‌ها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

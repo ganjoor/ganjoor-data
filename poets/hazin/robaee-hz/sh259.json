@@ -1,0 +1,58 @@
+{
+  "Id": 83156,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۵۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۵۹",
+  "FullUrl": "/hazin/robaee-hz/sh259",
+  "RhymeLetters": "ادهتری",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به زیبایی و آزادی آنی اشاره می‌کند که از آسمان بهشت نیز زیباتر و دلکش‌تر است. او همچنین بیان می‌کند که در مسیر عشق، احساس می‌کند که از او کمتر و افتاده‌تر است و از آنی می‌خواهد که اگر ممکن است، از او چیزی بیاورد که نشان‌دهنده‌ی وضعیت او باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادهتری",
+      "PlainText": "آنی که به قد ز سرو آزاده تری\r\nدل را ز بهشت نقد آماده تری\r\nدر رهگذرت ز خاک افتاده ترم\r\nگر هست بیار از من افتاده تری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنی که به قد ز سرو آزاده تری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل را، ز بهشت نقد آماده تری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رهگذرت ز خاک افتاده ترم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر هست، بیار از من افتاده تری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی که به قد ز سرو آزاده تری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل را، ز بهشت نقد آماده تری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در رهگذرت ز خاک افتاده ترم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر هست، بیار از من افتاده تری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

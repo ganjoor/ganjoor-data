@@ -1,0 +1,57 @@
+{
+  "Id": 28317,
+  "CatId": 140,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "سعدی » مواعظ » مثنویات » شمارهٔ ۴۴",
+  "FullUrl": "/saadi/mavaez/masnaviat/sh44",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار به اهمیت تلاش و کار کردن در حال حاضر اشاره شده است. شاعر می‌گوید باید امروز برای آینده‌امان گندم بکاریم، زیرا فردا ممکن است نتوانیم به راحتی به آن دسترسی داشته باشیم. همچنین از ضرورت آماده‌سازی برای آینده و دور کردن غم و اندوه از اطرافیان تاکید می‌کند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ش",
+      "PlainText": "بکوش امروز تا گندم بپاشی\r\nکه فردا بر جویی قادر نباشی\r\nتو خود بفرست برگ رفتن از پیش\r\nکه خویشان را نباشد جز غم خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکوش امروز تا گندم بپاشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه فردا بر جُویی قادر نباشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو خود بفرست برگ رفتن از پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خویشان را نباشد جز غم خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بکوش امروز تا گندم بپاشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که فردا بر جُویی قادر نباشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو خود بفرست برگ رفتن از پیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خویشان را نباشد جز غم خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

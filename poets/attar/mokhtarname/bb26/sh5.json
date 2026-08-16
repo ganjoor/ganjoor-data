@@ -1,0 +1,58 @@
+{
+  "Id": 35080,
+  "CatId": 827,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "عطار » مختارنامه » باب بیست و ششم: در صفت گریستن » شمارهٔ ۵",
+  "FullUrl": "/attar/mokhtarname/bb26/sh5",
+  "RhymeLetters": "اكنریخت",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر عمق غم و اندوه شاعر است. او تصریح می‌کند که هر شب دلش به خاطر غم می‌سوزد و در طول روز نیز آبی بر صورتش جاری نمی‌شود. شاعر از عدم آرامش و خوشی در زندگی‌اش صحبت می‌کند و به این نکته اشاره دارد که در طول عمرش هیچ لذتی (مانند نوشیدن آب خوش) را تجربه نکرده و فقط با گریه و اندوه سر کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اكنریخت",
+      "PlainText": "شب نیست که خون از دل غمناک نریخت\r\nروزی نه که آب روی من پاک نریخت\r\nیک شربت آب خوش نخوردم همه عمر\r\nتا باز ز راه دیده بر خاک نریخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب نیست که خون از دل غمناک نریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزی نه که آب روی من پاک نریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک شربت آب خوش نخوردم همه عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا باز ز راه دیده بر خاک نریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب نیست که خون از دل غمناک نریخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزی نه که آب روی من پاک نریخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک شربت آب خوش نخوردم همه عمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا باز ز راه دیده بر خاک نریخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

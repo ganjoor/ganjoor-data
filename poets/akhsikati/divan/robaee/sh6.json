@@ -1,0 +1,58 @@
+{
+  "Id": 116132,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/akhsikati/divan/robaee/sh6",
+  "RhymeLetters": "ب",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و ارزش وجودی معشوق اشاره دارد. شاعر به عشق خود به عنوان دارویی برای خستگی‌ها و دلتنگی‌هایش نگاه می‌کند. او احساس می‌کند که جهان و خورشید به خاطر زیبایی و نور معشوق تحت تأثیر قرار گرفته‌اند. روز و شب در این شعر به نوعی به هم وصل شده‌اند، به شکلی که نور و زیبایی معشوق، دلیلی برای روشنایی روز و فروریختن تاریکی شب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ب",
+      "PlainText": "ای داروی جان خستگانت در لب\r\nگردون ز تو سرگشته و خورشید به تب\r\nروز از رخ تو چو شعله ای وام کند\r\nتا حشر شود دریده پیراهن شب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای داروی جان خستگانت، در لب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردون ز تو سرگشته و خورشید، به تب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز از رخ تو، چو شعله ای وام کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا حشر شود، دریده پیراهن شب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای داروی جان خستگانت، در لب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردون ز تو سرگشته و خورشید، به تب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روز از رخ تو، چو شعله ای وام کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا حشر شود، دریده پیراهن شب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

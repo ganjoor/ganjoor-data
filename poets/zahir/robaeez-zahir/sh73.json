@@ -1,0 +1,58 @@
+{
+  "Id": 73665,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/zahir/robaeez-zahir/sh73",
+  "RhymeLetters": "یم",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به عشق و شادی اشاره دارد و بیان می‌کند که طبیعت او به دنبال محبت و لذت است. او می‌گوید که اگر شراب ننوشد و خوش نباشد، چه کار باید بکند، زیرا دنیا گذراست و تنها خداوند بخشنده و کریم است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یم",
+      "PlainText": "می خواهم و مطرب و دلارام و ندیم\r\nاین است طبیعت من از چرخ مقیم\r\nمن می نخورم خوش نزیم پس چکنم\r\nدنیا گذران است و خداوند کریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی خواهم و مطرب و دلارام و ندیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین است طبیعت من از چرخ مقیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن می نخورم خوش نزیم، پس چکنم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنیا گذران است و خداوند کریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می خواهم و مطرب و دلارام و ندیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این است طبیعت من از چرخ مقیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من می نخورم خوش نزیم، پس چکنم؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دنیا گذران است و خداوند کریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

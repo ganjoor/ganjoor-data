@@ -1,0 +1,58 @@
+{
+  "Id": 50106,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۴۶",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۴۶",
+  "FullUrl": "/mahsati/robmah/sh46",
+  "RhymeLetters": "ینخواهدبود",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به این موضوع اشاره می‌کند که اگرچه ممکن است قدرت و عظمت جلوه‌هایی همچون مصر، روم و چین را داشته باشیم، اما سرانجام همه ما به خاک و قبر برمی‌گردیم. در نهایت، آنچه نصیب ما می‌شود، تنها چند متر کفن و زمین خواهد بود. بنابراین، باید در زندگی خوشحال باشیم و به فکر روزهای آینده‌مان باشیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینخواهدبود",
+      "PlainText": "گر ملک تو مصر و روم و چین خواهد بود\r\nآفاق تو را زیر نگین خواهد بود\r\nخوش باش که عاقبت نصیب من و تو\r\nده گز کفن و سه گز زمین خواهد بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ملک تو مصر و روم و چین خواهد بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآفاق تو را زیر نگین خواهد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش باش که عاقبت نصیب من و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eده گز کفن و سه گز زمین خواهد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر ملک تو مصر و روم و چین خواهد بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آفاق تو را زیر نگین خواهد بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوش باش که عاقبت نصیب من و تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ده گز کفن و سه گز زمین خواهد بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

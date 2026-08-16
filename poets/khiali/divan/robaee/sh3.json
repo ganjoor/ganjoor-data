@@ -1,0 +1,58 @@
+{
+  "Id": 99479,
+  "CatId": 2523,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "خیالی بخارایی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/khiali/divan/robaee/sh3",
+  "RhymeLetters": "ندرکش",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به دوستش توصیه می‌کند که به وفای دشمن زیاد اهمیت ندهد و با دوستانش وقت بگذراند و از لذت‌های زندگی بهره‌مند شود. او همچنین به این نکته اشاره می‌کند که آمیختن با افراد نالایق و نااهل می‌تواند موجب مشکلاتی شود، پس بهتر است از چنین کسانی دوری کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندرکش",
+      "PlainText": "ای دوست دم از وفای دشمن درکش\r\nبا دوست نشین و باده روشن درکش\r\nآمیختن آفتی ست در گوشه نشین\r\nوز نا اهلان تمام دامن درکش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست دم از وفای دشمن درکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دوست نشین و باده روشن درکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمیختن آفتی ست در گوشه نشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نا اهلان تمام دامن درکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست دم از وفای دشمن درکش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دوست نشین و باده روشن درکش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمیختن آفتی ست در گوشه نشین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز نا اهلان تمام دامن درکش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

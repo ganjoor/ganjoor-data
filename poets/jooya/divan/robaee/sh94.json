@@ -1,0 +1,58 @@
+{
+  "Id": 103148,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/jooya/divan/robaee/sh94",
+  "RhymeLetters": "نمن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساس عذاب وجدان و سنگینی بار گناه خود اشاره می‌کند. او خود را غرق در گناهان می‌بیند و دلش از این کارها شرمنده است. آرزو می‌کند که ای کاش هر قدمی که برمی‌دارد، چاهی برایش باشد تا در آن فرو برود و از این وضعیت رهایی یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمن",
+      "PlainText": "غرق است به بحر جرم تا گردن من\r\nشرمنده بود دلم ز بد کردن من\r\nای کاش که هر نقش قدم چون سوزن\r\nچاهی شود از بهر فرو رفتن من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغرق است به بحر جرم تا گردن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرمنده بود دلم ز بد کردن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کاش که هر نقش قدم چون سوزن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچاهی شود از بهر فرو رفتن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غرق است به بحر جرم تا گردن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شرمنده بود دلم ز بد کردن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای کاش که هر نقش قدم چون سوزن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چاهی شود از بهر فرو رفتن من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50150,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۹۰",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۹۰",
+  "FullUrl": "/mahsati/robmah/sh90",
+  "RhymeLetters": "وشتورسید",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره حسرت و اندوه شاعر است. او از غم و غصه‌ای صحبت می‌کند که به واسطه نوشیدن از چشمه‌ای به او رسیده و حالا در کنار محبوبش قرار دارد. او در گوش محبوب دانه‌های رنج و غم را می‌بیند و به نوعی احساس می‌کند که اشک‌هایش هم به گوش او رسیده‌اند. این احساسات نشان‌دهنده پیوند عاطفی عمیق و ناگزیری از غم و شادی در عشق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشتورسید",
+      "PlainText": "بس غصه که از چشمه نوش تو رسید\r\nتا دست من امروز به دوش تو رسید\r\nدر گوش تو دانه های در می بینم\r\nآب چشمم مگر به گوش تو رسید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس غصه که از چشمهٔ نوش تو رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دست من امروز به دوش تو رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر گوش تو دانه‌های دٌر می‌بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب چشمم مگر به گوش تو رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس غصه که از چشمهٔ نوش تو رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا دست من امروز به دوش تو رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در گوش تو دانه‌های دٌر می‌بینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آب چشمم مگر به گوش تو رسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

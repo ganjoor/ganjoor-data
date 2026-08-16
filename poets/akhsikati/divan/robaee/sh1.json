@@ -1,0 +1,58 @@
+{
+  "Id": 116127,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/akhsikati/divan/robaee/sh1",
+  "RhymeLetters": "اکیما",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمجید از پاکی و شجاعت انسان‌ها می‌پردازد. نویسنده به این موضوع اشاره می‌کند که اگر فرشتگان به پاکی انسان رشک ببرند یا دیوان به بی‌باکی او ننگ بزنند، بر ایمان و سلامت آن انسان تأکید می‌کند و از چالاکی و توانایی او ستایش می‌کند. در کل، شعر نشان‌دهنده اعتقاد به ارزش‌های انسانی و فضیلت‌های اخلاقی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکیما",
+      "PlainText": "گر رشک برد فرشته بر پاکی ما\r\nگر دیو کند ننگ ز بی باکی ما\r\nایمان بسلامت به در مرگ بریم\r\nاحسنت زهی چستی و چالاکی ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر رشک برد فرشته بر پاکی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر دیو کند ننگ ز بی باکی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایمان بسلامت، به در مرگ بریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاحسنت، زهی چستی و چالاکی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر رشک برد فرشته بر پاکی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر دیو کند ننگ ز بی باکی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ایمان بسلامت، به در مرگ بریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "احسنت، زهی چستی و چالاکی ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

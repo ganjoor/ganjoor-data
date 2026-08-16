@@ -1,0 +1,58 @@
+{
+  "Id": 118938,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/azar/divan/robaee/sh17",
+  "RhymeLetters": "رماست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف عشق و زیبایی می‌پردازد. شاعر از کوی معشوقه‌اش سخن می‌گوید که مانند گلستانی زیباست و کسی که در آنجا حضور دارد، برای او محترم و عزیز است. او به این نکته اشاره می‌کند که اگرچه در بیرون از آن مکان زندگی نخواهد کرد، اما در جایی که معشوقش حضور دارد، خون‌ریزی و درد را تحمل می‌کند، زیرا آنجا برایش مقدس است و عشق به معشوق او را به سیاق شکار صید می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رماست",
+      "PlainText": "کوی تو که رشک گلستان ارم است\r\nتا هست در آن مرغ دلم محترم است\r\nبیرون چو رود سزاست خون ریختنش\r\nتا در حرم است صید صید حرم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوی تو، که رشک گلستان ارم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا هست در آن مرغ دلم، محترم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیرون چو رود، سزاست خون ریختنش؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا در حرم است صید، صید حرم است!!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کوی تو، که رشک گلستان ارم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا هست در آن مرغ دلم، محترم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیرون چو رود، سزاست خون ریختنش؛",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا در حرم است صید، صید حرم است!!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

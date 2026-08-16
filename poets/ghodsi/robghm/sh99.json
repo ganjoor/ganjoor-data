@@ -1,0 +1,58 @@
+{
+  "Id": 74640,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۹۹",
+  "FullUrl": "/ghodsi/robghm/sh99",
+  "RhymeLetters": "اپویخوشاست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: شعر به زیبایی درباره‌ی عشق و احساسات عمیق صحبت می‌کند. شاعر بیان می‌کند که مانند شمع که با سوختن خود نور و گرما ایجاد می‌کند، عشق هم در پی پیوستن به شادی و شعله‌ای از احساسات است. او تأکید دارد که هر چیزی را که بوی خوش عشق می‌دهد، می‌تواند بسوزاند و تخریب کند. در واقع، این شعر به قدرت و آسیب‌زایی عشق اشاره دارد و بیان می‌کند که عشق می‌تواند هم زیبایی ایجاد کند و هم سوزاننده باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اپویخوشاست",
+      "PlainText": "چون شمع به سوختن کنی خوی خوش است\r\nدایم ز پی شعله تکاپوی خوش است\r\nاز سوز منال چون دم از عشق زدی\r\nآری سوزند هرچه را بوی خوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شمع به سوختن کنی خوی، خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدایم ز پی شعله تکاپوی خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سوز منال چون دم از عشق زدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری سوزند هرچه را بوی خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شمع به سوختن کنی خوی، خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دایم ز پی شعله تکاپوی خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سوز منال چون دم از عشق زدی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری سوزند هرچه را بوی خوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

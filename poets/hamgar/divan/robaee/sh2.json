@@ -1,0 +1,58 @@
+{
+  "Id": 120718,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/hamgar/divan/robaee/sh2",
+  "RhymeLetters": "ا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به توصیف زیبایی‌های یک شخص می‌پردازد که او را به سرو سبز تشبیه می‌کند. این شخص در حال شکار کردن (جذب کردن) دل‌ها است و به طرز دلنشینی از کنار شاعر می‌گذرد، به طوری که دل شاعر را نیز ربوده است. شاعر احساس می‌کند که این زیبایی، شبیه به پرنده‌ای است که در آسمان پرواز می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "دیدمش چو سرو سهی آن سبز قبا\r\nبر دست گرفته باشه صید ربا\r\nبا باشه چو باد صید جویان بگذشت\r\nاو مرغ دلم ربود و آن مرغ هوا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدمش چو سرو سهی آن سبز قبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دست گرفته باشهٔ صید ربا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا باشه چو باد صید جویان بگذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو مرغ دلم ربود و آن مرغ هوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدمش چو سرو سهی آن سبز قبا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر دست گرفته باشهٔ صید ربا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با باشه چو باد صید جویان بگذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او مرغ دلم ربود و آن مرغ هوا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 92117,
+  "CatId": 2409,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "امیر شاهی » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/shahi/divan/robaee/sh2",
+  "RhymeLetters": "نداست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این چند بیت، شاعر به معشوق خود اشاره می‌کند و از پیوند عمیق و محبتش نسبت به او سخن می‌گوید. او از معشوق می‌خواهد که لطفی کند و به او بگوید که او متعلق به اوست. همچنین، به طعنه به مساله دروغ اشاره می‌کند و می‌گوید که ارزش دروغ‌ها مشخص است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نداست",
+      "PlainText": "ای مهر گسل که با توام پیوند است\r\nوز تو به یکی عشوه دلم خرسند است\r\nلطفی بکن و بگو که من زان توام\r\nپیداست که قیمت دروغی چند است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مهر گسل که با توام پیوند است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تو به یکی عشوه دلم خرسند است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطفی بکن و بگو که من زان توام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیداست که قیمت دروغی چند است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مهر گسل که با توام پیوند است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز تو به یکی عشوه دلم خرسند است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لطفی بکن و بگو که من زان توام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیداست که قیمت دروغی چند است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 120729,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/hamgar/divan/robaee/sh13",
+  "RhymeLetters": "اهترا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات شاعر نسبت به یک شاه می‌پردازد. شاعر در روزی که شاه را می‌بیند، نه نوری از مهر و محبت در چشمش می‌بیند و نه زیبایی مانند ماه. او از غم و ناراحتی، چشمانش را برمی‌گرداند و حالا که چهره‌ی بدخواه شاه را دیده، بر احساساتش تأکید می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهترا",
+      "PlainText": "آن روز که من بدیدم ای شاه ترا\r\nنه مهر بدیده بود و نه ماه ترا\r\nاز غبن و دریغ برکنم دیده خویش\r\nاکنون که بدید دیده بدخواه ترا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روز که من بدیدم ای شاه ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه مهر بدیده بود و نه ماه ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز غبن و دریغ برکنم دیده خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون که بدید دیده بدخواه ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن روز که من بدیدم ای شاه ترا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه مهر بدیده بود و نه ماه ترا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از غبن و دریغ برکنم دیده خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اکنون که بدید دیده بدخواه ترا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

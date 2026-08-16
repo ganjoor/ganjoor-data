@@ -1,0 +1,58 @@
+{
+  "Id": 50210,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۵۰",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۵۰",
+  "FullUrl": "/mahsati/robmah/sh150",
+  "RhymeLetters": "ازهبرون",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها نشان‌دهنده‌ی درد و رنج عاطفی شاعر هستند. او از شدت غم و محنتی که بر او گذشته، فریاد می‌زند و احساس می‌کند که این غم از حد و اندازه فراتر رفته است. همچنین، عشق و محبت که نماد خانه‌ای امن و آرامش است، به نظر می‌رسد برای او در دسترس نیست. به طور کلی، شاعر به شدت از وضعیت فعلی‌اش نالان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازهبرون",
+      "PlainText": "افتاده ز محنت من آوازه برون\r\nای خانه مهر تو ز دروازه برون\r\nز اندازه برون است ز جور تو غمم\r\nفریاد ازین غم ز اندازه برون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافتاده ز محنت من آوازه برون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای خانه مهر تو ز دروازه برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز اندازه برون است ز جور تو غمم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد ازین غم ز اندازه برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افتاده ز محنت من آوازه برون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای خانه مهر تو ز دروازه برون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز اندازه برون است ز جور تو غمم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فریاد ازین غم ز اندازه برون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

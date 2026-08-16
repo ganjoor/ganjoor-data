@@ -1,0 +1,77 @@
+{
+  "Id": 125586,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۵۰",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۵۰",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh51",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره درخواست کمک و نظر لطف خداوند به شاعر است. او از خدا می‌خواهد که به چهره سیاه و گناهکار او نگاهی بیندازد و اگرچه خود را بدون خیر می‌بیند، امیدوار است که عفو خدا شامل حال گنه‌کاران شود. او تأکید می‌کند که دیگر از او گنه‌کارتر نیست و به دنبال رحمت الهی است.",
+  "Sections": [
+    {
+      "Index": 78,
+      "Number": 78,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ری",
+      "PlainText": "یا رب به من و روی سیاهم نظری\r\nکز خیر نمانده در وجودم اثری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب به من و روی سیاهم نظری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز خیر نمانده در وجودم اثری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 79,
+      "Number": 79,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "گر عفو تو شامل گنه کاران است\r\nدیگر نبود ز من گنه کارتری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر عفو تو شامل گنه‌کاران است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیگر نبود ز من گنه‌کارتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 113,
+      "Number": 113,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "یا رب به من و روی سیاهم نظری\r\nکز خیر نمانده در وجودم اثری\r\nگر عفو تو شامل گنه کاران است\r\nدیگر نبود ز من گنه کارتری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب به من و روی سیاهم نظری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز خیر نمانده در وجودم اثری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر عفو تو شامل گنه‌کاران است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیگر نبود ز من گنه‌کارتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب به من و روی سیاهم نظری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 113,
+      "SectionIndex2": 78
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز خیر نمانده در وجودم اثری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 113,
+      "SectionIndex2": 78
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر عفو تو شامل گنه‌کاران است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 113,
+      "SectionIndex2": 79
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیگر نبود ز من گنه‌کارتری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 113,
+      "SectionIndex2": 79
+    }
+  ]
+}

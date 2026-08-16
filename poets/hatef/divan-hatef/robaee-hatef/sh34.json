@@ -1,0 +1,58 @@
+{
+  "Id": 20492,
+  "CatId": 302,
+  "Title": "رباعی شمارهٔ ۳۴",
+  "FullTitle": "هاتف اصفهانی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳۴",
+  "FullUrl": "/hatef/divan-hatef/robaee-hatef/sh34",
+  "RhymeLetters": "انندهی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به انتقاد از کسانی می‌پردازد که به زیردستان خود توجه نمی‌کنند. شاعر می‌گوید ای رئیسی که به زیردستان نان نمی‌دهی، تو جان‌ها را می‌گیری و در عوض جان‌ها را چیزی نمی‌دهی. از تو شرم باد که زیردستان ضعیف برای تو جان می‌دهند، اما تو حتی نانی به آنها نمی‌دهی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انندهی",
+      "PlainText": "ای خواجه که نان به زیردستان ندهی\r\nجان گیری و نان در عوض جان ندهی\r\nشرمت بادا که زیردستان ضعیف\r\nاز بهر تو جان دهند و تو نان ندهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه که نان به زیردستان ندهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان گیری و نان در عوض جان ندهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرمت بادا که زیردستان ضعیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بهر تو جان دهند و تو نان ندهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه که نان به زیردستان ندهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان گیری و نان در عوض جان ندهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شرمت بادا که زیردستان ضعیف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بهر تو جان دهند و تو نان ندهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

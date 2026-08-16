@@ -1,0 +1,58 @@
+{
+  "Id": 116140,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/akhsikati/divan/robaee/sh14",
+  "RhymeLetters": "باداست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به قدرت و عظمت شخصیت محبوبش اشاره می‌کند. او می‌گوید هر چند صدای فریاد از او به سوی ما می‌آید، اما در وجود او آرامش و آبادانی چشم و دل نهفته است. همچنین، بادی که از سوی او به خشم بوزد، به طوفانی تبدیل می‌شود و این طوفان در واقع نتیجه‌ی نعمت و لطف اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باداست",
+      "PlainText": "هر چند ز تو به ما رسد فریاد است\r\nدر توست که ملک چشم و جان آباد است\r\nبادی که به قهر تو وزد  طوفان است\r\nطوفان که عنایت تو باشد باد است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند ز تو به‌ما رسد فریاد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر توست که ملک چشم و جان آباد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادی که به قهر تو وزد‌، طوفان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطوفان که عنایت تو باشد، باد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند ز تو به‌ما رسد فریاد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در توست که ملک چشم و جان آباد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بادی که به قهر تو وزد‌، طوفان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طوفان که عنایت تو باشد، باد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

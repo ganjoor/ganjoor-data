@@ -1,0 +1,58 @@
+{
+  "Id": 50125,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۶۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۶۵",
+  "FullUrl": "/mahsati/robmah/sh65",
+  "RhymeLetters": "د",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به بیان حس عاطفی و اندوه عمیق شاعر می‌پردازد. شاعر از اشک عقیق رنگ خود صحبت می‌کند و به شدت از جدایی و بریدگی از محبوبش رنج می‌برد. او این احساس را به صورتی توصیف می‌کند که گویی از دل سنگ و چشم آسمان نیز آب می‌چکد، نشان‌دهنده عمق درد و اندوه اوست. در نهایت، شاعر بیان می‌کند که وقتی چشمش از محبوب جدا شود، طبیعی است که اشک و خون بریزد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونبچکد",
+      "PlainText": "این اشک عقیق رنگ من چون بچکد\r\nآب از دل سنگ و چشم گردون بچکد\r\nچشمم چو ز تو برید ازو خون بچکید\r\nشک نیست که از بریدگی خون بچکد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین اشک عقیق رنگ من چون بچکد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب از دل سنگ و چشم گردون بچکد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمم چو ز تو برید ازو خون بچکید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشک نیست که از بریدگی خون بچکد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این اشک عقیق رنگ من چون بچکد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آب از دل سنگ و چشم گردون بچکد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشمم چو ز تو برید ازو خون بچکید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شک نیست که از بریدگی خون بچکد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

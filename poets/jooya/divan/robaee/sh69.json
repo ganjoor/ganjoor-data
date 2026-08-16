@@ -1,0 +1,58 @@
+{
+  "Id": 103123,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/jooya/divan/robaee/sh69",
+  "RhymeLetters": "ر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به افرادی اشاره می‌کند که از ابتدا در غفلت به سر می‌برند. وقتی آن‌ها را از خواب غفلت بیدار می‌کنند، به خطر بیشتری می‌افتند. هر چه بیشتر سعی می‌کنند آنان را بیدار کنند و به راه بیندازند، خوابشان سنگین‌تر می‌شود. به طور کلی، اشاره به دشواری بیدار کردن افرادی است که در بی‌خبری و غفلت مانده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "هر کس ز نخست شد به غفلت خوگر\r\nمنعش چو کنند بیش افتد به خطر\r\nچندانکه زنندش سرپا راهروان\r\nخواب ره خوابیده شود سنگین تر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس ز نخست شد به غفلت خوگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنعش چو کنند بیش افتد به خطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندانکه زنندش سرپا راهروان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواب ره خوابیده شود سنگین‌تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس ز نخست شد به غفلت خوگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منعش چو کنند بیش افتد به خطر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چندانکه زنندش سرپا راهروان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خواب ره خوابیده شود سنگین‌تر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

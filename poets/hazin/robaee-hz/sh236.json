@@ -1,0 +1,58 @@
+{
+  "Id": 83133,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۳۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۳۶",
+  "FullUrl": "/hazin/robaee-hz/sh236",
+  "RhymeLetters": "مشدهای",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به شخصی اشاره می‌کند که به خاطر غم و اندوه خود از زندگی و ارتباط با دیگران دور شده است. او با این حال از تسلیم شدن در برابر نفاق و دورویی‌های مردم انتقاد می‌کند و از او می‌پرسد که چرا با این حال در بند و اسیر رفتارهای منافقانه در جامعه شده است. شاعر از او می‌خواهد تا حال خود را تغییر دهد و از غم و اندوه نجات یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مشدهای",
+      "PlainText": "تا چند حزین اسیر ماتم شده ای\r\nبا خلق زمانه از چه همدم شده ای\r\nچون یار موافقی ندیدی ز چه رو\r\nدر بند منافقان عالم شده ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند حزین اسیر ماتم شده‌ای؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خلق زمانه از چه همدم شده‌ای؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون یار موافقی ندیدی، ز چه رو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بند منافقان عالم شده‌ای؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند حزین اسیر ماتم شده‌ای؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خلق زمانه از چه همدم شده‌ای؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون یار موافقی ندیدی، ز چه رو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در بند منافقان عالم شده‌ای؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

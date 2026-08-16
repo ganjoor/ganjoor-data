@@ -1,0 +1,58 @@
+{
+  "Id": 75751,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/nezari/robnez/sh4",
+  "RhymeLetters": "ادمرا",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از تجربه‌ای سخت و تلخ صحبت می‌کند که به او دست داده است. او نمی‌داند با که در مورد این موضوع صحبت کند و احساس می‌کند که اوضاعش لطیف و پیچیده است. او در بندگی و وابستگی به خویشتن گرفتار شده است، اما در نهایت به آزادی دست می‌یابد. این آزادی از جمله‌ای به‌وجود می‌آید که شاعر را از قید و بند رها می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمرا",
+      "PlainText": "من با که بگویم که چه افتاد مرا\r\nبازم چه لطیف و چست بر داد مرا\r\nدر بندگی خویشتنم نپذیرفت\r\nو آنگاه ز جمله کرد آزاد مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن با که بگویم که چه افتاد مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازم چه لطیف و چست بر داد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بندگی خویشتنم نپذیرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آنگاه ز جمله کرد آزاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من با که بگویم که چه افتاد مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازم چه لطیف و چست بر داد مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بندگی خویشتنم نپذیرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "و آنگاه ز جمله کرد آزاد مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

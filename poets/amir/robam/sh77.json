@@ -1,0 +1,58 @@
+{
+  "Id": 70120,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۷",
+  "FullUrl": "/amir/robam/sh77",
+  "RhymeLetters": "اینماند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به ستایش قدرت و راستی اشاره دارد. شاعر می‌گوید که با قدرت و حضور شخص مورد نظر (محبوب) در میان کافران، هیچ اثری از آنها باقی نمانده و با یاری او، هیچ چیز از رنج و زحمت در زمانه باقی نمانده است. همچنین، با generosity او، هیچ دیناری در خزانه باقی نمانده، که نشان‌دهنده سخاوتمندی و صفای اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نارنماند",
+      "PlainText": "از هیبت تو به روم کفار نماند\r\nوز نصرت تو به روم زنار نماند\r\nبا عدل تو در زمانه تیمار نماند\r\nبا جود تو در خزانه دینار نماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هیبت تو به روم کفار نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نصرت تو به روم زنار نماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا عدل تو در زمانه تیمار نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا جود تو در خزانه دینار نماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از هیبت تو به روم کفار نماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز نصرت تو به روم زنار نماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با عدل تو در زمانه تیمار نماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با جود تو در خزانه دینار نماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

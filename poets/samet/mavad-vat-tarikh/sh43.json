@@ -1,0 +1,77 @@
+{
+  "Id": 125578,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۴۳",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۴۳",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh43",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمجید از امام حسین (ع) می‌پردازد و او را شاهنشاه کربلا و یادآور قربانی‌اش برای خدا می‌داند. حسین (ع) را فریادرس و پشتیبان تمام انسان‌ها در روز قیامت معرفی کرده و بر اهمیت نقش او در تاریخ و دین تأکید می‌کند.",
+  "Sections": [
+    {
+      "Index": 64,
+      "Number": 64,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "احسیناستحسین",
+      "PlainText": "شاهنشه کربلا حسین است حسین\r\nقربان ره خدا حسین است حسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهنشه کربلا حسین است حسین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقربان ره خدا حسین است حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 65,
+      "Number": 65,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "فریادرس تمام خلق عرصات\r\nفردا به صف جزا حسین است حسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریادرس تمام خلق عرصات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا به صف جزا حسین است حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 120,
+      "Number": 120,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "احسیناستحسین",
+      "PlainText": "شاهنشه کربلا حسین است حسین\r\nقربان ره خدا حسین است حسین\r\nفریادرس تمام خلق عرصات\r\nفردا به صف جزا حسین است حسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهنشه کربلا حسین است حسین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقربان ره خدا حسین است حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریادرس تمام خلق عرصات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا به صف جزا حسین است حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاهنشه کربلا حسین است حسین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 120,
+      "SectionIndex2": 64
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قربان ره خدا حسین است حسین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 120,
+      "SectionIndex2": 64
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریادرس تمام خلق عرصات",
+      "CoupletIndex": 1,
+      "SectionIndex1": 120,
+      "SectionIndex2": 65
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فردا به صف جزا حسین است حسین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 120,
+      "SectionIndex2": 65
+    }
+  ]
+}

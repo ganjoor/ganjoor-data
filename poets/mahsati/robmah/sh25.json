@@ -1,0 +1,58 @@
+{
+  "Id": 50085,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۲۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۲۵",
+  "FullUrl": "/mahsati/robmah/sh25",
+  "RhymeLetters": "وست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساسات عمیق و پیچیده فردی است که در مورد وفا و دو رنگی در روابط صحبت می‌کند. شاعر اشاره می‌کند که در چشم معشوق، دشمن و دوست به یک شکل دیده می‌شوند و این نشان‌دهنده بی‌وفایی دل است. او به این موضوع اشاره می‌کند که شکایات و ناگفته‌های زیادی وجود دارد که بهتر است به آنها پرداخته شود. به طور کلی، این شعر به بررسی تناقضات در روابط انسانی و بیان احساسات ناشناخته می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "چون با دل تو نیست وفا در یک پوست\r\nدر چشم تو یکرنگ بود دشمن و دوست\r\nبس بس که شکایت تو ناکرده بهست\r\nرو رو که حکایت تو ناگفته نکوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون با دل تو نیست وفا در یک پوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چشم تو یکرنگ بود دشمن و دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس بس که شکایت تو ناکرده بهست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو رو که حکایت تو ناگفته نکوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون با دل تو نیست وفا در یک پوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در چشم تو یکرنگ بود دشمن و دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس بس که شکایت تو ناکرده بهست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رو رو که حکایت تو ناگفته نکوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

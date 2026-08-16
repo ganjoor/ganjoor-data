@@ -1,0 +1,58 @@
+{
+  "Id": 74677,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۱۳۶",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۱۳۶",
+  "FullUrl": "/ghodsi/robghm/sh136",
+  "RhymeLetters": "رتوست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: زاهد می‌گوید که سخنانم از نوشته‌های توست و صوفی می‌گوید که شوری که دارم از شراب توست. هر گروه و قومی که وجود دارد، بازگشتشان به توست و هرکجا که قافله برود، منزل آنجا تویی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رتوست",
+      "PlainText": "زاهد گوید کلامم از دفتر توست\r\nصوفی گوید مستی ام از ساغر توست\r\nهر قوم که هست بازگشتش بر توست\r\nهر سو که رود قافله منزل در توست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزاهد گوید کلامم از دفتر توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصوفی گوید مستی‌ام از ساغر توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر قوم که هست، بازگشتش بر توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر سو که رود قافله، منزل در توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زاهد گوید کلامم از دفتر توست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صوفی گوید مستی‌ام از ساغر توست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر قوم که هست، بازگشتش بر توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر سو که رود قافله، منزل در توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

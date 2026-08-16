@@ -1,0 +1,58 @@
+{
+  "Id": 74664,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۱۲۳",
+  "FullUrl": "/ghodsi/robghm/sh123",
+  "RhymeLetters": "ندست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با استفاده از تصویر لاله در دشت، به تضاد احساسات خودش اشاره می‌کند. او از زیبایی و خوشحالی لاله می‌گوید، ولی در عین حال درد و رنج را نیز حس می‌کند. هر جزء از وجودش به نوعی به داغ و زخمی پیوند دارد و این احساسات باعث شده که دشت برای او مانند شهری پر از غم و درد باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندست",
+      "PlainText": "چون لاله به دشت گرچه دل خرسندست\r\nهر جزو ز پیکرم به داغی بندست\r\nبا هر خارم بس که سر پیوندست\r\nصحرا بر من به شهر و کو مانندست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون لاله به دشت گرچه دل خرسندست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر جزو ز پیکرم به داغی بندست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هر خارم بس که سر پیوندست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصحرا بر من به شهر و کو مانندست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون لاله به دشت گرچه دل خرسندست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر جزو ز پیکرم به داغی بندست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با هر خارم بس که سر پیوندست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صحرا بر من به شهر و کو مانندست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

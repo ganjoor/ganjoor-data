@@ -1,0 +1,58 @@
+{
+  "Id": 2051,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱",
+  "FullUrl": "/hafez/robaee2/sh1",
+  "RhymeLetters": "ذرنیامدمارا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر بیان می‌کند که هیچ چیز جز عشق و وجود محبوب برای او معنا ندارد. او می‌گوید که حتی اگر خواب‌ها و آرزوها خوشایند باشند، همچنان از حقیقت و واقعیت دورند و تنها عشق محبوب است که در زندگی‌اش جلوه‌گر است. به عبارتی، همه چیز در سایه محبوبش به بی‌معنی می‌رسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ذرنیامدمارا",
+      "PlainText": "جز نقش تو در نظر نیامد ما را\r\nجز کوی تو رهگذر نیامد ما را\r\nخواب ار چه خوش آمد همه را در عهدت\r\nحقا که به چشم در نیامد ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز نقش تو در نظر نیامد ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز کوی تو رهگذر نیامد ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواب ار چه خوش آمد همه را در عهدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحقّا که به چشم دَر نیامد ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز نقش تو در نظر نیامد ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز کوی تو رهگذر نیامد ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواب ار چه خوش آمد همه را در عهدت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حقّا که به چشم دَر نیامد ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

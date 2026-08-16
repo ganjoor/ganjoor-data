@@ -1,0 +1,58 @@
+{
+  "Id": 45839,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۲۶",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۲۶",
+  "FullUrl": "/ghaani/robaeegh/sh26",
+  "RhymeLetters": "ناو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی و جذابیت گردن محبوبش اشاره می‌کند. او شوخی و لطافت گردن او را به عطر صندل تشبیه می‌کند و به رنگ سرخ صبح یا خون مردم نیز در آن اشاره می‌کند، که نشان‌دهنده زندگی و احساسات درونی اوست. به طور کلی، شاعر زیبایی و احساسات عمیق را در توصیف گردن معشوقش به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ناو",
+      "PlainText": "شوخی که بیاض گردن روشن او\r\nآغشته به صندل شده پیرامن او\r\nصبحست\u00A0 به سرخی شفق آلوده\r\nیا خون خلایقست در گردن او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوخی که بیاض گردن روشن او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآغشته به صندل شده پیرامن او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبحست\u00A0 به سرخی شفق آلوده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا خون خلایقست در گردن او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوخی که بیاض گردن روشن او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آغشته به صندل شده پیرامن او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبحست\u00A0 به سرخی شفق آلوده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا خون خلایقست در گردن او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

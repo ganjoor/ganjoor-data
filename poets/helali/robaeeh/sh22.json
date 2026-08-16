@@ -1,0 +1,58 @@
+{
+  "Id": 45365,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۲۲",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۲۲",
+  "FullUrl": "/helali/robaeeh/sh22",
+  "RhymeLetters": "م",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نوعی تجربه خوشی و لذت از نوشیدنی (باده) اشاره کرده و بیان می‌کند که او از مردم خردمند یا زیبایی‌هایی که در زندگی می‌بیند، لذت می‌برد. اما او در عین حال سوگند می‌خورد که هرگز از باده نمی‌نوشد و هیچگاه به جای نوشیدنی، قسم نمی‌خورد. این بیان نشان‌دهنده این است که او به ارزش‌های عمیق‌تر و معنوی‌تر زندگی تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندخورم",
+      "PlainText": "من باده به مردم خردمند خورم\r\nیا از کف خوبان شکرخند خورم\r\nهرگز نخورم ز باده خوردن سوگند\r\nحاشا که به جای باده سوگند خورم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن باده به مردم خردمند خورم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا از کف خوبان شکرخند خورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز نخورم ز باده خوردن سوگند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاشا که به جای باده سوگند خورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من باده به مردم خردمند خورم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا از کف خوبان شکرخند خورم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز نخورم ز باده خوردن سوگند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حاشا که به جای باده سوگند خورم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

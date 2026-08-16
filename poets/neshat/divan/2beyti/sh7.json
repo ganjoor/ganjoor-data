@@ -1,0 +1,58 @@
+{
+  "Id": 119615,
+  "CatId": 2754,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » دوبیتی‌ها » شمارهٔ ۷",
+  "FullUrl": "/neshat/divan/2beyti/sh7",
+  "RhymeLetters": "م",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به احساس گم‌شدگی و فراموشی اشاره دارد. او می‌گوید که مردم به او توجه کرده‌اند، اما در واقع خود را در میان آن‌ها گم کرده است. همچنین به حالتی از ناامیدی و افسردگی اشاره می‌کند که به هر لحظه به زمین نزدیک‌تر می‌شود و به نوعی احساس خفگی و فشار را تجربه می‌کند.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "ای کرده نظر به دست مردم\r\nدر خویش مرا نموده ای گم\r\nدر زیر مقرنس نگون خم\r\nهر لحظه به خاک می زنی دم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کرده نظر به دست مردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خویش مرا نموده‌ای گم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر زیر مقرنس نگون خم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر لحظه به خاک می‌زنی دم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کرده نظر به دست مردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خویش مرا نموده‌ای گم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در زیر مقرنس نگون خم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر لحظه به خاک می‌زنی دم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 73682,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۹۰",
+  "FullUrl": "/zahir/robaeez-zahir/sh90",
+  "RhymeLetters": "داری",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به توصیف شمع و صفات صوفیانه آن می‌پردازد. او می‌گوید که شمع با ویژگی‌هایی چون شب‌زنده‌داری، روشنی چهره، زردی روی، سوز دل، اشک و بیداری به صفات اهل تصوف نزدیک است. این صفات نشان‌دهنده عشق و حالت روحانی صوفیان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "داری",
+      "PlainText": "ای شمع تو صوفی صفتی پنداری\r\nکاین شش صفت از اهل تصوف داری\r\nشب خیزی و نور چهره و زردی روی\r\nسوز دل و آب دیده و بیداری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمع تو صوفی صفتی پنداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین شش صفت از اهل تصوف داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب خیزی و نور چهره و زردی روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوز دل و آب دیده و بیداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شمع تو صوفی صفتی پنداری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاین شش صفت از اهل تصوف داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب خیزی و نور چهره و زردی روی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سوز دل و آب دیده و بیداری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

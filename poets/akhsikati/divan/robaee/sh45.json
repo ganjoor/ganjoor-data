@@ -1,0 +1,58 @@
+{
+  "Id": 116171,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/akhsikati/divan/robaee/sh45",
+  "RhymeLetters": "وراوردم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساس غم و فراق سخن می‌گوید. او به شخص غمگینی اشاره می‌کند که از دور دست به سمت او آمده است. شاعر توضیح می‌دهد که او این فرد را با زحمت و تلاش به نزد خود آورده، اما در عوض، چیزهای ارزشمندی را که داشته، از دست داده و به گور سپرده است. این احساسات نشان‌دهنده‌ی سختی‌های عشق و جدایی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وراوردم",
+      "PlainText": "غمگین دلکی ز راه دور آوردم\r\nاو می نامد منش به زور آوردم\r\nآنجاش ز دست کافری بربودم\r\nوین جاش به پای خود به گور آوردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمگین دلکی، ز راه دور آوردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو می‌نامد، منش به زور آوردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنجاش ز دست کافری بِربودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین جاش به پای خود به گور آوردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غمگین دلکی، ز راه دور آوردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او می‌نامد، منش به زور آوردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنجاش ز دست کافری بِربودم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین جاش به پای خود به گور آوردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

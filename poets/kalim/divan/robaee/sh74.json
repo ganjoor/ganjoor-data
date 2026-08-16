@@ -1,0 +1,58 @@
+{
+  "Id": 90785,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/kalim/divan/robaee/sh74",
+  "RhymeLetters": "التباد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمجید از حضور و شخصیت فردی خاص می‌پردازد. شاعر با比عث است که عالم به نور وجود او روشن است و اجزای زیبایی به مانند ماه و سال او گرد هم آمده‌اند. هر جا که به وصال محبوب و شادی دست یابند، شاعر آرزو می‌کند که لذت‌های دنیا در کنار احوال خوب او باشد. در کل، شعر نشان‌دهنده‌ی عشق و ارادت به یک شخص ویژه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "التباد",
+      "PlainText": "عالم روشن ز شمع اقبالت باد\r\nجمع آمده اجزای مه و سالت باد\r\nهر جا شب وصل و روز عیدی باشد\r\nعیش دو جهان قرین احوالت باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم روشن ز شمع اقبالت باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمع آمده اجزای مه و سالت باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جا شب وصل و روز عیدی باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیش دو جهان قرین احوالت باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالم روشن ز شمع اقبالت باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمع آمده اجزای مه و سالت باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جا شب وصل و روز عیدی باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیش دو جهان قرین احوالت باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

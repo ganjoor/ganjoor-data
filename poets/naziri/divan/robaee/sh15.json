@@ -1,0 +1,58 @@
+{
+  "Id": 123581,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/naziri/divan/robaee/sh15",
+  "RhymeLetters": "ستینیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به عدم وجود و وجود در هستی اشاره می‌کند. وی می‌گوید که در وجود خودش، سپهر (آسمان) نیست و در حال حاضر از شراب نیز مستی ندارد. همچنین اشاره می‌کند که جایگاه و رتبه اجتماعی برای او اهمیتی ندارد، زیرا در جایی که او قرار دارد، هیچ فرقی بین بلندی و پستی وجود ندارد. به طور کلی، شعر بر این نکته تأکید دارد که در عمق وجود، همه چیز یکسان است و ارزش‌های ظاهری بی‌معنا هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستینیست",
+      "PlainText": "در پایه من سپهر را هستی نیست\r\nدر حوصله ام شراب را مستی نیست\r\nبا رتبه من چه صدر و چه صف نعال\r\nآنجا که منم بلندی و پستی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پایه من سپهر را هستی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حوصله ام شراب را مستی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا رتبه من چه صدر و چه صف نعال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنجا که منم بلندی و پستی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در پایه من سپهر را هستی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حوصله ام شراب را مستی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با رتبه من چه صدر و چه صف نعال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنجا که منم بلندی و پستی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

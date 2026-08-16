@@ -1,0 +1,58 @@
+{
+  "Id": 2113,
+  "CatId": 25,
+  "Title": "قطعه شمارهٔ ۲۱",
+  "FullTitle": "حافظ » قطعات » قطعه شمارهٔ ۲۱",
+  "FullUrl": "/hafez/ghete/sh21",
+  "RhymeLetters": "ام",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان آرزوها و دعاهایی برای سال جدید می‌پردازد. شاعر برای سال نو، خوشبو بودن، بخت خوب، ثروت فراوان و حال خوش را آرزو می‌کند. همچنین به اصل و نسل ثابت و با دوام اشاره می‌کند و بر دوام و پایداری تخت و بخت تاکید می‌کند. به طور کلی، این شعر خواهان خوشی و کامیابی برای آینده است.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ام",
+      "PlainText": "سال و فال و مال و حال و اصل و نسل و تخت و بخت\r\nبادت اندر شهریاری برقرار و بر دوام\r\nسال خرم فال نیکو مال وافر حال خوش\r\nاصل ثابت نسل باقی تخت عالی بخت رام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسال و فال و مال و حال و اصل و نسل و تخت و بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبادت اندر شهریاری، برقرار و بر دوام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسال خرّم، فال نیکو، مال وافر، حال خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاصل ثابت، نسل باقی، تخت عالی، بخت رام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سال و فال و مال و حال و اصل و نسل و تخت و بخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بادت اندر شهریاری، برقرار و بر دوام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سال خرّم، فال نیکو، مال وافر، حال خوش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اصل ثابت، نسل باقی، تخت عالی، بخت رام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

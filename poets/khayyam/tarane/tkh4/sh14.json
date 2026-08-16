@@ -1,0 +1,58 @@
+{
+  "Id": 50303,
+  "CatId": 1815,
+  "Title": "رباعی ۴۸",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » گردش دوران  [۵۶-۳۵] » رباعی ۴۸",
+  "FullUrl": "/khayyam/tarane/tkh4/sh14",
+  "RhymeLetters": "باری",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ملاقات پیری می‌رود که در خانه‌ای غمگین نشسته است. او از پیر می‌پرسد که آیا خبری از رفتگان دارد. پیر پاسخ می‌دهد که بسیاری از آنها رفته‌اند و هیچ‌کس دوباره بازنگشته است. این صحبت‌ها به موضوع گذر زمان و ناکامی در بازگشت به گذشته اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باری",
+      "PlainText": "پیری دیدم به خانه خماری\r\nگفتم نکنی ز رفتگان اخباری\r\nگفتا می خور که همچو ما بسیاری\r\nرفتند و کسی بازنیامد باری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E* پیری دیدم به خانهٔ خَمّاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم نکنی ز رفتگان اِخباری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتا مِی خور که همچو ما بسیاری،\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتند و کسی بازنیامد باری!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "* پیری دیدم به خانهٔ خَمّاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم نکنی ز رفتگان اِخباری؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتا مِی خور که همچو ما بسیاری،",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتند و کسی بازنیامد باری!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

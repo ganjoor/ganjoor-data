@@ -1,0 +1,58 @@
+{
+  "Id": 84214,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/maghrebi/robaee-sm/sh3",
+  "RhymeLetters": "یپیدانیست",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان مفهوم معنوی و فلسفی می‌پردازد. شاعر اشاره می‌کند که در حالت خوش‌حالی و التهاب روحی (سماع)، مردان تنها در ظاهر دیده می‌شوند و حقیقت واقعی آنها پنهان است. همچنین، اشاره می‌کند که بسیاری قبلاً در این مسیر روحانی پیش رفته‌اند، اما نتیجه آنکه حقیقت و واقعیات در این مسیر هنوز پیداست و قابل درک نیست. به طور کلی، این اشعار بر ابعاد پنهان و ناپیدای روح انسانی تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یپیدانیست",
+      "PlainText": "مردان همه در سماع و نی پیدا نیست\r\nمستان همه ظاهرند و می پیدا نیست\r\nصد قافله پیشتر درین ره رفتند\r\nوین طرفه که هیچگونه ای پیدا نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردان همه در سماع و نی پیدا نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمستان همه ظاهرند و می پیدا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد قافله پیشتر درین ره رفتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین طرفه که هیچگونه‌ای پیدا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردان همه در سماع و نی پیدا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مستان همه ظاهرند و می پیدا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد قافله پیشتر درین ره رفتند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین طرفه که هیچگونه‌ای پیدا نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

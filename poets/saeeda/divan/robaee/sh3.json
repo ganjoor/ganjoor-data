@@ -1,0 +1,58 @@
+{
+  "Id": 107903,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/saeeda/divan/robaee/sh3",
+  "RhymeLetters": "رانداختمرا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساس عمیق و دردهای خودش سخن می‌گوید. او از آتش در دلش صحبت می‌کند، که باعث سرگردانی و بی‌قراری‌اش شده است. اگر به خاک تبدیل شود، زیر فشار چرخ‌های زمان له می‌شود و اگر به آب هم تبدیل شود، از نظرها محو می‌گردد. به طور کلی، او احساس بی‌پناهی و سرخوردگی را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رانداختمرا",
+      "PlainText": "آتش گشتم در جگر انداخت مرا\r\nچون باد شدم در به در انداخت مرا\r\nگر خاک شدم چرخ لگدکوبم کرد\r\nگر آب شدم از نظر انداخت مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش گشتم در جگر انداخت مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون باد شدم در به در انداخت مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خاک شدم، چرخ لگدکوبم کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آب شدم از نظر انداخت مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتش گشتم در جگر انداخت مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون باد شدم در به در انداخت مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر خاک شدم، چرخ لگدکوبم کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر آب شدم از نظر انداخت مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 39586,
+  "CatId": 1332,
+  "Title": "در ماتم صبحی",
+  "FullTitle": "رهی معیری » رباعیها » در ماتم صبحی",
+  "FullUrl": "/rahi/robaeeha/sh19",
+  "RhymeLetters": "ااخرشد",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از پایان خوشی‌ها و زیبایی‌های زندگی سخن می‌گوید. او lament می‌کند که فصل بهار و شادی‌ها به سر آمده و دیگر خبری از گل و زیبایی نیست. شب سپری شده و صبحی که به محفل آن‌ها زندگی و نشاط می‌بخشید، دیگر وجود ندارد. همچنین، اشاره به پایان داستان‌ها و قصه‌ها نیز دارد که به نوعی به پایان خوشی‌ها و زندگی شاد اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ااخرشد",
+      "PlainText": "دردا که بهار عیش ما آخر شد\r\nدوران گل از باد فنا آخر شد\r\nشب طی شد و رفت صبحی از محفل ما\r\nافسانه افسانه سرا آخر شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردا که بهار عیش ما آخر شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوران گل از باد فنا آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب طی شد و رفت صبحی از محفل ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسانه افسانه‌سرا آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردا که بهار عیش ما آخر شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دوران گل از باد فنا آخر شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب طی شد و رفت صبحی از محفل ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسانه افسانه‌سرا آخر شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50802,
+  "CatId": 1827,
+  "Title": "رباعی شمارهٔ ۲",
+  "FullTitle": "باباافضل کاشانی » رباعیات » رباعی شمارهٔ ۲",
+  "FullUrl": "/babaafzal/robba/sh2",
+  "RhymeLetters": "مانرا",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این اشعار به این معنی است که اندوه و غم شخص باعث خوشحالی دیگران می‌شود و بی‌دینی تو تازگی و شادابی ایمان را به همراه دارد. همچنین، دل‌های بی‌تاب نمی‌توانند حتی یک لحظه از وصال تو جدا شوند، چرا که درد و رنج تو، درمانی را طلب می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مانرا",
+      "PlainText": "اندوه تو دلشاد کند هر جان را \r\nکفر تو دهد تازگی ای ایمان را \r\nدل راحت وصل تو مبیناد دمی\r\nبا درد تو گر طلب کند درمان را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندوه تو دلشاد کند هر جان را \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکفر تو دهد تازگی ای ایمان را \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل راحت وصل تو مبیناد دمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا درد تو گر طلب کند درمان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اندوه تو دلشاد کند هر جان را ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کفر تو دهد تازگی ای ایمان را ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل راحت وصل تو مبیناد دمی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با درد تو گر طلب کند درمان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

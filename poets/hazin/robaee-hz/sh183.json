@@ -1,0 +1,58 @@
+{
+  "Id": 83080,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۸۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۸۳",
+  "FullUrl": "/hazin/robaee-hz/sh183",
+  "RhymeLetters": "ک",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات در مورد سنجش و ارزیابی انسان‌ها و ویژگی‌هایشان است. شاعر به تضاد بین افرادی با بار سنگین و سبک اشاره می‌کند و از خود می‌پرسد که نرمی و لطافت چگونه است. در نهایت، این اشعار به نوعی به وضعیت و کیفیت وجودی افراد و تفاوت‌های آن‌ها پرداخته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ک",
+      "PlainText": "میزان حقیم و امتحان و لک لک \r\nتا باز نماییم گران را ز سبک\r\nاز ما نرمی چگونه ای حیز خنک\r\nما بدر تمامیم و کتان تو تنک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیزان حقیم و امتحان و لَکَ لک ؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا باز نماییم گران را ز سبک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ما نَرَمی چگونه، ای حیزِ خنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما بدرِ تمامیم و کتان تو تنک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میزان حقیم و امتحان و لَکَ لک ؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا باز نماییم گران را ز سبک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ما نَرَمی چگونه، ای حیزِ خنک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما بدرِ تمامیم و کتان تو تنک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

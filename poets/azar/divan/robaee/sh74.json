@@ -1,0 +1,58 @@
+{
+  "Id": 118995,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/azar/divan/robaee/sh74",
+  "RhymeLetters": "رود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر بیان می‌کند که غارتگری از چشمان او دو رود را می‌برد و هر کدام از این رودها از چشمانش جاری می‌شود. او خود را به عنوان یک نخل تازه و سرزنده از باغ معرفی می‌کند و به عیسی و مریم اشاره می‌کند و برای آنها درود می‌فرستد. این اشعار حسی از زیبایی و لطافت را منتقل می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رود",
+      "PlainText": "غارتگر جان ز چشم من برد دو رود\r\nهر یک از چشم من روان کرد دو رود\r\nنخلی دو تر و تازه ام از باغ رود\r\nکز عیسی و از مریم شان باد درود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغارتگر جان، ز چشم من برد دو رود؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر یک از چشم من روان کرد دو رود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخلی دو، تر و تازه ام از باغ رود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز عیسی و از مریم شان باد درود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غارتگر جان، ز چشم من برد دو رود؛",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر یک از چشم من روان کرد دو رود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نخلی دو، تر و تازه ام از باغ رود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز عیسی و از مریم شان باد درود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 112350,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/sahab/divan/robaee/sh26",
+  "RhymeLetters": "وزفراق",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این سروده بیانگر احساسات عمیق شاعر در مورد فراق و وصال است. او می‌گوید در جشن رقیب، سوز و درد جدایی بیشتر از درد فراق است. همچنین اشاره می‌کند که دیگران در یاد شب وصال هستند، اما او در آن شب فقط آرزوی روز فراق را دارد، نشان‌دهنده این است که فراق برای او حتی از وصال نیز سنگین‌تر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزفراق",
+      "PlainText": "در بزم رقیب ای زتوام سوز فراق\r\nوصلت بتر از درد غم اندوز فراق\r\nهر کس به فراق کرد یاد شب وصل\r\nمن در شب وصل آرزو روز فراق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بزم رقیب ای زتوام سوز فراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصلت بتر از درد غم اندوز فراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس به فراق کرد یاد شب وصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن در شب وصل آرزو روز فراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بزم رقیب ای زتوام سوز فراق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وصلت بتر از درد غم اندوز فراق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر کس به فراق کرد یاد شب وصل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من در شب وصل آرزو روز فراق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

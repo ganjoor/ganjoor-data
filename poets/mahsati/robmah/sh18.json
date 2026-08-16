@@ -1,0 +1,58 @@
+{
+  "Id": 50078,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۸",
+  "FullUrl": "/mahsati/robmah/sh18",
+  "RhymeLetters": "ارگرفت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در ابیات این شعر، شاعر از حسرت و افسوس سخن می‌گوید؛ زیرا دور گل، خارهایی وجود دارد و زاغی لاله را به منقار می‌گیرد. همچنین شاعر به زیبایی زنخدان محبوب اشاره می‌کند که با مداد سیماب مانند کشیده شده و لب لعل او نیز زنگار گرفته است. این شعر احساس درد و زیبایی را به شیوه‌ای هنری بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارگرفت",
+      "PlainText": "افسوس که اطراف گلت خار گرفت\r\nزاغ آمد و لاله را به منقار گرفت\r\nسیماب زنخدان تو آورد مداد\r\nشنگرف لب لعل تو زنگار گرفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که اطراف گلت خار گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزاغ آمد و لاله را به منقار گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیماب زنخدان تو آورد مداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشنگرف لب لعل تو زنگار گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که اطراف گلت خار گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زاغ آمد و لاله را به منقار گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سیماب زنخدان تو آورد مداد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شنگرف لب لعل تو زنگار گرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

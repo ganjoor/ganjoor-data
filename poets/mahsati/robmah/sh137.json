@@ -1,0 +1,58 @@
+{
+  "Id": 50197,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۳۷",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۳۷",
+  "FullUrl": "/mahsati/robmah/sh137",
+  "RhymeLetters": "سیمستان",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به زیبایی و جذابیت زلف محبوبش اشاره می‌کند و آن را به سی مستان تشبیه می‌کند که در زلف او خوابیده‌اند. همچنین، به زیبایی و جذابیت گوش‌های او نیز اشاره می‌کند و بیان می‌کند که بوسه‌ای از آن زیبایی کمتر از مستان نیست. به طور کلی، زیبایی و جذابیت محبوبش را با تصاویری زنده و شاعرانه توصیف می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سیمستان",
+      "PlainText": "زلفین تو سی زنگی و هر سی مستان\r\nسی مستان اند خفته در سیمستان\r\nعاج است بناگوش تو یا سیم است آن\r\nز آن سیمستان بوسه کم از سی مستان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلفین تو سی زنگی و هر سی مستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسی مستان‌اند خفته در سیمستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاج است بناگوش تو یا سیم است آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آن سیمستان بوسه کم از سی مَستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلفین تو سی زنگی و هر سی مستان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سی مستان‌اند خفته در سیمستان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاج است بناگوش تو یا سیم است آن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز آن سیمستان بوسه کم از سی مَستان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

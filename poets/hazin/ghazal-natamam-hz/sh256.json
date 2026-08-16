@@ -1,0 +1,58 @@
+{
+  "Id": 83417,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۵۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۵۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh256",
+  "RhymeLetters": "ادمیدادم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: من انسان حساسی هستم و از زخم زبان خیلی ناراحت می‌شوم. بیشتر از این که از خنجر آسیب ببینم، از حرف‌های نیش‌دار می‌زنگم. حتی اگر کسی به من بی‌جهت ناراحت باشد، از طبع حساس و زودرنج یارم بیش‌تر آزرده می‌شوم.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمیرنجم",
+      "PlainText": "من نازک دل از زخم زبان بسیار می رنجم\r\nز خنجر بیشتر از حرف پهلودار می رنجم\r\nاگر بیجا ز من گردون ناهنجار می رنجد\r\nنمی رنجم ز طبع زودرنج یار می رنجم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن نازک دل از زخم زبان بسیار می رنجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خنجر بیشتر، از حرف پهلودار می رنجم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر بیجا، ز من گردون ناهنجار می رنجد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمی رنجم، ز طبع زودرنج یار می رنجم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من نازک دل از زخم زبان بسیار می رنجم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز خنجر بیشتر، از حرف پهلودار می رنجم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر بیجا، ز من گردون ناهنجار می رنجد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نمی رنجم، ز طبع زودرنج یار می رنجم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

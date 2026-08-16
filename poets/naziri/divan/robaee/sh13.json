@@ -1,0 +1,58 @@
+{
+  "Id": 123579,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/naziri/divan/robaee/sh13",
+  "RhymeLetters": "است",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر می‌گوید که به شادی و خوشحالی در روز شنبه برخاست و در روز جمعه نیز جشنی شاد برگزار کرد. اما از طرفی ابراز می‌کند که اگر این روزهای خوش (شنبه و جمعه) نبودند، غم و اندوهی که دارد همچنان ادامه می‌یافت. به طور کلی، شعر به اهمیت ایام شاد و لحظات خوش در مقابل غم و اندوه اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "کی شنبه من به شادمانی برخاست\r\nیا جمعه من بزم نشاطی آراست\r\nخوب است که ایام برافتد ورنه\r\nتا شنبه و جمعه هست این غم برجاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی شنبهٔ من به شادمانی برخاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا جمعهٔ من بزم نشاطی آراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوب است که ایام برافتد ورنه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شنبه و جمعه هست این غم برجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی شنبهٔ من به شادمانی برخاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا جمعهٔ من بزم نشاطی آراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوب است که ایام برافتد ورنه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا شنبه و جمعه هست این غم برجاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

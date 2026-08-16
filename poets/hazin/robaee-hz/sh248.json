@@ -1,0 +1,58 @@
+{
+  "Id": 83145,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۴۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۴۸",
+  "FullUrl": "/hazin/robaee-hz/sh248",
+  "RhymeLetters": "ارتویی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از عشق و ارتباط عمیق خود با معشوقش سخن می‌گوید. او معشوق را به عنوان درد و درمان دل خود معرفی می‌کند و عشق را نمایانگر حضور و وجود او می‌داند. معشوق به گونه‌ای توصیف می‌شود که تمامی ابعاد و زوایای زندگی شاعر را در بر می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارتویی",
+      "PlainText": "هم درد و دوای دل افگار تویی\r\nعاشق تویی و عشق تویی یار تویی\r\nپرگار تویی نقطه تویی دایره تو\r\nیعنی که ز هر پرده پدیدار تویی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم درد و دوای دل افگار تویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاشق تویی و عشق تویی، یار تویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرگار تویی، نقطه تویی، دایره تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی که ز هر پرده، پدیدار تویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هم درد و دوای دل افگار تویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عاشق تویی و عشق تویی، یار تویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرگار تویی، نقطه تویی، دایره تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یعنی که ز هر پرده، پدیدار تویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

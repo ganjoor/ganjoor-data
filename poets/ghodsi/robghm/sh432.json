@@ -1,0 +1,58 @@
+{
+  "Id": 74973,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۴۳۲",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۴۳۲",
+  "FullUrl": "/ghodsi/robghm/sh432",
+  "RhymeLetters": "اکش",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، به زیبایی و ارزش خورشید و خاک که به نشسته بر دامن دریا اشاره می‌شود، پرداخته شده است. خورشید، نماد روشنی و حیات، و خاک، نماد زندگی و باروری، هر یک به نوعی اهمیت دارند. حتی بیان می‌کند که خاکش به اندازه‌ی خون صد چشمه خضر (منبع حیات) ارزشمند است؛ و آبی که به خاک دریا می‌رسد، نشان‌دهنده‌ی پیوند میان آسمان و زمین است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکش",
+      "PlainText": "خورشید که از پی بروند افلاکش\r\nباید جستن به دیده نمناکش\r\nخاکش ارزد به خون صد چشمه خضر\r\nآبی که خورد به راه دریا خاکش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید که از پی بروند افلاکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباید جستن به دیده نمناکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاکش ارزد به خون صد چشمه خضر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآبی که خورد به راه دریا، خاکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید که از پی بروند افلاکش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید جستن به دیده نمناکش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاکش ارزد به خون صد چشمه خضر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آبی که خورد به راه دریا، خاکش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

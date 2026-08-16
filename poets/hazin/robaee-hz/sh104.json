@@ -1,0 +1,58 @@
+{
+  "Id": 82992,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۰۴",
+  "FullUrl": "/hazin/robaee-hz/sh104",
+  "RhymeLetters": "انپیداشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به زیبایی و جذابیت چهره معشوق اشاره می‌کند و بیان می‌کند که از دیدن او، گل و سبزه به وجود آمده‌اند و سایه‌اش باعث سرسبزی درختان سرو شده است. همچنین می‌گوید که تمام زیبایی‌های جهان ناشی از وجود اوست و از دستان او دریا و معدن‌ها پدید آمده‌اند. در کل، این اشعار به تمجید از معشوق و تأثیر او بر طبیعت پرداخته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انپیداشد",
+      "PlainText": "از عکس رخ تو گلستان پیدا شد\r\nوز سایه تو سرو روان پیدا شد\r\nخود جمله جهان صورت یکتایی توست\r\nاز هر دو کف تو بحر و کان پیدا شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عکس رخ تو، گلستان پیدا شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز سایه تو، سرو روان پیدا شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود جمله جهان صورت یکتایی توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هر دو کف تو، بحر و کان پیدا شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عکس رخ تو، گلستان پیدا شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز سایه تو، سرو روان پیدا شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود جمله جهان صورت یکتایی توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از هر دو کف تو، بحر و کان پیدا شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

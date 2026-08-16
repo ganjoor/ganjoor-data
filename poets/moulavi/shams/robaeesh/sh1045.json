@@ -1,0 +1,58 @@
+{
+  "Id": 30503,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۰۴۵",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۰۴۵",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1045",
+  "RhymeLetters": "وبمباش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به نوعی اشاره به دو شخصیت مشهور از داستان‌های دینی دارد. شاعر می‌گوید اگر ناله کنم، دیگران به من می‌گویند که مثل یعقوب نباش که از غم فرزندانش ناله می‌کرد. و اگر صبر کنم، مرا مانند ایوب که نهیب به صبر داشت، متهم می‌کنند. در نهایت، شاعر بیان می‌کند که حتی در لحظات سخت و شکست، نباید اجازه دهم که سرم به زمین بیافتد و باید از خودم مراقبت کنم. به طور کلی، این شعر تأکیدی است بر نیاز به صبر و استقامت در مواجهه با مشکلات زندگی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وبمباش",
+      "PlainText": "گر ناله کنم گوید یعقوب مباش\r\nور صبر کنم گوید ایوب مباش\r\nاشکسته بخواهدم و چون سر بکشم\r\nبر سر زندم که سر مکش چوب مباش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ناله کنم گوید یعقوب مباش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور صبر کنم گوید ایوب مباش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشکسته بخواهدم و چون سر بکشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر زندم که سر مکش چوب مباش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر ناله کنم گوید یعقوب مباش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور صبر کنم گوید ایوب مباش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اشکسته بخواهدم و چون سر بکشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر سر زندم که سر مکش چوب مباش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

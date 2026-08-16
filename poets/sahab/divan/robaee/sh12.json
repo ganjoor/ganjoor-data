@@ -1,0 +1,58 @@
+{
+  "Id": 112336,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/sahab/divan/robaee/sh12",
+  "RhymeLetters": "روزیهست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی عشق و انتظار برای وصال محبوب است. شاعر به احساس سوز و گداز درونی خود اشاره دارد و می‌گوید که تنها جمال محبوبش مانند شمعی در شب تاریک، روشنی بخش است. او به یاد می‌آورد که به دلیل اشتیاق به وصال، فکر می‌کرده که روزی برای پایان فراق وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روزیهست",
+      "PlainText": "ای آنکه به جان ز فرقتش سوزی هست\r\nنه جز رخ او شمع شب افروزی هست\r\nمی داد بروزد گرم مژده ی وصل\r\nپنداشت شب فراق را روزی هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه به جان ز فرقتش سوزی هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه جز رخ او شمع شب افروزی هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی داد بروزد گرم مژده ی وصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنداشت شب فراق را روزی هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه به جان ز فرقتش سوزی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه جز رخ او شمع شب افروزی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می داد بروزد گرم مژده ی وصل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پنداشت شب فراق را روزی هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

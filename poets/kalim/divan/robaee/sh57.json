@@ -1,0 +1,58 @@
+{
+  "Id": 90768,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۵۷",
+  "FullUrl": "/kalim/divan/robaee/sh57",
+  "RhymeLetters": "انیتست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که هر چیزی که باعث راحتی و آسایش انسان می‌شود، در زمان سختی و مشکلات ممکن است به دشمنی تبدیل شود. همچنین، آب درون وجود انسان به هنگام بحران‌ها و ویرانی‌ها می‌تواند مانند سیلابی خروشان عمل کند. بدین ترتیب، شاعر به تغییرات و تناقض‌های زندگی اشاره دارد و هشدار می‌دهد که هر نعمت و آسایشی ممکن است به موقعیتی ناخوشایند تبدیل شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیتست",
+      "PlainText": "هر چیز که مایه تن آسانی تست\r\nبرگشت چو بخت دشمن جانی تست\r\nآن آب که در گل وجود است ترا\r\nسیلاب شود چو وقت ویرانی تست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چیز که مایه تن آسانی تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرگشت چو بخت دشمن جانی تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن آب که در گل وجود است ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیلاب شود چو وقت ویرانی تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چیز که مایه تن آسانی تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگشت چو بخت دشمن جانی تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن آب که در گل وجود است ترا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیلاب شود چو وقت ویرانی تست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

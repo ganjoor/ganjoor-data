@@ -1,0 +1,58 @@
+{
+  "Id": 123630,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/naziri/divan/robaee/sh64",
+  "RhymeLetters": "ابرود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر این هستند که اگر دل به فریب نفس تسلیم شود، ممکن است از مسیر درست خود خارج شود. بنابراین باید احتیاط کرد و اجازه نداد حتی یک قدم از راه صحیح دور شویم. اگر نفس به ما سخت بگیرد، باید به خودمان کمک کنیم تا بتوانیم به راه درست ادامه دهیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابرود",
+      "PlainText": "گر دل به فریب نفست از پا برود\r\nمگذار که نیم گام از جا برود\r\nبا مسکنت تو گر نمی سازد نفس\r\nپیش قدمش کفش بنه تا برود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دل به فریب نفست از پا برود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگذار که نیم گام از جا برود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا مسکنت تو گر نمی سازد نفس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش قدمش کفش بنه تا برود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر دل به فریب نفست از پا برود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگذار که نیم گام از جا برود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با مسکنت تو گر نمی سازد نفس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیش قدمش کفش بنه تا برود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

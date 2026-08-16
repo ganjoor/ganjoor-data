@@ -1,0 +1,58 @@
+{
+  "Id": 105634,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۱۳",
+  "FullUrl": "/ahli/saghiname/sh14",
+  "RhymeLetters": "شت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به ساقی اشاره می‌کند که با دادن جام و شراب، ما را به عشق و مستی می‌کشاند. او از عشق و زیبایی‌ها سخن می‌گوید و به زندگی و لذت‌های دنیوی و آرامش‌های بهشت اشاره دارد. در واقع، شاعر به فراگیر شدن عشق و زیبایی در زندگی و جهان اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شت",
+      "PlainText": "ساقی قدحی که آنکه این خاک سرشت\r\nخط بر سر ما به مستی و عشق نوشت\r\nمعمور بود به شاهد و باده جهان\r\nموعود بود به کوثر و حور بهشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی قدحی که آنکه این خاک سرشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخط بر سرِ ما به مستی و عشق نوشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعمور بُوَد به شاهد و باده جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموعود بُوَد به کوثر و حور بهشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی قدحی که آنکه این خاک سرشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خط بر سرِ ما به مستی و عشق نوشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معمور بُوَد به شاهد و باده جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موعود بُوَد به کوثر و حور بهشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

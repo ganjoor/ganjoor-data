@@ -1,0 +1,58 @@
+{
+  "Id": 83405,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۴۴",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۴۴",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh244",
+  "RhymeLetters": "ابش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر غم و حسرت شاعر است. او به زیبایی‌های ظاهری مانند غنچه و گل اشاره می‌کند و از نادیده گرفتن حقایق تلخ و ناراحت‌کننده‌ای چون دلتنگی و تپش قلب در دل شب lament می‌کند. شاعر خطاب به کسی می‌گوید که در سایه گل خوابیده و از دردها و رنج‌های پنهان اطرافش بی‌خبر است، و این عدم توجه را با تاسف بیان می‌کند.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگندیدیافسوس",
+      "PlainText": "غنچه دیدی و دل تنگ ندیدی افسوس\r\nروی گل دیدی و نیرنگ ندیدی افسوس\r\nای که در سایه گل خواب فراغت داری\r\nتپش مرغ شب آهنگ ندیدی افسوس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغنچه دیدی و دل تنگ ندیدی، افسوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروی گل دیدی و نیرنگ ندیدی، افسوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که در سایهٔ گل خواب فراغت داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتپش مرغ شب آهنگ ندیدی، افسوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غنچه دیدی و دل تنگ ندیدی، افسوس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روی گل دیدی و نیرنگ ندیدی، افسوس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای که در سایهٔ گل خواب فراغت داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تپش مرغ شب آهنگ ندیدی، افسوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

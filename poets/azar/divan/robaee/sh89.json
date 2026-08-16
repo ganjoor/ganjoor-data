@@ -1,0 +1,58 @@
+{
+  "Id": 119010,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/azar/divan/robaee/sh89",
+  "RhymeLetters": "وانیبگذر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به بی‌رحمی و آزار دیگری اشاره می‌کند. او از کسی می‌خواهد که از آزار دادن دیگران و کشتن بندگان ناتوان بگذرد و به جای این کار، به نیروی مثبت خود و شکرگزاری بپردازد. این ابیات به نوعی دعوت به رحمت و مهربانی دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وانیبگذر",
+      "PlainText": "ز آزردن جان خسته جانی بگذر\r\nاز قتل من پیر جوانی بگذر\r\nشکرانه ی بازوی توانا صیاد\r\nاز کشتن صید ناتوانی بگذر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آزردن جان خسته جانی بگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قتل من پیر، جوانی بگذر!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکرانه ی بازوی توانا، صیاد!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کشتن صید ناتوانی بگذر!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آزردن جان خسته جانی بگذر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از قتل من پیر، جوانی بگذر!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکرانه ی بازوی توانا، صیاد!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از کشتن صید ناتوانی بگذر!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

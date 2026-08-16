@@ -1,0 +1,58 @@
+{
+  "Id": 10695,
+  "CatId": 144,
+  "Title": "قطعه شمارهٔ ۵",
+  "FullTitle": "سعدی » دیوان اشعار » قطعات » قطعه شمارهٔ ۵",
+  "FullUrl": "/saadi/divan/ghetes/sh5",
+  "RhymeLetters": "ارینست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمایز بین خوبی و زشتی پرداخته است. شاعر می‌گوید که خوبی را باید در ظاهری زیبا و آراسته نمایش داد، زیرا آن خوب است و شایسته زینت. در حالی که زشتی را هرچقدر هم که بپوشانیم و زیبا جلوه دهیم، در نهایت همان زشت است و به نوعی مرده و بی‌ارزش به شمار می‌آید. به عبارت دیگر، باطن هر چیز مهمتر از ظاهر آن است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارینست",
+      "PlainText": "خوب را گو پلاس در بر کن\r\nکه همان لعبت نگارینست\r\nزشت را گو هزار حله بپوش\r\nکه همان مرده شوی پارینست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوب را گو پلاس در بر کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه همان لعبت نگارینست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزشت را گو هزار حله بپوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه همان مرده‌شوی پارینست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوب را گو پلاس در بر کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که همان لعبت نگارینست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زشت را گو هزار حله بپوش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که همان مرده‌شوی پارینست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

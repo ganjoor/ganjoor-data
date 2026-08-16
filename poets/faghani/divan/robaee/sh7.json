@@ -1,0 +1,58 @@
+{
+  "Id": 97079,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/faghani/divan/robaee/sh7",
+  "RhymeLetters": "اب",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر حالتی از فردی است که نه شوق و عطشی در دل دارد و نه توانایی بر ادامهٔ زندگی. او در حالت مستی به سر می‌برد و آرزو دارد که اگر لطف خداوند به او برسد، مثل شعله از آتش یا ماهی از آب رهایی یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "آنم که نه آب در دلم جسته نه تاب\r\nوز باده فتاده مست بر خاک خراب\r\nگر لطف تو دستگیر گردد گذرم\r\nچون شعله از آتش و چو ماهی از آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنم که نه آب در دلم جسته نه تاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز باده فتاده مست بر خاک خراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر لطف تو دستگیر گردد گذرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شعله از آتش و چو ماهی از آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنم که نه آب در دلم جسته نه تاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز باده فتاده مست بر خاک خراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر لطف تو دستگیر گردد گذرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شعله از آتش و چو ماهی از آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

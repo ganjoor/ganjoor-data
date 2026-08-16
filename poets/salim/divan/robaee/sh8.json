@@ -1,0 +1,58 @@
+{
+  "Id": 101799,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/salim/divan/robaee/sh8",
+  "RhymeLetters": "اباست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: دل شاعر از عشق گلرخان سرشار از غم و بی‌تابی است. دل او مانند لاله‌ای سیراب و خونین است و هر قسمت از آن، گویی صفحه‌ای از یک کتاب خاص را تشکیل می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباست",
+      "PlainText": "دل از غم عشق گلرخان بی تاب است\r\nآغشته به خون چو لاله ی سیراب است\r\nهر جزوی ازان بود بر نوخطی\r\nگویی دل من نسخه ی استکتاب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل از غم عشق گلرخان بی تاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآغشته به خون چو لاله ی سیراب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جزوی ازان بود بر نوخطی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی دل من نسخه ی استکتاب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از غم عشق گلرخان بی تاب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آغشته به خون چو لاله ی سیراب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جزوی ازان بود بر نوخطی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی دل من نسخه ی استکتاب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 107925,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/saeeda/divan/robaee/sh25",
+  "RhymeLetters": "ایمناست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به عشق و محبوبش اشاره می‌کند و از وضعیت خود به عنوان یک عاشق می‌گوید. او بیان می‌کند که عشق او، همانند مسیح، روح او را زنده کرده است. زمانی که از عشق می‌پرسد که معشوق کجاست، عشق پاسخ می‌دهد که معشوق در هر جا که او باشد، حضور دارد، به این معنا که عشق همه‌جا و در هر لحظه وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایمناست",
+      "PlainText": "من بنده عشق عشق مولای من است\r\nمن مرده دم عشق مسیحای من است\r\nگفتم با عشق جای معشوق کجاست\r\nگفت ای بی عقل هر کجا جای من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بندهٔ عشق، عشق مولای من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن مرده، دم عشق، مسیحای من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم با عشق جای معشوق کجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت ای بی عقل هر کجا جای من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من بندهٔ عشق، عشق مولای من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من مرده، دم عشق، مسیحای من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم با عشق جای معشوق کجاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفت ای بی عقل هر کجا جای من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

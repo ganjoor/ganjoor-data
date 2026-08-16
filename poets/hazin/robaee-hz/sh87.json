@@ -1,0 +1,58 @@
+{
+  "Id": 82975,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/hazin/robaee-hz/sh87",
+  "RhymeLetters": "یباامد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر از آمدن معشوق به نزد خود سخن می‌گوید و زیبایی و آرامش او را ستایش می‌کند. حضور این یار باعث شده که شاعر از خودپرستی فاصله بگیرد و زندگی جدیدی را تجربه کند. همچنین لباس کهنه‌ای که بر تن داشته، جای خود را به پارچه‌ای زیبا و باکیفیت بخشیده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یباامد",
+      "PlainText": "آمد به برم یار و چه زیبا آمد\r\nآرامش جان ناشکیبا آمد\r\nعاری ز خودی شدم حیاتم بخشید\r\nآن کهنه پلاس رفت و دیبا آمد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد به برم یار و چه زیبا آمد!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآرامش جان ناشکیبا آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاری ز خودی شدم، حیاتم بخشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کهنه پلاس رفت و دیبا آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد به برم یار و چه زیبا آمد!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آرامش جان ناشکیبا آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاری ز خودی شدم، حیاتم بخشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن کهنه پلاس رفت و دیبا آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

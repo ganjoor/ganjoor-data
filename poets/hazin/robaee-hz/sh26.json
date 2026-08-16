@@ -1,0 +1,58 @@
+{
+  "Id": 82914,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/hazin/robaee-hz/sh26",
+  "RhymeLetters": "بماست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها، شاعر به زیبایی و عشق اشاره می‌کند. غنچه‌ای که نخواهد شکفت، نشان‌دهنده آرزوهای بی‌ثمر است. همچنین، او به این نکته اشاره می‌کند که در عشق دو موضوع وجود دارد که هیچ‌گاه پایان نمی‌یابند؛ یکی موهای محبوب و دیگری شب‌هایی که گذرانده می‌شود. در واقع، عشق و زیبایی همواره در زندگی شاعر حضور دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بماست",
+      "PlainText": "آن غنچه که نشکفد به گلشن لب ماست\r\nکامی که روا می نشود مطلب ماست\r\nدر عشق دو چیز است که پایانش نیست\r\nاول سر زلف یار و آخر شب ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن غنچه که نشکفد به گلشن لب ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامی که روا می نشود مطلب ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق دو چیز است که پایانش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاول سر زلف یار و آخر شب ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن غنچه که نشکفد به گلشن لب ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کامی که روا می نشود مطلب ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عشق دو چیز است که پایانش نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اول سر زلف یار و آخر شب ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

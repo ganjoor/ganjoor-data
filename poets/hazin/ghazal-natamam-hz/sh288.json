@@ -1,0 +1,58 @@
+{
+  "Id": 83449,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۸۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۸۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh288",
+  "RhymeLetters": "ادلمن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساس تنهایی و درد دلی که دارد اشاره می‌کند. او زانوی خود را به عنوان نشانی از بی‌کسی و خستگی‌اش توصیف می‌کند و دل شکسته‌اش را مانند مومیایی می‌داند. عشق و ادب مانع از هر اقدامی برای او شده است و او در حالی که دستش بسته است، ناتوان از تغییر وضعیت خود است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستهٔمن",
+      "PlainText": "زانوی بی کسی هاست بالین خسته من\r\nشد مومیایی دل رنگ شکسته من\r\nپاس ادب به عاشق نگذاشت اختیاری\r\nکاری نمی گشاید از دست بسته من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانوی بی کسی هاست، بالین خستهٔ من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد مومیایی دل، رنگ شکستهٔ من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپاس ادب به عاشق، نگذاشت اختیاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاری نمی گشاید، از دست بستهٔ من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زانوی بی کسی هاست، بالین خستهٔ من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد مومیایی دل، رنگ شکستهٔ من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پاس ادب به عاشق، نگذاشت اختیاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاری نمی گشاید، از دست بستهٔ من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

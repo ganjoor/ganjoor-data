@@ -1,0 +1,77 @@
+{
+  "Id": 125566,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۳۱",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۳۱",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh31",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از رحمت و بخشش خداوند سخن می‌گوید و بیان می‌کند که با وجود زشتی‌های خود و گناهانش، از عذاب و عواقب آن‌ها نگران نیست زیرا به خداوند پناه برده است. او خود را عاصی می‌داند، اما با ایمان به رحمت خدا، اطمینان دارد که در برابر آتش جهنم ایمن است.",
+  "Sections": [
+    {
+      "Index": 40,
+      "Number": 40,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادارم",
+      "PlainText": "در سایه رحمت تو تا جا دارم\r\nاز زشتی کار خود چه پروا دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سایه رحمت تو تا جا دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز زشتی کار خود چه پروا دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 41,
+      "Number": 41,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "من عاصی ام و تو ملجا هر عاصی\r\nاز آتش دوزخت چه پروا دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن عاصی‌ام و تو ملجا هر عاصی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آتش دوزخت چه پروا دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 92,
+      "Number": 92,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "چهپروادارم",
+      "PlainText": "در سایه رحمت تو تا جا دارم\r\nاز زشتی کار خود چه پروا دارم\r\nمن عاصی ام و تو ملجا هر عاصی\r\nاز آتش دوزخت چه پروا دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سایه رحمت تو تا جا دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز زشتی کار خود چه پروا دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن عاصی‌ام و تو ملجا هر عاصی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آتش دوزخت چه پروا دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سایه رحمت تو تا جا دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 92,
+      "SectionIndex2": 40
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از زشتی کار خود چه پروا دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 92,
+      "SectionIndex2": 40
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من عاصی‌ام و تو ملجا هر عاصی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 92,
+      "SectionIndex2": 41
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از آتش دوزخت چه پروا دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 92,
+      "SectionIndex2": 41
+    }
+  ]
+}

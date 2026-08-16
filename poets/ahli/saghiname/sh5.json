@@ -1,0 +1,58 @@
+{
+  "Id": 105625,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۴",
+  "FullUrl": "/ahli/saghiname/sh5",
+  "RhymeLetters": "ادمرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد که نه تنها به یادش باشد، بلکه به او کمک کند و در غم‌هاش یاری‌اش کند. او از احساس تنهایی و ناآرامی‌اش سخن می‌گوید و می‌پرسد اگر ساقی نتواند به او کمک کند، به کجا باید برود تا آرامش بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمرا",
+      "PlainText": "ساقی بکرم تو میکنی یاد مرا\r\nغیر از تو که میرسد بفریاد مرا\r\nگر در غم دل تو دستگیرم نشوی\r\nسوی که روم که میکند شاد مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی بکرم تو میکنی یاد مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیر از تو که میرسد بفریاد مرا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در غم دل تو دستگیرم نشوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی که روم که میکند شاد مرا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی بکرم تو میکنی یاد مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غیر از تو که میرسد بفریاد مرا؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر در غم دل تو دستگیرم نشوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سوی که روم که میکند شاد مرا؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

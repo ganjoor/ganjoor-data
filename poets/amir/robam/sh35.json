@@ -1,0 +1,58 @@
+{
+  "Id": 70078,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۳۵",
+  "FullUrl": "/amir/robam/sh35",
+  "RhymeLetters": "فتوست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به تمجید از ملک و جایگاه او اشاره دارند. شاعر از نور و دور فلک به عنوان نمایانگر عظمت ملک یاد می‌کند و پیروزی و شادی را به او نسبت می‌دهد. به طور کلی، این اشعار به فضیلت‌ها و زیبایی‌های ملک پرداخته و احساسات مثبت نسبت به او را نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امتودرست",
+      "PlainText": "نور ملک ای ملک به نام تو درست\r\nدور فلک ای ملک به دام تو درست\r\nکان ظفر ای ملک به  کام تو درست\r\nجان طرب ای ملک به جام تو درست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنور ملک ای ملک به نام تو درست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور فلک ای ملک به دام تو درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکان ظفر ای ملک به‌ کام تو درست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان طرب ای ملک به جام تو درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نور ملک ای ملک به نام تو درست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دور فلک ای ملک به دام تو درست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کان ظفر ای ملک به‌ کام تو درست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان طرب ای ملک به جام تو درست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

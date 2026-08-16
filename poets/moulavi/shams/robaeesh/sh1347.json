@@ -1,0 +1,58 @@
+{
+  "Id": 30805,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۳۴۷",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۳۴۷",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1347",
+  "RhymeLetters": "ویم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق خود به معشوق سخن می‌گوید و بیان می‌کند که اگر معشوق بخواهد یا نخواهد، او همچنان به وفا و محبتش ادامه می‌دهد. او به دنبال آب حیات و جاودانگی است و معشوق را همان آب حیات می‌داند که برای او آمده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویم",
+      "PlainText": "من کاسته وفای آن مه رویم\r\nگر خواهد و گر نخواهد آن مه رویم\r\nزو آب حیات ابدی میجویم\r\nاو آب حیات آمده و من جویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن کاستهٔ وفای آن مه‌رویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر خواهد و گر نخواهد آن مه رویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزو آب حیات ابدی میجویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو آب حیات آمده و من جویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من کاستهٔ وفای آن مه‌رویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر خواهد و گر نخواهد آن مه رویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زو آب حیات ابدی میجویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او آب حیات آمده و من جویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

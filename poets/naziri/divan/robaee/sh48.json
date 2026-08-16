@@ -1,0 +1,58 @@
+{
+  "Id": 123614,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/naziri/divan/robaee/sh48",
+  "RhymeLetters": "ستمدارد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از بی‌حوصلگی خود سخن می‌گوید و اشاره می‌کند که حالتی از مستی و نشئه‌گی او را دربرنگرفته است. همچنین بیان می‌کند که نه تنها از حرص و طمع دور است، بلکه به نوعی قدرت و اراده‌ای مطلق دارد که هیچ چیزی نمی‌تواند او را به سمت افراط یا تفریط ببرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستمدارد",
+      "PlainText": "نی حوصله ام که جرعه مستم دارد\r\nنی حرص که فاقه زیر دستم دارد\r\nمن همت مطلقم که مستی و خمار\r\nمی نتواند بلند و پستم دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی حوصله ام که جرعه مستم دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی حرص که فاقه زیر دستم دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن همت مطلقم که مستی و خمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی نتواند بلند و پستم دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی حوصله ام که جرعه مستم دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی حرص که فاقه زیر دستم دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من همت مطلقم که مستی و خمار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می نتواند بلند و پستم دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

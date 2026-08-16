@@ -1,0 +1,58 @@
+{
+  "Id": 101849,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۵۸",
+  "FullUrl": "/salim/divan/robaee/sh58",
+  "RhymeLetters": "ور",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساسات خود نسبت به حسادت و جدایی سخن می‌گوید. او زندگی‌اش را پر از عدم آرامش و آوارگی توصیف می‌کند و می‌گوید که صبحش به شب شبیه است و شبش نیز به حسرت و اندوه. به طور کلی، احساس نارضایتی و غم در این اشعار به وضوح نمایان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ور",
+      "PlainText": "چون چشم حسود است جهان برمن شور\r\nآواره ی عالمم چو بیت مشهور\r\nصبحم همه شام است ولی شام فراق\r\nروزم همه شب ولی شب اول گور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون چشم حسود است جهان برمن شور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآواره ی عالمم چو بیت مشهور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبحم همه شام است، ولی شام فراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزم همه شب، ولی شب اول گور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون چشم حسود است جهان برمن شور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آواره ی عالمم چو بیت مشهور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبحم همه شام است، ولی شام فراق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روزم همه شب، ولی شب اول گور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 51776,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۵۳",
+  "FullUrl": "/bahar/robaeebk/sh53",
+  "RhymeLetters": "ن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به میدان جنگ می‌رود تا به دشمن ضربه بزند، اما ناگهان صدای فریاد دشمن را می‌شنود که از وضع خود ناله می‌کند. او به این نکته اشاره می‌کند که هر کس که به او آسیب بزند، ممکن است مشکلات و مصیبت‌های دیگری را نیز برای خود به ارمغان آورد. در واقع، او خود را مظلوم می‌داند که بار این مشکلات را بر دوش دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "رفتم بر توپ تا بکوبم دشمن\r\nفریاد برآورد که ای وای به من\r\nدست دگری و خانمان دگری\r\nمن مظلمه که می برم بر گردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتم بر توپ تا بکوبم دشمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد برآورد که ای وای به من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست دگری و خانمان دگری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن مظلمهٔ که می‌برم بر گردن‌؟‌!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتم بر توپ تا بکوبم دشمن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فریاد برآورد که ای وای به من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دست دگری و خانمان دگری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من مظلمهٔ که می‌برم بر گردن‌؟‌!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

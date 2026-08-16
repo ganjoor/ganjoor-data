@@ -1,0 +1,58 @@
+{
+  "Id": 76495,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/khojandi/robkk/sh17",
+  "RhymeLetters": "ر",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به گفتگو با محبوب می‌پردازد و از او درباره وضعیت خودش در مواجهه با عشق می‌پرسد. او می‌گوید اگر تیغ محبوب را داشته باشد، چه خواهد شد و محبوب پاسخ می‌دهد که سپر خواهد شد. سپس شاعر درباره تیرهای محبت سؤال می‌کند و محبوب می‌گوید که باید احتیاط کند. شاعر از اشکش می‌پرسد و محبوب آن را به سیم تشبیه می‌کند و در نهایت درباره چهره‌اش می‌پرسد که محبوب آن را به زر تشبیه می‌کند. این گفت‌وگو به توصیف عشق و زیبایی‌های آن می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "گفتم که چه شوم تیغ تو را گفت سپر\r\nگفتم که ز تیرت چه کنم گفت حذر\r\nگفتم که چو اشکم بود گفت که سیم\r\nگفتم که چو رویم چه بود گفت که زر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که چه شوم تیغ تو را گفت سپر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم که ز تیرت چه کنم گفت حذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که چو اشکم بود گفت که سیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم که چو رویم چه بود گفت که زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که چه شوم تیغ تو را گفت سپر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم که ز تیرت چه کنم گفت حذر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که چو اشکم بود گفت که سیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم که چو رویم چه بود گفت که زر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

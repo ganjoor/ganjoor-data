@@ -1,0 +1,58 @@
+{
+  "Id": 99020,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۵۲",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh52",
+  "RhymeLetters": "انخور",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات درباره نوشیدن مشروب صحبت می‌کند. شاعر می‌گوید اگر می‌خواهی بنگ (مشروب) بخوری، این کار را پنهانی و به آرامی انجام بده. او توصیه می‌کند که زیاد نخور و آوازه‌اش را بلند نکن، بلکه به مقدار کم و گهگاه بنوش تا از خطرات آشکار شدن آن دور باشی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انخور",
+      "PlainText": "گر بنگ خوری ای به رخ خوبان خور\r\nبنیوش چنان که گویمت زان سان خور\r\nبسیار مخور فاش مکن ورد مساز\r\nاندک خور و گه گاه خور و پنهان خور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بنگ خوری ای به رخ خوبان، خور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنیوش چنان که گویمت زان سان خور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسیار مخور، فاش مکن، ورد مساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندک خور و گه گاه خور و پنهان خور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر بنگ خوری ای به رخ خوبان، خور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنیوش چنان که گویمت زان سان خور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسیار مخور، فاش مکن، ورد مساز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندک خور و گه گاه خور و پنهان خور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

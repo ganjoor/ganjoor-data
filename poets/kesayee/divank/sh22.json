@@ -1,0 +1,58 @@
+{
+  "Id": 41609,
+  "CatId": 1675,
+  "Title": "خواری مُرده",
+  "FullTitle": "کسایی » دیوان اشعار » خواری مُرده",
+  "FullUrl": "/kesayee/divank/sh22",
+  "RhymeLetters": "ار",
+  "SourceName": "مهرداد بیات",
+  "SourceUrlSlug": "mb",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس غم و تنهایی یک فرد می‌پردازد که می‌داند هیچ‌کس برای او سوگواری نخواهد کرد. او به سرنوشت فرزند یتیم و سر افکنده‌اش اشاره می‌کند که در کوچه‌ها سرگردان است و با به یادآوری این واقعیت، به مظلومیت و درد ناشی از مرگ خود پی می‌برد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "دانم که هیچ کس نکند مرثیت مرا\r\nدانم که مرده بر دل میراثخوار خوار\r\nفرزند من یتیم و سر افکنده گرد کوی\r\nجامه وسخ گرفته و در خاک خاکسار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانم که هیچ کس نکند مرثیت مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانم که مرده بر دل میراثخوار، خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرزند من یتیم و سر افکنده گرد کوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجامه وَسَخ گرفته و در خاک، خاکسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانم که هیچ کس نکند مرثیت مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانم که مرده بر دل میراثخوار، خوار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرزند من یتیم و سر افکنده گرد کوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جامه وَسَخ گرفته و در خاک، خاکسار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

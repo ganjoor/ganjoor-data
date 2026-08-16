@@ -1,0 +1,58 @@
+{
+  "Id": 76519,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/khojandi/robkk/sh41",
+  "RhymeLetters": "ردی",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده با معشوق خود صحبت می‌کند. او از جانش می‌گوید و از عشقش بیان احساس می‌کند. معشوق از او می‌پرسد که آیا شجاعت دارد، و گوینده می‌گوید که به خاطر عشقش، جانش را فدای او کرده است. معشوق سپس به او اشاره می‌کند که نباید از مشکلات و کمبودها ناامید شود و به ادامهٔ عشق و زندگی دعوت می‌کند. در واقع، گفت‌وگو بین آنها نمادی از عشق و حمایت متقابل است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردی",
+      "PlainText": "گفتم جانا گفت بگو گر مردی\r\nگفتم مردم گفت که نیکو کردی\r\nگفتم چشمم گفت بس این بی آبی\r\nگفتم نفسم گفت مکن دم سردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم جانا گفت بگو گر مردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم مردم گفت که نیکو کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم چشمم گفت بس این بی آبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم نفسم گفت مکن دم سردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم جانا گفت بگو گر مردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم مردم گفت که نیکو کردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم چشمم گفت بس این بی آبی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم نفسم گفت مکن دم سردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

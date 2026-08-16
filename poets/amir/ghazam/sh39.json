@@ -1,0 +1,72 @@
+{
+  "Id": 69987,
+  "CatId": 2042,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "امیر معزی » غزلیات » شمارهٔ ۳۹",
+  "FullUrl": "/amir/ghazam/sh39",
+  "RhymeLetters": "ریم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از غم و اندوه جدایی عزیزش شکایت می‌کند. او به یاد محبوبش لیلی می‌افتد و از حال خراب خودش به خاطر فراق او می‌گوید. شاعر احساس می‌کند که در عشقش دردی عمیق دارد و هر دو دستش مشغول احساسات متفاوتی است: یکی بر دلش و دیگری بر سرش، که نشان‌دهنده‌ی درگیری درونی اوست.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریم",
+      "PlainText": "جانا کجا شدی  که ز بهر تو غم خوریم\r\nهر ساعت از غمان تو آشفته دل تریم\r\nلیلی دیگری تو به خوبی و دلبری\r\nما در غم فراق تو مجنون دیگریم\r\nما را به عشقت اندر بیکار شد دو دست\r\nیک دست بر دلیم و دگردست بر سریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانا کجا شدی‌ که ز بهر تو غم خوریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر ساعت از غمان تو آشفته دل‌تریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیلی دیگری تو به خوبی و دلبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما در غم فراق تو مجنون دیگریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را به عشقت اندر بیکار شد دو دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دست بر دلیم و دگردست بر سریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانا کجا شدی‌ که ز بهر تو غم خوریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر ساعت از غمان تو آشفته دل‌تریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیلی دیگری تو به خوبی و دلبری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما در غم فراق تو مجنون دیگریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ما را به عشقت اندر بیکار شد دو دست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یک دست بر دلیم و دگردست بر سریم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

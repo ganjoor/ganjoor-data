@@ -1,0 +1,58 @@
+{
+  "Id": 65332,
+  "CatId": 1886,
+  "Title": "شمارهٔ ۱۴ - ترجمه از شعر تازی",
+  "FullTitle": "وطواط » مقطعات » شمارهٔ ۱۴ - ترجمه از شعر تازی",
+  "FullUrl": "/vatvat/moghv/sh14",
+  "RhymeLetters": "امست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: ابوبکر در دانش فردی پخته و دانا است، اما در زمینه عهد و وفا هنوز کم تجربه و ناپخته است. او در دوستی با دیگران بسیار وفادار و پایبند است و این وفاداری از صبح تا شام ادامه دارد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امست",
+      "PlainText": "هست ابوبکر پخته در دانش\r\nلیک در عهد و در وفا خامست\r\nبا هر آن کس که دوستی دارد \r\nغایت آن ز صبح تا شامست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست ابوبکر پخته در دانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک در عهد و در وفا خامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هر آن کس که دوستی دارد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغایت آن ز صبح تا شامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هست ابوبکر پخته در دانش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیک در عهد و در وفا خامست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با هر آن کس که دوستی دارد ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غایت آن ز صبح تا شامست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 69366,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/azraghi/arob/sh5",
+  "RhymeLetters": "ست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به صبر اشاره دارد و از آن می‌گوید که بیداد و ظلمی که معشوق به او می‌کند، همه‌جا را فراگرفته است. شاعر از صبر می‌خواهد که همچنان وفادار بماند، زیرا هنوز فرصتی برای رهایی از این شرایط سخت وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "ای صبر از آن نگار بیداد پرست\r\nبر وی همه بیداد جهان یکسره هست\r\nنزدیک آمد کزین بلا بتوان رست\r\nای صبر وفادار هنوز این یک دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صبر، از آن نگار بیداد پرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر وی همه بیداد جهان یکسره هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنزدیک آمد کزین بلا بتوان رست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای صبر وفادار، هنوز این یک دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای صبر، از آن نگار بیداد پرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر وی همه بیداد جهان یکسره هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نزدیک آمد کزین بلا بتوان رست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای صبر وفادار، هنوز این یک دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

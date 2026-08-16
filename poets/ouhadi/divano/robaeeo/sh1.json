@@ -1,0 +1,58 @@
+{
+  "Id": 29267,
+  "CatId": 254,
+  "Title": "رباعی شمارهٔ ۱",
+  "FullTitle": "اوحدی مراغه‌ای » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱",
+  "FullUrl": "/ouhadi/divano/robaeeo/sh1",
+  "RhymeLetters": "اکترا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به یاد طبع شاد و زیبایی ظاهری و باطنی محبوبش می‌افتد و آرزو می‌کند که بر سر خاک او گذر کند و خاکش را بر سر بگذارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکترا",
+      "PlainText": "چون یاد کنم طبع طربناک ترا\r\nو آن صورت خوب و سیرت پاک ترا\r\nخواهم که گذر بر سر خاک تو کنم\r\nدر ساعت و بر سر کنم آن خاک ترا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون یاد کنم طبع طربناک ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آن صورت خوب و سیرت پاک ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهم که: گذر بر سر خاک تو کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ساعت و بر سر کنم آن خاک ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون یاد کنم طبع طربناک ترا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و آن صورت خوب و سیرت پاک ترا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم که: گذر بر سر خاک تو کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در ساعت و بر سر کنم آن خاک ترا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

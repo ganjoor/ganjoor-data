@@ -1,0 +1,58 @@
+{
+  "Id": 103096,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/jooya/divan/robaee/sh42",
+  "RhymeLetters": "رد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساس ناامیدی و غم خود اشاره می‌کند. او اگرچه در راه عشق و محبت افتاده، اما معشوق حتی یک بار هم به او فکر نکرده است. شاعر از بی‌رحمی و بی‌مروتی معشوق و درد و رنجی که این وضعیت به او می‌دهد، ابراز شکایت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "با آنکه فتاده ام به راهش چون گرد\r\nیکبار به سهو هم مرا یاد نکرد\r\nهی هی چه بلا شوخ دل آزار است او\r\nالله چه بی مروت است آن بی درد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا آنکه فتاده ام به راهش چون گرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکبار به سهو هم مرا یاد نکرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهی هی چه بلا شوخ دل آزار است او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالله چه بی مروت است آن بی‌درد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با آنکه فتاده ام به راهش چون گرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یکبار به سهو هم مرا یاد نکرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هی هی چه بلا شوخ دل آزار است او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "الله چه بی مروت است آن بی‌درد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

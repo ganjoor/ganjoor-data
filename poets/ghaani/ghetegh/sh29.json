@@ -1,0 +1,58 @@
+{
+  "Id": 45669,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۲۹",
+  "FullUrl": "/ghaani/ghetegh/sh29",
+  "RhymeLetters": "ابنیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مفهوم وجود الهی و ضرورت دستیابی به منبع حقیقی اشاره می‌کند. دل انسان تنها با ارتباط با خدا (احمد) می‌تواند سیراب شود، زیرا بدون این ارتباط، آبِ جویی که وجود دارد، قادر به سیراب کردن نیست. در واقع، دریا (یا حقیقت عمیق) به اندازه‌ای وسیع است که هر قطره‌ای از آن، عمق و ارزش ویژه‌ای دارد و بدون این پایگاه، انسان نمی‌تواند به معنای واقعی سیراب شود.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابنیست",
+      "PlainText": "ای دل از جویی که جز احمد کسش  میراب نیست\r\nچون شوی سیراب چون میراب خود سیراب نیست\r\nجو چه باشد بحر بی پایان که هر یک قطره اش\r\nصدهزاران لجه ژرفست کش پایاب نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل از جویی که جز احمد کسش‌ میراب نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شوی سیراب چون میراب خود سیراب نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجو چه باشد بحر بی‌پایان که هر یک‌قطره‌اش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدهزاران لجهٔ ژرفست کش پایاب نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل از جویی که جز احمد کسش‌ میراب نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شوی سیراب چون میراب خود سیراب نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جو چه باشد بحر بی‌پایان که هر یک‌قطره‌اش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صدهزاران لجهٔ ژرفست کش پایاب نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

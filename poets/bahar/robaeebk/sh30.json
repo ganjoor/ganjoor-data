@@ -1,0 +1,58 @@
+{
+  "Id": 51753,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/bahar/robaeebk/sh30",
+  "RhymeLetters": "یادنبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر اهمیت آزادی فکر و اندیشه هستند. شاعر به این نکته اشاره می‌کند که اگر فکر و ایده‌ای آزاد نباشد، توانایی بیان و فریاد زدن نیز وجود نخواهد داشت. همچنین، با ذکر مسعود اشاره می‌کند که اگر او اندیشه‌ای آزاد نداشت، نمی‌توانست صدای مردم را بشنود و از آن آگاه باشد. به طور کلی، این شعر به نقش کلیدی آزادی در بیان افکار و احساسات اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یادنبود",
+      "PlainText": "گر زیر فلک فکر من آزاد نبود\r\nدر حنجره ام این  همه فریاد نبود\r\nمسعود گر اندیشه آزاد نداشت\r\nاز قلعه نای خلق را یاد نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زیر فلک فکر من آزاد نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حنجره‌ام این‌ همه فریاد نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسعود گر اندیشهٔ آزاد نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قلعهٔ نای خلق را یاد نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر زیر فلک فکر من آزاد نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حنجره‌ام این‌ همه فریاد نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مسعود گر اندیشهٔ آزاد نداشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از قلعهٔ نای خلق را یاد نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

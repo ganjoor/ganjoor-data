@@ -1,0 +1,58 @@
+{
+  "Id": 101866,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۷۵",
+  "FullUrl": "/salim/divan/robaee/sh75",
+  "RhymeLetters": "اریداریم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر حس ناامیدی و زوال عشق است. شاعر اشاره می‌کند که نه دل شاداب مانند گل دارد و نه جانش امیدی برای ادامه زندگی. او خود را مانند شیشه ساعتی می‌بیند که در برابر شرایط ناگواری قرار دارد و تنها گرد و غباری در درونش باقی مانده است. این تصویر، نشان‌دهنده‌ی احساس خمودی و عدم توانایی برای تغییر اوضاع است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریداریم",
+      "PlainText": "نه دل که چو گل به پیش یاری داریم\r\nنه جان که ازو امید کاری داریم\r\nچون شیشه ی ساعت از سپهر ناساز\r\nدر سینه همین مشت غباری داریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه دل که چو گل به پیش یاری داریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه جان که ازو امید کاری داریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شیشه ی ساعت از سپهر ناساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سینه همین مشت غباری داریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه دل که چو گل به پیش یاری داریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه جان که ازو امید کاری داریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون شیشه ی ساعت از سپهر ناساز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سینه همین مشت غباری داریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

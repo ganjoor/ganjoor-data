@@ -1,0 +1,58 @@
+{
+  "Id": 51733,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/bahar/robaeebk/sh10",
+  "RhymeLetters": "ارشماست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر از وکلا می‌خواهد که با توجه به فضل خدا، به کار خود ادامه دهند؛ زیرا آسایش و رفاه مردم به تلاش و دقت آنها بستگی دارد و مردم به کارشان امید بسته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارشماست",
+      "PlainText": "هان ای وکلا فضل خدا یار شماست\r\nآسایش ما به حس بیدار شماست\r\nدر کار بکوشید خدا را کامروز\r\nچشم و دل و گوش خلق در کار شماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهان ای وکلا فضل خدا یار شماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسایش ما به حس بیدار شماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کار بکوشید خدا را کامروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم و دل و گوش خلق در کار شماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هان ای وکلا فضل خدا یار شماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسایش ما به حس بیدار شماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کار بکوشید خدا را کامروز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشم و دل و گوش خلق در کار شماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

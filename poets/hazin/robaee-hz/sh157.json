@@ -1,0 +1,58 @@
+{
+  "Id": 83045,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۵۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۵۷",
+  "FullUrl": "/hazin/robaee-hz/sh157",
+  "RhymeLetters": "اهبردیمبهسر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از درد و غم ناشی از فقدان معشوق سخن می‌گوید. او بیان می‌کند که چقدر زمان را با این احساسات سپری کرده و چگونه این درد مثل شعله‌ای در وجودش می‌سوزد. همچنین اشاره می‌کند که این تجربیات و احساسات، او را به حالتی آینه‌وار دچار حیرت کرده و در نهایت احساس می‌کند که همه چیز را با یک نگاه به یارش سپرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهبردیمبهسر",
+      "PlainText": "با داغ تو سال و ماه بردیم به سر\r\nچون شمع به اشک و آه بردیم به سر\r\nچون آینه از پرتو حیرانیها\r\nبا یار به یک نگاه بردیم به سر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا داغ تو سال و ماه بردیم به سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شمع به اشک و آه بردیم به سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون آینه از پرتو حیرانیها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا یار، به یک نگاه بردیم به سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با داغ تو سال و ماه بردیم به سر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شمع به اشک و آه بردیم به سر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون آینه از پرتو حیرانیها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با یار، به یک نگاه بردیم به سر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

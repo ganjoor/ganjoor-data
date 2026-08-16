@@ -1,0 +1,58 @@
+{
+  "Id": 48775,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۵۶",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۵۶",
+  "FullUrl": "/orfi/robaeeor/sh56",
+  "RhymeLetters": "راست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بیان ناامیدی و ضعف خود می‌پردازد. او خود را فردی می‌داند که تلاش‌هایش بی‌نتیجه است و هر عیبی در او وجود دارد در حالی که هنر و زیبایی‌اش تنها در جزئیات است. همچنین، اشاره می‌کند که عبادت و پرستش او نیازمند تلاش بیشتر و توبه از گناهان است. به طور کلی، شاعر احساس سرگشتگی و ناپایداری را در زندگی خود بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "عرفی منم آن که کوششم بی اثر است\r\nهستم همه عیب و مو به مویم هنر است\r\nآن عابد برهمن سرشتم که مرا\r\nطاعت ز گنه به توبه محتاج تر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعرفی منم آن که کوششم بی اثر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستم همه عیب و مو به مویم هنر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن عابد برهمن سرشتم که مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطاعت ز گنه به توبه محتاج تر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی منم آن که کوششم بی اثر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هستم همه عیب و مو به مویم هنر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن عابد برهمن سرشتم که مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طاعت ز گنه به توبه محتاج تر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

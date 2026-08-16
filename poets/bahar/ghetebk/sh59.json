@@ -1,0 +1,58 @@
+{
+  "Id": 51448,
+  "CatId": 1833,
+  "Title": "شمارهٔ ۵۹ - جای زحمت",
+  "FullTitle": "ملک‌الشعرا بهار » قطعات » شمارهٔ ۵۹ - جای زحمت",
+  "FullUrl": "/bahar/ghetebk/sh59",
+  "RhymeLetters": "رنباشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به دنبال جایی است که انسان وجود نداشته باشد و در آنجا هیچ زحمتی و دردی نیست. او به این نتیجه می‌رسد که هر جایی که انسان پا بگذارد، دیگر نمی‌تواند بی زحمت و دردسر باشد.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رنباشد",
+      "PlainText": "بی زحمت و دردسر چه جاییست\r\nجایی که در آن بشر نباشد\r\nکآنجا که در آن بشر نهد پای\r\nبی زحمت و دردسر نباشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌زحمت و دردسر چه جاییست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجایی که در آن بشر نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکآنجا که در آن بشر نهد پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌زحمت و دردسر نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌زحمت و دردسر چه جاییست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جایی که در آن بشر نباشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کآنجا که در آن بشر نهد پای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌زحمت و دردسر نباشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

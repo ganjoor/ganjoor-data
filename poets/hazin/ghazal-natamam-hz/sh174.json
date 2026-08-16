@@ -1,0 +1,58 @@
+{
+  "Id": 83335,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۷۴",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۷۴",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh174",
+  "RhymeLetters": "کند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این چند بیت شاعر از کسی می‌پرسد که چه کسی می‌تواند معضلات دیگران را حل کند و نگرانی‌ها را برطرف کند. او همچنین بر این نکته تأکید می‌کند که سرنوشت و تقدیر نمی‌توانند به آسانی مشکلات را حل کنند. شاعر به خود و غرورش اشاره می‌کند و بیان می‌کند که هیچ چیز نمی‌تواند او را تحت تأثیر قرار دهد، حتی اگر دنیا بخواهد او را به زحمت بیاندازد.",
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکند",
+      "PlainText": "آن کیست تا ز کار کسی عقده واکند\r\nتقدیر نی به ناخن مشکل گشا کند\r\nبر چشم مهر و مه ننهد پای غیرتم\r\nگردون گر استخوان مرا توتیا کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کیست تا ز کار کسی عقده واکند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتقدیر نی به ناخن مشکل گشا کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر چشم مهر و مه ننهد پای، غیرتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردون گر استخوان مرا، توتیا کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کیست تا ز کار کسی عقده واکند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تقدیر نی به ناخن مشکل گشا کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر چشم مهر و مه ننهد پای، غیرتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردون گر استخوان مرا، توتیا کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

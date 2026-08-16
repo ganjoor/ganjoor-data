@@ -1,0 +1,58 @@
+{
+  "Id": 111550,
+  "CatId": 2631,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "فرخی یزدی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/yazdi/divan/robaee/sh3",
+  "RhymeLetters": "نگیما",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات و اندوه عمیق انسان اشاره دارد. شاعر می‌گوید که در لحظات غم، شادی و خوشی‌های جهان نمی‌توانند دردی را که دل تنگی ایجاد می‌کند، تسکین دهند. در واقع، غم به قدری قوی است که هیچ چیز جز آن نمی‌تواند هم‌آهنگی را به وجد آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگیما",
+      "PlainText": "از بسکه زند نوای غم چنگی ما\r\nاندوه کند عزم همآهنگی ما\r\nشادی و گشایش جهان کافی نیست\r\nدر موقع غم برای دل تنگی ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بسکه زند نوای غم چنگی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندوه کند عزم همآهنگی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشادی و گشایش جهان کافی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر موقع غم برای دل تنگی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بسکه زند نوای غم چنگی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندوه کند عزم همآهنگی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شادی و گشایش جهان کافی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در موقع غم برای دل تنگی ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

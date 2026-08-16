@@ -1,0 +1,72 @@
+{
+  "Id": 39666,
+  "CatId": 1359,
+  "Title": "بخش ۱ - رموز بیخودی",
+  "FullTitle": "اقبال لاهوری » رموز بیخودی » بخش ۱ - رموز بیخودی",
+  "FullUrl": "/iqbal/romooz-bikhodi/sh1",
+  "SourceName": "سایت علامه اقبال",
+  "SourceUrlSlug": "allamaiqbal",
+  "PoemSummary": "هوش مصنوعی: پیام مولانا در این بیت این است که کوشش کن تا در آگاهی و شناخت واقعی خود به بیخودی و عدم وابستگی به دنیا برسدی. او تأکید دارد که در این راه، دانش و حقیقت در نهایت نزد خداوند است.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "جهد کن در بیخودی خود را بیاب\r\nزود تر والله اعلم بالصواب\r\nمولانای روم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهد کن در بیخودی خود را بیاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزود تر والله اعلم بالصواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eمولانای روم\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "جهد کن در بیخودی خود را بیاب\r\nزود تر والله اعلم بالصواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهد کن در بیخودی خود را بیاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزود تر والله اعلم بالصواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "مولانای روم",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eمولانای روم\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهد کن در بیخودی خود را بیاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زود تر والله اعلم بالصواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "CenteredVerse1",
+      "Text": "مولانای روم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    }
+  ]
+}

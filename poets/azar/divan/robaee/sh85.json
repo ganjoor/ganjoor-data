@@ -1,0 +1,58 @@
+{
+  "Id": 119006,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۸۵",
+  "FullUrl": "/azar/divan/robaee/sh85",
+  "RhymeLetters": "ار",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گل به بلبل می‌گوید که با آمدن بهار، دلش شاد می‌شود و دیگر ناراحت نیست. گل اشاره می‌کند که او با وزش باد به هوا می‌رود، ولی بلبل همچنان در زمین باقی می‌ماند. او درباره آمدن بهار یا پاییز صحبت می‌کند و به بلبل یادآوری می‌کند که این تغییرات طبیعی به اشتراک همه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "با گل میگفت بلبلی زار و نزار\r\nکآمد بچمن بهار و دل تنگ مدار\r\nگل گفت چو من بباد رفتم تو بخاک\r\nآید بچمن خواه خزانف خواه بهار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا گل میگفت بلبلی زار و نزار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآمد بچمن بهار و دل تنگ مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل گفت: چو من بباد رفتم، تو بخاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآید بچمن خواه خزانف خواه بهار!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با گل میگفت بلبلی زار و نزار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کآمد بچمن بهار و دل تنگ مدار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل گفت: چو من بباد رفتم، تو بخاک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آید بچمن خواه خزانف خواه بهار!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

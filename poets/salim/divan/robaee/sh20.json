@@ -1,0 +1,58 @@
+{
+  "Id": 101811,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/salim/divan/robaee/sh20",
+  "RhymeLetters": "وناست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت از درد و غمی که در دل دارد صحبت می‌کند و بیان می‌کند که این احساسات واقعی و عمیق او را از قید و بندهای ساختگی و ظاهری آزاد کرده است. او به این نکته اشاره می‌کند که طبع و شخصیت او بر اساس توازن و موزونی است و تقسیم‌بندی و تقطیع‌هایی که به آن زده می‌شود، مناسب حال او نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وناست",
+      "PlainText": "ماییم و دلی که دایم از غم خون است\r\nاز دایره ی ساختگی بیرون است\r\nموزونی طبع ما بود زینت ما\r\nتقطیع برای طبع ناموزون است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماییم و دلی که دایم از غم خون است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دایره ی ساختگی بیرون است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eموزونی طبع ما بود زینت ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتقطیع برای طبع ناموزون است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماییم و دلی که دایم از غم خون است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دایره ی ساختگی بیرون است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "موزونی طبع ما بود زینت ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تقطیع برای طبع ناموزون است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70014,
+  "CatId": 2043,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "امیر معزی » قطعات » شمارهٔ ۵",
+  "FullUrl": "/amir/ghatam/sh5",
+  "RhymeLetters": "ارت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، به بالا رفتن مقام دو نفر اشاره شده است. یکی به عنوان صدر دین در وزارت و دیگری به عنوان سپهدار در امارت منصوب شده‌اند. هر دو از نسل و خانواده‌ای اصیل هستند و یکی در حوزه اداره کشور و دیگری در زمینه نظامی فعالیت می‌کند.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارت",
+      "PlainText": "جهاندار شد صدر دین در وزارت\r\nسپهدار شد شمس دین در امارت\r\nز جد و پدر یادگار اند هر دو\r\nیکی در امارت یکی در وزارت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهاندار شد صدر دین در وزارت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسپهدار شد شمس دین در امارت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز جد و پدر یادگار اند هر دو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی در امارت یکی در وزارت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهاندار شد صدر دین در وزارت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سپهدار شد شمس دین در امارت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز جد و پدر یادگار اند هر دو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکی در امارت یکی در وزارت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

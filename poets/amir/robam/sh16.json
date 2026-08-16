@@ -1,0 +1,58 @@
+{
+  "Id": 70059,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/amir/robam/sh16",
+  "RhymeLetters": "خت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات به مباحثه قدرت و هنر در میان ترکان و خصمان اشاره شده است. شاعر بیان می‌کند که یک هنرمند از ترکان می‌تواند بر کوه غلبه کند، در حالی که شصت دشمن در مقابل او ایستاده‌اند. در مجالس و میدان‌ها، شاهی که به حوران عشق می‌ورزد، با شجاعت و ایستادگی، جان و جام را در دست دارد. در واقع، این ابیات نشان‌دهنده قدرت و شجاعت در مواجهه با دشمنان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ت",
+      "PlainText": "کوه از صف ترکان ملک  گردد پست\r\nز ایشان به هنر یکی و از خصمان شصت\r\nدر مجلس و میدان شه حورپرست\r\nدارند نهاده جام و جان برکف دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوه از صف ترکان ملک ‌گردد پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ایشان به هنر یکی و از خصمان شصت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مجلس و میدان شه حورپرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارند نهاده جام و جان برکفِ دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کوه از صف ترکان ملک ‌گردد پست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز ایشان به هنر یکی و از خصمان شصت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در مجلس و میدان شه حورپرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دارند نهاده جام و جان برکفِ دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

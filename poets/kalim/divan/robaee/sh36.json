@@ -1,0 +1,58 @@
+{
+  "Id": 90747,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/kalim/divan/robaee/sh36",
+  "RhymeLetters": "ابود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره خوشحالی و زیبایی پیروزی است. شاعر از نشاط و شادابی ناشی از این فتح صحبت می‌کند و به تغییرات مثبت آن اشاره دارد. همچنین، اشاره‌ای به دریا و سر بی‌پیشینی دارد که می‌تواند نماد ناپایداری یا تغییرات باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابود",
+      "PlainText": "این مژده فتح از پی هم زیبا بود\r\nاین کیف دو بالا چه نشاط افزا بود\r\nاز رفتن دریا سر بیرا هم رفت\r\nگویا سر او حباب این دریا بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مژده فتح از پی هم زیبا بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کیف دو بالا چه نشاط افزا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز رفتن (دریا) سر (بیرا) هم رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویا سر او حباب این دریا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این مژده فتح از پی هم زیبا بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این کیف دو بالا چه نشاط افزا بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از رفتن (دریا) سر (بیرا) هم رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویا سر او حباب این دریا بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

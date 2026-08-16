@@ -1,0 +1,58 @@
+{
+  "Id": 64817,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۲۰",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۲۰",
+  "FullUrl": "/ebnehesam/robaeebn/sh20",
+  "RhymeLetters": "رد",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به تضاد بین واقعیت‌های زندگی و ضرورت‌ها اشاره دارد. شاعر می‌گوید در دنیای پر از مشکلات، باید با دردها کنار آمد و به زندگی ادامه داد. پوشیدن لباس پشمینه نماد ساده‌زیستی و پذیرش سختی‌هاست. در نهایت، او به این نکته اشاره می‌کند که مرگ از ناتوانی در برآورده کردن نیازها سخت‌تر است و باید با قوت و اراده به جلو حرکت کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "صافی جهان چو نیست می ساز به درد\r\nپشمینه بپوش چون همی باید مرد\r\nاز مرگ چه دشوار تر  آن که ز ره عجز\r\nحاجت به در  همچو خودی باید برد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصافی جهان چو نیست می‌ساز به دُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشمینه بپوش چون همی‌باید مُرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مرگ چه دشوار‌تر‌؟ آن که‌ز ره عجز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاجت به در‌ِ همچو خودی باید بُرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صافی جهان چو نیست می‌ساز به دُرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پشمینه بپوش چون همی‌باید مُرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از مرگ چه دشوار‌تر‌؟ آن که‌ز ره عجز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حاجت به در‌ِ همچو خودی باید بُرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

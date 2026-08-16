@@ -1,0 +1,58 @@
+{
+  "Id": 69400,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۳۹",
+  "FullUrl": "/azraghi/arob/sh39",
+  "RhymeLetters": "ایتوبرند",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شعر به توصیف نوروز به عنوان نمادی از شادی و خجستگی می‌پردازد که به خاطر حضور و رضایت تو شکوفا می‌شود. همچنین بر اهمیت وفاداری و استواری تو در بنیان‌گذاری درستی و بقای همه چیز تأکید می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتوبرند",
+      "PlainText": "نوروز شکفته از لقای تو برند\r\nفردوس خجسته از رضای تو برند\r\nبنیاد درستی از وفای تو برند\r\nارکان تمامی از بقای تو برند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوروز شکفته از لقای تو برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردوس خجسته از رضای تو برند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنیاد درستی از وفای تو برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eارکان تمامی از بقای تو برند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوروز شکفته از لقای تو برند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فردوس خجسته از رضای تو برند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنیاد درستی از وفای تو برند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ارکان تمامی از بقای تو برند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

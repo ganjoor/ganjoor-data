@@ -1,0 +1,58 @@
+{
+  "Id": 51437,
+  "CatId": 1833,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "ملک‌الشعرا بهار » قطعات » شمارهٔ ۴۸",
+  "FullUrl": "/bahar/ghetebk/sh48",
+  "RhymeLetters": "رد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نکته‌ای مهم اشاره می‌کند: دل کسی را نرنجانید، حتی اگر او کم‌خرد باشد، زیرا او ممکن است به ناله و زاری بیفتد. همچنین، اذیت و آزار مردم، چه از سوی یکی با مقام بالا (کنت، دوک، یا لرد) و چه از سوی دیگران، نشانه‌ای از ناپختگی و جوانمرگی است. به طور کلی، این ابیات به اهمیت حفظ آرامش و مهربانی در برخورد با دیگران اشاره دارند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "دل موری میازار ار چه خرد است\r\nکه خردک نالشی سازد تو را خرد\r\nجوانمرگی است قسم مردم آزار\r\nاگر کنت  است اگر دوک است اگر لرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل موری میازار ار چه خرد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خردک نالشی سازد تو را خرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوانمرگی است قسم مردم آزار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر کنت ‌است اگر دوک است اگر لرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل موری میازار ار چه خرد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که خردک نالشی سازد تو را خرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جوانمرگی است قسم مردم آزار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر کنت ‌است اگر دوک است اگر لرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

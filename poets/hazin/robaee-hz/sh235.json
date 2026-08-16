@@ -1,0 +1,58 @@
+{
+  "Id": 83132,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۳۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۳۵",
+  "FullUrl": "/hazin/robaee-hz/sh235",
+  "RhymeLetters": "نده",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به نقد انسانی می‌پردازد که به دلیل دوره‌ای از زندگی‌اش دچار گمراهی و دیوانگی شده است. شاعر با تمسخر به او اشاره می‌کند و بر این نکته تأکید می‌کند که به خاطر رفتارهایش، دوستانش شرمنده و دشمنانش خندیده‌اند. در مجموع، شعر به توصیف پستی و سرمستی این فرد و تأثیر آن بر روابط او می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نده",
+      "PlainText": "ای بنده دهر دون نواز گنده\r\nبا کن خری ساخته چون خربنده\r\nاز پستی و سرمستی و دیوانگیت\r\nدشمن در خنده دوستان شرمنده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بندهٔ دهرِ دون نواز گنده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا ک..ن خری ساخته، چون خربنده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پستی و سرمستی و دیوانگیت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمن در خنده، دوستان شرمنده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بندهٔ دهرِ دون نواز گنده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با ک..ن خری ساخته، چون خربنده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پستی و سرمستی و دیوانگیت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشمن در خنده، دوستان شرمنده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

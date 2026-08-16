@@ -1,0 +1,58 @@
+{
+  "Id": 83092,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۹۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۹۵",
+  "FullUrl": "/hazin/robaee-hz/sh195",
+  "RhymeLetters": "ازروم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر دربارهٔ تصمیم به ترک بار سنگینی که بر دوش دارد صحبت می‌کند. او می‌خواهد خود را سبک کند تا بتواند به جایی برسد که سایه یک سرو بلند و سرافراز را در کنار خود داشته باشد. او اعتراف می‌کند که از سفر خود امیدی جز برگشتن به راهی که پیموده، ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازروم",
+      "PlainText": "بار خودی افکنم سبکتاز روم\r\nتا سایه آن سرو سرافراز روم\r\nسود از سفر خود نبود امیدم\r\nجز این که ره آمده را باز روم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبار خودی افکنم، سبکتاز روم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سایهٔ آن سرو سرافراز روم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسود از سفر خود نبود امّیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز این که ره آمده را باز روم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بار خودی افکنم، سبکتاز روم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا سایهٔ آن سرو سرافراز روم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سود از سفر خود نبود امّیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز این که ره آمده را باز روم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

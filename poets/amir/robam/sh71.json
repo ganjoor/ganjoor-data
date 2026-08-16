@@ -1,0 +1,58 @@
+{
+  "Id": 70114,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/amir/robam/sh71",
+  "RhymeLetters": "ونشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت‌ها به توصیف شب‌هایی می‌پردازد که با وصال و دوری محبوب همراه است. در شب‌هایی که محبوب در کنار است، شب همانند یک قایق و ماه مانند بادی آرام است. اما در شب‌هایی که دوری محبوب وجود دارد، شب به کشتی‌ای تشبیه می‌شود که در آفتاب درحال لنگر انداختن است. این اشعار احساسات عاشقانه و دلتنگی را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رباشد",
+      "PlainText": "هر شب که وصال یار دلبر باشد\r\nشب زورق و ماه باد صرصر باشد\r\nوان شب که فراق آن سمن بر باشد\r\nشب کشتی و آفتاب لنگر باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شب که وصال یار دلبر باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب زورق و ماه باد صرصر باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان شب که فراق آن سمن بر باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب کشتی و آفتاب لنگر باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شب که وصال یار دلبر باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب زورق و ماه باد صرصر باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وان شب که فراق آن سمن بر باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب کشتی و آفتاب لنگر باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

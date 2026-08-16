@@ -1,0 +1,58 @@
+{
+  "Id": 51774,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/bahar/robaeebk/sh51",
+  "RhymeLetters": "رمیگویم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعر نشان‌دهنده این است که او مدح و ستایش را از روی نیت و طمع مالی نمی‌گوید، بلکه هدفش دوری از ضرر و مشکلات است. به عبارتی، او مدح می‌کند تا از آسیب‌ها جلوگیری کند، نه برای کسب منافع مالی مانند دیگران.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمیگویم",
+      "PlainText": "گر مدحی از ابنای بشر می گویم\r\nنه چون دگران به طمع زر می گویم\r\nآنان پی جلب نفع گویند مدیح\r\nمن مدح پی دفع ضرر می گویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مدحی از ابنای بشر می گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه چون دگران به طمع زر می‌گویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان پی جلب نفع گویند مدیح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن مدح پی دفع ضرر می گویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر مدحی از ابنای بشر می گویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه چون دگران به طمع زر می‌گویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنان پی جلب نفع گویند مدیح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من مدح پی دفع ضرر می گویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

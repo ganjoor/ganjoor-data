@@ -1,0 +1,58 @@
+{
+  "Id": 112342,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/sahab/divan/robaee/sh18",
+  "RhymeLetters": "ارمبکشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که سرنوشت می‌خواهد او را به خاطر ر نج و درد زیادش، به زنجیر بکشد. او احساس می‌کند که قلبی سنگی او را در این حال رها نمی‌کند و هر روز و شب به شکلی آزارش می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمبکشد",
+      "PlainText": "میخواست فلک که خوارو زارم بکشد\r\nوز محنت و درد بی شمارم بکشد\r\nبسپرد عنانم به کف سنگ دلی\r\nتا روزو شبی هزار بارم بکشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیخواست فلک که خوارو زارم بکشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز محنت و درد بی شمارم بکشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسپرد عنانم به کف سنگ دلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا روزو شبی هزار بارم بکشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میخواست فلک که خوارو زارم بکشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز محنت و درد بی شمارم بکشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسپرد عنانم به کف سنگ دلی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا روزو شبی هزار بارم بکشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

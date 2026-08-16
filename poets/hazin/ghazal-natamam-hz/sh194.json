@@ -1,0 +1,58 @@
+{
+  "Id": 83355,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۹۴",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۹۴",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh194",
+  "RhymeLetters": "استبلند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف وضعیت افرادی می‌پردازد که در شرایطی تنگ و دشوار به سر می‌برند، مانند مهره‌های شطرنج که با هم در جنگ هستند. باد صبا نقاب را از چهره‌ی زیبای تو برمی‌دارد و در این لحظه نمایان می‌شود که گل‌های چمن نیز به دلیل این وضعیت، رنگ خود را باخته‌اند. به طور کلی، شعر به مضامین جنگ و دشواری‌های زندگی اشاره دارد.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگند",
+      "PlainText": "این باخته نقشان که درین خانه تنگند\r\nچون مهره شطرنج به همسایه به جنگند\r\nبرداشت صبا طرف نقاب تو همانا\r\nپیداست که گل های چمن باخته رنگند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین باخته نقشان که درین خانهٔ تنگند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مهره شطرنج به همسایه، به جنگند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرداشت صبا طرف نقاب تو، همانا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیداست که گل های چمن باخته رنگند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این باخته نقشان که درین خانهٔ تنگند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون مهره شطرنج به همسایه، به جنگند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برداشت صبا طرف نقاب تو، همانا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیداست که گل های چمن باخته رنگند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

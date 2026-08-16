@@ -1,0 +1,77 @@
+{
+  "Id": 125587,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۵۱",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۵۱",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh52",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر به درخواست از خداوند متعال اشاره دارد که رحمت و محبت او بر غضبش پیشی گرفته است. شاعر از خدا می‌خواهد که رحمتش را نثار کند و اشاره می‌کند که دیگر جایی برای غضب نمی‌ماند. در واقع، این اشعار به اهمیت رحمت الهی و امید به بخشش خداوند تأکید دارد.",
+  "Sections": [
+    {
+      "Index": 80,
+      "Number": 80,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بی",
+      "PlainText": "ایه شت بهشت رحمتت را سببی\r\nدوزخ ز لهیب غضب بو لهبی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایه شت بهشت رحمتت را سببی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوزخ ز لهیب غضب بو لهبی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 81,
+      "Number": 81,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "یا من سبقت رحتمک من غضبک\r\nرحمت چه بود دگر نماند غضبی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E«یا من سبقت رحتمک من غضبک»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحمت چه بود دگر نماند غضبی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 112,
+      "Number": 112,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بی",
+      "PlainText": "ایه شت بهشت رحمتت را سببی\r\nدوزخ ز لهیب غضب بو لهبی\r\nیا من سبقت رحتمک من غضبک\r\nرحمت چه بود دگر نماند غضبی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایه شت بهشت رحمتت را سببی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوزخ ز لهیب غضب بو لهبی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E«یا من سبقت رحتمک من غضبک»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحمت چه بود دگر نماند غضبی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایه شت بهشت رحمتت را سببی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 112,
+      "SectionIndex2": 80
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دوزخ ز لهیب غضب بو لهبی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 112,
+      "SectionIndex2": 80
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "«یا من سبقت رحتمک من غضبک»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 112,
+      "SectionIndex2": 81
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رحمت چه بود دگر نماند غضبی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 112,
+      "SectionIndex2": 81
+    }
+  ]
+}

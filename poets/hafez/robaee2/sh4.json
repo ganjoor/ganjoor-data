@@ -1,0 +1,58 @@
+{
+  "Id": 2054,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۴",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۴",
+  "FullUrl": "/hafez/robaee2/sh4",
+  "RhymeLetters": "راست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به توصیف ماهی می‌پردازد که به زیبایی و قامت بلندی شبیه سرو است. این ماهی آیینه‌ای در دست دارد و به زیبایی خود می‌رسد. وقتی شاعر هدایتی به او می‌کند، ماهی به طعنه می‌گوید که شما فقط در خیال وصال من هستید و این آرزو محال است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "ماهی که قدش به سرو می ماند راست\r\nآیینه به دست و روی خود می آراست\r\nدستارچه ای پیشکشش کردم گفت\r\nوصلم طلبی زهی خیالی که تو راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماهی که قدش به سرو می‌ماند راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیینه به دست و روی خود می‌آراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدستارچه‌ای پیشکشش کردم، گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصلم طلبی زهی خیالی که تو راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماهی که قدش به سرو می‌ماند راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیینه به دست و روی خود می‌آراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دستارچه‌ای پیشکشش کردم، گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وصلم طلبی زهی خیالی که تو راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

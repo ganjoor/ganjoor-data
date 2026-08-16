@@ -1,0 +1,58 @@
+{
+  "Id": 75840,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۹۳",
+  "FullUrl": "/nezari/robnez/sh93",
+  "RhymeLetters": "اییباشد",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساس جدایی و بی‌وفایی اشاره می‌کند و می‌گوید روزی که از معشوقش دور شود، دنیا برایش تاریک و بی‌نور خواهد شد. در واقع، او به شدت به معشوقش وابسته است و فقدان او را مرگبار می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییباشد",
+      "PlainText": "روزی که مرا از تو جدایی باشد\r\nاز چرخ نشان بی وفایی باشد\r\nتاریک شود همه جهان بر چشمم\r\nبی نور مرا چه روشنایی باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی که مرا از تو جدایی باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چرخ نشان بی وفایی باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاریک شود همه جهان بر چشمم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی نور مرا چه روشنایی باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزی که مرا از تو جدایی باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از چرخ نشان بی وفایی باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تاریک شود همه جهان بر چشمم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی نور مرا چه روشنایی باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

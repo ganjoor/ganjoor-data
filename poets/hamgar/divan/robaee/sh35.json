@@ -1,0 +1,58 @@
+{
+  "Id": 120751,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۳۵",
+  "FullUrl": "/hamgar/divan/robaee/sh35",
+  "RhymeLetters": "اب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به بیان نیازهای زندگی روزمره می‌پردازد. شاعر از چرخه زندگی و سفر سخن می‌گوید و به تأمین نان و آب روزانه‌اش اشاره می‌کند. او هر شب از بلندی‌ها نان می‌برد و هر صبح از شب‌زنده‌داری خود شربتی آب می‌نوشد. این ابیات به سادگی و نیازهای اساسی انسان اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "ای چرخ عنانم از سفر هیچ متاب\r\nنانم ز سراندیب ده آبم ز سراب\r\nهر شام ز بامیان دهم قرصی نان\r\nهر بام ز شام ده مرا شربتی آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چرخ عنانم از سفر هیچ متاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنانم ز سَراَندیب ده آبم ز سراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شام ز بامیان دِهَم قرصی نان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر بام ز شام دِه مرا شربتی آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چرخ عنانم از سفر هیچ متاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نانم ز سَراَندیب ده آبم ز سراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر شام ز بامیان دِهَم قرصی نان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر بام ز شام دِه مرا شربتی آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

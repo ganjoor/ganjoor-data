@@ -1,0 +1,58 @@
+{
+  "Id": 119082,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۶۱",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۶۱",
+  "FullUrl": "/azar/divan/robaee/sh161",
+  "RhymeLetters": "اه",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از معشوقش می‌خواهد که گاهی پیامی برای او بفرستد و گاهی هم پیش او بیاید تا بتواند او را همچون ماه زیبا ببیند. او همچنین به این نکته اشاره می‌کند که هرگز از حال او غافل نشود و همواره به صدای او گوش بدهد و چشمانش به دنبال او باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اه",
+      "PlainText": "سویم بفرست گاه پیغامی و گاه\r\nباز آی که تا ببینم آن روز چو ماه\r\nغافل مشو از حال من القصه که من\r\nهم گوش برآوازم و هم چشم براه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسویم بفرست گاه پیغامی و گاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز آی که تا ببینم آن روز چو ماه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغافل مشو از حال من القصه که من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم گوش برآوازم و، هم چشم براه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سویم بفرست گاه پیغامی و گاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باز آی که تا ببینم آن روز چو ماه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غافل مشو از حال من القصه که من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم گوش برآوازم و، هم چشم براه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

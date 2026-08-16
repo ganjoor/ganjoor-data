@@ -1,0 +1,58 @@
+{
+  "Id": 83113,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱۶",
+  "FullUrl": "/hazin/robaee-hz/sh216",
+  "RhymeLetters": "نهاجویم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به جستجوی لذت و خوشی در چمن‌ها اشاره می‌کند و از سرگردانی خود در وطن‌ها صحبت می‌کند. او در جستجوی دل خود، در دور و بر زلف‌های معشوق می‌چرخد، امید دارد که با این جستجو، دلش را پیدا کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نهاجویم",
+      "PlainText": "تا کی گل عیش در چمنها جویم\r\nآواره خود را به وطنها جویم\r\nدر پیچ و خم زلف بتان می گردم\r\nشاید دل خود درین شکنها جویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی گل عیش در چمنها جویم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآوارهٔ خود را به وطنها جویم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پیچ و خم زلف بتان می گردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاید دل خود، درین شکنها جویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی گل عیش در چمنها جویم؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آوارهٔ خود را به وطنها جویم؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در پیچ و خم زلف بتان می گردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاید دل خود، درین شکنها جویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

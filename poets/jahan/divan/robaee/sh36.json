@@ -1,0 +1,58 @@
+{
+  "Id": 113909,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/jahan/divan/robaee/sh36",
+  "RhymeLetters": "سیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از سختی‌های زندگی و فشارهایی که بر دلش وجود دارد صحبت می‌کند. او یاری ندارد، اما اطرافش افراد زیادی هستند. دلش می‌سوزد، اما با وجود این درد و رنج، از بی‌عدالتی‌های دنیا و افراد ناتوان ناامید شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سیست",
+      "PlainText": "از جور زمانه بر دلم بار بسیست\r\nیارم نه به دست لیکن اغیار بسیست\r\nبجریست دلم ولیک با این همه سوز\r\nاز جور فلک ملول از دست خسیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جور زمانه بر دلم بار بسیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارم نه به دست لیکن اغیار بسیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبجریست دلم ولیک با این همه سوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جور فلک ملول از دست خسیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از جور زمانه بر دلم بار بسیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یارم نه به دست لیکن اغیار بسیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بجریست دلم ولیک با این همه سوز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از جور فلک ملول از دست خسیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

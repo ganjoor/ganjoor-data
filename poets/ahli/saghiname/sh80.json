@@ -1,0 +1,58 @@
+{
+  "Id": 105700,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۷۹",
+  "FullUrl": "/ahli/saghiname/sh80",
+  "RhymeLetters": "یم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد کمی به او توجه کند و از لطفش به او نگریسته شود. او احساس می‌کند که دلش بین امید و ترس دو نیم شده است. شاعر آرزو دارد که قبل از اینکه جانش را فدای عشق کند، جرعه‌ای از لبان زیبای ساقی بنوشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یم",
+      "PlainText": "ساقی نظری بمن کن از لطف عمیم\r\nجان من از این امید و بیم است دو نیم\r\nخواهم قدحی از لب لعلت بچشم\r\nزان پیش که جان کنم بپایت تسلیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی نظری بمن کن از لطف عمیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان من از این امید و بیم است دو نیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهم قدحی از لب لعلت بچشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان پیش که جان کنم بپایت تسلیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی نظری بمن کن از لطف عمیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان من از این امید و بیم است دو نیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم قدحی از لب لعلت بچشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان پیش که جان کنم بپایت تسلیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

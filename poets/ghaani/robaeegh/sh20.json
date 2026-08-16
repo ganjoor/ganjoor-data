@@ -1,0 +1,58 @@
+{
+  "Id": 45833,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۲۰",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۲۰",
+  "FullUrl": "/ghaani/robaeegh/sh20",
+  "RhymeLetters": "ابشدم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از تجربه‌های خود صحبت می‌کند. او شب گذشته به باغ نواب رفته و امروز به محضر حضرت عرض سلام کرده است. باغ به دلیل نبود آب، خالی و بی‌حالت بوده و شاعر از خجالت این وضعیت، خود به آب تبدیل شده است. این موضوع نشان‌دهنده‌ی احساسات عمیق شاعر و ارتباط او با محیطش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابشدم",
+      "PlainText": "صدرا دیشب به باغ نواب شدم\r\nامروز به حضرتت شرفیاب شدم\r\nآن باغ چو روی ناکسان آب نداشت\r\nاز خجلت بی آبی او آب شدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصدرا دیشب به باغ نواب شدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز به حضرتت شرفیاب شدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن باغ چو روی ناکسان آب نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خجلت بی‌آبی او آب شدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صدرا دیشب به باغ نواب شدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امروز به حضرتت شرفیاب شدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن باغ چو روی ناکسان آب نداشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خجلت بی‌آبی او آب شدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

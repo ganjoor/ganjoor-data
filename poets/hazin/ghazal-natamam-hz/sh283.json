@@ -1,0 +1,58 @@
+{
+  "Id": 83444,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۸۳",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۸۳",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh283",
+  "RhymeLetters": "اممیشویم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر بیان می‌کند که به زیبایی‌های معشوق نمی‌تواند پشت کند و از آنجا نمی‌رود. او همچنین تأکید می‌کند که در این شرایط پرهیاهو، نمی‌تواند به تماشا بنشیند و خود را از محیط دور کند. در نهایت، اشاره می‌کند که شخصیت‌های حقیر و پست، برای بزرگ مردان احترام قائل‌اند، اما او هرگز از دنیای پرجنب‌وجوش خود دور نخواهد شد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمیروم",
+      "PlainText": "آسان به جلوه های تو از جا نمی روم\r\nبرپاست محشر و به تماشا نمی روم\r\nتعظیم سفله پست کند قدر مرد را\r\nاز جا به آمد آمد دنیا نمی روم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسان به جلوه های تو، از جا نمی روم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرپاست محشر و به تماشا نمی روم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتعظیم سفله، پست کند قدر مرد را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جا، به آمد آمد دنیا، نمی روم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آسان به جلوه های تو، از جا نمی روم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برپاست محشر و به تماشا نمی روم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تعظیم سفله، پست کند قدر مرد را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از جا، به آمد آمد دنیا، نمی روم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

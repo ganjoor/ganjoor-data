@@ -1,0 +1,58 @@
+{
+  "Id": 83426,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۶۵",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۶۵",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh265",
+  "RhymeLetters": "اندارم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به مفهوم قناعت و رضایت از زندگی اشاره دارد. شاعر به زیبایی بیان می‌کند که قناعت را مانند جواهری در دل دارد و با نگرشی مثبت به زندگی، از لذت‌های آن بهره‌مند است. او همچنین می‌گوید که هیچ حسرت و رشکی در دل ندارد و همه آرزوهایش را در دنیای خود محقق کرده است. به طور کلی، شعر تأکید بر درونی‌سازی خوشی‌ها و رضایت از آنچه داریم دارد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایخودکردم",
+      "PlainText": "قناعت چون گهر با ساغر و مینای خودکردم\r\nچو چشم خوش نگاهان مستی از صهبای خود کردم\r\nنمی آید ز رشک از سینه تا لب هرگز آوازم\r\nدلم هر شیونی می خواست در صحرای خود کردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقناعت چون گهر، با ساغر و مینای خودکردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو چشم خوش نگاهان، مستی از صهبای خود کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی آید ز رشک، از سینه تا لب هرگز آوازم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلم هر شیونی می خواست در صحرای خود کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قناعت چون گهر، با ساغر و مینای خودکردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو چشم خوش نگاهان، مستی از صهبای خود کردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی آید ز رشک، از سینه تا لب هرگز آوازم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلم هر شیونی می خواست در صحرای خود کردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 10098,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۳۷",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳۷",
+  "FullUrl": "/saadi/divan/robaees/sh37",
+  "RhymeLetters": "رمیگذرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این چند بیت، شاعر از احساس عمیق شوق و عشق خود نسبت به یک پسر سخن می‌گوید. او بیان می‌کند که هر بار آن پسر را می‌بیند، قلبش پر از شوق و هیجان می‌شود. حتی اگر او سخن تلخی بگوید، شیرینی عشقش باعث می‌شود که آن کلمات تلخ برایش قابل تحمل و دلپذیر شوند، مانند شکر که بر دهان می‌گذرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمیگذرد",
+      "PlainText": "هر وقت که بر من آن پسر می گذرد\r\nدانی که ز شوقم چه به سر می گذرد\r\nگو هر سخن تلخ که خواهی فرمای\r\nآخر به دهان چون شکر می گذرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر وقت که بر من آن پسر می‌گذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانی که ز شوقم چه به سر می‌گذرد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو هر سخن تلخ که خواهی فرمای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر به دهان چون شکر می‌گذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر وقت که بر من آن پسر می‌گذرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانی که ز شوقم چه به سر می‌گذرد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گو هر سخن تلخ که خواهی فرمای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر به دهان چون شکر می‌گذرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

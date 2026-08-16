@@ -1,0 +1,58 @@
+{
+  "Id": 119627,
+  "CatId": 2755,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » قطعات » شمارهٔ ۷",
+  "FullUrl": "/neshat/divan/ghete/sh7",
+  "RhymeLetters": "اناست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ارتباط میان درد و درمان اشاره می‌کند. طبیب از او درباره درد می‌پرسد، اما او از درمان آن آگاه نیست. همچنین، شاعر به این نکته می‌رسد که ناتوانی در عشق، دلیل کافی برای عدم پیشرفت است، زیرا هر قدمی که این ضعف به وجود می‌آورد، انسان را از راه عشق دور می‌کند.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناست",
+      "PlainText": "طبیب از درد می پرسد من از درمان درد اما\r\nنه من آگاه از دردم نه او آگه ز درمان است\r\nدلیل ناتوانی در طریق عشق بس باشد\r\nبه هر گامی که ضعف افکندت از پا کوی جانان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبیب از درد می‌پرسد من از درمان درد اما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه من آگاه از دردم نه او آگه ز درمان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلیل ناتوانی در طریق عشق بس باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هر گامی که ضعف افکندت از پا کوی جانان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طبیب از درد می‌پرسد من از درمان درد اما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه من آگاه از دردم نه او آگه ز درمان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلیل ناتوانی در طریق عشق بس باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به هر گامی که ضعف افکندت از پا کوی جانان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

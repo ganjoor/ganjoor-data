@@ -1,0 +1,58 @@
+{
+  "Id": 119617,
+  "CatId": 2754,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » دوبیتی‌ها » شمارهٔ ۹",
+  "FullUrl": "/neshat/divan/2beyti/sh9",
+  "RhymeLetters": "ان",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت زلف معشوقش اشاره می‌کند و می‌گوید که دل او مانند گوی در میدان چوگان به دور این زلف می‌چرخد. او از دشواری‌های زندگی و زمانه فرار می‌کند و در حال افت و خیز است.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "ای زلف تو گشته همچو چوگان\r\nگویی که دلم چو گوست در آن\r\nاز دست زمانه ام گریزان\r\nافتانم و گاه گشته خیزان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زلف تو گشته همچو چوگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که دلم چو گوست در آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دست زمانه ام گریزان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتانم و گاه گشته خیزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زلف تو گشته همچو چوگان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی که دلم چو گوست در آن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دست زمانه ام گریزان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افتانم و گاه گشته خیزان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

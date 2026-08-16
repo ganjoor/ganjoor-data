@@ -1,0 +1,58 @@
+{
+  "Id": 103118,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/jooya/divan/robaee/sh64",
+  "RhymeLetters": "ر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این موضوع اشاره دارند که خلاقیت و هنر ابدی است و هرگز از بین نمی‌رود، حتی اگر دشمنان یا رقبای هنرمندان تلاش کنند که آن را خاموش کنند. به عبارتی، هنر و زیبایی همیشه در دل انسان‌ها زنده خواهند ماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "از خلق چه اندیشه به ارباب هنر\r\nوز خصمی این طایفه شان را چه ضرر\r\nهر چند که آستین بر آن افشانند\r\nخاموش نمی شود چراغ گوهر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خلق چه اندیشه به ارباب هنر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز خصمی این طایفه‌شان را چه ضرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که آستین بر آن افشانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاموش نمی شود چراغ گوهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خلق چه اندیشه به ارباب هنر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خصمی این طایفه‌شان را چه ضرر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چند که آستین بر آن افشانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاموش نمی شود چراغ گوهر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

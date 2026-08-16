@@ -1,0 +1,57 @@
+{
+  "Id": 28277,
+  "CatId": 140,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "سعدی » مواعظ » مثنویات » شمارهٔ ۴",
+  "FullUrl": "/saadi/mavaez/masnaviat/sh4",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به باریکی موی سر اشاره می‌کند و می‌گوید که اهل نظر برای این باریکی اهمیت قائل می‌شوند. وقتی این مو تنهاست، کمتر به نظر می‌رسد، اما وقتی با زنجیر پر شود، محکم‌تر و واقعی‌تر به نظر می‌آید. به نوعی، این بیان نشان‌دهنده‌ی عمق و پیچیدگی برخی چیزهاست که وقتی در میان دیگر چیزها قرار می‌گیرند، ارزش و اهمیت بیشتری پیدا می‌کنند.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ت",
+      "PlainText": "نظر کن درین موی باریک سر\r\nکه باریک بینند اهل نظر\r\nچو تنهاست از رشته ای کمترست\r\nچو پر شد ز زنجیر محکمترست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظر کن درین موی باریک سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باریک بینند اهل نظر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو تنهاست از رشته‌ای کمترست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو پر شد ز زنجیر محکمترست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نظر کن درین موی باریک سر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که باریک بینند اهل نظر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو تنهاست از رشته‌ای کمترست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو پر شد ز زنجیر محکمترست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

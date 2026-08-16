@@ -1,0 +1,58 @@
+{
+  "Id": 107191,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/daye/divan/robaee/sh28",
+  "RhymeLetters": "داختهاند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به رابطه و سرنوشت انسان‌ها اشاره می‌کند و می‌گوید که کارها و سرنوشت ما بدون وجود یکدیگر شکل می‌گیرد. همچنین، به این نکته اشاره می‌کند که امروز باید تسلیم واقعیت‌ها شویم، زیرا آینده نتیجه کارهای گذشته‌مان است. به عبارتی، آنچه امروز می‌کاشتیم، فردا درو خواهیم کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "داختهاند",
+      "PlainText": "کار من و تو بی من و تو ساخته اند\r\nوز نیک و بد من و تو پرداخته اند\r\nتسلیم کن امروز که فردا بیقین\r\nتخمی روید که دی در انداخته اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکار من و تو بی من و تو ساخته اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نیک و بد من و تو پرداخته اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتسلیم کن امروز که فردا بیقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتخمی روید که دی در انداخته اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کار من و تو بی من و تو ساخته اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز نیک و بد من و تو پرداخته اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تسلیم کن امروز که فردا بیقین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تخمی روید که دی در انداخته اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

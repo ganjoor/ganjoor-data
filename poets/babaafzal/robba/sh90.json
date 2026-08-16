@@ -1,0 +1,58 @@
+{
+  "Id": 50890,
+  "CatId": 1827,
+  "Title": "رباعی شمارهٔ ۹۰",
+  "FullTitle": "باباافضل کاشانی » رباعیات » رباعی شمارهٔ ۹۰",
+  "FullUrl": "/babaafzal/robba/sh90",
+  "RhymeLetters": "ارگذر",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف حالت‌های انسانی و گذر از زندگی می‌پردازد. شاعر به یادآوری می‌آورد که در دنیا ممکن است از دیگران آزرده شویم و این آزردگی را به بی‌خطر بودن آن‌ها نسبت می‌دهد. از طرفی، بر این نکته تأکید می‌کند که باید با هشیاری از زندگی عبور کنیم، چرا که آرامش در نهایت به مرگ می‌انجامد. به عبارتی دیگر، گذر از زندگی با ملاحظات و آگاهی نسبت به واقعیت‌های آن همراه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارگذر",
+      "PlainText": "ای از همه آزرده بی آزار گذر\r\nوای مست فریب بوده هشیار گذر\r\nآرامگه نهنگ مرگ است دهنت\r\nبر خوابگه نهنگ بیدار گذر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از همه آزرده، بی آزار گذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوای مست فریب بوده، هشیار گذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآرامگه نهنگ مرگ است دهنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خوابگه نهنگ، بیدار گذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای از همه آزرده، بی آزار گذر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وای مست فریب بوده، هشیار گذر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آرامگه نهنگ مرگ است دهنت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر خوابگه نهنگ، بیدار گذر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

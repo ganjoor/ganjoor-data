@@ -1,0 +1,58 @@
+{
+  "Id": 70204,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۶۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۶۱",
+  "FullUrl": "/amir/robam/sh161",
+  "RhymeLetters": "ارمکردی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به پیروزی و حمایت خداوند از شاه اشاره دارد. خداوند با گشایش درهای موفقیت و پیروزی را به شاه هدیه کرده و آنچه که پدرش خواسته بود، به او عطا کرده است. در واقع، این متن نشان‌دهنده‌ی تقدیر الهی و برکت‌هایی است که به شاه بخشیده شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادخدای",
+      "PlainText": "شاها در فتح بر تو بگشاد خدای\r\nمنشور ظفر به تو فرستاد خدای\r\nچون عالم بر تو راست بنهاد خدای\r\nهرچ آن پدرت خواست تورا داد خدای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها در فتح بر تو بگشاد خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنشور ظفر به تو فرستاد خدای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عالم بر تو راست بنهاد خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچ آن پدرت خواست تورا داد خدای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها در فتح بر تو بگشاد خدای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منشور ظفر به تو فرستاد خدای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون عالم بر تو راست بنهاد خدای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچ آن پدرت خواست تورا داد خدای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

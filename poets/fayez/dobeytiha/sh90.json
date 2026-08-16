@@ -1,0 +1,58 @@
+{
+  "Id": 68220,
+  "CatId": 2021,
+  "Title": "دوبیتی شمارهٔ ۹۰",
+  "FullTitle": "فایز » دوبیتی‌ها » دوبیتی شمارهٔ ۹۰",
+  "FullUrl": "/fayez/dobeytiha/sh90",
+  "RhymeLetters": "ان",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از پس از مرگ و اهمیت پیوند و دوستی صحبت می‌کند. او از خوشی‌اش در از دست دادن جان می‌گوید و همچنین آرزو می‌کند که پس از مرگ جوانی همچون فایز، رفیقانش از دوستی و همراهی لذت ببرند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "پس از ببریدن و پیوند جانان\r\nمرا خوش آمده از دادن جان\r\nپس از مرگ جوانی همچو فایز\r\nتو را خوش باد صحبت با رفیقان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس از ببریدن و پیوند جانان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا خوش آمده از دادن جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس از مرگ جوانی همچو فایز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو را خوش باد صحبت با رفیقان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پس از ببریدن و پیوند جانان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا خوش آمده از دادن جان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پس از مرگ جوانی همچو فایز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو را خوش باد صحبت با رفیقان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 51743,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/bahar/robaeebk/sh20",
+  "RhymeLetters": "سیپیدانیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس ناامیدی و تنهایی شاعر اشاره دارد. او به دنبال انسانی دلسوز و یاری‌رسان می‌گردد، اما متوجه می‌شود که هیچ‌کس در اطراف نیست که به فریادش برسد. شاعر از خود می‌پرسد چرا هیچ‌کس پاسخگوی درخواست‌های او نیست و این نشان‌دهنده احساس عدم ارتباط و فقدان حمایت در زندگی‌اش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سیپیدانیست",
+      "PlainText": "افسوس که صاحب نفسی پیدا نیست\r\nفریاد که فریادرسی پیدا نیست\r\nبس لابه نمودیم و کس آواز نداد\r\nپیداست که در خانه کسی پیدا نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که صاحب نفسی پیدا نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد، که فریادرسی پیدا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس لابه نمودیم و کس آواز نداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیداست که در خانه کسی پیدا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که صاحب نفسی پیدا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فریاد، که فریادرسی پیدا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس لابه نمودیم و کس آواز نداد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیداست که در خانه کسی پیدا نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

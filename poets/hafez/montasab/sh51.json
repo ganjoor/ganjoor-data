@@ -1,0 +1,58 @@
+{
+  "Id": 78323,
+  "CatId": 674,
+  "Title": "شمارهٔ ۵۱ - رباعی",
+  "FullTitle": "حافظ » اشعار منتسب » شمارهٔ ۵۱ - رباعی",
+  "FullUrl": "/hafez/montasab/sh51",
+  "RhymeLetters": "رد",
+  "SourceName": "حمیدرضا محمدی",
+  "SourceUrlSlug": "hrm",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از باده‌ای کهنه و نوشیدنی‌ای که دهقان پرورش داده سخن می‌گوید. او می‌خواهد در این ده زندگی‌اش را تازه کند و از دنیا بی‌خبر باشد. شاعر از مرد دانا می‌خواهد تا در مورد اسرار جهان به او بگوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "زآن باده دیرینه دهقان پرورد\r\nدر ده که تراز عمر نو خواهم کرد\r\nمستم کن و بی خبر ز احوال جهان\r\nتا سر جهان بگویمت ای سره مرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن بادهٔ دیرینهٔ دهقان پرورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ده که تراز عمر نو خواهم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستم کن و بی خبر ز احوال جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سر جهان بگویمت ای سره مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زآن بادهٔ دیرینهٔ دهقان پرورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در ده که تراز عمر نو خواهم کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مستم کن و بی خبر ز احوال جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سر جهان بگویمت ای سره مرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

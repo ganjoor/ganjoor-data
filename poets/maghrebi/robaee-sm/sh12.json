@@ -1,0 +1,58 @@
+{
+  "Id": 84223,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/maghrebi/robaee-sm/sh12",
+  "RhymeLetters": "رم",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: این اشعار بیانگر شیفتگی و عشق شاعر به معشوق خود است. شاعر وقتی به چهره‌های زیبا نگاه می‌کند، فقط چهره محبوبش در نظرش می‌آید و هر لحظه از زیبایی‌های او جلوه‌ای جدید را به چشم می‌آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رم",
+      "PlainText": "در روی پری رخان چو در می نگرم\r\nجز روی تو می نیاید اندر نظرم\r\nهر لحظه ز هر پریرخی حسن رخت\r\nبردیده کند جلوه به وجه دگرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر روی پری رخان چو در می نگرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز روی تو می نیاید اندر نظرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر لحظه ز هر پریرخی حسن رخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبردیده کند جلوه به وجه دگرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در روی پری رخان چو در می نگرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز روی تو می نیاید اندر نظرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر لحظه ز هر پریرخی حسن رخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بردیده کند جلوه به وجه دگرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

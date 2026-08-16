@@ -1,0 +1,58 @@
+{
+  "Id": 72017,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۲۸۰",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۲۸۰",
+  "FullUrl": "/kamal/robaeek-kamal/sh280",
+  "RhymeLetters": "وزد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق و درد دل شاعر می‌پردازد. او از سوزش دل و اشک‌هایش صحبت می‌کند که ناشی از غم و اندوه اوست. شب تاریکی که بر روزهای سخت او سایه افکنده و غم‌هایی که از حالتش حکایت می‌کند، نشان‌دهنده‌ی رنج و ناکامی اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزد",
+      "PlainText": "بر سوز دل من دل آتش سوزد\r\nآب از نم چشم من تری اندوزد\r\nشب تیرگی از روز سیاهم توزد\r\nغم ناخوشی از حالت من آموزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر سوز دل من دل آتش سوزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب از نم چشم من تری اندوزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب تیرگی از روز سیاهم توزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغم ناخوشی از حالت من آموزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر سوز دل من دل آتش سوزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آب از نم چشم من تری اندوزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب تیرگی از روز سیاهم توزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم ناخوشی از حالت من آموزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 114105,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۲۳۲",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۲۳۲",
+  "FullUrl": "/jahan/divan/robaee/sh232",
+  "RhymeLetters": "م",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به گل دو رنگ اشاره می‌کند که نماد عشق و احساسات انسان‌هاست. گل یک روز زرد و روز دیگر طلایی است، که نشان‌دهنده تغییر احساسات عاشقانه است. یکی از آنها به خاطر شرم سرخ شده و دیگری به خاطر غم زرد شده است. این توصیف نشان‌دهندهٔ تضادهای عاطفی در عشق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "بنگر به گل دو رنگ ای ماه عجم\r\nیک روز زر طلا و یک روز بقم\r\nمانند دو عاشقند بنشسته به هم\r\nاو سرخ شده ز شرم و او زرد ز غم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنگر به گل دو رنگ ای ماه عجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک روز زر طلا و یک روز بقم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانند دو عاشقند بنشسته به هم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو سرخ شده ز شرم و او زرد ز غم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بنگر به گل دو رنگ ای ماه عجم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک روز زر طلا و یک روز بقم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مانند دو عاشقند بنشسته به هم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او سرخ شده ز شرم و او زرد ز غم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

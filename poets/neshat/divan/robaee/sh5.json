@@ -1,0 +1,58 @@
+{
+  "Id": 119539,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/neshat/divan/robaee/sh5",
+  "RhymeLetters": "ارتراست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به ارتباط بین وضعیت بیمار و گناهکار می‌پردازد. اشاره می‌کند که بیمارانی که بیشتر در رنج هستند، سزاوار عفو و بخشش بیشتری هستند. همچنین، از خاک مذلت به عنوان نمادی از افتادگی یاد می‌کند و می‌گوید که در برخی موارد، این افتادگی و ذلت برای انسان‌ها در مقام بندگی طبیعی‌تر است. به طور کلی، شاعر بر اهمیت درک و عفو نسبت به کسانی که در دشواری و گناه فراوانی هستند تأکید می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارتراست",
+      "PlainText": "منظور طبیب آنکه بیمار تر است\r\nشایسته ی عفو آنکه گنهکار تر است\r\nاز خاک مذلتش مگر بر دارند\r\nافتادگی از بنده سزاوار تر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنظور طبیب آنکه بیمار تر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشایسته ی عفو آنکه گنهکار تر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خاک مذلتش مگر بر دارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتادگی از بنده سزاوار تر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منظور طبیب آنکه بیمار تر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شایسته ی عفو آنکه گنهکار تر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خاک مذلتش مگر بر دارند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افتادگی از بنده سزاوار تر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Id": 83392,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۳۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۳۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh231",
+  "RhymeLetters": "انمگذر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این دو بیت شاعرانه به زیبایی و صفای سیمین عذار اشاره دارد. شاعر می‌گوید که زیبایی و خط خوش او از هر چیز دیگر زیباتر و پاک‌تر است، مانند آیینه‌ای بدون غبار که تصویر را به وضوح نشان می‌دهد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارتر",
+      "PlainText": "سیمین عذار اوست ز خط خوش عیارتر\r\nآیینه در نقاط بود بی غبارتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیمین عذار اوست، ز خط خوش عیارتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیینه در نقاط بود بی غبارتر؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سیمین عذار اوست، ز خط خوش عیارتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیینه در نقاط بود بی غبارتر؟!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

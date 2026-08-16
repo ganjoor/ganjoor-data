@@ -1,0 +1,58 @@
+{
+  "Id": 75157,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۶۱۶",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۶۱۶",
+  "FullUrl": "/ghodsi/robghm/sh616",
+  "RhymeLetters": "الاستیکی",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف افرادی می‌پردازد که در حال و هوای خاصی هستند و از یکی از آن‌ها به عنوان نمونه‌ای از کمال یاد می‌شود. هرچند که افراد زیادی وجود دارند (مانند پنج انگشت)، اما همه آن‌ها به یک اصل مشترک اشاره دارند که همان هلال (نماد زیبایی و کمال) است. در واقع، به تفاوت‌ها اشاره می‌شود ولی در نهایت، همه به یک هدف و مفهوم واحد می‌رسند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الاستیکی",
+      "PlainText": "از مردم حال اهل حال است یکی\r\nزین قوم نشان ده کمال است یکی\r\nهرچند که پنجه را بود پنج انگشت\r\nمخصوص اشارت به هلال است یکی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مردم حال، اهل حال است یکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین قوم، نشان ده کمال است یکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچند که پنجه را بود پنج انگشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمخصوص اشارت به هلال است یکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مردم حال، اهل حال است یکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین قوم، نشان ده کمال است یکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که پنجه را بود پنج انگشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مخصوص اشارت به هلال است یکی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

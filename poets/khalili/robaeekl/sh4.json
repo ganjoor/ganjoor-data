@@ -1,0 +1,58 @@
+{
+  "Id": 44900,
+  "CatId": 1688,
+  "Title": "رباعی شمارهٔ ۴",
+  "FullTitle": "خلیل‌الله خلیلی » رباعیات » رباعی شمارهٔ ۴",
+  "FullUrl": "/khalili/robaeekl/sh4",
+  "RhymeLetters": "اناست",
+  "SourceName": "مهران صمدنژاد",
+  "SourceUrlSlug": "ms",
+  "PoemSummary": "هوش مصنوعی: این شعر به اهمیت دوستی و همراهی دوستان در زندگی اشاره دارد. شاعر می‌گوید که سرمایه واقعی زندگی، لذت بردن از رابطه با یاران است و دشواری مرگ، جدایی از آن‌هاست. او همچنین بیان می‌کند که حتی اگر دوستان در دل خاک نیز جمع شوند، زندگی و مرگ برای او تفاوتی ندارد. به‌عبارت دیگر، پیوندهای عاطفی و دوستی ارزشمندتر از زندگی و مرگ هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناست",
+      "PlainText": "سرمایه عیش صحبت یاران است\r\nدشواری مرگ دوری ایشان است\r\nچون در دل خاک نیز یاران جمعند\r\nپس زندگی و مرگ به ما یکسان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرمایهٔ عیش، صحبت یاران است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشواری مرگ، دوری ایشان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون در دل خاک نیز یاران جمعند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس زندگی و مرگ به ما یکسان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرمایهٔ عیش، صحبت یاران است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دشواری مرگ، دوری ایشان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون در دل خاک نیز یاران جمعند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پس زندگی و مرگ به ما یکسان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 103072,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/jooya/divan/robaee/sh18",
+  "RhymeLetters": "راست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها به توصیف اهمیت و جایگاه امام علی (ع) در هستی و عالم می‌پردازند. شاعر بر این باور است که علی همچون یک درخت قوی و ثمرآور است و کسانی که از حقیقت او بی‌خبرند، در واقع از معنای وجودی او غافلند. همچنین، به irreplaceable بودن او اشاره می‌شود و اینکه بدون وجود او، عالم خالی و بی‌معنا خواهد بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "هستی نخلی است مرتضایش ثمر است\r\nبیگانه ز حق هر که ازو بی خبر است\r\nگردون بی او سریست خالی از مغز\r\nمغز این سر علی والاگهر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی نخلی است مرتضایش ثمر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیگانه ز حق هر که ازو بی خبر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردون بی او سریست خالی از مغز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغز این سر علی والاگهر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هستی نخلی است مرتضایش ثمر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیگانه ز حق هر که ازو بی خبر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردون بی او سریست خالی از مغز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مغز این سر علی والاگهر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

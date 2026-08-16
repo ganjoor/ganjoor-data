@@ -1,0 +1,58 @@
+{
+  "Id": 75814,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/nezari/robnez/sh67",
+  "RhymeLetters": "ست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به چرخه زندگی و مرگ اشاره دارد. شاعر می‌گوید بسیاری از انسان‌ها متولد می‌شوند و می‌روند و در این میان، درد و رنج وجود دارد. او بیان می‌کند که اگر به حقیقت آمدن و رفتن در این دنیا آگاه شوی، از غرق شدن در این جهان فانی پرهیز خواهی کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یست",
+      "PlainText": "بس خلق که بر آمده و رفته گریست\r\nنارفته در این گنبد دود آمده  کیست\r\nمستغرق این جهان فانی نشوی\r\nگر بشناسی کامدن و رفتن چیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس خلق که بر آمده (و) رفته گریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنارفته در این گنبد دود آمده‌ کیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستغرق این جهان فانی نشوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بشناسی کامدن و رفتن چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس خلق که بر آمده (و) رفته گریست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نارفته در این گنبد دود آمده‌ کیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مستغرق این جهان فانی نشوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر بشناسی کامدن و رفتن چیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

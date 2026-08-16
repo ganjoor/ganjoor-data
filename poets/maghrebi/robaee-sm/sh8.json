@@ -1,0 +1,58 @@
+{
+  "Id": 84219,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/maghrebi/robaee-sm/sh8",
+  "RhymeLetters": "امتوام",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به توصیف عشق و ارتباط نزدیکش با معشوق می‌پردازد. او خود را همچون دانه‌ای در زلف معشوق می‌بیند، آینه‌ای که زیبایی و دلربایی او را منعکس می‌کند و پیمانه‌ای از غم‌هایی که به خاطر عشق به او به دوش دارد. در نهایت، شاعر خود را هم به‌عنوان نماینده‌ی جهان و هم به‌عنوان جام معشوق معرفی می‌کند. به‌عبارتی، وجود شاعر و معشوق به‌هم‌پیوسته است و عشقشان تمامی وجودشان را پر کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امتوام",
+      "PlainText": "من دانه خال زلف چون دام  توام\r\nمن آینه روی دلارام توام\r\nپیمانه باده غم انجام توام\r\nهم جام جهان نمای و هم جام توام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن دانه خال زلف چون دام  توام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن آینه روی دلارام توام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیمانه باده غم انجام توام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم جام جهان نمای و هم جام توام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من دانه خال زلف چون دام  توام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من آینه روی دلارام توام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیمانه باده غم انجام توام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم جام جهان نمای و هم جام توام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

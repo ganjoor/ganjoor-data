@@ -1,0 +1,58 @@
+{
+  "Id": 69452,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/azraghi/arob/sh91",
+  "RhymeLetters": "افمنوتو",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به رابطه نزدیکی که بین خود و معشوقش وجود دارد، اشاره می‌کند. او می‌گوید زمانی که عشق و محبت در میان بود، هیچ کس نمی‌توانست به جدایی آنها فکر کند. اما اکنون که زمان غم و تیره‌روزی فرا رسیده، رابطه‌شان به حالت روشنی در آمده است و هیچ چیز نمی‌تواند این پیوند را قطع کند، حتی مادر نیز نمی‌تواند آنها را از هم جدا کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "افمنوتو",
+      "PlainText": "تا بود ز روی مهر لاف من و تو\r\nدر خواب ندید کس خلاف من و تو\r\nچون تیره شد اکنون می صاف من و تو\r\nمادر نه به هم برید ناف من و تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بود ز روی مهر لاف من و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خواب ندید کس خلاف من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تیره شد اکنون می صاف من و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمادر نه به هم برید ناف من و تو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بود ز روی مهر لاف من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خواب ندید کس خلاف من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون تیره شد اکنون می صاف من و تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مادر نه به هم برید ناف من و تو؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

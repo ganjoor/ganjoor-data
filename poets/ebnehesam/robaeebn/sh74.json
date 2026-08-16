@@ -1,0 +1,58 @@
+{
+  "Id": 64871,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۷۴",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۷۴",
+  "FullUrl": "/ebnehesam/robaeebn/sh74",
+  "RhymeLetters": "امیگویم",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و مشک‌گویی موی معشوق اشاره می‌کند و می‌گوید که اگر در بیان زیبایی او خطا کند، نباید از او دلخور شود. همچنین، اگر او معشوق را به بلندی سرو تشبیه کند، نباید ناراحت شود؛ زیرا این گفته‌ها ممکن است نادرست باشند. به طور کلی، شاعر به خیال‌پردازی و زیبایی‌های غیرواقعی در عشق اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیگویم",
+      "PlainText": "گر موی تو را مشک خطا می گویم\r\nدر تاب مرو که من خطا می گویم\r\nبالای تو گر به سرو گفتم به مرنج\r\nزیرا که حدیث ناروا می گویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر موی تو را مشک خطا می گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر تاب مرو که من خطا می گویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبالای تو گر به سرو گفتم به مرنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که حدیث ناروا می گویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر موی تو را مشک خطا می گویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در تاب مرو که من خطا می گویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالای تو گر به سرو گفتم به مرنج",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیرا که حدیث ناروا می گویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 35257,
+  "CatId": 831,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "عطار » مختارنامه » باب سی‌ام: در فراغت نمودن از معشوق » شمارهٔ ۲",
+  "FullUrl": "/attar/mokhtarname/bb30/sh2",
+  "RhymeLetters": "رقهمه",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به اشاره به اهمیت و ارزش جان انسان‌ها دارد و به گذرای زندگی اشاره می‌کند. شاعر به تناقض بین زندگی (جان) و مرگ (خاک و خون) تاکید می‌کند و بیان می‌دارد که در نهایت همه به خاک خواهند رفت و زاری و حسرت در این روند وجود دارد. به نوعی، شاعر به عدم permanence زندگی و سرنوشت مشترک انسان‌ها اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رقهمه",
+      "PlainText": "اول بنگر به جان چون برق همه\r\nو آخر به میان خاک و خون غرق همه\r\nمیمیراند به زاری و میگوید\r\nچون ما هستیم خاک بر فرق همه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول بنگر به جانِ چون برقِ همه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آخر به میان خاک و خون غرقِ همه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیمیراند به زاری و میگوید:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ما هستیم خاک بر فرقِ همه!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اول بنگر به جانِ چون برقِ همه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و آخر به میان خاک و خون غرقِ همه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میمیراند به زاری و میگوید:",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون ما هستیم خاک بر فرقِ همه!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

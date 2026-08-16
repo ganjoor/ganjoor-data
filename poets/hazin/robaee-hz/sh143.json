@@ -1,0 +1,58 @@
+{
+  "Id": 83031,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۴۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۴۳",
+  "FullUrl": "/hazin/robaee-hz/sh143",
+  "RhymeLetters": "اببیرونامد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به تصویر زیبایی از صبحگاه و تجلی زیبایی‌ها اشاره دارد. حسن (زیبایی) به شوق می‌رسد و در حالی که از حجاب (پوشش شب یا غم) خارج شده، عریان و پاک به جلوهگری می‌پردازد. همچنین، سحر (صبح) بر سر بالین شاعر حاضر می‌شود و او را بیدار می‌کند تا ببیند که آفتاب (روشنی و امید) ظهور کرده است. این اشعار حس تازگی و روحیه‌ی شاداب صبح را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اببیرونامد",
+      "PlainText": "حسنش به می از حجاب بیرون آمد\r\nعریان آتش ز آب بیرون آمد\r\nآمد سحری بر سر بالینم و گفت\r\nبرخیز که آفتاب بیرون آمد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحسنش، به می از حجاب بیرون آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعریان، آتش ز آب بیرون آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد سحری بر سر بالینم و گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخیز که آفتاب بیرون آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسنش، به می از حجاب بیرون آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عریان، آتش ز آب بیرون آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمد سحری بر سر بالینم و گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برخیز که آفتاب بیرون آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

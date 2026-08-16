@@ -1,0 +1,58 @@
+{
+  "Id": 116128,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/akhsikati/divan/robaee/sh2",
+  "RhymeLetters": "لینیستمرا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس غم و تنهایی شاعر است. او به این نکته اشاره می‌کند که یک سال است از زیبایی‌ها و خوشی‌های زندگی دور شده و آرزویی در دلش نیست. همچنین، او از آسیب‌های عشق و زیبایی‌ها سخن می‌گوید و می‌نویسد که دیگر قلبی تازه و شاداب ندارد. در واقع، او از ناکامی در عشق و عدم احساس شادی در زندگی شکایت دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لینیستمرا",
+      "PlainText": "سالی است که پای در گلی نیست مرا\r\nدر سر هوس رخ گلی نیست مرا\r\nاز عشق بتان پار زیان کرد دلم\r\nهر سال بتازگی دلی نیست مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسالی است که پای در گلی نیست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سر هوس رخ گلی نیست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عشق بتان، پار زیان کرد دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر سال بتازگی دلی نیست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سالی است که پای در گلی نیست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سر هوس رخ گلی نیست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از عشق بتان، پار زیان کرد دلم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر سال بتازگی دلی نیست مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

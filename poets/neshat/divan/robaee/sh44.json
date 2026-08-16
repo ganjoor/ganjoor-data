@@ -1,0 +1,58 @@
+{
+  "Id": 119578,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۴۴",
+  "FullUrl": "/neshat/divan/robaee/sh44",
+  "RhymeLetters": "التوخوشیم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس وابستگی و عشق عمیق است. شاعر نشان می‌دهد که با وجود تمام عیب‌ها و نقایص خود، وقتی به یاد محبوبش می‌افتد، شاد و خوشحال می‌شود. در واقع، یاد محبوب باعث می‌شود که همه ناراحتی‌ها و مشکلات به فراموشی سپرده شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "التوخوشیم",
+      "PlainText": "با خود همه عیب و با جمال تو خوشیم\r\nبا خود همه نقص و با کمال تو خوشیم\r\nبا خود همه سر بسر ملالیم ولی\r\nبا یاد تو شاد و با خیال تو خوشیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا خود همه عیب و با جمال تو خوشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خود همه نقص و با کمال تو خوشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا خود همه سر بسر ملالیم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا یاد تو شاد و با خیال تو خوشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با خود همه عیب و با جمال تو خوشیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خود همه نقص و با کمال تو خوشیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با خود همه سر بسر ملالیم ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با یاد تو شاد و با خیال تو خوشیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 103147,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹۳",
+  "FullUrl": "/jooya/divan/robaee/sh93",
+  "RhymeLetters": "ورمکن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به افراد یادآوری می‌کند که خود را به شعری معروف نچسبانند و از مباحث بی‌معنی دوری کنند. او پیشنهاد می‌دهد که گفتگو با دوستان با نمک و دلپذیر باشد، اما نباید آن را بی‌قاعده و پرشور کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورمکن",
+      "PlainText": "جویا خود را به شعر مشهور مکن\r\nبسیار از این مقوله مذکور مکن\r\nباشد نمک صحبت احباب سخن\r\nبی قاعده اش صرف مکن شور مکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجویا خود را به شعر مشهور مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسیار از این مقوله مذکور مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباشد نمک صحبت احباب سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی قاعده‌اش صرف مکن شور مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جویا خود را به شعر مشهور مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسیار از این مقوله مذکور مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشد نمک صحبت احباب سخن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی قاعده‌اش صرف مکن شور مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

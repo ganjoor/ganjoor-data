@@ -1,0 +1,57 @@
+{
+  "Id": 36710,
+  "CatId": 879,
+  "Title": "بخش ۲۰ - الحكایة ‌و التمثیل",
+  "FullTitle": "عطار » مصیبت نامه » آغاز کتاب » بخش ۲۰ - الحكایة ‌و التمثیل",
+  "FullUrl": "/attar/mosibatname/mbkhsh0/sh20",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: کوفی به مردی که به دنبال حقیقت بود گفت: مذهب تو چیست؟ او پاسخ داد: این سوال را از من نپرس، زیرا من همیشه در پی بقای خدایم هستم.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ی",
+      "PlainText": "کوفیی را گفت مرد راز جوی\r\nمذهب تو چیست با من باز گوی\r\nگفت این که پرسد ای کاره لقا\r\nباد پیوسته خدایم را بقا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوفئی را گفت مرد راز جوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمذهب تو چیست با من باز گوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت این که پرسد ای کاره لقا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد پیوسته خدایم را بقا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کوفئی را گفت مرد راز جوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مذهب تو چیست با من باز گوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفت این که پرسد ای کاره لقا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باد پیوسته خدایم را بقا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

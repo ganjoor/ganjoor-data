@@ -1,0 +1,58 @@
+{
+  "Id": 98732,
+  "CatId": 2509,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » الباب العاشر: البهاریات » شمارهٔ ۴۲",
+  "FullUrl": "/ouhad/robaee/bab10/sh42",
+  "RhymeLetters": "اییباید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در مجمع عشق، نیاز به آوا و صدایی است و این درد من به درمانی نیاز دارد. هرچند رقص برای این جمع عادی است، اما باید از رقصی خالی از ریا و صفا باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییباید",
+      "PlainText": "در مجمع عشق او صلایی باید\r\nوین درد مرا ازو دوایی باید\r\nرقص ارچه که عادت است این طایفه را\r\nلکن به جز از رقص صفایی باید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مجمع عشق او صلایی باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین درد مرا ازو دوایی باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرقص ارچه که عادت است این طایفه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلکن به جز از رقص صفایی باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در مجمع عشق او صلایی باید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین درد مرا ازو دوایی باید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رقص ارچه که عادت است این طایفه را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لکن به جز از رقص صفایی باید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

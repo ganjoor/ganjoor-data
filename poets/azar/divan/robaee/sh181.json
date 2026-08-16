@@ -1,0 +1,58 @@
+{
+  "Id": 119102,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۸۱",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۸۱",
+  "FullUrl": "/azar/divan/robaee/sh181",
+  "RhymeLetters": "منی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از دوری و تنهایی خود و معشوقش صحبت می‌کند. او اشاره می‌کند که هر یک از آن‌ها بدون دیگری در تنهایی به سر می‌برند و احساس می‌کنند که از همدیگر دور هستند، و هیچ‌کس دیگری نیست که در این باره با آن‌ها صحبت کند. این بیانگر احساس فاصله عاطفی و غم ناشی از جدایی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منی",
+      "PlainText": "من بیتو دریده هر نفس پیرهنی\r\nبی من تو نشسته هر زمان در چمنی\r\nاکنون بمن و تو نیست کس را سخنی\r\nمن از چو تویی دورم و تو از چو منی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بیتو دریده هر نفس پیرهنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی من تو نشسته هر زمان در چمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون بمن و تو نیست کس را سخنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن از چو تویی دورم و، تو از چو منی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من بیتو دریده هر نفس پیرهنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی من تو نشسته هر زمان در چمنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون بمن و تو نیست کس را سخنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من از چو تویی دورم و، تو از چو منی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

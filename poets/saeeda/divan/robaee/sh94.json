@@ -1,0 +1,58 @@
+{
+  "Id": 107994,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/saeeda/divan/robaee/sh94",
+  "RhymeLetters": "ارش",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر به نفس خود و اعمالش نفرین می‌کند و به مقاصد و خواسته‌های آن انتقاد دارد. او به این نکته اشاره دارد که نفس انسانی دائماً خود را در جایگاه خدایی می‌بیند و به خداوند استناد می‌کند، ولی در عین حال از مردان خدایی که به حق عمل کنند، خبری نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارش",
+      "PlainText": "لعنت بر نفس ما و بر کردارش\r\nبر مطلب و بر مقاصد بسیارش\r\nدایم به خدا خدا منم می گوید\r\nکو مرد خدایی که برد بر دارش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعنت بر نفس ما و بر کردارش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر مطلب و بر مقاصد بسیارش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدایم به خدا خدا منم می گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو مرد خدایی که برد بر دارش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لعنت بر نفس ما و بر کردارش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر مطلب و بر مقاصد بسیارش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دایم به خدا خدا منم می گوید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو مرد خدایی که برد بر دارش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82979,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/hazin/robaee-hz/sh91",
+  "RhymeLetters": "اغافتد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر به بی‌خردی افراد اشاره شده است که مانند زاغی بی‌فایده می‌افتند و از خوشی‌های زندگی محروم می‌شوند. شاعر می‌گوید که اگرچه کسی میوه‌ای از درخت ببرد، اما اگر آن فرد بی‌خود باشد، به جز درد و نامرادی نصیبی نخواهد داشت. در واقع، این شعر بیانگر این نکته است که بی‌خردی موجب از دست دادن فرصت‌ها و لذت‌ها می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغافتد",
+      "PlainText": "آن بی خردی که شوم چون زاغ افتد\r\nاز گلشن فیض قسمتش داغ افتد\r\nبر شاخ چو سنگ می زند رهگذری\r\nگیرم که فتاد میوه در باغ افتد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن بی خردی که شوم چون زاغ افتد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گلشن فیض، قسمتش داغ افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر شاخ چو سنگ می زند رهگذری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیرم که فتاد میوه، در باغ افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن بی خردی که شوم چون زاغ افتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از گلشن فیض، قسمتش داغ افتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر شاخ چو سنگ می زند رهگذری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گیرم که فتاد میوه، در باغ افتد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

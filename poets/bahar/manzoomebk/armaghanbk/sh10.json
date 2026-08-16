@@ -1,0 +1,49 @@
+{
+  "Id": 52004,
+  "CatId": 1849,
+  "Title": "فقرۀ ۷",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۷",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh10",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به فرد می‌گوید که نباید خود را به بندگی دیگری بسپارد و در زندگی‌اش، خود را در برابر هیچ کس تحت فشار قرار ندهد. همچنین اشاره می‌کند که نباید به خودی‌های مشابه نیز بندگی کند و باید بر استقلال و آزادی خود تأکید داشته باشد.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندگی",
+      "PlainText": "مشو خویشتن بنده در زندگی\r\nمکن پیش همچون خودی بندگی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشو خویشتن بنده در زندگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن پیش همچون خودی بندگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "خویشتن به بندگی کس مسپار.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "مشو خویشتن بنده در زندگی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "مکن پیش همچون خودی بندگی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

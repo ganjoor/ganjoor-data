@@ -1,0 +1,58 @@
+{
+  "Id": 69446,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۸۵",
+  "FullUrl": "/azraghi/arob/sh85",
+  "RhymeLetters": "ادمکن",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از معشوق خود می‌خواهد که او را ناامید نکند و با اعمال نیکی که از او توقع دارد، او را به یاد بد نیاورد. همچنین از معشوق می‌خواهد که دشمنش را از ناراحتی‌ها و غم او شاد نکند و به جای بیدادگری، از عدل خدا بترسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمکن",
+      "PlainText": "ناشاد مرا ای بت نوشاد مکن\r\nاز داد خدا بترس و بیداد مکن\r\nنیکویی کن مرا به بد یاد مکن\r\nمر خصم مرا از غم من شاد مکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناشاد مرا، ای بت نوشاد، مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز داد خدا بترس و بیداد مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیکویی کن مرا به بد یاد مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر خصم مرا از غم من شاد مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ناشاد مرا، ای بت نوشاد، مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از داد خدا بترس و بیداد مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیکویی کن مرا به بد یاد مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مر خصم مرا از غم من شاد مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

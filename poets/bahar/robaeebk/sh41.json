@@ -1,0 +1,58 @@
+{
+  "Id": 51764,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/bahar/robaeebk/sh41",
+  "RhymeLetters": "شک",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با استفاده از تصاویری زیبا و استعاره‌های دلنشین به عشق و احساسات خود اشاره می‌کند. او به محبوب خود (که او را \u0022برده گل رازقی\u0022 می‌نامد) می‌گوید که زیبایی‌اش باعث حسادت ماه می‌شود. شاعر از دل دردناک و غم‌زده‌اش می‌گوید و در پاسخ به او می‌شنود که تنها راه تسکین دلش، فراهم کردن آرامش و شادی است که به نظر می‌رسد محقق شدن آن دشوار باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شک",
+      "PlainText": "ای برده گل رازقی از روی تو رشک\r\nدر دیده مه ز دود سیگار تو اشک\r\nگفتم که چو لاله داغدار است دلم\r\nگفتی که دهم کام دلت یعنی کشک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای برده گل رازقی از روی تو رشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیدهٔ مه ز دود سیگار تو اشک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که چو لاله داغدار است دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتی که دهم کام دلت یعنی کشک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای برده گل رازقی از روی تو رشک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیدهٔ مه ز دود سیگار تو اشک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که چو لاله داغدار است دلم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتی که دهم کام دلت یعنی کشک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

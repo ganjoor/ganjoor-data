@@ -1,0 +1,58 @@
+{
+  "Id": 112358,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/sahab/divan/robaee/sh34",
+  "RhymeLetters": "ین",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، به شکوه و عظمت قصر شاهان اشاره شده است. این قصر به زمین افتخاری بخشیده و همه شاهان به احترام آن سر تعظیم فرود آورده‌اند، به طوری که زمین نیز به خاطر این قصر به احترام آسمان خم شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "چون گشت به پا قصر شهنشاه زمین\r\nشاهان به جنابش همه سودند جبین\r\nزین قصر زمین یافت شرافت که چنین\r\nخم گشت به تعظیم زمین عرش برین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون گشت به پا قصر شهنشاه زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهان به جنابش همه سودند جبین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین قصر زمین یافت شرافت که چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخم گشت به تعظیم زمین عرش برین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون گشت به پا قصر شهنشاه زمین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاهان به جنابش همه سودند جبین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین قصر زمین یافت شرافت که چنین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خم گشت به تعظیم زمین عرش برین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

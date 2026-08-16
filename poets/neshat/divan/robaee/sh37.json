@@ -1,0 +1,58 @@
+{
+  "Id": 119571,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/neshat/divan/robaee/sh37",
+  "RhymeLetters": "انهمنم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر احساس بیگانگی و تنها بودن خود را در دنیای دیوانه‌وار بیان می‌کند. او به وضوح نشان می‌دهد که جایی در میان آشناها و بیگانگان ندارد و نه در مکان‌های مقدس (کعبه) و نه در مکان‌های نمادین (بتخانه) پذیرفته شده است. به طور کلی، او حس می‌کند که در این دنیا به نوعی طرد شده و در تنهایی به سر می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهمنم",
+      "PlainText": "امروز میان شهر دیوانه منم\r\nدر دهر بدیوانگی افسانه منم\r\nبیگانه ز آشنا و بیگانه منم\r\nمردود در کعبه و بتخانه منم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز میان شهر دیوانه منم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دهر بدیوانگی افسانه منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیگانه ز آشنا و بیگانه منم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردود در کعبه و بتخانه منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز میان شهر دیوانه منم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دهر بدیوانگی افسانه منم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیگانه ز آشنا و بیگانه منم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مردود در کعبه و بتخانه منم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

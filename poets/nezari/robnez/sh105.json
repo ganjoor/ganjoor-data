@@ -1,0 +1,58 @@
+{
+  "Id": 75852,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/nezari/robnez/sh105",
+  "RhymeLetters": "ینتبوسند",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تمجید از محبوب خود می‌پردازد و می‌گوید اگر مهر و مه (دو نماد زیبایی) بر نگین انگشتری‌اش بوسه زنند، در هر جایی که قدم بگذارد، زمین او را بوسه می‌زند. او به این قاعده اشاره می‌کند که اگر کسی در مقام خلیفه باشد، شاهان زمانه نیز ارادت خود را به او نشان خواهند داد و آستین او را می‌بوسند. در کل، شعر به زیبایی و مقام والای محبوب و قدرت او اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینتبوسند",
+      "PlainText": "مهر و مه اگر مهر نگینت بوسند\r\nهر جا که قدم نهی زمینت بوسند\r\nبر قاعده ی خلیفه می شاید اگر\r\nشاهان زمانه آستینت بوسند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهر و مه اگر مهر نگینت بوسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر جا که قدم نهی زمینت بوسند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر قاعده‌ی خلیفه می شاید اگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهان زمانه آستینت بوسند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مهر و مه اگر مهر نگینت بوسند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر جا که قدم نهی زمینت بوسند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر قاعده‌ی خلیفه می شاید اگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاهان زمانه آستینت بوسند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 77838,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/homam/robaeeho/sh20",
+  "RhymeLetters": "یشانچوناست",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از باد مراغه صحبت می‌کند و به حال خویشان خود اشاره دارد که پر از درد و غم است. او به یار خود که زلفی پریشان دارد، کنایه می‌زند و از درد دوری و نادیدن آن‌ها می‌گوید. دلش مانند دل نازنین آن‌ها مجروح و خونین شده است. ",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشانچوناست",
+      "PlainText": "ای باد مراغه حال خویشان خون است\r\nوان یار مرا زلف پریشان چون است\r\nخون گشت دلم ز درد نادیدنشان\r\nگویی دل نازنین ایشان چون است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باد مراغه حال خویشان خون است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان یار مرا زلف پریشان چون است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخون گشت دلم ز درد نادیدنشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی دل نازنین ایشان چون است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باد مراغه حال خویشان خون است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان یار مرا زلف پریشان چون است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون گشت دلم ز درد نادیدنشان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی دل نازنین ایشان چون است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

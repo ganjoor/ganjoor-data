@@ -1,0 +1,58 @@
+{
+  "Id": 123655,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/naziri/divan/robaee/sh89",
+  "RhymeLetters": "رش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و شکوه طاووس در بهار اشاره می‌کند. طاووس همچون گلشن بهاری بر افراز است و زیبایی‌اش از سر تا پا دیده می‌شود. دیگران نگران هستند که این زیبایی چقدر برجسته است و به همین دلیل برایش دام‌هایی از ابر بافته‌اند تا جلوی شکفتن و پرواز او را بگیرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رش",
+      "PlainText": "گلشن که بهار ساخته جانورش\r\nطاووس نگارین شده پا تا به سرش\r\nترسند که از شکفتگی برپرد\r\nبافند ز ابر دام بر بال و پرش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلشن که بهار ساخته جانورش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطاووس نگارین شده پا تا به سرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسند که از شکفتگی برپرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبافند ز ابر دام بر بال و پرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلشن که بهار ساخته جانورش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طاووس نگارین شده پا تا به سرش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترسند که از شکفتگی برپرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بافند ز ابر دام بر بال و پرش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

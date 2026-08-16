@@ -1,0 +1,58 @@
+{
+  "Id": 101798,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/salim/divan/robaee/sh7",
+  "RhymeLetters": "یرت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به ناامیدی و غصه ناشی از ظلم آسمان اشاره دارد. شاعر می‌گوید که از تدبیر و چاره‌جویی فرار نکن، چون هیچ فایده‌ای ندارد. او همچنین به تأثیر هر قدم اشاره می‌کند که به زنجیر دلگیرش افزوده می‌شود. در کل، شعر حس یأس و گرفتار بودن را منتقل می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرت",
+      "PlainText": "ای کرده جفای آسمان دلگیرت\r\nمگریز که سودی ندهد تدبیرت\r\nبنشین که ز نقش پا به هرگام زدن\r\nیک حلقه فزون می شود از زنجیرت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کرده جفای آسمان دلگیرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگریز که سودی ندهد تدبیرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنشین که ز نقش پا به هرگام زدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک حلقه فزون می شود از زنجیرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کرده جفای آسمان دلگیرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگریز که سودی ندهد تدبیرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنشین که ز نقش پا به هرگام زدن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک حلقه فزون می شود از زنجیرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

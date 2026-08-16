@@ -1,0 +1,58 @@
+{
+  "Id": 82924,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/hazin/robaee-hz/sh36",
+  "RhymeLetters": "معاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف یار (محبوب) می‌پردازند که در تاریکی‌ها همچون شمعی درخشان است و خود به تنهایی راز و نیاز و شناخت را به همراه دارد. هر کسی که به جستجوی حقیقت بپردازد، نوری را خواهد یافت که نشان می‌دهد همه چیز در نهایت به یک حقیقت واحد مربوط می‌شود و باقی اجزا فقط تجلیات آن واحد هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "معاست",
+      "PlainText": "یار است که در ظلمت امکان شمع است\r\nخود راز و نیاز و خویشتن هم سمع است\r\nهر دیده که یافت نور تحقیق حزین\r\nغیر از واحد ندید هر جا جمع است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار است که در ظلمت امکان شمع است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود، راز و نیاز و خویشتن هم سمع است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دیده که یافت نور تحقیق، حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیر از واحد ندید، هر جا جمع است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار است که در ظلمت امکان شمع است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود، راز و نیاز و خویشتن هم سمع است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر دیده که یافت نور تحقیق، حزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غیر از واحد ندید، هر جا جمع است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

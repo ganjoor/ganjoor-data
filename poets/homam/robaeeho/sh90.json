@@ -1,0 +1,58 @@
+{
+  "Id": 77908,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۹۰",
+  "FullUrl": "/homam/robaeeho/sh90",
+  "RhymeLetters": "اری",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: معشوق، با لذتی از باده، گلناری زیبا ساخته است و در شب بیداری‌اش با آن هنرنمایی می‌کند. از اشک‌های من، داستانی بر شیشه می‌نویسد و در آن داستان، شمعش را نیز همراهی می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اری",
+      "PlainText": "معشوق ز ذوق باده گلناری\r\nدر ساخته بود دوش با بیداری\r\nز اشکم بر او شیشه حدیثی می راند\r\nمی داد دران حدیث شمعش یاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعشوق ز ذوق باده گلناری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ساخته بود دوش با بیداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز اشکم بر او شیشه حدیثی می‌راند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌داد دران حدیث شمعش یاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "معشوق ز ذوق باده گلناری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در ساخته بود دوش با بیداری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز اشکم بر او شیشه حدیثی می‌راند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌داد دران حدیث شمعش یاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 113968,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۹۵",
+  "FullUrl": "/jahan/divan/robaee/sh95",
+  "RhymeLetters": "لبایدکرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از وداع با گل و ترک آن سخن می‌گوید. او به دو گزینه اشاره می‌کند: یا باید با گل خداحافظی کرد یا اینکه به ترک آن فکر کرد. در نهایت، او به این نتیجه می‌رسد که باید با اندیشه و خرد به این موضوع بپردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لبایدکرد",
+      "PlainText": "گل می رود و وداع گل باید کرد\r\nیا آنکه به ترک گل و مل باید کرد\r\nاندیشه این دو رای تاریک ببین\r\nاز روی خرد فکر نقل باید کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل می‌رود و وداع گل باید کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا آنکه به ترک گل و مل باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندیشه این دو رای تاریک ببین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز روی خرد فکر نقل باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل می‌رود و وداع گل باید کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا آنکه به ترک گل و مل باید کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندیشه این دو رای تاریک ببین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از روی خرد فکر نقل باید کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

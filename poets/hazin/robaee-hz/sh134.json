@@ -1,0 +1,58 @@
+{
+  "Id": 83022,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۳۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۳۴",
+  "FullUrl": "/hazin/robaee-hz/sh134",
+  "RhymeLetters": "ادکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مشکل و دردهای ناشی از دوری و جدایی اشاره می‌کند. او از امیدی صحبت می‌کند که در دلش وجود دارد و از چشمان محبوبش می‌خواهد که غم و اندوه را فراموش کرده و به او نگاه کند، حتی اگر همه‌ دنیا نیز به او فریاد بزند که یاری‌اش کند. شاعر از احساس ناتوانی خود در برابر این جدایی سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادکند",
+      "PlainText": "مشکل که دلم را نگهت شاد کند\r\nیک عمر ز جور هجر اگر دادکند\r\nچشمت به خدنگ غمزه نگشاید شست\r\nهر چند نگاه عجز فریاد کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشکل که دلم را نگهت شاد کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک عمر ز جور هجر اگر دادکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت به خدنگ غمزه نگشاید شست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چند نگاه عجز فریاد کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشکل که دلم را نگهت شاد کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک عمر ز جور هجر اگر دادکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشمت به خدنگ غمزه نگشاید شست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چند نگاه عجز فریاد کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

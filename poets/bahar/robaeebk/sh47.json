@@ -1,0 +1,58 @@
+{
+  "Id": 51770,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴۷",
+  "FullUrl": "/bahar/robaeebk/sh47",
+  "RhymeLetters": "فتیم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در دی شب، من و پروانه صحبت می‌کردیم و گاهی هم از گل و شمع ناراحت می‌شدیم. اما صبح که شد، نه من باقی ماندم و نه پروانه، و گل هم ریزش کرد و همه ما رفتیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتیم",
+      "PlainText": "دیشب من و پروانه سخن می گفتیم\r\nگاه از گل و گه ز شمع  می آشفتیم\r\nشد صبح نه پروانه به جا ماند و نه من\r\nگل نیز پر افشاند که ما هم رفتیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیشب من و پروانه سخن می‌گفتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاه از گل و گه ز شمع‌، می‌آشفتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد صبح نه پروانه به جا ماند و نه من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل نیز پر افشاند که ما هم رفتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیشب من و پروانه سخن می‌گفتیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گاه از گل و گه ز شمع‌، می‌آشفتیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد صبح نه پروانه به جا ماند و نه من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل نیز پر افشاند که ما هم رفتیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

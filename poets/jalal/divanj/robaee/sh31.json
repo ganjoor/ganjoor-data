@@ -1,0 +1,58 @@
+{
+  "Id": 85661,
+  "CatId": 2238,
+  "Title": "شمارهٔ  ۳۱",
+  "FullTitle": "جلال عضد » دیوان اشعار » رباعیّات » شمارهٔ  ۳۱",
+  "FullUrl": "/jalal/divanj/robaee/sh31",
+  "RhymeLetters": "شیر",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعری به توصیف یک شیر دلیر در دشت می‌پردازد که به نوعی به قدرت و شجاعت آن اشاره دارد. شاعر با خواجه‌ای (شخصیتی مهم) صحبت می‌کند و می‌گوید که اگرچه شیر از جان تأثیری ندارد، اما وقتی نامش مطرح می‌شود، باز هم احساس قدرت و اراده را القا می‌کند. به عبارتی، حتی در مرگ نیز نام و یاد شیر می‌تواند یادآور شجاعت باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شیر",
+      "PlainText": "دید در دشت مرده یکی شیر دلیر\r\nبا خواجه اثیر گفتم اینک شمشیر\r\nبا آنکه ز جان اثر ندارد آخر\r\nنامی باشد اگر ببری سرشیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدید در دشت مرده یکی شیر دلیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خواجه اثیر گفتم اینک شمشیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا آنکه ز جان اثر ندارد آخر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامی باشد اگر ببرّی سرشیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دید در دشت مرده یکی شیر دلیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خواجه اثیر گفتم اینک شمشیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با آنکه ز جان اثر ندارد آخر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نامی باشد اگر ببرّی سرشیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50104,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۴۴",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۴۴",
+  "FullUrl": "/mahsati/robmah/sh44",
+  "RhymeLetters": "روزمباد",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از عشق و محبت خود سخن می‌گوید و برای محبوبش آرزوی خوشی و زیبایی دارد. او می‌گوید که جز محبوبش هیچ چیز دیگری در زندگی‌اش شادی‌بخش نیست و زندگی با لبان او را باعث خوشبختی می‌داند. همچنین به شب‌هایی اشاره می‌کند که در کنار محبوبش بوده و آرزو می‌کند آن شب‌ها تا قیامت ادامه داشته باشد و روزی سختی و جدایی نیاید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روزمباد",
+      "PlainText": "در دهر مرا جز تو دل افروز مباد\r\nبر لعل لبت زمانه فیروز مباد\r\nوآن شب که مرا تو در کناری یا رب\r\nتا صبح قیامت نشود روز مباد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دهر مرا جز تو دل‌افروز مباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر لعل لبت زمانه فیروز مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن شب که مرا تو در کناری یا رب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا صبحِ قیامت نشود، روز مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دهر مرا جز تو دل‌افروز مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر لعل لبت زمانه فیروز مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وآن شب که مرا تو در کناری یا رب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا صبحِ قیامت نشود، روز مباد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

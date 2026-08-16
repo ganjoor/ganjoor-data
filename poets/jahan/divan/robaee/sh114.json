@@ -1,0 +1,58 @@
+{
+  "Id": 113987,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۱۴",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۱۴",
+  "FullUrl": "/jahan/divan/robaee/sh114",
+  "RhymeLetters": "استهشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت چهره محبوبش اشاره می‌کند. او می‌گوید که نور خورشید از زیبایی چهره محبوبش خواسته شده و از شرم او، زیبایی مه نیز کمتر شده است. همچنین، دور تا دور صورت محبوبش به زیبایی تزئین شده و مانند گلی در میان سبزه‌ها جلوه‌گری می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استهشد",
+      "PlainText": "خورشید رخ تو را ز جان خواسته شد\r\nاز شرم رخت تمام مه کاسته شد\r\nپیرامن عارض تو خطی بدمید\r\nگل بود به سبزه نیز آراسته شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید رخ تو را ز جان خواسته شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شرم رخت تمام مه کاسته شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیرامن عارض تو خطّی بدمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل بود به سبزه نیز آراسته شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید رخ تو را ز جان خواسته شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شرم رخت تمام مه کاسته شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیرامن عارض تو خطّی بدمید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل بود به سبزه نیز آراسته شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

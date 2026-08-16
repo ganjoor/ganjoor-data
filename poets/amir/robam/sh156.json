@@ -1,0 +1,58 @@
+{
+  "Id": 70199,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۵۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۵۶",
+  "FullUrl": "/amir/robam/sh156",
+  "RhymeLetters": "نگینه",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به احساس ناامیدی و فتنه‌ای که در سرزمینش برپا شده اشاره می‌کند. او اعلام می‌کند که همگان به خاطر عهد و پیمانی که شکسته شده، به نابودی و سقوط دچار گشته‌اند. به عبارت دیگر، بدعهدی و تفرقه باعث شده که همه در آشفتگی و درگیری به سر برند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادندهمه",
+      "PlainText": "خصمان تو رسم بد نهادند همه\r\nبر ملک در فتنه  گشادند همه\r\nچون عهد تو را به باد دادند همه\r\nاز چرخ به خاک درفتادند همه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخصمان تو رسم بد نهادند همه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ملک در فتنه‌ گشادند همه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عهد تو را به باد دادند همه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چرخ به خاک درفتادند همه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خصمان تو رسم بد نهادند همه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر ملک در فتنه‌ گشادند همه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون عهد تو را به باد دادند همه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از چرخ به خاک درفتادند همه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

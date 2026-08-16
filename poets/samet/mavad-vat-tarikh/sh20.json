@@ -1,0 +1,78 @@
+{
+  "Id": 76934,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۲۰",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۲۰",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh20",
+  "RhymeLetters": "اشند",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که تا زمانی که عشق و تمایلات دل انسان از دنیا کاسته نشود، خوشبختی به دست نمی‌آید. شاعر بیان می‌کند که ما در جستجوی رسیدن به خواسته‌هایمان هستیم، اما در این مسیر هر دو طرف درحالی که به دنبال ناکامی و موفقیت هستند، به نتیجه‌ای نخواهند رسید. در واقع، تضاد و کج‌فهمی‌ها مانع از تحقق آرزوها می‌شود.",
+  "Sections": [
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "منشود",
+      "PlainText": "تا میل دل از مهر جهان کم نشود\r\nاسباب سعادتی فراهم نشود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا میل دل از مهر جهان کم نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسباب سعادتی فراهم نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "او در پی ناکامی و ما طالب کام\r\nسودای دو کج حساب با هم نشود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو در پی ناکامی و ما طالب کام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسودای دو کج حساب با هم نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 83,
+      "Number": 83,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهمنشود",
+      "PlainText": "تا میل دل از مهر جهان کم نشود\r\nاسباب سعادتی فراهم نشود\r\nاو در پی ناکامی و ما طالب کام\r\nسودای دو کج حساب با هم نشود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا میل دل از مهر جهان کم نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسباب سعادتی فراهم نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو در پی ناکامی و ما طالب کام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسودای دو کج حساب با هم نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا میل دل از مهر جهان کم نشود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 83,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اسباب سعادتی فراهم نشود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 83,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او در پی ناکامی و ما طالب کام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 83,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سودای دو کج حساب با هم نشود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 83,
+      "SectionIndex2": 20
+    }
+  ]
+}

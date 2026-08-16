@@ -1,0 +1,58 @@
+{
+  "Id": 82969,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸۱",
+  "FullUrl": "/hazin/robaee-hz/sh81",
+  "RhymeLetters": "اییکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت‌ها از درد و غم ناشی از هجران معشوق سخن می‌گوید. ناله‌های دل را بیان می‌کند که به خاطر دوری معشوق به اوج می‌رسد و اشک‌هایش مانند ابر خونی می‌شود. همچنین اشاره می‌کند که فرهاد، که سمبل عشق و فداکاری است، به خاطر غم معشوقش زحمات زیادی را تحمل کرده اما در نهایت دل صبور او بیهوده زحمت کشیده و هیچ نتیجه‌ای نگرفته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییکرد",
+      "PlainText": "در هجر تو ناله سینه فرسایی کرد\r\nابر مژه خون دیده پالایی کرد\r\nفرهاد غم تو آهنین بازو بود\r\nبیهوده دل صبور خارایی کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هجر تو ناله سینه فرسایی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابر مژه خون دیده پالایی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرهاد غم تو آهنین بازو بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیهوده دل صبور خارایی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در هجر تو ناله سینه فرسایی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ابر مژه خون دیده پالایی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرهاد غم تو آهنین بازو بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیهوده دل صبور خارایی کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

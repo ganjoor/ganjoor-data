@@ -1,0 +1,58 @@
+{
+  "Id": 114103,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۲۳۰",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۲۳۰",
+  "FullUrl": "/jahan/divan/robaee/sh230",
+  "RhymeLetters": "امستبهچشم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت چهره معشوق اشاره دارد. شاعر از رخسار معشوق که همچون ماهی کامل می‌درخشد، سخن می‌گوید و می‌گوید که بدون زلف او، جهان برایش تاریک و شبی مانند شب است. همچنین، زلف معشوق را به زنجیری تشبیه کرده و اشاره می‌کند که این زلف، او را به دام کشیده است. در کل، شعر به شدت تحت تأثیر عشق و زیبایی معشوق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امستبهچشم",
+      "PlainText": "رخسار توام ماه تمامست به چشم\r\nبی زلف توام جهان چو شامست به چشم\r\nاز زلف نهاده ای بتا زنجیری\r\nدیدی که سر زلف تو دامست به چشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخسار تواَم ماه تمامست به چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی زلف تواَم جهان چو شامست به چشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز زلف نهاده‌ای بتا زنجیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدی که سر زلف تو دامست به چشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخسار تواَم ماه تمامست به چشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی زلف تواَم جهان چو شامست به چشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از زلف نهاده‌ای بتا زنجیری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیدی که سر زلف تو دامست به چشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 120778,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۶۲",
+  "FullUrl": "/hamgar/divan/robaee/sh62",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به ما یادآوری می‌کند که وقتی به زیبایی‌های ظاهری (مانند صورت و ماه) توجه می‌کنیم، نباید خود را بیش از حد بالا ببریم و آیینه‌پرست شویم. زیرا آیینه حاوی تصاویری است که به دلیل زنگ اضمحلال و زمان، ممکن است تیره و ناقص شوند. در نهایت، زیبایی واقعی فراتر از ظاهر است و نباید به آن دلخوش کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "گرچه ز مه و مهر به رخ بردی دست\r\nخود بین مشو و مباش آیینه پرست\r\nکاین آینه بس آینه رخ را دیده ست\r\nکز زنگ اجل تیره شد و آینه هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه ز مه و مهر به رخ بردی دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود بین مشو و مباش آیینه پرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاین آینه بس آینه رخ را دیده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز زنگ اجل تیره شد و آینه هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه ز مه و مهر به رخ بردی دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود بین مشو و مباش آیینه پرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کاین آینه بس آینه رخ را دیده‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز زنگ اجل تیره شد و آینه هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

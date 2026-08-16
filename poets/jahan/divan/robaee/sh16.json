@@ -1,0 +1,58 @@
+{
+  "Id": 113889,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/jahan/divan/robaee/sh16",
+  "RhymeLetters": "روشامدهاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر به چمن رفت و دید که گل‌ها شکوفا شده‌اند. بلبل را دید که در حال نغمه‌سرایی است. از بلبل پرسید علت این شور و فریاد چیست و بلبل پاسخ داد که گل‌فروش آمده است و این باعث شادی‌اش شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روشامدهاست",
+      "PlainText": "رفتم به چمن که گل به جوش آمده است\r\nبلبل دیدم که در خروش آمده است\r\nگفتم چه شده ست و این فغان تو ز چیست\r\nگفتا چه کنم که گل فروش آمده است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتم به چمن که گل به جوش آمده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبل دیدم که در خروش آمده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم چه شده‌ست و این فغان تو ز چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا چه کنم که گل فروش آمده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتم به چمن که گل به جوش آمده است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلبل دیدم که در خروش آمده است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم چه شده‌ست و این فغان تو ز چیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتا چه کنم که گل فروش آمده است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

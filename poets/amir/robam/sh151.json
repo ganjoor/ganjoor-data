@@ -1,0 +1,58 @@
+{
+  "Id": 70194,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۵۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۵۱",
+  "FullUrl": "/amir/robam/sh151",
+  "RhymeLetters": "داریتو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به زیبایی و روشنی چهره محبوبش اشاره می‌کند و می‌گوید که نور صورت او همچون نوری در تاریکی شب است. او ابراز می‌کند که هرگز نمی‌خواهد چشمانش از خیال چهره او خالی باشد و همیشه در فکر و یاد او خواهد بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الرخسارهٔتو",
+      "PlainText": "ای نور مه از جمال رخساره تو\r\nای ظلمت شب ز خال رخساره تو\r\nهرگز نفسی مباد کاین دیده من\r\nخالی بود از خیال رخساره تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نور مه از جمال رخسارهٔ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای ظلمت شب ز خال رخسارهٔ تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز نفسی مباد کاین دیدهٔ من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی بود از خیال رخسارهٔ تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نور مه از جمال رخسارهٔ تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای ظلمت شب ز خال رخسارهٔ تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز نفسی مباد کاین دیدهٔ من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خالی بود از خیال رخسارهٔ تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

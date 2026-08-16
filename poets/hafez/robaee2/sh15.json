@@ -1,0 +1,58 @@
+{
+  "Id": 2065,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱۵",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱۵",
+  "FullUrl": "/hafez/robaee2/sh15",
+  "RhymeLetters": "ویمیبایدبود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به اهمیت لذت بردن از زندگی اشاره دارد. شاعر می‌گوید باید در کنار شادی‌ها و لذت‌ها (مثل می) بود و از غم‌ها دوری جست. عمر ما کوتاه و همانند یک گل است که به زودی پژمرده می‌شود، پس باید با لبخند و تازگی زندگی کرد و از لحظات استفاده کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویمیبایدبود",
+      "PlainText": "با می به کنار جوی می باید بود\r\nوز غصه کناره جوی می باید بود\r\nاین مدت عمر ما چو گل ده روز است\r\nخندان لب و تازه روی می باید بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا می به کنار جوی می‌باید بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز غصّه کناره‌جوی می‌باید بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مدّت عمر ما چو گل ده روز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخندان لب و تازه‌روی می‌باید بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با می به کنار جوی می‌باید بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز غصّه کناره‌جوی می‌باید بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این مدّت عمر ما چو گل ده روز است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خندان لب و تازه‌روی می‌باید بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

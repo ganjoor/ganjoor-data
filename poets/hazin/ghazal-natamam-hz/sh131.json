@@ -1,0 +1,58 @@
+{
+  "Id": 83292,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۳۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh131",
+  "RhymeLetters": "ردهایدارد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از آتشکده‌ای در دل خود سخن می‌گوید که به خاطر زیبایی و جذابیت معشوقش، آتش گرفته است. او به نقش و نگار چهره محبوبش اشاره می‌کند که از خطی زیبا و جذاب تشکیل شده و مانند جراحت شمشیر می‌باشد. به طور کلی، این شعر بیانگر عشق و دلبستگی عمیق شاعر به معشوقش است.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اختهدارد",
+      "PlainText": "آتشکده ای در جگر سوخته دارم\r\nزان حسن گلوسوز که بی ساخته دارد\r\nز نگار خط شوخ تر از جوهر شمشیر\r\nبر آینه عارض پرداخته دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتشکده ای در جگر سوخته دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان حسن گلوسوز، که بی ساخته دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نگار خط شوخ تر از جوهر شمشیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آینه عارض پرداخته دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتشکده ای در جگر سوخته دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان حسن گلوسوز، که بی ساخته دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز نگار خط شوخ تر از جوهر شمشیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر آینه عارض پرداخته دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

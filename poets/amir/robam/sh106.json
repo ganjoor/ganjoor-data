@@ -1,0 +1,58 @@
+{
+  "Id": 70149,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۰۶",
+  "FullUrl": "/amir/robam/sh106",
+  "RhymeLetters": "هراندر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به هوش و درایت اشاره دارد و به مفهوم اهمیت نوشیدن می‌پردازد. شاعر بیان می‌کند که شاید شب و روز به همین کار مشغول باشی. وقتی آسمان هر بار تو را می‌بیند، می‌خواهد ستاره‌ها را به تو هدیه کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "شاها خردت هست به می خوردن یار\r\nشاید که شب و روز همین داری کار\r\nمی خوردن تو فلک چو بیند هر بار\r\nخواهد که کند ستارگان بر تو نثار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها خردت هست به می خوردن یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاید که شب و روز همین داری کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی خوردن تو فلک چو بیند هر بار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهد که کند ستارگان بر تو نثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها خردت هست به می خوردن یار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاید که شب و روز همین داری کار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می خوردن تو فلک چو بیند هر بار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خواهد که کند ستارگان بر تو نثار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

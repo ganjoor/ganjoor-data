@@ -1,0 +1,58 @@
+{
+  "Id": 50166,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۰۶",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۰۶",
+  "FullUrl": "/mahsati/robmah/sh106",
+  "RhymeLetters": "بش",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به یک شب عاشقانه اشاره می‌کند. او با عشقش به شدت ابراز محبت می‌کند و در حالی که او قصد دارد به او دشنام دهد، شاعر با بوسه‌هایش این لحظه را تبدیل به محبت می‌کند و دشنام را با محبت پاسخ می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بش",
+      "PlainText": "دریافتم آخر ز قضا را به شبش\r\nصد بوسه زدم بر لب همچون رطبش\r\nاو خواست که دشنام دهد حالی من\r\nدشنام به بوسه درشکستم به لبش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریافتم آخر ز قضا را به شبش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد بوسه زدم بر لب همچون رطبش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو خواست که دشنام دهد حالی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشنام به بوسه درشکستم به لبش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دریافتم آخر ز قضا را به شبش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد بوسه زدم بر لب همچون رطبش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او خواست که دشنام دهد حالی من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشنام به بوسه درشکستم به لبش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82896,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/hazin/robaee-hz/sh8",
+  "RhymeLetters": "ارتراست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیان می‌کنند که افراد که بیشتر بی‌کارند، از نتایج و عواقب کارها آگاهی بیشتری دارند. همچنین، کسانی که درگیر غفلت و مشکلات زندگی هستند، از نظر هشیاری و آگاهی، بیشتر از کسانی که سرشار از خوشی و سرخوشی‌اند، برخوردارند. به عبارت دیگر، غفلت و بی‌کاری باعث بیداری و فهم عمیق‌تر در انسان‌ها می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارتراست",
+      "PlainText": "در کار زمانه هر که بیکارتر است\r\nاز عاقبت کار خبردارتر است\r\nاز باده ی غفلت از غم دهر  حزین\r\nهشیارتر است هرکه سرشارتر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کار زمانه هر که بیکارتر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عاقبت کار خبردارتر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز باده ی غفلت از غم دهر ، حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهشیارتر است هرکه سرشارتر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کار زمانه هر که بیکارتر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عاقبت کار خبردارتر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از باده ی غفلت از غم دهر ، حزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هشیارتر است هرکه سرشارتر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

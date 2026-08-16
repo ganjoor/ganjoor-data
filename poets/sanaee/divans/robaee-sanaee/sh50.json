@@ -1,0 +1,58 @@
+{
+  "Id": 12785,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۵۰",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۵۰",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh50",
+  "RhymeLetters": "وییباتست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به زیبایی و خوبی شخصی اشاره می‌کند و می‌گوید اگرچه تو مانند گل زیبا و مانند بلبل خوب صحبت می‌کنی، و مانند آینه عیوب دیگران را می‌گردی، اما این همه فایده‌ای ندارد چون در باطن دو رو هستی و صادق نیستی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وییباتست",
+      "PlainText": "گیرم که چو گل همه نکویی با تست\r\nچون بلبل راه خوبگویی با تست\r\nچون آینه خوی عیب جویی با تست\r\nچه سود که شیمت دورویی با تست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیرم که چو گل همه نکویی با تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بلبل راه خوبگویی با تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون آینه خوی عیب جویی با تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه سود که شیمت دورویی با تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیرم که چو گل همه نکویی با تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون بلبل راه خوبگویی با تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون آینه خوی عیب جویی با تست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه سود که شیمت دورویی با تست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

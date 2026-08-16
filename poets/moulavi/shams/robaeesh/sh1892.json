@@ -1,0 +1,58 @@
+{
+  "Id": 31350,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۸۹۲",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۸۹۲",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1892",
+  "RhymeLetters": "ری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر زیبایی و ویژگی‌های بی‌نظیر یک درخت، قمر، سحر و شکری را توصیف می‌کند و می‌گوید که هیچ‌یک از آن‌ها به اندازه اینها سرسبز، نورانی، شاداب و با ذوق نیستند. یعنی همه چیز را مقایسه می‌کند و برتری اینها را نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "سرسبزتر از تو من ندیدم شجری\r\nپرنورتر از تو من ندیدم قمری\r\nشبخیزتر از تو من ندیدم سحری\r\nپرذوق تر از تو من ندیدم شکری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرسبزتر از تو من ندیدم شجری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرنورتر از تو من ندیدم قمری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبخیزتر از تو من ندیدم سحری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرذوق‌تر از تو من ندیدم شکری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرسبزتر از تو من ندیدم شجری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرنورتر از تو من ندیدم قمری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبخیزتر از تو من ندیدم سحری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پرذوق‌تر از تو من ندیدم شکری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

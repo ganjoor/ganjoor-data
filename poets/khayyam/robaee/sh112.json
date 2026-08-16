@@ -1,0 +1,58 @@
+{
+  "Id": 1230,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۱۲",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۱۲",
+  "FullUrl": "/khayyam/robaee/sh112",
+  "RhymeLetters": "یز",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از پیر خردمند می‌خواهد که برخیزد و به کودک خاکی نگریسته، او را نصیحت کند. می‌گوید که باید به او آموزش دهد که چگونه آرام و به تدریج رشد کند، و به عقل و دانش شخصیت‌های بزرگ مانند کیقباد و پرویز دست یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یز",
+      "PlainText": "ای پیر خردمند پگه تر برخیز\r\nوآن کودک خاکبیز را بنگر تیز\r\nپندش ده گو که نرم نرمک می بیز\r\nمغز سر کیقباد و چشم پرویز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پیر خردمند پگه‌تر برخیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن کودک خاکبیز را بنگر تیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپندش ده گو که نرم نرمک می‌بیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغز سر کیقباد و چشم پرویز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای پیر خردمند پگه‌تر برخیز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآن کودک خاکبیز را بنگر تیز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پندش ده گو که نرم نرمک می‌بیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مغز سر کیقباد و چشم پرویز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70205,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۶۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۶۲",
+  "FullUrl": "/amir/robam/sh162",
+  "RhymeLetters": "اناوردی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از احساس گرفتار شدن در دام عشق و فتنه‌های روزگار صحبت می‌کند. او به این موضوع اشاره دارد که عشق کسی او را در شرایطی دشوار و بی‌قراری قرار داده و باعث شده که روزگار برایش سخت و غم‌انگیز باشد. شاعر در حسرت گذشته و رابطه خود به سر می‌برد و این احساسات به او اندوه و تردید می‌آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمکردی",
+      "PlainText": "دامی که در آن دام شکارم کردی\r\nدر حلقه او تو بیقرارم کردی\r\nای فتنه روزگار در حسرت خویش\r\nانگشت نمای روزگارم کردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامی که در آن دام شکارم کردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حلقهٔ او تو بیقرارم کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای فتنهٔ روزگار در حسرت خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانگشت نمای روزگارم کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دامی که در آن دام شکارم کردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حلقهٔ او تو بیقرارم کردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای فتنهٔ روزگار در حسرت خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "انگشت نمای روزگارم کردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

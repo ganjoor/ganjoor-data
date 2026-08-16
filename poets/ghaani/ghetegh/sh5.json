@@ -1,0 +1,58 @@
+{
+  "Id": 45645,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۵",
+  "FullUrl": "/ghaani/ghetegh/sh5",
+  "RhymeLetters": "انهرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به رابطه عشق و فداکاری اشاره می‌کند. او می‌گوید که پروانه تنها به خاطر عشق به شمع می‌سوزد و شمع تنها برای پروانه می‌سوزد. به تعبیری دیگر، فقط عشق می‌تواند پروانه را به سوی شمع بکشاند و اگر کسی غیر از پروانه به شمع نزدیک شود، در واقع، از عشق بی‌خبر است و نمی‌تواند شعله عشق را درک کند.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهرا",
+      "PlainText": "باش تا از ابلهی دستی بدارد پیش شمع\r\nآنکه گوید می نسوزد شمع جز پروانه را\r\nشمع را جز پرتوی کز عشق آن پروانه سوخت\r\nپرتوی دیگر بود کآتش زند بیگانه را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباش تا از ابلهی دستی بدارد پیش شمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه گوید می‌نسوزد شمع جز پروانه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع را جز پرتوی کز عشق آن پروانه سوخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرتوی دیگر بود کآتش زند بیگانه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باش تا از ابلهی دستی بدارد پیش شمع",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنکه گوید می‌نسوزد شمع جز پروانه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمع را جز پرتوی کز عشق آن پروانه سوخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پرتوی دیگر بود کآتش زند بیگانه را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

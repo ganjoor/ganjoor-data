@@ -1,0 +1,58 @@
+{
+  "Id": 78325,
+  "CatId": 674,
+  "Title": "شمارهٔ ۵۳ - رباعی",
+  "FullTitle": "حافظ » اشعار منتسب » شمارهٔ ۵۳ - رباعی",
+  "FullUrl": "/hafez/montasab/sh53",
+  "RhymeLetters": "وحشود",
+  "SourceName": "حمیدرضا محمدی",
+  "SourceUrlSlug": "hrm",
+  "PoemSummary": "شاعر می‌گوید یا به وصل خواستنی‌های دل دردمندم می‌رسم یا آنکه جانم را می‌بازم و در بیت بعد از خدا می‌خواهد که درهای خوشبختی باز شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وحشود",
+      "PlainText": "یا کار به کام دل مجروح شود\r\nیا ملک دلم بی ملک روح شود\r\nامید من آن است به درگاه خدا\r\nکابواب سعادت همه مفتوح شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا کار به کام دل مجروح شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا ملک دلم بی ملک روح شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامید من آن است به درگاه خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکابواب سعادت همه مفتوح شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا کار به کام دل مجروح شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا ملک دلم بی ملک روح شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امید من آن است به درگاه خدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کابواب سعادت همه مفتوح شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

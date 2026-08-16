@@ -1,0 +1,58 @@
+{
+  "Id": 123646,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/naziri/divan/robaee/sh80",
+  "RhymeLetters": "ار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این غزل از شعرای ایرانی به تفرقه و جدایی اشاره دارد. بلبل، نماد عشق و زیبایی، نمی‌تواند در باغ به آرامش برسد و دائما در حال پرواز و دلتنگی است. گل نیز به خاطر مشکل‌های پیش‌رو، یعنی خارها، حالت پریشانی دارد و از زیبایی‌اش کاسته شده است. این شعر بیانگر غم و اندوه ناشی از جدایی و اصطکاک در روابط است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "زین بیم که آورد طرب تفرقه بار\r\nبلبل نکند به باغ یک جای قرار\r\nگل جامه دریده بر سر شاخ آید\r\nاز بس که به دامنش درآویزد خار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین بیم که آورد طرب تفرقه بار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبل نکند به باغ یک جای قرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل جامه دریده بر سر شاخ آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس که به دامنش درآویزد خار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین بیم که آورد طرب تفرقه بار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلبل نکند به باغ یک جای قرار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل جامه دریده بر سر شاخ آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بس که به دامنش درآویزد خار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

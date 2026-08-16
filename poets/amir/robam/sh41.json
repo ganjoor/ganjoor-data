@@ -1,0 +1,58 @@
+{
+  "Id": 70084,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/amir/robam/sh41",
+  "RhymeLetters": "وزینیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این موضوع اشاره دارند که در جهان واقعی، بیداد و فتنه جایی ندارد و همه مردم شاد هستند. حتی اگر بعضی از زیبایی‌ها موجود نباشد، مثل گل‌های نسرین در باغ، باز هم وجود رکن‌الدین به خاطر معزالدین احساس می‌شود. به طور کلی، این اشعار بیانگر امیدواری و خوشحالی در مواجهه با مشکلات و کمبودها هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یننیست",
+      "PlainText": "بیدادی و فتنه در جهان آیین نیست\r\nشادند جهانیان و کس غمگین نیست\r\nگل هست به باغ ملک اگر نسرین نیست\r\nرکن الدین هست اگر معزالدین نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیدادی و فتنه در جهان آیین نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشادند جهانیان و کس غمگین نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل هست به باغ ملک اگر نسرین نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرکن‌الدین هست اگر معزالدین نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیدادی و فتنه در جهان آیین نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شادند جهانیان و کس غمگین نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل هست به باغ ملک اگر نسرین نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رکن‌الدین هست اگر معزالدین نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

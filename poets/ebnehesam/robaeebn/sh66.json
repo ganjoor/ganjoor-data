@@ -1,0 +1,58 @@
+{
+  "Id": 64863,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۶۶",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۶۶",
+  "FullUrl": "/ebnehesam/robaeebn/sh66",
+  "RhymeLetters": "بل",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این ابیات اشاره به افرادی دارد که به دنبال لذت و نعمت‌های مختلف می‌گردند. در باغی که میوه‌های رنگارنگ وجود دارد، وقتی مردم میوه‌ها را می‌بینند، به یاد نعمت‌هایی می‌افتند که قبلاً از آن بهره‌مند شده‌اند و آنها را بخاطر می‌آورند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بل",
+      "PlainText": "آنها که ببسته اند چون رشته طبل\r\nبر جعبه میوه های گوناگون حبل\r\nدر روضه چو الوان فواکه بینند\r\nقالوا هذا الذی رزقنا من قبل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنها که ببسته اند چون رشته طبل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر جعبه میوه های گوناگون حبل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر روضه چو الوان فواکه بینند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقالوا هذا الّذی رزقنا مِن قبل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنها که ببسته اند چون رشته طبل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر جعبه میوه های گوناگون حبل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در روضه چو الوان فواکه بینند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قالوا هذا الّذی رزقنا مِن قبل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Id": 45726,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۶۴",
+  "FullUrl": "/ghaani/ghetegh/sh64",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به انتقاد از مفتی شهر می‌پردازد که به اصول حلال و حرام پیغمبر آگاه نیست. او به این موضوع اشاره می‌کند که مفتی به نیازمندان کمکی نمی‌کند و پول آن‌ها را هدر می‌دهد و به ظلمی که بر مظلومان می‌رود، توجهی ندارد. در پایان، شاعر دعا می‌کند که ای کاش روزی این مفتی از حلال و حرام آگاه شود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "مفتی شهر ما که آگه نیست\r\nاز حلال و حرام پیغمبر\r\nمال محتاج را نموده هبا\r\nخون مظلوم را گرفته هدر\r\nچه شود یارب ار شود وقتی\r\nاز حلال و حرام مستحضر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمفتی شهر ما که آگه نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حلال و حرام پیغمبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمال محتاج را نموده هبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون مظلوم را گرفته هدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه شود یارب ار شود وقتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حلال و حرام مستحضر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مفتی شهر ما که آگه نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از حلال و حرام پیغمبر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مال محتاج را نموده هبا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون مظلوم را گرفته هدر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چه شود یارب ار شود وقتی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از حلال و حرام مستحضر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

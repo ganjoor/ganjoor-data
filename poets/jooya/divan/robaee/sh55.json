@@ -1,0 +1,58 @@
+{
+  "Id": 103109,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/jooya/divan/robaee/sh55",
+  "RhymeLetters": "ابود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به بیان تفاوت میان ظاهر و باطن می‌پردازد. او می‌گوید که کسانی که فقط به ظاهر می‌نگرند، از حقیقت دور هستند و در واقعیت ناپاکی وجود دارد. اهل باطن و معنی، ویژگی‌ها و احساسات متفاوتی دارند و درک عمیق‌تری از زندگی دارند. اگر کسی به عمق وجودش نگاهی بیندازد، ممکن است احساس کند که در این فضا، چیزی مانند دریا خالی و بی‌احساس است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابود",
+      "PlainText": "صاحب صورت تا بری از معنی بود\r\nچشم حقیقت سبک و رسوا بود\r\nاهل معنی شکوه دیگر دارند\r\nگر آینه می داشت تهی دریا بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحب صورت تا بری از معنی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم حقیقت سبک و رسوا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاهل معنی شکوهٔ دیگر دارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آینه می‌داشت تهی دریا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صاحب صورت تا بری از معنی بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم حقیقت سبک و رسوا بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اهل معنی شکوهٔ دیگر دارند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر آینه می‌داشت تهی دریا بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

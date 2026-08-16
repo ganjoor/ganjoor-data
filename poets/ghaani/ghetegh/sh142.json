@@ -1,0 +1,58 @@
+{
+  "Id": 45804,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۴۲",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۴۲",
+  "FullUrl": "/ghaani/ghetegh/sh142",
+  "RhymeLetters": "انی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که زمانی که انسان از خودخواهی و خودپرستی عبور کند و به عشق و وجود دوست (خدا) بپردازد، به حالت فانی و درنهایت وحدت دست پیدا می‌کند. در این حالت، دیگر به خاطر غیرت و غرور چیزی نمی‌خواهد و حتی در حیرت از او، نامی از خود نمی‌آورد. در واقع، اشاره به این دارد که در عشق راستین به خدا، خود فرد محو می‌شود و تنها وجود معشوق در نظرش درخشان است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انی",
+      "PlainText": "دلا از خویشتن چون درگذشتی\r\nشوی اندر وجود دوست فانی\r\nهم از غیرت ز وی کامی نجویی\r\nهم از حیرت ز وی نامی ندانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلا از خویشتن چون درگذشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشوی اندر وجود دوست فانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم از غیرت ز وی کامی نجویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم از حیرت ز وی نامی ندانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلا از خویشتن چون درگذشتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شوی اندر وجود دوست فانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم از غیرت ز وی کامی نجویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم از حیرت ز وی نامی ندانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

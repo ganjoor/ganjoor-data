@@ -1,0 +1,58 @@
+{
+  "Id": 50167,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۰۷",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۰۷",
+  "FullUrl": "/mahsati/robmah/sh107",
+  "RhymeLetters": "ستش",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در یک گذر، فردی مستی را دیدم و به احترام او به پایش افتادم و دستش را گرفتم. حالا از آن لحظه هیچ یاد ندارم، ولی به نوعی احساس می‌کنم که هنوز آن لحظه وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستش",
+      "PlainText": "در رهگذری فتاده دیدم مستش\r\nدر پاش فتادم و گرفتم دستش\r\nامروز از آن هیچ نمی آید یاد\r\nیعنی خبرم نیست ولیکن هستش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رهگذری فتاده دیدم مستش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پاش فتادم و گرفتم دستش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز از آن هیچ نمی‌آید یاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی خبرم نیست ولیکن هستش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در رهگذری فتاده دیدم مستش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پاش فتادم و گرفتم دستش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز از آن هیچ نمی‌آید یاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یعنی خبرم نیست ولیکن هستش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

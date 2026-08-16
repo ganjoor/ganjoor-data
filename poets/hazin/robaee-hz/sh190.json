@@ -1,0 +1,58 @@
+{
+  "Id": 83087,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۹۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۹۰",
+  "FullUrl": "/hazin/robaee-hz/sh190",
+  "RhymeLetters": "انم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به بیان احساسات عمیق خود می‌پردازد. او می‌گوید که اگرچه در دنیای مادی سلطنت و قدرتی ندارد، اما همچنان به نوعی دارای مرتبه‌ای است. او مدتی‌ست که در زندگی‌اش مانند آسیایی در یک خانه قدیمی احساس سرگشتگی می‌کند و نمی‌داند که دلیل این سرگشتگی چیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انم",
+      "PlainText": "آنم که به ملک نیستی سلطانم\r\nبا سامانم اگر چه بی سامانم\r\nدیری ست چو آسیا درین کهنه سرا\r\nسرگردانم که از چه سرگردانم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنم که به ملک نیستی سلطانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سامانم اگر چه بی سامانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیری ست چو آسیا درین کهنه سرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگردانم که از چه سرگردانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنم که به ملک نیستی سلطانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با سامانم اگر چه بی سامانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیری ست چو آسیا درین کهنه سرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرگردانم که از چه سرگردانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

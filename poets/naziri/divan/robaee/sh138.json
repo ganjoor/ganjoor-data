@@ -1,0 +1,58 @@
+{
+  "Id": 123704,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۳۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۳۸",
+  "FullUrl": "/naziri/divan/robaee/sh138",
+  "RhymeLetters": "استهای",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف شخصیتی می‌پردازد که زخمی در تن خویش دارد و در عین حال زیبایی‌هایی در شخصیت یا ظاهرش وجود دارد. او به مانند شعله‌ای آتشین است که با وجود آسیب‌پذیری، انرژی و حرارت بیشتری از خود بروز می‌دهد و می‌تواند خطرناک باشد. به نوعی، در کنار زیبایی و جذابیت، نشانه‌هایی از شدت و آسیب نیز در او وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استهای",
+      "PlainText": "هر سو به تن از زخم مهی کاسته ای\r\nیا صفحه گل از رقم آراسته ای\r\nچون شعله آتشین که از خوردن چوب\r\nسرکش تر و خانه سوزتر خاسته ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر سو به تن از زخم مهی کاسته‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا صفحهٔ گل از رقم آراسته‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شعلهٔ آتشین که از خوردنِ چوب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرکش‌تر و خانه‌سوزتر خاسته‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر سو به تن از زخم مهی کاسته‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا صفحهٔ گل از رقم آراسته‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون شعلهٔ آتشین که از خوردنِ چوب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرکش‌تر و خانه‌سوزتر خاسته‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

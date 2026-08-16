@@ -1,0 +1,58 @@
+{
+  "Id": 75764,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/nezari/robnez/sh17",
+  "RhymeLetters": "اکبسوخت",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر بیان شده است که از وقوع یک حادثه‌ بزرگ و وحشتناک، تمامی سیارات و دنیا به آتش کشیده شدند. آب به خون تبدیل گشت و حتی خاک هم در آتش سوخت. به قدری این صاعقه مرموز و ترسناک بوده که هیچ چیزی از آن نمانده و همه چیز به فنا رفته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکبسوخت",
+      "PlainText": "زین واقعه سیاره و افلاک بسوخت\r\nزین حادثه آب خون شد و خاک بسوخت\r\nاز هیبت این صاعقه یک ذره نماند\r\nاز خشک و تر وجود الاک بسوخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین واقعه سیاره و افلاک بسوخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین حادثه آب خون شد و خاک بسوخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هیبت این صاعقه یک ذره نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خشک و تر وجود، الاک بسوخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین واقعه سیاره و افلاک بسوخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین حادثه آب خون شد و خاک بسوخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هیبت این صاعقه یک ذره نماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خشک و تر وجود، الاک بسوخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

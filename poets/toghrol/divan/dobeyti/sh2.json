@@ -1,0 +1,58 @@
+{
+  "Id": 120012,
+  "CatId": 2766,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "طغرل احراری » دیوان اشعار » دوبیتی‌ها » شمارهٔ ۲",
+  "FullUrl": "/toghrol/divan/dobeyti/sh2",
+  "RhymeLetters": "اغنیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به ناتوانی و اضطراب در زندگی اشاره دارد. بیان می‌کند که در این باغ هیچ‌کس آرامش ندارد و لاله‌ای وجود ندارد که از سوز درد خالی باشد. همچنین به نکته‌استفاده از قدرت طغرل در کشتن تیهوها اشاره می‌کند و می‌گوید که پرندگان دیگر نیز در این وضعیت صید زاغ نشده‌اند، به نوعی بازتاب‌دهندهٔ وضعیت ناگوار و وحشت در محیط است.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغنیست",
+      "PlainText": "یک دل آسوده در این باغ نیست\r\nلاله ای نبود که او را داغ نیست\r\nقتل تیهو بس که کار طغرل است\r\nصلصل و دراج صید زاغ نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک دل آسوده در این باغ نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاله‌ای نبود که او را داغ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقتل تیهو بس که کار طغرل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصلصل و دراج صید زاغ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک دل آسوده در این باغ نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لاله‌ای نبود که او را داغ نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قتل تیهو بس که کار طغرل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صلصل و دراج صید زاغ نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 75810,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۶۳",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۶۳",
+  "FullUrl": "/nezari/robnez/sh63",
+  "RhymeLetters": "هلاست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به انتقادهایی که به او می‌شود اشاره می‌کند و بیان می‌کند که دل اهل دل به خاطر نااهلان گران است. او همچنین می‌گوید که وقتی شاهد واقعیات و فضائل بیرون آورده می‌شود، روشن شدن حقیقت کار سختی نیست و به راحتی می‌توان آن را تشخیص داد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هلاست",
+      "PlainText": "تشنیع که می زنند بر من چهار است\r\nبار دل اهل دل هم از نااهل است\r\nچون بوته ز کارگاه برون آرند\r\nروشن بنماید محک زر سهل است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتشنیع که می زنند بر من چهار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبار دل اهل دل هم از نااهل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بوته ز کارگاه برون آرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروشن بنماید محک زر سهل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تشنیع که می زنند بر من چهار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بار دل اهل دل هم از نااهل است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون بوته ز کارگاه برون آرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روشن بنماید محک زر سهل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

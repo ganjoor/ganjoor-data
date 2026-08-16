@@ -1,0 +1,58 @@
+{
+  "Id": 90713,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/kalim/divan/robaee/sh2",
+  "RhymeLetters": "اهافتد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به راز و مشکل‌های زندگی اشاره می‌کند. او می‌گوید اگر کسی از دو جنبه‌ی اصلی زندگی آگاه شود، در نهایت به راه درست دست می‌یابد. اما اگر کسی در تنگنای زندگی قرار گیرد، همانند شناوری است که در چاه افتاده و از این وضعیت رنج می‌برد. دهش به رازهای زندگی و درک مسیر درست می‌تواند به رهایی از مشکلات کمک کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهافتد",
+      "PlainText": "از راز دو کون گر کس آگاه افتد\r\nچون جاده سر براه هر راه افتد\r\nبیچاره به تنگنای دولت چه کند\r\nمانند شناوری که در چاه افتد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز راز دو کون گر کس آگاه افتد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون جاده سر براه هر راه افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیچاره به تنگنای دولت چه کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانند شناوری که در چاه افتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از راز دو کون گر کس آگاه افتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون جاده سر براه هر راه افتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیچاره به تنگنای دولت چه کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانند شناوری که در چاه افتد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

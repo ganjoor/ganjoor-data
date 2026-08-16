@@ -1,0 +1,58 @@
+{
+  "Id": 101818,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/salim/divan/robaee/sh27",
+  "RhymeLetters": "یرینیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به نوعی به ضعف و سستی انسان اشاره دارد. شاعر می‌گوید که این ضعف ناشی از پیری نیست بلکه به خاطر گرسنگی است، و اگر کسی از روی سیری سست می‌شود، نشان‌دهنده کمبود انگیزه و حرکت است. همچنین، او به تصویری از اسبی که در نقاشی‌ها به تصویر کشیده شده اشاره می‌کند و می‌گوید اگر این اسب بی‌حرکت باشد، دلیل بر بی‌ارادگی یا بی‌حرکتی‌اش نیست. در کل، شاعر به این نکته توجه دارد که اوضاع روحی و انگیزه انسان تأثیر زیادی بر حرکت و زندگی او دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرینیست",
+      "PlainText": "ای خواجه ترا ضعیفی از پیری نیست\r\nاز گرسنگی ست سستی از سیری نیست\r\nاسبی که کشند بر ورق نقاشان\r\nگر بی حرکت بود ز جوگیری نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه ترا ضعیفی از پیری نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گرسنگی ست سستی، از سیری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسبی که کشند بر ورق نقاشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بی حرکت بود ز جوگیری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه ترا ضعیفی از پیری نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از گرسنگی ست سستی، از سیری نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اسبی که کشند بر ورق نقاشان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر بی حرکت بود ز جوگیری نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

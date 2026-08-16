@@ -1,0 +1,57 @@
+{
+  "Id": 65961,
+  "CatId": 290,
+  "Title": "بخش ۱ - آغاز",
+  "FullTitle": "جامی » هفت اورنگ » سبحة‌الابرار » بخش ۱ - آغاز",
+  "FullUrl": "/jami/7ourang/7-4/sh1",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از خداوند شکرگزاری می‌کند که پس از دوره‌ای سخت و پر چالش، بالاخره به آرامش و شکوفایی رسیده‌اند. او به سختی‌های زندگی اشاره می‌کند و می‌گوید که با وجود این مشکلات، در نهایت به حقیقتی عمیق و ارزشمند دست یافته‌اند.",
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتیم",
+      "PlainText": "المنة لله که به خون گر خفتیم\r\nیکچند چو غنچه عاقبت بشکفتیم\r\nاز کشمکش دهر بسی آشفتیم\r\nکز گوهر راز سبحه واری سفتیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنة لله که به خون گر خفتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکچند چو غنچه عاقبت بشکفتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز کشمکش دهر بسی آشفتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز گوهر راز سبحه واری سفتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "المنة لله که به خون گر خفتیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یکچند چو غنچه عاقبت بشکفتیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از کشمکش دهر بسی آشفتیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز گوهر راز سبحه واری سفتیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

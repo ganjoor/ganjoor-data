@@ -1,0 +1,58 @@
+{
+  "Id": 123688,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۲۲",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۲۲",
+  "FullUrl": "/naziri/divan/robaee/sh122",
+  "RhymeLetters": "ابرچین",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به زیبایی‌های طبیعت و بهار اشاره می‌کند. او از چمن و گل‌ها صحبت می‌کند و به بلبل اشاره می‌کند که با آوازش دل‌فریبی می‌کند. به نظر می‌رسد که شاعر از زیبایی‌های بهاری و گل‌ها لذت می‌برد و دعوت می‌کند از این نعمت‌ها بهره‌برداری شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابرچین",
+      "PlainText": "خوش رست چمن رشته خارا برچین\r\nخوش یافت بهار پر ز دیبا برچین\r\nبلبل به خراش سینه آوا بشکست\r\nاز سایه گل خرده مینا برچین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش رست چمن رشته خارا برچین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش یافت بهار پر ز دیبا برچین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل به خراش سینه آوا بشکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سایه گل خرده مینا برچین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش رست چمن رشته خارا برچین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوش یافت بهار پر ز دیبا برچین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بلبل به خراش سینه آوا بشکست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سایه گل خرده مینا برچین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50889,
+  "CatId": 1827,
+  "Title": "رباعی شمارهٔ ۸۹",
+  "FullTitle": "باباافضل کاشانی » رباعیات » رباعی شمارهٔ ۸۹",
+  "FullUrl": "/babaafzal/robba/sh89",
+  "RhymeLetters": "گاهاید",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: به خانه برو چون شاه ناگهان می‌آید. او به نزد فرد آگاه می‌آید. وجود خود را از هر چیز خالی کن، تا شاه پاک و خالص به درون تو بیاید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "گاهاید",
+      "PlainText": "رو خانه برو که شاه ناگاه آید\r\nناگاه به نزد مرد آگاه آید\r\nخرگاه وجود را از خود خالی کن\r\nچون پاک شود شاه به خرگاه آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرو خانه برو، که شاه ناگاه آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناگاه به نزد مرد آگاه آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرگاه وجود را از خود خالی کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون پاک شود، شاه به خرگاه آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رو خانه برو، که شاه ناگاه آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناگاه به نزد مرد آگاه آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرگاه وجود را از خود خالی کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون پاک شود، شاه به خرگاه آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

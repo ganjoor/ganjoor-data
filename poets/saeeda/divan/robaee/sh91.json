@@ -1,0 +1,58 @@
+{
+  "Id": 107991,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/saeeda/divan/robaee/sh91",
+  "RhymeLetters": "ازیاستوبس",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که حق و حقیقت تنها در نمازی بودن و عرفان در دلنوازی خلاصه نمی‌شود. به این معنی که همه این مفاهیم در نهایت بازی‌هایی هستند و عرفان واقعی از وابستگی به امور دنیوی و غیره بی‌نیاز است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازیاستوبس",
+      "PlainText": "گویند که حق یار نمازی است و بس\r\nعرفان وجود دلنوازی است و بس\r\nبالله که اینها همه بازی است و بس\r\nعرفان از غیر بی نیازی است و بس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند که حق یار نمازی است و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرفان وجود دلنوازی است و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبالله که اینها همه بازی است و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرفان از غیر بی نیازی است و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند که حق یار نمازی است و بس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عرفان وجود دلنوازی است و بس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالله که اینها همه بازی است و بس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عرفان از غیر بی نیازی است و بس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

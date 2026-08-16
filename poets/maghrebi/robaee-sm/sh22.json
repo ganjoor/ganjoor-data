@@ -1,0 +1,58 @@
+{
+  "Id": 84233,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/maghrebi/robaee-sm/sh22",
+  "RhymeLetters": "ستبتو",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: این شعر به عشق و وابستگی عمیق انسان‌ها به معشوق اشاره دارد. شاعر به مستی ناشی از عشق اشاره می‌کند و بیان می‌کند که همه ما در وجود معشوق غرق هستیم. تمام احساسات و وجود ما به معشوق وابسته است و این وابستگی باعث شده تا به سوی او دست یازیم و به عشق او گردن نهیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستبهتو",
+      "PlainText": "تو مست خودی و ما همه مست به تو\r\nتو هست خودی و ما همه هست به تو\r\nتا نسبت ما به تو بود از همه روی\r\nدادیم ازین سبب همه دست به تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو مست خودی و ما همه مست به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو هست خودی و ما همه هست به تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نسبت ما به تو بود از همه روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدادیم ازین سبب همه دست به تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو مست خودی و ما همه مست به تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو هست خودی و ما همه هست به تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا نسبت ما به تو بود از همه روی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دادیم ازین سبب همه دست به تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

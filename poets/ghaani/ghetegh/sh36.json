@@ -1,0 +1,58 @@
+{
+  "Id": 45676,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۳۶",
+  "FullUrl": "/ghaani/ghetegh/sh36",
+  "RhymeLetters": "رگردد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به طبیعت بخیل‌ها اشاره می‌کند و می‌گوید که دل بخیل مانند طلاست، اما نصیحت و پند مانند آتش است. نگران نباشید که طلا از آتش سیاه‌تر نمی‌شود. اما از حرص و طمع مالی بخیلان صحبت کرده و به ترک عاقبت آن‌ها هشدار می‌دهد؛ زیرا باید از روزی که بخت به سویشان برنگردد بترسید.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رگردد",
+      "PlainText": "بخیل چون زر قلبست و پند چون آتش\r\nنه زر قلب ز آتش سیاه ترگردد\r\nز حرص مال بخیلا مگو به ترک مآل\r\nاز آن بترس که روزیت بخت برگردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخیل چون زر قلبست و پند چون آتش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه زرّ قلب ز آتش سیاه‌ترگردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز حرص مال بخیلا مگو به ترک مآل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آن بترس که روزیت بخت برگردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بخیل چون زر قلبست و پند چون آتش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه زرّ قلب ز آتش سیاه‌ترگردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز حرص مال بخیلا مگو به ترک مآل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از آن بترس که روزیت بخت برگردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

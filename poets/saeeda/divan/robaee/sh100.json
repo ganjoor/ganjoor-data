@@ -1,0 +1,58 @@
+{
+  "Id": 108000,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/saeeda/divan/robaee/sh100",
+  "RhymeLetters": "منگل",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف زیبایی‌های طبیعی می‌پردازد. او به تزیینات و زیبایی‌های گل‌ها اشاره می‌کند و می‌گوید که زمانی که گل را با لباس ناز پوشیدند، رنگ دامنش به زمین ریخت. همچنین، درباره‌ی موی زیبای گل صحبت می‌کند و آن را به موری تشبیه می‌کند که به خرمن گل تبدیل شده است. این اشعار به زیبایی و لطافت گل اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منگل",
+      "PlainText": "تا کرد قبای ناز را بر تن گل\r\nدر پایش ریخت رنگ از دامن گل\r\nآن موی میان بر آن سرین دانی چیست\r\nموری است که گشته صاحب خرمن گل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کرد قبای ناز را بر تن گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پایش ریخت رنگ از دامن گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن موی میان بر آن سرین دانی چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموری است که گشته صاحب خرمن گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کرد قبای ناز را بر تن گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پایش ریخت رنگ از دامن گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن موی میان بر آن سرین دانی چیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موری است که گشته صاحب خرمن گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

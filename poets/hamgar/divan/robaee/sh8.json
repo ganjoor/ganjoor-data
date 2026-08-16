@@ -1,0 +1,58 @@
+{
+  "Id": 120724,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/hamgar/divan/robaee/sh8",
+  "RhymeLetters": "دترا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر از سرو و غنچه صحبت می‌کند و به زیبایی و سرزندگی آن‌ها اشاره می‌کند. او به سرو می‌گوید که تو در چمن قد کشیده‌ای و به غنچه‌ای اشاره دارد که از پرده بیرون آمده است. او همچنین به رابطه خود با گل و سرو اشاره می‌کند و از زیبایی و طراوت آن‌ها تمجید می‌کند. این شعر حس زیبایی‌شناسی و لطافت در طبیعت را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دترا",
+      "PlainText": "ای سرو که در چمن بر آورد ترا\r\nوی غنچه که از پرده برون کرد ترا\r\nبا من چو گل و سرو نیی تازه و راست\r\nای سرو گلندام که پرود ترا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سرو که در چمن بر آورد ترا؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی غنچه که از پرده برون کرد ترا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا من چو گل و سرو نئی تازه و راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای سرو گلندام که پرود ترا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سرو که در چمن بر آورد ترا؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی غنچه که از پرده برون کرد ترا؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با من چو گل و سرو نئی تازه و راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای سرو گلندام که پرود ترا؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

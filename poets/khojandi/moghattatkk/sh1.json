@@ -1,0 +1,58 @@
+{
+  "Id": 76374,
+  "CatId": 2094,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "کمال خجندی » مقطعات » شمارهٔ ۱",
+  "FullUrl": "/khojandi/moghattatkk/sh1",
+  "RhymeLetters": "عرا",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به صوفی‌ای اشاره می‌کند که باطن خود را نمایان کرده و راه افراد پارسا را نشان می‌دهد. او از فقر به عنوان عبادت یاد کرده و درخواست می‌کند که اگر شخص صوفی به حقیقت فقر آگاه است، از او امیدی نداشته باشد و طمع را از دل خود برکند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "عرا",
+      "PlainText": "الا ای صوفی مکشوف باطن\r\nکه بنمایی ره ارباب ورع را\r\nبباطن صورت فقر دعا گوی\r\nچو بینی قطع کن از من طمع را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالا ای صوفی مکشوف باطن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بنمایی ره ارباب ورع را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبباطن صورت فقر دعا گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بینی قطع کن از من طمع را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "الا ای صوفی مکشوف باطن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بنمایی ره ارباب ورع را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بباطن صورت فقر دعا گوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو بینی قطع کن از من طمع را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

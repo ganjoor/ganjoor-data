@@ -1,0 +1,58 @@
+{
+  "Id": 70192,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴۹",
+  "FullUrl": "/amir/robam/sh149",
+  "RhymeLetters": "راو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از محبوبی همچون بنفشه صحبت می‌کند و بیان می‌کند که محبت و دوستیشان شایسته اوست. همچنین اشاره می‌کند که خود را فرمانده عالم می‌داند و در عین حال از او پیروی می‌کند. این ابیات نشان‌دهنده عشق و ارادت به معشوق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راو",
+      "PlainText": "سروی که بنفشه برگل آمد بر او\r\nاقبال رسانید به گردون سر او\r\nماییم به مهر و دوستی در خور او\r\nفرمانده عالمیم و فرمانبر او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسروی‌که بنفشه برگل آمد بر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاقبال رسانید به گردون سر او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماییم به مهر و دوستی در خور او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرماندهٔ عالمیم و فرمانبر او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سروی‌که بنفشه برگل آمد بر او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اقبال رسانید به گردون سر او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماییم به مهر و دوستی در خور او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرماندهٔ عالمیم و فرمانبر او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

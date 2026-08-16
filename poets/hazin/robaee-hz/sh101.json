@@ -1,0 +1,58 @@
+{
+  "Id": 82989,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۰۱",
+  "FullUrl": "/hazin/robaee-hz/sh101",
+  "RhymeLetters": "ناچهکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بیان بی‌فایده بودن تحصیل علم نادرست و بی‌محتوا می‌پردازد. او از شخص عاقل می‌خواهد که در دنیای پیچیده و پر از علم نادرست چه اقدامی کند. همچنین، اشاره می‌کند که اگر کسی می‌خواهد عمرش با خوشی بگذرد، بهتر است پولی به دست آورد. در نهایت، به نیاز به عشق و محبت در زندگی اشاره می‌کند و می‌پرسد معشوقه‌اش در چنین شرایطی چه باید بکند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ناچهکند",
+      "PlainText": "عاقل تحصیل علم بیجا چه کند\r\nدر خرکده زمانه دانا چه کند\r\nخواهی که به عیش بگذرد زر به کف آر\r\nمعشوقه نان قلْت و قلنا چه کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقل تحصیل علم بیجا چه کند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خرکده زمانه، دانا چه کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی که به عیش بگذرد، زر به کف آر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعشوقهٔ نان، قُلْتُ و قُلنا چه کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقل تحصیل علم بیجا چه کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خرکده زمانه، دانا چه کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهی که به عیش بگذرد، زر به کف آر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معشوقهٔ نان، قُلْتُ و قُلنا چه کند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

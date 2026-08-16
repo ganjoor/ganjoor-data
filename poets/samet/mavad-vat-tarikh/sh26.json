@@ -1,0 +1,77 @@
+{
+  "Id": 125561,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۲۶",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۲۶",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh26",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر اهمیت بخشش و سهم دادن است. شاعر می‌گوید اگر تو نیکوکاری نکنید و از خوبی‌های خود به دیگران ندهید، در مقابل چیزی دریافت نخواهید کرد. در واقع، اگر خودت خوبی نکنید، دیگران نیز چیزی به شما نخواهند داد. این مضمون به نوعی نشان‌دهنده تعاملات انسانی و تاثیر عمل خوب بر روابط اجتماعی است.",
+  "Sections": [
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رندهند",
+      "PlainText": "تا لعل نبخشی به تو گوهر ندهند\r\nگر تو ندهی سیم تو را زر ندهند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا لعل نبخشی به تو گوهر ندهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر تو ندهی سیم تو را زر ندهند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "بنا صفت ار بکار خشتی ننهی\r\nدر دست تو بازخشت دیگر ندهند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنا صفت ار بکار خشتی ننهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دست تو بازخشت دیگر ندهند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 97,
+      "Number": 97,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رندهند",
+      "PlainText": "تا لعل نبخشی به تو گوهر ندهند\r\nگر تو ندهی سیم تو را زر ندهند\r\nبنا صفت ار بکار خشتی ننهی\r\nدر دست تو بازخشت دیگر ندهند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا لعل نبخشی به تو گوهر ندهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر تو ندهی سیم تو را زر ندهند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنا صفت ار بکار خشتی ننهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دست تو بازخشت دیگر ندهند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا لعل نبخشی به تو گوهر ندهند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 97,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر تو ندهی سیم تو را زر ندهند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 97,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنا صفت ار بکار خشتی ننهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 97,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دست تو بازخشت دیگر ندهند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 97,
+      "SectionIndex2": 32
+    }
+  ]
+}

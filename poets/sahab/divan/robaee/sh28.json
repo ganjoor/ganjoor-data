@@ -1,0 +1,58 @@
+{
+  "Id": 112352,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/sahab/divan/robaee/sh28",
+  "RhymeLetters": "امنگل",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و لطافت گل و چمن اشاره دارد و از حسن و زیبایی معشوق سخن می‌گوید. شاعر از رقابت و حسادت در عشق دم می‌زند و بیان می‌کند که حتی در دامن پاک معشوق، رقیبی وجود دارد که مانند خار به زیبایی‌ها آسیب می‌زند. ",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امنگل",
+      "PlainText": "ای در چمن حسن رخت خرمن گل\r\nخط گر درخت چو سبزه پیرامن گل\r\nافسوس که در دامن پاک تو رقیب\r\nآویخته همچو خار بر دامن گل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای در چمن حسن رخت خرمن گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخط گر درخت چو سبزه پیرامن گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که در دامن پاک تو رقیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآویخته همچو خار بر دامن گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای در چمن حسن رخت خرمن گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خط گر درخت چو سبزه پیرامن گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افسوس که در دامن پاک تو رقیب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آویخته همچو خار بر دامن گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

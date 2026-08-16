@@ -1,0 +1,72 @@
+{
+  "Id": 51515,
+  "CatId": 1833,
+  "Title": "شمارهٔ ۱۲۶ - نسب‌نامه بهار",
+  "FullTitle": "ملک‌الشعرا بهار » قطعات » شمارهٔ ۱۲۶ - نسب‌نامه بهار",
+  "FullUrl": "/bahar/ghetebk/sh126",
+  "RhymeLetters": "کم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از افتخار نسل خود سخن می‌گوید و به جد و پدربزرگش اشاره می‌کند. او می‌گوید که هیچ خانواده‌ای در جهان به عظمت و احترام خانواده حیدر کرار (امام علی) نیست. شاعر به مدح و احترام به این خانواده می‌پردازد و خود را به عنوان بخشی از این نسل سرافراز معرفی می‌کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کم",
+      "PlainText": "منت خدای را که من از نسل برمکم\r\nبتوان شمرد جد و پدر تا فرامکم\r\nجز خاندان حیدر کرار در جهان\r\nیک خانواده نیست به تعظیم  هم تکم\r\nدر ملک خویش و در همه آفاق  مشتهر\r\nبر خانواده خود و بر خود مبارکم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنت خدای را که من از نسل برمکم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتوان شمرد جد و پدر تا فرامکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز خاندان حیدر کرار در جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک خانواده نیست به تعظیم‌، هم تکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ملک خویش و در همه آفاق‌، مشتهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خانوادهٔ خود و بر خود مبارکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منت خدای را که من از نسل برمکم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بتوان شمرد جد و پدر تا فرامکم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز خاندان حیدر کرار در جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک خانواده نیست به تعظیم‌، هم تکم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در ملک خویش و در همه آفاق‌، مشتهر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر خانوادهٔ خود و بر خود مبارکم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

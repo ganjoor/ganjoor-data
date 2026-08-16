@@ -1,0 +1,49 @@
+{
+  "Id": 52030,
+  "CatId": 1849,
+  "Title": "فقرۀ ۳۸",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۳۸",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh36",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت درباره این است که از کسی که شرم ندارد، چیزی نخواهید. اگر به کمک یا وام نیاز دارید، از دوستان خود درخواست کنید، زیرا درخواست از افراد بی‌شرم نتیجه‌ای ندارد.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اه",
+      "PlainText": "اگر وام خواهی ز یاران بخواه\r\nز بی شرم زر خواستن نیست راه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر وام خواهی ز یاران بخواه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بی‌شرم زر خواستن نیست راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "کسی که او را شرم نیست ازش خواسته مگیر.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "اگر وام خواهی ز یاران بخواه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "ز بی‌شرم زر خواستن نیست راه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

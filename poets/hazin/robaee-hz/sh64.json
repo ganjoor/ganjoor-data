@@ -1,0 +1,58 @@
+{
+  "Id": 82952,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/hazin/robaee-hz/sh64",
+  "RhymeLetters": "ارکماست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر به نقص و کمبود عشق و وفاداری اشاره می‌کند. او می‌گوید دلبرهای زیادی وجود دارند، اما نگهدار و یار وفادار بسیار کم است. در نهایت، او به این نکته می‌پردازد که حتی در جستجوی یار، وفاداری نادر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارکماست",
+      "PlainText": "دلبر بسیار و دل نگهدار کم است\r\nدلدار کم و چه کم که بسیار کم است\r\nگویند به عالم تو چرا بی یاری\r\nیاران چه کنم یار وفادار کم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلبر بسیار و دل نگهدار کم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلدار کم و چه کم که بسیار کم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند به عالم تو چرا بی یاری؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاران چه کنم؟ یار وفادار کم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلبر بسیار و دل نگهدار کم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلدار کم و چه کم که بسیار کم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویند به عالم تو چرا بی یاری؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یاران چه کنم؟ یار وفادار کم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1254,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۳۶",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۳۶",
+  "FullUrl": "/khayyam/robaee/sh136",
+  "RhymeLetters": "ادمکن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "شاعر در این رباعی می‌گوید غصه گذشته‌ها و فرصت‌هایی را که از دست داده‌ای‌، مخور و نگران فردا و اتفاقات آینده مباش‌، درباره آینده هیچ نمی‌دانی؛ پس گذشته و آینده را رها کن و امروز و الان را دریاب و خوش باش‌، زیرا فکر گذشته و آینده جز غم و نگرانی چیزی ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمکن",
+      "PlainText": "از دی که گذشت هیچ از او یاد مکن\r\nفردا که نیامده ست فریاد مکن\r\nبر نامده و گذشته بنیاد مکن\r\nحالی خوش باش و عمر بر باد مکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دی که گذشت هیچ از او یاد مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا که نیامده‌ست فریاد مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر نامده و گذشته بنیاد مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحالی خوش باش و عمر بر باد مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دی که گذشت هیچ از او یاد مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فردا که نیامده‌ست فریاد مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر نامده و گذشته بنیاد مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حالی خوش باش و عمر بر باد مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

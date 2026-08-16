@@ -1,0 +1,58 @@
+{
+  "Id": 45769,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۰۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۰۷",
+  "FullUrl": "/ghaani/ghetegh/sh107",
+  "RhymeLetters": "ن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر ارزش و زیبایی گل است، که هر جا که باشد عزیز و دوست‌داشتنی است؛ چه در باغ و چه در باغچه. در مقابل، خار هر جا که باشد بی‌ارزش و خوار است، چه در باغ و چه در مکان‌های دیگر. به طور کلی، این شعر به تفاوت جایگاه گل و خار اشاره دارد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "گل عزیزست هرکجا روید\r\nخواه در راغ و خواه درگلشن\r\nخار خوارست هرکجا باشد\r\nخواه در باغ و خواه درگلخن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل عزیزست هرکجا روید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواه در راغ و خواه درگلشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخار خوارست هرکجا باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواه در باغ و خواه درگلخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل عزیزست هرکجا روید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواه در راغ و خواه درگلشن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خار خوارست هرکجا باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خواه در باغ و خواه درگلخن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

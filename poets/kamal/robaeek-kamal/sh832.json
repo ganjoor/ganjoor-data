@@ -1,0 +1,58 @@
+{
+  "Id": 72569,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۸۳۲",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۸۳۲",
+  "FullUrl": "/kamal/robaeek-kamal/sh832",
+  "RhymeLetters": "دانی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر احساس ناپایداری در یک رابطه هستند. شاعر از کسی سخن می‌گوید که گاه او را می‌خواند و گاه طردش می‌کند. این رفتار متناقض باعث سردرگمی و ناتوانی شاعر شده است. او از طرف مقابل می‌پرسد که اگر نمی‌خواهد او را بخواند، چرا این کار را می‌کند؟ و به نوعی به ناتوانی خود در ترک این وضعیت اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دانی",
+      "PlainText": "گه می خوانی مرا و گه می رانی\r\nعاجز کردی مرا ز سرگردانی\r\nچون می نبری مرا چرا می خوانی \r\nکز پای من آمدن نیاید دانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه می خوانی مرا و گه می رانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاجز کردی مرا ز سرگردانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون می نبری مرا چرا می خوانی ؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز پای من آمدن نیاید دانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه می خوانی مرا و گه می رانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عاجز کردی مرا ز سرگردانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون می نبری مرا چرا می خوانی ؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز پای من آمدن نیاید دانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

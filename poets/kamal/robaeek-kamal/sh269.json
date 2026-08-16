@@ -1,0 +1,58 @@
+{
+  "Id": 72006,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۲۶۹",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۲۶۹",
+  "FullUrl": "/kamal/robaeek-kamal/sh269",
+  "RhymeLetters": "مخورد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر ابراز می‌کند که دلش به خاطر غم‌های دنیا دچار اندوه شده است. هر جا که غم وجود دارد، همه چیز خراب می‌شود. او معتقد است که شاید حالا که دیگر کسی بی‌غم نمانده، بتواند لحظه‌ای شادی را تجربه کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مخورد",
+      "PlainText": "غمگین دل من غم همه عالم خورد\r\nهر کجا که غمی دید همه در هم خورد\r\nناخورده غنی نماند شاید که کنون\r\nشادی دلم خورم که چندین غم خورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمگین دل من غم همه عالم خورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کجا که غمی دید همه در هم خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناخورده غنی نماند شاید که کنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشادیّ دلم خورم که چندین غم خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غمگین دل من غم همه عالم خورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر کجا که غمی دید همه در هم خورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناخورده غنی نماند شاید که کنون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شادیّ دلم خورم که چندین غم خورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

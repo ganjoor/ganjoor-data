@@ -1,0 +1,58 @@
+{
+  "Id": 45345,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۲",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۲",
+  "FullUrl": "/helali/robaeeh/sh2",
+  "RhymeLetters": "ودمهمهرا",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به تجربه‌های خود اشاره می‌کند و می‌گوید که در گذشته، دوستان و یاران خود را آزموده و از جفای آنان آگاه شده است. او به دیگران هشدار می‌دهد که به وفای کسی امید نبندند، زیرا خودش این مساله را مشاهده و احساس کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ودمهمهرا",
+      "PlainText": "یاران کهن که بنده بودم همه را\r\nدر بند جفای خود شنودم همه را\r\nزنهار از کس وفا مجویید که من\r\nدیدم همه را و آزمودم همه را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاران کهن، که بنده بودم همه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بند جفای خود شنودم همه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار! از کس وفا مجویید که من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدم همه را و آزمودم همه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاران کهن، که بنده بودم همه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بند جفای خود شنودم همه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنهار! از کس وفا مجویید که من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیدم همه را و آزمودم همه را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 107997,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۹۷",
+  "FullUrl": "/saeeda/divan/robaee/sh97",
+  "RhymeLetters": "ردل",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر تا صبح کناری جانش نشسته و از دلش سخن می‌گوید. دیشب او احساسی پنهان داشته و حال پس از گذشت چند روز می‌داند که همواره دور و نزدیکیش را احساس کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردل",
+      "PlainText": "تا صبح نشستم من و جان بر در دل\r\nدیشب که نهان بود ز من پیکر دل\r\nمن دور و تو در دلم خدا می داند\r\nتا روز چها گذشته است از سر دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا صبح نشستم من و جان بر در دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیشب که نهان بود ز من پیکر دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن دور و تو در دلم خدا می داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا روز چها گذشته است از سر دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا صبح نشستم من و جان بر در دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیشب که نهان بود ز من پیکر دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من دور و تو در دلم خدا می داند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا روز چها گذشته است از سر دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

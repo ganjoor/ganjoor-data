@@ -1,0 +1,58 @@
+{
+  "Id": 70111,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۶۸",
+  "FullUrl": "/amir/robam/sh68",
+  "RhymeLetters": "سنمییارمزد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ستایش عالم و دانشمندی می‌پردازد که با علم و تدبیر خود در کشور روم، نظم و آرامش را برقرار کرده است. او از قدرت خود برای مقابله با کافران و مخالفان استفاده می‌کند و به طور مداوم از قیاس‌ و استدلال‌های دینی، به خصوص در مورد عیسی مریم، بهره می‌برد. این عالم به هیچ یک از کافران اجازه نمی‌دهد که سخنی بگویند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مزد",
+      "PlainText": "سلطان علم عدل به هر عالم زد\r\nدرکشور روم عالمی بر هم زد\r\nهر دم ز قیاس عیسی مریم زد\r\nنگذاشت که نیز هیچ کافر دم زد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلطان علم عدل به هر عالم زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرکشور روم عالمی بر هم زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم ز قیاس عیسی مریم زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگذاشت که نیز هیچ کافر دم زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سلطان علم عدل به هر عالم زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درکشور روم عالمی بر هم زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر دم ز قیاس عیسی مریم زد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نگذاشت که نیز هیچ کافر دم زد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

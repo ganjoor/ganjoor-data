@@ -1,0 +1,58 @@
+{
+  "Id": 74598,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۵۷",
+  "FullUrl": "/ghodsi/robghm/sh57",
+  "RhymeLetters": "رت",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت گل و لاله اشاره دارد و از عشق و احساسات عمیق صحبت می‌کند. شاعر از گل می‌پرسد که آیا از وضعیت خود آگاه است یا نه و به لاله می‌گوید که درد عشق را احساس کند. همچنین، به سرو اشاره می‌کند و آزادی آن را به تصویر می‌کشد که مانند قمری بر سرت nest کرده است. در کل، شعر به ارتباط عواطف و زیبایی‌های طبیعی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رت",
+      "PlainText": "ای گل که چنین کرد ز خود بی خبرت\r\nوی لاله ز عشق کیست داغ جگرت\r\nای سرو تو هم گر به چمن آزادی\r\nچون می نهد آشیانه قمری به سرت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گل، که چنین کرد ز خود بی خبرت؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی لاله ز عشق کیست داغ جگرت؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سرو، تو هم گر به چمن آزادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون می‌نهد آشیانه قمری به سرت؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای گل، که چنین کرد ز خود بی خبرت؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی لاله ز عشق کیست داغ جگرت؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای سرو، تو هم گر به چمن آزادی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون می‌نهد آشیانه قمری به سرت؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

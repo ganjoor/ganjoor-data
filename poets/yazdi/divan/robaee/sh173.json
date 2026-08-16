@@ -1,0 +1,58 @@
+{
+  "Id": 111720,
+  "CatId": 2631,
+  "Title": "شمارهٔ ۱۷۳",
+  "FullTitle": "فرخی یزدی » دیوان اشعار » رباعیات » شمارهٔ ۱۷۳",
+  "FullUrl": "/yazdi/divan/robaee/sh173",
+  "RhymeLetters": "وشکند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت به توصیف حالتی از ملت می‌پردازد که وقتی در حال شادی یا مستی است، به سخنان دیگران توجه نمی‌کند و نه عیوب خود را به یاد می‌آورد و نه خوبی‌ها و بدی‌هایی را که دیده، در خاطرش می‌ماند. به نوعی، این حالت باعث نادیده گرفتن واقعیت‌ها و درس‌هایی می‌شود که می‌توان از آن‌ها آموخت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشکند",
+      "PlainText": "ملت چو شراب بی خودی نوش کند\r\nیا پند معاندین خود گوش کند\r\nهر عیب و هنر دید نمی آرد یاد\r\nهر خوب و بدی دید فراموش کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملت چو شراب بی خودی نوش کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا پند معاندین خود گوش کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر عیب و هنر دید نمی آرد یاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر خوب و بدی دید فراموش کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ملت چو شراب بی خودی نوش کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا پند معاندین خود گوش کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر عیب و هنر دید نمی آرد یاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر خوب و بدی دید فراموش کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

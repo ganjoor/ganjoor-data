@@ -1,0 +1,58 @@
+{
+  "Id": 50163,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۰۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۰۳",
+  "FullUrl": "/mahsati/robmah/sh103",
+  "RhymeLetters": "از",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، لاله‌ای با زیبایی و ناز در باغ سرو توصیف می‌شود. این لاله از قد و قامت خود سخن می‌گوید و باد صبا که وصف او را می‌داند، به ذکر زیبایی‌اش می‌پردازد. همچنین، آوازه قامت او چنان مشهور است که به نماز خواندن می‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "از",
+      "PlainText": "با لاله رخان باغ سرو از سر ناز\r\nمی کرد ز شرح قد خود قصه دراز\r\nاز باد صبا چو وصف قدت بشنید\r\nز آوازه قامت تو آمد به نماز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا لاله رخان باغ سرو از سر ناز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌کرد ز شرح قد خود قصه دراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز باد صبا چو وصف قدت بشنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آوازهٔ قامت تو آمد به نماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با لاله رخان باغ سرو از سر ناز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌کرد ز شرح قد خود قصه دراز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از باد صبا چو وصف قدت بشنید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز آوازهٔ قامت تو آمد به نماز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

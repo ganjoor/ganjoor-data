@@ -1,0 +1,58 @@
+{
+  "Id": 39234,
+  "CatId": 1141,
+  "Title": "بخش ۲۹ -  رباعی",
+  "FullTitle": "سلمان ساوجی » جمشید و خورشید » بخش ۲۹ -  رباعی",
+  "FullUrl": "/salman/jamkhor/sh29",
+  "RhymeLetters": "اید",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: این متن به تأکید بر این نکته می‌پردازد که دولت و نقش آن در جامعه ممکن است به گونه‌ای نباشد که افراد انتظار دارند. به عبارت دیگر، آنچه دولت انجام می‌دهد ممکن است با آنچه که مردم نیاز دارند یا انتظار دارند، همخوانی نداشته باشد. بنابراین، بهتر است به آنچه که واقعاً رخ می‌دهد توجه کنیم و بپذیریم که ممکن است شرایط به گونه‌ای باشد که مطابق خواسته یا تصور ما نباشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اید",
+      "PlainText": "لازم نبود که آنچه دولت باید\r\nنقش فلکی هم آنچنان بنماید\r\nشاید که تو را چنانکه باید ناید\r\nباید که تو را چنانکه آید شاید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلازم نبود که آنچه دولت باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش فلکی هم آنچنان بنماید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که تو را چنانکه باید ناید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباید که تو را چنانکه آید شاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لازم نبود که آنچه دولت باید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقش فلکی هم آنچنان بنماید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاید که تو را چنانکه باید ناید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باید که تو را چنانکه آید شاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

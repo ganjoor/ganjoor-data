@@ -1,0 +1,58 @@
+{
+  "Id": 119549,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/neshat/divan/robaee/sh15",
+  "RhymeLetters": "انتونیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت به بیان عظمت و اهمیت احسان و محبت الهی می‌پردازد. شاعر می‌گوید سر (وجود) انسان نمی‌تواند از بار نیازی که به احسان تو دارد خم شود و هیچ چیزی به اندازه محبت و لطف تو نمی‌تواند در زندگی انسان تاثیرگذار باشد. در نهایت، او اشاره می‌کند که تنها دست فنا (مرگ) است که از خوشبختی و لطف تو جدا می‌شود و هیچ دستی که امروزه به دامان تو وابسته است، نمی‌تواند از این احسان بی‌نصیب بماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انتونیست",
+      "PlainText": "سر نیست که خم ز بار احسان تو نیست\r\nیا گوی صفت در خم چو گان تو نیست\r\nجز دست فنا که تا ابد کوته باد\r\nدستی نه که امروز بدامان تو نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر نیست که خم ز بار احسان تو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا گوی صفت در خم چو گان تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز دست فنا که تا ابد کوته باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستی نه که امروز بدامان تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سر نیست که خم ز بار احسان تو نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا گوی صفت در خم چو گان تو نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز دست فنا که تا ابد کوته باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستی نه که امروز بدامان تو نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

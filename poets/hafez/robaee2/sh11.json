@@ -1,0 +1,58 @@
+{
+  "Id": 2061,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱۱",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱۱",
+  "FullUrl": "/hafez/robaee2/sh11",
+  "RhymeLetters": "رداد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به وفا و محبت اشاره می‌کند که ابتدا به او بهره‌مند شده است. اما بعد از آن، به حالتی مبتلا می‌شود که دچار غم و جفا می‌گردد. او با چشمانی پر از اشک و دلی پر از آتش، نهایتاً خود را در مسیر محبوبش، مانند خاکی می‌بیند که به باد سپرده شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رداد",
+      "PlainText": "اول به وفا می وصالم درداد\r\nچون مست شدم جام جفا را سرداد\r\nپر آب دو دیده و پر از آتش دل\r\nخاک ره او شدم به بادم برداد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاوّل به وفا میِ وصالم درداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مست شدم جام جفا را سرداد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپر آب دو دیده و پر از آتش، دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک ره او شدم به بادم برداد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اوّل به وفا میِ وصالم درداد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون مست شدم جام جفا را سرداد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پر آب دو دیده و پر از آتش، دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاک ره او شدم به بادم برداد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

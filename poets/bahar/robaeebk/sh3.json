@@ -1,0 +1,58 @@
+{
+  "Id": 51726,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/bahar/robaeebk/sh3",
+  "RhymeLetters": "ادیما",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به اهمیت آزادی اشاره دارد و تأکید می‌کند که آزادی فردی هر شخص باید با آزادی دیگران هماهنگ باشد. آزادی یک نعمت الهی است که باید از آن بهره‌برداری کرد، اما نباید اجازه داد که آزادی یک نفر به آزادی دیگران آسیب بزند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادیما",
+      "PlainText": "آزادی ماست اصل آبادی ما\r\nاین است نتیجه خدادادی ما\r\nآزاد بزی ولی نگر تا نشود\r\nآزادی تو رهزن آزادی ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآزادی ماست اصل آبادی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین است نتیجهٔ خدادادی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآزاد بزی ولی نگر تا نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآزادی تو رهزن آزادی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آزادی ماست اصل آبادی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این است نتیجهٔ خدادادی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آزاد بزی ولی نگر تا نشود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آزادی تو رهزن آزادی ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

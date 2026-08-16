@@ -1,0 +1,58 @@
+{
+  "Id": 82968,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/hazin/robaee-hz/sh80",
+  "RhymeLetters": "اهیکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از اثرات محبت و هجران صحبت می‌کند. او می‌گوید که عشق مانند اکسیر است که چهره‌ای زیبا دارد و جدایی، سخت و آزاردهنده است. همچنین، بیان می‌کند که رهایی از غم و درد جدایی کار دشواری نیست و با یک ناله کوتاه می‌توان آن را به سهولت انجام داد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیکرد",
+      "PlainText": "اکسیر محبت رخ ما کاهی کرد\r\nهجران ستیزه کار جانکاهی کرد\r\nاز چرخ بلند سینه خالی کردن\r\nدشوار نبود ناله کوتاهی کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکسیر محبت رخ ما کاهی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهجران ستیزه کار، جانکاهی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چرخ بلند، سینه خالی کردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشوار نبود، ناله کوتاهی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اکسیر محبت رخ ما کاهی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هجران ستیزه کار، جانکاهی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از چرخ بلند، سینه خالی کردن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشوار نبود، ناله کوتاهی کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

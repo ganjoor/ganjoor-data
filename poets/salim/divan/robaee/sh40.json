@@ -1,0 +1,58 @@
+{
+  "Id": 101831,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/salim/divan/robaee/sh40",
+  "RhymeLetters": "رد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از ساقی خواسته است که برای رفع غم و اندوهش جام می بیاورد. به زاهد اشاره می‌کند و از او به عنوان کسی که در حالتی عجیب و غیر عادی قرار دارد، یاد می‌کند و به طنز به او می‌گوید که نزدیک است که دختر رز را بخورد. در کل، شاعر به معانی عمیق زندگی و لذت‌های آن اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "کو ساقی تا ره مروت سپرد\r\nیک جام می آرد غم ما را ببرد\r\nزاهد چه مذاق خیره ای داشته است\r\nنزدیک شده دختر رز را بخورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو ساقی، تا ره مروت سپرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک جام می آرد، غم ما را ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزاهد چه مذاق خیره ای داشته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدیک شده دختر رز را بخورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کو ساقی، تا ره مروت سپرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک جام می آرد، غم ما را ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاهد چه مذاق خیره ای داشته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نزدیک شده دختر رز را بخورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

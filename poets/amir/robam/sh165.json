@@ -1,0 +1,58 @@
+{
+  "Id": 70208,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۶۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۶۵",
+  "FullUrl": "/amir/robam/sh165",
+  "RhymeLetters": "انبادگری",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و شکوه ملک و قدرت اشاره می‌کند. او به تصویر دریا و ثروت در دل نشان می‌دهد و بیان می‌کند که با داشتن جام پر از شراب و افسر بر سر، همواره از زیبایی‌های طبیعی مانند ماه و آفتاب بهره‌مند است. به طور کلی، شعر نمادی از لذت، قدرت و زیبایی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رداری",
+      "PlainText": "در بر ملکا دل توانگر داری\r\nدریای محیط است که در بر داری\r\nتا برکف جام و بر سر افسر داری\r\nمه بر کف و آفتاب بر سر داری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بر ملکا دل توانگر داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریای محیط است‌که در بر داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا برکف جام و بر سر افسر داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمه بر کف و آفتاب بر سر داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بر ملکا دل توانگر داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریای محیط است‌که در بر داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا برکف جام و بر سر افسر داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مه بر کف و آفتاب بر سر داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83262,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۰۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh101",
+  "RhymeLetters": "ادداشت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به حال و هوای احساسی و ناامیدی اشاره می‌کند. او از صبر خود و سنگینی دلهره‌هایش سخن می‌گوید و یادآوری می‌کند که چقدر احساساتش تحت تاثیر لبخند کسی بوده است. همچنین، به یاد دوران گذشته‌ای می‌افتد که در آن بی‌توجهی و نادیده گرفتن مشکلات رایج بوده است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اجداشت",
+      "PlainText": "تاراج صبر دور نگاهش رواج داشت\r\nوبرانه های دل چقدرها خراج داشت\r\nاز نوشخند بوالهوس امیدوار شد\r\nیاد زمانه ای که تغافل رواج داشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاراج صبر، دور نگاهش رواج داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوبرانه های دل، چقدرها خراج داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نوشخند بوالهوس، امّیدوار شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاد زمانه ای که، تغافل رواج داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تاراج صبر، دور نگاهش رواج داشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وبرانه های دل، چقدرها خراج داشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از نوشخند بوالهوس، امّیدوار شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یاد زمانه ای که، تغافل رواج داشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

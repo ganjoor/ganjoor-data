@@ -1,0 +1,58 @@
+{
+  "Id": 119001,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/azar/divan/robaee/sh80",
+  "RhymeLetters": "اناید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به ناکامی در دریافت پاسخ از معشوق اشاره می‌کند. او می‌گوید هر کسی را که به آنجا می‌فرستد، در همان‌جا می‌ماند و کسی که طرف مقابل فرستاده، به اینجا نمی‌رسد. به طور کلی، شاعر نگرانی و ناامیدی خود را از عدم ارتباط و پاسخگویی نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناید",
+      "PlainText": "زآن کوی جواب نامه ی ما ناید\r\nگفتم که بصبر آید اما ناید\r\nهر کس که فرستمش من آنجا ماند\r\nوآنکس که فرستیش تو اینجا ناید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن کوی، جواب نامه ی ما ناید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم که بصبر آید، اما ناید!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس که فرستمش من آنجا، ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنکس که فرستیش تو اینجا، ناید!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زآن کوی، جواب نامه ی ما ناید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم که بصبر آید، اما ناید!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر کس که فرستمش من آنجا، ماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وآنکس که فرستیش تو اینجا، ناید!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

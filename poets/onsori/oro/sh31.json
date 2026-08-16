@@ -1,0 +1,58 @@
+{
+  "Id": 68881,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/onsori/oro/sh31",
+  "RhymeLetters": "اشکهدوش",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از شب شکایت می‌کند و از آن می‌خواهد که همچون شب گذشته، پرخاش نکند و راز دل او را فاش نسازد. او به طولانی بودن شب گذشته اشاره می‌کند و از شب می‌خواهد که در وصال محبوب، همانند شب گذشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اشکهدوش",
+      "PlainText": "ای شب نکنی این همه پرخاش که دوش\r\nراز دل من مکن چنان فاش که دوش\r\nدیدی چه دراز بود دوشینه شبم\r\nهان ای شب وصل آنچنان باش که دوش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شب نکنی این‌همه پرخاش که دوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراز دل من مکن چنان فاش که دوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدی چه دراز بود دوشینه شبم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهان ای شب وصل آنچنان باش که دوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شب نکنی این‌همه پرخاش که دوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راز دل من مکن چنان فاش که دوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیدی چه دراز بود دوشینه شبم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هان ای شب وصل آنچنان باش که دوش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

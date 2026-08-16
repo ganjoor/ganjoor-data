@@ -1,0 +1,58 @@
+{
+  "Id": 1137,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۹",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۹",
+  "FullUrl": "/khayyam/robaee/sh19",
+  "RhymeLetters": "روزخوشاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این شعر در وصف نوروز، نسیم‌بهاری و رفتن به بوستان و گلزار است. شاعر می‌گوید که از گذشته و زمستان مگو و یاد مکن و از فرصتی که الان داری که بهار و نوروز است استفاده کن و شاد باش و درباره گذشته صحبت مکن. به چمن و بوستان و جایی خوش برو و با یک یار زیبا و گل‌رو خوش باش.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روزخوشاست",
+      "PlainText": "بر چهرۀ گل نسیم نوروز خوش است\r\nدر صحن چمن روی دل افروز خوش است\r\nاز دی که گذشت هر چه گویی خوش نیست\r\nخوش باش و ز دی مگو که امروز خوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر چهرۀ گل نسیم نوروز خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صحن چمن روی دل‌افروز خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دی که گذشت هر چه گویی خوش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش باش و ز دی مگو که امروز خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر چهرۀ گل نسیم نوروز خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در صحن چمن روی دل‌افروز خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دی که گذشت هر چه گویی خوش نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوش باش و ز دی مگو که امروز خوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 65406,
+  "CatId": 1886,
+  "Title": "شمارهٔ ۸۸ - در مدیحه",
+  "FullTitle": "وطواط » مقطعات » شمارهٔ ۸۸ - در مدیحه",
+  "FullUrl": "/vatvat/moghv/sh88",
+  "RhymeLetters": "ندی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به تشبیه ابر پرداخته و می‌گوید که مثل ابر، عاقلانه نیست که فقط خوب به نظر برسیم. ابر هم باران می‌دهد و هم می‌بارد، همان‌طور که انسان‌ها هم می‌توانند محبت کنند و هم شادی را تجربه کنند. زندگی ترکیب این دو حالت است: بخشش و شادی.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندی",
+      "PlainText": "من نگویم به ابر مانندی \r\nکه نکو ناید از خردمندی \r\nاو همی بخشد و همی گرید \r\nتو همی بخشی و همی خندی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن نگویم: به ابر مانندی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نکو ناید از خردمندی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو همی‌بخشد و همی‌گرید \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو همی‌بخشی و همی‌خندی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من نگویم: به ابر مانندی ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که نکو ناید از خردمندی ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او همی‌بخشد و همی‌گرید ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو همی‌بخشی و همی‌خندی ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

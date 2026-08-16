@@ -1,0 +1,58 @@
+{
+  "Id": 112407,
+  "CatId": 2642,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "عمعق بخاری » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/amagh/divan/robaee/sh15",
+  "RhymeLetters": "باری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر بیان می‌کند که اگر یارش در دسترس نیست و نمی‌تواند او را ببیند، حداقل از او خواهش می‌کند که یک بار به خوابش بیاید. او آرزو دارد که حتی اگر خودش نتواند چهره‌ی یار را ببیند، یار از حال او باخبر شود و ببیند که او نیز دلتنگ و خسته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باری",
+      "PlainText": "با یارم اگر نیست ره دیداری\r\nآرید به بالین منش یک باری\r\nتا گر من خسته دل نبینم رویش\r\nاو خسته خویش را ببیند باری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا یارم اگر نیست ره دیداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآرید به بالین مَنَش یک باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا گر من خسته‌دل نبینم رویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو خستهٔ خویش را ببیند باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با یارم اگر نیست ره دیداری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آرید به بالین مَنَش یک باری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا گر من خسته‌دل نبینم رویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او خستهٔ خویش را ببیند باری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 51725,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/bahar/robaeebk/sh2",
+  "RhymeLetters": "فا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به تضادهایی اشاره دارد که در روابط انسانی وجود دارد، مانند وفا و خیانت. شاعر به اهمیت نزاکت و احترام در جامعه اشاره می‌کند و به نوعی درد و ناامیدی خود را از وضعیت موجود ابراز می‌کند. این ابیات نشان‌دهنده احساس اندوه و مشکلات اجتماعی در کشور است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فا",
+      "PlainText": "از خصم کشیدن به وفا جور و جفا\r\nبرهان نزاکت است و دستور صفا\r\nدر کشور ما اصل نزاکت این است\r\nواویلا وامصیبتا وا اسفا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خصم کشیدن به وفا جور و جفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرهان نزاکت است و دستور صفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کشور ما اصل نزاکت این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواویلا وامصیبتا وا اسفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خصم کشیدن به وفا جور و جفا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برهان نزاکت است و دستور صفا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کشور ما اصل نزاکت این است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "واویلا وامصیبتا وا اسفا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

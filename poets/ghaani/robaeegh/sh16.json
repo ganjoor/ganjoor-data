@@ -1,0 +1,58 @@
+{
+  "Id": 45829,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۱۶",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۱۶",
+  "FullUrl": "/ghaani/robaeegh/sh16",
+  "RhymeLetters": "ستیخویش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساس عمیق خود نسبت به عشق صحبت می‌کند. او می‌گوید که یار او را از وجودش جدا کرده و در حالتی از مستی و عشق به سر می‌برد که نه به حال خود آگاه است و نه به وضعیت عشق و مستی‌اش. این سرگشتگی و غفلت از وضعیت خود نشان‌دهندهٔ شدت احساسات اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستیخویش",
+      "PlainText": "تا یار مرا ربوده از هستی خویش\r\nواقف نیم از بلندی و پستی خویش\r\nآنگونه ز جام عشق مستم دارد\r\nکآگاه نیم ز خویش و از مستی خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا یار مرا ربوده از هستی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواقف نیم از بلندی و پستی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنگونه ز جام عشق مستم دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآگاه نیم ز خویش و از مستی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا یار مرا ربوده از هستی خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "واقف نیم از بلندی و پستی خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنگونه ز جام عشق مستم دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآگاه نیم ز خویش و از مستی خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

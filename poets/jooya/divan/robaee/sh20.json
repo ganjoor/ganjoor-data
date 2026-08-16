@@ -1,0 +1,58 @@
+{
+  "Id": 103074,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/jooya/divan/robaee/sh20",
+  "RhymeLetters": "یرتراست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به زیبایی و جذابیت زلف معشوق اشاره می‌کند و آن را از دام و زنجیر به مراتب فریبنده‌تر می‌داند. او می‌گوید که دلش همچنان از یک زخم عمیق سیر نمی‌شود و این درد را به نوعی سیریاب نمی‌داند، مانند آبی که به تیزی شمشیر می‌زند. در کل، احساسات سرشار عاشقانه و زخم‌های دلی در این شعر به تصویر کشیده شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرتراست",
+      "PlainText": "نیرنگ ز بس زلف گرهگیر تر است\r\nدام و دانه ز خویش زنجیرتر است\r\nکی سیر ز جان شود بیک زخم دلم\r\nزین آب برنده ای که شمشیر تراست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیرنگ ز بس زلف گرهگیر تر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدام و دانه ز خویش زنجیرتر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی سیر ز جان شود بیک زخم دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین آب برنده ای که شمشیر تراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیرنگ ز بس زلف گرهگیر تر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دام و دانه ز خویش زنجیرتر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی سیر ز جان شود بیک زخم دلم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین آب برنده ای که شمشیر تراست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1133,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۵",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۵",
+  "FullUrl": "/khayyam/robaee/sh15",
+  "RhymeLetters": "اریبودهست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "شاعر کوزه شراب را با خود مقایسه می‌کند: او را از خاک آدمی عاشق و دلسوخته مانند من درست کرده‌اند. او نیز روزگاری اسیر عشق خوش‌رویی بوده. دسته‌ی این کوزه نیز از خاک دست اوست که آن را بر گردن یارش حلقه می‌کرده. اما امروز بی‌جان است و هیچ لذتی از شرابی که در اون ریخته‌اند نمی‌برد ولی من زنده هستم و از آن می‌توانم لذت ببرم قبل از آن که از خاک منم کوزه‌ها کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریبودهست",
+      "PlainText": "این کوزه چو من عاشق زاری بوده ست\r\nدر بند سر زلف نگاری بوده ست\r\nاین دسته که بر گردن او می بینی\r\nدستی ست که بر گردن یاری بوده ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین کوزه چو من عاشقِ زاری بوده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بندِ سرِ زلفِ نگاری بوده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین دسته که بر گردنِ او می‌بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستی‌ست که بر گردنِ یاری بوده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این کوزه چو من عاشقِ زاری بوده‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بندِ سرِ زلفِ نگاری بوده‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این دسته که بر گردنِ او می‌بینی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستی‌ست که بر گردنِ یاری بوده‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

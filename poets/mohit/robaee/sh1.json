@@ -1,0 +1,58 @@
+{
+  "Id": 96063,
+  "CatId": 2471,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "محیط قمی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/mohit/robaee/sh1",
+  "RhymeLetters": "ب",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات درباره شخصیت والامقام و با نسب نیک سید سخن می‌گوید. او را به عنوان نوری با ارزش و چون ستاره‌ای در میان سادات معرفی می‌کند و لقب سیده جهان شاه به او نسبت داده شده است. در واقع، شاعر با تمجید از ویژگی‌های برجسته او، مقامش را در سطحی بالا و محترم ترسیم می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ب",
+      "PlainText": "ای سید والا گهر نیک نسب\r\nتو شمسی و سادات زمان چون کوکب\r\nچون رادنیا شاه جهان شرفی\r\nزآنت شده سید جهان شاه لقب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سید والا گهر نیک نسب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو شمسی و سادات زمان چون کوکب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون رادنیا شاه جهان شرفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنت شده سید جهان شاه لقب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سید والا گهر نیک نسب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو شمسی و سادات زمان چون کوکب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون رادنیا شاه جهان شرفی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زآنت شده سید جهان شاه لقب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

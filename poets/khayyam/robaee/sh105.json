@@ -1,0 +1,58 @@
+{
+  "Id": 1223,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۰۵",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۰۵",
+  "FullUrl": "/khayyam/robaee/sh105",
+  "RhymeLetters": "مخوشتر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی‌ها و لذت‌های دنیوی اشاره می‌کند. او با مقایسه خشت سر خم (شراب) با ملک جم (بهشت) و بوی قدح (جام شراب) با غذای مریم، از دلنشینی و خوش‌مزگی شراب می‌گوید. همچنین، آه و ناله‌های شبانه را با شور و حال خماری مقایسه می‌کند و نتیجه می‌گیرد که این لذت‌ها از ناله‌های عرفا و بزرگان بهتر و دلپذیرتر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مخوشتر",
+      "PlainText": "خشت سر خم ز ملکت جم خوشتر\r\nبوی قدح از غذای مریم خوشتر\r\nآه سحری ز سینه خماری\r\nاز ناله بوسعید و ادهم خوشتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخشت سر خم ز ملکت جم خوشتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی قدح از غذای مریم خوشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه سحری ز سینهٔ خماری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نالهٔ بوسعید و ادهم خوشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خشت سر خم ز ملکت جم خوشتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی قدح از غذای مریم خوشتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آه سحری ز سینهٔ خماری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از نالهٔ بوسعید و ادهم خوشتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

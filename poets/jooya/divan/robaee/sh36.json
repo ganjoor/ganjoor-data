@@ -1,0 +1,58 @@
+{
+  "Id": 103090,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/jooya/divan/robaee/sh36",
+  "RhymeLetters": "اییچیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و فریبندگی ظاهری انسان‌ها اشاره می‌کند. او با پرسش‌هایی درباره غرور و بی‌خیالی انسان‌ها، به زودگذر بودن زندگی و عدم عمق واقعی زیبایی‌ها توجه می‌دهد. تصویر دیوار به عنوان نمادی از خودآرایی، به این موضوع اشاره می‌کند که اگرچه ظاهری زیبا داریم، اما در اصل درونی خالی و ویران هستیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییچیست",
+      "PlainText": "با عمر دو روز اینهمه رعنایی چیست\r\nمغروری و مستی و تن آسایی چیست\r\nچون صورت دیوار لباسی همه تن\r\nای خانه خراب این خودآرایی چیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا عمر دو روز اینهمه رعنایی چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغروری و مستی و تن آسایی چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون صورت دیوار لباسی همه تن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای خانه خراب این خودآرایی چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با عمر دو روز اینهمه رعنایی چیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مغروری و مستی و تن آسایی چیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون صورت دیوار لباسی همه تن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای خانه خراب این خودآرایی چیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

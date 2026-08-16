@@ -1,0 +1,58 @@
+{
+  "Id": 121234,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۵۱۸",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۵۱۸",
+  "FullUrl": "/hamgar/divan/robaee/sh518",
+  "RhymeLetters": "ال",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به ناتوانی و مشکلات ناشی از ظلم زمانه اشاره می‌کند و از وضعیت بد خود گلایه دارد. او نمی‌خواهد کسی از حال او اطلاعی داشته باشد و می‌خواست بدون شکایت یا درد دل، تنها به گریه یا ناله بپردازد. این بیان نشان‌دهنده تنهایی و دیوانگی در برابر مشکلات است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ال",
+      "PlainText": "گشتم ز جفای فلک و گردش سال\r\nبد حال و نخواهم که کسم داند حال\r\nتا گریم و دوستم بگوید مگری\r\nیا نالم و دشمنم بگوید که منال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشتم ز جفای فلک و گردش سال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبد حال و نخواهم که کسم داند حال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا گریم و دوستم بگوید مَگِریْ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا نالم و دشمنم بگوید که منال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گشتم ز جفای فلک و گردش سال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بد حال و نخواهم که کسم داند حال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا گریم و دوستم بگوید مَگِریْ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا نالم و دشمنم بگوید که منال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

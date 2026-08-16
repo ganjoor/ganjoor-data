@@ -1,0 +1,58 @@
+{
+  "Id": 1124,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۶",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۶",
+  "FullUrl": "/khayyam/robaee/sh6",
+  "RhymeLetters": "اب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به حالت شور و شیدایی خود اشاره دارد. او خود را در مکانی خراب می‌بیند که در آن به می و خوشی و راز و نیاز می‌پردازد. او از همه امیدها و ترس‌ها آزاد است و هیچ نگرانی از دنیای مادی و عناصر طبیعی ندارد. احساس آزادی و رهایی او در مقابل مشکلات و دردها به وضوح مشهود است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "ماییم و می و مطرب و این کنج خراب\r\nجان و دل و جام و جامه پر درد شراب\r\nفارغ ز امید رحمت و بیم عذاب\r\nآزاد ز خاک و باد و از آتش و آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماییم و می و مُطرب و این کنجِ خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان و دل و جام و جامه پُر دُردِ شراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفارغ ز امیدِ رحمت و بیمِ عذاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآزاد ز خاک و باد و از آتش و آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماییم و می و مُطرب و این کنجِ خراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان و دل و جام و جامه پُر دُردِ شراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فارغ ز امیدِ رحمت و بیمِ عذاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آزاد ز خاک و باد و از آتش و آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

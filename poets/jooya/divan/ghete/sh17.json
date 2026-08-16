@@ -1,0 +1,58 @@
+{
+  "Id": 103033,
+  "CatId": 2539,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۱۷",
+  "FullUrl": "/jooya/divan/ghete/sh17",
+  "RhymeLetters": "مار",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به حس حرص و شوق اشاره می‌کند. او می‌گوید وقتی که خواجه (مردی ثروتمند) قاشقی به دهانش می‌رسد، به خاطر حرص و طمعش، نمی‌تواند از لذت آن سیر شود. همچنین، تشبیهاتی به کار می‌رود که نشان‌دهنده‌ی اشتیاق زیاد او برای خوردن است، به‌گونه‌ای که گوشت به لبش می‌چسبد. این بیانگر طمع انسان و ناتوانی او در کنترل خواسته‌هایش است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مار",
+      "PlainText": "گویند خواجه را چو رسد قاشقی به لب\r\nتا چند ساعتش مکد از حرص بی شمار\r\nیا چون ندیده قاشق او روی گوشت را\r\nچسبد ز شوق گوشت به لب همچو کفچه مار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند خواجه را چو رسد قاشقی به لب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چند ساعتش مکد از حرص بی شمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا چون ندیده قاشق او روی گوشت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچسبد ز شوق گوشت به لب همچو کفچه مار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند خواجه را چو رسد قاشقی به لب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چند ساعتش مکد از حرص بی شمار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا چون ندیده قاشق او روی گوشت را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چسبد ز شوق گوشت به لب همچو کفچه مار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

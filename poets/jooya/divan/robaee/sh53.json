@@ -1,0 +1,58 @@
+{
+  "Id": 103107,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۵۳",
+  "FullUrl": "/jooya/divan/robaee/sh53",
+  "RhymeLetters": "اند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات می‌گوید هر کسی که درد و شکستگی را درک کند، به یاد غم می‌افتد. اما غم، دل انسان‌های خاک‌نشین را نمی‌آزارد، چرا که مانند سایه کوه، سبز و سرزنده است و نمی‌گذارد رنج به آن‌ها برسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اند",
+      "PlainText": "هر کس قدر شکستگی را داند\r\nدانسته به دل نهال غم بنشاند\r\nغم بار دل خاک نشینان نشود\r\nکی سایه کوه سبزه را رنجاند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس قدر شکستگی را داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانسته به دل نهال غم بنشاند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم بار دل خاک نشینان نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی سایهٔ کوه سبزه را رنجاند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس قدر شکستگی را داند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانسته به دل نهال غم بنشاند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غم بار دل خاک نشینان نشود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کی سایهٔ کوه سبزه را رنجاند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

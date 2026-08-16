@@ -1,0 +1,58 @@
+{
+  "Id": 114200,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۳۲۷",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۳۲۷",
+  "FullUrl": "/jahan/divan/robaee/sh327",
+  "RhymeLetters": "سی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از دل بیچاره‌ای سخن می‌گوید که تحت فشار سختی‌های زندگی است و فقط به لطف معشوق خود امیدوار است. او در انتظار کمک و نجات نشسته، اما می‌بیند که هیچ‌کس جز معشوق برای یاری او نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سی",
+      "PlainText": "بیچاره دل از فلک جفا برده بسی\r\nجز لطف توام در دو جهان نیست کسی\r\nمن منتظرم نشسته بر راه امید\r\nفریاد رسم که نیست فریادرسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیچاره دل از فلک جفا بُرده بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز لطف تواَم در دو جهان نیست کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن منتظرم نشسته بر راه امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد رسم که نیست فریادرسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیچاره دل از فلک جفا بُرده بسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز لطف تواَم در دو جهان نیست کسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من منتظرم نشسته بر راه امید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فریاد رسم که نیست فریادرسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

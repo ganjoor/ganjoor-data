@@ -1,0 +1,58 @@
+{
+  "Id": 114463,
+  "CatId": 2656,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "طبیب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/tabib/divan/robaee/sh9",
+  "RhymeLetters": "وزمباد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از شادی و خوشی کنونی خود ناپسند است و می‌گوید که این خوشی بدون غم و اندوه برایش دلپذیر نیست. او دوست دارد که روزهای سخت و محنتش به شب‌های آرامش تبدیل شود و امیدوار است که این ناراحتی به روز خوش نینجامد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزمباد",
+      "PlainText": "هرگز دل من به عیش فیروز مباد\r\nبی ناله زار و آه جانسوز مباد\r\nگر روز خوش اینست که یاران دارند\r\nیارب شب محنت مرا روز مباد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز دل من به عیش فیروز مباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی ناله زار و آه جانسوز مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر روز خوش اینست که یاران دارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب شب محنت مرا روز مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگز دل من به عیش فیروز مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی ناله زار و آه جانسوز مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر روز خوش اینست که یاران دارند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یارب شب محنت مرا روز مباد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

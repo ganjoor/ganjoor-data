@@ -1,0 +1,58 @@
+{
+  "Id": 73683,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/zahir/robaeez-zahir/sh91",
+  "RhymeLetters": "فتنداری",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی گل‌ها و احساسات عاشقانه اشاره دارد. شاعر به غنچه و نرگس می‌پردازد و از آن‌ها می‌خواهد که با زیبایی و لطافت خود از عشق و رازهای آن بگویند. غنچه و نرگس نمادهایی از عشق و جاذبه هستند که در دل خود احساسات عمیق را نهفته دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتنداری",
+      "PlainText": "ای غنچه گل سرشکفتن داری\r\nوی نرگس مست میل خفتن داری\r\nوی سوسن تر دراز کردی تو زبان\r\nاندیشه راز عشق گفتن داری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای غنچه گل سرشکفتن داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی نرگس مست میل خفتن داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوی سوسن تر دراز کردی تو زبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندیشه راز عشق گفتن داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای غنچه گل سرشکفتن داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی نرگس مست میل خفتن داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وی سوسن تر دراز کردی تو زبان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندیشه راز عشق گفتن داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

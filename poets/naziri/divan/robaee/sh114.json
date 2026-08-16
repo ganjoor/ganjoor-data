@@ -1,0 +1,58 @@
+{
+  "Id": 123680,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۱۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۱۴",
+  "FullUrl": "/naziri/divan/robaee/sh114",
+  "RhymeLetters": "ازایم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شخص در این شعر به فرمان محبوبش پاسخ می‌دهد و با افتخار به او نزدیک می‌شود. او خود را به مانند صدا و امید می‌داند که در کنار کوه محکم و استوار محبوبش، به آرامش و آرامی می‌رسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازایم",
+      "PlainText": "فرمان تو بشنوم به پرواز آیم\r\nوز فخر به سر نهم سرافراز آیم\r\nتو کوهی و من صوت سخن امیدست\r\nچون در تو رسم زود به جا بازآیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرمان تو بشنوم به پرواز آیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز فخر به سر نهم سرافراز آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو کوهی و من صوت سخن امیدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون در تو رسم زود به جا بازآیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرمان تو بشنوم به پرواز آیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز فخر به سر نهم سرافراز آیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو کوهی و من صوت سخن امیدست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون در تو رسم زود به جا بازآیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

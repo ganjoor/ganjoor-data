@@ -1,0 +1,58 @@
+{
+  "Id": 48731,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۲",
+  "FullUrl": "/orfi/robaeeor/sh12",
+  "RhymeLetters": "ارشنیست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان ویژگی‌های خاص و منحصر به فرد عشق و حسن معشوق می‌پردازند. می‌گوید عشق و وصال معشوق دارویی است که درد آن را حس نمی‌کنیم، حسن او کالایی است که در بازار نمی‌توان یافت، و عشق او کمندی است که کسی از آن فرار نمی‌کند. در نهایت، حمد و ستایش معشوقی است که زبان قادر به گفتن آن نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارشنیست",
+      "PlainText": "وصل تو دوایی است که بیمارش نیست\r\nحسن تو متاعی است که بازارش نیست\r\nعشق تو کمندی که گرفتارش نیست\r\nحمد تو زبانی است که گفتارش نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوصل تو دوایی است که بیمارش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحسن تو متاعی است که بازارش نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق تو کمندی که گرفتارش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحمد تو زبانی است که گفتارش نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وصل تو دوایی است که بیمارش نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حسن تو متاعی است که بازارش نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق تو کمندی که گرفتارش نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حمد تو زبانی است که گفتارش نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

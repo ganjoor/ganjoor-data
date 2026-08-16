@@ -1,0 +1,58 @@
+{
+  "Id": 107277,
+  "CatId": 2586,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » سایر اشعار » شمارهٔ ۲۷",
+  "FullUrl": "/daye/divan/sayer/sh27",
+  "RhymeLetters": "رنداشتمی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به احساس عمیق و درد ناشی از عشق اشاره می‌کند. او می‌گوید اگر از عشق تو آگاهی نداشتم، داغ و رنج ناشی از آن را نیز حس نمی‌کردم. به نوعی، عشق و زیبایی معشوق برای او یک چالش و در عین حال منبع درد و شگفتی است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رنداشتمی",
+      "PlainText": "گر زعشقت خبر نداشتمی\r\nداغ آن برجگر نداشتمی\r\nعشق تو از کجا و من زکجا\r\nگر زحسنت خبر نداشتمی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زعشقت خبر نداشتمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغ آن برجگر نداشتمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق تو از کجا و من زکجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر زحسنت خبر نداشتمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر زعشقت خبر نداشتمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ آن برجگر نداشتمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق تو از کجا و من زکجا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر زحسنت خبر نداشتمی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

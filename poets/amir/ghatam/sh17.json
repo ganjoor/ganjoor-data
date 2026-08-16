@@ -1,0 +1,58 @@
+{
+  "Id": 70026,
+  "CatId": 2043,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "امیر معزی » قطعات » شمارهٔ ۱۷",
+  "FullUrl": "/amir/ghatam/sh17",
+  "RhymeLetters": "م",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر می‌گوید که وقتی نام تو را بر لوح نوشت، قلم از نوشتن بازایستاد. او در ادامه می‌گوید که از این پس دیگر نمی‌تواند بنویسد، زیرا جزئیات و کلیات را به هم آمیخته است. در واقع، در اینجا به حس محدودیت و ناتوانی در بیان احساسات عمیق اشاره دارد.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "چو بنوشت بر لوح نام تو را\r\nفرو ایستاد از نوشتن قلم\r\nهمی گفت زین پس ندانم نوشت\r\nچو جزوی و کلی نوشتم به هم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بنوشت بر لوح نام تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرو ایستاد از نوشتن قلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی گفت زین پس ندانم نوشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو جزوی و کلی نوشتم به هم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو بنوشت بر لوح نام تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فرو ایستاد از نوشتن قلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همی گفت زین پس ندانم نوشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو جزوی و کلی نوشتم به هم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

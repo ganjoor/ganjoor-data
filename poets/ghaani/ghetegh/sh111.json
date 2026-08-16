@@ -1,0 +1,58 @@
+{
+  "Id": 45773,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۱۱",
+  "FullUrl": "/ghaani/ghetegh/sh111",
+  "RhymeLetters": "ستان",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به یک دزد اشاره دارد که در حال سرقت از خانه اهل توحید (مؤمنان و خداپرستان) است. شاعر از دزد می‌خواهد که چیزی نرباید و هشدار می‌دهد که ممکن است او در این راه دچار آسیب شود یا به اشتباه کار نادرستی انجام دهد. در واقع، این ابیات به نقد عمل دزدی و عواقب آن می‌پردازد و به اهمیت ایمان و توحید اشاره دارد.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستان",
+      "PlainText": "ای دزد ز کوی اهل توحید\r\nچیزی نبری به زرق و دستان\r\nترسم که به جای پا نهی سر\r\nدر خانقه خداپرستان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دزد ز کوی اهل توحید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچیزی نبری به زرق و دستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم که به جای پا نهی سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانقه خداپرستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دزد ز کوی اهل توحید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چیزی نبری به زرق و دستان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترسم که به جای پا نهی سر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خانقه خداپرستان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 98745,
+  "CatId": 2509,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » الباب العاشر: البهاریات » شمارهٔ ۵۵",
+  "FullUrl": "/ouhad/robaee/bab10/sh55",
+  "RhymeLetters": "اش",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بیان زبانی ویژه و رمزآلود می‌پردازد. او از قولی یاد می‌کند که به طور عمومی شنیده نمی‌شود، اما ممکن است در مکان‌های خاصی مانند عراق یا خراسان وجود داشته باشد. شاعر همچنین اشاره‌ای به این دارد که برای سورایی یا موضوعی خاص، آماده می‌شود و نغمه‌ای راست و زیبا نیز برای آن ایجاد می‌کند. این کار به نوعی به تلاش برای بیان حقیقت یا معنای عمیق‌تر در زندگی و هنر اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اش",
+      "PlainText": "ای قول تو چون زنگله در عالم فاش\r\nورنه به عراق در خراسان می باش\r\nآهنگ به رومی و حسینی می کن\r\nدر پرده راست نغمه ای هم بخراش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای قول تو چون زنگله در عالم فاش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه به عراق در خراسان می باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهنگ به رومی و حسینی می کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پردهٔ راست نغمه ای هم بخراش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای قول تو چون زنگله در عالم فاش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ورنه به عراق در خراسان می باش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آهنگ به رومی و حسینی می کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در پردهٔ راست نغمه ای هم بخراش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

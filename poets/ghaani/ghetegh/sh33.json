@@ -1,0 +1,58 @@
+{
+  "Id": 45673,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۳۳",
+  "FullUrl": "/ghaani/ghetegh/sh33",
+  "RhymeLetters": "رستد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به این موضوع اشاره دارد که وقتی انسان از نعمت‌های خداوند غافل می‌شود، خدا بر او مصیبتی را نازل می‌کند. این بلا به نوعی می‌تواند به عنوان یک نعمت دیگر تلقی شود، زیرا انسان را به یاد خدا و پرستش او می‌اندازد، تا از ترس بلا به او روی آورد.",
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رستد",
+      "PlainText": "چو از نعمت حق شود بنده غافل\r\nخداوند بر وی بلایی فرستد\r\nتو گویی بلا نعمتی هست دیگر\r\nکه غافل ز بیمش خدا را پرستد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو از نعمت حق شود بنده غافل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخداوند بر وی بلایی فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو گویی بلا نعمتی هست دیگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه غافل ز بیمش خدا را پرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو از نعمت حق شود بنده غافل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خداوند بر وی بلایی فرستد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو گویی بلا نعمتی هست دیگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که غافل ز بیمش خدا را پرستد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

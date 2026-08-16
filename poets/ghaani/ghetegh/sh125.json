@@ -1,0 +1,58 @@
+{
+  "Id": 45787,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۲۵",
+  "FullUrl": "/ghaani/ghetegh/sh125",
+  "RhymeLetters": "یشه",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به این معناست که کسی که قناعت و رضایت در دلش باشد، نیازی به فکر کردن به دنیای مادی و مسائل بزرگ ندارد. او با چیزهای ساده‌ای مثل یک شمر آب یا یک درم سنگ هم می‌تواند زندگی کند و از آنچه که دارد راضی باشد. در واقع، فرد قانع از تمام دنیا و تجملاتش به سادگی می‌گذرد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشه",
+      "PlainText": "هر که را نیم جو قناعت هست\r\nاز دو عالم ندارد اندیشه\r\nیک شمر آب و یک بیابان مور\r\nیک درم سنگ و یک جهان شیشه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را نیم جو قناعت هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دو عالم ندارد اندیشه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک شمر آب و یک بیابان مور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک درم سنگ و یک جهان شیشه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که را نیم جو قناعت هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دو عالم ندارد اندیشه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک شمر آب و یک بیابان مور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک درم سنگ و یک جهان شیشه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

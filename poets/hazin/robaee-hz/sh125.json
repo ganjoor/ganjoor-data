@@ -1,0 +1,58 @@
+{
+  "Id": 83013,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۲۵",
+  "FullUrl": "/hazin/robaee-hz/sh125",
+  "RhymeLetters": "اماند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با حسرت به یاد گذشته‌های خود می‌افتد و می‌گوید که تنها چیزی که از ما باقی مانده، بی‌پایی یا کف خالی است. در دنیا هیچ چیزی از دوستان سبک‌رو و همراهانش باقی نمانده و رابطه‌ها و همراهی‌ها بسیار کوتاه بوده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اماند",
+      "PlainText": "غیر از کف خالی که ز ما بر جا ماند\r\nدیگر ز سبکروان چه در دنیا ماند\r\nیک کوچه فزون نکرد تن همراهی\r\nکوتاه قدم بود رفیق از ما ماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از کف خالی که ز ما بر جا ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیگر ز سبکروان، چه در دنیا ماند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک کوچه فزون، نکرد تن همراهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوتاه قدم بود رفیق، از ما ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غیر از کف خالی که ز ما بر جا ماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیگر ز سبکروان، چه در دنیا ماند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک کوچه فزون، نکرد تن همراهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کوتاه قدم بود رفیق، از ما ماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

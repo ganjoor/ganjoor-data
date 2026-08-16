@@ -1,0 +1,58 @@
+{
+  "Id": 70051,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/amir/robam/sh8",
+  "RhymeLetters": "ایتورا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر بیان می‌کند که درخشش و زیبایی خورشید وقتی به تو، ای پادشاه، نگاه می‌کند، به شگفت می‌آید و به دنبال جایی می‌گردد که بتواند در آنجا به تو ادای احترام کند و خاک پای تو را بوسه بزند. به معنای دیگر، عظمت و زیبایی تو چنان تاثیرگذاری دارد که حتی خورشید نیز به جستجوی تو می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتورا",
+      "PlainText": "خورشید چو بیند ای ملک راٰی تو را\r\nوین فر و جمال عالم آرای تو را\r\nجوینده شود بزمگه و جای تو را\r\nتا سجده برد خاک  کف پای تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید چو بیند ای مَلَک راٰی تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین فَرّ و جمالِ عالم آرای تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوینده شود بزمگه و جایِ تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سجده بَرَد خاک‌ِ کفِ پای تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید چو بیند ای مَلَک راٰی تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین فَرّ و جمالِ عالم آرای تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جوینده شود بزمگه و جایِ تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سجده بَرَد خاک‌ِ کفِ پای تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

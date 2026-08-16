@@ -1,0 +1,58 @@
+{
+  "Id": 74564,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/ghodsi/robghm/sh23",
+  "RhymeLetters": "اندریا",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به بیان تفاوت میان عقل و عشق می‌پردازد. او می‌گوید که عاقل ممکن است به اشتباه فکر کند که سراب دریا است و عاشق نمی‌تواند حتی انتهای دریا را بشنود. همچنین بیان می‌کند که اگر عشق را بخواهیم با عقل توضیح دهیم و از آن تنزیه کنیم، در حقیقت خود را از عمق عشق دور کرده‌ایم. به عبارتی، عشق و عقل دو دنیای متفاوت هستند و عشق نمی‌تواند به آسانی با عقل توجیه شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندریا",
+      "PlainText": "عاقل ز سراب در گمان دریا\r\nعاشق نشنیده ست کران دریا\r\nبا عشق ز عقل حرف تنزیه زدن\r\nکر ساختن است در میان دریا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقل ز سراب، در گمان دریا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاشق نشنیده‌ست کران دریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا عشق ز عقل حرف تنزیه زدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکُر ساختن است در میان دریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقل ز سراب، در گمان دریا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عاشق نشنیده‌ست کران دریا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با عشق ز عقل حرف تنزیه زدن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کُر ساختن است در میان دریا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

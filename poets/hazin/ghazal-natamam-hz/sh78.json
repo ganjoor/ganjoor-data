@@ -1,0 +1,58 @@
+{
+  "Id": 83239,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۷۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh78",
+  "RhymeLetters": "ارانمیشودپیدا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره آمدن بهار و زیبایی‌های آن است. شاعر با اشاره به خوشی و شوقی که بهار به همراه می‌آورد، از شادی و شادابی که در دل و چهره‌ها ظهور می‌کند، سخن می‌گوید. او همچنین از لزوم آواز خواندن مغنی به خاطر حال و هوای بشارت‌دهنده بهار و شور می‌کشان در دورهمی‌های شاد مناعت می‌کند.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارانشودپیدا",
+      "PlainText": "بهار آمد که می در جام میخوران شود پیدا\r\nمرا از سینه داغ لاله رخساران شود پیدا\r\nمغنی مصرع شوخی ز من باید سراییدن\r\nکه شور میکشان در بزم هشیاران شود پیدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهار آمد که می در جام میخوران شود پیدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا از سینه، داغ لاله رخساران شود پیدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمغنی، مصرع شوخی، ز من باید سراییدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شور میکشان، در بزم هشیاران شود پیدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهار آمد که می در جام میخوران شود پیدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا از سینه، داغ لاله رخساران شود پیدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مغنی، مصرع شوخی، ز من باید سراییدن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که شور میکشان، در بزم هشیاران شود پیدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

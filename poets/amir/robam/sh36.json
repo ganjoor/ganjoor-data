@@ -1,0 +1,58 @@
+{
+  "Id": 70079,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/amir/robam/sh36",
+  "RhymeLetters": "نتوست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن به زیبایی توصیف می‌کند که آتش و قدرت تو بی‌نظیر است و مانند بارانی فراگیر بر همه جا تاثیر می‌گذارد. تو نماد سلطنت و استواری دین هستی و در واقع تمامی جهان در دستان تو قرار دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتوست",
+      "PlainText": "آتش تیغی و تا به محشر تف توست\r\nباران صفتی و هفت کشور صف توست\r\nجم دولتی و قوام دین آصف توست\r\nدریاکفی و همه جهان درکف توست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش تیغی و تا به محشر تف توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباران صفتی و هفت‌کشور صف توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجم دولتی و قوام دین آصف توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاکفی و همه جهان درکف توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتش تیغی و تا به محشر تف توست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باران صفتی و هفت‌کشور صف توست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جم دولتی و قوام دین آصف توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاکفی و همه جهان درکف توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

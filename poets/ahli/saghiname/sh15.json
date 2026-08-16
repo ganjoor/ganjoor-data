@@ -1,0 +1,58 @@
+{
+  "Id": 105635,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۱۴",
+  "FullUrl": "/ahli/saghiname/sh15",
+  "RhymeLetters": "رنگرفت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت مشروب و عشق اشاره می‌کند. او می‌گوید که تا زمانی که شمع دل او روشن نمانده، ساقی (شراب‌فروش) قدح (جام) را پر نکرده است. همچنین، با آهی از شراب لعل (قرمز)، به تجربه شیرین نوشیدن اشاره می‌کند و می‌گوید که هر کسی که لب بر آن گذاشته، دیگر دل از آن برنداشته است. به‌طور کلی، شعر به لذت و تاثیر عمیق عشق و می‌نوشی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رنگرفت",
+      "PlainText": "ساقی قدحی که شمع دل درنگرفت\r\nتا ز آتش می زندگی از سر نگرفت\r\nآه از می لعلت که بدین باده ناب\r\nهر کس که لبی نهاد لب برنگرفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی قدحی که شمعِ دل درنگرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ز آتش مِی زندگی از سر نگرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه از مِی لعلت که بدین بادهٔ ناب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کس که لبی نهاد لب برنگرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی قدحی که شمعِ دل درنگرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا ز آتش مِی زندگی از سر نگرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آه از مِی لعلت که بدین بادهٔ ناب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر کس که لبی نهاد لب برنگرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

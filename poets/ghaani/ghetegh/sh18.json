@@ -1,0 +1,58 @@
+{
+  "Id": 45658,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۸",
+  "FullUrl": "/ghaani/ghetegh/sh18",
+  "RhymeLetters": "ادست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: سخن عاقل و نادان به یکدیگر می‌رسد. اگر با دقت به تجربیات نگاه کنی، می‌بینی که بلبل‌ها از زاغ‌ها شکایت نمی‌کنند، چرا که خود زاغ‌ها نیز از بلبل‌ها دلخورند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادست",
+      "PlainText": "کلام عاقل و جاهل به گوش یکدیگر\r\nچو نیک بنگری از روی تجربت بادست\r\nهمین به باغ ننالند بلبلان از زاغ\r\nکه زاغ نیز هم از بلبلان به فریادست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلام عاقل و جاهل به گوش یکدیگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو نیک بنگری از روی تجربت بادست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمین به باغ ننالند بلبلان از زاغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه زاغ نیز هم از بلبلان به فریادست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کلام عاقل و جاهل به گوش یکدیگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو نیک بنگری از روی تجربت بادست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همین به باغ ننالند بلبلان از زاغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که زاغ نیز هم از بلبلان به فریادست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

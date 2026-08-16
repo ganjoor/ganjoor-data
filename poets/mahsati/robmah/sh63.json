@@ -1,0 +1,58 @@
+{
+  "Id": 50123,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۶۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۶۳",
+  "FullUrl": "/mahsati/robmah/sh63",
+  "RhymeLetters": "ارمازدستبشد",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از اندوه فقدان یار و زیبایی‌های او سخن می‌گوید. او به تعبیر می‌آورد که سرمایه زندگی‌اش به واسطه جدایی از محبوبش از بین رفته است. همچنین، وقتی تلاش می‌کند با حنا به خاطر یار خود آماده شود، در خواب و خیال او غرق می‌شود که این نیز نشان‌دهنده دوری و فقدان محبوب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمازدستبشد",
+      "PlainText": "سرمایه روزگارم از دست بشد\r\nیعنی سر زلف یارم از دست بشد\r\nبر دست حنا نهادم از بهر نگار\r\nدر خواب شدم نگارم از دست بشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرمایهٔ روزگارم از دست بشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی سر زلف یارم از دست بشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر دست حنا نهادم از بهر نگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خواب شدم نگارم از دست بشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرمایهٔ روزگارم از دست بشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی سر زلف یارم از دست بشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر دست حنا نهادم از بهر نگار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خواب شدم نگارم از دست بشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

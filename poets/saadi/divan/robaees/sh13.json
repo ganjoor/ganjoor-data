@@ -1,0 +1,58 @@
+{
+  "Id": 10074,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۳",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۳",
+  "FullUrl": "/saadi/divan/robaees/sh13",
+  "RhymeLetters": "ابردست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به زیبایی‌های طبیعی و همچنین زیبایی معشوق اشاره می‌کند. او می‌گوید که سرو (درختی بلند و زیبا) به قدری بلند است که از قدرت او نیز بالاتر رفته و دریا لب‌هایش لؤلؤ (دریای مروارید) را به دست آورده است. همچنین هر جا بنفشه‌ای ببیند، به زیبایی موهای معشوقش که در باد می‌رقصد، اشاره می‌کند. به طور کلی، شاعر زیبایی‌های طبیعت را با زیبایی‌های انسانی مرتبط می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابردست",
+      "PlainText": "سرو از قدت اندازه بالا بردست\r\nبحر از دهنت لؤلؤ لالا بردست\r\nهر جا که بنفشه ای ببینم گویم\r\nمویی ز سرت باد به صحرا بردست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرو از قدت اندازهٔ بالا بُردست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحر از دهنت لؤلؤ لالا بُردست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جا که بنفشه‌ای ببینم گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E«مویی ز سرت باد به صحرا بُردست»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرو از قدت اندازهٔ بالا بُردست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بحر از دهنت لؤلؤ لالا بُردست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جا که بنفشه‌ای ببینم گویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "«مویی ز سرت باد به صحرا بُردست»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

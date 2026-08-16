@@ -1,0 +1,58 @@
+{
+  "Id": 83453,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۹۲",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۹۲",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh292",
+  "RhymeLetters": "ازتو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر با بیان احساس عمیق خود، از رنج و درد عاشقانه سخن می‌گوید. او بیان می‌کند که دلش به شدت ناراحت است و اشک‌ها به طور مکرر از چشمانش می‌ریزد. او این احساس عمیق را به یک کباب تشبیه می‌کند که از آتش بیرون آمده است. همچنین، او اشاره می‌کند که سپیده‌دم، زخم‌هایش را که به وضوح نمایان شده، پذیرفته است و شب را به تیغ ناله‌اش تشبیه می‌کند که از جای خودش بیرون آمده است. به طور کلی، شاعر غم و اندوه عمیق خود را در این ابیات به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امامدبرون",
+      "PlainText": "لخت دل با سینه از اشک مدام آمد برون\r\nاین کباب آخر ز آتشخانه خام آمد برون\r\nگشت با زخم نمایان سینه صبح آشنا\r\nشب که تیغ ناله من از نیام آمد برون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلخت دل با سینه از اشک مدام آمد برون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کباب آخر ز آتشخانه، خام آمد برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت با زخم نمایان، سینهٔ صبح آشنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب که تیغ نالهٔ من، از نیام آمد برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لخت دل با سینه از اشک مدام آمد برون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این کباب آخر ز آتشخانه، خام آمد برون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گشت با زخم نمایان، سینهٔ صبح آشنا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب که تیغ نالهٔ من، از نیام آمد برون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

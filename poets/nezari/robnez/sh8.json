@@ -1,0 +1,58 @@
+{
+  "Id": 75755,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/nezari/robnez/sh8",
+  "RhymeLetters": "ردیازما",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: شاعر از رفتن محبوب و بی‌توجهی او به خود می‌گوید. او به یاد محبوب بوده و از او دلبرانه فاصله گرفته، در حالی که محبوب در آرامش است و از دل شاعر بی‌خبر است. شاعر احساس ناامیدی و غم از دوری محبوب را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردیازما",
+      "PlainText": "رفتی و دگر یاد نکردی از ما\r\nهم در نظری سیر بخوردی از ما\r\nما خود پی دل رویم تو در خانه\r\nفارغ بنشین چو دل نبردی از ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتی و دگر یاد نکردی از ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم در نظری سیر بخوردی از ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما خود پی دل رویم تو در خانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارغ بنشین چو دل نبردی از ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتی و دگر یاد نکردی از ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم در نظری سیر بخوردی از ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما خود پی دل رویم تو در خانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فارغ بنشین چو دل نبردی از ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

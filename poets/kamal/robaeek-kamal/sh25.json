@@ -1,0 +1,58 @@
+{
+  "Id": 71762,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/kamal/robaeek-kamal/sh25",
+  "RhymeLetters": "شما",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به حال ناخوش خود اشاره دارد و از دل سرکش و پر دردش می‌گوید. او با وجود غم و آتش درونش سعی کرده که دلش را آرام کند، اما در واقع این آتش ریشه در گذشته‌اش دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شما",
+      "PlainText": "گرچه خوش نیست حالت ناخوش ما\r\nدرد سر ماست این دل سرکش ما\r\nبا اتش غم چو شمع دل خوش کردیم\r\nکآبیست ز سر گذشته این آتش ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه خوش نیست حالت ناخوش ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد سر ماست این دل سرکش ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا اتش غم چو شمع، دل خوش کردیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآبیست ز سر گذشته این آتش ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه خوش نیست حالت ناخوش ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درد سر ماست این دل سرکش ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با اتش غم چو شمع، دل خوش کردیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآبیست ز سر گذشته این آتش ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

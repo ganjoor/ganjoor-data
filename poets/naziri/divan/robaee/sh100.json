@@ -1,0 +1,58 @@
+{
+  "Id": 123666,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/naziri/divan/robaee/sh100",
+  "RhymeLetters": "اننشوم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر عشق و اشتیاق عمیق شاعر به معشوق است. شاعر از احساسات عمیق خود سخن می‌گوید و تأکید می‌کند که اگر به معشوق نرسد و عشق او را نداشته باشد، مانند پروانه‌ای که به شمع می‌سوزد یا مگسی که به دور شمع می‌گردد، نمی‌خواهد تنها نظاره‌گر باشد. او خواستار وصال و نزدیک شدن به معشوق است و نمی‌خواهد که تنها مهمان احساسات باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننشوم",
+      "PlainText": "آتش خورم و زحمت جانان نشوم\r\nپروانه شمعم مگس خوان نشوم\r\nچون خنده ساقی گزک مستانم\r\nجز بر جگر کباب مهمان نشوم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش خورم و زحمت جانان نشوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپروانه شمعم مگس خوان نشوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خنده ساقی گزک مستانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز بر جگر کباب مهمان نشوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتش خورم و زحمت جانان نشوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پروانه شمعم مگس خوان نشوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون خنده ساقی گزک مستانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز بر جگر کباب مهمان نشوم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

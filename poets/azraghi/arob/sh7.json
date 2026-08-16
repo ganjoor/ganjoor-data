@@ -1,0 +1,58 @@
+{
+  "Id": 69368,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/azraghi/arob/sh7",
+  "RhymeLetters": "ست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر ناامیدی از وفای عهد و پیمان است. شاعر احساس می‌کند که اگر از ابتدا ارتباطش را با طرف مقابل قطع کرده بود، امروز باید خود را در خون غم بشوید. به عبارتی، از عدم وفاداری طرف مقابل و بی‌اعتباری آن نسبت به عهد و پیمانش شکایت دارد و حسرت می‌خورد که چرا در آغاز، دست از آن رابطه برنداشته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "چون بد عهدی گشت از تو این عهد درست \r\nدر سستی دست از تو چرا دارم سست\r\nگر دست نشستمی ز تو روز نخست\r\nامروز به خون روی خود باید شست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بد عهدی گشت از تو این عهد درست \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سستی دست از تو چرا دارم سست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دست نشستمی ز تو روز نخست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز به خون روی خود باید شست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون بد عهدی گشت از تو این عهد درست ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سستی دست از تو چرا دارم سست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دست نشستمی ز تو روز نخست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز به خون روی خود باید شست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

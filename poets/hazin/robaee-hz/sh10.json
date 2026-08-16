@@ -1,0 +1,58 @@
+{
+  "Id": 82898,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/hazin/robaee-hz/sh10",
+  "RhymeLetters": "یدننیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به ناامیدی و ناخوشایندی اوضاع زمانه اشاره می‌کند. او بر این باور است که بهتر از نادیده گرفتن مشکلات، راهی نیست و به خاطر تنگی دنیا، امکان حرکت و گشایش وجود ندارد. در واقع، حس خستگی و محدودیت در دنیای اطراف را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدننیست",
+      "PlainText": "اوضاع زمانه لایق دیدن نیست\r\nوضعی خوشتر ز چشم پوشیدن نیست\r\nدانی ز چه پا کشیده ام در دامان\r\nدنیا تنگ است جای جنبیدن نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاوضاع زمانه لایق دیدن نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوضعی خوشتر ز چشم پوشیدن نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی ز چه پا کشیده ام در دامان؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنیا تنگ است، جای جنبیدن نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اوضاع زمانه لایق دیدن نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وضعی خوشتر ز چشم پوشیدن نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دانی ز چه پا کشیده ام در دامان؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دنیا تنگ است، جای جنبیدن نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

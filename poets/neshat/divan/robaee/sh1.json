@@ -1,0 +1,58 @@
+{
+  "Id": 119535,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/neshat/divan/robaee/sh1",
+  "RhymeLetters": "امیها",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به ناکامی‌هایی که به خاطر خودخواهی‌هایش دچار شده، اشاره می‌کند. او می‌گوید که این زخم‌ها و سوختگی‌ها ناشی از ناپختگی‌اش است. در جستجوی رضایت و دلخوشی دوست بوده، اما نهایتاً به ناکامی و عدم دستیابی به خواسته‌هایش دچار شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیها",
+      "PlainText": "ناکامی من بود ز خودکامی ها\r\nاین سوختگی ها همه از خامی ها\r\nتا کام دل دوست طلب کردم شد\r\nکام دل من روا ز ناکامی ها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناکامی من بود ز خودکامی‌ها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین سوختگی‌ها همه از خامی‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کام دل دوست طلب کردم، شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکام دل من روا ز ناکامی‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ناکامی من بود ز خودکامی‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این سوختگی‌ها همه از خامی‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا کام دل دوست طلب کردم، شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کام دل من روا ز ناکامی‌ها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

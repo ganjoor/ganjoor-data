@@ -1,0 +1,72 @@
+{
+  "Id": 83418,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۵۷",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۵۷",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh257",
+  "RhymeLetters": "ردم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از حالتی غمگین و سرگشته سخن می‌گوید. او به انتظار کسی نشسته و در این حالت به دور خود می‌گردد. دلش نسبت به فراق معشوق دچار افسردگی است و آرزو دارد که اگر پاییز از بین برود، دوباره بهار را تجربه کند. شاعر به آرزوی خود مانند پروانه‌ای اشاره می‌کند که به عشقش نزدیک می‌شود و در کوی محبوبش امیدوارانه می‌چرخد.",
+  "Metre": {
+    "Id": 5,
+    "Rhythm": "فعلات فاعلاتن فعلات فاعلاتن (رمل مثمن مشکول)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمیگردم",
+      "PlainText": "غبار گشتم و سرگشته وار می گردم\r\nهنوز گرد سر انتظار می گردم\r\nبه این فسردگی از هجر گلعذارانم\r\nاگر خزان بگذارد بهار می گردم\r\nترحمیکه چو پروانه ی برون از بزم\r\nبه گرد کوی تو امیدوار می گردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغبار گشتم و سرگشته وار می گردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنوز گرد سر انتظار می گردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه این فسردگی، از هجر گلعذارانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر خزان بگذارد، بهار می گردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترحمی،که چو پروانه ی برون از بزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه گرد کوی تو، امّیدوار می گردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غبار گشتم و سرگشته وار می گردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنوز گرد سر انتظار می گردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به این فسردگی، از هجر گلعذارانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر خزان بگذارد، بهار می گردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ترحمی،که چو پروانه ی برون از بزم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به گرد کوی تو، امّیدوار می گردم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

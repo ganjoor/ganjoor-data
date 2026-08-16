@@ -1,0 +1,58 @@
+{
+  "Id": 73618,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/zahir/robaeez-zahir/sh26",
+  "RhymeLetters": "مت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به عظمت و قدرتمندی یک شخصیت اشاره دارد که در میان ستارگان و نیروهای طبیعی قرار دارد. شاعر از طغیانی که به واسطه تیغ و قلم این شخصیت به وجود می‌آید، سخن می‌گوید و می‌گوید که تمام عالم در مقابل او تنها خاکی جزئی است و همه چیز فدای قدم‌های اوست. این تصویر نشان‌دهنده‌ی مقام بلند و برتری فردی در برابر جهان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مت",
+      "PlainText": "ای خیل ستارگان سپاه و حشمت\r\nدوران فلک زبون تیغ و قلمت\r\nعالم همه چیست پیش تو مشتی خاک\r\nوان نیز همه فدای خاک قدمت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خیل ستارگان سپاه و حشمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوران فلک زبون تیغ و قلمت!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم همه چیست پیش تو؟ مشتی خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان نیز همه فدای خاک قدمت!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خیل ستارگان سپاه و حشمت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دوران فلک زبون تیغ و قلمت!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عالم همه چیست پیش تو؟ مشتی خاک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وان نیز همه فدای خاک قدمت!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

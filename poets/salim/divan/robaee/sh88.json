@@ -1,0 +1,58 @@
+{
+  "Id": 101879,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۸",
+  "FullUrl": "/salim/divan/robaee/sh88",
+  "RhymeLetters": "ری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از کسی می‌خواهد که به حال عاشقان و شکایت پرنده‌ی قفس گوش دهد. او به این شخص می‌گوید که همین‌طور که گل توان شنیدن دارد، او نیز باید حساسیت و درک لازم را داشته باشد، حتی اگر نسبت به احساسات فوری عشق بی‌توجه باشد. به عبارتی، شاعر از او می‌خواهد احساسات دیگران را بشنود و درک کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "ای غیر که همچون مژه از گریه تری\r\nوز ذوق نوای عاشقی بی خبری\r\nاز مرغ قفس ناله شنیدن دارد\r\nگوشی بگشای همچو گل گرچه کری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای غیر که همچون مژه از گریه تری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ذوق نوای عاشقی بی خبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مرغ قفس ناله شنیدن دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوشی بگشای همچو گل، گرچه کری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای غیر که همچون مژه از گریه تری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز ذوق نوای عاشقی بی خبری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از مرغ قفس ناله شنیدن دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوشی بگشای همچو گل، گرچه کری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

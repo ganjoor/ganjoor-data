@@ -1,0 +1,58 @@
+{
+  "Id": 112341,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/sahab/divan/robaee/sh17",
+  "RhymeLetters": "انبهعبث",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به این موضوع اشاره می‌کند که شوخی و بازی با موهای پریشان، باعث شده که او بی‌دلیل دل و جانش را از دست بدهد. حال که معشوق نزدیک او آمده است، متوجه می‌شود که تمام این احساسات و بی‌قراری‌ها بیهوده و عبث بوده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انبهعبث",
+      "PlainText": "شوخی که کند طره پریشان به عبث\r\nاز دور زمن برد دل و جان به عبث\r\nاکنون که به نزدیک من آمد دیدم\r\nهم این به عبث دادم و هم آن به عبث",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوخی که کند طره پریشان به عبث\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دور زمن برد دل و جان به عبث\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون که به نزدیک من آمد دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم این به عبث دادم و هم آن به عبث\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوخی که کند طره پریشان به عبث",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دور زمن برد دل و جان به عبث",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون که به نزدیک من آمد دیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم این به عبث دادم و هم آن به عبث",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

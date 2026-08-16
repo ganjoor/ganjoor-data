@@ -1,0 +1,58 @@
+{
+  "Id": 82893,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/hazin/robaee-hz/sh5",
+  "RhymeLetters": "راب",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به زیبایی و توهمات دنیای خواب اشاره می‌کند. او می‌گوید اگر کسی پرده خواب را کنار بزند، تمام دنیا پر از فریب و سراب می‌شود. همچنین از ساقی درخواست می‌کند که قدحی از باده ناب به او بدهد تا از حال و هوای دنیا و مستی آن بهره‌مند شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راب",
+      "PlainText": "در دیده هر که شق کند پرده خواب\r\nسرتاسر آفاق بود موج سراب\r\nساقی قدحی در ده از آن باده ناب\r\nسر دو جهان بشنو ازین مست خراب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دیدهٔ هر که شق کند پردهٔ خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرتاسر آفاق بود موج سراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی، قدحی در ده از آن بادهٔ ناب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرّ دو جهان بشنو ازین مست خراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دیدهٔ هر که شق کند پردهٔ خواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرتاسر آفاق بود موج سراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساقی، قدحی در ده از آن بادهٔ ناب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرّ دو جهان بشنو ازین مست خراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

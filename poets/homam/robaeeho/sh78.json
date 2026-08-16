@@ -1,0 +1,58 @@
+{
+  "Id": 77896,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۷۸",
+  "FullUrl": "/homam/robaeeho/sh78",
+  "RhymeLetters": "ون",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به شب نشینی و دورهمی دوستان اشاره می‌کند. او از دوستانش می‌خواهد که خواب را کنار بگذارند و همگی دور هم جمع شوند. همچنین، او بر این عقیده است که نمی‌توان از چرخش زمان و روزگار فرار کرد و باید از لذت‌های زندگی استفاده کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ون",
+      "PlainText": "از مه قدحی نهاده بر کف گردون\r\nیاران گه خواب نیست خیزید کنون\r\nما نیز به کام خود قدح برگیریم\r\nنتوان بودن ز دور گردون بیرون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مه قدحی نهاده بر کف گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاران گه خواب نیست خیزید کنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما نیز به کام خود قدح برگیریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتوان بودن ز دور گردون بیرون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مه قدحی نهاده بر کف گردون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یاران گه خواب نیست خیزید کنون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما نیز به کام خود قدح برگیریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نتوان بودن ز دور گردون بیرون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

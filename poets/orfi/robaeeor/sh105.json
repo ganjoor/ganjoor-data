@@ -1,0 +1,58 @@
+{
+  "Id": 48824,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۰۵",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰۵",
+  "FullUrl": "/orfi/robaeeor/sh105",
+  "RhymeLetters": "رد",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ساغری اشاره می‌کند که عشق از آن ناشی شده و بیان می‌کند که هیچ‌کس را نمی‌توان یافت که به این ادعا توجه نکند. او می‌گوید اگر از جرعه‌ای از این عشق بر زمین بریزد، دریای عظیمی از آن تحت تأثیر قرار خواهد گرفت. به نوعی، شاعر بر اهمیت و عمق عشق تأکید می‌کند و تأثیر آن را در دنیای اطرافش نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "بر ساغر من که عشق از او نشأه برد\r\nحد نیست کسی را که به دعوی نگرد\r\nاز جرعه خویش اگر به خاک افشانم\r\nدریای محیط از او به کشنی گذرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر ساغر من که عشق از او نشأه برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحد نیست کسی را که به دعوی نگرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جرعهٔ خویش اگر به خاک افشانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریای محیط از او به کشنی گذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر ساغر من که عشق از او نشأه برد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حد نیست کسی را که به دعوی نگرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جرعهٔ خویش اگر به خاک افشانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریای محیط از او به کشنی گذرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

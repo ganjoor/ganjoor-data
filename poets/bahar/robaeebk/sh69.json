@@ -1,0 +1,58 @@
+{
+  "Id": 51792,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/bahar/robaeebk/sh69",
+  "RhymeLetters": "انی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات دلbroken و اشک‌های ریخته‌شده اشاره دارد. شاعر به تکه‌تکه شدن دل و ناراحتی اشاره می‌کند و این‌که هر جا نشانه‌ای از غم دیده شود، انسان باید به آن نزدیک شود و احساساتش را بروز دهد. در واقع، این شعر به عمق درد و رنج انسانی پرداخته و ارتباط آن با نیاکان و تاریخ را نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انی",
+      "PlainText": "تا بشکافد به هم دل نالانی\r\nتا خون بارد ز دیده گریانی\r\nهرجاکه  دمد ستاکی اندر لب جوی\r\nدست بشرش بسر نهد پیکانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بشکافد به هم دل نالانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خون بارد ز دیدهٔ گریانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرجاکه‌ دمد ستاکی اندر لب جوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست بشرش بسر نهد پیکانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بشکافد به هم دل نالانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا خون بارد ز دیدهٔ گریانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرجاکه‌ دمد ستاکی اندر لب جوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دست بشرش بسر نهد پیکانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

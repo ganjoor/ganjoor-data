@@ -1,0 +1,58 @@
+{
+  "Id": 1205,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۸۷",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۸۷",
+  "FullUrl": "/khayyam/robaee/sh87",
+  "RhymeLetters": "ینخواهدبود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر بهشتی خوش‌عطر و پر از نعمت‌ها توصیف شده است، جایی که می و شیر و عسل وجود دارد. شاعر می‌گوید اگر ما در زندگی‌مان نوشیدنی و معشوق را انتخاب کنیم، نگرانی نداریم، چون در نهایت سرنوشتمان به همین خوشی‌ها خواهد انجامید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینخواهدبود",
+      "PlainText": "گویند بهشت و حورعین خواهد بود\r\nآنجا می و شیر و انگبین خواهد بود\r\nگر ما می و معشوق گزیدیم چه باک\r\nچون عاقبت کار چنین خواهد بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند بهشت و حورعین خواهد بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنجا می و شیر و انگبین خواهد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ما می و معشوق گزیدیم چه باک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون عاقبت کار چنین خواهد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند بهشت و حورعین خواهد بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنجا می و شیر و انگبین خواهد بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر ما می و معشوق گزیدیم چه باک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون عاقبت کار چنین خواهد بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 98980,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۱۲",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh12",
+  "RhymeLetters": "راست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به رابطه شیخ و مرید اشاره می‌کند و بیان می‌کند که اگر شیخ از حال مرید خود بی‌خبر باشد، هر دو در مسیر معنوی خود در خطر هستند. شیخی که از وضعیت مرید خود آگاهی ندارد، نمی‌تواند در عالم معنوی به درستی هدایت کند و راه را بشناسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "از حال مرید شیخ اگر بی خبر است\r\nبس شیخ و مرید را در این ره خطر است\r\nشیخی که نه واقف است از حال مرید\r\nدر عالم معنیش کجا رهگذر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حال مرید شیخ اگر بی خبر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس شیخ و مرید را در این ره خطر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیخی که نه واقف است از حال مرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عالم معنیش کجا رهگذر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حال مرید شیخ اگر بی خبر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بس شیخ و مرید را در این ره خطر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شیخی که نه واقف است از حال مرید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عالم معنیش کجا رهگذر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

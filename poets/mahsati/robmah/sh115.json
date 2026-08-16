@@ -1,0 +1,58 @@
+{
+  "Id": 50175,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۱۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۱۵",
+  "FullUrl": "/mahsati/robmah/sh115",
+  "RhymeLetters": "ویددل",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به غم و درد ناشی از دوری و عدم وصال معشوق می‌پردازد. شاعر در آن ابراز می‌کند که دلش از عشق و آرزوی وصال معشوق پر از خون و رنج است و به رحمت و بخشش معشوق نیاز دارد، زیرا زندگی و شادی از زمین و آسمان بر او نمی‌بارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویددل",
+      "PlainText": "تا کی ز غم تو رخ به خون شوید دل\r\nوآزرم وصال تو به جان جوید دل\r\nرحم آر کز آسمان نمی بارد جان\r\nبخشای که از زمین نمی روید دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی ز غم تو رخ به خون شوید دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآزرم وصال تو به جان جوید دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرحم آر کز آسمان نمی‌بارد جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبخشای که از زمین نمی‌روید دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی ز غم تو رخ به خون شوید دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآزرم وصال تو به جان جوید دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رحم آر کز آسمان نمی‌بارد جان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بخشای که از زمین نمی‌روید دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

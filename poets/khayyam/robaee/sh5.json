@@ -1,0 +1,58 @@
+{
+  "Id": 1123,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۵",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۵",
+  "FullUrl": "/khayyam/robaee/sh5",
+  "RhymeLetters": "استمرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "خیام میگوید،درسته که من در این دنیای مادی هم رنگ و رخ زیبایی دارم و هم قد و بالای رعنایی،که تمام اینها نعمتی‌ است که خدا به من عطا کرده،اما درنهایت قرار است با وجود این زیبایی‌ها به مرگ برسم،و اکنون از طرب‌خانه خاک،یعنی جایی که همه مخلوقات خدا به آنجا منتهی میشوند میپرسد که خدایا پس برای چی اصلا من را آفریدی که در آخر بمیرم؟",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استمرا",
+      "PlainText": "هر چند که رنگ و بوی زیباست مرا\r\nچون لاله رخ و چو سرو بالاست مرا\r\nمعلوم نشد که در طرب خانه خاک\r\nنقاش ازل بهر چه آراست مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که رنگ و بوی زیباست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون لاله رخ و چو سرو بالاست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعلوم نشد که در طرب‌خانهٔ خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقاش ازل بهر چه آراست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که رنگ و بوی زیباست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون لاله رخ و چو سرو بالاست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معلوم نشد که در طرب‌خانهٔ خاک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نقاش ازل بهر چه آراست مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

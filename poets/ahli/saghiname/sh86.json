@@ -1,0 +1,58 @@
+{
+  "Id": 105706,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۸۵",
+  "FullUrl": "/ahli/saghiname/sh86",
+  "RhymeLetters": "اهم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از حالتی مستی و شیدایی سخن می‌گوید که در آن دنیا و آخرت را زیر نظر ساقی می‌بیند. او به لذت‌های divine اشاره کرده و می‌گوید امروز در این حالت به بهشت و نعمت‌ها توجهی ندارد و تنها در حال مستی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهم",
+      "PlainText": "ساقی نظری که مستم و شیدا هم\r\nدنیا بدو جو پیش من و عقباهم\r\nمست تو بسوی جنت و کوثر و حور\r\nامروز نظر نمیکند فردا هم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی نظری که مستم و شیدا هم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنیا بدو جو پیش من و عقباهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست تو بسوی جنت و کوثر و حور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز نظر نمیکند فردا هم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی نظری که مستم و شیدا هم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دنیا بدو جو پیش من و عقباهم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مست تو بسوی جنت و کوثر و حور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز نظر نمیکند فردا هم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 74592,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/ghodsi/robghm/sh51",
+  "RhymeLetters": "اغمیبایدساخت",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان اهمیت شادی و استفاده از لحظات زندگی می‌پردازد. شاعر اشاره می‌کند که وقتی بهار و زیبایی باغ‌ها فرامی‌رسد، باید از آن لذت برد و زمانی برای آرامش و خوشی اختصاص داد. اما او خود را در حالتی می‌یابد که بدون شادی و آرامش است و احساس می‌کند نمی‌تواند مانند دیگران از زندگی بهره‌مند شود. به این ترتیب، شعر تضاد بین شادی عمومی و حال شخصی شاعر را نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغمیبایدساخت",
+      "PlainText": "آمد گل و برگ باغ می باید ساخت\r\nهنگامه بی فراغ می باید ساخت\r\nیاران همه برگ عیش سازند و مرا\r\nبی برگ دل و دماغ می باید ساخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد گل و برگ باغ می‌باید ساخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنگامه بی‌فراغ می‌باید ساخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاران همه برگ عیش سازند و مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌برگ، دل و دماغ می‌باید ساخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد گل و برگ باغ می‌باید ساخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنگامه بی‌فراغ می‌باید ساخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یاران همه برگ عیش سازند و مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌برگ، دل و دماغ می‌باید ساخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

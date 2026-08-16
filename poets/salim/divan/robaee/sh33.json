@@ -1,0 +1,58 @@
+{
+  "Id": 101824,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/salim/divan/robaee/sh33",
+  "RhymeLetters": "اد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به اجتماع افرادی که با هم همکاری نمی‌کنند و همدل نیستند اشاره دارد. او معتقد است که اختلاف نظر و ستیز میان این افراد، باعث بروز ناهنجاری‌هایی در جامعه می‌شود. همچنین، به این نکته اشاره می‌کند که این مشکلات به قدری زیاد شده که بر ابعاد شعر (غزل) نیز تأثیر گذاشته و به نوعی بر غنای آن افزوده است. در نهایت، شاعر با تصویر انگشت اضافی بر پنجه، به این فساد و ناهنجاری‌ها می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اد",
+      "PlainText": "جمعند در انجمن چو ارباب عناد\r\nخیزد ز نفس درازی خامه فساد\r\nاز پنج فزون گشت چو ابیات غزل\r\nبر پنجه ی او بود چو انگشت زیاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمعند در انجمن چو ارباب عناد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخیزد ز نفس درازی خامه فساد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پنج فزون گشت چو ابیات غزل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر پنجه ی او بود چو انگشت زیاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعند در انجمن چو ارباب عناد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیزد ز نفس درازی خامه فساد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پنج فزون گشت چو ابیات غزل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر پنجه ی او بود چو انگشت زیاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

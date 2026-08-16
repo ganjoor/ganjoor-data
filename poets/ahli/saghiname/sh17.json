@@ -1,0 +1,58 @@
+{
+  "Id": 105637,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۱۶",
+  "FullUrl": "/ahli/saghiname/sh17",
+  "RhymeLetters": "وختهاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر به ساقی اشاره دارد و فضای شب را توصیف می‌کند که پر از خوشی و لذت است. شاعر از ساقی درخواست می‌کند که شراب بیاورد، زیرا زمان لذت و شادی است. همچنین به سرنوشت و مرگ اشاره می‌کند و می‌گوید که این زندگی کوتاه و زودگذر است، درست مانند آتشی که خرمن را می‌سوزاند. شاعر تأکید دارد که زندگی و خوشی‌ها سریعاً از بین می‌روند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وختهاست",
+      "PlainText": "ساقی شب عیش است و مه افروخته است\r\nمی ده که فلک بکینه آموخته است\r\nدانی که اجل چه برق خرمن سوزیست\r\nتا در نگری خرمن ما سوخته است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی شب عیش است و مه افروخته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی ده که فلک بکینه آموخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی که اجل چه برق خرمن سوزیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا در نگری خرمن ما سوخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی شب عیش است و مه افروخته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می ده که فلک بکینه آموخته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دانی که اجل چه برق خرمن سوزیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا در نگری خرمن ما سوخته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

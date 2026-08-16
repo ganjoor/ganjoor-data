@@ -1,0 +1,58 @@
+{
+  "Id": 77850,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/homam/robaeeho/sh32",
+  "RhymeLetters": "انمیگردد",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این سنگ که مدام در حال حرکت است، به طور مداوم شبیه آسمان می‌شود. در طول شب، مانند بیماران ناله می‌کند و بیشتر از عاشقان سرگردان به نظر می‌رسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمیگردد",
+      "PlainText": "این سنگ که از آب روان می گردد\r\nپیوسته بسان آسمان می گردد\r\nنالان همه شب بسان بیماران است\r\nسرگردان تر ز عاشقان می گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین سنگ که از آب روان می‌گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیوسته بسان آسمان می‌گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنالان همه شب بسان بیماران است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگردان‌تر ز عاشقان می‌گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این سنگ که از آب روان می‌گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوسته بسان آسمان می‌گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نالان همه شب بسان بیماران است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرگردان‌تر ز عاشقان می‌گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 113944,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/jahan/divan/robaee/sh71",
+  "RhymeLetters": "انشباد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق و محبت خود به معشوق سخن می‌گوید. او بیان می‌کند که درد دلش با وجود معشوق بهبود می‌یابد و به خاطر شادابی و خوشحالی معشوق، دلش شاد می‌شود. همچنین، او امیدوار است که در زمان وصال، معشوق به او محبت کند و حتی جانش را در راه عشقش تقدیم کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انشباد",
+      "PlainText": "درد دل من لعل تو درمانش باد\r\nدل بسته آن پسته خندانش باد\r\nدر عهد وصال اگر نوازد ما را\r\nصد جان جهان به عید قربانش باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد دل من لعل تو درمانش باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بسته آن پسته خندانش باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عهد وصال اگر نوازد ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد جان جهان به عید قربانش باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درد دل من لعل تو درمانش باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل بسته آن پسته خندانش باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عهد وصال اگر نوازد ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد جان جهان به عید قربانش باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119551,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/neshat/divan/robaee/sh17",
+  "RhymeLetters": "گذشت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: عمر من صرف شده و هر روز مانند روز قبل گذشت. در هیچ روزی از عشق، خوشحالی بیشتری نصیبم نشد تا اینکه روز بعد بهتر از آن روز گذشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "گذشت",
+      "PlainText": "عمرم همه جز بکام خاطر بگذشت\r\nیک روز مرا چو روز دیگر بگذشت\r\nروزی نگذشت بر من از دولت عشق\r\nکز روز دگر مرا نکوتر نگذشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرم همه جز بکام خاطر بگذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک روز مرا چو روز دیگر بگذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی نگذشت بر من از دولت عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز روز دگر مرا نکوتر نگذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمرم همه جز بکام خاطر بگذشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک روز مرا چو روز دیگر بگذشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روزی نگذشت بر من از دولت عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز روز دگر مرا نکوتر نگذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1262,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۴۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۴۴",
+  "FullUrl": "/khayyam/robaee/sh144",
+  "RhymeLetters": "ین",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این چهار خط به تصویرسازی دو گاو اشاره دارد: یکی در آسمان به نام پروین و دیگری در زیر زمین. شاعر از خواننده می‌خواهد که با آگاهی و بصیرت به این دو گاو نگریسته و آن‌ها را در کنار هم ببیند. این بیان به نوعی به تضاد و تفاوت‌های موجود در دنیا اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "گاوی ست در آسمان و نامش پروین\r\nیک گاو دگر نهفته در زیر زمین\r\nچشم خردت باز کن از روی یقین\r\nزیر و زبر دو گاو مشتی خر بین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاوی‌ست در آسمان و نامش، پروین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک گاوِ دِگَر نَهُفته در زیرِ زمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچَشمِ خِرَدَت باز کُن از رویِ یَقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیر و زِبَرِ دو گاو، مُشتی خَر بین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گاوی‌ست در آسمان و نامش، پروین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک گاوِ دِگَر نَهُفته در زیرِ زمین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چَشمِ خِرَدَت باز کُن از رویِ یَقین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیر و زِبَرِ دو گاو، مُشتی خَر بین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

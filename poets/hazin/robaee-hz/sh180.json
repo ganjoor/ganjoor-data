@@ -1,0 +1,58 @@
+{
+  "Id": 83077,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۸۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۸۰",
+  "FullUrl": "/hazin/robaee-hz/sh180",
+  "RhymeLetters": "ینداردعشق",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف عشق می‌پردازند و نشان می‌دهند که عشق دارای نیرویی شگرف و آتشین است. عشق، داستانی دلنشین و جذاب دارد و به عنوان یک منبع حیات و انرژی برای دل‌ها محسوب می‌شود. این احساس، مانند صبحی روشن در سینه افراد درخشان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینداردعشق",
+      "PlainText": "هرچند نوای آتشین دارد عشق\r\nبشنو که حدیث دلنشین دارد عشق\r\nسرمایه ده حیات دلها نفسی\r\nدر سینه چو صبح راستین دارد عشق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچند نوای آتشین دارد عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشنو که حدیث دلنشین دارد عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرمایه ده حیات دلها، نفسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سینه چو صبح راستین دارد عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند نوای آتشین دارد عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشنو که حدیث دلنشین دارد عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرمایه ده حیات دلها، نفسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سینه چو صبح راستین دارد عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

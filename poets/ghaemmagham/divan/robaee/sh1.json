@@ -1,0 +1,58 @@
+{
+  "Id": 89814,
+  "CatId": 2364,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "قائم مقام فراهانی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/ghaemmagham/divan/robaee/sh1",
+  "RhymeLetters": "وب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نوعی نارضایتی و ناامیدی اشاره می‌کند. او به کسی می‌گوید که اگر نتوانسته خوب رفتار کند و در نظر شاه مورد سرزنش قرار گرفته، این موضوع به او ربطی ندارد. شاعر تأکید می‌کند که او از وضعیت خود آگاه است و با دیگران که به او آسیب زده‌اند، هیچ ارتباطی ندارد. این ابیات بیان‌گر احساس تنهایی و پذیرش سرنوشت شخصی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وب",
+      "PlainText": "گفتی که نشد خوب که گشتی مغضوب\r\nبد شد که به شاه از تو شمردند عیوب\r\nای خواجه ترا چه با من و خواجه من\r\nمن دانم و وان که بد کند با من و خوب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که نشد خوب که گشتی مغضوب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبد شد که به شاه از تو شمردند عیوب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه: ترا چه با من و خواجه من؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن دانم و وان که بد کند با من و خوب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتی که نشد خوب که گشتی مغضوب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بد شد که به شاه از تو شمردند عیوب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خواجه: ترا چه با من و خواجه من؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من دانم و وان که بد کند با من و خوب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

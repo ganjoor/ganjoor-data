@@ -1,0 +1,58 @@
+{
+  "Id": 116131,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/akhsikati/divan/robaee/sh5",
+  "RhymeLetters": "اب",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از دوری معشوق و اثر آن بر دل خود سخن می‌گوید. او احساس درد و آتش در دل دارد و در عین حال نمی‌داند چه باید بکند، زیرا معشوق از طریق نامه با او حرف زده است، اما دیداری بین آنها نیست و تنها در خواب می‌تواند او را ببیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "تا دورم از آن دو زلف مشکین بتاب\r\nاز آتش دل ز دیده می ریزم آب\r\nاکنون چه کنم که بخت برگشته من\r\nگفتار به نامه کرد و دیدار بخواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دورم از آن دو زلف مشکین بتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آتش دل، ز دیده می ریزم آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون چه کنم که بخت برگشته من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتار به نامه کرد و دیدار بخواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دورم از آن دو زلف مشکین بتاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از آتش دل، ز دیده می ریزم آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون چه کنم که بخت برگشته من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتار به نامه کرد و دیدار بخواب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

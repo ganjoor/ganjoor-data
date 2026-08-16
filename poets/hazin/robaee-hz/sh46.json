@@ -1,0 +1,58 @@
+{
+  "Id": 82934,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/hazin/robaee-hz/sh46",
+  "RhymeLetters": "اممیبایداوانیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به نوعی اشاره به احساس ناامیدی و نادرستی در جامعه دارد. شاعر بیان می‌کند که در هند و جهان مشکلاتی وجود دارد و شرایط به گونه‌ای است که به نظر می‌رسد هیچ‌کس نسبت به آن بی‌تفاوت نیست. او به نیاز به تغییر و اصلاح در جامعه اشاره می‌کند و تصریح می‌کند که باید تلاش کنیم تا افرادی با ارزش و تاثیرگذار را تربیت کنیم، اما این کار نیازمند تلاش و دوری از امور نادرست مثل طلا و ثروت حرام است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اممیبایداوانیست",
+      "PlainText": "هند است و جهان به کام می باید اوا نیست\r\nپاس هر خاص و عام می باید اوا نیست\r\nتا حامله سازیم بزرگانش را\r\nیک مشت زر حرام می باید اوا نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهند است و جهان به کام می باید اوا نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپاس هر خاص و عام می باید اوا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا حامله سازیم بزرگانش را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک مشت زر حرام می باید اوا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هند است و جهان به کام می باید اوا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پاس هر خاص و عام می باید اوا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا حامله سازیم بزرگانش را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک مشت زر حرام می باید اوا نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

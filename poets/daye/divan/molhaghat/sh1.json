@@ -1,0 +1,58 @@
+{
+  "Id": 107284,
+  "CatId": 2587,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » ملحقات » شمارهٔ ۱",
+  "FullUrl": "/daye/divan/molhaghat/sh1",
+  "RhymeLetters": "انباداست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات به داوود شها (داوود پیامبر) اشاره شده است که تا چه حد تحت تأثیر قدرت باد و نیروهای طبیعی است. شاعر از او می‌خواهد که مغرور نشود، زیرا آنچه به دست آورده، نتیجه‌ای از قدرت باد است. همچنین، به او پیشنهاد می‌کند که به دنبال ملک جاودانه باشد، چون این ملک واقعی تنها نزد خرد و دانایی یافت می‌شود و درواقع ملک ابدی مانند ملک سلیمان نیز وابسته به این خرد و دانش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انباداست",
+      "PlainText": "داوود شها گرت به فرمان باد است\r\nمغرور مشو که حاصل آن باد است\r\nرو ملک ابد طلب که نزدیک خرد\r\nتا ملک ابد ملک سلیمان باد است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداوود شها گرت به فرمان باد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغرور مشو که حاصل آن باد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرو ملک ابد طلب که نزدیک خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ملک ابد ملک سلیمان باد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داوود شها گرت به فرمان باد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مغرور مشو که حاصل آن باد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رو ملک ابد طلب که نزدیک خرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا ملک ابد ملک سلیمان باد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

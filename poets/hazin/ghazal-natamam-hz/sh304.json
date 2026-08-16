@@ -1,0 +1,58 @@
+{
+  "Id": 83465,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۳۰۴",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۳۰۴",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh304",
+  "RhymeLetters": "انشده",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از لحظاتی شاد و دل‌انگیز صحبت می‌کند که در آن من و تو با نغمه‌خوانی و آواز در کنار هم به سرایه عشق و داستان‌ها می‌پردازیم. او به زیبایی‌های زندگی و عشق اشاره می‌کند و آرزو دارد در کنار هم چون بلبل و گل، در باغی خوشبخت بنشینیم و از زیبایی‌ها لذت ببریم.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستانمنوتو",
+      "PlainText": "چون لب نایی و نی پرده سرایان من و تو\r\nسر افسانه گشاییم به دستان من و تو\r\nخرم آن ساعت و آن روز که چون بلبل و گل\r\nبنشینیم به گلگشت گلستان من و تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون لب نایی و نی، پرده سرایان من و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر افسانه گشاییم، به دستان من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرّم آن ساعت و آن روز، که چون بلبل و گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنشینیم به گلگشت گلستان من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون لب نایی و نی، پرده سرایان من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر افسانه گشاییم، به دستان من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرّم آن ساعت و آن روز، که چون بلبل و گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنشینیم به گلگشت گلستان من و تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

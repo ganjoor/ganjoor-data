@@ -1,0 +1,58 @@
+{
+  "Id": 82962,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/hazin/robaee-hz/sh74",
+  "RhymeLetters": "الههنگامصبوح",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، بلبل در صبحگاه با ناله‌های زیبا و دل‌نشین خود آواز می‌خواند و لاله نیز در همان زمان پیمانه‌ای می‌گیرد. شاعر از ساقی حال خمار شب را تعریف می‌کند و او پیاله‌اش را پر می‌کند. در مجموع، شعر به زیبایی‌های صبح و حال و هوای نوشیدن شراب اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الههنگامصبوح",
+      "PlainText": "بلبل سر کرد ناله هنگام صبوح\r\nپیمانه گرفت لاله هنگام صبوح\r\nاحوال خمار شب به ساقی گفتم\r\nپر کرد مرا پیاله هنگام صبوح",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل سر کرد ناله هنگام صبوح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمانه گرفت لاله هنگام صبوح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاحوال خمار شب به ساقی گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر کرد مرا پیاله هنگام صبوح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلبل سر کرد ناله هنگام صبوح",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیمانه گرفت لاله هنگام صبوح",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "احوال خمار شب به ساقی گفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پر کرد مرا پیاله هنگام صبوح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

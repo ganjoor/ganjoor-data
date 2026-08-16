@@ -1,0 +1,58 @@
+{
+  "Id": 38376,
+  "CatId": 1128,
+  "Title": "رباعی شمارهٔ ۵۲",
+  "FullTitle": "فیض کاشانی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۵۲",
+  "FullUrl": "/feyz/divanz/robaeez/sh52",
+  "RhymeLetters": "ازی",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شاعر دلتنگی خود را بیان می‌کند و از نبودن یک همدم و دوست هم‌دل شکایت دارد. او می‌گوید که در این عالم مادی، چطور می‌تواند پرواز کند و به عالم های دیگر برود، در حالی که کسی را برای گوش‌دادن به رازهایش ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازی",
+      "PlainText": "نی اهل دلی که بشنوم زو رازی\r\nنی هم نفسی که باشدم دمسازی\r\nکی باشد و کی که با پر و بال فنا\r\nدر عالم لامکان کنم پروازی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی اهل دلی که بشنوم زو رازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی هم نفسی که باشدم دمسازی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی باشد و کی که با پر و بال فنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عالم لامکان کنم پروازی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی اهل دلی که بشنوم زو رازی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی هم نفسی که باشدم دمسازی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی باشد و کی که با پر و بال فنا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عالم لامکان کنم پروازی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

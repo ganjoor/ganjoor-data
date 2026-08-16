@@ -1,0 +1,58 @@
+{
+  "Id": 90728,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/kalim/divan/robaee/sh17",
+  "RhymeLetters": "وختهدید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به مشاهده‌گری و تجربه‌های خود اشاره می‌کند. او از دنیا یاد می‌گیرد که در کنار بی‌ادبان، ادب را از مشکلات و سختی‌ها کسب کرده است. همچنین، او از دل‌های تیره و ناامید می‌گوید که به نظر می‌رسد هیچ راهی برای تغییر وضعیت خود ندارند. در نهایت، اشاره‌ای به آسیب‌پذیری و زود خاموش‌شدن امید دارد، مانند شمعی که در باد آسیب می‌بیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وختهدید",
+      "PlainText": "خواری از دهر دانش اندوخته دید\r\nاز بی ادبان جور ادب آموخته دید\r\nبا تیره دلان زمانه را کاری نیست\r\nآفت از باد شمع افروخته دید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواری از دهر دانش اندوخته دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بی ادبان جور ادب آموخته دید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تیره دلان زمانه را کاری نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآفت از باد شمع افروخته دید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواری از دهر دانش اندوخته دید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بی ادبان جور ادب آموخته دید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با تیره دلان زمانه را کاری نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آفت از باد شمع افروخته دید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

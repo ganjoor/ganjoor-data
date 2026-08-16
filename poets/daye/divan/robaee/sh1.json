@@ -1,0 +1,58 @@
+{
+  "Id": 107164,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/daye/divan/robaee/sh1",
+  "RhymeLetters": "انیرا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر از خدا می‌خواهد که سایه‌ی رحمت و حمایت خود را بر این جهان دائماً حفظ کند و همچنین انسان‌ها را زیر پرچم دوستی و محبتش قرار دهد تا بتوانند از اصول مسلمانی و همبستگی بهره‌مند شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیرا",
+      "PlainText": "یا رب تو مرین سایه یزدانی را\r\nبگذار بدین جهان جهانبانی را\r\nاندر کنف عاطفت خویشش دار\r\nاین حامی بیضه مسلمانی را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب تو مرین سایهٔ یزدانی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذار بدین جهان جهانبانی را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر کنف عاطفت خویشش دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین حامی بیضهٔ مسلمانی را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب تو مرین سایهٔ یزدانی را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگذار بدین جهان جهانبانی را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندر کنف عاطفت خویشش دار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این حامی بیضهٔ مسلمانی را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

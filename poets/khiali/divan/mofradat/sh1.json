@@ -1,0 +1,44 @@
+{
+  "Id": 99490,
+  "CatId": 2525,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "خیالی بخارایی » دیوان اشعار » مفردات » شمارهٔ ۱",
+  "FullUrl": "/khiali/divan/mofradat/sh1",
+  "RhymeLetters": "ت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به مفهوم تلاش و کوشش اشاره می‌کند. برای رسیدن به هدف، باید قدم برداریم، اما حتی یک نفس (لحظه‌ای) می‌تواند ما را به جلو ببرد و بی‌آنکه گامی برداریم، پیشرفت کنیم. یعنی گاهی موفقیت و پیشرفت بیشتر به درک و روحیه‌ای بستگی دارد که داریم تا به صرف تلاش فیزیکی.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ت",
+      "PlainText": "گفتمش صد قدم توانی رفت\r\nنفسی رفت و بی قدمتر گشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتمش صد قدم توانی رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفسی رفت و بی قدمتر گشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتمش صد قدم توانی رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نفسی رفت و بی قدمتر گشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 112362,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۳۸",
+  "FullUrl": "/sahab/divan/robaee/sh38",
+  "RhymeLetters": "پروانه",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به عشق و شوق خود نسبت به محبوبش اشاره می‌کند. او خود را به پروانه‌ای تشبیه کرده که در برابر شمع (محبوب) می‌سوزد و به خاطر غم محبوبش از درد رنج می‌برد. گرچه او می‌سوزد، اما محبوبش توجهی به این سوختن ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "پروانه",
+      "PlainText": "ای شمع رخ ترا دلم پروانه\r\nدام تو شود آخرم از پروانه\r\nپروانه صفت من از غمت میسوزم\r\nوز سوختنم هیچ ترا پروانه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمع رخ ترا دلم پروانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدام تو شود آخرم از پروانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپروانه صفت من از غمت میسوزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز سوختنم هیچ ترا پروانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شمع رخ ترا دلم پروانه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دام تو شود آخرم از پروانه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پروانه صفت من از غمت میسوزم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز سوختنم هیچ ترا پروانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

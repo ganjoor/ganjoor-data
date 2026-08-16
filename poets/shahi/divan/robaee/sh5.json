@@ -1,0 +1,58 @@
+{
+  "Id": 92120,
+  "CatId": 2409,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "امیر شاهی » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/shahi/divan/robaee/sh5",
+  "RhymeLetters": "اندزدد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات به نحوه‌ی دزدی و خُلق و خوی دزدان اشاره می‌شود. شاعر با استفاده از تمثیل‌ها می‌گوید دزدی که از شیطان هم کلاه می‌دزدد، نشان می‌دهد که او تا کجا می‌تواند بی‌رحم و بی‌شرم باشد. همچنین اشاره به دزدی از مرده و دزدی از نمکدان هم بر این بی‌اخلاقی و عدم وفای به عهد دزدان تأکید می‌کند. به طور کلی، این اشعار به نقد رفتارهای ناپسند و دزدی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندزدد",
+      "PlainText": "دزدی که کلاه از سر شیطان دزدد\r\nاز مرده کفن ز مرده شو نان دزدد\r\nدزدی که ز دو چشم یکی را ببرد\r\nهر جا که نمک خورد نمکدان دزدد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدزدی که کلاه از سر شیطان دزدد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز مرده کفن، ز مرده شو نان دزدد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدزدی که ز دو چشم یکی را ببرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر جا که نمک خورد نمکدان دزدد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دزدی که کلاه از سر شیطان دزدد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از مرده کفن، ز مرده شو نان دزدد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دزدی که ز دو چشم یکی را ببرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر جا که نمک خورد نمکدان دزدد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

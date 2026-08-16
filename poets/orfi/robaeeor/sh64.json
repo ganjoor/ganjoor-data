@@ -1,0 +1,58 @@
+{
+  "Id": 48783,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۶۴",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۶۴",
+  "FullUrl": "/orfi/robaeeor/sh64",
+  "RhymeLetters": "ارغماست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر این است که دل دشمن به شادی مشغول است در حالی که خود در غم به سر می‌برد. او از آرامش و سلامتی لذت می‌برد در حالی که ما در غم و ناراحتی هستیم. بیماری دل او باعث زردی و ناراحتی ما شده و این زردی نماد بهار و زیبایی را به غم تبدیل کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارغماست",
+      "PlainText": "دل دشمن شادی ست و در کار غم است\r\nاز عافیت آسوده و بیمار غم است\r\nبیماری دل مایه او زردی ماست\r\nرو زردی ما بهار گلزار غم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل دشمن شادی ست و در کار غم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عافیت آسوده و بیمار غم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیماری دل مایهٔ او، زردی ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو زردی ما بهار گلزار غم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل دشمن شادی ست و در کار غم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عافیت آسوده و بیمار غم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیماری دل مایهٔ او، زردی ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رو زردی ما بهار گلزار غم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 44942,
+  "CatId": 1688,
+  "Title": "رباعی شمارهٔ ۴۶",
+  "FullTitle": "خلیل‌الله خلیلی » رباعیات » رباعی شمارهٔ ۴۶",
+  "FullUrl": "/khalili/robaeekl/sh46",
+  "RhymeLetters": "ارهمان",
+  "SourceName": "مهران صمدنژاد",
+  "SourceUrlSlug": "ms",
+  "PoemSummary": "هوش مصنوعی: این شعر به تکرار و بی‌تغییری در زندگی اشاره دارد. صبح و شب، در و دیوارها همان هستند و زمان همچنان به همان صورت ادامه دارد. احساس می‌شود که زندگی در یک دایره تکراری می‌چرخد و هیچ چیز جدیدی به آن اضافه نمی‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارهمان",
+      "PlainText": "این صبح همان و آن شب تار همان\r\nما شش در و این چهار دیوار همان\r\nاستاد زمانه یک سبق داده به ما\r\nتکرار همان و باز تکرار همان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین صبح همان و آن شب تار همان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما شش در و این چهار دیوار همان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاستاد زمانه یک سبق داده به ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتکرار همان و باز تکرار همان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این صبح همان و آن شب تار همان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما شش در و این چهار دیوار همان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "استاد زمانه یک سبق داده به ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تکرار همان و باز تکرار همان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

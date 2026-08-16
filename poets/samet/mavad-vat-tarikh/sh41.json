@@ -1,0 +1,77 @@
+{
+  "Id": 125576,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۴۱",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۴۱",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh41",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر ناکامی شاعر در پیدا کردن راهی برای درمان مشکلات مردم است. او تلاش کرده تا از طریق ثقلین (قرآن و اهل بیت) به مردم کمک کند، اما متوجه می‌شود که همه درها بسته هستند و تنها در باز به سمت امام حسین (ع) است. به عبارت دیگر، تنها راه نجات و کمک به خلق را در محبت و توجه به امام حسین می‌یابد.",
+  "Sections": [
+    {
+      "Index": 60,
+      "Number": 60,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "هر چند تلاش کردم اندر ثقلین\r\nاز بهر علاج درد خلق کونین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند تلاش کردم اندر ثقلین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بهر علاج درد خلق کونین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 61,
+      "Number": 61,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "دیدم که بود تمام درها مسدود\r\nاز هر طرفی به غیر درگاه حسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدم که بود تمام درها مسدود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هر طرفی به غیر درگاه حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 102,
+      "Number": 102,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "هر چند تلاش کردم اندر ثقلین\r\nاز بهر علاج درد خلق کونین\r\nدیدم که بود تمام درها مسدود\r\nاز هر طرفی به غیر درگاه حسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند تلاش کردم اندر ثقلین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بهر علاج درد خلق کونین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدم که بود تمام درها مسدود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هر طرفی به غیر درگاه حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند تلاش کردم اندر ثقلین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 102,
+      "SectionIndex2": 60
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بهر علاج درد خلق کونین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 102,
+      "SectionIndex2": 60
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیدم که بود تمام درها مسدود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 102,
+      "SectionIndex2": 61
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از هر طرفی به غیر درگاه حسین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 102,
+      "SectionIndex2": 61
+    }
+  ]
+}

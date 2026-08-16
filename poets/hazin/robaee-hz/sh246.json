@@ -1,0 +1,58 @@
+{
+  "Id": 83143,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۴۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۴۶",
+  "FullUrl": "/hazin/robaee-hz/sh246",
+  "RhymeLetters": "یدارتویی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به عشق و محبوبیت اشاره دارد. شاعر دوست را به عنوان نور و روشنایی چشمانش وصف می‌کند و او را معشوق و عشق خود می‌داند. همچنین، جهان را به آشوب و فتنه تشبیه می‌کند و محبوب را به یوسف مصری، اشاره به زیبایی و جذابیت او دارد. در واقع، شاعر از عواطف عمیق و ارتباط معنوی خود با محبوبش صحبت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدارتویی",
+      "PlainText": "ای دوست چراغ چشم بیدار تویی\r\nمعشوق تویی عاشق دیدار تویی\r\nآشوب جهان فتنه بازار تویی\r\nخود یوسف مصری و خریدار تویی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست چراغ چشم بیدار تویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعشوق تویی، عاشق دیدار تویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشوب جهان، فتنهٔ بازار تویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود یوسف مصریّ و خریدار تویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست چراغ چشم بیدار تویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "معشوق تویی، عاشق دیدار تویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آشوب جهان، فتنهٔ بازار تویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود یوسف مصریّ و خریدار تویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 68853,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/onsori/oro/sh3",
+  "RhymeLetters": "رست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی‌های معشوقه‌اش اشاره می‌کند. او می‌گوید که رنگ شنگرف (سرخ) بر روی لب‌های او شبیه شکر است و موهای مشکی‌اش درخشان‌تر از ماه می‌باشد. همچنین با اشاره به حوران و غلمان به زیبایی و فریبندگی او پرداخته و در نهایت می‌گوید که این چهره زیباتر از چهره انسان‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "شنگرف چکانیده تو را بر شکر است\r\nمشکین زلفت شکسته گرد قمر است\r\nحورات مگر مادر و غلمان پدر است\r\nکاین صورت تو ز آدمی خوب تر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنگرف چکانیده تو را بر شکر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشکین زلفت شکسته گِردِ قمر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحورات مگر مادر و غلمان پدر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین صورت تو ز آدمی خوب‌تر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شنگرف چکانیده تو را بر شکر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشکین زلفت شکسته گِردِ قمر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حورات مگر مادر و غلمان پدر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین صورت تو ز آدمی خوب‌تر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

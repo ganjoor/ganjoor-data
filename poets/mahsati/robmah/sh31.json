@@ -1,0 +1,58 @@
+{
+  "Id": 50091,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۳۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۳۱",
+  "FullUrl": "/mahsati/robmah/sh31",
+  "RhymeLetters": "وریست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شعر به توصیف شب جدایی و دوری می‌پردازد. شاعر از دل و دیده‌اش می‌گوید که در این شب سخت، دچار رنج و سوز هستند. به طور کلی، احساساتی از غم و اندوه در این متن موج می‌زند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وریست",
+      "PlainText": "امشب شب هجران و وداع و دوری ست\r\nفردا دل را بدین سبب رنجوری ست\r\nای دل تو همی سوز تو را فرمان ست\r\nوای دیده تو خون گری تو را دستوری ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب شب هجران و وداع و دوری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا دل را بدین سبب رنجوری‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل تو همی سوز تو را فرمان‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوای دیده تو خون‌گری تو را دستوری‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب شب هجران و وداع و دوری‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فردا دل را بدین سبب رنجوری‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای دل تو همی سوز تو را فرمان‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وای دیده تو خون‌گری تو را دستوری‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

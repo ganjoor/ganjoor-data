@@ -1,0 +1,58 @@
+{
+  "Id": 96286,
+  "CatId": 2478,
+  "Title": "شمارهٔ  ۲۳",
+  "FullTitle": "ابوالحسن فراهانی » دیوان اشعار » رباعیات » شمارهٔ  ۲۳",
+  "FullUrl": "/abolhasan/divan/robaee/sh23",
+  "RhymeLetters": "اباست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر درباره حوری‌ای صحبت می‌کند که به عقیده او بسیار نادر و زیباست. او می‌گوید که این حوری زیباتر از آفتاب است و مثل غنچه‌ای است که درعین حال که هنوز باز نشده، به خوبی سیراب و پرورش یافته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباست",
+      "PlainText": "حوری که به زعم او چو او نایاب است\r\nزیباتر از آفتاب عالم تاب است\r\nمیگفت کسی چو غنچه دارم حق است\r\nغنچه است ولیک غنچه سیراب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحوری که به زعم او چو او نایاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیباتر از آفتاب عالم تاب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیگفت کسی چو غنچه دارم حق است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه است ولیک غنچه سیراب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حوری که به زعم او چو او نایاب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیباتر از آفتاب عالم تاب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میگفت کسی چو غنچه دارم حق است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غنچه است ولیک غنچه سیراب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

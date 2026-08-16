@@ -1,0 +1,57 @@
+{
+  "Id": 37007,
+  "CatId": 910,
+  "Title": "بخش ۸ - الحكایة و التمثیل",
+  "FullTitle": "عطار » مصیبت نامه » بخش سی و یکم » بخش ۸ - الحكایة و التمثیل",
+  "FullUrl": "/attar/mosibatname/mbkhsh31/sh8",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این بیت، دیوانه‌ای از مردی سوال می‌کند که حالش چطور است. مرد پاسخ می‌دهد که در هر طرف گشته و به‌دنبال چیزی بوده، اما در نهایت خود را در حالت پریشانی و سردرگمی یافته است.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ه",
+      "PlainText": "کرد آن دیوانه رامردی سؤال\r\nگفت هان چونی تو ای شوریده حال\r\nگفت بر هر پهلویی گشتم براه\r\nهم بتر من آمدم بیگاه و گاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرد آن دیوانه رامردی سؤال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت هان چونی تو ای شوریده حال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت بر هر پهلوئی گشتم براه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم بتر من آمدم بیگاه و گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کرد آن دیوانه رامردی سؤال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفت هان چونی تو ای شوریده حال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفت بر هر پهلوئی گشتم براه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم بتر من آمدم بیگاه و گاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

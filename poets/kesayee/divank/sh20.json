@@ -1,0 +1,58 @@
+{
+  "Id": 41607,
+  "CatId": 1675,
+  "Title": "خضاب شاعر",
+  "FullTitle": "کسایی » دیوان اشعار » خضاب شاعر",
+  "FullUrl": "/kesayee/divank/sh20",
+  "RhymeLetters": "ر",
+  "SourceName": "مهرداد بیات",
+  "SourceUrlSlug": "mb",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به زیبایی و جوانی خود اشاره می‌کند و می‌گوید که از رنگ کردن موها و خضاب کردن خود لذت می‌برد. او از مخاطب می‌خواهد که اگر رنجی دارد، بیشتر از آن را تحمل نکند. او نگران است که با گذر زمان و پیر شدن، دیگران از او هدایت و خرد بگیرند، اما انسان‌های پیر به او دسترسی نداشته باشند. در واقع، نگرانی او از پیری و ناتوانی در حفظ جوانی و زیبایی است.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "از خضاب من و از موی سیه کردن من\r\nگر همی رنج خوری بیش مخور رنج مبر\r\nغرضم زو نه جوانی است بترسم که ز من\r\nخرد پیران جویند و نیابند مگر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خضاب من و از موی سیه کردن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر همی رنج خوری، بیش مخور، رنج مبر!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغرضم زو نه جوانی است؛ بترسم که زِ من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخردِ پیران جویند و نیابند مگر!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خضاب من و از موی سیه کردن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر همی رنج خوری، بیش مخور، رنج مبر!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غرضم زو نه جوانی است؛ بترسم که زِ من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خردِ پیران جویند و نیابند مگر!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 118337,
+  "CatId": 2728,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "ادیب الممالک » دیوان اشعار » رباعیات طنز » شمارهٔ ۱۰",
+  "FullUrl": "/adib/divan/rtanz/sh10",
+  "RhymeLetters": "یریباشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به شخصی خطاب می‌کند که دارای قدرت و تاثیرگذاری است. او از جنگ و غم صحبت می‌کند و دلیری را به عنوان ویژگی آن شخص مطرح می‌کند. همچنین، شاعر درباره یک سیب صحبت می‌کند که آن را قبول کرده است، ولی نگران است که این سیب به شکلی خوشایند و سیر کننده نباشد. به طور کلی، اشعار به تضاد بین قدرت و ترس از ناامیدی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یریباشد",
+      "PlainText": "ای آنکه ترا پنجه شیری باشد\r\nدر جنگ غمت ساز دلیری باشد\r\nسیب تو قبول کردم اما ترسم\r\nاین راست شود که سیب سیری باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه ترا پنجه شیری باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جنگ غمت ساز دلیری باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیب تو قبول کردم اما ترسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین راست شود که سیب سیری باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه ترا پنجه شیری باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در جنگ غمت ساز دلیری باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سیب تو قبول کردم اما ترسم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این راست شود که سیب سیری باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

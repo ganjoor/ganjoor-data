@@ -1,0 +1,58 @@
+{
+  "Id": 103142,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۸۸",
+  "FullUrl": "/jooya/divan/robaee/sh88",
+  "RhymeLetters": "امیخواهم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از علی مرتضی که به عنوان یک شخصیت بزرگ و مقدس شناخته می‌شود، طلب کمک و درمان می‌کند. او اشاره می‌کند که هیچ درمانی جز دعای او را نمی‌خواهد و فقط از علی می‌خواهد تا دردهایش را تسکین دهد. گوینده به علی، به عنوان شاه نجف، نگاه می‌کند و از او شفا می‌طلبد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیخواهم",
+      "PlainText": "صحت ز علی مرتضی می خواهم\r\nدرد خود را از او دوا می خواهم\r\nغیر از تو علاج خود نجویم ز کسی\r\nیا شاه نجف از تو شفا می خواهم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصحّت ز علی مرتضی می‌خواهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد خود را از او دوا می‌خواهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از تو علاج خود نجویم ز کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا شاه نجف از تو شفا می‌خواهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحّت ز علی مرتضی می‌خواهم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درد خود را از او دوا می‌خواهم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غیر از تو علاج خود نجویم ز کسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا شاه نجف از تو شفا می‌خواهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

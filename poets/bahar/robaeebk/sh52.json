@@ -1,0 +1,58 @@
+{
+  "Id": 51775,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۵۲ - ریاعیات",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۵۲ - ریاعیات",
+  "FullUrl": "/bahar/robaeebk/sh52",
+  "RhymeLetters": "ن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شعر به بررسی مفهوم \u0022تن\u0022 و ساختار آن می‌پردازد و بیان می‌کند که بدن (تن) ترکیبی از چندین عنصر و میراث نیاکان است. همچنین تاکید می‌کند که بدن تحت تأثیر محیط و تغییرات زمان قرار دارد و اگر بدني گناهی مرتکب شود، چه اهمیتی دارد و باید آن را مورد بحث قرار داد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "تن چیست  مرکبی ز چندین معدن\r\nپرگشته ز میراث نیاکان کهن\r\nمحکوم محیط و انقلابات زمن\r\nتن گر گنهی کند چه بحثی است به من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن چیست‌؟ مرکبی ز چندین معدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرگشته ز میراث نیاکان کهن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحکوم محیط و انقلابات زمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن گر گنهی کند چه بحثی است به من‌؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تن چیست‌؟ مرکبی ز چندین معدن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرگشته ز میراث نیاکان کهن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "محکوم محیط و انقلابات زمن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تن گر گنهی کند چه بحثی است به من‌؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

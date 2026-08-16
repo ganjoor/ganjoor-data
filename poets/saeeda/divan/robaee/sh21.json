@@ -1,0 +1,58 @@
+{
+  "Id": 107921,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/saeeda/divan/robaee/sh21",
+  "RhymeLetters": "یماست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره افرادی است که همواره در نزدیکی خداوند هستند و از خیر و شر دنیا بی‌خبرند. این افراد بهشت و آتش را در نظر ندارند و در مرتبه‌ای بلند قرار دارند. شاعر هشدار می‌دهد که این افراد را با چشم کم ارزش نبینیم، زیرا در مقام و شأنی چون ابراهیم و آدم قرار دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یماست",
+      "PlainText": "آن را که همیشه با خدا تعظیم است\r\nنی دغدغه از بهشت و ز آتش بیم است\r\nاو را تو به چشم کم نبینی زینهار\r\nدر مرتبه آدم است ابراهیم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن را که همیشه با خدا تعظیم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی دغدغه از بهشت و ز آتش بیم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو را تو به چشم کم نبینی زینهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر مرتبه آدم است ابراهیم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که همیشه با خدا تعظیم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی دغدغه از بهشت و ز آتش بیم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او را تو به چشم کم نبینی زینهار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در مرتبه آدم است ابراهیم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

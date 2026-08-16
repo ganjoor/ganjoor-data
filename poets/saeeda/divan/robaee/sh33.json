@@ -1,0 +1,58 @@
+{
+  "Id": 107933,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/saeeda/divan/robaee/sh33",
+  "RhymeLetters": "اهمهاوست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به یک حقیقت عمیق اشاره می‌کند که خداوند در همه جا و در همه چیز حضور دارد. او وجودی است که در خانه، شهر، ده و صحرا حس می‌شود. همچنین، به این نکته تأکید می‌شود که در مذهب، دیروز و امروز و فردا همگی به او برمی‌گردند و او همان یکی است. به عبارت دیگر، همه چیز به یک منبع واحد تعلق دارد و این یکپارچگی در زمان و مکان را نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهمهاوست",
+      "PlainText": "پیدا و نهان و آشکارا همه اوست\r\nدر خانه و شهر و ده و صحرا همه اوست\r\nدر مذهب ما رفته و آینده یکی است\r\nدی او امروز او و فردا همه اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیدا و نهان و آشکارا همه اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه و شهر و ده و صحرا همه اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مذهب ما رفته و آینده یکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدی او، امروز او و فردا همه اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیدا و نهان و آشکارا همه اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خانه و شهر و ده و صحرا همه اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در مذهب ما رفته و آینده یکی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دی او، امروز او و فردا همه اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

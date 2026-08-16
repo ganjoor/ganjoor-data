@@ -1,0 +1,58 @@
+{
+  "Id": 83451,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۹۰",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۹۰",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh290",
+  "RhymeLetters": "امامدبرون",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به ابراز احساسات عاشقانه و درد دل اشاره دارد. شاعر از یغما رفتن دلش صحبت می‌کند و می‌پرسد که معشوقش آن را کجا برده و چه بر سر آن آورده است. همچنین به سنگینی بی‌توجهی‌های معشوق و تقاضاهایش اشاره می‌کند که باعث پریشانی دل شاعر شده است.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادلمن",
+      "PlainText": "نهانی کرده ای یغما دل من\r\nکجا بردی چه کردی با دل من\r\nگرانبار تغافلها نگاهت\r\nسبکدوش تمناها دل من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنهانی کرده ای یغما، دل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا بردی؟ چه کردی با دل من؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرانبار تغافلها نگاهت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسبکدوش تمناها، دل من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نهانی کرده ای یغما، دل من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کجا بردی؟ چه کردی با دل من؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرانبار تغافلها نگاهت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سبکدوش تمناها، دل من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

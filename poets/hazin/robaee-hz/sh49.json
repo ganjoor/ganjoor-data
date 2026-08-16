@@ -1,0 +1,58 @@
+{
+  "Id": 82937,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/hazin/robaee-hz/sh49",
+  "RhymeLetters": "اراست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و شگفتی‌های هندوستان اشاره می‌کند. او به مقایسه روز و شب می‌پردازد و می‌گوید که در اینجا، هر کس به نوعی با بخت و سرنوشتش درگیر است. به عبارتی، در این محیط، مشکلات و گره‌هایی وجود دارد که نیاز به حل شدن دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اراست",
+      "PlainText": "دیدیم سواد هند حیرت زار است\r\nروز که و مه چو شام هجران تار است\r\nبسته ست به کار همه شان بخت گره\r\nاینجا گره گشاده در شلوار است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدیم، سواد هند حیرت زار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز کِه و مِه چو شام هجران تار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسته ست به کار همه شان بخت گره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینجا گِرِه گشاده در شلوار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدیم، سواد هند حیرت زار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روز کِه و مِه چو شام هجران تار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسته ست به کار همه شان بخت گره",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینجا گِرِه گشاده در شلوار است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

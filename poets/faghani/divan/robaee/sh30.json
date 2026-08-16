@@ -1,0 +1,58 @@
+{
+  "Id": 97102,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/faghani/divan/robaee/sh30",
+  "RhymeLetters": "لال",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر زیبایی و دل‌نشینی نظم و نثر هستند. شاعر نثر را به آب زلال تشبیه می‌کند که خوش‌آیند است و نظم را به گلی در گلستان خیال معرفی می‌کند. همچنین، اشاره دارد که سخن او همچون روحی مصور و سحری حلال، لطیف و جذاب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لال",
+      "PlainText": "ای نظم تو نو گل گلستان خیال\r\nنثر تو خوش آیندتر از آب زلال\r\nدر صورت نظم و نثر لطف سخنت\r\nچون روح مصورست و چون سحر حلال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نظم تو نو گل گلستان خیال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنثر تو خوش آیندتر از آب زلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر صورت نظم و نثر لطف سخنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون روح مصورست و چون سحر حلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نظم تو نو گل گلستان خیال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نثر تو خوش آیندتر از آب زلال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در صورت نظم و نثر لطف سخنت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون روح مصورست و چون سحر حلال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

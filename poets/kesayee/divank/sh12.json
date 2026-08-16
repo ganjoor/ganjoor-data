@@ -1,0 +1,58 @@
+{
+  "Id": 41599,
+  "CatId": 1675,
+  "Title": "شعر و غزل",
+  "FullTitle": "کسایی » دیوان اشعار » شعر و غزل",
+  "FullUrl": "/kesayee/divank/sh12",
+  "RhymeLetters": "ند",
+  "SourceName": "مهرداد بیات",
+  "SourceUrlSlug": "mb",
+  "PoemSummary": "هوش مصنوعی: شاعر به کسی اشاره می‌کند که تنها به شعر و غزل گوش می‌دهد و از دیگر دانسته‌ها فاصله می‌گیرد. او می‌گوید اگر بخواهد زیبایی را به کسی اظهار کند، باید مانند استاد سمرقند باشد که تمام جهان به او می‌نازند. این سخن به اهمیت علم و دانش نسبت به هنر اشاره دارد و انتقاد از تنبلی در یادگیری را نشان می‌دهد.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "ای آن که جز از شعر و غزل هیچ نخوانی\r\nهرگز نکنی سیر دل از تنبل و ترفند\r\nزیبا بود ار مرو بنازد به کسایی\r\nچونان که جهان جمله به استاد سمرقند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آن که جز از شعر و غزل هیچ نخوانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز نکنی سیر دل از تُنبُل و ترفند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیبا بود ار مرو بنازد به کسایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچونان که جهان جمله به استاد سمرقند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که جز از شعر و غزل هیچ نخوانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرگز نکنی سیر دل از تُنبُل و ترفند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زیبا بود ار مرو بنازد به کسایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چونان که جهان جمله به استاد سمرقند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

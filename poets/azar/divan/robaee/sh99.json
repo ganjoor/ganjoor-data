@@ -1,0 +1,58 @@
+{
+  "Id": 119020,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۹۹",
+  "FullUrl": "/azar/divan/robaee/sh99",
+  "RhymeLetters": "وباز",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به پیامی اشاره می‌کند که از طرف پرندگان (تیهو و باز) به سوی محبوب ارسال می‌شود. او می‌گوید که هر پرنده‌ای که این نامه را به تو می‌آورد، از محل تو باز نخواهد گشت. همچنین اشاره می‌کند که مسیر عجیبی برای ما پیش آمده است؛ به طوری که از یک سو بسته و از سوی دیگر باز است، نشان از تضاد و دشواری در راه دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وباز",
+      "PlainText": "هر مرغ که نامه ی من از تیهو و باز\r\nآرد سوی تو ناید از آن کوی تو باز\r\nراه عجبی فتاده ما را بمیان\r\nکز یک طرف است بسته از یک سو باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر مرغ که نامه ی من از تیهو و باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآرد سوی تو، ناید از آن کوی تو باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراه عجبی فتاده ما را بمیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز یک طرف است بسته، از یک سو باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر مرغ که نامه ی من از تیهو و باز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آرد سوی تو، ناید از آن کوی تو باز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راه عجبی فتاده ما را بمیان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز یک طرف است بسته، از یک سو باز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

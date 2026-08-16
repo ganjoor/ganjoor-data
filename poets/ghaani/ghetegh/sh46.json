@@ -1,0 +1,58 @@
+{
+  "Id": 45686,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۴۶",
+  "FullUrl": "/ghaani/ghetegh/sh46",
+  "RhymeLetters": "ند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به معنای این است که هرگونه اشتباهی که انسان مرتکب شود، باید خود را مورد بازخواست قرار دهد و به خدا شرمنده باشد. همچنین، او باید مسئولیت عمل خود را بر دوش دیگران نیندازد. حتی اگر کسی دارای ظاهری ناپسند باشد، نمی‌توان به راحتی او را به سخره گرفت. به‌عبارتی دیگر، به جای سرزنش دیگران، باید به خود نگاه کنیم و از اشتباهات خود درس بگیریم.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "ای خواجه هر خطا که کنی خود به خود کنی\r\nرو شرمی از خدا کن و بر دیگران مبند\r\nموی دراز ریش اگر کوسه برکند\r\nهم بر دراز ریش بود جای ریشخند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه هر خطا که کنی خود به خود کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو شرمی از خدا کن و بر دیگران مبند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eموی دراز ریش اگر کوسه برکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم بر دراز ریش بود جای ریشخند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه هر خطا که کنی خود به خود کنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رو شرمی از خدا کن و بر دیگران مبند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "موی دراز ریش اگر کوسه برکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم بر دراز ریش بود جای ریشخند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

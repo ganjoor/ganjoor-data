@@ -1,0 +1,58 @@
+{
+  "Id": 83035,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۴۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۴۷",
+  "FullUrl": "/hazin/robaee-hz/sh147",
+  "RhymeLetters": "ارنبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به احساسات و تجربیات خود اشاره می‌کند. او به یاد روزهایی می‌افتد که عاشق کسی بود، اما آن فرد وجود نداشت. او در پی یافتن معنای زندگی، به پای پیر مغان می‌افتاد و در دنیای بتکده و عشق مستغرق بوده است. به عبارتی، این اشعار به جستجوی عشق و زیبایی در گذشته اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارنبود",
+      "PlainText": "کی بود که دل بسته زنار نبود\r\nجان در شکن طره گرفتار نبود\r\nسر در قدم پیر مغان می سودم\r\nآن روزکه در بتکده دیار نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی بود که دل بستهٔ زنار نبود؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان در شکن طره، گرفتار نبود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر در قدم پیر مغان می سودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن روزکه در بتکده، دیار نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی بود که دل بستهٔ زنار نبود؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان در شکن طره، گرفتار نبود؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر در قدم پیر مغان می سودم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن روزکه در بتکده، دیار نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 2115,
+  "CatId": 25,
+  "Title": "قطعه شمارهٔ ۲۳",
+  "FullTitle": "حافظ » قطعات » قطعه شمارهٔ ۲۳",
+  "FullUrl": "/hafez/ghete/sh23",
+  "RhymeLetters": "نگین",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این رباعی را حافظ پس از مرگ فرزندش سروده و لابه های یک پدر دل سوخته است",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگین",
+      "PlainText": "دلا دیدی که آن فرزانه فرزند\r\nچه دید اندر خم این طاق رنگین\r\nبه جای لوح سیمین در کنارش\r\nفلک بر سر نهادش لوح سنگین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلا دیدی که آن فرزانه فرزند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه دید اندر خم این طاق رنگین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه جای لوح سیمین در کنارش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفلک بر سر نهادش لوح سنگین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلا دیدی که آن فرزانه فرزند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه دید اندر خم این طاق رنگین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به جای لوح سیمین در کنارش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فلک بر سر نهادش لوح سنگین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

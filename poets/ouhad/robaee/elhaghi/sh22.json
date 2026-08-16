@@ -1,0 +1,58 @@
+{
+  "Id": 98990,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۲۲",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh22",
+  "RhymeLetters": "ارمنیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به احساس بی‌پناهی و تنهایی خود اشاره می‌کند. او می‌گوید که در مدرسه‌ها و مکان‌های مذهبی محلی برای او نیست و در بازار هم کسی به او توجه نمی‌کند. در واقع، او احساس می‌کند که از جامعه و محیط اطرافش طرد شده و هیچ خریدار و طرفداری ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمنیست",
+      "PlainText": "در مدرسه ها مایه گفتارم نیست\r\nدر بتکده ها صلیب و زنارم نیست\r\nسرتاسر بازار به هیچم نخرند\r\nآخر چه متاعم که خریدارم نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مدرسه ها مایهٔ گفتارم نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بتکده ها صلیب و زنّارم نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرتاسر بازار به هیچم نخرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر چه متاعم که خریدارم نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در مدرسه ها مایهٔ گفتارم نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بتکده ها صلیب و زنّارم نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرتاسر بازار به هیچم نخرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر چه متاعم که خریدارم نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 75847,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/nezari/robnez/sh100",
+  "RhymeLetters": "یشنماند",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر شرایطی است که شاعر از ناامیدی و خستگی روحی خود سخن می‌گوید. او احساس می‌کند که دیگر رمق و صبری در زندگی ندارد و به دلیل مشکلات و محدودیت‌ها، چیزی از امید و عذر باقی نمانده است. زندگی برای او به یک دوره سخت تبدیل شده و او تجربه‌های تلخی را از سر می‌گذرانند که باعث شده است از همه چیز ناامید شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشنماند",
+      "PlainText": "می ده که ز جانم رمقی بیش نماند\r\nصبرم ز دل مصلحت اندیش نماند\r\nحیض همه روزه داشت زان شد مستور\r\nوز دختر رز هیچ که عذر پیش نماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی ده که ز جانم رمقی بیش نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبرم ز دل مصلحت اندیش نماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیض همه روزه داشت زان شد مستور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز دختر رز هیچ که عذر پیش نماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می ده که ز جانم رمقی بیش نماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبرم ز دل مصلحت اندیش نماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیض همه روزه داشت زان شد مستور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز دختر رز هیچ که عذر پیش نماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

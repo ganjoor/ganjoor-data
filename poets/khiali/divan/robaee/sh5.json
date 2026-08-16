@@ -1,0 +1,58 @@
+{
+  "Id": 99481,
+  "CatId": 2523,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "خیالی بخارایی » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/khiali/divan/robaee/sh5",
+  "RhymeLetters": "اهمرو",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر از مولانا به این معناست که از سخنان عاشقان دوری کن و از قید و بندهای خود بگذر. اگر می‌خواهی اسرار عشق را بشناسی، فریب عقل خود را نخور و به دام آن نافت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهمرو",
+      "PlainText": "از صحبت عاشقان آگاه مرو\r\nبگریز ز بند خویش و از راه مرو\r\nخواهی که رموز عاشقی دریابی\r\nزنهار به عقل خویش درچاه مرو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز صحبت عاشقان آگاه مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگریز ز بند خویش و از راه مرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی که رموز عاشقی دریابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنهار به عقل خویش درچاه مرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از صحبت عاشقان آگاه مرو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگریز ز بند خویش و از راه مرو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهی که رموز عاشقی دریابی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنهار به عقل خویش درچاه مرو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

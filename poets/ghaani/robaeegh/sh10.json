@@ -1,0 +1,58 @@
+{
+  "Id": 45823,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۱۰",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۱۰",
+  "FullUrl": "/ghaani/robaeegh/sh10",
+  "RhymeLetters": "وشتواند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به زیبایی زلف‌های سیاه محبوبش اشاره می‌کند که در کنار گوشش قرار دارند. او بیان می‌کند که این زلف‌ها در هر زمان بر سر او سایه می‌اندازند و دو حلقه سیاه در گوش محبوبش به زیبایی توجه می‌کند. شاعر با زبان ادبی و شاعرانه، عشق و زیبایی را توصیف می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشتواند",
+      "PlainText": "زلفین سیه که بر بناگوش تواند\r\nسر بر سر هم نهاده همدوش تواند\r\nساید سر از ادب به پایت شب و روز\r\nآری دو سیاه حلقه در گوش تواند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلفین سیه که بر بناگوش تواَند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بر سر هم نهاده همدوش تواَند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساید سر از ادب به پایت شب و روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری دو سیاه حلقه در گوش تواَند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلفین سیه که بر بناگوش تواَند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر بر سر هم نهاده همدوش تواَند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساید سر از ادب به پایت شب و روز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری دو سیاه حلقه در گوش تواَند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

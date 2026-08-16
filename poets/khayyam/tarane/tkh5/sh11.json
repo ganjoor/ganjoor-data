@@ -1,0 +1,58 @@
+{
+  "Id": 50322,
+  "CatId": 1816,
+  "Title": "رباعی ۶۷",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » ذرات گردنده   [۷۳-۵۷] » رباعی ۶۷",
+  "FullUrl": "/khayyam/tarane/tkh5/sh11",
+  "RhymeLetters": "باشی",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با سپری کردن لحظات خوشی و سرمستی، به گفتگو با سبوی کاشی می‌پردازد. سبو به زبان حال به شاعر پیام می‌دهد که او نیز در حالت مشابهی قرار دارد و به نوعی به همدلی و اشتراک حالتی اشاره می‌کند. شاعر احساسات خودش را با سبو تقسیم می‌کند و به این نتیجه می‌رسد که هر دوی آن‌ها در وضعیتی مشابه هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باشی",
+      "PlainText": "بر سنگ زدم دوش سبوی کاشی\r\nسرمست بدم چو کردم این اوباشی\r\nبا من به زبان حال می گفت سبو\r\nمن چون تو بدم تو نیز چون من باشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر سنگ زدم دوش سبوی کاشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمست بُدَم چو کردم این اوباشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا من به زبانِ حال می‌گفت سبو:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن چون تو بُدَم، تو نیز چون من باشی!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر سنگ زدم دوش سبوی کاشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمست بُدَم چو کردم این اوباشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با من به زبانِ حال می‌گفت سبو:",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من چون تو بُدَم، تو نیز چون من باشی!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

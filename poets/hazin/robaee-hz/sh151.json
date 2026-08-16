@@ -1,0 +1,58 @@
+{
+  "Id": 83039,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۵۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۵۱",
+  "FullUrl": "/hazin/robaee-hz/sh151",
+  "RhymeLetters": "ارانچهکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها شاعر به تصویرکشی از غم و درد می‌پردازد. او می‌پرسد که با احساسات شدید و غمناک (شعله آه) و باران اشک (آتش برق آب باران) چه باید کرد، در حالی که برخی از افراد از زیبایی‌ها و فیض زندگی (اهل صورت) محروم هستند و نمی‌توانند از زیبایی‌های بهار (غنچه تصویر بهاران) بهره‌مند شوند. به طور کلی، شاعر دغدغه‌مند است که چگونه می‌توان با رنج و ناامیدی زندگی کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارانچهکند",
+      "PlainText": "با شعله آه چشم گریان چه کند\r\nبا آتش برق آب باران چه کند\r\nهستند ز فیض اهل صورت محروم\r\nبا غنچه تصویر بهاران چه کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا شعلهٔ آه، چشم گریان چه کند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا آتش برق، آب باران چه کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستند ز فیض، اهل صورت محروم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا غنچهٔ تصویر، بهاران چه کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با شعلهٔ آه، چشم گریان چه کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با آتش برق، آب باران چه کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هستند ز فیض، اهل صورت محروم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با غنچهٔ تصویر، بهاران چه کند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

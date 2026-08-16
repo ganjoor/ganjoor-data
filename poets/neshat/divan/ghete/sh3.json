@@ -1,0 +1,58 @@
+{
+  "Id": 119623,
+  "CatId": 2755,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » قطعات » شمارهٔ ۳",
+  "FullUrl": "/neshat/divan/ghete/sh3",
+  "RhymeLetters": "ریهست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر به پناه بردن از ظلم روزگار اشاره می‌کند و می‌گوید: وقتی به پناهگاه می‌روم، متوجه می‌شوم که ظلم دنیا کمتر از ظلم چرخ است. کسی که از خود و جهانش غافل است، به او توجه کن؛ زیرا او خبرهای مهمی دارد.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریهست",
+      "PlainText": "بردیم بکوی تو پناه از ستم چرخ\r\nدیدیم که از چرخ ستمکارتری هست\r\nآن کس که ز خود وز دو جهان بیخبر افتاد\r\nاز وی خبری گیر که باوی خبری هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبردیم بکوی تو پناه از ستم چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدیم که از چرخ ستمکارتری هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که ز خود وز دو جهان بیخبر افتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز وی خبری گیر که باوی خبری هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بردیم بکوی تو پناه از ستم چرخ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیدیم که از چرخ ستمکارتری هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن کس که ز خود وز دو جهان بیخبر افتاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از وی خبری گیر که باوی خبری هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

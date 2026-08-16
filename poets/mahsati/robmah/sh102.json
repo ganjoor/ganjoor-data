@@ -1,0 +1,58 @@
+{
+  "Id": 50162,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۰۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۰۲",
+  "FullUrl": "/mahsati/robmah/sh102",
+  "RhymeLetters": "رگیر",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از پور خطیب گنجه می‌خواهد که نصیحتی را بپذیرد. او همچنین او را به نشستن بر تخت لذت و نگه داشتن ساغر دعوت می‌کند. در ادامه اشاره می‌کند که خداوند از طاعت و معصیت بی‌نیاز است و در نهایت از پور خطیب می‌خواهد تا خواسته خود را از عالم بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رگیر",
+      "PlainText": "ای پور خطیب گنجه پندی بپذیر\r\nبر تخت طرب نشین به کف ساغر گیر\r\nاز طاعت و معصیت خدا مستغنیست\r\nباری تو مراد خود\u00A0ز عالم برگیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پور خطیب گنجه پندی بپذیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر تخت طرب نشین به کف ساغر گیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز طاعت و معصیت خدا مستغنیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباری تو مراد خود\u00A0ز عالم برگیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای پور خطیب گنجه پندی بپذیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر تخت طرب نشین به کف ساغر گیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از طاعت و معصیت خدا مستغنیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باری تو مراد خود\u00A0ز عالم برگیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

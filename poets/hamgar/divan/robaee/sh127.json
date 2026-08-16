@@ -1,0 +1,58 @@
+{
+  "Id": 120843,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۱۲۷",
+  "FullUrl": "/hamgar/divan/robaee/sh127",
+  "RhymeLetters": "اریماست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به حالتی از غم و بی‌خوابی اشاره می‌کند. او بیان می‌کند که از نوشیدن شراب لب معشوق خود لذت برده، اما اکنون زمان آن رسیده که به غم و جدایی فکر کند و دچار درد و نگرانی باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریماست",
+      "PlainText": "امشب شب بر سر زدن و زاریم است\r\nو اندیشه بیخوابی و بیداریم است\r\nصد شب ز لب تو خورده ام جام شراب\r\nآن رفت و کنون نوبت غمخواریم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب شب بر سر زدن و زاریم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو اندیشه بیخوابی و بیداریم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد شب ز لب تو خورده‌ام جام شراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن رفت و کنون نوبت غمخواریم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب شب بر سر زدن و زاریم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و اندیشه بیخوابی و بیداریم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد شب ز لب تو خورده‌ام جام شراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن رفت و کنون نوبت غمخواریم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

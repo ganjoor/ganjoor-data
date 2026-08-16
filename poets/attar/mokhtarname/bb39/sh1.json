@@ -1,0 +1,58 @@
+{
+  "Id": 35666,
+  "CatId": 840,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "عطار » مختارنامه » باب سی و نهم: در صفتِ میان و قدِ معشوق » شمارهٔ ۱",
+  "FullUrl": "/attar/mokhtarname/bb39/sh1",
+  "RhymeLetters": "انگفت",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این جملات، گوینده از طرفی به عقل و درایت طرف مقابل اشاره می‌کند و از طرف دیگر، او در پاسخ می‌گوید که عقل و دیوانگی در کنار هم وجود دارند. وقتی گوینده از فاصله‌ای که بین عقل و جنون وجود دارد صحبت می‌کند، پاسخ می‌آید که در این فضای مبهم نمی‌توان سخنی گفت. به عبارت دیگر، در موضوعاتی که پیچیده و مبهم‌اند، سخن گفتن دشوار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انگفت",
+      "PlainText": "گفتم که ترا عقل مه تابان گفت\r\nگفتا که ز دیوانگی و نقصان گفت\r\nگفتم که میان تست این یا مویی\r\nگفتا که درین میان سخن نتوان گفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که «ترا عقل مه تابان گفت»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا که «ز دیوانگی و نقصان گفت»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که «میان تست این یا مویی»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا که «درین میان سخن نتوان گفت!»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که «ترا عقل مه تابان گفت»",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا که «ز دیوانگی و نقصان گفت»",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که «میان تست این یا مویی»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتا که «درین میان سخن نتوان گفت!»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

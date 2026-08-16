@@ -1,0 +1,58 @@
+{
+  "Id": 70168,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۲۵",
+  "FullUrl": "/amir/robam/sh125",
+  "RhymeLetters": "شتهشدم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر از عشق و زیبایی معشوق سخن می‌گوید و احساس می‌کند که به او نزدیک شده است. او از درد و رنجی که در این مسیر متحمل شده، شکایت می‌کند و می‌پرسد که چرا هنوز آن‌ها به سوزاندن و عذاب او ادامه می‌دهند، در حالی که او به شدت دچار سوختگی احساسی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دم",
+      "PlainText": "از روضه حسن تو نگاری رسدم\r\nوز موکب وصل تو غباری رسدم\r\nتا چند کشند و چند افروزندم\r\nمن سوخته ام چرا همی سوزندم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز روضهٔ حسن تو نگاری رسدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز موکب وصل تو غباری رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند کشند و چند افروزندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن سوخته‌ام چرا همی سوزندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از روضهٔ حسن تو نگاری رسدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز موکب وصل تو غباری رسدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا چند کشند و چند افروزندم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من سوخته‌ام چرا همی سوزندم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

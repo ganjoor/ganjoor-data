@@ -1,0 +1,58 @@
+{
+  "Id": 113910,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/jahan/divan/robaee/sh37",
+  "RhymeLetters": "سیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به درد و رنج عشق اشاره دارد. شاعر به دل خود می‌گوید که از محبت یاری که به او ظلم کرده، رنجیده و غمگین نشود، چرا که آن شخص اهمیت خاصی ندارد. دل نازک و حساس او مانند دریایی بی‌پایان است که انگار در عمق آن، چیزهای بی‌ارزشی وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سیست",
+      "PlainText": "ای دل ستم از یار جفاپیشه بسیست\r\nدل بر غم او منه که او هیچ کسیست\r\nبحریست دل نازک تو بی پایان\r\nانگار که در بحر ضمیر تو خسیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل ستم از یار جفاپیشه بسیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بر غم او منه که او هیچ کسیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحریست دل نازک تو بی پایان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانگار که در بحر ضمیر تو خسیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل ستم از یار جفاپیشه بسیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل بر غم او منه که او هیچ کسیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بحریست دل نازک تو بی پایان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "انگار که در بحر ضمیر تو خسیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

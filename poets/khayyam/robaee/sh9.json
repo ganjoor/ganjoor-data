@@ -1,0 +1,58 @@
+{
+  "Id": 1127,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹",
+  "FullUrl": "/khayyam/robaee/sh9",
+  "RhymeLetters": "اراست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "در این شعر، شاعر به توصیف لحظات خوشبختی می‌پردازد و تاکید می‌کند که در زمانی که فرصت‌های زندگی در دسترس هستند، نباید غافل ماند. او می‌گوید که باید از می و لذت‌های زندگی استفاده کرد، زیرا زمانه ممکن است با چهره‌ای بی‌رحم تغییر کند و این روزهای خوش را از شما بگیرد. درواقع روزی که شما درآن هستید همان روز واقعی‌ست و ممکن است روز دیگر و یا روز بهتر از این را شما درنیابید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اراست",
+      "PlainText": "اکنون که گل سعادتت پربار است\r\nدست تو ز جام می چرا بیکار است\r\nمی خور که زمانه دشمنی غدار است\r\nدریافتن روز چنین دشوار است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون که گل سعادتت پربار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست تو ز جام مِی چرا بیکار است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمِی خور که زمانه دشمنی غدار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریافتن روز چنین دشوار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اکنون که گل سعادتت پربار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست تو ز جام مِی چرا بیکار است؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مِی خور که زمانه دشمنی غدار است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریافتن روز چنین دشوار است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

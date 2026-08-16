@@ -1,0 +1,58 @@
+{
+  "Id": 68855,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/onsori/oro/sh5",
+  "RhymeLetters": "مانامدراست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی و دلربایی معشوق اشاره می‌کند. او با تشبیه ابروهای معشوق به کمان و مژگان به تیر، از جذابیت آن‌ها صحبت می‌کند و بیان می‌دارد که احساس دل‌باختگی‌اش به درستی شکل گرفته است. در نهایت به دوستی و پیشه معشوق اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مانامدراست",
+      "PlainText": "ابروت به زه کرده کمان آمد راست\r\nمژگانت چو تیر بر کمان آمد راست\r\nما را ز تو دلبری گمان آمد راست\r\nای دوست تو را پیشه همان آمد راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابروت به زه کرده کمان آمد راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژگانت چو تیر بر کمان آمد راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را ز تو دلبری گمان آمد راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دوست، تو را پیشه همان آمد راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابروت به زه کرده کمان آمد راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مژگانت چو تیر بر کمان آمد راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را ز تو دلبری گمان آمد راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای دوست، تو را پیشه همان آمد راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

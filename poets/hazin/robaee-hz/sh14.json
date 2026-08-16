@@ -1,0 +1,58 @@
+{
+  "Id": 82902,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/hazin/robaee-hz/sh14",
+  "RhymeLetters": "ارینیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار بیانگر این است که انسان باید به قدرت خداوند ایمان داشته باشد و به هیچ مخلوقی جز او تکیه نکند. شاعر تاکید می‌کند که ظلم هیچ کسی نمی‌تواند بر او غلبه کند و در نهایت همه چیز در برابر خداوند قرار دارد. او خود را از تأثیر ظلم دیگران آزاد می‌بیند و در نهایت به عظمت و قدرت خداوند اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارینیست",
+      "PlainText": "دانم که به جز خدای قهاری نیست\r\nبر خاطرم از ظلم کسی باری نیست\r\nماهیت مخلوق نباشد غالب\r\nمغلوب خدا شدن مرا عاری نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانم که به جز خدای قهّاری نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خاطرم از ظلم کسی باری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماهیت مخلوق نباشد غالب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغلوبِ خدا شدن مرا عاری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانم که به جز خدای قهّاری نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر خاطرم از ظلم کسی باری نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماهیت مخلوق نباشد غالب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مغلوبِ خدا شدن مرا عاری نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 112347,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/sahab/divan/robaee/sh23",
+  "RhymeLetters": "یمانمباز",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از بازگشت به گناه و توبه‌اش سخن می‌گوید. او ابتدا با ایمان و عزم قوی به ترک نوشیدن شراب می‌پردازد، اما دوباره به همان عمل روی می‌آورد و از توبه‌اش پشیمان می‌شود. به عبارت دیگر، او در تلاش است که خود را کنترل کند، اما همچنان در دام وسوسه‌ها گرفتار می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یمانمباز",
+      "PlainText": "از توبه چو تازه گشت ایمانم باز\r\nدل کرد از آن توبه پشیمانم باز\r\nپیمان بستم به ترک پیمانه کشی\r\nپیمانه ی می شکست پیمانم باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز توبه چو تازه گشت ایمانم باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل کرد از آن توبه پشیمانم باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیمان بستم به ترک پیمانه کشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمانه ی می شکست پیمانم باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از توبه چو تازه گشت ایمانم باز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل کرد از آن توبه پشیمانم باز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیمان بستم به ترک پیمانه کشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیمانه ی می شکست پیمانم باز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

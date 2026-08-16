@@ -1,0 +1,58 @@
+{
+  "Id": 83138,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۴۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۴۱",
+  "FullUrl": "/hazin/robaee-hz/sh241",
+  "RhymeLetters": "ونایساقی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد که قدح (جام) را بشکند و نشان دهد که در این دنیای بی‌ارزش، آنچه که در این جام است، کم‌رنگ و بی‌معناست. او درباره حال افرادی که به خمار باده ناب دچار شده‌اند، سوال می‌کند و معجزه‌ی آن را طلب می‌کند. در واقع، شاعر در جستجوی لحظاتی از سرخوشی و فرار از اندوه و خستگی زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونایساقی",
+      "PlainText": "بشکن قدح سپهر دون ای ساقی\r\nمی نیست درین جام نگون ای ساقی\r\nمردم ز خمار باده ناب کجاست\r\nتا چند توان کشید خون ای ساقی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشکن قدح سپهر دون ای ساقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی نیست درین جام نگون ای ساقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمُردم ز خمار، بادهٔ ناب کجاست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چند توان کشید خون ای ساقی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بشکن قدح سپهر دون ای ساقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می نیست درین جام نگون ای ساقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مُردم ز خمار، بادهٔ ناب کجاست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا چند توان کشید خون ای ساقی؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

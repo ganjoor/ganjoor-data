@@ -1,0 +1,58 @@
+{
+  "Id": 50105,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۴۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۴۵",
+  "FullUrl": "/mahsati/robmah/sh45",
+  "RhymeLetters": "انباد",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از غم و درد جدایی از معشوق صحبت می‌کند. او می‌گوید که بدون یاد معشوق، وجودش همچون خاک و بی‌جان است. دلش نیز به یاد او زنده است، اما در عین حال تحت تأثیر غم او قرار دارد. اگرچه شادی‌هایی در زندگی‌اش وجود دارد، اما این شادی‌ها تنها به خاطر غم معشوق به زندانی تبدیل شده‌اند. در کل، شاعر به زیبایی احساسات عمیق خود را از فقدان و جدایی بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انباد",
+      "PlainText": "بی یاد تو در تنم نفس پیکان باد\r\nدل زنده به اندهت چو تن بیجان باد\r\nگر در تن من به هیج نوعی شادیست\r\nالا به غمت پوست برو زندان باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی یاد تو در تنم نفس پیکان باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل زنده به اندُهت چو تن بیجان باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در تن من به هیج نوعی شادیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالا به غمت پوست برو زندان باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی یاد تو در تنم نفس پیکان باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل زنده به اندُهت چو تن بیجان باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر در تن من به هیج نوعی شادیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "الا به غمت پوست برو زندان باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

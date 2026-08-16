@@ -1,0 +1,58 @@
+{
+  "Id": 73599,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/zahir/robaeez-zahir/sh7",
+  "RhymeLetters": "یخت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و زودگذر بودن زندگی و جوانی اشاره می‌کند. او از شکوفه‌ ای سخن می‌گوید که مدتی رنگ و جلوه دارد، اما در نهایت به سرعت از بین می‌رود. شکوفه‌ها در زندگی ما نیز مانند این حالت موقتی هستند؛ جوانی و زیبایی ممکن است مدتی درخشنده باشد، ولی ناگهان به پایان می‌رسد و این فرآیند طبیعی زندگی را نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یخت",
+      "PlainText": "خصمت چو شکوفه مدتی رنگ آمیخت\r\nتا همچو شکوفه چرخش از دار آویخت\r\nمی زد چو شکوفه دست در هر شاخی\r\nآخر چو شکوفه ناگه از بار بریخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخصمت چو شکوفه مدتی رنگ آمیخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا همچو شکوفه چرخش از دار آویخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی زد چو شکوفه دست در هر شاخی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر چو شکوفه ناگه از بار بریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خصمت چو شکوفه مدتی رنگ آمیخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا همچو شکوفه چرخش از دار آویخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می زد چو شکوفه دست در هر شاخی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر چو شکوفه ناگه از بار بریخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Id": 70010,
+  "CatId": 2043,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "امیر معزی » قطعات » شمارهٔ ۱",
+  "FullUrl": "/amir/ghatam/sh1",
+  "RhymeLetters": "انیمرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، فرد به خداوند می‌گوید که وقتی او را به ضیافت خود دعوت می‌کند، از مشکلات و سختی‌های زندگی نجاتش می‌دهد. او اعلام می‌کند که سال‌هاست که در خدمت خداوند بوده و حتی اگر دیگران این را ندانند، خداوند از این موضوع آگاه است. در نهایت، او به افتخار این دعوت اشاره کرده و می‌گوید که تا قیامت این موضوع برایش افتخار خواهد بود که در حضور خداوند به او توجه شده و مورد پذیرایی قرار گرفته است.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیمرا",
+      "PlainText": "ای خداوندی که چون در بزم بنشانی مرا\r\nاز بلا و محنت ایام برهانی مرا\r\nحق خدمت دارم اندر دولت تو سالها\r\nگر کس دیگر نمی داند همی دانی مرا\r\nتا قیامت فخر من باشد که اندر بزم خویش\r\nدر بر تختم نشانی و بدر خوانی مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خداوندی که چون در بزم بنشانی مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بلا و محنت ایام برهانی مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق خدمت دارم اندر دولت تو سالها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر کس دیگر نمی‌داند همی دانی مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا قیامت فخر من باشد که اندر بزم خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بر تختم نشانی و بدر خوانی مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خداوندی که چون در بزم بنشانی مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بلا و محنت ایام برهانی مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حق خدمت دارم اندر دولت تو سالها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر کس دیگر نمی‌داند همی دانی مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا قیامت فخر من باشد که اندر بزم خویش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در بر تختم نشانی و بدر خوانی مرا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

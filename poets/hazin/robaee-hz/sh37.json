@@ -1,0 +1,58 @@
+{
+  "Id": 82925,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/hazin/robaee-hz/sh37",
+  "RhymeLetters": "اگاهیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این کوچه پر از وحشت و ترس است و هر جا که آگاهی وجود دارد، حیرت و شگفتی هم هست. زندگی مانند یک نمایش است و جهان نیز صحنه‌ای برای تماشای اتفاقات عجیب و غریب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اگاهیست",
+      "PlainText": "این کوچه عمر وحشت افزا راهی ست\r\nحیرت زده است هرکجا آگاهی ست\r\nبازیگر روزگار را معرکه هاست\r\nمیدان جهان طرفه تماشا گاهی ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین کوچهٔ عمر، وحشت افزا راهی ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیرت زده است هرکجا آگاهی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازیگر روزگار را معرکه هاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیدان جهان، طرفه تماشا گاهی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این کوچهٔ عمر، وحشت افزا راهی ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حیرت زده است هرکجا آگاهی ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بازیگر روزگار را معرکه هاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میدان جهان، طرفه تماشا گاهی ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

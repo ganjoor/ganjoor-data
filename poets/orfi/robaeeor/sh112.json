@@ -1,0 +1,58 @@
+{
+  "Id": 48831,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۱۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۱۲",
+  "FullUrl": "/orfi/robaeeor/sh112",
+  "RhymeLetters": "ارکند",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: شاعر می‌گوید که وقتی عشق در دل مشتری به وجود می‌آید، احساسات و غم‌هایش را به کالاهایی در بازار تبدیل می‌کند. او حتی یک مقدار کوچک از غم را به هزار جان می‌فروشد و این غم باعث می‌شود که دیگری برای آن شوق و زاری کند و به دنبال او بیفتد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارکند",
+      "PlainText": "چون عشق به کام مشتری کار کند\r\nوز جنس غم آرایش بازار کند\r\nیک جو به هزار جان فروشد از غم\r\nتا زاری ای از پی ات خریدار کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عشق به کام مشتری کار کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز جنس غم آرایش بازار کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک جو به هزار جان فروشد از غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا زاری ای از پی ات خریدار کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون عشق به کام مشتری کار کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز جنس غم آرایش بازار کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک جو به هزار جان فروشد از غم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا زاری ای از پی ات خریدار کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

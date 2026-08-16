@@ -1,0 +1,49 @@
+{
+  "Id": 52060,
+  "CatId": 1849,
+  "Title": "فقرۀ ۷۱",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۷۱",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh66",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: خود را تسلیم خوبی‌ها کن تا بهره‌مند باشی. فرمانبرداری از نیکی‌ها راهی به سوی سود و نعمت از جانب پروردگار است.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "به فرمانبری راه نیکی سپار\r\nکه خوش بهره یابی ز پروردگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه فرمانبری راه نیکی سپار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خوش بهره یابی ز پروردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "خوش فرمان باش که خوش بهر باشی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "به فرمانبری راه نیکی سپار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "که خوش بهره یابی ز پروردگار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

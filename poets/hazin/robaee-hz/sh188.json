@@ -1,0 +1,58 @@
+{
+  "Id": 83085,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۸۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۸۸",
+  "FullUrl": "/hazin/robaee-hz/sh188",
+  "RhymeLetters": "رانکردم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از پریشانی و آشفتگی درونی خود خبر می‌دهد و به ویرانی و غم جسم و روحش اشاره می‌کند. همچنین، او از بردن خشت از کعبه، نماد دین، سخن می‌گوید و به نوعی نشان می‌دهد که به ساختن کلیسای گبران، یعنی جایی برای عقاید دیگران، پرداخته است. این متن نشان‌دهنده تضاد بین سنت‌های مذهبی و تجربه‌های شخصی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رانکردم",
+      "PlainText": "جمعیت خویش را پریشان کردم\r\nدل بر سر جسم تیره ویران کردم\r\nاز کعبه تمام عمر دزدیدم خشت\r\nتعمیر کلیسیای گبران کردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمعیت خویش را پریشان کردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل، بر سر جسم تیره ویران کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز کعبه تمام عمر دزدیدم خشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعمیر کلیسیای گبران کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعیت خویش را پریشان کردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل، بر سر جسم تیره ویران کردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از کعبه تمام عمر دزدیدم خشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تعمیر کلیسیای گبران کردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

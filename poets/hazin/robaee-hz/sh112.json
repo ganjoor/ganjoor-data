@@ -1,0 +1,58 @@
+{
+  "Id": 83000,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۱۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۱۲",
+  "FullUrl": "/hazin/robaee-hz/sh112",
+  "RhymeLetters": "نکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی غمش در فقدان یک عزیز صحبت می‌کند. شاعر بیان می‌کند که در سوگ آن شخص، زمین و آسمان نیز متأثر شده‌اند و آسمان خود را با کفن کبود در آغوش گرفته است. همچنین، درد و غم ناشی از این فقدان، همه جا را فرا گرفته و بر دل مصیبت‌زدگان اثر گذاشته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نکرد",
+      "PlainText": "در ماتم تو ملک و ملک شیون کرد\r\nگردون کفن کبود در گردن کرد\r\nدست غم تو ز ما مصیبت زدگان\r\nهر جیب که داشت چاک تا دامن کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ماتم تو، ملک و ملک شیون کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردون کفن کبود در گردن کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست غم تو ز ما مصیبت زدگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر جیب که داشت، چاک تا دامن کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ماتم تو، ملک و ملک شیون کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردون کفن کبود در گردن کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دست غم تو ز ما مصیبت زدگان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر جیب که داشت، چاک تا دامن کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

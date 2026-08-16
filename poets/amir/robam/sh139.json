@@ -1,0 +1,58 @@
+{
+  "Id": 70182,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۳۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۳۹",
+  "FullUrl": "/amir/robam/sh139",
+  "RhymeLetters": "ینهٔمن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شعر، گوینده از سرنوشت بد خود و دوری غم‌هایی که او را احاطه کرده‌اند، سخن می‌گوید. او اشاره می‌کند که اگرچه در دلش نور امیدی وجود دارد، اما تیرهای عشق و غم او را بسیار خسته کرده‌اند. در نهایت، بخت او را در زمینه‌ای تحمل کرده است که زندگی‌اش ادامه یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمن",
+      "PlainText": "بگرفت شها قضای بد دامن من\r\nتا لشکر غم نشست پیرامن من\r\nگر خست به تیر تو دل روشن من\r\nبخت تو نگاه داشت جان در تن من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگرفت شها قضای بد دامن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا لشکر غم نشست پیرامن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خست به تیر تو دل روشن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبخت تو نگاه داشت جان در تن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگرفت شها قضای بد دامن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا لشکر غم نشست پیرامن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر خست به تیر تو دل روشن من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بخت تو نگاه داشت جان در تن من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

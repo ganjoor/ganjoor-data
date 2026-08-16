@@ -1,0 +1,58 @@
+{
+  "Id": 12800,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۶۵",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۶۵",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh65",
+  "RhymeLetters": "مست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به شیوه‌ای عمیق و فلسفی به وجود و عدم، درد و درمان، و تضادهای زندگی می‌پردازند. شاعر می‌گوید که وقتی چیزی از وجودش کم می‌شود، در اصل، وجودش در حیطه عدم است. درد و درمان همزمان وجود دارند، و می‌توانند هم شفا بخش باشند و هم رنج‌آور. در نهایت، به نوعی اشاره می‌کند که مرگ و زندگی، یا ملک الموت و مسیحا، در هم آمیخته‌اند و مکمل یکدیگرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مست",
+      "PlainText": "ار نیست دهان فزونت ار هست کمست\r\nگویی به مثل وجودش اندر عدم ست\r\nدرد است و دواست هم شفا و الم ست\r\nگویی ملک الموت و مسیحا بهم ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eار نیست دهان فزونت ار هست کمست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی به مثل وجودش اندر عدم‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد است و دواست هم شفا و الم‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی ملک الموت و مسیحا بهم‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ار نیست دهان فزونت ار هست کمست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی به مثل وجودش اندر عدم‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درد است و دواست هم شفا و الم‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی ملک الموت و مسیحا بهم‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 68886,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/onsori/oro/sh36",
+  "RhymeLetters": "م",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده به معشوقش می‌گوید که کار او ظلم است. معشوق در پاسخ به او می‌گوید که غمگینان را کم می‌بیند. سپس گوینده از معشوق می‌خواهد که به او بوسه‌ای از زر بدهد و معشوق پاسخ می‌دهد که این کار را انجام خواهد داد. در نهایت، گوینده اضافه می‌کند که آیا فقط به بوسه بسنده می‌کند و معشوق در جواب می‌گوید که این کافی است. \n\nبه طور کلی، این شعر به ارتباط عاشق و معشوق و تناقضات موجود در این رابطه اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "گفتم صنما پیشه تو گفت ستم\r\nگفتم نگری به غمگنان گفتا کم\r\nگفتم که به زر بوسه دهی گفت دهم\r\nگفتم به جز از بوسه دهی گفت نعم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: صنما پیشهٔ تو؟ گفت: ستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم: نگری به غمگِنان؟ گفتا: کم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که به زر بوسه دهی؟ گفت: دهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم به‌جز از بوسه دهی؟ گفت: نعم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم: صنما پیشهٔ تو؟ گفت: ستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم: نگری به غمگِنان؟ گفتا: کم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که به زر بوسه دهی؟ گفت: دهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم به‌جز از بوسه دهی؟ گفت: نعم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

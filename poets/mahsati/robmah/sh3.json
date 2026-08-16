@@ -1,0 +1,58 @@
+{
+  "Id": 50063,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۳",
+  "FullUrl": "/mahsati/robmah/sh3",
+  "RhymeLetters": "اخت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "در این شعر، شاعر به زیبایی تغییرات دنیا و طبیعت را در قالب گذر روزها و با بکارگیری عناصر چهارگانه(چهار آخشیج) بیان می‌دارد. او با هنرمندی تمام تلمیحات و تشبیهات را بکار می‌گیرد تا به خواننده چند موضوع را همزمان نشان دهد: گذر روزگاران، تکاپو و رشدونمو طبیعت، و با توجه به مکتب ادبی شاعر که «شهرآشوب» است، بازنمایی کار و شغل آهنگرانی که خود و زره و ادوات جنگی می‌سازند در روزگار خود شاعر.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اخت",
+      "PlainText": "گر باد پریر خود نرگس بفراخت\r\nدی درع بنفشه نیز بر خاک انداخت\r\nامروز کشید خنجر سوسن از آب\r\nفردا سپر از آتش گل خواهد ساخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر باد پریر خود نرگس بفراخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدی درع بنفشه نیز بر خاک انداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز کشید خنجر سوسن از آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا سپر از آتش گل خواهد ساخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر باد پریر خود نرگس بفراخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دی درع بنفشه نیز بر خاک انداخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز کشید خنجر سوسن از آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فردا سپر از آتش گل خواهد ساخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

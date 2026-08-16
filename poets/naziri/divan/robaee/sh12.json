@@ -1,0 +1,58 @@
+{
+  "Id": 123578,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/naziri/divan/robaee/sh12",
+  "RhymeLetters": "ابانداخت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از تأثیر عواطف و احساسات خود بر دوستانش صحبت می‌کند، به طوری که توانسته است شور و شوق را در آن‌ها ایجاد کند. همچنین به زیبایی نغمه‌های مطرب اشاره دارد که موجبات شادی و نشاط را فراهم می‌آورد. در نهایت، شاعر بیان می‌کند که اگر چیزی نتواند در دلش شعری به وجود آورد، جای تعجبی ندارد؛ زیرا درد و غم او مانند کشتی‌ای است که در آب غرق شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابانداخت",
+      "PlainText": "فصلی که چمن شور در احباب انداخت\r\nمطرب سر زلف نغمه در تاب انداخت\r\nبیتی بادا گر نسرودم چه عجب\r\nغم طبع مرا سفینه در آب انداخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفصلی که چمن شور در احباب انداخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمطرب سر زلف نغمه در تاب انداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیتی بادا گر نسرودم چه عجب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغم طبع مرا سفینه در آب انداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فصلی که چمن شور در احباب انداخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مطرب سر زلف نغمه در تاب انداخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیتی بادا گر نسرودم چه عجب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم طبع مرا سفینه در آب انداخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

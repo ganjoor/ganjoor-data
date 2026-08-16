@@ -1,0 +1,58 @@
+{
+  "Id": 101873,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/salim/divan/robaee/sh82",
+  "RhymeLetters": "ین",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به دو برادر اشاره می‌کند که هر دو سیاه‌فام هستند و به کاهش و تضاد قد آن‌ها نیز اشاره می‌کند. به نوعی، این دو برادر به هم شبیه هستند، اما از نظر قد و stature تفاوت‌هایی دارند، که مانند سایه‌های کوتاه و بلند به نظر می‌رسند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "با هم دو برادر سیه فام ببین\r\nگویی که دوپاره کرده ای یک سرگین\r\nلیکن به قد پست و بلند ایشان\r\nفرق است چو سایه های پیشین و پسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هم دو برادر سیه فام ببین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که دوپاره کرده ای یک سرگین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیکن به قد پست و بلند ایشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرق است چو سایه های پیشین و پسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با هم دو برادر سیه فام ببین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی که دوپاره کرده ای یک سرگین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن به قد پست و بلند ایشان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرق است چو سایه های پیشین و پسین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

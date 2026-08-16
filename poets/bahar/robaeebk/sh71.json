@@ -1,0 +1,58 @@
+{
+  "Id": 51794,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/bahar/robaeebk/sh71",
+  "RhymeLetters": "اندنهتویی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که کسی که اسرار غیب را می‌داند، تو نیستی و همچنین کسی که قادر به خواندن خطوط ناپیدا است، تو نیستی. بنابراین، نگرانی درباره عاقبت و آنچه پس از مرگ باقی می‌ماند نیز بی‌فایده است، زیرا اگر چیزی هم از تو بماند، متعلق به تو نیست. در واقع، این ابیات به عدم مالکیت انسان بر علم و نتایج زندگی‌اش پس از مرگ اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندنهتویی",
+      "PlainText": "آن کس که رموز غیب داند نه تویی\r\nوان کو خط نابوده بخواند نه تویی\r\nاندیشه عاقبت مکن کز پس مرگ\r\nچیزی هم اگر از تو بماند نه تویی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که رموز غیب داند، نه تویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان کو خط نابوده بخواند، نه تویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندیشهٔ عاقبت مکن کز پس مرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچیزی هم اگر از تو بماند، نه تویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که رموز غیب داند، نه تویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان کو خط نابوده بخواند، نه تویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندیشهٔ عاقبت مکن کز پس مرگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چیزی هم اگر از تو بماند، نه تویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

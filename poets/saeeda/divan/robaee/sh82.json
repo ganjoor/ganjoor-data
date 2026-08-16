@@ -1,0 +1,58 @@
+{
+  "Id": 107982,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/saeeda/divan/robaee/sh82",
+  "RhymeLetters": "بمیزاید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این متن، شاعر بیان می‌کند که از درد و رنج او، خواسته‌های او به وجود می‌آید و از راحتی‌اش، رنج و تعب زاده می‌شود. همچنین اشاره می‌کند که بخت او هر روز منتظر یک واقعه است، اما آن واقعه در شب و زمانی ناگهانی و بدون انتظار به ظهور می‌رسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بمیزاید",
+      "PlainText": "از مطلب من درد طلب من زاید\r\nوز راحت من گرد تعب می زاید\r\nبختم هر روز می شود آبستن\r\nناکرده ظهور شام شب می زاید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مطلب من درد طلب من زاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز راحت من گرد تعب می زاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبختم هر روز می شود آبستن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناکرده ظهور شام، شب می زاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مطلب من درد طلب من زاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز راحت من گرد تعب می زاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بختم هر روز می شود آبستن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناکرده ظهور شام، شب می زاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

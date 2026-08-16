@@ -1,0 +1,58 @@
+{
+  "Id": 51491,
+  "CatId": 1833,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "ملک‌الشعرا بهار » قطعات » شمارهٔ ۱۰۲",
+  "FullUrl": "/bahar/ghetebk/sh102",
+  "RhymeLetters": "یر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به صحنه‌ای اشاره می‌کند که در زمان غذا خوردن به امیر نزدیک شده است. او مشاهده می‌کند که نوکران امیر با کمان در کنار سفره نشسته‌اند و مگس‌ها را هدف قرار داده‌اند. این تصویر نشان‌دهنده انتظار و بی‌نظمی به هنگام صرف غذا است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یر",
+      "PlainText": "غذای میر ندیدم ولی به گاه غذا\r\nبر اوگذشتم و دیدم که چاکران امیر\r\nکمان گروهه به کف گرد سفره خانه او\r\nکمین گشاده مگس ها همی زنند به تیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغذای میر ندیدم ولی به گاه غذا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر اوگذشتم و دیدم که چاکران امیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکمان گروهه به کف گرد سفره‌خانه او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکمین گشاده مگس ها همی زنند به تیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غذای میر ندیدم ولی به گاه غذا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر اوگذشتم و دیدم که چاکران امیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کمان گروهه به کف گرد سفره‌خانه او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کمین گشاده مگس ها همی زنند به تیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

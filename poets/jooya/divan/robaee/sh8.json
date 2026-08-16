@@ -1,0 +1,58 @@
+{
+  "Id": 103062,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/jooya/divan/robaee/sh8",
+  "RhymeLetters": "اب",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به معشوق اشاره می‌کند و می‌گوید که دیگر چه مدت می‌خواهی با حجاب و پنهانی بمانی. او خواسته است که لحظه‌ای از خود فاصله بگیری و به عشق واقعی نزدیک شوی. همچنین اشاره می‌کند که وجود ما خود به یک حجاب در مسیر عشق تبدیل شده است، مانند پرده‌ای که خودمان برای خود ایجاد کرده‌ایم. در نهایت، شاعر با این تصویر به این نتیجه می‌رسد که تنها راه رسیدن به عشق، کنار گذاشتن پرده‌ها و محدودیت‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "تا چند ز معشوق بمانی به حجاب\r\nاز خویش دمی برآی یعنی ز نقاب\r\nشد هستی ما حجاب ما در ره عشق\r\nخود پرده خود شدیم چوم چشم حباب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند ز معشوق بمانی به حجاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خویش دمی برآی یعنی ز نقاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد هستی ما حجاب ما در ره عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود پردهٔ خود شدیم چوم چشم حباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند ز معشوق بمانی به حجاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خویش دمی برآی یعنی ز نقاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد هستی ما حجاب ما در ره عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود پردهٔ خود شدیم چوم چشم حباب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

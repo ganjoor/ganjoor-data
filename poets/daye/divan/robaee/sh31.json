@@ -1,0 +1,58 @@
+{
+  "Id": 107194,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/daye/divan/robaee/sh31",
+  "RhymeLetters": "ابند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عشق و زیبایی اشاره می‌کند و بیان می‌کند که عاشقان مانند آفتاب درخشان هستند. اگر عشق به او دست یابد، خاک او را در آغوش می‌کشد. شاعر همچنین از دشمن خود، که ناشی از جهل است، سخن می‌گوید و او را به پرندگان شب تشبیه می‌کند که دشمن روشنایی و آفتاب هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابند",
+      "PlainText": "عشاق که آفتاب عالم تابند\r\nدر دیده کشند خاک من گر یابند\r\nشد دشمن من ز جهل آن مشتی دون\r\nچون شب پرگان که دشمن آفتابند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشاق که آفتاب عالم‌تابند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیده کشند خاک من گر یابند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد دشمن من ز جهل آن مشتی دون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شب‌پرگان که دشمن آفتابند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشاق که آفتاب عالم‌تابند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیده کشند خاک من گر یابند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد دشمن من ز جهل آن مشتی دون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شب‌پرگان که دشمن آفتابند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

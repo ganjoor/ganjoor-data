@@ -1,0 +1,58 @@
+{
+  "Id": 30632,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۱۷۴",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۱۷۴",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1174",
+  "RhymeLetters": "وشتخواهم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به دیالوگی بین خود و یک نیروی دیگر اشاره دارد. ابتدا با خروش و صدای بلند به او پاسخ می‌دهد، اما وقتی آن نیروی دیگر خواستار سکوت او می‌شود، خاموش می‌شود. سپس وقتی خواسته می‌شود که ساکن باشد، او به حرکت درمی‌آید. این تعامل نشان‌دهنده نوسانات احساسات و خواسته‌های درونی شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشتخواهم",
+      "PlainText": "بخروشیدم گفت خموشت خواهم\r\nخاموش شدم گفت خروشت خواهم\r\nبرجوشیدم گفت که نی ساکن باش\r\nساکن گشتم گفت بجوشت خواهم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخروشیدم گفت خموشت خواهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاموش شدم گفت خروشت خواهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرجوشیدم گفت که نی ساکن باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساکن گشتم گفت بجوشت خواهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بخروشیدم گفت خموشت خواهم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاموش شدم گفت خروشت خواهم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برجوشیدم گفت که نی ساکن باش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ساکن گشتم گفت بجوشت خواهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

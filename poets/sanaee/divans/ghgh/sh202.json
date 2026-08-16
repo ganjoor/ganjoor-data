@@ -1,0 +1,58 @@
+{
+  "Id": 27542,
+  "CatId": 192,
+  "Title": "شمارهٔ ۲۰۲",
+  "FullTitle": "سنایی » دیوان اشعار » قصاید و قطعات » شمارهٔ ۲۰۲",
+  "FullUrl": "/sanaee/divans/ghgh/sh202",
+  "RhymeLetters": "ندیی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر دو مشکل بزرگ است که انسان با آن‌ها مواجه است. یکی از این مشکلات گرسنگی و نیاز به غذا است و دیگری کمبود آب. شاعر به این نکته اشاره دارد که انسان باید بین تأمین نیازهای اساسی خود، یعنی نان و آب انتخاب کند. در واقع، انسان در چنبره این دو بلا گرفتار شده و راهی جز مواجهه با آن‌ها ندارد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هی",
+      "PlainText": "آدمی را دو بلا کرد رهی\r\nبرد از هر دو بلا روسیهی\r\nیا کند پر شکم خویش ز نان\r\nیا کند پشت خود ز آب تهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدمی را دو بلا کرد رهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرد از هر دو بلا روسیهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا کند پر شکم خویش ز نان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا کند پشت خود ز آب تهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آدمی را دو بلا کرد رهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برد از هر دو بلا روسیهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا کند پر شکم خویش ز نان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا کند پشت خود ز آب تهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

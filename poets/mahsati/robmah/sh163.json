@@ -1,0 +1,58 @@
+{
+  "Id": 50223,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۶۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۶۳",
+  "FullUrl": "/mahsati/robmah/sh163",
+  "RhymeLetters": "اربچه",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این چند بیت شاعر به معشوق خود، که او را با لقب \u0022بت عیار\u0022 خطاب کرده، احساس عمیق غم و عشق را بیان می‌کند. او می‌گوید که دلش به خاطر عشق به او دچار پیچیدگی و شورش شده است و مانند مار که بچه‌اش را به دنیا می‌آورد، دل او نیز از عشق به معشوقش دچار درد و رنج شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اربچه",
+      "PlainText": "اندر دل من ای بت عیار بچه\r\nمرغ غم تو نهاده بسیار بچه\r\nاین پیچش و شورش دل از زلف تو زاد\r\nاز مار چه زاید بجز از مار بچه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر دل من ای بت عیار بچه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغ غم تو نهاده بسیار بچه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین پیچش و شورش دل از زلف تو زاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز مار چه زاید بجز از مار بچه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اندر دل من ای بت عیار بچه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغ غم تو نهاده بسیار بچه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این پیچش و شورش دل از زلف تو زاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از مار چه زاید بجز از مار بچه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 101851,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/salim/divan/robaee/sh60",
+  "RhymeLetters": "یر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مقام و شخصیت خاص شخصی اشاره می‌کند که او را برتر از همه حریفان می‌داند. این جمع دوستان به گونه‌ای با هم خوشحال و شاداب هستند که شبیه ترکیب شکر و شیر به نظر می‌رسند. شاعر اشاره می‌کند که هر کدام از آن‌ها نیز دارای فرزندی هستند و این وضعیت به نوعی به بازی شطرنج بزرگ تشبیه شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یر",
+      "PlainText": "غیر از تو حریفان همه ای حضرت میر\r\nیک جا شده ایم جمع چون شکر و شیر\r\nافکنده بساط عشرتی و داریم\r\nهریک بچه ای به بر چو شطرنج کبیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از تو، حریفان همه ای حضرت میر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک جا شده ایم جمع چون شکر و شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافکنده بساط عشرتی و داریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهریک بچه ای به بر، چو شطرنج کبیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غیر از تو، حریفان همه ای حضرت میر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک جا شده ایم جمع چون شکر و شیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افکنده بساط عشرتی و داریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هریک بچه ای به بر، چو شطرنج کبیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

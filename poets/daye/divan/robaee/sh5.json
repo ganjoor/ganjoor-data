@@ -1,0 +1,58 @@
+{
+  "Id": 107168,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/daye/divan/robaee/sh5",
+  "RhymeLetters": "اییتنگاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به توصیف عشق خود می‌پردازد و احساس می‌کند که جهان برای عشق او بسیار کوچک و تنگ است. او می‌گوید که دلش به اندازه چشمان معشوقش ظرفیت ندارد و در واقع معشوق منزلگاهی در دل او ساخته است، اما از او می‌خواهد که به خاطر تنگ بودن این فضا عذرخواهی کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییتنگاست",
+      "PlainText": "در عشق توام جهان سرایی تنگ است\r\nهمچون چشمت دلم فضایی تنگ است\r\nای در دل من ساخته منزلگه خویش\r\nمعذور همی دار که جایی تنگ است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق توام جهان سرایی تنگ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچون چشمت دلم فضایی تنگ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای در دل من ساخته منزلگه خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعذور همی دار که جایی تنگ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق توام جهان سرایی تنگ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچون چشمت دلم فضایی تنگ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای در دل من ساخته منزلگه خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معذور همی دار که جایی تنگ است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

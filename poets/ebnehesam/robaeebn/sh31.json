@@ -1,0 +1,58 @@
+{
+  "Id": 64828,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۳۱",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۳۱",
+  "FullUrl": "/ebnehesam/robaeebn/sh31",
+  "RhymeLetters": "مشد",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر اشاره می‌کند که با ورود خواجه نظام به مقام و منزلتی خاص، دنیای او مانند بهشتی خوش و خرم می‌شود. همچنین، با تلفیق این موقعیت و زمان، تاریخ وفات شخصیتی بزرگ و مهم ثبت می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مشد",
+      "PlainText": "چون خواجه نظام در چنان محرم شد\r\nفردوس ز فر قدمش خرم شد\r\nچون زآن به حساب سال با هم ضم شد\r\nتاریخ وفات صاحب اعظم شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خواجه نظام در چنان محرم شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردوس ز فرّ قدمش خرّم شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون زآن به حساب سال با هم ضم شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاریخ وفات صاحب اعظم شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون خواجه نظام در چنان محرم شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فردوس ز فرّ قدمش خرّم شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون زآن به حساب سال با هم ضم شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاریخ وفات صاحب اعظم شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 123611,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/naziri/divan/robaee/sh45",
+  "RhymeLetters": "تمبردارد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نگرانی‌های خود درباره نیت و عبادت اشاره می‌کند. او می‌گوید که با وجود صدها فکر و اشتباه، ممکن است عبادتش بی‌اثر شود. او حس وسواس دارد و به این نتیجه می‌رسد که شاید هیچ‌یک از عبادتش به درستی انجام نشده و نهایتاً از خداوند می‌خواهد که او را مورد رحمت قرار دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تمبردارد",
+      "PlainText": "صد فکر اثر ز طاعتم بردارد\r\nصد سهو سر از عبادتم بردارد\r\nبا این وسواس نیتم نیست درست\r\nغسال مگر جنابتم بردارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد فکر اثر ز طاعتم بردارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد سهو سر از عبادتم بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا این وسواس نیتم نیست درست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغسال مگر جنابتم بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد فکر اثر ز طاعتم بردارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد سهو سر از عبادتم بردارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با این وسواس نیتم نیست درست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غسال مگر جنابتم بردارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

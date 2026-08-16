@@ -1,0 +1,58 @@
+{
+  "Id": 70174,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۳۱",
+  "FullUrl": "/amir/robam/sh131",
+  "RhymeLetters": "ویم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به زیبایی و جذابیت خاصی اشاره می‌کند. او در توصیف معشوق خود، او را مانند سرو بلند و ماه تمام می‌بیند و از تاثیر آن بر خود سخن می‌گوید. همچنین به مسالهٔ خرید و فروش اشاره می‌کند و به نوعی به ارزش واقعی چیزها و ریاکاری برخی افراد در این زمینه انتقاد می‌کند. این اشعار نمایش‌دهندهٔ حس زیبایی‌شناختی و نقد اجتماعی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشتخوانم",
+      "PlainText": "گه سرو بلند حله بوشت خوانم\r\nگه ماه تمام باده نوشت خوانم\r\nارزان بخری و رایگان بفروشی\r\nارزان خر و رایگان فروشت خوانم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه سرو بلند حله بوشت خوانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه ماه تمام باده نوشت خوانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eارزان بخری و رایگان بفروشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eارزان خر و رایگان فروشت خوانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه سرو بلند حله بوشت خوانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه ماه تمام باده نوشت خوانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ارزان بخری و رایگان بفروشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ارزان خر و رایگان فروشت خوانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

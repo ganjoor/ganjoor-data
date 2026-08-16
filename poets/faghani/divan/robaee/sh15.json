@@ -1,0 +1,58 @@
+{
+  "Id": 97087,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/faghani/divan/robaee/sh15",
+  "RhymeLetters": "رگردد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر می‌گوید که هر لحظه دنیا به شکل جدیدی درمی‌آید و دستیابی به آرزوها دشوار است. انسان تلاش می‌کند تا به خواسته‌هایش برسد، اما وقتی نزدیک می‌شود، همه چیز دوباره تغییر می‌کند و آرزوها به دور می‌افتند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رگردد",
+      "PlainText": "هر دم چو فلک بوضع دیگر گردد\r\nکام دل ازو کجا میسر گردد\r\nصد دور کند بکام خود سیر ولی\r\nچون دور مراد ما رسد بر گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم چو فلک بوضع دیگر گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکام دل ازو کجا میسر گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد دور کند بکام خود سیر ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دور مراد ما رسد بر گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر دم چو فلک بوضع دیگر گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کام دل ازو کجا میسر گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد دور کند بکام خود سیر ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون دور مراد ما رسد بر گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

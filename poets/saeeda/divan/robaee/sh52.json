@@ -1,0 +1,58 @@
+{
+  "Id": 107952,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/saeeda/divan/robaee/sh52",
+  "RhymeLetters": "ربایدکرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به ما می‌گوید که برای رسیدن به هدف یا خواسته‌های خود، باید تلاش کرد و در مسیر پیشرفت، از موانع و بی‌هدف بودن دوری کنیم. همچنین اشاره دارد که نمی‌توانیم تنها به دعا و درخواست از خدا بسنده کنیم و باید به فکر و عمل خود اهمیت بیشتری بدهیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ربایدکرد",
+      "PlainText": "گویند به طالب که سفر باید کرد\r\nدر منزل بی خودی گذر باید کرد\r\nیعنی که به این و آن خدا نتوان یافت\r\nفکری دگر و کار دگر باید کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند به طالب که سفر باید کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر منزل بی خودی گذر باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی که به این و آن خدا نتوان یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفکری دگر و کار دگر باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند به طالب که سفر باید کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در منزل بی خودی گذر باید کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یعنی که به این و آن خدا نتوان یافت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فکری دگر و کار دگر باید کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

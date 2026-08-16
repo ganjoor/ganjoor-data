@@ -1,0 +1,58 @@
+{
+  "Id": 70148,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/amir/robam/sh105",
+  "RhymeLetters": "ار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به جشن و شادی در حضور پادشاه اشاره می‌کند. پرنده‌های زیبا با منقارهای رنگین به خاطر خوشحالی و نشاط او، همچون مطربانی برای سرگرمی و شاد کردن فضا، بارها و بارها می‌آیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "هستند به بزمت ای شه شیر شکار\r\nمرغان شبه تن و عقیقین منقار\r\nاز بهر نشاط تو به روزی صد بار\r\nآیند همی چو مطربان در گفتار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستند به بزمت ای شه شیر شکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغان شبه تن و عقیقین منقار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بهر نشاط تو به روزی صد بار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیند همی چو مطربان در گفتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هستند به بزمت ای شه شیر شکار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغان شبه تن و عقیقین منقار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بهر نشاط تو به روزی صد بار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیند همی چو مطربان در گفتار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

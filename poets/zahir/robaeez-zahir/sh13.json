@@ -1,0 +1,58 @@
+{
+  "Id": 73605,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/zahir/robaeez-zahir/sh13",
+  "RhymeLetters": "ودهست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف عناب (میوه‌ای قرمز) می‌پردازد و از رنگ زخم در لبانش و همچنین به رنگ عنابی چشمانش اشاره می‌کند. او به ارتباط این عناب‌ها با خون و زخم دلش اشاره می‌کند و نشان می‌دهد که این میوه‌ها نماد دل‌تنگی و دردهای عاطفی او هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ودهست",
+      "PlainText": "عناب لبت رنگ زخم بر بوده ست\r\nعنابی چشم من از آن نغنوده ست\r\nعناب که فضله های خون بنشاند\r\nعناب لبت خون دلم بفزوده ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعناب لبت رنگ زخم بر بوده ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعنابی چشم من از آن نغنوده ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعناب که فضله های خون بنشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعناب لبت خون دلم بفزوده ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عناب لبت رنگ زخم بر بوده ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عنابی چشم من از آن نغنوده ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عناب که فضله های خون بنشاند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عناب لبت خون دلم بفزوده ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 103060,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/jooya/divan/robaee/sh6",
+  "RhymeLetters": "اندیماورا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از غم و اندوهی سخن می‌گوید که باعث شده در دل خود تخمی از غم بکارند. او به یاد می‌آورد که چطور با اشک‌هایش، این غم را از خود دور کرده، اما در عین حال به رشد و بالندگی آن غم اشاره می‌کند که حالا به شکلی در وجود او گم شده است. در نهایت، شاعر می‌پرسد که این غم را به کجا رسانده‌اند، به نوعی از عمق و پیشرفت اندوه خود سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندیماورا",
+      "PlainText": "تخمی است غمت بدل فشاندیم او را\r\nوز آب دو دیده بردماندیم او را\r\nبالید چنان که ما در او گم شده ایم\r\nبنگر کآخر کجا رساندیم او را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتخمی است غمت بدل فشاندیم او را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آب دو دیده بردماندیم او را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبالید چنان که ما در او گم شده ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنگر کآخر کجا رساندیم او را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تخمی است غمت بدل فشاندیم او را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز آب دو دیده بردماندیم او را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالید چنان که ما در او گم شده ایم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنگر کآخر کجا رساندیم او را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 104852,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/ahli/divan/robaee/sh46",
+  "RhymeLetters": "تیاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به محبوبی اشاره می‌کند که هم در مجالس شلوغ و هم در خلوت‌ها خواهان دارد. عشق او به قدری مشهور است که همه از آن سخن می‌گویند. همچنین، هر کس دلی پر از عشق و داغی دارد و درد دل او مانند ستاره‌ای در آسمان برجسته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تیاست",
+      "PlainText": "گر رند خراباتی و گر خلوتی است\r\nخواهان منند و عشق من شهرتی است\r\nکس نیست که نیست داغ مهری بدلش\r\nداغ دل من ستاره تی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر رند خراباتی و گر خلوتی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهان منند و عشق من شهرتی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس نیست که نیست داغ مهری بدلش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغ دل من ستاره ...تی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر رند خراباتی و گر خلوتی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواهان منند و عشق من شهرتی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کس نیست که نیست داغ مهری بدلش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داغ دل من ستاره ...تی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

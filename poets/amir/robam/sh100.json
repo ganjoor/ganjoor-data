@@ -1,0 +1,58 @@
+{
+  "Id": 70143,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/amir/robam/sh100",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به تمجید و ستایش از حوران (حوریان بهشتی) و شهیدان می‌پردازد. شاعر می‌گوید که حوران در آب روان با تصاویر زیبا نمایان می‌شوند و آرزوی آن‌ها این است که در خدمت شاعر و در مجلس او حاضر شوند و در کنار او باشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "حوران سپاهت ای شه شیر شکر\r\nدر آب روان همی نمایند صور\r\nآن است مرادشان که باشند مگر\r\nدر خدمت مجلس تو استاده کمر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحوران سپاهت ای شه شیر شکر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آب روان همی نمایند صُوَر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن است مرادشان که باشند مگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خدمت مجلس تو اِستاده کمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حوران سپاهت ای شه شیر شکر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آب روان همی نمایند صُوَر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن است مرادشان که باشند مگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خدمت مجلس تو اِستاده کمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

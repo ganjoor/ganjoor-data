@@ -1,0 +1,58 @@
+{
+  "Id": 64887,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۹۰",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۹۰",
+  "FullUrl": "/ebnehesam/robaeebn/sh90",
+  "RhymeLetters": "افتهای",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با تعجب به صبح اشاره می‌کند و می‌پرسد که چه چیزی در دل خود دارد. او از زیبایی صبح و شکوفایی آن سخن می‌گوید و در ادامه به خورشید اشاره می‌کند که از روز واقعه عاشورا بر تشنه‌لبان کربلا می‌تابد، انگار که این تابش به نوعی نماد عذاب و یادآوری این واقعه تلخ است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "افتهای",
+      "PlainText": "ای صبح ندانم که چه در یافته ای\r\nمشکین قصب از بهر که بشکافته ای\r\nخورشید عفاک الله از آنروز که گرم\r\nبر تشنه لبان کربلا تافته ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صبح ندانم که چه در یافته ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشکین قصب از بهر که بشکافته ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید عفاک الله از آنروز که گرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر تشنه لبان کربلا تافته ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای صبح ندانم که چه در یافته ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشکین قصب از بهر که بشکافته ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورشید عفاک الله از آنروز که گرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر تشنه لبان کربلا تافته ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

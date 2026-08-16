@@ -1,0 +1,58 @@
+{
+  "Id": 45765,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۰۳",
+  "FullUrl": "/ghaani/ghetegh/sh103",
+  "RhymeLetters": "لم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن به بیان این نکته می‌پردازد که ضحاک به مدت هزار سال پادشاهی کرد، اما فقط نام زشتش رمانده است. در مقابل، اگرچه حکومت کسری زمان زیادی دوام نداشت، اما به خاطر عدالت و دادگری‌اش، نامش در تاریخ به نیکی مطرح شده است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لم",
+      "PlainText": "هزار سال که ضحاک پادشاهی کرد\r\nازو نماند به جز نام زشت در عالم\r\nاگرچه دولت کسری بسی نماند ولی\r\nبه عدل و داد شدش نام در زمانه علم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار سال که ضحاک پادشاهی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازو نماند به جز نام زشت در عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگرچه دولت کسری بسی نماند ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه عدل و داد شدش نام در زمانه علم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هزار سال که ضحاک پادشاهی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازو نماند به جز نام زشت در عالم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگرچه دولت کسری بسی نماند ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به عدل و داد شدش نام در زمانه علم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

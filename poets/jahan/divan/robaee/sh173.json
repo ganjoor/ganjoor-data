@@ -1,0 +1,58 @@
+{
+  "Id": 114046,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۷۳",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۷۳",
+  "FullUrl": "/jahan/divan/robaee/sh173",
+  "RhymeLetters": "نش",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از زیبایی و دلفریبی یک گل سخن می‌گوید و ابراز می‌کند که اگر این گل ادعای بزرگی کند، او را از میان گل‌ها بیرون می‌آورد. همچنین اشاره می‌کند که اگر غنچه‌ای در برابر لب گل باز شود، او به سرعت مانند باد نزدیک می‌شود و آن را می‌چیند. در مجموع، این شعر به رقابت زیبایی و جذابیت در دنیای طبیعت اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نش",
+      "PlainText": "گل کیست به نزد عارض چون سمنش\r\nگر لاف زند برون کنم از چمنش\r\nگر پیش لبش غنچه دهن بگشاید\r\nچون باد بیایم و بدرم دهنش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل کیست به نزد عارض چون سمنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر لاف زند برون کنم از چمنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر پیش لبش غنچه دهن بگشاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون باد بیایم و بدرّم دهنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل کیست به نزد عارض چون سمنش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر لاف زند برون کنم از چمنش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر پیش لبش غنچه دهن بگشاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون باد بیایم و بدرّم دهنش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

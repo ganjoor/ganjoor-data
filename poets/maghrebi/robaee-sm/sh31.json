@@ -1,0 +1,58 @@
+{
+  "Id": 84242,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/maghrebi/robaee-sm/sh31",
+  "RhymeLetters": "ستانشنوی",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: هر صدایی که از دستان هزاران نفر می‌شنوی، به حقیقت از دل گلستان به گوش می‌رسد. هر ناله‌ای که از عاشقان باده می‌شنوی، آن را به حقیقت از زبان مستان بشنوی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستانشنوی",
+      "PlainText": "هر نغمه که از هزار دستان شنوی\r\nآن را به حقیقت از گلستان شنوی\r\nهر ناله که از باده پرستان شنوی\r\nآن می گوید ولی ز مستان شنوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر نغمه که از هزار دستان شنوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن را به حقیقت از گلستان شنوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر ناله که از باده پرستان شنوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن می‌گوید ولی ز مستان شنوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر نغمه که از هزار دستان شنوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن را به حقیقت از گلستان شنوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر ناله که از باده پرستان شنوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن می‌گوید ولی ز مستان شنوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

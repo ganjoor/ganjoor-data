@@ -1,0 +1,58 @@
+{
+  "Id": 83021,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۳۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۳۳",
+  "FullUrl": "/hazin/robaee-hz/sh133",
+  "RhymeLetters": "انگردد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از ساقی (نوشندگان) می‌خواهد که باران رحمت خود را ببارد تا بلبل که نماینده‌ی عشق و هنر است، بتواند غزل بخواند. شاعر نگران است که قبل از رسیدن بهار و رونق دوباره باغ، گل‌ها در اثر خزان پژمرده شوند. او می‌خواهد که از رحمت ساقی بهره‌مند شود تا بهار و زندگی دوباره به طبیعت برگردد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انگردد",
+      "PlainText": "زان پیش که دی آفت بستان گردد\r\nاوراق گل از خزان پریشان گردد\r\nساقی تو که ابر رحمتی رشحه ببار\r\nتا بلبل طبع من غزل خوان گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان پیش که دی آفت بستان گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاوراق گل از خزان پریشان گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی، تو که ابر رحمتی، رشحه ببار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بلبل طبع من غزل خوان گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زان پیش که دی آفت بستان گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اوراق گل از خزان پریشان گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساقی، تو که ابر رحمتی، رشحه ببار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بلبل طبع من غزل خوان گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

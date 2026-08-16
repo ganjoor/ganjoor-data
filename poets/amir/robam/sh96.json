@@ -1,0 +1,58 @@
+{
+  "Id": 70139,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۹۶",
+  "FullUrl": "/amir/robam/sh96",
+  "RhymeLetters": "اجاید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به ستایش از سلطان برکیارق می‌پردازد و بیان می‌کند که دولت و قدرت او باعث رونق و شکوفایی جهان است. همچنین اشاره می‌شود که او همواره باید تلاش کند و هنر خود را افزایش دهد تا بتواند عرصه را برای دیگران نیز بگشاید و امکانات را فراهم کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اید",
+      "PlainText": "سلطان جهان برکیارق باید\r\nکز دولت او جهان همی آراید\r\nبس برناید تا هنرش بفْزاید\r\nبندد کمر و همه جهان بگشاید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلطان جهان برکیارق باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز دولت او جهان همی آراید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس برناید تا هنرش بِفْزاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبندد کمر و همه جهان بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سلطان جهان برکیارق باید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز دولت او جهان همی آراید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس برناید تا هنرش بِفْزاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بندد کمر و همه جهان بگشاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

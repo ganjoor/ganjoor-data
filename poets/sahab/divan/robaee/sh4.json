@@ -1,0 +1,58 @@
+{
+  "Id": 112328,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/sahab/divan/robaee/sh4",
+  "RhymeLetters": "اریها",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این اشعار به حسرت و اندوهی که در طول عمر از عدم یاری دیگران داشته، اشاره می‌کند. او شب‌ها را در درد و زاری سپری کرده و به این نکته می‌پردازد که مردم از غم به یاری نیاز دارند. در پایان، او به خواب خوشی اشاره می‌کند که در مقابل این بیداری‌های پر از غم، آرامش بیشتری به او می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریها",
+      "PlainText": "یک عمر از او به حسرت یاری ها\r\nشب ها گذراندم همه در زاری ها\r\nآخر مردم بلی ز غم لازم داشت\r\nیک خواب چنین آن همه بیداری ها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک عمر از او به حسرت یاری‌ها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب‌ها گذراندم همه در زاری‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآخر مردم بلی ز غم لازم داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک خواب چنین آن همه بیداری‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک عمر از او به حسرت یاری‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب‌ها گذراندم همه در زاری‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آخر مردم بلی ز غم لازم داشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک خواب چنین آن همه بیداری‌ها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

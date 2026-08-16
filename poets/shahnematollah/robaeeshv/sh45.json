@@ -1,0 +1,58 @@
+{
+  "Id": 47815,
+  "CatId": 1728,
+  "Title": "رباعی شمارهٔ ۴۵",
+  "FullTitle": "شاه نعمت‌الله ولی » رباعیات » رباعی شمارهٔ ۴۵",
+  "FullUrl": "/shahnematollah/robaeeshv/sh45",
+  "RhymeLetters": "ودویاست",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این ابیات به مفهوم وجود و عدم و تأثیر انسان‌ها بر یکدیگر اشاره دارند. می‌گوید اگر کسی مردود یا ناکام باشد، این ناکامی به فرد دیگری وابسته است. وجود فردی که بی‌کفایت است، به هیچ وجودی نمی‌رسد. به عبارتی دیگر، هر موجودی که هست، ناشی از وجود دیگران است و به نوعی به هم وابسته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ودویاست",
+      "PlainText": "مردود بود کسی که مردود وی است\r\nمقتول بود کسی که مردود وی است\r\nبی جود وجود او وجودی نبود\r\nهر بود که هست بودی از بود وی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردود بود کسی که مردود وی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمقتول بود کسی که مردود وی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی جود وجود او وجودی نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر بود که هست بودی از بود وی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردود بود کسی که مردود وی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مقتول بود کسی که مردود وی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی جود وجود او وجودی نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر بود که هست بودی از بود وی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

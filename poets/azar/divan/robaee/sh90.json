@@ -1,0 +1,58 @@
+{
+  "Id": 119011,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۹۰",
+  "FullUrl": "/azar/divan/robaee/sh90",
+  "RhymeLetters": "وزدگر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از درد جدایی و احساس سوزش دل صحبت می‌کند. او به شدت تحت تاثیر هجران است و نگران است که این درد شب‌هایی را دوباره تجربه کند که شبیه به امشب و روز امروز خواهد بود. احساس بی‌تابی و ناامیدی او در ارتباط با عشق و جدایی به وضوح نمایان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزدگر",
+      "PlainText": "امشب دارم بجان ز تن سوز دگر\r\nو امروز بدل ناوک دلدوز دگر\r\nای وای اگر بمن ز هجران گذرد\r\nچون امشب و امروز شب و روز دگر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب دارم بجان ز تن سوز دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو امروز بدل ناوک دلدوز دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای وای اگر بمن ز هجران گذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون امشب و امروز، شب و روز دگر!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب دارم بجان ز تن سوز دگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و امروز بدل ناوک دلدوز دگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای وای اگر بمن ز هجران گذرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون امشب و امروز، شب و روز دگر!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 10063,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۲",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۲",
+  "FullUrl": "/saadi/divan/robaees/sh2",
+  "RhymeLetters": "یرندبیا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این چند بیت شاعر از معشوق می‌خواهد که به عشق و دلبستگی عاشقان توجه کند و بدخلقی‌های خود را نادیده بگیرد. او بیان می‌کند که حتی با وجود همه‌ی جفاها و بدی‌هایی که معشوق کرده، عاشقان به او معذورند و از او دعوت می‌کند که قبل از اینکه عذرش پذیرفته نشود، به سراغش بیاید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرندبیا",
+      "PlainText": "عشاق به درگهت اسیرند بیا\r\nبدخویی تو بر تو نگیرند بیا\r\nهر جور و جفا که کرده ای معذوری\r\nزآن پیش که عذرت نپذیرند بیا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشاق به درگهت اسیرند بیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدخویی تو بر تو نگیرند بیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جور و جفا که کرده‌ای معذوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن پیش که عذرت نپذیرند بیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشاق به درگهت اسیرند بیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بدخویی تو بر تو نگیرند بیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جور و جفا که کرده‌ای معذوری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زآن پیش که عذرت نپذیرند بیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

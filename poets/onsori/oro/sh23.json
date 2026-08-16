@@ -1,0 +1,58 @@
+{
+  "Id": 68873,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/onsori/oro/sh23",
+  "RhymeLetters": "سایهکهدید",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: غزل دربارهٔ دیدن زیبایی و نور چهرهٔ معشوق است که در مقایسه با تاریکی شب قرار دارد. شاعر به توبه از گناه و هم‌جواری ایمان و نفاق اشاره می‌کند، و این مضمون نشان‌دهندهٔ تضادها و چالش‌های انسانی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سایهکهدید",
+      "PlainText": "چون نار رخی ز نور پرمایه که دید\r\nگسترده به روز بر ز شب سایه که دید\r\nبر توبه بر از گناه پیرایه که دید\r\nایمان و نفاق هر دو همسایه که دید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نار رخی ز نور پرمایه که دید؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگسترده به روز بر، ز شب سایه که دید؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر توبه بر، از گناه پیرایه که دید؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایمان و نفاق هر دو همسایه که دید؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نار رخی ز نور پرمایه که دید؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گسترده به روز بر، ز شب سایه که دید؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر توبه بر، از گناه پیرایه که دید؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایمان و نفاق هر دو همسایه که دید؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

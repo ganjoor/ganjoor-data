@@ -1,0 +1,58 @@
+{
+  "Id": 41615,
+  "CatId": 1675,
+  "Title": "پیری",
+  "FullTitle": "کسایی » دیوان اشعار » پیری",
+  "FullUrl": "/kesayee/divank/sh28",
+  "RhymeLetters": "رف",
+  "SourceName": "مهرداد بیات",
+  "SourceUrlSlug": "mb",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به موضوع پیری و تغییرات ناشی از آن می‌پردازد. او از احساساتی چون غم و اندوه در دوران پیری صحبت می‌کند و به تضاد میان زردی و سیاهی در زندگی اشاره می‌کند. همچنین، به تلاش برای بهبود وضعیت خود و بازگشت به حالتی بهتر و درخشان‌تر با استفاده از مهارت‌هایش اشاره دارد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رف",
+      "PlainText": "پیری مرا به زرگری افگند ای شگفت\r\nبی گاه و دود زردم و همواره سرف سرف\r\nزرگر فرو فشاند کرف سیه به سیم\r\nمن باز برفشانم سیم سره به کرف",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیری مرا به زرگری افگند، ای شگفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی گاه و دود، زردم و همواره سُرف سُرف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزرگر فرو فشاند کُرف سیه به سیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن باز برفشانم سیم سره به کُرف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیری مرا به زرگری افگند، ای شگفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی گاه و دود، زردم و همواره سُرف سُرف",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زرگر فرو فشاند کُرف سیه به سیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من باز برفشانم سیم سره به کُرف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

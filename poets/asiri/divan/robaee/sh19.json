@@ -1,0 +1,58 @@
+{
+  "Id": 91345,
+  "CatId": 2384,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "اسیری لاهیجی » دیوان اشعار » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/asiri/divan/robaee/sh19",
+  "RhymeLetters": "یداست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و نورانی بودن وجود معشوق اشاره دارد. شاعر بیان می‌کند که جهان به دلیل تجلی عشق و زیبایی معشوق روشن و پرنور است و کسی که با درک و معرفت آشنا شده، می‌تواند این جمال و زیبایی را در عالم ببیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یداست",
+      "PlainText": "از نور تجلی تو عالم پیداست\r\nذرات جهان ز مهر رویت شیداست\r\nچشمی که بنور معرفت روشن شد\r\nبیند که جمال تو بعالم پیداست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نور تجلی تو عالم پیداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذرات جهان ز مهر رویت شیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمی که بنور معرفت روشن شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیند که جمال تو بعالم پیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نور تجلی تو عالم پیداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ذرات جهان ز مهر رویت شیداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشمی که بنور معرفت روشن شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیند که جمال تو بعالم پیداست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

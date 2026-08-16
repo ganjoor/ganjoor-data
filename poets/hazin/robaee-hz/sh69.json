@@ -1,0 +1,58 @@
+{
+  "Id": 82957,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/hazin/robaee-hz/sh69",
+  "RhymeLetters": "وناست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به بیان عواطف خود در مورد غم و فراق می‌پردازد. دلش از دوری و جدایی پرغصه است و هیچ آرامشی ندارد. او نمی‌داند با دیده‌اش چه کند، چون شب همچنان تاریک و سوزناک است. همچنین از شوق و محبتش می‌گوید که هر روز بیشتر و بیشتر می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وناست",
+      "PlainText": "از حوصله صبر غمت بیرون است\r\nهر لحظه دل از فراق دیگرگون است\r\nبا دیده چه سازیم که چون شب باز است\r\nاز شوق چه گوییم که روزافزون است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حوصلهٔ صبر، غمت بیرون است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر لحظه دل از فراق، دیگرگون است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا دیده چه سازیم که چون شب باز است؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شوق چه گوییم که روزافزون است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حوصلهٔ صبر، غمت بیرون است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر لحظه دل از فراق، دیگرگون است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با دیده چه سازیم که چون شب باز است؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از شوق چه گوییم که روزافزون است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

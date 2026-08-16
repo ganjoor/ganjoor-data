@@ -1,0 +1,58 @@
+{
+  "Id": 101815,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/salim/divan/robaee/sh24",
+  "RhymeLetters": "بازیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شعر به توصیف شبی پرداخته که در آن آسمان به دنبال شادی و تفریح است. رقص و زیبایی معشوقه‌ها در بزم آتش‌بازی جلوه‌گری می‌کند و به نظر می‌رسد که حرکات و زیبایی بدن او شبیه به رقصی شاعرانه است که تحت تأثیر شراب و لذت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بازیست",
+      "PlainText": "امشب که فلک در پی عشرت سازی ست\r\nاز رقص بتان به بزم آتشبازی ست\r\nقامت ز ادا رقص روانی دارد\r\nگردن ز اصول در صراحی بازی ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب که فلک در پی عشرت سازی ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رقص بتان به بزم آتشبازی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقامت ز ادا رقص روانی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردن ز اصول در صراحی بازی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب که فلک در پی عشرت سازی ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از رقص بتان به بزم آتشبازی ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قامت ز ادا رقص روانی دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردن ز اصول در صراحی بازی ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

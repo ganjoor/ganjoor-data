@@ -1,0 +1,58 @@
+{
+  "Id": 69462,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۰۱",
+  "FullUrl": "/azraghi/arob/sh101",
+  "RhymeLetters": "سی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: غزلی از شاعر بیان می‌کند که بدون اینکه کسی از او بدی بگوید، شوق و هوس به کشتن او شدت یافته است. او به این موضوع اهمیتی نمی‌دهد و می‌گوید که صد کشته مثل او بهتر از این است که تو غمگین باشی. به نوعی، او ارزش احساسات و دلخوری‌هایش را بیشتر از جان خود می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سی",
+      "PlainText": "بی آنکه ز من به تو بدی گفت کسی\r\nبر کشتن من چه تیز کردی هوسی\r\nزین کار همی نیایدم باک بسی\r\nصد کشته چو من به که تو غمگین نفسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی آنکه ز من به تو بدی گفت کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر کشتن من چه تیز کردی هوسی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین کار همی نیایدم باک بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد کشته چو من به که تو غمگین نفسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی آنکه ز من به تو بدی گفت کسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر کشتن من چه تیز کردی هوسی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین کار همی نیایدم باک بسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد کشته چو من به که تو غمگین نفسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

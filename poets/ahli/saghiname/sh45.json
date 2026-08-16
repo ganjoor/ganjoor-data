@@ -1,0 +1,58 @@
+{
+  "Id": 105665,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۴۴",
+  "FullUrl": "/ahli/saghiname/sh45",
+  "RhymeLetters": "وربود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به مفهوم عشق و مستی اشاره دارد. شاعر می‌گوید در صورتی که ساقی (محبوب) به ادب و رفتار خوب خود پایبند باشد، حتی اگر دور باشد، خون او را می‌خورند. همچنین، به تفاوت میان مستی حقیقت و مستی مجاز اشاره می‌کند و بیان می‌کند که نباید گمان کرد که مستی منجر به عذرخواهی می‌شود. در نهایت، شاعر بر اهمیت حقیقت در احساسات تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وربود",
+      "PlainText": "ساقی ز ادب مست تو گر دور بود\r\nخونش بخورند اگر چه منصور بود\r\nگر مست حقیقت است ور مست مجاز\r\nبدمست گمان مبر که معذور بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی ز ادب مست تو گر دور بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخونش بخورند اگر چه منصور بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مست حقیقت است ور مست مجاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدمست گمان مبر که معذور بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی ز ادب مست تو گر دور بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خونش بخورند اگر چه منصور بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر مست حقیقت است ور مست مجاز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدمست گمان مبر که معذور بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

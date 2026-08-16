@@ -1,0 +1,58 @@
+{
+  "Id": 1234,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۱۶",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۱۶",
+  "FullUrl": "/khayyam/robaee/sh116",
+  "RhymeLetters": "ستیخوشباش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، خیام به ما می‌گوید که اگر از شراب مستی و خوشی می‌چشیم، باید از لحظات زندگی لذت ببریم. همچنین اشاره می‌کند که با معشوق یا زیبایی نشستن نیز خوشی دارد. در نهایت، او به این نکته مهم می‌رسد که چون زندگی پایان‌پذیر است و در نهایت به نیستی می‌رسیم، باید در همین حال زندگی را با خوشی و شادی سپری کنیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستیخوشباش",
+      "PlainText": "خیام اگر ز باده مستی خوش باش\r\nبا ماهرخی اگر نشستی خوش باش\r\nچون عاقبت کار جهان نیستی است\r\nانگار که نیستی چو هستی خوش باش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیام اگر ز باده مستی خوش باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا ماهرخی اگر نشستی خوش باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عاقبت کار جهان نیستی اَست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانگار که نیستی چو هستی خوش باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خیام اگر ز باده مستی خوش باش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با ماهرخی اگر نشستی خوش باش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون عاقبت کار جهان نیستی اَست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "انگار که نیستی چو هستی خوش باش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119559,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/neshat/divan/robaee/sh25",
+  "RhymeLetters": "ادرود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به شیوه‌ای عاشقانه و تمثیلی دربارهٔ عشق سخن می‌گوید. وقتی نگاه معشوق به او می‌افتد، او احساس می‌کند که مانند نرگسی در پی معشوق در حرکت است. در اینجا صیاد و صید به هم مرتبط‌اند؛ صیاد که در پی شکار است، و صید که از او می‌گریزد. شاعر اشاره دارد به چالش‌های عشق و جستجو در آن.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادرود",
+      "PlainText": "زانجا که نگاهش بمن افتاد رود\r\nوز پی رومش چو آن پریزاد رود\r\nصیاد نگر که میگریزد از صید\r\nوین صید ببین کز پی صیاد رود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانجا که نگاهش بمن افتاد رود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز پی رومش چو آن پریزاد رود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصیاد نگر که میگریزد از صید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین صید ببین کز پی صیاد رود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زانجا که نگاهش بمن افتاد رود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز پی رومش چو آن پریزاد رود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صیاد نگر که میگریزد از صید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین صید ببین کز پی صیاد رود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

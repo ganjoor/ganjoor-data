@@ -1,0 +1,58 @@
+{
+  "Id": 83151,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۵۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۵۴",
+  "FullUrl": "/hazin/robaee-hz/sh254",
+  "RhymeLetters": "ارعجبی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساسات عمیق و تفکر درباره زندگی و گذر زمان سخن می‌گوید. دلش تحت تأثیر شگفتی‌های زندگی قرار دارد و به نظر می‌رسد که با هر صبحی، این شگفتی‌ها بیشتر می‌شود. او همچنین به کوتاهی عمر و تغییرات روزگار اشاره می‌کند و به نوعی حس حیرت و تأمل نسبت به زندگی و چرخش زمان را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارعجبی",
+      "PlainText": "امروز دل است زیر بار عجبی\r\nدارد نفس صبح غبار عجبی\r\nکوتاهی قصه دیدم از عمر دراز\r\nدر گردش چرخ اوا روزگار عجبی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز دل است، زیر بار عجبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارد نفس صبح، غبار عجبی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوتاهی قصه دیدم از عمر دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گردش چرخ اوا روزگار عجبی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز دل است، زیر بار عجبی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دارد نفس صبح، غبار عجبی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوتاهی قصه دیدم از عمر دراز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در گردش چرخ اوا روزگار عجبی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

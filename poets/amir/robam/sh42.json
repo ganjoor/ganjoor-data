@@ -1,0 +1,58 @@
+{
+  "Id": 70085,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/amir/robam/sh42",
+  "RhymeLetters": "شت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر از ناامیدی در عشق سخن می‌گوید و بیان می‌کند که در عشقش هیچ امیدی به خوشبختی ندارد. او احساس می‌کند که از آتش عشق می‌سوزد، اما هیچ نشانه‌ای از محبت و دلسوزی از طرف معشوق نمی‌بیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزینیست",
+      "PlainText": "در عشق توام امید بهروزی نیست\r\nوز عهد شب وصال تو روزی نیست\r\nاز آتش تو دلم چرا می سوزد\r\nچون هیچ تو را عادت دلسوزی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق توام امید بهروزی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز عهد شب وصال تو روزی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آتش تو دلم چرا می‌سوزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون هیچ تو را عادت دلسوزی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق توام امید بهروزی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز عهد شب وصال تو روزی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آتش تو دلم چرا می‌سوزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون هیچ تو را عادت دلسوزی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

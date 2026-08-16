@@ -1,0 +1,58 @@
+{
+  "Id": 119032,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/azar/divan/robaee/sh111",
+  "RhymeLetters": "انمیدهمش",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از عشق و فدای جان خود برای محبوب سخن می‌گوید. او به محبوب می‌گوید که جانش را در مقابل او فدای می‌کند و حتی زمانی که محبوب به او افسو می‌خورد، او باز هم دلش را به او می‌دهد. این عشق عمیق و فدای بی‌قید و شرط را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمیدهمش",
+      "PlainText": "یار آمد و جان برایگان میدهمش\r\nجان در قدم سرو روان میدهمش\r\nاو میگرید بر من و من میگویم\r\nدل میدهدم کنون که جان میدهمش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار آمد و، جان برایگان میدهمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان در قدم سرو روان میدهمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو میگرید بر من و، من میگویم:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل میدهدم کنون که جان میدهمش!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار آمد و، جان برایگان میدهمش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان در قدم سرو روان میدهمش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او میگرید بر من و، من میگویم:",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل میدهدم کنون که جان میدهمش!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

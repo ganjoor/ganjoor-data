@@ -1,0 +1,58 @@
+{
+  "Id": 75842,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۹۵",
+  "FullUrl": "/nezari/robnez/sh95",
+  "RhymeLetters": "ینخواهدشد",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: شعر بیانگر احساساتی عمیق درباره گذر زمان و مرگ است. شاعر اشاره می‌کند که عمر او به پایان می‌رسد و از اشک‌های فراوانی که بر زمین خواهد ریخت، سخن می‌گوید. همچنین، او از صحبت‌های مردم درباره دنیا و دین یاد می‌کند و می‌گوید که نه دنیا و نه دین هیچکدام نمی‌توانند نقشی در سرنوشت او داشته باشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینخواهدشد",
+      "PlainText": "بر من به سر از عمر چنین خواهد شد\r\nبس خون که ز دیده بر زمین خواهد شد\r\nبا ما سخن از دنیی و دین می گویند\r\nنه آن به حجاب ما نه این خواهد شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر من به سر از عمر چنین خواهد شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس خون که ز دیده بر زمین خواهد شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا ما سخن از دنیی و دین می‌گویند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آن به حجاب ما نه این خواهد شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر من به سر از عمر چنین خواهد شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بس خون که ز دیده بر زمین خواهد شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با ما سخن از دنیی و دین می‌گویند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه آن به حجاب ما نه این خواهد شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

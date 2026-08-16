@@ -1,0 +1,58 @@
+{
+  "Id": 45830,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۱۷",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۱۷",
+  "FullUrl": "/ghaani/robaeegh/sh17",
+  "RhymeLetters": "نگ",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر تمایلات عاشقانه و شوخی‌های زنانه است. شاعر به زنی با ویژگی‌های خاص و خاص خود اشاره می‌کند و نشان می‌دهد که چه احساسی نسبت به او دارد. او همچنین نسبت به ارتباط‌اش با زن با زبانی بازیگوش و طنزآلود صحبت می‌کند. به طور کلی، این شعر به حس نزدیکی و محبت بین دو نفر می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگ",
+      "PlainText": "گفتم به زن نظام کای لولی شنگ\r\nخواهم که به چاله ات فروکوبم دنگ\r\nخیاط صفت لباس الفت ببریم\r\nمن از گز کیر و تو ز مقراض دو لنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم به زن نظام کای لولی شنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهم که به چاله‌ات فروکوبم دنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیاط‌صفت لباس الفت ببریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن از گز کیر و تو ز مقراض دو لنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم به زن نظام کای لولی شنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواهم که به چاله‌ات فروکوبم دنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خیاط‌صفت لباس الفت ببریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من از گز کیر و تو ز مقراض دو لنگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 107213,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/daye/divan/robaee/sh50",
+  "RhymeLetters": "نشمع",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به افرادی که دور شمع نشسته‌اند، اشاره می‌کند. آن‌ها به شمع بسنده کرده‌اند و به جای استفاده از نور و روشنی آن، فقط به خوشه‌ای از خرمن اکتفا کرده‌اند. شاعر از آن‌ها می‌خواهد که همچون پروانه با شجاعت و عشق، جان خود را در خطر قرار دهند و در آغوش شمع بروند. این ابیات نماد جستجوی عشق و فداکاری را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نشمع",
+      "PlainText": "ای آنکه نشسته اید پیرامن شمع\r\nقانع گشته به خوشه از خرمن شمع\r\nپروانه صفت نهید جان بر کف دست\r\nتابوک کنید دست در گردن شمع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه نشسته اید پیرامن شمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقانع گشته به خوشه از خرمن شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپروانه صفت نهید جان بر کف دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتابوک کنید دست در گردن شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه نشسته اید پیرامن شمع",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قانع گشته به خوشه از خرمن شمع",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پروانه صفت نهید جان بر کف دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تابوک کنید دست در گردن شمع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

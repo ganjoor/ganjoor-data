@@ -1,0 +1,58 @@
+{
+  "Id": 73667,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۷۵",
+  "FullUrl": "/zahir/robaeez-zahir/sh75",
+  "RhymeLetters": "ران",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به دل هشدار می‌دهد که فریب زیبایی‌ها و ناز و عشوه‌های پسران خوش‌ظاهر را نخورد. او می‌گوید که نباید به زلف و موهای آن‌ها دست بزند و باید از این وسوسه‌ها دوری کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ران",
+      "PlainText": "ای دل مشو اندر خط این خوش پسران\r\nهر عشوه که زلفشان فروشد مخر آن\r\nاین حلقه ما راست مزن دست درین\r\nوان رشته مو رست منه پای بر آن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل مشو اندر خط این خوش پسران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر عشوه که زلفشان فروشد مخر آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین حلقه ما راست، مزن دست درین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان رشته مو رُست منه پای بر آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل مشو اندر خط این خوش پسران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر عشوه که زلفشان فروشد مخر آن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این حلقه ما راست، مزن دست درین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وان رشته مو رُست منه پای بر آن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

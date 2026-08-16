@@ -1,0 +1,58 @@
+{
+  "Id": 90720,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/kalim/divan/robaee/sh9",
+  "RhymeLetters": "لماوست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساس غم و اندوه خود صحبت می‌کند، اما به نوعی این غم برایش خوشایند است زیرا به او یادآوری می‌کند که محبوبش همیشه در کنار اوست. او بیان می‌کند که در سختی‌ها و مشکلات زندگی، این محبوب است که به او کمک می‌کند و در نهایت، هر چیزی که در عمرش به دست بیاورد یا از دست بدهد، به او مربوط می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لماوست",
+      "PlainText": "با عقده غم خوشم که کام دلم اوست\r\nاینجاست که هر چه حل شود مشکلم اوست\r\nبی ناله دمی نیم که از خرمن عمر\r\nهر چیز بباد می دهد حاصلم اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا عقده غم خوشم که کام دلم اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینجاست که هر چه حل شود مشکلم اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی ناله دمی نیم که از خرمن عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چیز بباد می دهد حاصلم اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با عقده غم خوشم که کام دلم اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اینجاست که هر چه حل شود مشکلم اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی ناله دمی نیم که از خرمن عمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چیز بباد می دهد حاصلم اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

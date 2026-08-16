@@ -1,0 +1,58 @@
+{
+  "Id": 45786,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۲۴",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۲۴",
+  "FullUrl": "/ghaani/ghetegh/sh124",
+  "RhymeLetters": "ره",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بند شاعر به توصیف وضعیتی دشوار و پیچیده اشاره دارد که در آن گرفتار شده‌اند. او به شکل حلقه‌هایی که از سر تا پا بدن را احاطه کرده‌اند، تشبیه می‌کند و بیان می‌کند که هرچه بیشتر سعی در رهایی از این وضعیت دارند، فقط پیچیدگی و مشکل بیشتر می‌شود. در واقع، این تصویر نشان‌دهنده‌ی تلاش بی‌نتیجه برای فرار از سختی‌ها و موانع زندگی است.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ره",
+      "PlainText": "در کمندی اوفتادستیم صعب\r\nپای تا سر حلقه حلقه چون زره\r\nهرچه می پیچیم کز آن وارهیم\r\nبیشتر گردد ز پیچیدن گره",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کمندی اوفتادستیم صعب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای تا سر حلقه حلقه چون زره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچه می‌پیچیم کز آن وارهیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیشتر گردد ز پیچیدن گره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کمندی اوفتادستیم صعب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پای تا سر حلقه حلقه چون زره",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچه می‌پیچیم کز آن وارهیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیشتر گردد ز پیچیدن گره",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 103149,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹۵",
+  "FullUrl": "/jooya/divan/robaee/sh95",
+  "RhymeLetters": "ون",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به کسی اشاره می‌کند که بخیل است و از دادن نعمت‌ها یا کمک به دیگران دریغ می‌کند. او می‌گوید که دل دیگران به خاطر این امساک و بخیل بودن او به درد آمده است و او حتی به نان نیز بی‌اعتناست. شاعر تأکید می‌کند که حرص و طمع باعث می‌شود که فرد از دادن لقمه‌ای به دیگران خودداری کند و در نتیجه این رفتار ناپسند او به ضرر خودش تمام می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ون",
+      "PlainText": "ای آنکه دلت گشته ز امساک تو خون\r\nنبود دهنت از تو به نانی ممنون\r\nتا بستاند لقمه ز دستت از حرص\r\nآید فم معده از دهانت بیرون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه دلت گشته ز امساک تو خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبْوَد دهنت از تو به نانی ممنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بستاند لقمه ز دستت از حرص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآید فم معده از دهانت بیرون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه دلت گشته ز امساک تو خون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نبْوَد دهنت از تو به نانی ممنون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا بستاند لقمه ز دستت از حرص",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آید فم معده از دهانت بیرون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

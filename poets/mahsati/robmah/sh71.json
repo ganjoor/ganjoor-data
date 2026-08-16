@@ -1,0 +1,58 @@
+{
+  "Id": 50131,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۷۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۷۱",
+  "FullUrl": "/mahsati/robmah/sh71",
+  "RhymeLetters": "ند",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به زیبایی و جذابیت معشوق اشاره می‌کند. از شکل غنچه، پیکانی چند ساخته شده که به سمت موردعلاقه او حمله‌ور می‌شود. همچنین، به زیبایی او که چون خورشید می‌درخشد و به شکل تیغ از دور نمایان است، اشاره می‌کند. در نهایت، پیکان این زیبایی را محافظت می‌کند، و سپر آن هم به زمین می‌افتد، نشان از قدرت و جذابیت وصف‌ناپذیر معشوق دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "گل ساخت ز شکل غنچه پیکانی چند\r\nتا حمله برد به حسن بر تو دلبند\r\nخورشید رخت چو تیغ بنمود از دور\r\nپیکان سپری کرد سپر هم افکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل ساخت ز شکل غنچه پیکانی چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا حمله برد به حسن، بر تو دلبند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید رخت چو تیغ بنمود از دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیکان سپری کرد سپر هم افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل ساخت ز شکل غنچه پیکانی چند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا حمله برد به حسن، بر تو دلبند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورشید رخت چو تیغ بنمود از دور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیکان سپری کرد سپر هم افکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

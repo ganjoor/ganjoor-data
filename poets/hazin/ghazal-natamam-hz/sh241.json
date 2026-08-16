@@ -1,0 +1,58 @@
+{
+  "Id": 83402,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۴۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۴۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh241",
+  "RhymeLetters": "اچهکندکس",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساساتی عمیق و دردناک اشاره می‌کند. او از عدم تأثیر عشق و محبت بر دل و جانش می‌گوید و بیان می‌کند که وقتی عشق به او نرسیده، چه کسی می‌تواند بر این حس تنهایی و تشنگی غلبه کند. همچنین، او از بی‌كنترلی اشک‌هایش صحبت می‌کند و شعری به شدت احساسی و پر از غمسرائی را به تصویر می‌کشد. در کل، ابیات نشان‌دهنده‌ی دلتنگی و ناامیدی عمیق شاعر هستند.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونچهکندکس",
+      "PlainText": "خون گر نخورد زان لب میگون چه کند کس\r\nمژگان تر و لب تشنه و دل خون چه کند کس\r\nاز دست برون رفته عنان داری اشکم\r\nطوفان بهار است به جیحون چه کند کس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخون گر نخورد زان لب میگون، چه کند کس؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژگان تر و لب تشنه و دل خون، چه کند کس؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دست برون رفته عنان داری اشکم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطوفان بهار است، به جیحون چه کند کس؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون گر نخورد زان لب میگون، چه کند کس؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مژگان تر و لب تشنه و دل خون، چه کند کس؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دست برون رفته عنان داری اشکم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طوفان بهار است، به جیحون چه کند کس؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

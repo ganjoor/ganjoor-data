@@ -1,0 +1,43 @@
+{
+  "Id": 84010,
+  "CatId": 2196,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "غبار همدانی » مفردات » شمارهٔ ۵",
+  "FullUrl": "/ghobar/mof-gh/sh5",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت بیان می‌کند که با وجود دانستن درد و رنج خود، می‌داند که به زودی شادی و زیبایی (نماد آن، لاله) از دل غم‌هایش شکوفا خواهد شد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمن",
+      "PlainText": "گرچه دانم ز اشک خون باران من\r\nلاله خواهد رست از بستان من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه دانم ز اشک خون‌باران من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاله خواهد رست از بستان من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Takbeyt",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه دانم ز اشک خون‌باران من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لاله خواهد رست از بستان من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

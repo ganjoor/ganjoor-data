@@ -1,0 +1,58 @@
+{
+  "Id": 104886,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/ahli/divan/robaee/sh80",
+  "RhymeLetters": "بیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر به تفاوت دو نوع شب اشاره می‌کند. یکی شبی است که با دوست و لذتی از نوشیدن سپری می‌شود، که عمر و زندگی را تداعی می‌کند. اما شب دیگر بی‌دوستی و لذت است که مانند مرگ می‌ماند. هر دو شب وجود دارند، اما از نظر ارزش و حس، سال‌ها تفاوت دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بیست",
+      "PlainText": "عمرست شبی که با حریف طربیست\r\nمرگست شبی که بی رخ نوش لبیست\r\nاین هر دو شب است لیکن از روی حساب\r\nصد سال تفاوت ز شبی تا به شبیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرست شبی که با حریف طربیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرگست شبی که بی رخ نوش لبیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین هر دو شب است لیکن از روی حساب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد سال تفاوت ز شبی تا به شبیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمرست شبی که با حریف طربیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرگست شبی که بی رخ نوش لبیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این هر دو شب است لیکن از روی حساب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد سال تفاوت ز شبی تا به شبیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

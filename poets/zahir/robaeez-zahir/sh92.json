@@ -1,0 +1,58 @@
+{
+  "Id": 73684,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۹۲",
+  "FullUrl": "/zahir/robaeez-zahir/sh92",
+  "RhymeLetters": "المبهکسی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساسات عمیق خود صحبت می‌کند. او نمی‌خواهد غم خود را به کسی بگوید و از آن شکایت کند. همچنین، هرچند جان او در حال آزار است، اما اشک‌هایش نمی‌تواند وضعیت درونی‌اش را به دیگران نشان دهد. به عبارتی، او در تلاش است تا درد و رنج خود را پنهان کند و به کسی نشان ندهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "المبهکسی",
+      "PlainText": "نه زهره که از غمت بنالم به کسی\r\nیا از تو شکایتی شکالم به کسی\r\nجان رشوه دیده می دهد اما اشک\r\nپیدا نکند صورت حالم به کسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه زهره که از غمت بنالم به کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا از تو شکایتی شکالم به کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان رشوه دیده می دهد [اما] اشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیدا نکند صورت حالم به کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه زهره که از غمت بنالم به کسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا از تو شکایتی شکالم به کسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان رشوه دیده می دهد [اما] اشک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیدا نکند صورت حالم به کسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

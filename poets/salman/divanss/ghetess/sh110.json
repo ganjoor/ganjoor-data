@@ -1,0 +1,58 @@
+{
+  "Id": 38909,
+  "CatId": 1135,
+  "Title": "قطعه شمارهٔ ۱۱۰",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » قطعات » قطعه شمارهٔ ۱۱۰",
+  "FullUrl": "/salman/divanss/ghetess/sh110",
+  "RhymeLetters": "ارش",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به بررسی وضعیت خود پس از ابتلا به بیماری آبله می‌پردازد. او به تصویر کشیده که چگونه این بیماری باعث شده اعضای بدنش تحت تأثیر قرار بگیرند و شاخ و غنچه‌ای نمادین از آن بیرون بیاید. همچنین، به خارش‌های فراوانی که ناشی از غنچه‌هاست اشاره می‌کند. در کل، شعر به تشبیه درد و رنج ناشی از بیماری می‌پردازد.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارش",
+      "PlainText": "از آبله جرب تن من \r\nشاخی است که غنچه گشت بارش \r\nهر عضوی و صد هزار غنچه \r\nهر غنچه و صد هزار خارش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آبله جرب تن من \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاخی است که غنچه گشت بارش \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر عضوی و صد هزار غنچه \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر غنچه و صد هزار خارش \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از آبله جرب تن من ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاخی است که غنچه گشت بارش ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر عضوی و صد هزار غنچه ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر غنچه و صد هزار خارش ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

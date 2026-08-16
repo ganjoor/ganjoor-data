@@ -1,0 +1,58 @@
+{
+  "Id": 36053,
+  "CatId": 848,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "عطار » مختارنامه » باب چهل و هفتم: در معانیی كه تعلق به شمع دارد » شمارهٔ ۸۱",
+  "FullUrl": "/attar/mokhtarname/bb47/sh81",
+  "RhymeLetters": "دّمناست",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به حسرت و درد ناشی از عشق اشاره می‌کند. او می‌گوید که شمع (نماد عشق) باید برود، زیرا سوختن او به حد تحمل شاعر رسیده است. سوز و درد شمع برای او قابل قبول نیست و او بیشتر به حال خود می‌نالد تا به حال شمع. در نهایت، او می‌گوید که سوز شمع به او ربطی ندارد و بیشتر به حال خود اهمیت می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دّمناست",
+      "PlainText": "ای شمع برو که سوختن حد من است\r\nمقبول نیی که سوز تو رد من است\r\nتو میسوزی به درد و من مینالم\r\nپس سوز نه برقد تو بر قد من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمع! برو که سوختن حدّ من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمقبول نیی که سوز تو ردّ من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو میسوزی به درد و من مینالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس سوز نه برقدّ تو بر قدّ من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شمع! برو که سوختن حدّ من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مقبول نیی که سوز تو ردّ من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو میسوزی به درد و من مینالم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پس سوز نه برقدّ تو بر قدّ من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

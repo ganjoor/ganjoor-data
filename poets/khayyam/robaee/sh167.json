@@ -1,0 +1,58 @@
+{
+  "Id": 1285,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۶۷",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۶۷",
+  "FullUrl": "/khayyam/robaee/sh167",
+  "RhymeLetters": "باری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "شاعر در میخانه با یک پیر دانا هم‌صحبت می‌شود و از پیر می‌خواهد که برای او از قدیم و درگذشتگان بگوید. پیرمرد به او پاسخ می‌دهد که باده بنوش که وقتی مُردی پس از آن هیچکس از تو چیزی نخواهد شنید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باری",
+      "PlainText": "پیری دیدم به خانه خماری\r\nگفتم نکنی ز رفتگان اخباری\r\nگفتا می خور که همچو ما بسیاری\r\nرفتند و خبر باز نیامد باری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیری دیدم به خانهٔ خماری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم نکنی ز رفتگان اخباری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتا می خور که همچو ما بسیاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتند و خبر باز نیامد باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیری دیدم به خانهٔ خماری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم نکنی ز رفتگان اخباری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتا می خور که همچو ما بسیاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتند و خبر باز نیامد باری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

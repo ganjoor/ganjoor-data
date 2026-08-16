@@ -1,0 +1,58 @@
+{
+  "Id": 48813,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۹۴",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۹۴",
+  "FullUrl": "/orfi/robaeeor/sh94",
+  "RhymeLetters": "اخواهدشد",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ستایش و تمجید از مقام و بزرگی یک پادشاه می‌پردازد. او می‌گوید که نفسی که به مبارکی پادشاه می‌وزد، همچون باغی پر از نعمت خواهد بود و عمر او به گلستانی از بقا تبدیل خواهد شد. شاعر همچنین ابراز تاسف می‌کند که لب‌های آستانه دولت پادشاه به عنوان نشانه‌ای از احترام و ارادت، با لب‌های او بوسیده خواهد شد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اخواهدشد",
+      "PlainText": "شاها نفسم باغ ثنا خواهد شد\r\nعمر تو گلستان بقا خواهد شد\r\nحیف از لب آستانه دولت تو\r\nکالوده به بوس لب ما خواهد شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها نفسم باغ ثنا خواهد شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعمر تو گلستان بقا خواهد شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیف از لب آستانهٔ دولت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکالوده به بوس لب ما خواهد شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها نفسم باغ ثنا خواهد شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عمر تو گلستان بقا خواهد شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیف از لب آستانهٔ دولت تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کالوده به بوس لب ما خواهد شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

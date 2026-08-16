@@ -1,0 +1,58 @@
+{
+  "Id": 1122,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۴",
+  "FullUrl": "/khayyam/robaee/sh4",
+  "RhymeLetters": "ستانرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این شعر به اهمیت دوری از قضاوت و انتقاد نسبت به دیگران اشاره دارد. شاعر می‌گوید که اگر خود شراب نمی‌نوشی، حق نداری به مستان طعنه بزنی. همچنین هشدار می‌دهد که نباید به می نخوردن و عدم گناه مستی غره و مغرور باشی چون تو صدها لغمه حرام و گناه آلود میخوری که می و شراب پیش آن گناه کوچکیست",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستانرا",
+      "PlainText": "گر می نخوری طعنه مزن مستان را\r\nبنیاد مکن تو حیله و دستان را\r\nتو غره بدان مشو که می می نخوری\r\nصد لقمه خوری که می غلام است آن را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مِی نخوری طعنه مزن مستان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنیاد مکَن تو حیله و دستان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو غره بدان مشو که مِی می‌نخوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد لقمه خوری که مِی غلام است آن را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر مِی نخوری طعنه مزن مستان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنیاد مکَن تو حیله و دستان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو غره بدان مشو که مِی می‌نخوری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد لقمه خوری که مِی غلام است آن را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

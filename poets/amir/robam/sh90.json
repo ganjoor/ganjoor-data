@@ -1,0 +1,58 @@
+{
+  "Id": 70133,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۹۰",
+  "FullUrl": "/amir/robam/sh90",
+  "RhymeLetters": "نگتوبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر از شب زیبایی صحبت می‌کند که دلش را شاد کرده و صدای موسیقی و آب را در گوشش می‌شنیده است. اما اکنون آن شب گذشته و صبح فرا رسیده است. در آن شب، مهتاب نبوده اما ماه در آغوش او بوده و لحظات خوشی را تجربه کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشمبود",
+      "PlainText": "از عمر شبی به  کام دل دوشم بود\r\nکاواز سرود و رود درگوشم بود\r\nبگذشته و بامداد فرموشم بود\r\nمهتاب نبود و مه در آغوشم بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عمر شبی به‌ کام دل دوشم بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاواز سرود و رود درگوشم بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذشته و بامداد فرموشم بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهتاب نبود و مه در آغوشم بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عمر شبی به‌ کام دل دوشم بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاواز سرود و رود درگوشم بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگذشته و بامداد فرموشم بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مهتاب نبود و مه در آغوشم بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

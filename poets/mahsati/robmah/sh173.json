@@ -1,0 +1,58 @@
+{
+  "Id": 50233,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۷۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۷۳",
+  "FullUrl": "/mahsati/robmah/sh173",
+  "RhymeLetters": "اری",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان عشق و وابستگی عمیق شاعر به معشوق می‌پردازند. شاعر به زیبایی و دلربایی موی معشوق اشاره می‌کند و می‌گوید که حتی اگر بخواهد در غم او مویش هم بشود، هرگز از سر او دور نخواهد شد. این نشان‌دهنده وفاداری و تعلق خاطر او به معشوق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اری",
+      "PlainText": "مر موی تو را چه بود بی آزاری\r\nبرخاستن از سر چو تو دلداری\r\nمن بنده اگر موی شوم در غم تو\r\nهرگز ز سر تو برنخیزم باری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر موی تو را چه بود بی آزاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخاستن از سر چو تو دلداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بنده اگر موی شوم در غم تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز ز سر تو برنخیزم باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مر موی تو را چه بود بی آزاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برخاستن از سر چو تو دلداری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من بنده اگر موی شوم در غم تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز ز سر تو برنخیزم باری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

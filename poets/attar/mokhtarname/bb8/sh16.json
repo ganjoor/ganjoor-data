@@ -1,0 +1,58 @@
+{
+  "Id": 34346,
+  "CatId": 803,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "عطار » مختارنامه » باب هشتم: در تحریض نمودن به فنا و گم بودن در بقا » شمارهٔ ۱۶",
+  "FullUrl": "/attar/mokhtarname/bb8/sh16",
+  "RhymeLetters": "اكتراست",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به ویژگی‌های مردانگی و روحیه‌ی انسان‌ها می‌پردازد. می‌گوید که مرد کسی است که هر لحظه تلاش می‌کند تا بهتر و پاک‌تر شود و در مواجهه با چالش‌ها شجاع‌تر است. همچنین اشاره می‌کند که کسی که در این مسیر فعال‌تر است، هرچند ممکن است از نظر مادی کمتر شود، اما از نظر معنوی رشد می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اكتراست",
+      "PlainText": "مرد آن باشد که هر نفس پاکتر است\r\nدر باختن وجود بیباکتر است\r\nمردی که درین طریق چالاکتر است\r\nهرچند که پاکتر شود خاکتر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد آن باشد که هر نفس پاکتر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر باختن وجود بیباکتر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردی که درین طریق چالاکتر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچند که پاکتر شود خاکتر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرد آن باشد که هر نفس پاکتر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در باختن وجود بیباکتر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردی که درین طریق چالاکتر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچند که پاکتر شود خاکتر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45353,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۱۰",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۱۰",
+  "FullUrl": "/helali/robaeeh/sh10",
+  "RhymeLetters": "انینیست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت از احساس بی‌قراری و ناامیدی خود صحبت می‌کند. او می‌گوید که هیچ امیدی به بهبودی او وجود ندارد و غم به اندازه‌ای او را آزرده کرده که هیچ‌کس نمی‌تواند به او کمک کند. در نهایت، او به این نتیجه می‌رسد که در این شهر انسانی که به او کمک کند یافت نمی‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انینیست",
+      "PlainText": "امروز مرا غیر پریشانی نیست\r\nدر مشکل من امید آسانی نیست\r\nغم کشت مرا و کس به دادم نرسید\r\nبالله که درین شهر مسلمانی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز مرا غیر پریشانی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر مشکل من امید آسانی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم کشت مرا و کس به دادم نرسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالله که درین شهر مسلمانی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز مرا غیر پریشانی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مشکل من امید آسانی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غم کشت مرا و کس به دادم نرسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بالله که درین شهر مسلمانی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

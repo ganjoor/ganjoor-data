@@ -1,0 +1,58 @@
+{
+  "Id": 83117,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲۰",
+  "FullUrl": "/hazin/robaee-hz/sh220",
+  "RhymeLetters": "اییمن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از عشق و شیدایی خود صحبت می‌کند و به نظر می‌رسد که این احساسات نتیجه اراده خداوند هستند. او به غم شب‌های عاشقانه‌اش اشاره می‌کند و می‌گوید که هیچ‌کس در مورد گذر زمان و تنهایی او سخن نگفته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییمن",
+      "PlainText": "آن راحت جان و دل شیدایی من\r\nگویا ز خدا خواست جگر خایی من\r\nشب های غمت نگفت چون می گذرد\r\nیک روز نکرد یاد تنهایی من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن راحت جان و دل شیدایی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویا ز خدا خواست جگر خایی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب های غمت نگفت چون می گذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک روز نکرد یاد تنهایی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن راحت جان و دل شیدایی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویا ز خدا خواست جگر خایی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب های غمت نگفت چون می گذرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک روز نکرد یاد تنهایی من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

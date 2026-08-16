@@ -1,0 +1,58 @@
+{
+  "Id": 104858,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/ahli/divan/robaee/sh52",
+  "RhymeLetters": "پیشاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر احساس حسرت و غم عمیقی را دارد که دائما با اوست. این غم به صورتی بی‌نظم و پیوسته وجود دارد و نمی‌تواند از آن رهایی یابد. او اشاره می‌کند که یا صبحی سرشار از خوشبختی در انتظارش است یا مشکلات و دردها در روز پایانی زندگی‌اش حضور دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "پیشاست",
+      "PlainText": "این حسرت و غم که با من درویش است\r\nبی سلسله یی نیست که بیش از پیش است\r\nیا صبح سعادتم پس از شام غمست\r\nیا محنت روز واپسینم پیش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین حسرت و غم که با من درویش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی سلسله یی نیست که بیش از پیش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا صبح سعادتم پس از شام غمست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا محنت روز واپسینم پیش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این حسرت و غم که با من درویش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی سلسله یی نیست که بیش از پیش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا صبح سعادتم پس از شام غمست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا محنت روز واپسینم پیش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

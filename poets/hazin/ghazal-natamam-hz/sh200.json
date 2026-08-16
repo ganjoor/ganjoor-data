@@ -1,0 +1,58 @@
+{
+  "Id": 83361,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۰۰",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۰۰",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh200",
+  "RhymeLetters": "انمنبروناید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به مفهوم آسیب رساندن به دیگران و عواقب آن اشاره دارند. شاعر می‌گوید که سختی‌ها بدون دلیل به ضعیفان می‌رسد و وقتی انسان دچار پشیمانی می‌شود، صدای ندامت او بلند می‌شود. همچنین به زاهدانی که حال و هوای خوبی ندارند اشاره می‌شود و با caution به آن‌ها هشدار می‌دهد که ممکن است اثرات سردی نفس آن‌ها بر روی دیگران تأثیر منفی بگذارد. در کل، این اشعار به اهمیت مراقبت از روح و رفتار نسبت به دیگران تأکید می‌کند.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باید",
+      "PlainText": "سختی به ضعیفان جهان بی سبب آید\r\nمن بد کنم و زخم ندامت به لب آید\r\nزاهد دمش افسرده چو صبح است مبادا\r\nخورشید تو را از نفس سرد تب آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسختی به ضعیفان جهان بی سبب آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بد کنم و زخم ندامت به لب آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزاهد دمش افسرده چو صبح است، مبادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید تو را از نفس سرد تب آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سختی به ضعیفان جهان بی سبب آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من بد کنم و زخم ندامت به لب آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاهد دمش افسرده چو صبح است، مبادا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید تو را از نفس سرد تب آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

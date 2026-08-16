@@ -1,0 +1,58 @@
+{
+  "Id": 1278,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۶۰",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۶۰",
+  "FullUrl": "/khayyam/robaee/sh160",
+  "RhymeLetters": "فتی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت به این موضوع اشاره دارد که تلاش برای بازگشت به گذشته و جستجو در آن، بی‌فایده است. شاعر به یادآوری نتیجه‌هایی از اعداد چهار و هفت می‌پردازد و می‌گوید که هر چند بار هم تکرار کند، برگشتن به شرایط گذشته ممکن نیست. به عبارتی دیگر، وقتی چیزی از دست برود، دیگر نمی‌توان آن را بازگرداند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتی",
+      "PlainText": "ای آنکه نتیجه چهار و هفتی\r\nوز هفت و چهار دایم اندر تفتی\r\nمی خور که هزار بار بیشت گفتم\r\nباز آمدنت نیست چو رفتی رفتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه نتیجهٔ چهار و هفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز هفت و چهار دایم اندر تفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی خور که هزار بار بیشت گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز آمدنت نیست چو رفتی رفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه نتیجهٔ چهار و هفتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز هفت و چهار دایم اندر تفتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می خور که هزار بار بیشت گفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باز آمدنت نیست چو رفتی رفتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

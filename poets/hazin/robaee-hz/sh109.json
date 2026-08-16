@@ -1,0 +1,58 @@
+{
+  "Id": 82997,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۰۹",
+  "FullUrl": "/hazin/robaee-hz/sh109",
+  "RhymeLetters": "اربرند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، عشق به عنوان نیرویی قوی و گاهی دردناک توصیف شده است که جان افراد را به اسارت می‌کشد. وفا در عشق به کودکی بیمار تشبیه شده که نیازمند مراقبت است. همچنین، نام محبوب در دل عاشقان باقی مانده و در مکان‌های مقدس و حتی در جمع‌های غیر مذهبی هم بر زبان‌ها می‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اربرند",
+      "PlainText": "در عشق رگ جان گرفتار برند\r\nاز شیر وفا کودک بیمار برند\r\nنام سر زلف یار سودازدگان\r\nدر دیر مغان برند و زنار برند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق، رگ جان گرفتار برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شیر وفا، کودک بیمار بُرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنام سر زلف یار، سودازدگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیر مغان برند و زنّار بُرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق، رگ جان گرفتار برند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شیر وفا، کودک بیمار بُرند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نام سر زلف یار، سودازدگان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دیر مغان برند و زنّار بُرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

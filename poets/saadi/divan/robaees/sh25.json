@@ -1,0 +1,58 @@
+{
+  "Id": 10086,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۲۵",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۲۵",
+  "FullUrl": "/saadi/divan/robaees/sh25",
+  "RhymeLetters": "وست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات نشان‌دهنده‌ی عشق و وفاداری عمیق شاعر به معشوق است. شاعر بیان می‌کند که اگر زخم‌هایی از سوی محبوبش بخورد، دردش را تنها برای خود حفظ می‌کند و هیچ‌کس را از احساساتش باخبر نمی‌کند، تا اینکه دیگران ندانند که منظورش از این ناراحتی فقط همان معشوق است. در واقع، او با صبر و غیرت، احساس عمیقش را مخفی نگه می‌دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "گر زخم خورم ز دست چون مرهم دوست\r\nیا مغز برآیدم چو بادام از پوست\r\nغیرت نگذاردم که نالم به کسی\r\nتا خلق ندانند که منظور من اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زخم خورم ز دست چون مرهم دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا مغز برآیدم چو بادام از پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیرت نگذاردم که نالم به کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خلق ندانند که منظور من اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر زخم خورم ز دست چون مرهم دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا مغز برآیدم چو بادام از پوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غیرت نگذاردم که نالم به کسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا خلق ندانند که منظور من اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

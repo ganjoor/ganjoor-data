@@ -1,0 +1,58 @@
+{
+  "Id": 82903,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/hazin/robaee-hz/sh15",
+  "RhymeLetters": "اکاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن به اهمیت خرد و درک اشاره می‌کند و می‌گوید کسانی که از خرد بهره‌مند هستند، در مواقع پیکار و تلاش بسیار فعال و پویا هستند. همچنین بیان می‌کند که هرچند انسان‌ها ممکن است در زندگی خود دارای خوبی یا بدی باشند، اما وقتی نفس پلید بمیرد، ذات پاکی از آن باقی می‌ماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکاست",
+      "PlainText": "آن را که نصیب از خرد ادراک است\r\nدر معرکه جهاد خود چالاک است\r\nهر چندکه زنده پاک و مرده ست پلید\r\nاین نفس پلید چون بمیرد پاک است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن را که نصیب از خرد ادراک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر معرکهٔ جهاد خود چالاک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چندکه زنده پاک و مرده ست پلید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین نفس پلید چون بمیرد پاک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که نصیب از خرد ادراک است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در معرکهٔ جهاد خود چالاک است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چندکه زنده پاک و مرده ست پلید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این نفس پلید چون بمیرد پاک است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 105623,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۲",
+  "FullUrl": "/ahli/saghiname/sh3",
+  "RhymeLetters": "سانبهرخدا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ساقی (جام‌ریز) می‌گوید که به بیکسان (بدبختان) نگاهی کند و از او می‌خواهد که به خاطر خدا، بت را نشکند. او به ساقی می‌گوید که ما همچون ماهی مرده‌ایم و تو آب حیات هستی، پس ما را به وصال خود برسان، به خاطر خدا.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سانبهرخدا",
+      "PlainText": "ساقی نظری به بیکسان بهر خدا\r\nمشکن بت ما بوالهوسان بهر خدا\r\nما ماهی مرده ایم و تو آب حیات\r\nما را بوصال خود رسان بهر خدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی نظری به بیکسان بهر خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشکن بت ما بوالهوسان بهر خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما ماهی مرده ایم و تو آب حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما را بوصال خود رسان بهر خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی نظری به بیکسان بهر خدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشکن بت ما بوالهوسان بهر خدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما ماهی مرده ایم و تو آب حیات",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما را بوصال خود رسان بهر خدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

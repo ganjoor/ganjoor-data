@@ -1,0 +1,58 @@
+{
+  "Id": 70073,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/amir/robam/sh30",
+  "RhymeLetters": "رقاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به بیان ویژگی‌های برجسته کسی می‌پردازد که علم و حلمش از دیگران بیشتر است. او علمش را از علم خضر و آصف (شخصیات معاصر با پیامبران) برتر می‌داند و حلمش را از حلم معن و احنف (شخصیت‌های با کمال انسانی) فراتر می‌بیند. همچنین، شاعر قدرت و تأثیر شمشیرش را از صاعقه بیشتر و تعداد پیروانش را از مورچه‌ها بیشتر می‌داند. این ابیات نشان‌دهنده بزرگی و برتری شخصیت فردی است که شاعر به آن اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فبیشاست",
+      "PlainText": "علم تو زعلم خضر و آصف بیش است\r\nحلم تو زحلم معن  واحنف بیش است\r\nاز صاعقه شمشیر تو را تف بیش است\r\nوز مورچه ترکان تو را صف بیش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم تو زعلم خضر و آصف بیش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحلم تو زحلم مَعن‌ وَاحنَف بیش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز صاعقه شمشیر تو را تف بیش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز مورچه ترکان تو را صف بیش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "علم تو زعلم خضر و آصف بیش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حلم تو زحلم مَعن‌ وَاحنَف بیش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از صاعقه شمشیر تو را تف بیش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز مورچه ترکان تو را صف بیش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

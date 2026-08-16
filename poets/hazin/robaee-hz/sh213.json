@@ -1,0 +1,58 @@
+{
+  "Id": 83110,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱۳",
+  "FullUrl": "/hazin/robaee-hz/sh213",
+  "RhymeLetters": "هکن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان حالتی از دل‌مشغولی و تلاطم درونی می‌پردازد. شاعر از ما می‌خواهد که مسائل ظاهری و سطحی را کنار بگذاریم و به عمق احساسات و واقعیت‌ها توجه کنیم. او تأکید می‌کند که در مجلسی که نمی‌توان به راحتی با کلمات صحبت کرد، باید احساسات واقعی‌امان را بیان کنیم و از گفتن بی‌هوده کلمات بپرهیزیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هکن",
+      "PlainText": "معنی طلبی بساط صورت ته کن\r\nبگذار حزین فسانه ساز ره کن\r\nدر مجلس حال قال را ره نبود\r\nدل می خواهی زبان خود کوته کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعنی طلبی، بساط صورت ته کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذار حزین فسانه، ساز ره کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مجلس حال، قال را ره نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل می خواهی زبان خود کوته کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "معنی طلبی، بساط صورت ته کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگذار حزین فسانه، ساز ره کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در مجلس حال، قال را ره نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل می خواهی زبان خود کوته کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

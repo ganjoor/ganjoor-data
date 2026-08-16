@@ -1,0 +1,58 @@
+{
+  "Id": 50194,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۳۴",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۳۴",
+  "FullUrl": "/mahsati/robmah/sh134",
+  "RhymeLetters": "یم",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که نه اهل نماز و عبادت خشک‌مذهب هستیم و نه به معارف ساده و بی‌روح اعتقاد داریم. ما افرادی هستیم که در میان رندها و اهل می‌خوارگی زندگی می‌کنیم. قاضی (رئیس) در خوردن شراب احتیاط می‌کند زیرا از عواقب آن می‌ترسد، اما درد و رنج زندگی در خرابات و میخانه بهتر از رنج و سرنوشت یتیمان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یم",
+      "PlainText": "نه مرد سجاده ایم و نه مرد گلیم\r\nما مرد می ایم در خرابات مقیم\r\nقاضی نخورد می که از آن دارد بیم\r\nدردی خرابات به از مال یتیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه مرد سجاده‌ایم و نه مرد گلیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما مرد می‌ایم در خرابات مقیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقاضی نخورد می که از آن دارد بیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدُردی خرابات به از مال یتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه مرد سجاده‌ایم و نه مرد گلیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما مرد می‌ایم در خرابات مقیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قاضی نخورد می که از آن دارد بیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دُردی خرابات به از مال یتیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

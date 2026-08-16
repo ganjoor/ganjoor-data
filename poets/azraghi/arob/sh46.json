@@ -1,0 +1,58 @@
+{
+  "Id": 69407,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/azraghi/arob/sh46",
+  "RhymeLetters": "اباراید",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به نوعی تأکید بر نقش و ویژگی‌های مردانه و زنانه دارد. شاعر بیان می‌کند که مرد باید به سرعت به سمت هدف‌ها و آرزوهایش حرکت کند و مانند زنان در آرایش ظاهری خود غرق نشود. او همچنین اشاره می‌کند که اگر مردی در مسیر امید به پیش نرود، مانند زنانی که در خواب و راحتی به سر می‌برند، نمی‌تواند به موفقیت برسد. در کلیت، این شعر دعوت به تحرک و عملگرایی در زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباراید",
+      "PlainText": "مرد آنکه شدن را بشتاب آراید\r\nنه همچو زنان رخ بخضاب آراید\r\nگر مرد رهی امید را جفت مگیر\r\nکامید چو زن بستر خواب آراید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد آنکه شدن را بشتاب آراید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه همچو زنان رخ بخضاب آراید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مرد رهی امید را جفت مگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامید چو زن بستر خواب آراید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرد آنکه شدن را بشتاب آراید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه همچو زنان رخ بخضاب آراید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر مرد رهی امید را جفت مگیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کامید چو زن بستر خواب آراید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

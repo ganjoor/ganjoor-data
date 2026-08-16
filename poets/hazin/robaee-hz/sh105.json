@@ -1,0 +1,58 @@
+{
+  "Id": 82993,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/hazin/robaee-hz/sh105",
+  "RhymeLetters": "اهیکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساسات عمیق خود در جستجوی محبوب اشاره می‌کند. او از دل ناله‌ای به هوا می‌فرستد و به شوق صبحگاهان دلی آهful می‌زند. قاصدی که نمی‌تواند به هدفش برسد، در تلاش است تا به وصال یار دست یابد، اما به نظر می‌رسد که راهیابی به این وصال دشوار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیکرد",
+      "PlainText": "در راه طلب ناله هواخواهی کرد\r\nدل همرهی آه سحرگاهی کرد\r\nزد قاصد شوق دست و پایی که نداشت\r\nدامان وصال یار کوتاهی کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر راه طلب، ناله هواخواهی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل همرهی آه سحرگاهی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزد قاصد شوق دست و پایی که نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامان وصال یار، کوتاهی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در راه طلب، ناله هواخواهی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل همرهی آه سحرگاهی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زد قاصد شوق دست و پایی که نداشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دامان وصال یار، کوتاهی کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 76510,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/khojandi/robkk/sh32",
+  "RhymeLetters": "ان",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، گوینده با شخصی صحبت می‌کند و می‌پرسد که چه چیزی می‌خواهد بدهد، و او پاسخ می‌دهد که جانش را می‌دهد. سپس گوینده سوال می‌کند که چه چیزی می‌گیرد و شخص در پاسخ می‌گوید که کنار او می‌شود. در ادامه گوینده می‌پرسد که چه چیزی در اختیار دارد و پاسخ می‌رسد که تنها میانه‌ی وجود او را دارد. این گفتگو نشان‌دهنده‌ی ارتباط عاطفی و نزدیکی میان دو نفر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "گفتم که چه خواهی که دهم گفت که جان\r\nگفتم که چه خواهی که دهی گفت امان\r\nگفتم که چه گیری زبرم گفت کنار\r\nگفتم که چه داری چو تنم گفت میان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که چه خواهی که دهم گفت که جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم که چه خواهی که دهی گفت امان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که چه گیری زبرم گفت کنار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم که چه داری چو تنم گفت میان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که چه خواهی که دهم گفت که جان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم که چه خواهی که دهی گفت امان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که چه گیری زبرم گفت کنار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم که چه داری چو تنم گفت میان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

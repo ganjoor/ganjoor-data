@@ -1,0 +1,58 @@
+{
+  "Id": 116153,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/akhsikati/divan/robaee/sh27",
+  "RhymeLetters": "اید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت به توصیف دستی می‌پردازد که در آن گنج و جواهراتی نهفته است. این دست به مانند دریایی است که هرگز از سخاوت و بخشش خالی نمی‌شود. همچنین، اگر باد سماع و حرکتی به آن دست بدهد، ممکن است باعث ایجاد موج در این دریا شود. به طور کلی، این شعر بر اهمیت بخشش و استعدادهای نهفته تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اید",
+      "PlainText": "دست تو کزو گنج گهر می زاید\r\nبحری است که یک دم از سخا ناساید\r\nوز باد سماع اگر بجنبد شاید\r\nکز جنبش باد بحر در موج آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست تو، کزو گنج گهر می‌زاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحری است، که یک دم از سخا ناساید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز باد، سماع اگر بجنبد شاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز جنبش باد، بحر در موج آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دست تو، کزو گنج گهر می‌زاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بحری است، که یک دم از سخا ناساید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وز باد، سماع اگر بجنبد شاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز جنبش باد، بحر در موج آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

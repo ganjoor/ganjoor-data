@@ -1,0 +1,58 @@
+{
+  "Id": 1135,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۷",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۷",
+  "FullUrl": "/khayyam/robaee/sh17",
+  "RhymeLetters": "اماست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این ابیات به توصیف عالم (جهان) می‌پردازند و آن را به یک کاروان‌سرای قدیمی تشبیه می‌کند که شب و روز‌های زیادی را دیده و شاهان بزرگی چون جمشید و بهرام بر دیوار‌های آن تکیه کرده‌اند و جشن‌ها برپا کرده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اماست",
+      "PlainText": "این کهنه رباط را که عالم نام است\r\nو آرامگه ابلق صبح و شام است\r\nبزمی ست که واماندۀ صد جمشید است\r\nقصری ست که تکیه گاه صد بهرام است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین کهنه رباط را که عالم نام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو‌آرامگه ابلقِ صبح و شام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزمی‌ست که واماندۀ صد جمشید است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقصری‌ست که تکیه‌گاه صد بهرام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این کهنه رباط را که عالم نام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و‌آرامگه ابلقِ صبح و شام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بزمی‌ست که واماندۀ صد جمشید است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قصری‌ست که تکیه‌گاه صد بهرام است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

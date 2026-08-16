@@ -1,0 +1,58 @@
+{
+  "Id": 93900,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۱۳۴",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۱۳۴",
+  "FullUrl": "/ebneyamin/divan/robaee/sh134",
+  "RhymeLetters": "وست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده به خود می‌گوید که نباید شراب بنوشد زیرا این کار نه‌تنها خوب نیست، بلکه ممکن است باعث طعنه زدن دیگران شود. اما خرد به او می‌گوید که اگر شراب نخورده باشد، اطاعت از دستور خداوند کرده است و این خود گناهی بزرگ‌تر خواهد بود. به‌نوعی، شعر به تضاد بین رعایت اصول و تبعات اجتماعی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "گفتم نخورم باده که کاری نه نکوست\r\nتا باز رهم ز طعنه دشمن و دوست\r\nبشنید خرد گفت که هی چون نخوری\r\nطاعت بود آن گنه که فرموده اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم نخورم باده که کاری نه نکوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا باز رهم ز طعنه دشمن و دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشنید خرد گفت که هی چون نخوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطاعت بود آن گنه که فرموده اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم نخورم باده که کاری نه نکوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا باز رهم ز طعنه دشمن و دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بشنید خرد گفت که هی چون نخوری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طاعت بود آن گنه که فرموده اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

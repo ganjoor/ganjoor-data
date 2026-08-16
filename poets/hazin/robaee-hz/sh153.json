@@ -1,0 +1,58 @@
+{
+  "Id": 83041,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۵۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۵۳",
+  "FullUrl": "/hazin/robaee-hz/sh153",
+  "RhymeLetters": "اهبمیر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عمق غم و اندوه اشاره می‌کند و از کسی خواسته می‌شود که چون شمعی در تاریکی صبح، در اثر درد و رنج جان بسپرد. او همچنین به عدم توانایی فرد برای ورود به نجف اشاره می‌کند و تأکید می‌کند که بهتر است این شخص در همین مسیر و در نتیجه غم و اندوه خود بمیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهبمیر",
+      "PlainText": "در هجر حزین از غم جانکاه بمیر\r\nچون شمع سحرگاه به یک آه بمیر\r\nآن قدر نداری که درآیی به نجف\r\nجان تو درآید تو درین راه بمیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هجر حزین، از غم جانکاه بمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شمع سحرگاه، به یک آه بمیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن قدر نداری که درآیی به نجف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان تو درآید، تو درین راه بمیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در هجر حزین، از غم جانکاه بمیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شمع سحرگاه، به یک آه بمیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن قدر نداری که درآیی به نجف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان تو درآید، تو درین راه بمیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

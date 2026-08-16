@@ -1,0 +1,58 @@
+{
+  "Id": 64816,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۱۹",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۱۹",
+  "FullUrl": "/ebnehesam/robaeebn/sh19",
+  "RhymeLetters": "نمیخندد",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: لاله با زیبایی و احساس سرزندگی بر روی چمن می‌خندد و در باغ شقایق و سمن نیز شاداب و خوشحال است. اما در میان این لبخندها، اشاره‌ای به تنگدلی و ناراحتی دارد که مانند یک لب تنگ، درونش پنهان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمیخندد",
+      "PlainText": "لاله به کرشمه بر چمن می خندد\r\nدر باغ شقایق و سمن می خندد\r\nدر خنده بین که با تنگدلی\r\nهمچون لب آن تنگ دهن می خندد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاله به کرشمه بر چمن می‌خندد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر باغ شقایق و سمن می‌خندد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خنده بین که با تنگدلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچون لب آن تنگ‌دهن می‌خندد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لاله به کرشمه بر چمن می‌خندد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در باغ شقایق و سمن می‌خندد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خنده بین که با تنگدلی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچون لب آن تنگ‌دهن می‌خندد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

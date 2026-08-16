@@ -1,0 +1,58 @@
+{
+  "Id": 101862,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/salim/divan/robaee/sh71",
+  "RhymeLetters": "کمیترسم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساس ترس و زخم‌های عاطفی خود سخن می‌گوید. او از صحبت با شخصی خاص می‌ترسد و به خاطر تجربیات گذشته‌اش، از ملاقات و ارتباط با دیگران نگران است. همچنین، او به عدم شادی و خندیدن اشاره می‌کند و به نوعی می‌گوید که مثل یک کودک مدرسه‌ای، از سرنوشت و اتفاقات زندگی می‌ترسد. این عواطف نشان‌دهنده‌ی آسیب‌پذیری و ترس‌های درونی شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کمیترسم",
+      "PlainText": "از صحبت آن رشک ملک می ترسم\r\nزخمم ز ملاقات نمک می ترسم\r\nیک خنده به کام دل نکردم هرگز\r\nچون طفل دبستان ز فلک می ترسم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز صحبت آن رشک ملک می ترسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزخمم، ز ملاقات نمک می ترسم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک خنده به کام دل نکردم هرگز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون طفل دبستان ز فلک می ترسم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از صحبت آن رشک ملک می ترسم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زخمم، ز ملاقات نمک می ترسم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک خنده به کام دل نکردم هرگز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون طفل دبستان ز فلک می ترسم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

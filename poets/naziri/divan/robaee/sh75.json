@@ -1,0 +1,58 @@
+{
+  "Id": 123641,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۷۵",
+  "FullUrl": "/naziri/divan/robaee/sh75",
+  "RhymeLetters": "ومیاید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به جایگاه والای خود اشاره می‌کند و می‌گوید که جایی که او حضور دارد، فیض و خوشی از همه جا می‌جوشد. او بر این باور است که این مکان بالاتر از هر کاخ و گلستان دنیاست و بویی از بهشت به مشام می‌رسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ومیاید",
+      "PlainText": "آن سو که منم فیض فرو می آید\r\nذوق و فرحم از همه سو می آید\r\nبالاتر ازین کاخ و گلستان که تویی\r\nجایی است که از بهشت بو می آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن سو که منم فیض فرو می‌آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذوق و فرحم از همه سو می‌آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبالاتر ازین کاخ و گلستان که تویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجایی است که از بهشت بو می‌آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن سو که منم فیض فرو می‌آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ذوق و فرحم از همه سو می‌آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالاتر ازین کاخ و گلستان که تویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جایی است که از بهشت بو می‌آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

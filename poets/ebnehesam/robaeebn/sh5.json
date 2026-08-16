@@ -1,0 +1,58 @@
+{
+  "Id": 64802,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۵",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۵",
+  "FullUrl": "/ebnehesam/robaeebn/sh5",
+  "RhymeLetters": "ینهماست",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق عاشقانه و غم‌انگیز می‌پردازد. شاعر می‌گوید که غم عشق در دل او مانند یک گنج قرار دارد و او از آن درد و رنج عشق همواره در سینه خود دارد. هرکس که با او نزدیک شده، از او فاصله گرفته است، اما غم عشق همیشه با او و دوستان قدیمی‌اش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینهماست",
+      "PlainText": "اسرار غم عشق بگنجینه ماست\r\nدردانه غم در صدف سینه ماست\r\nبا هر که در آمیختم از من بگریخت\r\nجز غم که حریف و یار دیرینه ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسرار غم عشق بگنجینه ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردانه غم در صدف سینه ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هر که در آمیختم از من بگریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز غم که حریف و یار دیرینه ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اسرار غم عشق بگنجینه ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دردانه غم در صدف سینه ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با هر که در آمیختم از من بگریخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز غم که حریف و یار دیرینه ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

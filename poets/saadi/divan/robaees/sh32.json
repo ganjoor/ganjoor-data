@@ -1,0 +1,58 @@
+{
+  "Id": 10093,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۳۲",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳۲",
+  "FullUrl": "/saadi/divan/robaees/sh32",
+  "RhymeLetters": "رمیگردد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به توصیف تغییرات طبیعت و احساسات انسانی در نوروز می‌پردازد. به هنگام فرارسیدن نوروز، سیلاب‌ها و جاری شدن آب از کوه‌ها نشان‌دهنده‌ی تغییر و تحول است. در این بین، شاعر به این نکته اشاره می‌کند که با وجود این همه تغییر و جریان، احساس دل‌تنگی و سختی در دل معشوق افزایش می‌یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمیگردد",
+      "PlainText": "نوروز که سیل در کمر می گردد\r\nسنگ از سر کوهسار در می گردد\r\nاز چشمه چشم ما برفت این همه سیل\r\nگویی که دل تو سخت تر می گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوروز که سیل در کمر می‌گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنگ از سر کوهسار در می‌گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چشمهٔ چشم ما برفت این همه سیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که دل تو سخت‌تر می‌گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوروز که سیل در کمر می‌گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سنگ از سر کوهسار در می‌گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از چشمهٔ چشم ما برفت این همه سیل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی که دل تو سخت‌تر می‌گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

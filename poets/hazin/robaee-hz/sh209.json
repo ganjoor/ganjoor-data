@@ -1,0 +1,58 @@
+{
+  "Id": 83106,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۰۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۰۹",
+  "FullUrl": "/hazin/robaee-hz/sh209",
+  "RhymeLetters": "انیمن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به ناامیدی از امکان افشاندن زیبایی‌های درونش در زندگی اشاره می‌کند. او از راحتی و تن‌آسایی در زندگی می‌گوید و به ناتوانی لباس عریانی‌اش در پوشش کبریای آزادگی‌اش اشاره می‌کند. این شعر بیانگر تضاد میان زیبایی درونی و ناتوانی در نمایش آن در دنیای بیرونی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیمن",
+      "PlainText": "مقدور نشد ز دامن افشانی من\r\nدر جامه زندگی تن آسانی من\r\nبر قامت کبریای آزادگیم\r\nکوتاهی کرد دلق عریانی من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمقدور نشد ز دامن افشانی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جامهٔ زندگی، تن آسانی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر قامت کبریای آزادگیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوتاهی کرد، دلق عریانی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مقدور نشد ز دامن افشانی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در جامهٔ زندگی، تن آسانی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر قامت کبریای آزادگیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کوتاهی کرد، دلق عریانی من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

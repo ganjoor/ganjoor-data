@@ -1,0 +1,58 @@
+{
+  "Id": 123664,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/naziri/divan/robaee/sh98",
+  "RhymeLetters": "یدم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده در جستجوی امید است و در راهش با ناامیدی‌ها و مشکلاتی مواجه می‌شود. او در نهایت متوجه می‌شود که آرزوهایش بر سرش سایه افکنده‌اند و این واقعیت تلخ را تجربه می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدم",
+      "PlainText": "یک چند پی امید می گردیدم\r\nخار و خس حرمان ز رهش می چیدم\r\nدیدم که سر از کوی که برمی آرد\r\nپا بر سر آرزوی دل مالیدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک چند پی امید می‌گردیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخار و خس حرمان ز رهش می‌چیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدم که سر از کوی که برمی‌آرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپا بر سر آرزوی دل مالیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک چند پی امید می‌گردیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خار و خس حرمان ز رهش می‌چیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیدم که سر از کوی که برمی‌آرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پا بر سر آرزوی دل مالیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

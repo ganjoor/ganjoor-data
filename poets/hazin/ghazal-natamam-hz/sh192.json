@@ -1,0 +1,58 @@
+{
+  "Id": 83353,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۹۲",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۹۲",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh192",
+  "RhymeLetters": "نگند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر از ترس و وحشتی که از دنیا و مشکلات آن دارد صحبت می‌کند. او احساس می‌کند که در این عالم پر از فریب و نیرنگ، آسودگی و آرامش واقعی را از دست می‌دهد. همچنین به زیبایی و لذت‌ها اشاره می‌کند که در نهایت به سرنوشت و قضا و قدر می‌انجامد و این احساساتی که طبیعت زندگی به انسان می‌دهد، گاهی دیوارهای روح او را در هم می‌شکند.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "گیرد",
+      "PlainText": "دل از وحشت سرای عالم غدار می گیرد\r\nکه مست آسوده حال و محسب هشیار می ‎گیرد\r\nدماغ افسرد از آن گلشنکه بر روی هوسناکان\r\nقضا در می گشاید رخنه دیوار می گیرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل از وحشت سرای عالم غدّار می گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مست آسوده حال و محسب هشیار می ‎گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدماغ افسرد از آن گلشن،که بر روی هوسناکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقضا در می گشاید، رخنهٔ دیوار می گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از وحشت سرای عالم غدّار می گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که مست آسوده حال و محسب هشیار می ‎گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دماغ افسرد از آن گلشن،که بر روی هوسناکان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قضا در می گشاید، رخنهٔ دیوار می گیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

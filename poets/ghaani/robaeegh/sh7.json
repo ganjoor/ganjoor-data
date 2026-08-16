@@ -1,0 +1,58 @@
+{
+  "Id": 45820,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۷",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۷",
+  "FullUrl": "/ghaani/robaeegh/sh7",
+  "RhymeLetters": "وزهگذشت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر با شعری زیبا به پایان ماه رمضان و ورود ماه شوال اشاره می‌کند. او از گذر سه روز روزه‌داری و سختی‌هایش سخن می‌گوید و در نهایت شکرگزاری خدا را به خاطر روزهایی که هم به خوشی و هم به سختی گذشته، بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزهگذشت",
+      "PlainText": "آمد مه شوال و مه روزه گذشت\r\nو ایام صیام و رنج سی روزه گذشت\r\nصد شکر خدا که روزی روزه ما\r\nگاهی به غنا و گه به دریوزه گذشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد مه شوال و مه روزه گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو ایام صیام و رنج سی روزه گذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد شکر خدا که روزی روزهٔ ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی به غنا و گه به دریوزه گذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد مه شوال و مه روزه گذشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و ایام صیام و رنج سی روزه گذشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد شکر خدا که روزی روزهٔ ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گاهی به غنا و گه به دریوزه گذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

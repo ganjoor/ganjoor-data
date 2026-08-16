@@ -1,0 +1,59 @@
+{
+  "Id": 52085,
+  "CatId": 1849,
+  "Title": "فقرۀ ۹۹",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۹۹",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh91",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر به اهمیت بیدار شدن در شب و شروع کار با نام خدا اشاره شده است. شاعر به افرادی که خواب هستند و از کارشان غافلند، هشدار می‌دهد که با بیداری و تلاش می‌توانند به موفقیت برسند و این که خواب زیاد باعث نادانی و مشکل می‌شود.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "به تاریکی از خواب بیدار شو\r\nبه نام خدا بر سر کار شو\r\nکه شب خیز را کار باشد روا\r\nفزون خواب مردم شود بینوا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تاریکی از خواب بیدار شو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نام خدا بر سر کار شو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه شب‌خیز را کار باشد روا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفزون خواب مردم شود بینوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "شب‌خیز باش که کار روا باشی.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "به تاریکی از خواب بیدار شو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "به نام خدا بر سر کار شو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "که شب‌خیز را کار باشد روا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "فزون خواب مردم شود بینوا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

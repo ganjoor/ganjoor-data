@@ -1,0 +1,58 @@
+{
+  "Id": 50213,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۵۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۵۳",
+  "FullUrl": "/mahsati/robmah/sh153",
+  "RhymeLetters": "ونایدازاو",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این اشعار درباره عشق صحبت می‌کنند و به تنوع احساسات و تأثیرات آن اشاره دارند. عشق می‌تواند باعث بروز قدرت و زیبایی شود (مانند شیر نر و دریا) و گاهی نیز می‌تواند به نبرد و دشمنی منجر شود. عشق هم روح‌افزا است و هم گاهی به خونریزی و درگیری می‌انجامد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونایدازاو",
+      "PlainText": "عشق است که شیر نر زبون آید از او\r\nبحری است که طرفه ها برون آید از او\r\nگه دوستیی کند که روح افزاید\r\nگه دشمنیی که بوی خون آید از او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق است که شیر نر زبون آید از او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحری است که طرفه‌ها برون آید از او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه دوستیی کند که روح افزاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه دشمنیی که بوی خون آید از او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق است که شیر نر زبون آید از او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بحری است که طرفه‌ها برون آید از او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه دوستیی کند که روح افزاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گه دشمنیی که بوی خون آید از او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

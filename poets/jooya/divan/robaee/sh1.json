@@ -1,0 +1,58 @@
+{
+  "Id": 103055,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/jooya/divan/robaee/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با زبان استعاره‌ای، به اهمیت نصیحت‌های تلخ و واقعی اشاره می‌کند. او می‌گوید که گاهی نصیحت‌ها مانند زهر به نظر می‌رسند ولی در واقع می‌توانند درمانی برای مشکلات باشند. این نصیحت‌ها به شکل مرواریدهایی در عقدی هستند که ارزش زیادی دارند، حتی اگر در ابتدا تلخ یا سخت به نظر برسند. در مجموع، شاعر به این موضوع می‌پردازد که نصیحت‌های واقعی همانند زهرهایی هستند که می‌توانند در عمق وجود اثرگذار باشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "پند پدرانه پیش ارباب ذکا\r\nتریاق آمد گرچه بود زهرنما\r\nچون عقد گهر نصیحت تلخ مرا\r\nماری ست که مهره باشد از سر تا پا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپندِ پدرانه، پیشِ اربابِ ذَکا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتریاق آمد گرچه بود زهرنما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عقدِ گُهَر، نصیحتِ تلخ، مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماری‌ست که مُهره باشد از سر تا پا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پندِ پدرانه، پیشِ اربابِ ذَکا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تریاق آمد گرچه بود زهرنما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون عقدِ گُهَر، نصیحتِ تلخ، مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ماری‌ست که مُهره باشد از سر تا پا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

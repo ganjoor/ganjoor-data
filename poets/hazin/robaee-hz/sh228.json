@@ -1,0 +1,58 @@
+{
+  "Id": 83125,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲۸",
+  "FullUrl": "/hazin/robaee-hz/sh228",
+  "RhymeLetters": "ادازدلتو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این مصرع‌ها احساس ناامیدی و غم را مطرح می‌کند. او از بی‌وفایی و دوری دل می‌گوید و این‌که هیچ‌گاه نتوانسته به آرامش و شادی دست یابد. او از دل طرف مقابل خسته و ناراحت است و می‌خواهد که یک بار به خواسته‌های او پاسخ داده شود. در نهایت، شاعر از دل شکسته‌اش و ناله‌هایش از دل طرف مقابل، شکایت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادازدلتو",
+      "PlainText": "ای خاک وفا رفته به باد از دل تو\r\nیک دل به جهان نگشته شاد از دل تو\r\nیکبار نمی رسی به داد دل من\r\nداد از دل تو هزار داد از دل تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خاک وفا رفته به باد از دل تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دل به جهان نگشته شاد از دل تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکبار نمی رسی به داد دل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداد از دل تو، هزار داد از دل تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خاک وفا رفته به باد از دل تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک دل به جهان نگشته شاد از دل تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکبار نمی رسی به داد دل من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داد از دل تو، هزار داد از دل تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

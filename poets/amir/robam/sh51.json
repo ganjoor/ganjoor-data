@@ -1,0 +1,58 @@
+{
+  "Id": 70094,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/amir/robam/sh51",
+  "RhymeLetters": "ادمباد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساس عشق و وابستگی خود به معشوق سخن می‌گوید. او می‌گوید که اگر نتواند به عشق خود دست یابد، برایش آرزوی بدی خواهد داشت و حتی اگر دلش بخواهد از این عشق فرار کند، لعنت بر خودش و دلش خواهد بود. در واقع، شاعر به شدت درگیر عشق و وابستگی به معشوقش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لباد",
+      "PlainText": "باکم ز منی پای تو اندر گل باد\r\nبا به ز تویی مراد من حاصل باد\r\nگر دل پس از این هوای تو خواهد جست\r\nلعنت ز خدای بر من و بر دل باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباکم ز منی پای تو اندر گل باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا به ز تویی مراد من حاصل باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دل پس از این هوای تو خواهد جست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلعنت ز خدای بر من و بر دل باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باکم ز منی پای تو اندر گل باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با به ز تویی مراد من حاصل باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دل پس از این هوای تو خواهد جست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لعنت ز خدای بر من و بر دل باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

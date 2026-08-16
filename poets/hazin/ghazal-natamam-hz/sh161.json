@@ -1,0 +1,44 @@
+{
+  "Id": 83322,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۶۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۶۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh161",
+  "RhymeLetters": "ریساختهباشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این دو بیت از شعر اشاره به این دارد که فکر و خیالات انسان می‌تواند در بند جسم باشد، و هر کسی که تجربه غربت دارد، حتی در وطن نیز خود را غریب حس می‌کند.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نباشد",
+      "PlainText": "خیالت مونس جان اسیران در بدن باشد\r\nبه غربت آشنا هر کس که یابد در وطن باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیالت مونس جان اسیران در بدن باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه غربت، آشنا هر کس که یابد، در وطن باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خیالت مونس جان اسیران در بدن باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به غربت، آشنا هر کس که یابد، در وطن باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

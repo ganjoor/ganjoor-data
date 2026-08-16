@@ -1,0 +1,58 @@
+{
+  "Id": 101800,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/salim/divan/robaee/sh9",
+  "RhymeLetters": "ستاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به توصیف میخانه و حال و هوای آن می‌پردازد. او می‌گوید وقتی طبع انسان خوشحال و سرمست است، دیوار غم به نظر کوتاه و کم‌ارتفاع می‌آید. همچنین، او به زیبایی و قدرت شراب اشاره می‌کند و آن را همچون دست رستم، قهرمان اساطیری، می‌داند. در واقع، این شعر به شادی و سرخوشی ناشی از نوشیدن می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستاست",
+      "PlainText": "میخانه طرب خیز چو طبع مست است\r\nدیوار غم از بلندی خم پست است\r\nمردافکنی و زور سبوی می بین\r\nگویی که ز خاک رستم یک دست است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیخانه طرب خیز چو طبع مست است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیوار غم از بلندی خم پست است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردافکنی و زور سبوی می بین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که ز خاک رستم یک دست است!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میخانه طرب خیز چو طبع مست است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیوار غم از بلندی خم پست است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردافکنی و زور سبوی می بین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی که ز خاک رستم یک دست است!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

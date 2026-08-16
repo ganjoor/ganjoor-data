@@ -1,0 +1,58 @@
+{
+  "Id": 123590,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/naziri/divan/robaee/sh24",
+  "RhymeLetters": "یست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر به تمایز بین گلبرگ و گونه‌های رنگارنگ اشاره می‌کند و می‌گوید که نور دل تابان خورشید، به مانند آن نیست. همچنین شاعر به صبحی اشاره می‌کند که در آن خورشید می‌تابد، و در نهایت می‌گوید که در وجود انسان، تنها نور وجود دارد و چیز دیگری نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابانتنیست",
+      "PlainText": "گلبرگ چو گونه های الوانت نیست\r\nخورشید به نور دل تابانت نیست\r\nاز صبح بیاض گردنت خور بدمد\r\nجز نور به مشرق گریبانت نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلبرگ چو گونه‌های الوانت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید به نور دل تابانت نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز صبح بیاض گردنت خور بدمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز نور به مشرق گریبانت نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلبرگ چو گونه‌های الوانت نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید به نور دل تابانت نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از صبح بیاض گردنت خور بدمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز نور به مشرق گریبانت نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

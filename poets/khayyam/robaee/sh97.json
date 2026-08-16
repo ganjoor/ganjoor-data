@@ -1,0 +1,58 @@
+{
+  "Id": 1215,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹۷",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹۷",
+  "FullUrl": "/khayyam/robaee/sh97",
+  "RhymeLetters": "اشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تطور و تغییرات موجودات اشاره می‌کند. او از یک قطره آب که به دریا ملحق می‌شود و ذره‌ای خاک که با زمین یکی می‌شود صحبت می‌کند. این تغییرات نشان‌دهنده‌ی ارتباط عمیق همه چیز در جهان است. همچنین شاعر به ناقص بودن وجود مگس اشاره می‌کند که به‌طور نامحسوس در دنیا پدیدار می‌شود. به‌طور کلی، شعر درباره‌ی تبدیل و ترکیب چیزها در جهان و معنا و مفهوم آن‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اشد",
+      "PlainText": "یک قطره آب بود با دریا شد\r\nیک ذره خاک با زمین یکتا شد\r\nآمد شدن تو اندر این عالم چیست\r\nآمد مگسی پدید و ناپیدا شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک قطرهٔ آب بود با دریا شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ذرهٔ خاک با زمین یکتا شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد شدن تو اندر این عالم چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمد مگسی پدید و ناپیدا شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک قطرهٔ آب بود با دریا شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک ذرهٔ خاک با زمین یکتا شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمد شدن تو اندر این عالم چیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آمد مگسی پدید و ناپیدا شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83161,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۶۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۶۴",
+  "FullUrl": "/hazin/robaee-hz/sh264",
+  "RhymeLetters": "اهی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر از عشق و حال دلbroken خود صحبت می‌کند و بیان می‌کند که به جایی رسیده است که هیچ راهی به بیرون ندارد. او با وجود دیدن کشته‌های بسیار از غمزه‌ها و نیرنگ‌های محبت، از دل خسته‌اش صدایی برنمی‌خیزد. ",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهی",
+      "PlainText": "از عشق فتاده ام به منزلگاهی\r\nکانجا نبود سوی برون شد راهی\r\nاز غمزه هزار کشته دیدم اما\r\nاز یک دل خسته برنیامد آهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عشق فتاده ام به منزلگاهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانجا نبود سوی برون شد، راهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز غمزه هزار کشته دیدم، امّا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز یک دل خسته برنیامد آهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عشق فتاده ام به منزلگاهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کانجا نبود سوی برون شد، راهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از غمزه هزار کشته دیدم، امّا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از یک دل خسته برنیامد آهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

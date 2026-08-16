@@ -1,0 +1,58 @@
+{
+  "Id": 41604,
+  "CatId": 1675,
+  "Title": "گازُر",
+  "FullTitle": "کسایی » دیوان اشعار » گازُر",
+  "FullUrl": "/kesayee/divank/sh17",
+  "RhymeLetters": "ید",
+  "SourceName": "مهرداد بیات",
+  "SourceUrlSlug": "mb",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها به زیبایی و عظمت کوثر و فردوس اشاره دارند و نشان می‌دهند که دل و لباس ما تحت تأثیر وجود تو، سیاه و سفید می‌شود. همچنین، چهره تو سرچشمه ی نور و روشنی است و اگر خورشید به گازران (کسانی که نور می‌بخشند) تعلق داشته باشد، این نور از وجود تو نشأت می‌گیرد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "کوی و جوی از تو کوثر و فردوس\r\nدل و جامه ز تو سیاه و سپید\r\nرخ تو هست مایه تو اگر\r\nمایه گازران بود خورشید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوی و جوی از تو کوثر و فردوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل و جامه ز تو سیاه و سپید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخ تو هست مایهٔ تو، اگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمایهٔ گازران بود خورشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کوی و جوی از تو کوثر و فردوس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل و جامه ز تو سیاه و سپید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رخ تو هست مایهٔ تو، اگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مایهٔ گازران بود خورشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

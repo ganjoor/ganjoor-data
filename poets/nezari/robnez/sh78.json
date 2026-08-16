@@ -1,0 +1,58 @@
+{
+  "Id": 75825,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۷۸",
+  "FullUrl": "/nezari/robnez/sh78",
+  "RhymeLetters": "ستیدارد",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به شمس اشاره دارد و بیانگر این است که او تمایل به تواضع و خاکساری دارد. چشمانش به عشق و پرستش خاک جذب شده است. همچنین به او یادآوری می‌شود که صبحی شاداب و پر از لذت به او نزدیک است و اگر حالت مستی و شادی دارد، باید برخیزد و از آن بهره‌مند شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستیدارد",
+      "PlainText": "ای شمس سرت میل به پستی دارد\r\nچشمت هوس خاک پرستی دارد\r\nیاران صبوحی به سرت آمده اند\r\nبرخیز اگر هوای مستی دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمس سرت میل به پستی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمت هوس خاک پرستی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاران صبوحی به سرت آمده‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخیز، اگر هوایِ مستی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شمس سرت میل به پستی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشمت هوس خاک پرستی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یاران صبوحی به سرت آمده‌اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برخیز، اگر هوایِ مستی دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

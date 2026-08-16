@@ -1,0 +1,58 @@
+{
+  "Id": 50132,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۷۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۷۲",
+  "FullUrl": "/mahsati/robmah/sh72",
+  "RhymeLetters": "رند",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به عشق و درد ناشی از آن اشاره می‌کند. او می‌گوید که زن و مردی در شهر در حال تماشا هستند و به خاطر غم عشق، جانشان در خطر است. همچنین اشاره می‌کند که هر پوشاکی که پدر آنها بفروشد، باعث می‌شود عاشقان به حالت ناامیدی و جدایی دچار شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رند",
+      "PlainText": "شهری زن و مرد در رخت می نگرند\r\nوز سوز غم عشق تو جان در خطرند\r\nهر جامه که سالی پدرت بفروشد\r\nاز دست تو عاشقان به روزی بدرند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهری زن و مرد در رخت می‌نگرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز سوز غم عشق تو جان در خطرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جامه که سالی پدرت بفروشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دست تو عاشقان به روزی بدرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شهری زن و مرد در رخت می‌نگرند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز سوز غم عشق تو جان در خطرند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جامه که سالی پدرت بفروشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دست تو عاشقان به روزی بدرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 117604,
+  "CatId": 2714,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "نسیمی » دیوان اشعار فارسی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/nasimi/divan/robaee/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به درخواست بادی روح‌پرور اشاره دارد که بویی از زلف زیبای معشوق به شاعر برساند. زلفی که تحت سایه‌اش زیبایی و الهام از وجود خدا نمایان است. شاعر در اینجا به جاذبه و جذابیت معشوق و ارتباط آن با اللَّه اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "ای نفحه روحپرور باد صبا\r\nبویی ده از آن زلف دلاویز به ما\r\nآن زلف دلاویز که در سایه اوست\r\nآن روی که هست آینه روی خدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نفحه روحپرور باد صبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبویی ده از آن زلف دلاویز به ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن زلف دلاویز که در سایه اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن روی که هست آینه روی خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نفحه روحپرور باد صبا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بویی ده از آن زلف دلاویز به ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن زلف دلاویز که در سایه اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن روی که هست آینه روی خدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

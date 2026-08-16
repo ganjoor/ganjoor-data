@@ -1,0 +1,58 @@
+{
+  "Id": 82972,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸۴",
+  "FullUrl": "/hazin/robaee-hz/sh84",
+  "RhymeLetters": "ردیکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف حال و روز سرد و ناامیدکننده‌ای می‌پردازد که در آن زمانه به سختی و درد می‌گذرد. آه و ناله‌ها به جایی نمی‌رسند و سرنوشت و روزگار ناصاف و بی‌رحم جلوه‌گر می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردیکرد",
+      "PlainText": "پیوسته دی و تموز دم سردی کرد\r\nبا دردکشان زمانه بی دردی کرد\r\nآه سحر و ناله به جایی نرسید\r\nطالع پستی و دهر نامردی کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوسته دی و تموز دم سردی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دردکشان زمانه بی دردی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه سحر و ناله به جایی نرسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطالع پستی و دهر نامردی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیوسته دی و تموز دم سردی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دردکشان زمانه بی دردی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آه سحر و ناله به جایی نرسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طالع پستی و دهر نامردی کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82943,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/hazin/robaee-hz/sh55",
+  "RhymeLetters": "امتعبثاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر به زاهد می‌گوید که خیال‌های بیهوده‌اش بی‌فایده است و در دست داشتن ذکر یا دانه‌ها هم کمکی نخواهد کرد. همچنین، شهرت و معروف بودن در شهر نیز هیچ ارزشی ندارد و در نهایت، افراد خاصی که به او توجه می‌کنند هم بی‌معنی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امتعبثاست",
+      "PlainText": "با ما زاهد خیال خامت عبث است\r\nوز سبحه به کف دانه و دامت عبث است\r\nسودی ندهد شهره شهری گشتن\r\nرد خاصی قبول عامت عبث است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا ما زاهد، خیال خامت عبث است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز سبحه به کف، دانه و دامت عبث است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسودی ندهد شهرهٔ شهری گشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eردّ خاصی، قبول عامت عبث است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با ما زاهد، خیال خامت عبث است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز سبحه به کف، دانه و دامت عبث است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سودی ندهد شهرهٔ شهری گشتن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ردّ خاصی، قبول عامت عبث است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

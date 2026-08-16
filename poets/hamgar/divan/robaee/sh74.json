@@ -1,0 +1,58 @@
+{
+  "Id": 120790,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/hamgar/divan/robaee/sh74",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به موضوع مرگ و اندوه ناشی از آن اشاره دارد. شاعر از شکست شیشه عمر سخن می‌گوید و به نحوی غم و ناراحتی ناشی از فقدان را توصیف می‌کند. همچنین، تصویرهایی از شراب و گل نرگس به کار می‌برد که نشان‌دهنده‌ی غم و ماتم است، به‌طوری‌که در مرگ شخصی خاص، مجالس شادمانی تبدیل به ماتم می‌شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "چون دست اجل شیشه عمرت بشکست\r\nخون گرید جام و دیده نرگس مست\r\nچون ساغر لاله باد پرخون دل آنک\r\nدر ماتم تو شراب گیرد در دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دست اجل شیشه عمرت بشکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون گرید جام و دیده نرگس مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ساغر لاله باد پرخون دل آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ماتم تو شراب گیرد در دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون دست اجل شیشه عمرت بشکست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون گرید جام و دیده نرگس مست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون ساغر لاله باد پرخون دل آنک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در ماتم تو شراب گیرد در دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

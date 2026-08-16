@@ -1,0 +1,72 @@
+{
+  "Id": 69969,
+  "CatId": 2042,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "امیر معزی » غزلیات » شمارهٔ ۲۱",
+  "FullUrl": "/amir/ghazam/sh21",
+  "RhymeLetters": "رنهند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر به تصویری از دام‌های محبت و عشق اشاره شده است که برای شکار دل‌ها طراحی شده‌اند. شاعر از نام و زیبایی دل زیبا و خوش‌خلق صحبت می‌کند و اینکه دیگران چگونه این ویژگی‌ها را ستایش می‌کنند. در انتها، شاعر از دوری و فاصله‌ای می‌گوید که برای وصل دلدار باید تحمل کرد.",
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رنهند",
+      "PlainText": "دام که بر لاله و عنبر نهند\r\nاز پی صید دل غمخور نهند\r\nنام دل اندر خط آن خوش پسر\r\nخوش پسرم نام عجبتر نهند\r\nسخت خوشی چشم بدان دور باد\r\nاز در آنی که تورا برنهند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدام که بر لاله و عنبر نهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پی صید دل غمخور نهند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنام دل اندر خط آن خوش پسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش پسرم نام عجبتر نهند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخت خوشی چشم بدان دور باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز در آنی‌که تورا برنهند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دام که بر لاله و عنبر نهند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از پی صید دل غمخور نهند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نام دل اندر خط آن خوش پسر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوش پسرم نام عجبتر نهند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سخت خوشی چشم بدان دور باد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از در آنی‌که تورا برنهند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

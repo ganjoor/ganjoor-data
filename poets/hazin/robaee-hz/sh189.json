@@ -1,0 +1,58 @@
+{
+  "Id": 83086,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۸۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۸۹",
+  "FullUrl": "/hazin/robaee-hz/sh189",
+  "RhymeLetters": "اندستم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس عمیق و عذابی است که شاعر تجربه می‌کند. او از درد و رنجی صحبت می‌کند که به خاطر عریان بودن دستش و کوتاهی آن از گریبانش حس می‌کند. همچنین اشاره دارد به آسیب‌هایی که به خاطر حالات غضب بر دستش وارد شده و تصویر خونین شدن دستش مانند پنجه مژگان را به نمایش می‌گذارد. در کل، این ابیات نشان‌دهنده ناامیدی و ناتوانی شاعر در مقابل مشکلات است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندستم",
+      "PlainText": "از کام دل است بس که عریان دستم\r\nکوتاه فتاده از گریبان دستم\r\nاز بس که گزیدهام به دندان غضب\r\nخونین شده چون پنجه مژگان دستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز کام دل است بس که عریان دستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوتاه فتاده از گریبان دستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که گزیدهام به دندان غضب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخونین شده چون پنجهٔ مژگان دستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کام دل است بس که عریان دستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کوتاه فتاده از گریبان دستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که گزیدهام به دندان غضب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خونین شده چون پنجهٔ مژگان دستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

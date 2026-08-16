@@ -1,0 +1,58 @@
+{
+  "Id": 90742,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/kalim/divan/robaee/sh31",
+  "RhymeLetters": "وان",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به نقد ویژگی‌های منفی فردی می‌پردازد که همچون مگسی بر دیگران سنگینی می‌کند. آن فرد به گونه‌ای آزاردهنده است که همه از او دوری می‌کنند و حتی پیر و جوان از شر او در امان نیستند. این آزار به قدری سنگین است که اگر سایه‌اش بر آب روان بیفتد، آب نیز تحت تأثیر آن قرار می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وان",
+      "PlainText": "ای همچو مگس بر همه طبعی تو گران\r\nطاعون صفت از تو محترز پیر و جوان\r\nزانگونه ثقیلی که ز رفتن ماند\r\nافتد اگر از تو سایه بر آب روان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای همچو مگس بر همه طبعی تو گران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطاعون صفت از تو محترز پیر و جوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانگونه ثقیلی که ز رفتن ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتد اگر از تو سایه بر آب روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای همچو مگس بر همه طبعی تو گران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طاعون صفت از تو محترز پیر و جوان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زانگونه ثقیلی که ز رفتن ماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افتد اگر از تو سایه بر آب روان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70117,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/amir/robam/sh74",
+  "RhymeLetters": "ند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها به ورود شاه به تخت سرافراز اشاره شده و بیان می‌شود که با ورود شاه، بخت و خوش‌شناسی به دور او پرواز کرده است. همچنین اشاره به روز خوشی که صدای خوشی از تخت شاهی برمی‌خیزد و مسیح از آسمان بازگشته است، به نوعی نماد شادی و خوشبختی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازامد",
+      "PlainText": "چون شاه سوی تخت سرافراز آمد\r\nپیرامن او بخت به پرواز آمد\r\nآن روز ز تخت شاهی آواز آمد\r\nکامروز مسیح از آسمان باز آمد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شاه سوی تخت سرافراز آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیرامن او بخت به‌پرواز آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روز ز تخت شاهی آواز آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامروز مسیح از آسمان باز آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شاه سوی تخت سرافراز آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیرامن او بخت به‌پرواز آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن روز ز تخت شاهی آواز آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کامروز مسیح از آسمان باز آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

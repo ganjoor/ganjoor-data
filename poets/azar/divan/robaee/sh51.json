@@ -1,0 +1,58 @@
+{
+  "Id": 118972,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/azar/divan/robaee/sh51",
+  "RhymeLetters": "منمیخندد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تماشای گلی می‌پردازد که با لبخندی شاداب در حال خندیدن است. او به این نکته اشاره می‌کند که بلبلی که در نزدیکی آن گل نشسته و در حال گریه است، فکر می‌کند که گل به گریه‌اش می‌خندد. اما در واقع، گل به طراوت و زیبایی چمن می‌خندد، نه به غم بلبلی. این شعر تضاد میان شادی و ناراحتی را به زیبایی نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منمیخندد",
+      "PlainText": "دیدم گلکی بصد دهان میخندد\r\nگفتم بطراوت چمن میخندد\r\nگریان گریان بلبلی از شاخ گلی\r\nگفتا که نه بر گریه ی من میخندد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدم گلکی بصد دهان میخندد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم: بطراوت چمن میخندد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگریان گریان، بلبلی از شاخ گلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا: که نه، بر گریه ی من میخندد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدم گلکی بصد دهان میخندد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم: بطراوت چمن میخندد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گریان گریان، بلبلی از شاخ گلی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتا: که نه، بر گریه ی من میخندد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

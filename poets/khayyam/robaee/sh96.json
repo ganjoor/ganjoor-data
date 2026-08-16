@@ -1,0 +1,58 @@
+{
+  "Id": 1214,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹۶",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹۶",
+  "FullUrl": "/khayyam/robaee/sh96",
+  "RhymeLetters": "ینارزد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر ارزش و اهمیت شراب را به تصویر می‌کشد و می‌گوید که یک جام شراب به اندازه صد دل و دین می‌ارزد. همچنین، یک جرعه از شراب چینی نیز ارزشمند است. او تأکید می‌کند که جز باده‌ای زیبا و گرانبها، چیز دیگری در دنیا نمی‌تواند این احساس خوشی و لذت را فراهم کند و حتی تلخی‌های زندگی، به اندازه‌ای که بتوانی از شادی و لذت شراب برخوردار شوی، ارزشمند هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینارزد",
+      "PlainText": "یک جام شراب صد دل و دین ارزد\r\nیک جرعه می مملکت چین ارزد\r\nجز باده لعل نیست در روی زمین\r\nتلخی که هزار جان شیرین ارزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک جام شراب صد دل و دین ارزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک جرعهٔ می مملکت چین ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز بادهٔ لعل نیست در روی زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتلخی که هزار جان شیرین ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک جام شراب صد دل و دین ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک جرعهٔ می مملکت چین ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز بادهٔ لعل نیست در روی زمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تلخی که هزار جان شیرین ارزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

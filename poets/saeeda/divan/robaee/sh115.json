@@ -1,0 +1,58 @@
+{
+  "Id": 108015,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۱۵",
+  "FullUrl": "/saeeda/divan/robaee/sh115",
+  "RhymeLetters": "اهمماییم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به معرفی ذات خود می‌پردازد و می‌گوید که ما در آغاز و پایان هستی حضور داریم. همچنین اشاره می‌کند که ما در هر دو حالت، یعنی در خوشی و زیبایی (جام می و جام جم) و در سختی و رنج (جوده و گندمی) نیز حضور داریم. در نهایت، او به این نکته اشاره می‌کند که ما هم ممکن است در ظواهر مختلف بیگانه و هم در باطن آشنا باشیم. به طور کلی، این اشعار بیانگر وحدت و کثرت در وجود انسان و تناقضات درونی اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهمماییم",
+      "PlainText": "ما منتهییم و مبتدا هم ماییم\r\nجام می و جام جم نما هم ماییم\r\nآن جوده و گندمی نما هم ماییم\r\nبیگانه نمای و آشنا هم ماییم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما منتهییم و مبتدا هم ماییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجام می و جام جم نما هم ماییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن جوده و گندمی نما هم ماییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیگانه نمای و آشنا هم ماییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما منتهییم و مبتدا هم ماییم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جام می و جام جم نما هم ماییم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن جوده و گندمی نما هم ماییم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیگانه نمای و آشنا هم ماییم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

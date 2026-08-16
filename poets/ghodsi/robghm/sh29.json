@@ -1,0 +1,58 @@
+{
+  "Id": 74570,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/ghodsi/robghm/sh29",
+  "RhymeLetters": "اب",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این اشعار به این موضوع اشاره دارد که اگرچه ممکن است فرع (یعنی چیزهای ناشی از اصل) حجاب و پوششی برای اصل باشد، اما اصل و فرع نمی‌توانند به‌طور کامل از یکدیگر جدا شوند. حتی اگر چیزی از اصل خود دور شود، همچنان ارتباطش با اصل باقی است. به‌عبارتی‌دیگر، نمی‌توان اصل را کاملاً از فرع جدا کرد، همان‌طور که حباب‌ها نمی‌توانند دریا را از وجود خود خالی کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "گیرم که ز اصل خود کند فرع حجاب\r\nکی اصل جدا ز فرع خود دارد تاب\r\nپهلو دزدد گرچه حباب از دریا\r\nدریا پهلو تهی نسازد ز حباب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیرم که ز اصل خود کند فرع، حجاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی اصل جدا ز فرع خود دارد تاب؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپهلو دزدد گرچه حباب از دریا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریا پهلو تهی نسازد ز حباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیرم که ز اصل خود کند فرع، حجاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی اصل جدا ز فرع خود دارد تاب؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پهلو دزدد گرچه حباب از دریا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریا پهلو تهی نسازد ز حباب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

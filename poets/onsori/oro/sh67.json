@@ -1,0 +1,58 @@
+{
+  "Id": 68917,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/onsori/oro/sh67",
+  "RhymeLetters": "ری",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به توصیف زیبایی‌های حورا (یک شخصیت افسانه‌ای یا معشوق) می‌پردازد. او از قد و زیبایی چهره، دل سنگین و جواهراتی همچون عاج و طلا در او سخن می‌گوید. همچنین به تشبیه او به سرو و بت پرداخته و او را پسری نیکو و زیبا توصیف می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "شمشاد قد و نوش لب و عاج بری\r\nسنگین دل و سیمین ذقن و زر کمری\r\nهم سرو روان و هم بت کاشغری\r\nمر حورا را تو سخت نیکو پسری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمشاد قد و نوش لب و عاج بری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنگین دل و سیمین ذقن و زر کمری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم سرو روان و هم بت کاشغری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر حورا را تو سخت نیکو پسری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمشاد قد و نوش لب و عاج بری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سنگین دل و سیمین ذقن و زر کمری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم سرو روان و هم بت کاشغری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مر حورا را تو سخت نیکو پسری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45729,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۶۷",
+  "FullUrl": "/ghaani/ghetegh/sh67",
+  "RhymeLetters": "ار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به تفاوت دیدگاه‌های عاقلان و عارفان اشاره دارد. عاقلان با عقل و منطق خود به تفسیر و استدلال می‌پردازند، در حالی که عارفان با عشق و شهود به جلوه‌های الهی می‌نگرند. در انتها تأکید می‌شود که اگر چشم حقیقی برای دیدن دارید، بهتر است سکوت کنید و عمیق‌تر بنگریم.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "عاقلان مست حجت خویشند\r\nعارفان مست جلوه دیدار\r\nدیده حق شناس اگر دارید\r\nلب ببندید یا اولوالابصار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقلان مست حجت خویشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعارفان مست جلوهٔ دیدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدهٔ حق‌شناس اگر دارید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب ببندید یا اولوالابصار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقلان مست حجت خویشند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عارفان مست جلوهٔ دیدار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیدهٔ حق‌شناس اگر دارید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لب ببندید یا اولوالابصار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

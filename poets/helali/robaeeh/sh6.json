@@ -1,0 +1,58 @@
+{
+  "Id": 45349,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۶",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۶",
+  "FullUrl": "/helali/robaeeh/sh6",
+  "RhymeLetters": "بست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت چهره معشوق اشاره دارد و از ویژگی‌های ظاهری او مانند دهان، لب، خال و زلف صحبت می‌کند. شاعر حیرت خود را از این زیبایی‌ها ابراز می‌کند و در نهایت به این نکته می‌رسد که زیبایی معشوق مانند روزی است که در میان شب‌های تیره قرار دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بست",
+      "PlainText": "ای سیم ذقن این چه دهان و چه لبست\r\nاین خال چه خال و این چه زلف عجبست\r\nروی تو در آن دو زلف مشکین چه عجب\r\nهر روز که هست در میان دو شب ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سیم‌ذقن، این چه دهان و چه لبست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین خال چه خال و این چه زلف عجبست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی تو در آن دو زلف مشکین چه عجب؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر روز که هست در میان دو شب‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سیم‌ذقن، این چه دهان و چه لبست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این خال چه خال و این چه زلف عجبست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روی تو در آن دو زلف مشکین چه عجب؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر روز که هست در میان دو شب‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

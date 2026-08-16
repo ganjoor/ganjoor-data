@@ -1,0 +1,58 @@
+{
+  "Id": 1220,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۰۲",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۰۲",
+  "FullUrl": "/khayyam/robaee/sh102",
+  "RhymeLetters": "ودهمخور",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به این نکته اشاره دارد که به دل خود غم‌های این دنیا را نخور. غم‌ها و مشکلات به صورت بیهوده‌ای وجود دارند و چه بسا که گذرا هستند. بنابراین بهتر است که خوش باشیم و به غم‌های گذشته و چیزهای بی‌معنا فکر نکنیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ودهمخور",
+      "PlainText": "ای دل غم این جهان فرسوده مخور\r\nبیهوده نه ای غمان بیهوده مخور\r\nچون بوده گذشت و نیست نابوده پدید\r\nخوش باش غم بوده و نابوده مخور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل غم این جهان فرسوده مخور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیهوده نه‌ای غمان بیهوده مخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بوده گذشت و نیست نابوده پدید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش باش غم بوده و نابوده مخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل غم این جهان فرسوده مخور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیهوده نه‌ای غمان بیهوده مخور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون بوده گذشت و نیست نابوده پدید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوش باش غم بوده و نابوده مخور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

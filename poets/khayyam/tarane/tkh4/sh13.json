@@ -1,0 +1,58 @@
+{
+  "Id": 50302,
+  "CatId": 1815,
+  "Title": "رباعی ۴۷",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » گردش دوران  [۵۶-۳۵] » رباعی ۴۷",
+  "FullUrl": "/khayyam/tarane/tkh4/sh13",
+  "RhymeLetters": "فت",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به فردی اشاره می‌کند که باید از زندگی بهره ببرد و از تنهایی رنج می‌برد. او هشدار می‌دهد که رازهای درونش را با کسی در میان نگذارد، زیرا هر لاله‌ای که پژمرد، دوباره شکوفا نخواهد شد. به طور کل، این شعر به ناپایداری زندگی و ضرورت بهره‌مندی از لحظات می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فت",
+      "PlainText": "می خور که به زیر گل بسی خواهی خفت\r\nبی مونس و بی رفیق و بی همدم و جفت\r\nزنهار به کس مگو تو این راز نهفت\r\nهر لاله که پژمرد نخواهد بشکفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمِی خور که به زیرِ گِل بسی خواهی خفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌مونس و بی‌رفیق و بی‌همدم و جفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار! به کس مگو تو این رازِ نهفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر لاله که پَژْمُرد، نخواهد بِشْکفت!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مِی خور که به زیرِ گِل بسی خواهی خفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌مونس و بی‌رفیق و بی‌همدم و جفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنهار! به کس مگو تو این رازِ نهفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر لاله که پَژْمُرد، نخواهد بِشْکفت!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

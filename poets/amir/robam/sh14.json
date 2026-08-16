@@ -1,0 +1,58 @@
+{
+  "Id": 70057,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/amir/robam/sh14",
+  "RhymeLetters": "ب",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر شب را توصیف می‌کند و آن را به گونه‌ای منفی و تیره توصیف می‌کند. شب را از روز هم غم‌انگیزتر و تاریک‌تر می‌داند و به نظر می‌رسد که این شب هیچ نشانی از سپیده‌دم یا روشنی ندارد. به طور کلی، شاعر احساس ناامیدی و غم را در این شب به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریایشب",
+      "PlainText": "یازنده تر از روزشماری ای شب\r\nتاریک تر از زلف نگاری ای شب\r\nاز روز همی یاد نداری ای شب\r\nگویی که سپیده دم نداری ای شب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیازنده‌تر از روزشماری ای شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاریک‌تر از زلف نگاری ای شب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز روز همی یاد نداری ای شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که سپیده‌دم نداری ای شب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یازنده‌تر از روزشماری ای شب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تاریک‌تر از زلف نگاری ای شب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از روز همی یاد نداری ای شب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی که سپیده‌دم نداری ای شب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

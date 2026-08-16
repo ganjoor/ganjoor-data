@@ -1,0 +1,58 @@
+{
+  "Id": 113986,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۱۳",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۱۳",
+  "FullUrl": "/jahan/divan/robaee/sh113",
+  "RhymeLetters": "ریانشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی عشق و درد فراق است. گفته می‌شود که وقتی محبوب از دیدگان پنهان می‌شود، عشق و آتش آن دل را می‌سوزاند و دل عاشق را به درد می‌آورد. زمانی که دیگران به زیبایی محبوب توجه می‌کنند، عاشق تحت تأثیر فراق او به شدت گریه می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریانشد",
+      "PlainText": "تا سرو قدش ز چشم ما پنهان شد\r\nاز آتش عشقش دل ما بریان شد\r\nتا مردم دیده قامت یار بدید\r\nاز درد فراق او چنین گریان شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا سرو قدش ز چشم ما پنهان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آتش عشقش دل ما بریان شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا مردم دیده قامت یار بدید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز درد فراق او چنین گریان شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا سرو قدش ز چشم ما پنهان شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از آتش عشقش دل ما بریان شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا مردم دیده قامت یار بدید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از درد فراق او چنین گریان شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

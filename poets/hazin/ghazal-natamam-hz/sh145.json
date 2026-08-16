@@ -1,0 +1,58 @@
+{
+  "Id": 83306,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۴۵",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۴۵",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh145",
+  "RhymeLetters": "اچهرسد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و احساسات عاشقانه اشاره دارد. شاعر با استفاده از تصاویر زنده، احساس شوق و درد ناشی از دوری از معشوق را بیان می‌کند. رنگ شراب و بوی گل‌ها، نماد عشق و شادابی است، در حالی که اشاره به خورشید، نشان‌دهنده ناپایداری و کمبود روشنایی در زندگی بدون حضور محبوب است. در کل، شعر حسرت و آرزوی وصال را منتقل می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارزد",
+      "PlainText": "رنگت به خون لاله قدح در خمار زد\r\nبوی تو راه قافله نوبهار زد\r\nخورشید را نگشته میسر درین بساط\r\nنقشی که از رخ تو دل داغدار زد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنگت به خون لاله، قدح در خمار زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی تو، راه قافله نوبهار زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید را نگشته میسر درین بساط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقشی که از رخ تو، دل داغدار زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رنگت به خون لاله، قدح در خمار زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی تو، راه قافله نوبهار زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورشید را نگشته میسر درین بساط",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نقشی که از رخ تو، دل داغدار زد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 69403,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/azraghi/arob/sh42",
+  "RhymeLetters": "ود",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر احساسات عمیق عاشقانه‌اند. شاعر می‌گوید که دل او هیچ وقت به عشق کسی بسته نشده بود، اما عشق معشوقش به او آمد و دلش را گرفت. سپس به معشوق (که به ماه تشبیه شده) می‌گوید که از روی زیبایی‌اش به دیگران حسادت می‌کند و از او می‌پرسد که در مورد حال دل عاشق چه نظری دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ود",
+      "PlainText": "آن دل که به بند عشق کس بسته نبود\r\nعشق تو بیامد و ببست و بربود\r\nای ماه ز رشک روی تو ناخشنود \r\nدر حال دل بنده چه خواهی فرمود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن دل، که به بند عشق کس بسته نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق تو بیامد و ببست و بربود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ماه ز رشک روی تو ناخشنود \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حال دل بنده چه خواهی فرمود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن دل، که به بند عشق کس بسته نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشق تو بیامد و ببست و بربود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای ماه ز رشک روی تو ناخشنود ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در حال دل بنده چه خواهی فرمود؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

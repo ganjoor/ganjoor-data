@@ -1,0 +1,58 @@
+{
+  "Id": 45678,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۳۸",
+  "FullUrl": "/ghaani/ghetegh/sh38",
+  "RhymeLetters": "یندارد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به این معناست که کسی که از لطیفه و شوخی خوب آگاه نیست، چگونه می‌تواند در اصول دین اطلاعات داشته باشد. بی‌خبر بودن او از لطیفه، گناهی نیست و او فقط در این مورد دچار نادانی است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یندارد",
+      "PlainText": "آنکه تیز از لطیفه نشناسد\r\nچه خبر از اصول دین دارد\r\nنیست  جرمش ز بانگ بی هنگام\r\nچکند بینوا همین دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه تیز از لطیفه نشناسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه خبر از اصول دین دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست‌ جرمش ز بانگ بی‌هنگام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچکند بینوا همین دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکه تیز از لطیفه نشناسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه خبر از اصول دین دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست‌ جرمش ز بانگ بی‌هنگام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چکند بینوا همین دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

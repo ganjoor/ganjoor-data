@@ -1,0 +1,58 @@
+{
+  "Id": 119614,
+  "CatId": 2754,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » دوبیتی‌ها » شمارهٔ ۶",
+  "FullUrl": "/neshat/divan/2beyti/sh6",
+  "RhymeLetters": "شانهبگذشت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به احساساتش نسبت به عشق و معشوقه‌اش اشاره می‌کند. فریاد او از خود زمانه عبور کرده و به زیبایی معشوقه‌اش می‌رسد. او ابروی زیبای یار را به تیری تشبیه می‌کند که از هدفش می‌گذرد، نشان‌دهنده تأثیر عمیق و دردناکی است که عشق بر او دارد.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شانهبگذشت",
+      "PlainText": "فریاد من از زمانه بگذشت\r\nبر زلف نگار شانه بگذشت\r\nابروی کمان یار بر دست\r\nتیریست که از نشانه بگذشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریاد من از زمانه بگذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر زلف نگار شانه بگذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابروی کمان یار بر دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیریست که از نشانه بگذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فریاد من از زمانه بگذشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر زلف نگار شانه بگذشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ابروی کمان یار بر دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیریست که از نشانه بگذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82899,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/hazin/robaee-hz/sh11",
+  "RhymeLetters": "انافتادهست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به تغییر نوبت و وضعیت موجود اشاره می‌کند که حالا نوبت ماکیان (مرغ‌ها) به کیان (پادشاهان) رسیده است. این موضوع می‌تواند نمادین از تغییرات بزرگ در جامعه یا حکومت باشد. همچنین، اشاره به شادی و خوشحالی در این تغییر و درگیری یا جنگی که در حال حاضر در حال وقوع است نیز وجود دارد. به نوعی، شاعر از حرکتی شگرف و تحولی عظیم سخن می‌گوید که در حال شکل‌گیری است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انافتادهست",
+      "PlainText": "نوبت ز کیان به ماکیان افتاده ست\r\nبازی شگرفی به میان افتاده ست\r\nشاید که سپهر سفله رقصد ز نشاط\r\nشمشیر زدن به دف زنان افتاده ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوبت ز کیان به ماکیان افتاده ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازیّ شگرفی به میان افتاده ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که سپهر سفله رقصد ز نشاط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمشیر زدن به دف زنان افتاده ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوبت ز کیان به ماکیان افتاده ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازیّ شگرفی به میان افتاده ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاید که سپهر سفله رقصد ز نشاط",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر زدن به دف زنان افتاده ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

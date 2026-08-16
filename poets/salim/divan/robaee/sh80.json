@@ -1,0 +1,58 @@
+{
+  "Id": 101871,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/salim/divan/robaee/sh80",
+  "RhymeLetters": "بلایدبیرون",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها شاعر به زیبایی طبیعت اشاره می‌کند. از یک سو، سرخی و زیبایی کاکل گل‌ها نمایان می‌شود و از سوی دیگر، دودی که از دل گل‌های سنبل برمی‌خیزد، نشانه‌ای از احساسات عاطفی است. همچنین در هر چمنی که گل وجود داشته باشد، آواز بلبل نیز به گوش می‌رسد که به نشانی از سرزندگی و شادابی طبیعت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بلایدبیرون",
+      "PlainText": "زان طرف کله چو کاکل آید بیرون\r\nدود از دل شاخ سنبل آید بیرون\r\nدر هر چمنی که روی او گل باشد\r\nاز غنچه چو بیضه بلبل آید بیرون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان طرف کله چو کاکل آید بیرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدود از دل شاخ سنبل آید بیرون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هر چمنی که روی او گل باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز غنچه چو بیضه بلبل آید بیرون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زان طرف کله چو کاکل آید بیرون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دود از دل شاخ سنبل آید بیرون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هر چمنی که روی او گل باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از غنچه چو بیضه بلبل آید بیرون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

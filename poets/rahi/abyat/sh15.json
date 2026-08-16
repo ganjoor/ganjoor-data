@@ -1,0 +1,58 @@
+{
+  "Id": 39610,
+  "CatId": 1334,
+  "Title": "مستی و مستوری",
+  "FullTitle": "رهی معیری » ابیات پراکنده » مستی و مستوری",
+  "FullUrl": "/rahi/abyat/sh15",
+  "RhymeLetters": "وربودهاند",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها به زیبایی و لطافت عشق اشاره شده است. شاعر از درد و رنج دل مانند خون دل سخن می‌گوید و می‌گوید که اگرچه گل‌ها پاک و زیبا هستند، اما در عین حال با وجود اینکه مهر و ماه (عشق و معشوق) ممکن است دور از هم باشند، همیشه پیوندی عمیق بین آن‌ها وجود دارد. به عبارتی، عشق و زیبایی همیشه با چالش‌ها و فاصله‌ها همراه است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وربودهاند",
+      "PlainText": "از خون دل چو غنچه گل پاک دامنان\r\nمستانه می کشیده و مستور بوده اند\r\nگر ماه من ز مهر بود دور دور نیست\r\nتا بوده مهر و ماه ز هم دور بوده اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خون دل چو غنچهٔ گل پاک‌دامنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمستانه می کشیده و مستور بوده‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ماه من ز مهر بود دور، دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بوده مهر و ماه ز هم دور بوده‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خون دل چو غنچهٔ گل پاک‌دامنان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مستانه می کشیده و مستور بوده‌اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر ماه من ز مهر بود دور، دور نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بوده مهر و ماه ز هم دور بوده‌اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

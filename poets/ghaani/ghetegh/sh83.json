@@ -1,0 +1,58 @@
+{
+  "Id": 45745,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۸۳",
+  "FullUrl": "/ghaani/ghetegh/sh83",
+  "RhymeLetters": "وش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به بیان وضعیت خاصی اشاره دارد. زمانی که خر نعره می‌کشد، این صدا ممکن است گوش را آزار دهد. اما باید آرامش خود را حفظ کرد، زیرا در نهایت این خر هم پس از مدتی آرام می‌گیرد و ساکت می‌شود. این شعر به صبر و تحمل در برابر مشکلات و آزارها اشاره دارد.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وش",
+      "PlainText": "هر وقت که خر برآورد بانگ\r\nوز نعره او بدردت گوش\r\nفارغ بنشین که گردد آخر\r\nمسکین خرک از نهیق خاموش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر وقت که خر برآورد بانگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نعرهٔ او بدردت گوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفارغ بنشین که گردد آخر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسکین خرک از نهیق خاموش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر وقت که خر برآورد بانگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز نعرهٔ او بدردت گوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فارغ بنشین که گردد آخر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مسکین خرک از نهیق خاموش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 77898,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/homam/robaeeho/sh80",
+  "RhymeLetters": "انیبیتو",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر احساس عمیق تنهایی و اندوه شاعر در غیاب محبوبش است. شاعر می‌گوید زندگی بدون محبوب تلخ و مانند بادی بی‌معنی است و نمی‌تواند درد جدایی را به زبان بیاورد، زیرا حالش بدون او بسیار دلتنگ و عذاب‌آور است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیبیتو",
+      "PlainText": "تلخ است مذاق زندگانی بی تو\r\nباد است حدیث شادمانی بی تو\r\nنتوان به زبان شرح فراقت دادن\r\nحالی است مرا چنان که دانی بی تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتلخ است مذاق زندگانی بی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد است حدیث شادمانی بی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنتوان به زبان شرح فراقت دادن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحالی است مرا چنان که دانی بی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تلخ است مذاق زندگانی بی تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باد است حدیث شادمانی بی تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نتوان به زبان شرح فراقت دادن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حالی است مرا چنان که دانی بی تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

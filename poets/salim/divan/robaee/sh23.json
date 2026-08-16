@@ -1,0 +1,58 @@
+{
+  "Id": 101814,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/salim/divan/robaee/sh23",
+  "RhymeLetters": "هریست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به بیان احساساتش می‌پردازد و می‌گوید که بدبختی و بدمهری در زندگی‌اش نمایان شده است. او این بدبختی را مانند زهر می‌داند که هرچند رنگش زیباست، اما حقیقتاً مضر و ویران‌کننده است. همچنین او به حال خراب و رنج‌کشیدهٔ خود اشاره می‌کند، که رنگش مانند زعفران ناراحت و پژمرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هریست",
+      "PlainText": "با من بخت سیاه در بدمهری ست\r\nزهری ست اگرچه رنگ او پازهری ست\r\nاز حال خراب من خبر می گوید\r\nرنگم که چو زعفران ویران شهری ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا من بخت سیاه در بدمهری ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهری ست، اگرچه رنگ او پازهری ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حال خراب من خبر می گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنگم که چو زعفران ویران شهری ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با من بخت سیاه در بدمهری ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زهری ست، اگرچه رنگ او پازهری ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از حال خراب من خبر می گوید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رنگم که چو زعفران ویران شهری ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

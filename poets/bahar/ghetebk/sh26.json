@@ -1,0 +1,58 @@
+{
+  "Id": 51415,
+  "CatId": 1833,
+  "Title": "شمارهٔ ۲۶ - از یک غزل",
+  "FullTitle": "ملک‌الشعرا بهار » قطعات » شمارهٔ ۲۶ - از یک غزل",
+  "FullUrl": "/bahar/ghetebk/sh26",
+  "RhymeLetters": "وست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به موضوع وفاداری و عشق به دوست می‌پردازد. او می‌گوید حتی اگر دوستی او را آزار دهد یا به او ظلم کند، نمی‌تواند از او شکایت کند چون حق با دوست است. شاعر اشاره می‌کند که حتی اگر از دشمن سختی بکشد، یک اشتباه از خود را نمی‌تواند جبران کند، در حالی که عشق و ارادتش به دوست در اولویت قرار دارد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "گرم به خنجر بیداد خون بریزد دوست\r\nازو به  حق نبرم شکوه زان که حق با اوست\r\nز دست دشمن اگر صد قفا خورم شاید\r\nبه  یک خطا که ز من رفت در ارادت دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرم به خنجر بیداد خون بریزد دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازو به‌ حق نبرم شکوه زان که حق با اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دست دشمن اگر صد قفا خورم شاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه‌ یک خطا که ز من رفت در ارادت دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرم به خنجر بیداد خون بریزد دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازو به‌ حق نبرم شکوه زان که حق با اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز دست دشمن اگر صد قفا خورم شاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به‌ یک خطا که ز من رفت در ارادت دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

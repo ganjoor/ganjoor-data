@@ -1,0 +1,58 @@
+{
+  "Id": 118939,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/azar/divan/robaee/sh18",
+  "RhymeLetters": "ویمناست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات از شعر نشان‌دهنده زیبایی و رازهای عاشقانه است. شاعر اشاره می‌کند که زیبایی محبوبش با ظرافتی خاص در دل و چهره‌اش وجود دارد. او با اشاره به شب و روز و نیز ماه، به عشق و احساسات عمیق خود اشاره می‌کند و در نهایت دلشکستگی و نگرانی از فراق را بیان می‌دارد. این ابیات ترکیبی از عشق، زیبایی و غم را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویمناست",
+      "PlainText": "از گل بسته است دسته کاین روی من است\r\nشب بر رخ روز بسته کاین موی من است\r\nچون مه بفلک نشسته کاین کوی من است\r\nدل بر سر دل شکسته کاین خوی من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز گل بسته است دسته، کاین روی من است!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب بر رخ روز بسته، کاین موی من است!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مه بفلک نشسته، کاین کوی من است!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بر سر دل شکسته، کاین خوی من است!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از گل بسته است دسته، کاین روی من است!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب بر رخ روز بسته، کاین موی من است!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون مه بفلک نشسته، کاین کوی من است!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل بر سر دل شکسته، کاین خوی من است!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

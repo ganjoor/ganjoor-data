@@ -1,0 +1,58 @@
+{
+  "Id": 68856,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/onsori/oro/sh6",
+  "RhymeLetters": "خت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات بیان می‌شود که زندگی، با تمام آسانی و سختی‌هایش، گذراست و لحظه‌ها همچون امانتی هستند که باید مراقب آنها بود. هر زمان که نیاز باشد، باید از یک وضعیت به وضعیت دیگری تغییر مکان داد، و در نزد حکیمان، چه در مقام قدرت و چه در مقام مرگ، همه چیز به یک اندازه ارزشمند است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "خت",
+      "PlainText": "چون می گذرد کار چه آسان و چه سخت\r\nوین یک دم عاریت چه ادبار و چه بخت\r\nچون جای دگر نهاد می باید رخت\r\nنزدیک خردمند چه تابوت و چه تخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون می‌گذرد کار، چه آسان و چه سخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین یک دم عاریت چه ادبار و چه بخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون جای دگر نهاد می‌باید رخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدیک خردمند چه تابوت و چه تخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون می‌گذرد کار، چه آسان و چه سخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین یک دم عاریت چه ادبار و چه بخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون جای دگر نهاد می‌باید رخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نزدیک خردمند چه تابوت و چه تخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

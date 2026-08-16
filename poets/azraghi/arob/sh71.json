@@ -1,0 +1,58 @@
+{
+  "Id": 69432,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/azraghi/arob/sh71",
+  "RhymeLetters": "ال",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به تمجید از قدرت و شجاعت یک جنگجو اشاره دارد. حمله او مانند سمند خشمگین است که زمین را از لرزه می‌اندازد و دشمنان را به وحشت می‌اندازد. تیغ او آنقدر ترسناک و قوی است که مانند الماس می‌درخشد و دشمنان را به عقب می‌رانند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ال",
+      "PlainText": "از حمله سمند تو ز آسیب نعال\r\nلرزان کند اجزای زمین از زلزال\r\nوز هیبت تیغ تو عدو را مه و سال\r\nالماس رود به جای خون از قیفال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حمله سمند تو، ز آسیب نعال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلرزان کند اجزای زمین از زلزال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز هیبت تیغ تو عدو را مه و سال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالماس رود به جای خون از قیفال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حمله سمند تو، ز آسیب نعال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لرزان کند اجزای زمین از زلزال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وز هیبت تیغ تو عدو را مه و سال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "الماس رود به جای خون از قیفال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

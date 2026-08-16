@@ -1,0 +1,58 @@
+{
+  "Id": 70016,
+  "CatId": 2043,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "امیر معزی » قطعات » شمارهٔ ۷",
+  "FullUrl": "/amir/ghatam/sh7",
+  "RhymeLetters": "یح",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به این نکته اشاره می‌کند که برای سرودن غزل، وجود یار و معشوق ضروری است و همچنین برای مدح، وجود کسی که شایسته ستایش باشد لازم است. شاعر اشاره می‌کند که باید طبعی لطیف و زبانی فصیح داشته باشد تا بتواند این شعرها را بسراید.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یح",
+      "PlainText": "نه بس بود که در غزل یار و در مدیح\r\nطبعی بود لطیف و زبانی بود فصیح\r\nمعشوق سازگار بباید گه غزل\r\nممدوح مال بخش بباید گه مدیح",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه بس بود که در غزل یار و در مدیح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبعی بود لطیف و زبانی بود فصیح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعشوق سازگار بباید گه غزل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eممدوح مال بخش بباید گه مدیح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه بس بود که در غزل یار و در مدیح",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طبعی بود لطیف و زبانی بود فصیح",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معشوق سازگار بباید گه غزل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ممدوح مال بخش بباید گه مدیح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

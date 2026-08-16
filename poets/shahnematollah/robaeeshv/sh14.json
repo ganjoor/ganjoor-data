@@ -1,0 +1,58 @@
+{
+  "Id": 47784,
+  "CatId": 1728,
+  "Title": "رباعی شمارهٔ ۱۴",
+  "FullTitle": "شاه نعمت‌الله ولی » رباعیات » رباعی شمارهٔ ۱۴",
+  "FullUrl": "/shahnematollah/robaeeshv/sh14",
+  "RhymeLetters": "اب",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به تشبیه عالم و دنیا به سراب می‌پردازد. شاعر می‌گوید که دنیا مانند سراب است و ما در خواب خیال‌های آن را می‌بینیم. او به عمق و حقیقت زندگی اشاره می‌کند و ما را به نظاره در دریا دعوت می‌کند، جایی که آب حیات به شکل حباب نمایان شده است. این تصویر نشان‌دهنده گذرایی و عدم حقیقت دنیا است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "عالم چو سرابست و نماید سر آب\r\nنقشی و خیالیست که بینند بخواب\r\nدر بحر محیط چشم ما را بنگر\r\nکان آب حیات را نموده به حباب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم چو سرابست و نماید سر آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقشی و خیالیست که بینند بخواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بحر محیط چشم ما را بنگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکان آب حیات را نموده به حباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالم چو سرابست و نماید سر آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقشی و خیالیست که بینند بخواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بحر محیط چشم ما را بنگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کان آب حیات را نموده به حباب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

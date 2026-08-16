@@ -1,0 +1,58 @@
+{
+  "Id": 83047,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۵۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۵۹",
+  "FullUrl": "/hazin/robaee-hz/sh159",
+  "RhymeLetters": "امبیار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از ساقی می‌خواهد که جامی از شراب زیبا بیاورد. او همچنین خواهان نوشیدنی در صبح (صبوح) است و به دنبال لذت و سرخوشی می‌باشد. شاعر به جواهرات و زیبایی‌های ظاهری که نماد تضاد کفر و ایمان هستند اشاره می‌کند و خواستار آوردن آنهاست. به طور کلی، این شعر احساسات شاد و عشقی را نسبت به زندگی و لذت‌های آن بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امبیار",
+      "PlainText": "ساقی قدحی از می گلفام بیار\r\nهنگام صبوح مگذران جام بیار\r\nآن ناصیه سوز خرد خام بیار\r\nوان چهره طراز کفر و اسلام بیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی قدحی از می گلفام بیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنگام صبوح مگذران، جام بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ناصیه سوز خرد خام بیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان چهره طراز کفر و اسلام بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی قدحی از می گلفام بیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنگام صبوح مگذران، جام بیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن ناصیه سوز خرد خام بیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وان چهره طراز کفر و اسلام بیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

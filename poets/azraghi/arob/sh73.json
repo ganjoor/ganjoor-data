@@ -1,0 +1,58 @@
+{
+  "Id": 69434,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/azraghi/arob/sh73",
+  "RhymeLetters": "ال",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به خواجه (شخص مهم و محترم) اشاره می‌کند و از او درخواست دارد که بر حسب لطف و کرامت خداوند، نیکبختی و خوش‌آمدی را که در فالش نوشته شده، ببیند. شاعر با این مفهوم می‌خواهد بیان کند که هر چیزی به خواسته‌های او بستگی دارد و امیدوار است که سال برای او سالی خوش‌یمن باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ال",
+      "PlainText": "بر جاه تو ای خواجه شود هر عیال\r\nبر لوح قلم رفت بدین فرخ فال\r\nای خواجه به حرمت خدای متعال\r\nکین فال که بنده زد ببینی امسال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر جاه تو، ای خواجه شود هر عیال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر لوح قلم رفت بدین فرخ فال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه، به حرمت خدای متعال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکین فال که بنده زد ببینی امسال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر جاه تو، ای خواجه شود هر عیال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر لوح قلم رفت بدین فرخ فال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خواجه، به حرمت خدای متعال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کین فال که بنده زد ببینی امسال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

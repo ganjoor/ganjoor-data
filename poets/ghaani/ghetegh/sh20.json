@@ -1,0 +1,72 @@
+{
+  "Id": 45660,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۲۰",
+  "FullUrl": "/ghaani/ghetegh/sh20",
+  "RhymeLetters": "لست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به موضوع شناخت و اتصال به حقیقت اشاره دارد. شاعر می‌گوید که انسان عاقل از درک معنی عمیق غافل است و تمام دلایلی که می‌آورد در واقع ناتمام هستند. خداوند در قرآن فرموده است که او علاقه‌ای به کسانی که از حقیقت دور هستند ندارد. این نکته به ظاهر ساده است اما در نهایت دشوار است. در نهایت، شاعر به این نکته می‌رسد که باید از خودخواهی عبور کرد و به معشوق یعنی “دوست” رسید، زیرا کسی که به او وصل شود، به آرزوها و مرادهای خود دست می‌یابد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لست",
+      "PlainText": "عاقل از دیدار معنی غافلست\r\nزانکه هر حجت که گوید آفلست\r\nلااحب الآفلین فرمود حق\r\nاین سخن آسان نمای و مشکلست\r\nدر گذر از خویش و واصل شو به دوست\r\nکانکه واصل شد مرادش حاصلست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقل از دیدار معنی غافلست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه هر حجت که گوید آفلست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلااحب الآفلین فرمود حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین سخن آسان‌نمای و مشکلست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر گذر از خویش و واصل شو به دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانکه واصل شد مرادش حاصلست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقل از دیدار معنی غافلست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زانکه هر حجت که گوید آفلست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لااحب الآفلین فرمود حق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این سخن آسان‌نمای و مشکلست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در گذر از خویش و واصل شو به دوست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کانکه واصل شد مرادش حاصلست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

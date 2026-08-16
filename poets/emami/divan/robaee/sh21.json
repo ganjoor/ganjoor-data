@@ -1,0 +1,58 @@
+{
+  "Id": 97280,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/emami/divan/robaee/sh21",
+  "RhymeLetters": "خوشگردم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از دوستش می‌خواهد که نگران او نباشد و حتی در کوچک‌ترین چیزها نیز خوشحال می‌شود. او اشاره می‌کند که روحش لطیف و حساس است و از دوستش تقاضا دارد که در کنار او باشد، زیرا اگر تنها بماند، حالش خوب نخواهد بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "خوشگردم",
+      "PlainText": "ای دوست من از هیچ مشوش گردم\r\nوز نیمه ی نیم ذره در خوش گردم\r\nاز آب لطیفتر مزاجی دارم\r\nدریاب مرا و گرنه ناخوش گردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست من از هیچ مشوش گردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نیمه ی نیم ذره در خوش گردم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آب لطیفتر مزاجی دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاب مرا و گرنه ناخوش گردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست من از هیچ مشوش گردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز نیمه ی نیم ذره در خوش گردم؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آب لطیفتر مزاجی دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاب مرا و گرنه ناخوش گردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

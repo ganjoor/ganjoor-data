@@ -1,0 +1,58 @@
+{
+  "Id": 44928,
+  "CatId": 1688,
+  "Title": "رباعی شمارهٔ ۳۲",
+  "FullTitle": "خلیل‌الله خلیلی » رباعیات » رباعی شمارهٔ ۳۲",
+  "FullUrl": "/khalili/robaeekl/sh32",
+  "RhymeLetters": "اراید",
+  "SourceName": "مهران صمدنژاد",
+  "SourceUrlSlug": "ms",
+  "PoemSummary": "هوش مصنوعی: این اشعار به احساس درد و رنج ناشی از دوری عشق اشاره دارد. وقتی عشق از دل برود، رنج و آزار شروع می‌شود، مشابه این که وقتی گل از باغ بیرون می‌رود، خار به وجود می‌آید. همچنین، وقتی عشق پنهان می‌شود، اندوه و تاریکی به دل می‌نشیند. به طور کلی، این اشعار به تضادهای عاطفی و تأثیر فقدان عشق بر روح انسان می‌پردازند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اراید",
+      "PlainText": "چو از دل عشق رفت آزار آید\r\nچو گل رفت از گلستان خار آید\r\nنمی بینی که چون پنهان شود مهر\r\nشب تاریک انده بار آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو از دل عشق رفت آزار آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو گل رفت از گلستان خار آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌بینی که چون پنهان شود مهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب تاریک اندُه‌بار آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Dobeyti",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو از دل عشق رفت آزار آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو گل رفت از گلستان خار آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی‌بینی که چون پنهان شود مهر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب تاریک اندُه‌بار آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

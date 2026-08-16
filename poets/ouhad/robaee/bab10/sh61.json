@@ -1,0 +1,58 @@
+{
+  "Id": 98751,
+  "CatId": 2509,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » الباب العاشر: البهاریات » شمارهٔ ۶۱",
+  "FullUrl": "/ouhad/robaee/bab10/sh61",
+  "RhymeLetters": "بهابینی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از خواجه می‌خواهد که اگر لب‌های شیرین را می‌بیند، بیدار باشد و خواب نرود. او اشاره می‌کند که در سحرگاهان که راز دل‌ها فاش می‌شود، نباید خوابیده باشد تا بتواند شگفتی‌ها و عجایب را ببیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بهابینی",
+      "PlainText": "ای خواجه اگرتو نوش لبها بینی\r\nآشفته بسی خواب که شبها بینی\r\nاندر سحری که راز دلها گویند\r\nتو خفته مباش تا عجبها بینی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه اگرتو نوش لبها بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآشفته بسی خواب که شبها بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر سحری که راز دلها گویند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو خفته مباش تا عجبها بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه اگرتو نوش لبها بینی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آشفته بسی خواب که شبها بینی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندر سحری که راز دلها گویند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو خفته مباش تا عجبها بینی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

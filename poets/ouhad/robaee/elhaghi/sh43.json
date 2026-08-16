@@ -1,0 +1,58 @@
+{
+  "Id": 99011,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۴۳",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh43",
+  "RhymeLetters": "ستهشود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عشق و دلتنگی اشاره می‌کند. او می‌گوید اگر تصویر محبوبش از نظرش محو شود، از چشمانش اشک‌های فراوانی می‌ریزد. او تا صبح نمی‌خواهد چشم را ببندد چرا که نگران است شاید در خواب به یاد محبوبش نیفتد و احساس خستگی کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستهشود",
+      "PlainText": "گر عکس رخت زدیده بگسسته شود\r\nاز هر مژه صد قطره خون بسته شود\r\nشب تا به سحر دیده به هم برنکنم\r\nترسم که خیالت اندرو خسته شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر عکس رخت زدیده بگسسته شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هر مژه صد قطرهٔ خون بسته شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب تا به سحر دیده به هم برنکنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسم [که] خیالت اندرو خسته شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر عکس رخت زدیده بگسسته شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از هر مژه صد قطرهٔ خون بسته شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب تا به سحر دیده به هم برنکنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم [که] خیالت اندرو خسته شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

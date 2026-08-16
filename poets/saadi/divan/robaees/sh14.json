@@ -1,0 +1,58 @@
+{
+  "Id": 10075,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۴",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۴",
+  "FullUrl": "/saadi/divan/robaees/sh14",
+  "RhymeLetters": "یروزست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و شادی ناشی از حضور محبوب اشاره می‌کند. او می‌گوید که حتی اگر شمع (نور) خاموش شود و ماه (نور) غروب کند، باز هم شب برایش روشن است، زیرا در کنار محبوبش است. در واقع، او احساس می‌کند که وجود محبوبش روشنایی و خوشبختی را به زندگی‌اش می‌آورد و این موفقیت و خوشبختی، بر خلاف دشمنانش، او را پیروز می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یروزست",
+      "PlainText": "امشب که حضور یار جان افروزست\r\nبختم به خلاف دشمنان پیروزست\r\nگو شمع بمیر و مه فرو شو که مرا\r\nآن شب که تو در کنار باشی روزست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب که حضور یار جان افروزست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبختم به خلاف دشمنان پیروزست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو «شمع بمیر و مه فرو شو» که مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن شب که تو در کنار باشی روزست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب که حضور یار جان افروزست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بختم به خلاف دشمنان پیروزست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گو «شمع بمیر و مه فرو شو» که مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن شب که تو در کنار باشی روزست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

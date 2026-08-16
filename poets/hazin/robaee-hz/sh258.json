@@ -1,0 +1,58 @@
+{
+  "Id": 83155,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۵۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۵۸",
+  "FullUrl": "/hazin/robaee-hz/sh258",
+  "RhymeLetters": "امشوی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به انتخاب میان دو مسیر اشاره می‌کند: یکی راه عقل و دیگری راه عشق. او از شنونده می‌خواهد که در این انتخاب، نام نیک و پاکی خود را حفظ کند و به دنبال محبت و مسیر صحیح زندگی باشد. در نهایت، تأکید بر این است که انسان نباید به خاطر انتخاب‌های نادرست به بدنامی دچار شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امشوی",
+      "PlainText": "در کعبه حزین  امیر اسلام شوی\r\nدر دیر حریف باده و جام شوی\r\nیا امت عقل باش یا بنده عشق\r\nحیف است درین میانه بدنام شوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کعبه حزین ، امیر اسلام شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیر حریف باده و جام شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا امّت عقل باش، یا بندهٔ عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیف است درین میانه بدنام شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کعبه حزین ، امیر اسلام شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیر حریف باده و جام شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا امّت عقل باش، یا بندهٔ عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حیف است درین میانه بدنام شوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

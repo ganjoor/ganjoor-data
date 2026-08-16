@@ -1,0 +1,58 @@
+{
+  "Id": 82891,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/hazin/robaee-hz/sh3",
+  "RhymeLetters": "اب",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساسات عمیق عشق و درد و سوز دل سخن می‌گوید. او بیان می‌کند که عشق او چقدر شدید است که مانند شمع در حال سوختن است و از آتش اشک و آلامش رنج می‌برد. عشق می‌تواند گاهی لطف و محبت به همراه داشته باشد و گاهی هم تلخی و درد. در نهایت، شاعر از دل تپنده و غمگین خود در این راه سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "لعلت به فسون نبرد از دل تب و تاب\r\nگر شکر لطف داد و گر زهر عتاب\r\nالقصه که در عشق جگرسوز چو شمع\r\nاز آه در آتشیم و از اشک در آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعلت به فسون نبرد از دل تب و تاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر شکّر لطف داد و گر زهر عتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالقصه که در عشق جگرسوز چو شمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آه در آتشیم و از اشک در آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لعلت به فسون نبرد از دل تب و تاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر شکّر لطف داد و گر زهر عتاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "القصه که در عشق جگرسوز چو شمع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از آه در آتشیم و از اشک در آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

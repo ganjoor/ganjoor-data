@@ -1,0 +1,58 @@
+{
+  "Id": 48758,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۳۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۹",
+  "FullUrl": "/orfi/robaeeor/sh39",
+  "RhymeLetters": "ست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شخصی به نام محتسب به خاطر غم و اندوه به سراغ فردی می‌رود و به او شیشه‌ای می‌دهد. اما آن فرد مست شیشه را می‌شکند و نمی‌فهمد که چه قصدی داشته‌اند. در نهایت، به نظر می‌رسد که باید توبه کند چون شیشه شکسته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "دی محتسب آمد به غم تند نشست\r\nماتم زده بود دادمش شیشه به دست\r\nبشکست و نیافت قصدم آن جاهل مست\r\nبایست که توبه شکند شیشه شکست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی محتسب آمد به غم، تند نشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماتم زده بود، دادمش شیشه به دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشکست و نیافت قصدم آن جاهل مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبایست که توبه شکند، شیشه شکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی محتسب آمد به غم، تند نشست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماتم زده بود، دادمش شیشه به دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بشکست و نیافت قصدم آن جاهل مست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بایست که توبه شکند، شیشه شکست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

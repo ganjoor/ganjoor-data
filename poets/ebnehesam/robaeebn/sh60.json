@@ -1,0 +1,58 @@
+{
+  "Id": 64857,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۶۰",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۶۰",
+  "FullUrl": "/ebnehesam/robaeebn/sh60",
+  "RhymeLetters": "اییباغ",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از زیبایی‌های بهار و باغ صحبت می‌کند. حضور سرو، نماد ظرافت و زیبایی، در کنار لاله‌ها که با آواز خود باغ را زینت می‌بخشند، حال و هوای خوشی را به تصویر می‌کشد. شاعر از زیبایی‌های باغ می‌گوید و اشاره می‌کند که فقط خوبان باید در این باغ بخرامند و دیگران نباید درباره زیبایی‌های باغ سخن بگویند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییباغ",
+      "PlainText": "سرو آمد و بنشست به رعنایی باغ\r\nلاله ز دگر طرف به لالایی باغ\r\nبخرام به باغ تا که خوبان چمن\r\nدیگر نزنند لاف زیبایی باغ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرو آمد و بنشست به رعنایی باغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاله ز دگر طرف به لالایی باغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخرام به باغ تا که خوبان چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیگر نزنند لافِ زیبایی باغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرو آمد و بنشست به رعنایی باغ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لاله ز دگر طرف به لالایی باغ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بخرام به باغ تا که خوبان چمن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیگر نزنند لافِ زیبایی باغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

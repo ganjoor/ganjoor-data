@@ -1,0 +1,58 @@
+{
+  "Id": 97083,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/faghani/divan/robaee/sh11",
+  "RhymeLetters": "اککنند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی و جلوه‌گری طبیعت اشاره می‌کند. او می‌گوید وقتی فصل رنگ‌آمیزی و شکوفایی درختان فرا می‌رسد، مخلوقان الهی مانند فرشتگان به زمین می‌آیند و به سجده بر خاک می‌افتند. این تصاویر نشان‌دهنده زیبایی و عظمت طبیعت است که در زمان خاصی، جلوه‌ای خاص پیدا می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اککنند",
+      "PlainText": "وقتست که رنگریزی تاک کنند\r\nخوبان چمن جلوه بر افلاک کنند\r\nچون خیل ملک یکایک اوراق درخت\r\nآیند فرود و سجده بر خاک کنند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتست که رنگریزی تاک کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوبان چمن جلوه بر افلاک کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خیل ملک یکایک اوراق درخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیند فرود و سجده بر خاک کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقتست که رنگریزی تاک کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوبان چمن جلوه بر افلاک کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون خیل ملک یکایک اوراق درخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیند فرود و سجده بر خاک کنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

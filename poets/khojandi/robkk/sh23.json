@@ -1,0 +1,58 @@
+{
+  "Id": 76501,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/khojandi/robkk/sh23",
+  "RhymeLetters": "انیم",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به درخت سرو اشاره می‌کند و می‌گوید اگر او را مانند درخت طوبی (که نماد زیبایی و شکوه است) بخوانیم، باید از سرکشی او جلوگیری کنیم. شاعر به این نکته می‌پردازد که با وجود قامت زیبا و بلند سرو، باید اصل و ریشه‌اش را نیز بشناسیم و به آن احترام بگذاریم. به این ترتیب، شاعر بر اهمیت شناخت و حفظ تعادل در رابطه با زیبایی‌ها تأکید می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیم",
+      "PlainText": "ای سرو اگر ترا چو طوبی خوانیم\r\nاز سرکشیت بجای خود بنشانیم\r\nبا قامت او چند کنی نسبت خویش\r\nما اصل تو و فرع تو نیکو دانیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سرو اگر ترا چو طوبی خوانیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سرکشیت بجای خود بنشانیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا قامت او چند کنی نسبت خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما اصل تو و فرع تو نیکو دانیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سرو اگر ترا چو طوبی خوانیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از سرکشیت بجای خود بنشانیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با قامت او چند کنی نسبت خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما اصل تو و فرع تو نیکو دانیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

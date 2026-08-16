@@ -1,0 +1,58 @@
+{
+  "Id": 15006,
+  "CatId": 232,
+  "Title": "رباعی شمارهٔ   ۱۲",
+  "FullTitle": "خاقانی » دیوان اشعار » رباعیات » رباعی شمارهٔ   ۱۲",
+  "FullUrl": "/khaghani/divankh/robaeekh/sh12",
+  "RhymeLetters": "مچواب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف سفر و تلاش‌های بی‌پایان شاعر می‌پردازد. او با تشبیه خود به آب، به دشواری‌های مسیر و بار سنگینی که باید تحمل می‌کرده اشاره دارد. در نهایت به ناکامی در بازگشت به وطن و ناامیدی از تجربه‌ای که داشته، اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدیمچواب",
+      "PlainText": "سنگ اندر بر بسی دویدیم چو آب\r\nبار همه خار و خس کشیدیم چو آب\r\nآخر به وطن نیارمیدیم چو آب\r\nرفتیم و ز پس باز ندیدیم چو آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسنگ اندر بر بسی دویدیم چو آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبار همه خار و خس کشیدیم چو آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآخر به وطن نیارمیدیم چو آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتیم و ز پس باز ندیدیم چو آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سنگ اندر بر بسی دویدیم چو آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بار همه خار و خس کشیدیم چو آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آخر به وطن نیارمیدیم چو آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتیم و ز پس باز ندیدیم چو آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

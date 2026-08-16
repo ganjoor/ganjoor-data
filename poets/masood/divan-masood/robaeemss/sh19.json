@@ -1,0 +1,82 @@
+{
+  "Id": 64175,
+  "CatId": 241,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/masood/divan-masood/robaeemss/sh19",
+  "RhymeLetters": "انمیارب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر شوق و بی‌قراری فردی است که هر شب به امید یاد محبوبش، خواب را بر خود حرام کرده و بی‌تابی می‌کند. او در خواب هم به محبوب خود فکر می‌کند و ناراحتی‌اش از دوری و بی‌روزیش را ابراز می‌کند. شاعر در نهایت از خدا می‌خواهد که حال او را درک کند و از این وضع نجاتش دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رب",
+      "PlainText": "ای دوست به امید خیالت هر شب\r\nاین دیده ی گرینده نخسبد ز طرب\r\nدر خواب همت نبیند ای نوشین لب\r\nبی روزی تر ز من که باشد یا رب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست به امّید خیالت هر شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین دیده‌ی گرینده نخسبد ز طرب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خواب همت نبیند ای نوشین‌لب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌روزی‌تر ز من که باشد یا رب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ب",
+      "PlainText": "ای دوست به امید خیالت هر شب\r\nاین دیده ی گرینده نخسبد ز طرب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست به امّید خیالت هر شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین دیده‌ی گرینده نخسبد ز طرب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ب",
+      "PlainText": "در خواب همت نبیند ای نوشین لب\r\nبی روزی تر ز من که باشد یا رب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خواب همت نبیند ای نوشین‌لب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌روزی‌تر ز من که باشد یا رب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست به امّید خیالت هر شب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این دیده‌ی گرینده نخسبد ز طرب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خواب همت نبیند ای نوشین‌لب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌روزی‌تر ز من که باشد یا رب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    }
+  ]
+}

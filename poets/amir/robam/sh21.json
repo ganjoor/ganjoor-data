@@ -1,0 +1,58 @@
+{
+  "Id": 70064,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/amir/robam/sh21",
+  "RhymeLetters": "است",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابری که در شاهوار آمده، شادی و جشن را برای شهریار به ارمغان آورده است. همچنین، او نیز مانند دیگران، نذری از مهر و محبت به دیگران تقدیم کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "این ابر که در شاهوار آوردست\r\nبر شادی جشن شهریار آورده ست\r\nآورده نثار مهرگانی هر کس\r\nاو نیز چو دیگران نثار آورده است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین ابر که دُرّ شاهوار آوردست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شادی جشن شهریار آورده ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآورده نثار مهرگانی هر کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو نیز چو دیگران نثار آورده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این ابر که دُرّ شاهوار آوردست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر شادی جشن شهریار آورده ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آورده نثار مهرگانی هر کس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او نیز چو دیگران نثار آورده است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

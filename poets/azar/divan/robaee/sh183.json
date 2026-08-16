@@ -1,0 +1,58 @@
+{
+  "Id": 119104,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۸۳",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۸۳",
+  "FullUrl": "/azar/divan/robaee/sh183",
+  "RhymeLetters": "یدهمگوی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این اشعار به ما یادآوری می‌شود که با دیگران با زبان ناپسند صحبت نکنیم و از گفتن حرف‌هایی که ممکن است موجب رنجش دیگران شود، پرهیز کنیم. همچنین اشاره شده است که عیب‌جویی از افراد پاک و معصوم، ناپسند است و بهتر است تا زمانی که چیزی را دیده‌ایم، در مورد آن قضاوت نکنیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدهمگوی",
+      "PlainText": "با کس سخنان ناپسندیده مگوی\r\nحرفی که شود کس از تو رنجیده مگوی\r\nعیب حرم حریم پاکان عیب است\r\nما دیده نگفتیم تو نادیده مگوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا کس سخنان ناپسندیده مگوی!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرفی که شود کس از تو رنجیده مگوی!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیب حرم حریم پاکان، عیب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما دیده نگفتیم، تو نادیده مگوی!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با کس سخنان ناپسندیده مگوی!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حرفی که شود کس از تو رنجیده مگوی!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عیب حرم حریم پاکان، عیب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما دیده نگفتیم، تو نادیده مگوی!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

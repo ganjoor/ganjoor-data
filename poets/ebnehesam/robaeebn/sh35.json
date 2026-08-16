@@ -1,0 +1,58 @@
+{
+  "Id": 64832,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۳۵",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۳۵",
+  "FullUrl": "/ebnehesam/robaeebn/sh35",
+  "RhymeLetters": "ممیداند",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: سخن از کسی است که به خوبی می‌داند مدح و ذم چیست و به همین خاطر تفاوت هجا و هزل را هم درک می‌کند. شاعر به ابن حسام می‌گوید که از او کمتر می‌داند یا شاید نتواند هزل او را درست بشناسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ممیداند",
+      "PlainText": "آنکس که طریق مدح و ذم می داند\r\nمیدان که هجا و هزل هم می داند\r\nدر هزل مرا ز خویش کم می دانی\r\nیا ابن حسام از تو کم می داند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکس که طریق مدح و ذمّ می داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیدان که هجا و هزل هم می داند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هزل مرا ز خویش کم می دانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا ابن حسام از تو کم می داند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکس که طریق مدح و ذمّ می داند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "میدان که هجا و هزل هم می داند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هزل مرا ز خویش کم می دانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا ابن حسام از تو کم می داند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

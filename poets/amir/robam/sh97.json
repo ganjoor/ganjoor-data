@@ -1,0 +1,58 @@
+{
+  "Id": 70140,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۹۷",
+  "FullUrl": "/amir/robam/sh97",
+  "RhymeLetters": "یراید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر بیانگر عظمت و ارزش مقام و موقعیت افراد بزرگ و ملوک است. شاعر می‌گوید که از درگاه خدایی که به آن ملوک تاج و شکوه می‌دهد، برای انسان‌های بزرگ همت‌های عالی و عروج‌های معنوی به وجود می‌آید. همچنین، وقتی که توقیع (نامه یا فرمان) خدا به دست کسی برسد، مانند کعبه‌ای می‌شود که حجّاج به سوی آن می‌آیند، یعنی مورد توجه و احترام همگان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اجاید",
+      "PlainText": "از درگه تو ملوک را تاج آید\r\nدر همت تو هزار معراج آید\r\nتوقیع تو چون به  دست محتاج آید\r\nچون کعبه بود که بیش حجاج آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز درگه تو ملوک را تاج آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر همّت تو هزار معراج آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوقیع تو چون به ‌دست محتاج آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون‌کعبه بود که بیش حُجاج آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از درگه تو ملوک را تاج آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در همّت تو هزار معراج آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "توقیع تو چون به ‌دست محتاج آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون‌کعبه بود که بیش حُجاج آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

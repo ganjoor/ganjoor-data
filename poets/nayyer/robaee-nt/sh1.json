@@ -1,0 +1,58 @@
+{
+  "Id": 84521,
+  "CatId": 2207,
+  "Title": "شمارهٔ  ۱",
+  "FullTitle": "نیر تبریزی » رباعیات » شمارهٔ  ۱",
+  "FullUrl": "/nayyer/robaee-nt/sh1",
+  "RhymeLetters": "راست",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف احساسات و عشق پرداخته است. شاعر به این نکته اشاره می‌کند که اگر قلیان (نماد عشق) همیشه با آتش عشق روشن باشد، چرا دل و چشمش همیشه تر و غمگینند. او هم‌چنین به این موضوع اشاره می‌کند که شکر از نی به دست می‌آید و قلیانی که توی آن لب لعل محبوبش است، در واقع در شکر نهفته است. در کل، این اشعار به ارتباط عمیق عشق و احساسات انسانی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "قلیان نه اگر آتش عشقش بسر است\r\nدایم ز چه با دود دل و چشم تر است\r\nرسم است که شکر از نی آید بیرون\r\nقلیان بلب لعل تو نی در شکر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقلیان نه اگر آتش عشقش بسر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدائم ز چه با دود دل و چشم تر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرسم است که شکرّ از نی آید بیرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقلیان بلب لعل تو نی در شکر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قلیان نه اگر آتش عشقش بسر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دائم ز چه با دود دل و چشم تر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رسم است که شکرّ از نی آید بیرون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قلیان بلب لعل تو نی در شکر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83371,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۱۰",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۱۰",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh210",
+  "RhymeLetters": "انبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از دلتنگی ناشی از دوری و فراق صحبت می‌کند. او می‌گوید که این احساس دلتنگی به تدریج به سامان می‌رسد و با اشاره به ناتوانی خود، می‌افزاید که نمی‌تواند به راحتی به عشق یا آرامش دست یابد. همچنین، او به رنگ شمع اشاره می‌کند و بیان می‌کند که این احساس سوختن درونش به آه و ناله‌های مرغ سحر تبدیل می‌شود، که نشان‌دهنده‌ی انتظار و آرزوی طولانی اوست.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندیرمیاید",
+      "PlainText": "ز هجران کار دلتنگی به سامان دیر می آید\r\nکه دست ناتوانم تا گریبان دیر می آید\r\nبه رنگ شمع می سازم به آه سینه سوز خود\r\nبه گوشم ناله مرغ سحر خوان دیر می آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز هجران کار دلتنگی به سامان دیر می آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دست ناتوانم، تا گریبان دیر می آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه رنگ شمع می سازم، به آه سینه سوز خود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه گوشم نالهٔ مرغ سحر خوان دیر می آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز هجران کار دلتنگی به سامان دیر می آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دست ناتوانم، تا گریبان دیر می آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به رنگ شمع می سازم، به آه سینه سوز خود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به گوشم نالهٔ مرغ سحر خوان دیر می آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

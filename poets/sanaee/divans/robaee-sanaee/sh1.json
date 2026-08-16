@@ -1,0 +1,58 @@
+{
+  "Id": 12736,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۱",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh1",
+  "RhymeLetters": "یشبتا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات نمایانگر عشق عمیق و عاشقانه‌ای هستند. شاعر از عشق به معشوق صحبت می‌کند و می‌گوید که عشق او به حدی است که حتی نمی‌داند به پای معشوق می‌افتد یا نه. او به صراحت بیان می‌کند که عشقش به معشوق، تمام وجودش را فرا گرفته و او خود را در این عشق گم کرده است. به طور کلی، ابیات احساس عاشقانه و وابستگی عمیق شاعر به معشوق را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشبتا",
+      "PlainText": "عشقست مرا بهینه تر کیش بتا\r\nنوشست مرا ز عشق تو نیش بتا\r\nمن می باشم ز عشق تو ریش بتا\r\nنه پای تو گیرم نه سر خویش بتا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشقست مرا بهینه‌تر کیش بتا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوشست مرا ز عشق تو نیش بتا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن می‌باشم ز عشق تو ریش بتا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه پای تو گیرم نه سر خویش بتا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشقست مرا بهینه‌تر کیش بتا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوشست مرا ز عشق تو نیش بتا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من می‌باشم ز عشق تو ریش بتا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه پای تو گیرم نه سر خویش بتا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

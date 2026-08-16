@@ -1,0 +1,58 @@
+{
+  "Id": 50098,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۳۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۳۸",
+  "FullUrl": "/mahsati/robmah/sh38",
+  "RhymeLetters": "ویت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده خود را به صورت نمادین به عناصر طبیعی و احساسات وابسته به عشق و بندگی توصیف می‌کند. او خود را به آب رود تشبیه می‌کند که در وجود محبوبش جاری است، به آتشی که در دلش شعله‌ور است، به خاکی که به زیر پای معشوق می‌افتد و به بادی که عطر محبوب را به او می‌رساند. این توصیف‌ها نشان‌دهنده‌ی عمیق‌ترین احساسات عشق و وابستگی او به محبوب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویت",
+      "PlainText": "من برخی آبی که رود در جویت\r\nمن مرده آتشی که دارد خویت\r\nمن چاکر خاکی که فتد در پایت\r\nمن بنده بادی که رساند بویت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن برخی آبی که رود در جویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن مردهٔ آتشی که دارد خویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن چاکر خاکی که فتد در پایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بندهٔ بادی که رساند بویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من برخی آبی که رود در جویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من مردهٔ آتشی که دارد خویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من چاکر خاکی که فتد در پایت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بندهٔ بادی که رساند بویت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

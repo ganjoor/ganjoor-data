@@ -1,0 +1,58 @@
+{
+  "Id": 101855,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/salim/divan/robaee/sh64",
+  "RhymeLetters": "نگ",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعر به موضوع فقر و کمبود می‌پردازد. او از کرم و بخشش خداوند یاد می‌کند و می‌گوید که همواره در فقر است و به دنبال عذر و دلیل برای دریافت نعمت‌هاست. شاعر به ناامیدی خود اشاره کرده و می‌پرسد که تا کی باید وعده‌های پوچ را بشنود، و در نهایت به این نکته می‌رسد که ممکن است وضع او به بدی تغییر کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگ",
+      "PlainText": "ای از کرم تو بخل دایم در تنگ\r\nکجواج رود به راه عذر تو چو لنگ\r\nتا کی به خزانه ام دهی وعده ی زر\r\nآتش به خزانه ی تو افتد چو تفنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از کرم تو بخل دایم در تنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجواج رود به راه، عذر تو چو لنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی به خزانه ام دهی وعده ی زر؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش به خزانه ی تو افتد چو تفنگ!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای از کرم تو بخل دایم در تنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کجواج رود به راه، عذر تو چو لنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا کی به خزانه ام دهی وعده ی زر؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتش به خزانه ی تو افتد چو تفنگ!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

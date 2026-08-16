@@ -1,0 +1,58 @@
+{
+  "Id": 84524,
+  "CatId": 2207,
+  "Title": "شمارهٔ  ۴",
+  "FullTitle": "نیر تبریزی » رباعیات » شمارهٔ  ۴",
+  "FullUrl": "/nayyer/robaee-nt/sh4",
+  "RhymeLetters": "اباید",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: شاعر ابراز می‌کند که هرگز خواب نمی‌بیند، چرا که یاد آن معشوق زیبا و دلربا در ذهنش همواره زنده است و او را به وجد می‌آورد. این معشوق به دل او می‌آید و زیبایی‌اش باعث می‌شود که حیات و شادابی را در وجودش احساس کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباید",
+      "PlainText": "حاشا که بچشم من شبی خواب آید\r\nچون یادم از آن طرۀ پرتاب آید\r\nگرد دلبر نوپری بیاید بر من\r\nتا حشر مرا ز دیده سرخاب آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاشا که بچشم من شبی خواب آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون یادم از آن طرّۀ پرتاب آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرد دلبر نوپری بیاید بر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا حشر مرا ز دیده سرخاب آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاشا که بچشم من شبی خواب آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون یادم از آن طرّۀ پرتاب آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرد دلبر نوپری بیاید بر من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا حشر مرا ز دیده سرخاب آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

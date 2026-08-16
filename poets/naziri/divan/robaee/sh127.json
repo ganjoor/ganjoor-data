@@ -1,0 +1,58 @@
+{
+  "Id": 123693,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۲۷",
+  "FullUrl": "/naziri/divan/robaee/sh127",
+  "RhymeLetters": "مگو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان این نکته می‌پردازد که درباره موضوعات پیچیده و غیرقابل فهم صحبت نکنیم. شاعر می‌گوید که انسان باید به کار خود بپردازد و به حقیقت وجودی خود آگاه باشد، بدون اینکه به جزییات بی‌فایده و پیچیده توجه کند. به عبارت دیگر، از پرداختن به مسائل غیرضروری و فلسفی پرهیز کنیم و به زندگی و کار خود ادامه دهیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مگو",
+      "PlainText": "آویز به طره از خم و پیچ مگو\r\nزان مصحف چهره گوی از زیج مگو\r\nاو تو شده است کار خود می سازد\r\nتو هیچ نیی هیچ مجو هیچ مگو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآویز به طره از خم و پیچ مگو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان مصحف چهره گوی از زیج مگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو تو شده است کار خود می سازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو هیچ نیی هیچ مجو هیچ مگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آویز به طره از خم و پیچ مگو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان مصحف چهره گوی از زیج مگو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او تو شده است کار خود می سازد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو هیچ نیی هیچ مجو هیچ مگو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82912,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/hazin/robaee-hz/sh24",
+  "RhymeLetters": "ارتوکجاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از امید و فصل بهار صحبت می‌کند و می‌پرسد که حال و روز این امید و باروریش کجاست. او به احساس ناپایداری خود اشاره می‌کند و از بی‌مکانی و غم که مانند دریا او را در بر گرفته، شکایت دارد. در نهایت، در جستجوی آرامش و نقطه‌ای برای رسیدن است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارتوکجاست",
+      "PlainText": "ای شاخ امید برگ و بار تو کجاست\r\nفصل تو کدام و نوبهار تو کجاست\r\nچون موج  تپیدنم به جایی نرسید\r\nای بحر محیط غم کنار تو کجاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاخ امید، برگ و بار تو کجاست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفصل تو کدام و نوبهار تو کجاست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون موج ، تپیدنم به جایی نرسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای بحر محیط غم، کنار تو کجاست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاخ امید، برگ و بار تو کجاست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فصل تو کدام و نوبهار تو کجاست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون موج ، تپیدنم به جایی نرسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای بحر محیط غم، کنار تو کجاست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50249,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۸۹",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۸۹",
+  "FullUrl": "/mahsati/robmah/sh189",
+  "RhymeLetters": "ترسایی",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مسیح (ع) اشاره می‌کند و از او می‌خواهد که بدون ترس به نزد او بیاید. او از مسیح می‌خواهد که گاهی چشمان او را با آستین خشک خود مرطوب کند و گاهی بر لبان خشک او بوسه‌ای بزند. این ابیات به نوعی longing و آرزو برای نزدیکی و همراهی با مسیح را نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ترسایی",
+      "PlainText": "ای بت به سر مسیح اگر ترسایی\r\nخواهم که به نزد ما تو بی ترس آیی\r\nگه چشم ترم به آستین خشک کنی\r\nگه بر لب خشک من لب تر سایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بت به سرِ مسیح اگر ترسایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهم که به نزد ما تو بی‌ترس آیی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه چشم ترم به آستین خشک کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه بر لبِ خشک من لبِ تر سایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بت به سرِ مسیح اگر ترسایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواهم که به نزد ما تو بی‌ترس آیی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه چشم ترم به آستین خشک کنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گه بر لبِ خشک من لبِ تر سایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

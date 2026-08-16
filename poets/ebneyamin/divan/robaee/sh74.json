@@ -1,0 +1,58 @@
+{
+  "Id": 93840,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/ebneyamin/divan/robaee/sh74",
+  "RhymeLetters": "نفرقینیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به زیبایی و شکوه معشوق خود اشاره می‌کند. او می‌گوید که هیچ تفاوتی بین زیبایی‌های معشوق و زیبایی‌های طبیعت، مانند سمن و سرو، وجود ندارد. حتی وقتی که معشوق مویش را با دقت تقسیم می‌کند، هنوز هم هیچ تفاوتی بین موی او و مشک ختن دیده نمی‌شود. به عبارت دیگر، زیبایی معشوق بی‌همتاست و به قدری پر魅ت است که نمی‌توان آن را با هیچ چیز دیگری مقایسه کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نفرقینیست",
+      "PlainText": "از روی تو با برگ سمن فرقی نیست\r\nوز قد تو تا سرو چمن فرقی نیست\r\nهر چند بشانه میکنی فرق دو نیم\r\nاز موی تو تا مشک ختن فرقی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز روی تو با برگ سمن فرقی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز قد تو تا سرو چمن فرقی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند بشانه میکنی فرق دو نیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز موی تو تا مشک ختن فرقی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از روی تو با برگ سمن فرقی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز قد تو تا سرو چمن فرقی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چند بشانه میکنی فرق دو نیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از موی تو تا مشک ختن فرقی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 114021,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۴۸",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۴۸",
+  "FullUrl": "/jahan/divan/robaee/sh148",
+  "RhymeLetters": "ار",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی‌های بهار و عشق اشاره می‌کند. او می‌گوید که در این فصل، بلبل و گل به سر می‌رسند و او به دنبال آرامش و عشق در کنار جوی است. او بر خوش‌اقبالی کسانی که به عشقشان دسترسی دارند تبریک می‌گوید و به حال کسانی که از یار خود دورند، افسوس می‌خورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "آمد گه بلبل و گل و فصل بهار\r\nخواهم لب جوی و خلوت و بوس و کنار\r\nخرم تن آنکه بخت یارش باشد\r\nمسکین دل آنکه دور باشد از یار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد گه بلبل و گل و فصل بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهم لب جوی و خلوت و بوس و کنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرّم تن آنکه بخت یارش باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسکین دل آنکه دور باشد از یار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد گه بلبل و گل و فصل بهار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواهم لب جوی و خلوت و بوس و کنار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرّم تن آنکه بخت یارش باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مسکین دل آنکه دور باشد از یار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

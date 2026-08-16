@@ -1,0 +1,58 @@
+{
+  "Id": 74590,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/ghodsi/robghm/sh49",
+  "RhymeLetters": "اخت",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به نوعی از بی‌ثباتی و نامعلومی اشاره دارد. شاعر می‌گوید که جان انسان در فواصل زمانی مختلف از عشق الهام می‌گیرد و دوباره آن را از دست می‌دهد. جسم نیز گاهی قوی و گاهی ضعیف می‌شود. عشق به حقیقت، نه به‌راحتی دیده می‌شود و نه در دل انسان به خوبی درک می‌شود و گویی کسی نمی‌تواند آن را بشناسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اخت",
+      "PlainText": "جان از تو دمی برد دمی دیگر باخت\r\nتن از تو گهی قوی شد و گاه گداخت\r\nنه در نظر آیی و نه در دل گنجی\r\nای عشق حقیقت تو را کس نشناخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان از تو دمی برد دمی دیگر باخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن از تو گهی قوی شد و گاه گداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه در نظر آیی و نه در دل گنجی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای عشق، حقیقت تو را کس نشناخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان از تو دمی برد دمی دیگر باخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تن از تو گهی قوی شد و گاه گداخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه در نظر آیی و نه در دل گنجی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای عشق، حقیقت تو را کس نشناخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

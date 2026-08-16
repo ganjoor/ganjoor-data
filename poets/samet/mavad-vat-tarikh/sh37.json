@@ -1,0 +1,77 @@
+{
+  "Id": 125572,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۳۷",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۳۷",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh37",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت اعلام می‌کند که نه کار بدی انجام می‌دهد و نه به ایمان خودش اطمینان دارد. او نه ویژگی‌های یک مومن و نه یک مسلمان را در خود حس می‌کند. با این حال، او محبت و عشق به علی (علیه‌السلام) را در دل دارد و تا زمانی که زنده است، این محبت را رها نخواهد کرد.",
+  "Sections": [
+    {
+      "Index": 52,
+      "Number": 52,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ماندارم",
+      "PlainText": "نه کار بدین و نه به ایمان دارم\r\nنه خصلت مومن نه مسلمان دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه کار بدین و نه به ایمان دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه خصلت مومن نه مسلمان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 53,
+      "Number": 53,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "دامان محبت علی را اما\r\nبیرون ننکم ز دست تا جان دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامان محبت علی را اما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون ننکم ز دست تا جان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 106,
+      "Number": 106,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندارم",
+      "PlainText": "نه کار بدین و نه به ایمان دارم\r\nنه خصلت مومن نه مسلمان دارم\r\nدامان محبت علی را اما\r\nبیرون ننکم ز دست تا جان دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه کار بدین و نه به ایمان دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه خصلت مومن نه مسلمان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامان محبت علی را اما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون ننکم ز دست تا جان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه کار بدین و نه به ایمان دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 106,
+      "SectionIndex2": 52
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه خصلت مومن نه مسلمان دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 106,
+      "SectionIndex2": 52
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دامان محبت علی را اما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 106,
+      "SectionIndex2": 53
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیرون ننکم ز دست تا جان دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 106,
+      "SectionIndex2": 53
+    }
+  ]
+}

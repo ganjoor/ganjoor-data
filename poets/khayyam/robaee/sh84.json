@@ -1,0 +1,58 @@
+{
+  "Id": 1202,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۸۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۸۴",
+  "FullUrl": "/khayyam/robaee/sh84",
+  "RhymeLetters": "ازیدارد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که هرچند که غم و رنج او مدت زیادی است که ادامه دارد، شادی و سروری معشوق او نیز به جا و ارزشمند است. اما توصیه می‌کند که نباید به هیچ‌کدام از این احساسات تکیه کرد، زیرا چرخ روزگار همیشه در حال تغییر و نوسان است و بازی‌های مختلفی در آن وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازیدارد",
+      "PlainText": "گرچه غم و رنج من درازی دارد\r\nعیش و طرب تو سرفرازی دارد\r\nبر هر دو مکن تکیه که دوران فلک\r\nدر پرده هزار گونه بازی دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه غم و رنج من درازی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیش و طرب تو سرفرازی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر هر دو مکن تکیه که دوران فلک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پرده هزار گونه بازی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه غم و رنج من درازی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عیش و طرب تو سرفرازی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر هر دو مکن تکیه که دوران فلک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در پرده هزار گونه بازی دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

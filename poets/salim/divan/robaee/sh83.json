@@ -1,0 +1,58 @@
+{
+  "Id": 101874,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۳",
+  "FullUrl": "/salim/divan/robaee/sh83",
+  "RhymeLetters": "راجشده",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به کسی اشاره می‌کند که معانی و مفاهیم به او وابسته‌اند. او می‌گوید که ناموس و اصول سخن از او دزدیده شده و هیچ ارتباطی به نظم و نثرش ندارد؛ زیرا معنای واقعی از قلمرو او خارج شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راجشده",
+      "PlainText": "ای آن که معانی ز تو محتاج شده\r\nناموس سخن از تو به تاراج شده\r\nربطی نبود به نظم و نثرت گویی\r\nمعنی ز قلمرو تو اخراج شده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آن که معانی ز تو محتاج شده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناموس سخن از تو به تاراج شده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eربطی نبود به نظم و نثرت، گویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعنی ز قلمرو تو اخراج شده!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که معانی ز تو محتاج شده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناموس سخن از تو به تاراج شده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ربطی نبود به نظم و نثرت، گویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معنی ز قلمرو تو اخراج شده!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

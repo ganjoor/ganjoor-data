@@ -1,0 +1,58 @@
+{
+  "Id": 119073,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۵۲",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۵۲",
+  "FullUrl": "/azar/divan/robaee/sh152",
+  "RhymeLetters": "رزین",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، وقتی شاهاتا پیاده می‌شود، فرزین و پیلت با دو اسب به راه می‌افتند. ستاره‌ای خوشگل می‌خندد و این صحنه را زیباتر می‌کند، مانند آذر برزین که ویرانگر و آتشین است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رزین",
+      "PlainText": "شاهاتا کی پیاده ماند فرزین\r\nپیلت در پویه با دو اسبت در زین\r\nخندد برخش اختر و چه خوشتر ازین\r\nکآذر برزین بود چو آذر برزین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها!تا کی پیاده ماند فرزین؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیلت در پویه با دو، اسبت در زین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخندد برخش اختر و، چه خوشتر ازین؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآذر برزین بود، چو آذر برزین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها!تا کی پیاده ماند فرزین؟!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیلت در پویه با دو، اسبت در زین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خندد برخش اختر و، چه خوشتر ازین؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآذر برزین بود، چو آذر برزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 74603,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۶۲",
+  "FullUrl": "/ghodsi/robghm/sh62",
+  "RhymeLetters": "ست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به وضعیت مجنون اشاره می‌کند که به خاطر عشقش در جهان مشهور و رسوا شده است. او همچنین می‌گوید که افشای راز عشق، چیزی است که تنها با زبان خاصی بیان می‌شود. ژولیدگی موهای مجنون نشان‌دهنده عشق اوست و به نحوی عیب نیست، بلکه نشانه‌ای از حالتی متفاوت و ویژه است که عشق دیوانه‌وار را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "مجنون تو رسوای جهان دگرست\r\nافشاگر این راز زبان دگرست\r\nژولیدگی مو نبرد عیب خرد\r\nدیوانه عشق را نشان دگر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجنون تو رسوای جهان دگرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافشاگر این راز، زبان دگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eژولیدگی مو نبرد عیب خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیوانه عشق را نشان دگر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مجنون تو رسوای جهان دگرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افشاگر این راز، زبان دگرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ژولیدگی مو نبرد عیب خرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیوانه عشق را نشان دگر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

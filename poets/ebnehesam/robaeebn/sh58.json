@@ -1,0 +1,58 @@
+{
+  "Id": 64855,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۵۸",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۵۸",
+  "FullUrl": "/ebnehesam/robaeebn/sh58",
+  "RhymeLetters": "امیخویش",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به خودکامگی‌های انسان اشاره می‌کند و می‌گوید که به خاطر نادانی خود مستحق آتش عذاب هستند. او از خداوند می‌خواهد که در روز قیامت او را فراموش نکند و به حق، نامش را به یاد داشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیخویش",
+      "PlainText": "ماییم و هزار گونه خودکامی خویش\r\nمستوجب آتشیم از خامی خویش\r\nای شاه رسل مرا فرو نگذاری\r\nدر روز جزا به حق هم نامی خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماییم و هزار گونه خودکامی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمستوجب آتشیم از خامی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه رسل مرا فرو نگذاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر روز جزا به حق هم نامی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماییم و هزار گونه خودکامی خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مستوجب آتشیم از خامی خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای شاه رسل مرا فرو نگذاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در روز جزا به حق هم نامی خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

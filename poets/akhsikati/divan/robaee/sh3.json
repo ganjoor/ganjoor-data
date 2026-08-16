@@ -1,0 +1,58 @@
+{
+  "Id": 116129,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/akhsikati/divan/robaee/sh3",
+  "RhymeLetters": "اننداورا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به موضوع قضا و سرنوشت اشاره می‌کند. او می‌گوید که انسان‌ها محکوم به سرنوشت خود هستند و نمی‌توانند بر آن تأثیر بگذارند. همچنین اشاره می‌کند که اگر چرخ زندگی به دلخواه تو نمی‌چرخد، ناراحت نشو، زیرا طبیعت هم همچنان بر اساس قوانین خود پیش می‌رود و هیچ‌کس نمی‌تواند آن را تغییر دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننداورا",
+      "PlainText": "محکوم قضا که بنده خوانند او را\r\nبر بالش حکم کی نشانند او را\r\nگر چرخ نمیرود به کام تو مرنج\r\nکو نیز چنان رود که رانند او را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحکوم قضا، که بنده خوانند او را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر بالش حکم، کی نشانند او را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چرخ نمیرود به کام تو، مرنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو نیز چنان رود، که رانند او را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "محکوم قضا، که بنده خوانند او را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر بالش حکم، کی نشانند او را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر چرخ نمیرود به کام تو، مرنج",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو نیز چنان رود، که رانند او را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

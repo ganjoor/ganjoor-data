@@ -1,0 +1,63 @@
+{
+  "Id": 52077,
+  "CatId": 1849,
+  "Title": "فقرۀ ۹۱",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۹۱",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh83",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به اهمیت انتخاب همسر مناسب و دانایانه در زندگی اشاره دارد. شاعر می‌گوید که اگر دختری را به مردی زیرک و دانا بدهی، مانند زمین خوب است که بذرهای خوب در آن کاشته می‌شود و به نتیجه‌ مطلوبی می‌رسد. بنابراین، اگر دختری در دسترس داری، بهتر است او را به فردی با دانش و معرفت بدهی، چرا که مردان دانا مانند خاک خوب هستند که می‌توانند هر نوع گیاهی را در خود پرورش دهند.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ک",
+      "PlainText": "گرت هست دختر به داننده ده\r\nز هر شوهری شوی داننده به\r\nبود مرد داننده چون خوب خاک\r\nکه در وی نشانند هرگونه تاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرت هست دختر، به داننده ده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز هر شوهری شوی داننده به\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود مرد داننده چون خوب خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در وی نشانند هرگونه تاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "دخت خود را به زیرک و دانا مرد ده‌، چه زیرک و دانا مرد هر آینه چون زمین نیکوست‌. کجا تخم بدو افکند و از او بس جورتاک (‌؟‌) اندر آید.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "گرت هست دختر، به داننده ده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "ز هر شوهری شوی داننده به",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "بود مرد داننده چون خوب خاک",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "که در وی نشانند هرگونه تاک",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83217,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۵۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh56",
+  "RhymeLetters": "وداینجا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساسات عمیق یک فرد است که در جستجوی تسکین از درد و غم خود می‌باشد. او در اینجا از می و موسیقی صحبت می‌کند، اما با وجود این وسایل تسکین، غمش افزایش یافته است. همچنین، او به رقیبان خود اشاره کرده و احساس تنهایی و درد را در مقایسه با دیگران بیان می‌کند، که به وضوح تصویر می‌کند که در همین حال که در کنار دیگران است، خود را در آتش عشق و غم احساس می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وداینجا",
+      "PlainText": "غم دل از می و مطرب مرا فزود اینجا\r\nترانه را چه اثر باده را چه سود اینجا\r\nتو در کنار رقیبانی و من آه کشم\r\nعجب که آتشم آنجا فتاده دود اینجا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم دل از می و مطرب مرا فزود اینجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترانه را چه اثر؟ باده را چه سود اینجا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو در کنار رقیبانی و من آه کشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب که آتشم آنجا فتاده دود اینجا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم دل از می و مطرب مرا فزود اینجا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترانه را چه اثر؟ باده را چه سود اینجا؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو در کنار رقیبانی و من آه کشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عجب که آتشم آنجا فتاده دود اینجا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

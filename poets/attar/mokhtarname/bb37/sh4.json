@@ -1,0 +1,58 @@
+{
+  "Id": 35613,
+  "CatId": 838,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "عطار » مختارنامه » باب سی و هفتم: در صفت خط و خال معشوق » شمارهٔ ۴",
+  "FullUrl": "/attar/mokhtarname/bb37/sh4",
+  "RhymeLetters": "ش",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به شخصی زیبا و جادوئی خطاب می‌کند و می‌گوید که دلش را به او داده است. اما شخص زیبا پاسخ می‌دهد که او دل را به دست نیاورده و نمی‌تواند کاری کند. سپس شاعر می‌گوید که زیبایی او مانند آتش و دود است، اما او در پاسخ اشاره می‌کند که بینش شاعر به سبب عشقش به او، باعث شده که تنها دود ببیند و حوادث را به شکل آتش تصور کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ش",
+      "PlainText": "گفتم دل من ببردی ای جادو وش\r\nگفتا چکنم تو دل ندادی خوش خوش\r\nگفتم رخت آتش است و خطت دودست\r\nگفتا که تو دود دیدهای از آتش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: دل من ببردی ای جادو وش!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا: چکنم تو دل ندادی خوش خوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: رخت آتش است و خطّت دودست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا که تو دود دیدهای از آتش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم: دل من ببردی ای جادو وش!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا: چکنم تو دل ندادی خوش خوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم: رخت آتش است و خطّت دودست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتا که تو دود دیدهای از آتش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

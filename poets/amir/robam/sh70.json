@@ -1,0 +1,58 @@
+{
+  "Id": 70113,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/amir/robam/sh70",
+  "RhymeLetters": "رباشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف ورود شاه به میدان نبرد و تأثیر آن بر زمین و آسمان می‌پردازد. با آغاز حرکت شاه، خیمه‌هایی از دجله تا جیحون برپا می‌شود و زمین به خاطر شدت این حرکت به لرزه در می‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونزد",
+      "PlainText": "چون شاه سرای پرده بر هامون زد\r\nاز دجله و نیل خیمه تا جیحون زد\r\nچون باره تازی از میان بیرون زد\r\nکیمخت زمین ز گرد بر گردون زد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شاه سرای پرده بر هامون زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دجله و نیل خیمه تا جیحون زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بارهٔ تازی از میان بیرون زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکیمخت زمین ز گَرد بر گردون زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شاه سرای پرده بر هامون زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دجله و نیل خیمه تا جیحون زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون بارهٔ تازی از میان بیرون زد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کیمخت زمین ز گَرد بر گردون زد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119070,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۴۹",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۴۹",
+  "FullUrl": "/azar/divan/robaee/sh149",
+  "RhymeLetters": "وزاستببین",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از شدت درد و سوزی که به خاطر جدایی از معشوقش دارد، صحبت می‌کند. او می‌گوید که در دلش آتش شعله‌وری وجود دارد و عشق و دلتنگی‌اش را به تصویر می‌کشد. همچنین به وضعیت دلش اشاره می‌کند که در شب وصال معشوقش چقدر خوشحال بوده و اکنون به خاطر جدایی، روزهایش تلخ و دشوار شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزاستببین",
+      "PlainText": "در دل آهم شعله فروز است ببین\r\nدر سینه ز داغ تو چه سوز است ببین\r\nحال دل من که دیده بودی شب وصل\r\nامشب ز فراقت بچه روز است ببین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دل آهم شعله فروز است ببین!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سینه ز داغ تو، چه سوز است ببین!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحال دل من، که دیده بودی شب وصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامشب ز فراقت بچه روز است ببین!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دل آهم شعله فروز است ببین!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سینه ز داغ تو، چه سوز است ببین!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حال دل من، که دیده بودی شب وصل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امشب ز فراقت بچه روز است ببین!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

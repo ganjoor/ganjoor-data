@@ -1,0 +1,58 @@
+{
+  "Id": 119067,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۴۶",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۴۶",
+  "FullUrl": "/azar/divan/robaee/sh146",
+  "RhymeLetters": "نمن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بخش از شعر، شاعر به زیبایی و جذابیت یک معشوق اشاره می‌کند که با دست‌های زیبا و هنرمندش بر گردن شاعر گردن‌بند می‌آویزد. این گردن‌بند به نوعی بار گناه و یا عیوب معشوق را به گردن شاعر می‌گذارد، به این معنا که هر خطایی که معشوق انجام داده، حالا بر دوش شاعر قرار گرفته است. به عبارت دیگر، عشق و زیبایی معشوق باعث باروری این احساسات و مسئولیت‌ها شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمن",
+      "PlainText": "دی دست نگارین بت سیمین تن من\r\nبر گردن من فگند و شد رهزن من\r\nهر جرم که بر گردن از آن دستش بود\r\nاز گردن خود فگند بر گردن من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی دست نگارین بت سیمین تن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گردن من فگند و شد رهزن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جرم که بر گردن از آن دستش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گردن خود فگند بر گردن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی دست نگارین بت سیمین تن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر گردن من فگند و شد رهزن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جرم که بر گردن از آن دستش بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از گردن خود فگند بر گردن من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

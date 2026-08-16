@@ -1,0 +1,78 @@
+{
+  "Id": 76932,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۱۸",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۱۸",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh18",
+  "RhymeLetters": "ابنیست",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این مفهوم است که هیچ‌کس نمی‌تواند از سرنوشت خود فرار کند. تلاش و کوشش انسان‌ها به تنهایی نمی‌تواند از مرگ جلوگیری کند. هر روز، مرگ به‌نحو نامحسوس به انسان‌ها نزدیک می‌شود و زمانی که قسمت آنان فرا برسد، آن را به‌طور ناگهانی دریافت خواهند کرد.",
+  "Sections": [
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "با سعی و عمل کس از اجل نگریزد\r\nبا جنگ و جدل کسی بوی نستیزه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا سعی و عمل کس از اجل نگریزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا جنگ و جدل کسی بوی نستیزه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "هر روز به مردمان اجل کرده کمین\r\nپیمانه هر که پر شود می ریزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر روز به مردمان اجل کرده کمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمانه هر که پر شود می‌ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 85,
+      "Number": 85,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "با سعی و عمل کس از اجل نگریزد\r\nبا جنگ و جدل کسی بوی نستیزه\r\nهر روز به مردمان اجل کرده کمین\r\nپیمانه هر که پر شود می ریزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا سعی و عمل کس از اجل نگریزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا جنگ و جدل کسی بوی نستیزه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر روز به مردمان اجل کرده کمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمانه هر که پر شود می‌ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با سعی و عمل کس از اجل نگریزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 85,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با جنگ و جدل کسی بوی نستیزه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 85,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر روز به مردمان اجل کرده کمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 85,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیمانه هر که پر شود می‌ریزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 85,
+      "SectionIndex2": 16
+    }
+  ]
+}

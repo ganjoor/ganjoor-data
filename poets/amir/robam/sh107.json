@@ -1,0 +1,58 @@
+{
+  "Id": 70150,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۰۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۰۷",
+  "FullUrl": "/amir/robam/sh107",
+  "RhymeLetters": "ور",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به حس دشمنی و قهر اشاره دارد و بیان می‌کند که دشمنان در تلاش‌اند تا بر دنیا تسلط یافته و بر مردم اثر بگذارند. همچنین اشاره می‌شود که شکر و قدردانی در هر شهری به عنوان یک فریضه مهم است، به‌ویژه در دیاری خاص که به ماورالنهر معروف است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هراندر",
+      "PlainText": "ای دشمن تو به قبضه قهر اندر\r\nرای تو بصر به دیده دهر اندر\r\nشکر تو فریضه  ست به  هر شهر اندر\r\nخاصه به دیار ماورالنهر اندر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دشمن تو به قبضهٔ قهر اندر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرای تو بصر به دیدهٔ دهر اندر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکر تو فریضه‌ ست به‌ هر شهر اندر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاصه به دیار ماوَرَالنَّهر اندر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دشمن تو به قبضهٔ قهر اندر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رای تو بصر به دیدهٔ دهر اندر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکر تو فریضه‌ ست به‌ هر شهر اندر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاصه به دیار ماوَرَالنَّهر اندر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

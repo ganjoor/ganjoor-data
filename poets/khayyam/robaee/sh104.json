@@ -1,0 +1,58 @@
+{
+  "Id": 1222,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۰۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۰۴",
+  "FullUrl": "/khayyam/robaee/sh104",
+  "RhymeLetters": "ار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی انسان‌هاست که به خاک و قبر تبدیل شده‌اند و با مرگ خود به گرد و غبار پیوسته‌اند. هر ذره از آن‌ها با دیگر ذرات ارتباط دارد و متوجه حال خود نیستند. شاعر به نوعی به شراب بی‌خبری اشاره می‌کند که افراد را به حالت مستی رسانده و آن‌ها از همه چیز غافلند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "این اهل قبور خاک گشتند و غبار\r\nهر ذره ز هر ذره گرفتند کنار\r\nآه این چه شراب است که تا روز شمار\r\nبیخود شده و بی خبرند از همه کار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین اهل قبور خاک گشتند و غبار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر ذره ز هر ذره گرفتند کنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه این چه شراب است که تا روز شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیخود شده و بی‌خبرند از همه کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این اهل قبور خاک گشتند و غبار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر ذره ز هر ذره گرفتند کنار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آه این چه شراب است که تا روز شمار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیخود شده و بی‌خبرند از همه کار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

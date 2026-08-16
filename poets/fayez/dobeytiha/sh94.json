@@ -1,0 +1,58 @@
+{
+  "Id": 68224,
+  "CatId": 2021,
+  "Title": "دوبیتی شمارهٔ ۹۴",
+  "FullTitle": "فایز » دوبیتی‌ها » دوبیتی شمارهٔ ۹۴",
+  "FullUrl": "/fayez/dobeytiha/sh94",
+  "RhymeLetters": "اختممن",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: شاعر به باغی می‌رود و در آنجا به یک گل تازه نگاه می‌کند. او از اینکه دلبرش را نشناخته و به طرز ناامیدکننده‌ای از آن غافل شده است، احساس تأسف می‌کند و دعا می‌کند که ای کاش چشمش کور می‌شد تا این ناکامی را احساس نمی‌کرد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اختممن",
+      "PlainText": "به سیر باغ رفتم باختم من\r\nنظر بر نوگلی انداختم من\r\nالهی دیده فایز شود کور\r\nکه دلبر آمد و نشناختم من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سیر باغ رفتم باختم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظر بر نوگلی انداختم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالهی دیده فایز شود کور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دلبر آمد و نشناختم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به سیر باغ رفتم باختم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نظر بر نوگلی انداختم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "الهی دیده فایز شود کور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دلبر آمد و نشناختم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

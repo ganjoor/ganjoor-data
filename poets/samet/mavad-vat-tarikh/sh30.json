@@ -1,0 +1,77 @@
+{
+  "Id": 125565,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۳۰",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۳۰",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh30",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از رنج و ناامیدی خود نسبت به اطرافیانش سخن می‌گوید. او احساس می‌کند که از محبت دیگران محروم شده و در نتیجه، به شدت از زندگی رنج می‌برد. همچنین، او به خاطر این ناامیدی، به شدت آسیب‌پذیر شده و احساس می‌کند که همه چیز را از دست داده است.",
+  "Sections": [
+    {
+      "Index": 38,
+      "Number": 38,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یدم",
+      "PlainText": "ز ابنای زمانه آنچنان رنجیدم\r\nکز لطف کسان بریده شد امیدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز ابنای زمانه آنچنان رنجیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز لطف کسان بریده شد امیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 39,
+      "Number": 39,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "ده ناخن من تمام بر ریشه فتاد\r\nاز چند که پنبه قبا برچیدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eده ناخن من تمام بر ریشه فتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چند که پنبه قبا برچیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 93,
+      "Number": 93,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدم",
+      "PlainText": "ز ابنای زمانه آنچنان رنجیدم\r\nکز لطف کسان بریده شد امیدم\r\nده ناخن من تمام بر ریشه فتاد\r\nاز چند که پنبه قبا برچیدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز ابنای زمانه آنچنان رنجیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز لطف کسان بریده شد امیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eده ناخن من تمام بر ریشه فتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چند که پنبه قبا برچیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز ابنای زمانه آنچنان رنجیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 93,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز لطف کسان بریده شد امیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 93,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ده ناخن من تمام بر ریشه فتاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 93,
+      "SectionIndex2": 39
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از چند که پنبه قبا برچیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 93,
+      "SectionIndex2": 39
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 75143,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۶۰۲",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۶۰۲",
+  "FullUrl": "/ghodsi/robghm/sh602",
+  "RhymeLetters": "نپرهیزی",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به رابطه انسانی و عشق اشاره دارد. شاعر به کسی که به او علاقه‌مند است، می‌گوید که تو مانند شمعی هستی که از انجمن دوری می‌کنی، و با اینکه جانم با تو یکی است، اما تو از من فاصله می‌گیری. این فاصله باعث می‌شود که شاعر به این فکر کند که آیا باید از خودش و هویتش هم پرهیز کند تا به او نزدیک‌تر شود. مجموعاً، شعر احساس تنهایی و عشق ناتمام را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نپرهیزی",
+      "PlainText": "شمعی تو ولی ز انجمن پرهیزی\r\nجانی و ز صحبت بدن پرهیزی\r\nمن با تو یکی و تو ز من پرهیزی\r\nمن بعد مگر ز خویشتن پرهیزی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمعی تو، ولی ز انجمن پرهیزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانی و ز صحبت بدن پرهیزی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن با تو یکیّ و تو ز من پرهیزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بعد مگر ز خویشتن پرهیزی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمعی تو، ولی ز انجمن پرهیزی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانی و ز صحبت بدن پرهیزی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من با تو یکیّ و تو ز من پرهیزی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بعد مگر ز خویشتن پرهیزی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

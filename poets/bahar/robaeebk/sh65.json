@@ -1,0 +1,58 @@
+{
+  "Id": 51788,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۶۵",
+  "FullUrl": "/bahar/robaeebk/sh65",
+  "RhymeLetters": "وننشدی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: گویا شاعر آرزو می‌کند که دلش به دوست علاقه‌مند نمی‌شد، چون شخصی که به عشق مجنون است، به خاطر جدایی از محبوبش رنج می‌برد و این رنج باعث می‌شود که او در شرایط سختی قرار داشته باشد. به نوعی، شاعر از درد و رنج عشق و جدایی واهمه دارد و دوست دارد که از این احساسات دور بماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وننشدی",
+      "PlainText": "ای کاش دلم به دوست مفتون نشدی\r\nچون  مفتون  شد ز هجر مجنون نشدی\r\nچون  مجنون  شد ز رنج پر خون نشدی\r\nچون  پر خون شد ز دیده  بیرون نشدی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کاش دلم به دوست مفتون نشدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون‌ مفتون‌ شد ز هجر مجنون نشدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون‌ مجنون‌ شد ز رنج پر خون نشدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون‌ پر خون شد ز دیده‌ بیرون نشدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کاش دلم به دوست مفتون نشدی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون‌ مفتون‌ شد ز هجر مجنون نشدی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون‌ مجنون‌ شد ز رنج پر خون نشدی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون‌ پر خون شد ز دیده‌ بیرون نشدی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

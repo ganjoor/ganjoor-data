@@ -1,0 +1,58 @@
+{
+  "Id": 119103,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۸۲",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۸۲",
+  "FullUrl": "/azar/divan/robaee/sh182",
+  "RhymeLetters": "اهمبینی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به احساسی از شرمندگی و توبه اشاره می‌کند. او می‌گوید که وقتی فردا به نامه‌ی گناهانش نگاه می‌کند، از شرم عذرخواهی خواهد کرد. او احساس می‌کند که گناهانش در برابر عفو و رحمت خدا بزرگ است و در نهایت، خدا نیز باید او را ببخشد. در واقع، شاعر به نوعی دیالوگ میان خودش و خدا اشاره می‌کند و به اهمیت عفو و رحمت در برابر خطاها توجه می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهمبینی",
+      "PlainText": "فردا چو بنامه ی سیاهم بینی\r\nوز شرم گناه عذر خواهم بینی\r\nمن در خور جرم خویش عفوت بینم\r\nتو در خور عفو خود گناهم بینی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا چو بنامه ی سیاهم بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز شرم گناه عذر خواهم بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن در خور جرم خویش، عفوت بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو در خور عفو خود، گناهم بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فردا چو بنامه ی سیاهم بینی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز شرم گناه عذر خواهم بینی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من در خور جرم خویش، عفوت بینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو در خور عفو خود، گناهم بینی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

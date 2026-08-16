@@ -1,0 +1,58 @@
+{
+  "Id": 31360,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۹۰۲",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۹۰۲",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1902",
+  "RhymeLetters": "انی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی‌های طبیعت و باغ‌ها می‌پردازد. عالم به رنگ سبز درآمده و گل‌ها با چهره‌های خندان نمایان هستند. در هر سو درخشندگی و زیبایی وجود دارد و همه جا جانی پر از زندگی و انرژی حس می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انی",
+      "PlainText": "عالم سبز است و هر طرف بستانی\r\nاز عکس جمال گل رخی خندانی\r\nهر سو گهریست مشتعل از کانی\r\nهر سو جانیست متصل با جانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم سبز است و هر طرف بستانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عکس جمال گل‌رخی خندانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر سو گهریست مشتعل از کانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر سو جانیست متصل با جانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالم سبز است و هر طرف بستانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عکس جمال گل‌رخی خندانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر سو گهریست مشتعل از کانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر سو جانیست متصل با جانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

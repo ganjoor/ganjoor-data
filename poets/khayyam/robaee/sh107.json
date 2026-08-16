@@ -1,0 +1,58 @@
+{
+  "Id": 1225,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۰۷",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۰۷",
+  "FullUrl": "/khayyam/robaee/sh107",
+  "RhymeLetters": "ار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "شاعر در بازار کوزه‌گری را می‌بیند که به یک تکه گل لگد می‌زند. گل با زبان حال خود به او می‌گوید که من نیز مانند تو بوده‌ام مرا نیکو و محترم بدار.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "دی کوزه گری بدیدم اندر بازار\r\nبر پاره گلی لگد همی زد بسیار\r\nوآن گل به زبان حال با او می گفت\r\nمن همچو تو بوده ام مرا نیکودار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی کوزه‌گری بدیدم اندر بازار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر پاره گلی لگد همی زد بسیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن گل به زبان حال با او می‌گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن همچو تو بوده‌ام مرا نیکودار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی کوزه‌گری بدیدم اندر بازار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر پاره گلی لگد همی زد بسیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وآن گل به زبان حال با او می‌گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من همچو تو بوده‌ام مرا نیکودار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

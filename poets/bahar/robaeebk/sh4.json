@@ -1,0 +1,58 @@
+{
+  "Id": 51727,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/bahar/robaeebk/sh4",
+  "RhymeLetters": "ست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مقایسه وضعیت انسان‌ها در زندگی می‌پردازد. او می‌گوید مخلوقیات مثل گرگ هستند؛ زمانی که انسان ضعیف و ناتوان است، همه به او حمله‌ور می‌شوند و سست و ضعیف به نظر می‌آیند. اما زمانی که انسان قوی و توانمند می‌شود، دیگران هم به سختی در برابر او می‌ایستند و از او می‌ترسند. این به نوعی نشان‌دهنده تناقض‌های قدرت و ضعف در روابط انسانی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "مخلوق جهان به گرگ مانند درست\r\nبا قادر عاجزند و بر عاجز چست\r\nسستند به گیرودار چون باشی سخت\r\nسختند به کارزار چون باشی سست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمخلوق جهان به گرگ مانند درست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا قادر عاجزند و بر عاجز چست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسستند به گیرودار چون باشی سخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسختند به کارزار چون باشی سست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مخلوق جهان به گرگ مانند درست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با قادر عاجزند و بر عاجز چست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سستند به گیرودار چون باشی سخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سختند به کارزار چون باشی سست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

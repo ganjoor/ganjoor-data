@@ -1,0 +1,58 @@
+{
+  "Id": 99007,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۳۹",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh39",
+  "RhymeLetters": "ونمیبیند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به عشق اشاره می‌کند که باعث ایجاد حالت‌های متضاد در دل و جان او شده است. از یک سو، این عشق موجب جنون و هیجان شده و از سوی دیگر، در سینه او حس سکون و آرامش را به وجود آورده است. او به این تناقضات درونی اشاره می‌کند و می‌خواهد ببیند که جان و دلش چگونه این دو حالت متضاد را تجربه می‌کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونمیبیند",
+      "PlainText": "از عشق تو جان من جنون می بیند\r\nدر سینه من ازو سکون می بیند\r\nدر یک حالت دو ضد آرام و جنون\r\nجان و دل من نگر که چون می بیند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز عشق تو جان من جنون می بیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سینهٔ من ازو سکون می بیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر یک حالت دو ضد آرام و جنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان و دل من نگر که چون می بیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عشق تو جان من جنون می بیند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سینهٔ من ازو سکون می بیند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در یک حالت دو ضد آرام و جنون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان و دل من نگر که چون می بیند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

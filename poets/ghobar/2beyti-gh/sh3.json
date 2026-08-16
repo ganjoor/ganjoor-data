@@ -1,0 +1,58 @@
+{
+  "Id": 84003,
+  "CatId": 2195,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "غبار همدانی » دوبیتی‌ها » شمارهٔ ۳",
+  "FullUrl": "/ghobar/2beyti-gh/sh3",
+  "RhymeLetters": "رنیست",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به خداوند خطاب می‌کند و می‌گوید که چون نمی‌توانم گناهانم را بشمارم، مطمئن هستم که عذرم پذیرفته نخواهد شد. او فقط از لطف خداوند خواهش دارد که ببیند هیچ‌کس جز او در دوزخ نیست.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رنیست",
+      "PlainText": "الهی چون گناهم را شمر نیست\r\nیقین دانم که عذرم را ثمر نیست\r\nز لطفت این تمنا دارم و بس\r\nکه بینم غیر من کس در سقر نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالهی چون گناهم را شمر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیقین دانم که عذرم را ثمر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز لطفت این تمنّا دارم و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بینم غیر من کس در سقر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Dobeyti",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "الهی چون گناهم را شمر نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یقین دانم که عذرم را ثمر نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز لطفت این تمنّا دارم و بس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بینم غیر من کس در سقر نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 34341,
+  "CatId": 803,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "عطار » مختارنامه » باب هشتم: در تحریض نمودن به فنا و گم بودن در بقا » شمارهٔ ۱۱",
+  "FullUrl": "/attar/mokhtarname/bb8/sh11",
+  "RhymeLetters": "ون",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این بیت اشاره به غم و اندوه دل دارد که به مدت سی سال در غم و درد زندگی کرده و از خود فاصله گرفته است. شاعر از دل غمناک می‌خواهد که به جای ادامه این حالت، از خاک و غم جدا شود و به زندگی واقعی بازگردد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ون",
+      "PlainText": "تا کی گردی ای دل غمناک به خون\r\nاز هستی خویش پاک شو پاک کنون\r\nسی سال ز خویش خاک میکردی باز\r\nدردا که نکردهای سر از خاک برون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی گردی ای دل غمناک به خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هستی خویش پاک شو پاک کنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسی سال ز خویش خاک میکردی باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردا که نکردهای سر از خاک برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی گردی ای دل غمناک به خون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از هستی خویش پاک شو پاک کنون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سی سال ز خویش خاک میکردی باز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردا که نکردهای سر از خاک برون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

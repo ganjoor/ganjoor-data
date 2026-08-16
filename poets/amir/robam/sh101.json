@@ -1,0 +1,58 @@
+{
+  "Id": 70144,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۰۱",
+  "FullUrl": "/amir/robam/sh101",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به وصف ملک سنجر می‌پردازد و او را به عنوان پادشاهی بی‌نظیر در عالم معرفی می‌کند. دریا (بحر) او همانند بادی که بر موج‌هایش می‌گذرد، نیرو و عظمت خاصی دارد. موج‌های دریا نماد حرکت و پویایی هستند و آب آن به طلا تشبیه شده که نشان‌دهنده ارزش و ثروت اوست. در کل، شاعر به تمجید از صفات برجسته سنجر و جایگاه برتر او در جهان می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "دست ملک ملوک عالم ْ سنجر\r\nبحری است  که در جهان چنان نیست دگر\r\nچون باد سخاکند بر آن بحرگذر\r\nموجش همه در باشد و آبش همه زر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست مَلِک ملوکِ عالم‌ْ سنجر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحری است‌ که در جهان چنان نیست دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون باد سخاکند بر آن بحرگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموجش همه دُر باشد و آبش همه زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دست مَلِک ملوکِ عالم‌ْ سنجر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بحری است‌ که در جهان چنان نیست دگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون باد سخاکند بر آن بحرگذر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موجش همه دُر باشد و آبش همه زر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

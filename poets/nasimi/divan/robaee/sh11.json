@@ -1,0 +1,58 @@
+{
+  "Id": 117614,
+  "CatId": 2714,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "نسیمی » دیوان اشعار فارسی » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/nasimi/divan/robaee/sh11",
+  "RhymeLetters": "اناست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیات درباره نقطه‌ای است که حاوی رازهایی عمیق است. این نقطه نماد وجود حوریان و غلمان‌ها، و همچنین تجلی آدم رحمان است. در نهایت، تاکید می‌شود که این مفهوم به اصل و محتوای قرآن اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناست",
+      "PlainText": "آن نقطه که نکته ای در او پنهان است\r\nآن نقطه وجود حوری و غلمان است\r\nآن نقطه وجود آدم رحمان است\r\nدریاب که اصل جمله قرآن است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نقطه که نکته ای در او پنهان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن نقطه وجود حوری و غلمان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نقطه وجود آدم رحمان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاب که اصل جمله قرآن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن نقطه که نکته ای در او پنهان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن نقطه وجود حوری و غلمان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن نقطه وجود آدم رحمان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاب که اصل جمله قرآن است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

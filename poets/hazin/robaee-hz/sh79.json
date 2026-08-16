@@ -1,0 +1,58 @@
+{
+  "Id": 82967,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۷۹",
+  "FullUrl": "/hazin/robaee-hz/sh79",
+  "RhymeLetters": "روزنشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به حسرت و غم ناشی از دوری معشوق می‌پردازد. او می‌گوید که نور و زیبایی چهره محبوبش بر دل او تأثیر نگذاشته و شب‌های سخت بختی را تجربه کرده است. داغ عشق آن چنان عمیق است که او نتوانسته راحتی را احساس کند و همچنین هیچ‌کس در تاریکی شب نتوانسته روز را ببیند. به طور کلی، شاعر از تلخی عشق و فقدان محبوب سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روزنشد",
+      "PlainText": "خورشید رخ تو تا دل افروز نشد\r\nما را شب بخت تیره فیروز نشد\r\nاز داغ تو سینه راحت اندوز نشد\r\nهرگز به چراغ شام کس روز نشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید رخ تو تا دل افروز نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما را شب بخت تیره فیروز نشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز داغ تو سینه راحت اندوز نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز به چراغ، شام کس روز نشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید رخ تو تا دل افروز نشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما را شب بخت تیره فیروز نشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از داغ تو سینه راحت اندوز نشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز به چراغ، شام کس روز نشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 116174,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/akhsikati/divan/robaee/sh48",
+  "RhymeLetters": "امنمن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از لحظه‌ای شیرین و شاداب با یاری زیبا صحبت می‌کند که در میان جمعی از دوستانش بود. اما با طلوع صبح، همه آن دوستان پراکنده شده و تنها یاد تلخ و دردناک علاقه‌اش باقی مانده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امنمن",
+      "PlainText": "من بودم و دوش یار سیمین تن من\r\nجمعی ز نشاط و عیش پیرامن من\r\nآنها همه صبحدم پراکنده شدند\r\nجز خون جگر که ماند در دامن من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بودم و دوش، یار سیمین تن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمعی ز نشاط و عیش، پیرامن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنها، همه صبحدم پراکنده شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز خون جگر، که ماند در دامن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من بودم و دوش، یار سیمین تن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمعی ز نشاط و عیش، پیرامن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنها، همه صبحدم پراکنده شدند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز خون جگر، که ماند در دامن من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

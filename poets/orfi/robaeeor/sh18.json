@@ -1,0 +1,58 @@
+{
+  "Id": 48737,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۸",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۸",
+  "FullUrl": "/orfi/robaeeor/sh18",
+  "RhymeLetters": "هراست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این اشعار بیانگر مقام و موقعیت والای شاعر است. او خود را در مقابل مشکلات و چالش‌های زمانه مقاوم می‌بیند و به نوعی به دنیا و مکانش افتخار می‌کند. شاعر با استفاده از تصاویری چون \u0022دریای محیط\u0022 و \u0022خندق\u0022 به عظمت و جلال شهر و زندگی‌اش اشاره دارد و تاکید می‌کند که در برابر زهرها و دشواری‌های زندگی، او همواره استوار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هراست",
+      "PlainText": "آنم که رعیت کمینم دهر است\r\nتریاق زمانه با خلافم زهر است\r\nعالم به ممالک جلالم شهر است\r\nدریای محیط خندق آن شهر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنم که رعیت کمینم دهر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتریاق زمانه با خلافم زهر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم به ممالک جلالم شهر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریای محیط خندق آن شهر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنم که رعیت کمینم دهر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تریاق زمانه با خلافم زهر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عالم به ممالک جلالم شهر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریای محیط خندق آن شهر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

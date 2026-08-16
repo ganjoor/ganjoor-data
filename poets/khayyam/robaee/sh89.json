@@ -1,0 +1,58 @@
+{
+  "Id": 1207,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۸۹",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۸۹",
+  "FullUrl": "/khayyam/robaee/sh89",
+  "RhymeLetters": "یزند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت اشاره به این دارد که کسانی که از هر گونه گناه و پرهیزکاری دوری می‌کنند، پس از مرگ به زندگی‌ای پاک و با آرامش برمی‌گردند. در حالی که مؤلف نخبه‌ای از عشق و نوشیدن می‌گوید که همیشه با معشوق و می‌گساری همراه است و امیدوار است در روز قیامت نیز با همین حال و هوای خوش برخیزند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزند",
+      "PlainText": "گویند هر آن کسان که با پرهیزند\r\nزآن سان که بمیرند چنان برخیزند\r\nما با می و معشوقه از آنیم مدام\r\nباشد که به حشرمان چنان انگیزند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند هر آن کسان که با پرهیزند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن‌سان که بمیرند چنان برخیزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما با می و معشوقه از آنیم مدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد که به حشرمان چنان انگیزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند هر آن کسان که با پرهیزند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زآن‌سان که بمیرند چنان برخیزند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما با می و معشوقه از آنیم مدام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باشد که به حشرمان چنان انگیزند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

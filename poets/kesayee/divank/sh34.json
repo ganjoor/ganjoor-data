@@ -1,0 +1,58 @@
+{
+  "Id": 41621,
+  "CatId": 1675,
+  "Title": "مرغک سرود سرای",
+  "FullTitle": "کسایی » دیوان اشعار » مرغک سرود سرای",
+  "FullUrl": "/kesayee/divank/sh34",
+  "RhymeLetters": "ام",
+  "SourceName": "مهرداد بیات",
+  "SourceUrlSlug": "mb",
+  "PoemSummary": "هوش مصنوعی: در این شعر، مرغکی که سرود می‌خواند، مانند عاشقی است که پیغامش را به معشوق می‌رساند. او به عاشق می‌گوید که شب هنگام دست دلبر را بگیرد و به سوی باغ بروند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ام",
+      "PlainText": "سرودگوی شد آن مرغک سرودسرای\r\nچو عاشقی که به معشوق خود دهد پیغام\r\nهمی چه گوید گوید که عاشقا شبگیر\r\nبگیر دست دلارام و سوی باغ خرام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرودگوی شد آن مرغک سرودسرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو عاشقی که به معشوق خود دهد پیغام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی چه گوید؟ گوید که: عاشقا، شبگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگیر دست دلارام و سوی باغ خرام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرودگوی شد آن مرغک سرودسرای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو عاشقی که به معشوق خود دهد پیغام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همی چه گوید؟ گوید که: عاشقا، شبگیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگیر دست دلارام و سوی باغ خرام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

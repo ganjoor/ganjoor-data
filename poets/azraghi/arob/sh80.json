@@ -1,0 +1,58 @@
+{
+  "Id": 69441,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/azraghi/arob/sh80",
+  "RhymeLetters": "یم",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این چند بیت شعر به کنایه از احساس عشق و امید در کنار بیم و ترس صحبت می‌کند. شاعر به تصویرسازی عواطف عمیق خود پرداخته و از تضادهای عشق و نگرانی سخن می‌گوید. او به یتیمی دلش اشاره می‌کند و نشان می‌دهد که عشق همچون سنگی سخت در دلش وجود دارد. در نهایت، این اشعار احساس تنهایی و پیچیدگی‌های عاطفی را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یم",
+      "PlainText": "بیجادۀ لولوی تو سیم اندر میم\r\nبازیدن عشق تو امید اندر بیم\r\nسیم اندر سنگ باشد ای در یتیم\r\nچون در بر تو دل چو سنگ اندر سیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیجادۀ لولوی تو سیم اندر میم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازیدن عشق تو امید اندر بیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیم اندر سنگ باشد، ای دُر یتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون در بر تو دلِ چو سنگ اندر سیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیجادۀ لولوی تو سیم اندر میم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازیدن عشق تو امید اندر بیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سیم اندر سنگ باشد، ای دُر یتیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون در بر تو دلِ چو سنگ اندر سیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

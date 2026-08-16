@@ -1,0 +1,58 @@
+{
+  "Id": 51724,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۱ - در بیان اقسام سخن",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۱ - در بیان اقسام سخن",
+  "FullUrl": "/bahar/robaeebk/sh1",
+  "RhymeLetters": "جا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: سخن چهار نوع دارد: فخر، مدح، نسیب و هجا. از آن‌جا که شما از فخر، نسیب و مدح سود برده‌اید، الآن وقت آن است که شما را به هجا دعوت کنم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "جا",
+      "PlainText": "اقسام سخن چهار باشد همه جا\r\nفخر است  و مدیح  است  و نسیب  است و هجا\r\nاز فخر و نسیب و مدح من بردی سود\r\nوقت است که از هجا نشانمت بجا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاقسام سخن چهار باشد همه جا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفخر است ‌و مدیح‌ است ‌و نسیب ‌است و هجا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فخر و نسیب و مدح من بردی سود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوقت است که از هجا نشانمت بجا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اقسام سخن چهار باشد همه جا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فخر است ‌و مدیح‌ است ‌و نسیب ‌است و هجا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از فخر و نسیب و مدح من بردی سود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وقت است که از هجا نشانمت بجا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

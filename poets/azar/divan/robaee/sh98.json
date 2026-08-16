@@ -1,0 +1,58 @@
+{
+  "Id": 119019,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/azar/divan/robaee/sh98",
+  "RhymeLetters": "راز",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: غزل بیانگر احساس شاعر نسبت به شب و روز است. او می‌گوید وقتی در شب با معشوقش باشد، صبح زود می‌رسد و احساس سرزندگی دارد، اما وقتی به تنهایی است، شب طولانی و کسل‌کننده به نظر می‌رسد. این تفاوت ناشی از وجود یا عدم وجود محبوبش است که باعث می‌شود زمان به گونه‌ای متفاوت بگذرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راز",
+      "PlainText": "شب بیتو چو باشم سحرم ناید باز\r\nور با تو نشینم رسدم صبح فراز\r\nدر حیرتم از کار شب خود کآن شب\r\nچون با تو بود کوته و چون بی تو دراز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب بیتو چو باشم، سحرم ناید باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور با تو نشینم، رسدم صبح فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حیرتم از کار شب خود، کآن شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون با تو بود کوته و، چون بی تو دراز؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب بیتو چو باشم، سحرم ناید باز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور با تو نشینم، رسدم صبح فراز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حیرتم از کار شب خود، کآن شب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون با تو بود کوته و، چون بی تو دراز؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

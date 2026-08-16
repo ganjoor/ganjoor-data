@@ -1,0 +1,58 @@
+{
+  "Id": 45378,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۳۵",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۳۵",
+  "FullUrl": "/helali/robaeeh/sh35",
+  "RhymeLetters": "وشکنی",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به شخصی اشاره می‌کند که هر زمان با دیگران نشسته و شراب می‌نوشد، او را به خاطر اوضاعش دچار حسادت و ناراحتی می‌کند. شاعر از تنهایی و یاد نکردن آن شخص در زمان می‌نوشی نگرانی دارد و می‌ترسد که آن فرد مست شود و او را فراموش کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشکنی",
+      "PlainText": "با هر که نشینی و قدح نوش کنی\r\nاز رشک مرا خراب و مدهوش کنی\r\nگفتی که چو می خورم تو را یاد کنم\r\nترسم که شوی مست و فراموش کنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هر که نشینی و قدح نوش کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رشک مرا خراب و مدهوش کنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که چو می خورم تو را یاد کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسم که شوی مست و فراموش کنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با هر که نشینی و قدح نوش کنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از رشک مرا خراب و مدهوش کنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی که چو می خورم تو را یاد کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم که شوی مست و فراموش کنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

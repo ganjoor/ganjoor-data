@@ -1,0 +1,58 @@
+{
+  "Id": 119545,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/neshat/divan/robaee/sh11",
+  "RhymeLetters": "یرت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان قدرت و سرنوشت انسانی می‌پردازند. شاعر به قهر و قدرت الهی اشاره می‌کند که با شمشیر، سرنوشت بشر را می‌سازد و وصف حبس ابد به مثابه زنجیری است که تقدیر خداوند آن را رقم زده است. در نهایت، شاعر به این نکته اشاره می‌کند که قضا و قدر، نتیجه نهایی هر تدبیری هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرت",
+      "PlainText": "ای قهر ازل سرشته با شمشیرت\r\nوی حبس ابد نوشته بر زنجیرت\r\nتبلیغ قضا فاتحه ی یرلیغت\r\nتقدیر خدا خاتمه ی تدبیرت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای قهر ازل سرشته با شمشیرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی حبس ابد نوشته بر زنجیرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتبلیغ قضا فاتحه ی یرلیغت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتقدیر خدا خاتمه ی تدبیرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای قهر ازل سرشته با شمشیرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی حبس ابد نوشته بر زنجیرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تبلیغ قضا فاتحه ی یرلیغت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تقدیر خدا خاتمه ی تدبیرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50251,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۹۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۹۱",
+  "FullUrl": "/mahsati/robmah/sh191",
+  "RhymeLetters": "یی",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این ابیات دربارهٔ زیبایی و جذابیت معشوق صحبت می‌کنند. شاعر از چهرهٔ معشوق به نوبهار و از طبیعت او به دیوانگی اشاره می‌کند. همچنین، به حال خود که به خاطر دوری او دچار خماری شده و نسبت به دیگران حالتی شاداب دارد، اشاره می‌کند. در نهایت، شاعر به بدبیاری خود اشاره می‌کند که باعث می‌شود نتواند به طور کامل از این زیبایی بهره‌مند شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یی",
+      "PlainText": "با روی چو نوبهار و با خوی دیی\r\nبا ما چو خمار و با دگر کس چو میی\r\nبخت بد ما همی کند سست پیی\r\nور نه تو چنین سخت کمان نیز نه ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا روی چو نوبهار و با خوی دئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا ما چو خمار و با دگر کس چو میی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخت بد ما همی کند سست پیی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه تو چنین سخت کمان نیز نه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با روی چو نوبهار و با خوی دئی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با ما چو خمار و با دگر کس چو میی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بخت بد ما همی کند سست پیی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور نه تو چنین سخت کمان نیز نه‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

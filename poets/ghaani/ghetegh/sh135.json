@@ -1,0 +1,58 @@
+{
+  "Id": 45797,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۳۵",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۳۵",
+  "FullUrl": "/ghaani/ghetegh/sh135",
+  "RhymeLetters": "خشی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به تعریف جوانمردی می‌پردازد. شاعر می‌گوید که جوانمردی تنها به درخشیدن مانند برق در یک لحظه نیست، بلکه به مانند ابر است که در زمان نیاز به زمین آب می‌دهد و زندگی را فراهم می‌کند. جوانمردی یعنی کمک به دیگران و حمایت در سختی‌ها.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "خشی",
+      "PlainText": "جوانمردی نه این باشدکه چون برق\r\nبه شب برکاروان یک دم درخشی\r\nجوانمردی بود آن دم که چون ابر\r\nبه کشت جان سایل آب بخشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوانمردی نه این باشدکه چون برق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شب برکاروان یک‌دم درخشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوانمردی بود آن‌دم که چون ابر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کشت جان سائل آب بخشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جوانمردی نه این باشدکه چون برق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به شب برکاروان یک‌دم درخشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جوانمردی بود آن‌دم که چون ابر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به کشت جان سائل آب بخشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

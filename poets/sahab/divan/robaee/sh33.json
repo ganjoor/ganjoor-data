@@ -1,0 +1,58 @@
+{
+  "Id": 112357,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/sahab/divan/robaee/sh33",
+  "RhymeLetters": "رین",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به توصیف زیبایی‌های مدینه و مکان‌های مقدس می‌پردازد. او از این می‌پرسد که آیا اینجا خاک مدینه است یا مکان دیگری مثل ماه معین؟ آیا اینجا روضه پیامبر (مصطفی) است یا عرش الهی؟ و در نهایت اشاره می‌کند که آیا این چهره و ضریح امام مدنی است یا اینکه جرم زحل به خورشید نزدیک شده است؟ این سؤالات نشان‌دهندهٔ عشق و ارادت شاعر به مقدسات و زیبایی‌های آن مکان‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رین",
+      "PlainText": "این خاک مدینه است یا ماه معین\r\nاین روضه ی مصطفاست یا عرش برین\r\nاین روی من و ضریح شاه مدنی است\r\nیا جرم زحل گشته به خورشید قرین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین خاک مدینه است یا ماه معین؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین روضه ی مصطفاست یا عرش برین؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین روی من و ضریح شاه مدنی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا جرم زحل گشته به خورشید قرین؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این خاک مدینه است یا ماه معین؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این روضه ی مصطفاست یا عرش برین؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این روی من و ضریح شاه مدنی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا جرم زحل گشته به خورشید قرین؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

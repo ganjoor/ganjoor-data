@@ -1,0 +1,58 @@
+{
+  "Id": 123662,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۹۶",
+  "FullUrl": "/naziri/divan/robaee/sh96",
+  "RhymeLetters": "شمیارم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات نشان‌دهنده‌ی سفر شاعر از مکانی مقدس (کعبه) به جایی غیراخلاقی (دیر باده) و همچنین اشاره به ضرورت و تشنگی روحی او دارد. شاعر به دنبال می و نوشیدنی است که بتواند عطش درونش را برطرف کند و از چشمه‌ی زمزم، که نماد پاکی و معنویت است، نیز برای رفع عطش یاد می‌کند. در کلیت، این اشعار حس جستجوی لذت و آرامش در میان متضادهای معنوی و دنیوی را به نمایش می‌گذارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شمیارم",
+      "PlainText": "از کعبه به دیر باده کش می آرم\r\nوز خاک به سوی شعله غش می آرم\r\nکو می که بر آتشم فشاند آبی\r\nکز چشمه زمزم العطش می آرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز کعبه به دیر باده‌کش می‌آرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز خاک به سوی شعله غش می‌آرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو می؟ که بر آتشم فشاند آبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز چشمه زمزم العطش می‌آرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کعبه به دیر باده‌کش می‌آرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خاک به سوی شعله غش می‌آرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو می؟ که بر آتشم فشاند آبی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز چشمه زمزم العطش می‌آرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

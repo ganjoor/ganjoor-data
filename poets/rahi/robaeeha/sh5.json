@@ -1,0 +1,58 @@
+{
+  "Id": 39572,
+  "CatId": 1332,
+  "Title": "نوشین‌لب",
+  "FullTitle": "رهی معیری » رباعیها » نوشین‌لب",
+  "FullUrl": "/rahi/robaeeha/sh5",
+  "RhymeLetters": "وشتونیست",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: این اشعار به زیبایی و جذابیت چهره و وجود معشوق اشاره دارد. شاعر می‌گوید که هیچ چیز نمی‌تواند به اندازه جذابیت و دلربایی یار جلب توجه کند؛ نه گلبرگ و نه نور ماه، نه پیمانه و نه آتشکده. تمام این چیزها در مقایسه با زیبایی و گرمای آغوش معشوق ناچیزند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشتونیست",
+      "PlainText": "گلبرگ به نرمی چو بر و دوش تو نیست\r\nمهتاب به جلوه چون بناگوش تو نیست\r\nپیمانه به تاثیر لب نوش تو نیست\r\nآتشکده را گرمی آغوش تو نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلبرگ به نرمی چو بر و دوش تو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهتاب به جلوه چون بناگوش تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیمانه به تاثیر لب نوش تو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتشکده را گرمی آغوش تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلبرگ به نرمی چو بر و دوش تو نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مهتاب به جلوه چون بناگوش تو نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیمانه به تاثیر لب نوش تو نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتشکده را گرمی آغوش تو نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

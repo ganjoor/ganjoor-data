@@ -1,0 +1,58 @@
+{
+  "Id": 101885,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/salim/divan/robaee/sh94",
+  "RhymeLetters": "وختنی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به عشق و شعله‌های درونی اشاره می‌کند که به صورت ذاتی وجود دارد و نمی‌تواند آموختنی باشد. او عاشق شده و این عشق در وجودش همچون شعله‌ای سوزان است که باعث سوختن هر رگی در بدنش شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وختنی",
+      "PlainText": "چون شعله ز خویش باش افروختنی\r\nذاتی بود این هنر نه آموختنی\r\nکو آتش عشقی که شده در تن من\r\nچون رشته ی شمع هر رگی سوختنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شعله ز خویش باش افروختنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذاتی بود این هنر، نه آموختنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو آتش عشقی، که شده در تن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون رشته ی شمع، هر رگی سوختنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شعله ز خویش باش افروختنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ذاتی بود این هنر، نه آموختنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو آتش عشقی، که شده در تن من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون رشته ی شمع، هر رگی سوختنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Id": 125563,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۲۸",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۲۸",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh28",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این بیت به حال غم‌انگیز فرزندان علی (ع) اشاره دارد که در زمان یزید، دچار سختی‌ها و مشکلات شدند. آن‌ها در شهرهای کوفه و شام، به حالتی سرگردان و آواره در کوچه‌ها و بازارها به سر می‌برند.",
+  "Sections": [
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارشدند",
+      "PlainText": "افسوس که اولاد علی زار شدند\r\nدر چنگ یزید دون گرفتار شدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که اولاد علی زار شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چنگ یزید دون گرفتار شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 36,
+      "Number": 36,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "در کوفه و شام عترت پیغمبر\r\nسرگرد سر کوچه و بازار شدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کوفه و شام عترت پیغمبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگرد سر کوچه و بازار شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 95,
+      "Number": 95,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارشدند",
+      "PlainText": "افسوس که اولاد علی زار شدند\r\nدر چنگ یزید دون گرفتار شدند\r\nدر کوفه و شام عترت پیغمبر\r\nسرگرد سر کوچه و بازار شدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که اولاد علی زار شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چنگ یزید دون گرفتار شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کوفه و شام عترت پیغمبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگرد سر کوچه و بازار شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که اولاد علی زار شدند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 95,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در چنگ یزید دون گرفتار شدند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 95,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کوفه و شام عترت پیغمبر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 95,
+      "SectionIndex2": 36
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرگرد سر کوچه و بازار شدند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 95,
+      "SectionIndex2": 36
+    }
+  ]
+}

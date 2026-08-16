@@ -1,0 +1,58 @@
+{
+  "Id": 123576,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/naziri/divan/robaee/sh10",
+  "RhymeLetters": "تماست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بیان عصمت و ویژگی‌های خاص خود اشاره می‌کند و می‌گوید که اظهارات درباره او و مقامش جنبه‌ای از غیبت و وجود عیب و هنر در او را نمایان می‌سازد. او همچنین اشاره می‌کند که نمی‌توان احساسات و کامل بودن خود را به‌راحتی با زبان بیان کرد و این سکوت در واقع نتیجه عادت و کوشش اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تماست",
+      "PlainText": "بی پرده تر از حدیث ما عصمت ماست\r\nدر عیب و هنر حضور ما غیبت ماست\r\nما را به زبان نمی توان کرد خموش\r\nغمازی گنج عادت همت ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی پرده تر از حدیث ما عصمت ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عیب و هنر حضور ما غیبت ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را به زبان نمی توان کرد خموش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغمازی گنج عادت همت ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی پرده تر از حدیث ما عصمت ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عیب و هنر حضور ما غیبت ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را به زبان نمی توان کرد خموش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غمازی گنج عادت همت ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

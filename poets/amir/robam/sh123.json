@@ -1,0 +1,58 @@
+{
+  "Id": 70166,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۲۳",
+  "FullUrl": "/amir/robam/sh123",
+  "RhymeLetters": "ل",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، سخن از \u0022ملک\u0022 است که در دست خود چنگ دارد و \u0022ساقی\u0022 باده‌ای به رنگ مرجان به او می‌دهد. او در زمان صبحانه‌اش از ساقی می‌خواهد که باده بیاورد و از سقا نیز چنگ بخواهد. این تصویرها نشان‌دهنده لحظه‌ای خوش و شاداب در دل شب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگ",
+      "PlainText": "سقای ملک گرفت چنگ اندر چنگ\r\nساقی بنهاد باده مرجان رنگ\r\nهنگام صبوح ای ملک با فرهنگ\r\nاز ساقی باده خواه و از سقا چنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسقای ملک گرفت چنگ اندر چنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساقی بنهاد بادهٔ مرجان رنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهنگام صبوح ای ملک با فرهنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ساقی باده خواه و از سقا چنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سقای ملک گرفت چنگ اندر چنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساقی بنهاد بادهٔ مرجان رنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنگام صبوح ای ملک با فرهنگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از ساقی باده خواه و از سقا چنگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

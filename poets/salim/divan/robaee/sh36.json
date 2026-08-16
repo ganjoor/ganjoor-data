@@ -1,0 +1,58 @@
+{
+  "Id": 101827,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/salim/divan/robaee/sh36",
+  "RhymeLetters": "ازیباد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره نوروز و زیبایی‌های آن است. شاعر به وصف شادابی و نشاط بهاری می‌پردازد و از گل و لاله به عنوان نمادهای این فصل استفاده می‌کند. او از می و موج می‌نوشی صحبت می‌کند و به دورهمایی‌ها و جشن‌ها اشاره دارد که در این زمان پر از شادی و سرزندگی است. کل مضمون شعر، تجلیل از زیبایی‌های بهار و حال و هوای خوش آن است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازیباد",
+      "PlainText": "نوروز تو از گل به قدح سازی باد\r\nبا لاله رخان کار تو گلبازی باد\r\nاوراق نشاط را به بزمت دایم\r\nشیرازه ز موج می شیرازی باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوروز تو از گل به قدح سازی باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا لاله رخان کار تو گلبازی باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاوراق نشاط را به بزمت دایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیرازه ز موج می شیرازی باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوروز تو از گل به قدح سازی باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با لاله رخان کار تو گلبازی باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اوراق نشاط را به بزمت دایم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیرازه ز موج می شیرازی باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

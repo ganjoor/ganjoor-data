@@ -1,0 +1,58 @@
+{
+  "Id": 114050,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۷۷",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۷۷",
+  "FullUrl": "/jahan/divan/robaee/sh177",
+  "RhymeLetters": "ارچوشمع",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از تنهایی و غم فراق معشوق سخن می‌گوید. او خود را مانند شمعی می‌بیند که در انتظار معشوق، سوخته و اشک‌بار است. شاعر در شب تا صبح بیدار می‌ماند و در حالی که معشوق خوابیده، از غم و اندوه خود رنج می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارچوشمع",
+      "PlainText": "زردم ز فراق روی دلدار چو شمع\r\nتا کی بودم دیده خونبار چو شمع\r\nتو خفته و من خراب و گریان همه شب\r\nتا صبح به بالین تو بیدار چو شمع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزردم ز فراق روی دلدار چو شمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کی بودم دیده خونبار چو شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو خفته و من خراب و گریان همه شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا صبح به بالین تو بیدار چو شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زردم ز فراق روی دلدار چو شمع",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا کی بودم دیده خونبار چو شمع",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو خفته و من خراب و گریان همه شب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا صبح به بالین تو بیدار چو شمع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

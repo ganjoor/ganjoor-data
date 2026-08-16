@@ -1,0 +1,58 @@
+{
+  "Id": 70110,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/amir/robam/sh67",
+  "RhymeLetters": "مزد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمجید از ویژگی‌ها و مقام بلند یک شاه اشاره دارد. شاعر می‌گوید که این شاه به مانند سیاره‌ها (مانند مریخ و خورشید) برجسته و ممتاز است و نوشته‌های او باید مورد تحسین قرار گیرد. به عبارتی، مقام او فراتر از دیگران است و شایسته‌ی احترام و توجه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرتوسزد",
+      "PlainText": "ای شاه زمین فلک سریرتو سزد\r\nمریخ به جدْی پر تیر تو سزد\r\nخورشید نگویم که دبیر تو سزد\r\nیک نقطه ز اتوقیع ا وزیر تو سزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه زمین فلک سریرتو سزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمریخ به جَدْی پرّ تیر تو سزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید نگویم که دبیر تو سزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک نقطه ز اتوقیع‌ا وزیر تو سزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه زمین فلک سریرتو سزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مریخ به جَدْی پرّ تیر تو سزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورشید نگویم که دبیر تو سزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک نقطه ز اتوقیع‌ا وزیر تو سزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

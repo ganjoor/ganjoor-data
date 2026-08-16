@@ -1,0 +1,58 @@
+{
+  "Id": 50170,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۱۰",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۱۰",
+  "FullUrl": "/mahsati/robmah/sh110",
+  "RhymeLetters": "ندانش",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف لحظه‌ای پرداخته که در پی سوگند و قولی که داده، از شرم عرق بر چهره‌اش نشسته است. در این حال، شخصی که به او نگاه می‌کند، با لبخند بر چهره‌اش، به طعنه به او می‌خندد و باعث می‌شود که رنگ چهره‌اش زرد شود. در نهایت، تصویر چهره‌اش در دندان‌های او منعکس می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندانش",
+      "PlainText": "در ره چو بداشتم به سوگندانش\r\nاز شرم عرق کرد رخ خندانش\r\nپس بر رخ زرد من بخندید به لطف\r\nعکس رخ من فتاد بر دندانش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ره چو بداشتم به سوگندانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شرم عرق کرد رخ خندانش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس بر رخ زرد من بخندید به لطف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعکس رخ من فتاد بر دندانش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ره چو بداشتم به سوگندانش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شرم عرق کرد رخ خندانش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پس بر رخ زرد من بخندید به لطف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عکس رخ من فتاد بر دندانش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

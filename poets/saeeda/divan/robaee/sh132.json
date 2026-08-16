@@ -1,0 +1,58 @@
+{
+  "Id": 108032,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۳۲",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۳۲",
+  "FullUrl": "/saeeda/divan/robaee/sh132",
+  "RhymeLetters": "انکو",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس سردرگمی و بی‌پناهی اشاره دارد. شاعر از نفس و هوای دنیا صحبت می‌کند و از کسی که به ظاهر دین را پذیرفته اما در واقع به دنیا و لذات آن دل بسته است، می‌پرسد که ایمان حقیقی‌اش کجاست. او به نوعی نارضایتی از وضعیت روحی و دینی انسان‌ها اشاره می‌کند و از آن‌ها می‌خواهد که به عمق ایمان و معنای واقعی زندگی توجه کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انکو",
+      "PlainText": "ای نفس و هوا برده دلت را جان کو\r\nای داده به تن نقد روان جانان کو\r\nچون تازه مسلمان به هوای دنیا\r\nدین را بر باد داده ای ایمان کو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نفس و هوا برده دلت را، جان کو؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای داده به تن نقد روان جانان کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تازه مسلمان به هوای دنیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدین را بر باد داده ای، ایمان کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نفس و هوا برده دلت را، جان کو؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای داده به تن نقد روان جانان کو؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون تازه مسلمان به هوای دنیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دین را بر باد داده ای، ایمان کو؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

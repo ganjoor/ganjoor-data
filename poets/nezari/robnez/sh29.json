@@ -1,0 +1,58 @@
+{
+  "Id": 75776,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/nezari/robnez/sh29",
+  "RhymeLetters": "ابفرست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از معشوق خود درخواست می‌کند که قدری مشروب خالص (می مصفا) برایش بفرستد تا درد و غم‌هایش برطرف شود. همچنین اشاره می‌کند که با این مشروب، فضایی خصوصی و خلوت برای گفت‌وگو با محبوبش فراهم خواهد شد و در نهایت به زیبایی محبوبش (یارک فیروزه قبا) اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابفرست",
+      "PlainText": "درد سر بنده را مداوا بفرست\r\nیعنی قدری می مصفا بفرست\r\nبا او سخنی هست به خلوت ما را\r\nآن یارک فیروزه قبا را بفرست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد سر بنده را مداوا بفرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی قدری می مصفا بفرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا او سخنی هست به خلوت ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن یارک فیروزه قبا را بفرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درد سر بنده را مداوا بفرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی قدری می مصفا بفرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با او سخنی هست به خلوت ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن یارک فیروزه قبا را بفرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

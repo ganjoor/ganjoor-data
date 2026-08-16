@@ -1,0 +1,58 @@
+{
+  "Id": 97261,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/emami/divan/robaee/sh2",
+  "RhymeLetters": "ورغمتست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف غم و اندوه ناشی از عشق می‌پردازند. غم در عالم عشق و در زمانه‌ای که در آن هستیم، به اشکال مختلف وجود دارد. شاعر به عواطف و دردهای درونی خود اشاره می‌کند و بیان می‌کند که این غم‌ها مانند خونابه‌ای در دلش جاری هستند. به طور کلی، این اشعار احساسات عمیق و پیچیده‌ی عشق و غم را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورغمتست",
+      "PlainText": "در عالم عشق طور طور غم تست\r\nدر دور زمانه جور جور غم تست\r\nدر ساغر دیده زان مدامست مرا\r\nخونابه ی دل که دور دور غم تست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عالم عشق طور، طور غم تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دور زمانه جور، جور غم تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ساغر دیده زان مدامست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخونابه ی دل که دور، دور غم تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عالم عشق طور، طور غم تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دور زمانه جور، جور غم تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در ساغر دیده زان مدامست مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خونابه ی دل که دور، دور غم تست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

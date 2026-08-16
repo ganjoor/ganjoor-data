@@ -1,0 +1,58 @@
+{
+  "Id": 83010,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۲۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۲۲",
+  "FullUrl": "/hazin/robaee-hz/sh122",
+  "RhymeLetters": "امینازد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، بلبل به صدای آشنای خود افتخار می‌کند و گلشن به نسیم پاک صبح می‌بالد. شاعر نیز با وجود اینکه به قلم خود نمی‌بالد، اما به قدرت سخن و نوشتاری که از او می‌آید، افتخار دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امینازد",
+      "PlainText": "بلبل به نوای آشنا می نازد\r\nگلشن به دم پاک صبا می نازد\r\nما گرچه به کلک خود ننازیم حزین\r\nتا هست سخن به کلک ما می نازد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل به نوای آشنا می نازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلشن به دم پاک صبا می نازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما گرچه به کلک خود ننازیم حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا هست، سخن به کلک ما می نازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلبل به نوای آشنا می نازد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلشن به دم پاک صبا می نازد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما گرچه به کلک خود ننازیم حزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا هست، سخن به کلک ما می نازد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

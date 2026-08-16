@@ -1,0 +1,58 @@
+{
+  "Id": 103073,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/jooya/divan/robaee/sh19",
+  "RhymeLetters": "اراست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از زیبایی و جذابیت لاهور صحبت می‌کند و می‌گوید که این شهر به خاطر شوخی طبیعت و زیبایی یارانش دلرباست. اگر کسی به آن دست بزند، ممکن است با زیبایی آن دچار افسون شود و نتواند عیبی از آن ببیند. به نوعی، زیبایی لاهور آنقدر فریبنده است که هر عیبی هم در آن دیده نمی‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اراست",
+      "PlainText": "لاهور که دلبریش بسی عیار است\r\nاز شوخی طبع با که و مه یار است\r\nگر کنچنیش دست زد خلق بود\r\nعیبش نکنی طلای دست افشار است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاهور که دلبریش بسی عیار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شوخی طبع با که و مه یار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کنچنیش دست زد خلق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیبش نکنی طلای دست افشار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لاهور که دلبریش بسی عیار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شوخی طبع با که و مه یار است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر کنچنیش دست زد خلق بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیبش نکنی طلای دست افشار است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 73613,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/zahir/robaeez-zahir/sh21",
+  "RhymeLetters": "ایتونداشت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها به توصیف قدرت و ویژگی‌های خاص شاهان می‌پردازد. شاعر اشاره می‌کند که زمانه و دنیا (فلک) از نظر ویژگی‌ها و قدرت، نمی‌توانند همتای شاه باشند. همچنین، اگرچه پای شاه باعث دستاویز شدن دیگران شده، اما خود او از این پای بلند بهره‌ای نمی‌گیرد و در واقع، از آن قدرت و ویژگی خود به خوبی استفاده نمی‌کند. در کل، شعر به نوعی ناچاری و عدم توازن قدرت در روابط اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتونداشت",
+      "PlainText": "شاها چو فلک علسو رای تو نداشت\r\nپایاب ستیزه جفای تو نداشت\r\nبا پای تو گرچه شد بسی دست آویز\r\nهم دست بداشت زانک پای تو نداشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها چو فلک عُلسو رای تو نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپایاب ستیزه جفای تو نداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا پای تو گرچه شد بسی دست آویز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم دست بداشت زانک پای تو نداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها چو فلک عُلسو رای تو نداشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پایاب ستیزه جفای تو نداشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با پای تو گرچه شد بسی دست آویز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم دست بداشت زانک پای تو نداشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

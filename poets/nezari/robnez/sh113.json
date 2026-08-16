@@ -1,0 +1,58 @@
+{
+  "Id": 75860,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۱۱۳",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۱۱۳",
+  "FullUrl": "/nezari/robnez/sh113",
+  "RhymeLetters": "د",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به طبیعت انسانی اشاره می‌کند و می‌گوید که در وجود انسان هم زیبایی (گل) و هم زشتی (خار) وجود دارد. او همچنین به این نکته اشاره می‌کند که دوستی واقعی در نهایت به هم می‌رسد و دوست و یار همواره در کنار هم خواهند بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "در فطرت من گر گل و گر خار بود\r\nاینجا سخن بیهده بسیار بود\r\nحق می گویم که دوست با دوست رسد\r\nمن می دانم که یار با یار رسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر فطرت من گر گل و گر خار بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینجا سخن بیهده بسیار بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق می‌گویم که دوست با دوست رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن می دانم که یار با یار رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در فطرت من گر گل و گر خار بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اینجا سخن بیهده بسیار بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حق می‌گویم که دوست با دوست رسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من می دانم که یار با یار رسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

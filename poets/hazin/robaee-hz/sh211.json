@@ -1,0 +1,58 @@
+{
+  "Id": 83108,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱۱",
+  "FullUrl": "/hazin/robaee-hz/sh211",
+  "RhymeLetters": "ادشدن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان عشق و آزادی می‌پردازد. شاعر به این نکته اشاره دارد که عشق می‌تواند باعث رهایی از زنجیرهای زندگی و مشکلات شود. او همچنین به درد دل خود اشاره می‌کند و می‌گوید که در عین حال که در عشق رنج می‌کشد، این رنج نشانه‌ای از هنر و احساسات عمیق اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادشدن",
+      "PlainText": "وبرانی عشق باشد آباد شدن\r\nاز قید هزار منت آزاد شدن\r\nناخن به خراش سینه داریم حزین\r\nنبود هنری امت فرهاد شدن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوبرانی عشق، باشد آباد شدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قید هزار منت آزاد شدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناخن به خراش سینه داریم حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبود هنری، امّت فرهاد شدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وبرانی عشق، باشد آباد شدن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از قید هزار منت آزاد شدن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناخن به خراش سینه داریم حزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نبود هنری، امّت فرهاد شدن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

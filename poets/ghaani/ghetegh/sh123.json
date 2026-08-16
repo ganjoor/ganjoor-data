@@ -1,0 +1,58 @@
+{
+  "Id": 45785,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۲۳",
+  "FullUrl": "/ghaani/ghetegh/sh123",
+  "RhymeLetters": "نده",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: موضوع این شعر به زیبایی و روح‌بخشی گلستان اشاره دارد. هر برگ گل در این گلستان نمادی از بهشت و خوشی است و روح اهل معنی و عرفان به خاطر عطر و زیبایی آن زنده خواهد ماند تا قیامت. به طور کلی، شعر به ارتباط عمیق میان طبیعت، زیبایی و روح انسان می‌پردازد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نده",
+      "PlainText": "گلستانی که هر برگ گلش را\r\nهزاران گلشن خلدست بنده\r\nروان اهل معنی تا قیامت\r\nبه بوی روح بخش اوست زنده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلستانی که هر برگ گلش را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزاران گلشن خلدست بنده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروان اهل معنی تا قیامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بوی روح‌بخش اوست زنده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلستانی که هر برگ گلش را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هزاران گلشن خلدست بنده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روان اهل معنی تا قیامت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به بوی روح‌بخش اوست زنده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

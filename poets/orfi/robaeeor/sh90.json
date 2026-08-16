@@ -1,0 +1,58 @@
+{
+  "Id": 48809,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۹۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۹۰",
+  "FullUrl": "/orfi/robaeeor/sh90",
+  "RhymeLetters": "ید",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این شعر، بیان شده که در سرمای شدید، حتی خورشید هم ممکن است بی‌حرکت و بی‌نفوذ شود، و خون در رگ‌ها همچون خواب زمستانی به حالت سکون در می‌آید. همچنین، گل‌ها به شکل دودی از شرر در می‌آیند و این نشانه‌ی تغییر و تحول در روزگار است که همواره پایدار باقی می‌ماند. به طور کلی، شاعر به تضاد بین سرما و گرما، سکون و حرکت، و تغییرات زندگی اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "در سردی یخ بند که لرزد خورشید\r\nخون بسته شود چون بقم در رگ بید\r\nگل دسته ای از دود شرر بسته شود\r\nکاندر کف روزگار ماند جاوید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سردی یخ بند که لرزد خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون بسته شود چون بقم در رگ بید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل دسته ای از دود شرر بسته شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر کف روزگار ماند جاوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سردی یخ بند که لرزد خورشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون بسته شود چون بقم در رگ بید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل دسته ای از دود شرر بسته شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاندر کف روزگار ماند جاوید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

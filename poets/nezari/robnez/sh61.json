@@ -1,0 +1,58 @@
+{
+  "Id": 75808,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/nezari/robnez/sh61",
+  "RhymeLetters": "رقاست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت معشوق اشاره دارد و نشان می‌دهد که حتی کفر و نافرمانی نیز در کنار زیبایی او حق است. همچنین، زیبایی چهره او به مانند گل است و بوی خوش او هم به شدت تحت تاثیر زیبایی‌اش قرار دارد. شاعر از معشوق می‌خواهد که از لاف زدن درباره مشکلاتش خودداری کند، زیرا زیبایی و ویژگی‌های او خود به تنهایی کافی و با ارزش هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رقاست",
+      "PlainText": "کفر از سر زلفین تو در عین حق است\r\nگل از رخ زیبای تو اول ورق است\r\nاز مشک ختا لاف مزن گر بینی\r\nکز بوی عرقچین تو چین در عرق است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکفر از سر زلفین تو در عین حق است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل از رخ زیبای تو اول ورق است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مشک ختا لاف مزن گر بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز بوی عرقچین تو چین در عرق است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کفر از سر زلفین تو در عین حق است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل از رخ زیبای تو اول ورق است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از مشک ختا لاف مزن گر بینی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز بوی عرقچین تو چین در عرق است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

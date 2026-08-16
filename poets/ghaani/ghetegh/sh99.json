@@ -1,0 +1,58 @@
+{
+  "Id": 45761,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۹۹",
+  "FullUrl": "/ghaani/ghetegh/sh99",
+  "RhymeLetters": "یزم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به این موضوع می‌پردازد که اگرچه می‌تواند از دشمنان خود فرار کند، اما وقتی که خود را دشمن خود می‌داند، چگونه می‌تواند بگریزد. او احساس می‌کند که گریزی از خود ندارد و تنها راه چاره این است که همیشه با خود در جنگ باشد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزم",
+      "PlainText": "توان گریخت به جایی ز دشمنان لیکن\r\nچو خود عدوی خودستم چگونه بگریزم\r\nز خویش لاجرمم چون   گریز ممکن نیست\r\nجز این چه چاره که با خود همیشه بستیزم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوان گریخت به جایی ز دشمنان لیکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو خود عدوی خودستم چگونه بگریزم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خویش لاجرمم چون‌‌ گریز ممکن نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز این چه چاره که با خود همیشه بستیزم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "توان گریخت به جایی ز دشمنان لیکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو خود عدوی خودستم چگونه بگریزم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز خویش لاجرمم چون‌‌ گریز ممکن نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز این چه چاره که با خود همیشه بستیزم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

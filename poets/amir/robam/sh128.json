@@ -1,0 +1,58 @@
+{
+  "Id": 70171,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۲۸",
+  "FullUrl": "/amir/robam/sh128",
+  "RhymeLetters": "ردارم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از غم دوری معشوق سخن می‌گوید. او در شبی که معشوق در کنار او نیست، به یاد او مشغول است و در دل، همواره به پروین (ستاره‌ای در آسمان) نگاهی دارد. نیمی از شب را به نگاه به پروین و نیمی دیگر را به خاطر غم معشوق می‌گذارانید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارم",
+      "PlainText": "ای یار شبی که بی رخت بگذارم\r\nپروین بود از غم تو آن شب یارم\r\nیک نیمه زشب چشم به پروین دارم\r\nیک نیمه همی ز چشم  پروین بارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای یار شبی که بی‌رخت بگذارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپروین بود از غم تو آن شب یارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک نیمه زشب چشم به پروین دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک نیمه همی ز چشم‌ پروین بارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای یار شبی که بی‌رخت بگذارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پروین بود از غم تو آن شب یارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک نیمه زشب چشم به پروین دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک نیمه همی ز چشم‌ پروین بارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 114032,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۵۹",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۵۹",
+  "FullUrl": "/jahan/divan/robaee/sh159",
+  "RhymeLetters": "از",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساسات عمیق و درد دل خود سخن می‌گوید. او مانند شمعی در حال سوختن است و در شب‌های طولانی تنها و بیچاره احساس می‌کند. همچنین، از خداوند درخواست می‌کند که به او کمک کند و وضعیت خسته‌کننده‌اش را تغییر دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "از",
+      "PlainText": "از آتش دل چو شمع در سوز و گداز\r\nهستم من بیچاره به شبهای دراز\r\nسرگشته روزگار یاری شده ام\r\nیارب به کرم کار من خسته بساز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آتش دل چو شمع در سوز و گداز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستم من بیچاره به شبهای دراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرگشته روزگار یاری شده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب به کرم کار من خسته بساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از آتش دل چو شمع در سوز و گداز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هستم من بیچاره به شبهای دراز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرگشته روزگار یاری شده‌ام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یارب به کرم کار من خسته بساز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

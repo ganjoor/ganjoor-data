@@ -1,0 +1,58 @@
+{
+  "Id": 50121,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۶۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۶۱",
+  "FullUrl": "/mahsati/robmah/sh61",
+  "RhymeLetters": "وشتورسد",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به قدرت عشق و تاثیر عمیق آن بر دل و جان اشاره دارد. شاعر بیان می‌کند که وقتی عشق (که به شکل کمان و تیر تجسم شده) به انسان برسد، مانند تیری به لب چشمه‌ای شیرین و گوارا می‌رسد. همچنین، احساس می‌شود که این عشق از حرف‌ها و از دل سخن می‌گوید و به هر طریق ممکن به گوش انسان می‌رسد. به طور کلی، شعر بر نیرو و تاثیر غیرقابل انکار عشق تاکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشتورسد",
+      "PlainText": "چون زور کمان در بر و دوش تو رسد\r\nتیرش به لب چشمه نوش تو رسد\r\nگویی زهش از حدیث من تافته اند\r\nزیرا که به صد حیله به گوش تو رسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون زور کمان در بر و دوش تو رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیرش به لب چشمهٔ نوش تو رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوئی زهش از حدیث من تافته‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که به صد حیله به گوش تو رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون زور کمان در بر و دوش تو رسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیرش به لب چشمهٔ نوش تو رسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گوئی زهش از حدیث من تافته‌اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیرا که به صد حیله به گوش تو رسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

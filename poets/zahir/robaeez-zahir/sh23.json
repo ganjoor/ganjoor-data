@@ -1,0 +1,58 @@
+{
+  "Id": 73615,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/zahir/robaeez-zahir/sh23",
+  "RhymeLetters": "انمیرفت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از زیبایی و جاذبه یک دختر سخن می‌گوید. او مانند ماه از داخل دامن خود خارج می‌شود و با حرکتی نرم و دلنشین به سمت خورشید می‌رود. دختر در حین حرکت، با لبان خود سخن می‌گوید و جذابیت او به گونه‌ای است که گویی عرق از چشمه‌ای زنده و باطراوت می‌ریزد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمیرفت",
+      "PlainText": "بر کرده چو مه سر از گریبان می رفت\r\nدر دامن خورشید خرامان می رفت\r\nگه گه به سخن درآمده لعل لبش\r\nگویی عرق از چشمه حیوان می رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر کرده چو مه سر از گریبان می رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دامن خورشید خرامان می رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه گه به سخن درآمده لعل لبش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی عرق از چشمه حیوان می رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر کرده چو مه سر از گریبان می رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دامن خورشید خرامان می رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه گه به سخن درآمده لعل لبش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی عرق از چشمه حیوان می رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

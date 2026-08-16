@@ -1,0 +1,58 @@
+{
+  "Id": 2052,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۲",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۲",
+  "FullUrl": "/hafez/robaee2/sh2",
+  "RhymeLetters": "یزوبیا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر از مخاطب دعوت می‌کند که شراب شادی‌بخش را بیفکند و با او بیاید. او همچنین تاکید می‌کند که به سخن دشمنان گوش نکند و به جای نشستن و انتظار، باید حرکت کند و به جمع آنها بپیوندد. ",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزوبیا",
+      "PlainText": "بر گیر شراب طرب انگیز و بیا\r\nپنهان ز رقیب سفله بستیز و بیا\r\nمشنو سخن خصم که بنشین و مرو\r\nبشنو ز من این نکته که برخیز و بیا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر گیر شراب طرب‌انگیز و بیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنهان ز رقیب سفله بستیز و بیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشنو سخن خصم که بنشین و مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشنو ز من این نکته که برخیز و بیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر گیر شراب طرب‌انگیز و بیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پنهان ز رقیب سفله بستیز و بیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مشنو سخن خصم که بنشین و مرو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بشنو ز من این نکته که برخیز و بیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 19603,
+  "CatId": 263,
+  "Title": "رباعی شمارهٔ ۵۱",
+  "FullTitle": "عراقی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۵۱",
+  "FullUrl": "/eraghi/divane/robaeee/sh51",
+  "RhymeLetters": "رد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر ناامیدی و درد دل شاعر است. او از چرخ فلک و گردش زمان شکایت می‌کند و به این نتیجه می‌رسد که باوجود تلاش‌ها و آرزوهایش، همچنان غم و درد در زندگی‌اش وجود دارد. شاعر به دل خود توصیه می‌کند که به دنبال وصالی نباشد و به جای شادی، باید غم را تحمل کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "از بخت به فریادم و از چرخ به درد\r\nوز گردش روزگار رخ چون گل زرد\r\nای دل ز پی وصال چندین بمگرد\r\nشادی نخوری ولیک غم باید خورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بخت به فریادم و از چرخ به درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز گردش روزگار رخ چون گل زرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل، ز پی وصال چندین بمگرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشادی نخوری ولیک غم باید خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بخت به فریادم و از چرخ به درد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز گردش روزگار رخ چون گل زرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای دل، ز پی وصال چندین بمگرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شادی نخوری ولیک غم باید خورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 123633,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/naziri/divan/robaee/sh67",
+  "RhymeLetters": "ید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی و درخشندگی لعل (سنگ قیمتی) اشاره می‌کند که مانند شهد در گوشه‌ای قرار گرفته است. خط عسلین (طلایی) روی چهره او نمایان شده و به زیبایی او می‌افزاید. همچنین، شاعر این زیبایی را به شفق (نور سرخ افق در صبح) و پرتو خورشید تشبیه می‌کند که نور و زیبایی را به صبح می‌بخشد. در اینجا، زیبایی‌های طبیعی و انسانی در کنار هم به تصویر کشیده شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "لعل تو ز طبله شهد بر گوشه کشید\r\nخط عسلیت گرد رخ گشت پدید\r\nیا عکس شفق به دامن صبح افتاد\r\nیا پرتو خورشید به خورشید تنید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعل تو ز طبله شهد بر گوشه کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخط عسلیت گرد رخ گشت پدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا عکس شفق به دامن صبح افتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا پرتو خورشید به خورشید تنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لعل تو ز طبله شهد بر گوشه کشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خط عسلیت گرد رخ گشت پدید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا عکس شفق به دامن صبح افتاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا پرتو خورشید به خورشید تنید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

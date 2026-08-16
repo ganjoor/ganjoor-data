@@ -1,0 +1,58 @@
+{
+  "Id": 101840,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/salim/divan/robaee/sh49",
+  "RhymeLetters": "انند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات به گروهی اشاره شده است که به سبب شرایطی از ایران به هند رفته‌اند. آنها در محلی به نام \u0022سرای سنبل\u0022 زندگی می‌کنند و احساس نارضایتی و غم دارند. شاعر از کمبود راه حلی برای درمان درد و رنج این افراد سخن می‌گوید و آنها را به مانند \u0022خال سفید\u0022 در هند معرفی می‌کند که نشان‌دهنده ی نابه‌هنجاری و عیب در آنجا است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انند",
+      "PlainText": "جمعی که به هند رانده از ایرانند\r\nچلمرد در سرای سنبل خانند\r\nکو مسهل حکمتی که این تیره دلان\r\nچون خال سفید عیب هندستانند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمعی که به هند رانده از ایرانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچلمرد در سرای سنبل خانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو مسهل حکمتی که این تیره دلان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خال سفید، عیب هندستانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعی که به هند رانده از ایرانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چلمرد در سرای سنبل خانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو مسهل حکمتی که این تیره دلان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون خال سفید، عیب هندستانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 96404,
+  "CatId": 2478,
+  "Title": "شمارهٔ  ۱۴۱",
+  "FullTitle": "ابوالحسن فراهانی » دیوان اشعار » رباعیات » شمارهٔ  ۱۴۱",
+  "FullUrl": "/abolhasan/divan/robaee/sh141",
+  "RhymeLetters": "رمن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گویا گوینده با احساس نارضایتی و بی‌قراری روبه‌روست. او اشاره می‌کند که سرش بر روی بالش راحتی نمی‌آید و بسترش برای او آشنا نیست. همچنین، احساس می‌کند که محصور و محدود شده است، مانند مهره‌ای که در بازی نرد باید در شش جهت حرکت کند، اما اکنون راهی برای حرکت ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمن",
+      "PlainText": "بر بالش راحتی نیامد سر من\r\nبا پهلویم آشنا نشد بستر من\r\nره بسته شد از شش جهتم هستم من\r\nچون مهره نرد و شش جهت ششدرمن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر بالش راحتی نیامد سر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا پهلویم آشنا نشد بستر من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره بسته شد از شش جهتم هستم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مهره نرد و شش جهت ششدرمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر بالش راحتی نیامد سر من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با پهلویم آشنا نشد بستر من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ره بسته شد از شش جهتم هستم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون مهره نرد و شش جهت ششدرمن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

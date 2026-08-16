@@ -1,0 +1,58 @@
+{
+  "Id": 48768,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۴۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۴۹",
+  "FullUrl": "/orfi/robaeeor/sh49",
+  "RhymeLetters": "توبرداشتنیاست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این چهار بیت به عشق و زیبایی اشاره دارد. شاعر می‌گوید که علم و معرفت عشق را باید به دست آورد، اما گنج عشق را می‌توان با عمل به دست آورد. اگر عشق واقعی باشد، هیچ کس نمی‌تواند آن را نابود کند و اگر زیبایی تو وجود داشته باشد، دل‌ها نمی‌توانند از آن جدا شوند. به طور کلی، این اشعار به عمق و ارزش عشق و زیبایی اشاره دارد و نشان‌دهنده‌ی قدرت ماندگاری آن‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "توبرداشتنیاست",
+      "PlainText": "عرفی علم هجر تو افراشتنی است\r\nگنجی تو ولی نقد تو برداشتنی است\r\nگر عشق تویی تخم تو ناکشتنی است\r\nور حسن تویی دل ز تو برداشتنی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعرفی علم هجر تو افراشتنی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنجی تو ولی نقد تو برداشتنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر عشق تویی، تخم تو ناکشتنی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور حسن تویی، دل ز تو برداشتنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی علم هجر تو افراشتنی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گنجی تو ولی نقد تو برداشتنی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر عشق تویی، تخم تو ناکشتنی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور حسن تویی، دل ز تو برداشتنی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

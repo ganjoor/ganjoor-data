@@ -1,0 +1,58 @@
+{
+  "Id": 107221,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۵۸",
+  "FullUrl": "/daye/divan/robaee/sh58",
+  "RhymeLetters": "انهمنم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی معشوق خود اشاره می‌کند و خود را به پروانه‌ای تشبیه می‌کند که به شمع (رخسار معشوق) نزدیک شده است. او بیان می‌کند که دلش تنها غم عشق معشوق را دارد و خود را بیگانه‌ای در این عشق می‌داند. همچنین، زنجیر موهای معشوق را نماد آزادی‌اش می‌داند که بر گردن اوست و بر گردن خود، دیوانگی و عشق را می‌بیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهمنم",
+      "PlainText": "شمع است رخ خوب تو پروانه منم\r\nدل خویش غمان تست بیگانه منم\r\nزنجیر سر زلف که بر گردن تست\r\nبر گردن بنده نه که دیوانه منم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع است رخ خوب تو پروانه منم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل خویش غمان تست بیگانه منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنجیر سر زلف که بر گردن تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گردن بنده نه که دیوانه منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمع است رخ خوب تو پروانه منم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل خویش غمان تست بیگانه منم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنجیر سر زلف که بر گردن تست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر گردن بنده نه که دیوانه منم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

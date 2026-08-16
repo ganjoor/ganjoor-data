@@ -1,0 +1,58 @@
+{
+  "Id": 113913,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/jahan/divan/robaee/sh40",
+  "RhymeLetters": "امست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به ارتباط و وصال معشوق اشاره می‌کند و می‌گوید که برای او این وصال بسیار شیرین و مطلوب است. او همچنین اشاره می‌کند که هرچند عاشقان زیادی وجود دارند، اما این دنیا به خاطر عدم محبوبیت و بدنامی‌اش، بیچاره و ناامید است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اماست",
+      "PlainText": "ما را ز جهان وصل نگاری کام است\r\nوز کام جدا گشتنم از ناکام است\r\nعشاق تو در جهان بسی هست ولی\r\nبیچاره جهان که در جهان بدنام است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را ز جهان وصل نگاری کام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز کام جدا گشتنم از ناکام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشّاق تو در جهان بسی هست ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره جهان که در جهان بدنام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما را ز جهان وصل نگاری کام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز کام جدا گشتنم از ناکام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشّاق تو در جهان بسی هست ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیچاره جهان که در جهان بدنام است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

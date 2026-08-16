@@ -1,0 +1,58 @@
+{
+  "Id": 45814,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۱",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۱",
+  "FullUrl": "/ghaani/robaeegh/sh1",
+  "RhymeLetters": "وشهمرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بیان احساس خستگی و نارضایتی از زندگی پرداخته است. او بیان می‌کند که دیگر از تلاش زیاد و کار کردن خسته شده و به دنبال آرامش و همچنین مقدار کمی از روزی و آسایش است. او به تصویر گاوهایی که دائماً در حال کارند و مرغی که تنها به یک دانه نیاز دارد، اشاره می‌کند تا نشان دهد که به سادگی و آرامش نیاز دارد و دیگر نمی‌خواهد در اجتماع فشار و زحمت زیادی را تحمل کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشهمرا",
+      "PlainText": "از کشت عمل بس است یک خوشه مرا\r\nدر روی زمین بس است یک گوشه مرا\r\nتا چند چو گاو گرد خرمن گردیم\r\nچون مرغ بس است دانه ای توشه مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز کشت عمل بس است یک خوشه مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر روی زمین بس است یک گوشه مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند چو گاو گرد خرمن گردیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مرغ بس است دانه‌ای توشه مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کشت عمل بس است یک خوشه مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در روی زمین بس است یک گوشه مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا چند چو گاو گرد خرمن گردیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون مرغ بس است دانه‌ای توشه مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

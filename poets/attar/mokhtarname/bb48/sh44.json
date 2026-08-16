@@ -1,0 +1,58 @@
+{
+  "Id": 36128,
+  "CatId": 849,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "عطار » مختارنامه » باب چهل و هشتم: در سخن گفتن به زبان شمع » شمارهٔ ۴۴",
+  "FullUrl": "/attar/mokhtarname/bb48/sh44",
+  "RhymeLetters": "رمبایدمرد",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به بیان احساس درد و ناامیدی خود می‌پردازد. او می‌گوید که با آمدن شمع، به مرگ و نابودی‌اش نزدیک می‌شود و هر لحظه باید با سوز و زجری که دارد، طاقت بیاورد. او به خاطر یادها و خاطراتش، زندگی‌اش به نوعی مرگ است و در واقع، وجودش در این دنیا مانند مرده‌ای است که خواب و خوراک ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمبایدمرد",
+      "PlainText": "شمع آمد و گفت بیسرم باید مرد\r\nهر لحظه به سوز دیگرم باید مرد\r\nچون مرده یادم ز سرم باید زیست\r\nچون زنده بیخواب و خورم باید مرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع آمد و گفت: بیسرم باید مُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر لحظه به سوز دیگرم باید مُرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مردهٔ یادم ز سرم باید زیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون زندهٔ بیخواب و خورم باید مرُد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمع آمد و گفت: بیسرم باید مُرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر لحظه به سوز دیگرم باید مُرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون مردهٔ یادم ز سرم باید زیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون زندهٔ بیخواب و خورم باید مرُد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

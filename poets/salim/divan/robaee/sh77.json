@@ -1,0 +1,58 @@
+{
+  "Id": 101868,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۷۷",
+  "FullUrl": "/salim/divan/robaee/sh77",
+  "RhymeLetters": "امیگویم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر با ستایش و ذکر نام محبوبش، به نوعی خود را به خداوند مربوط می‌داند. او از خدای خود می‌خواهد که در سفرش، از در محبوبش بهره‌مند شود و در این لحظه‌ی دعا و ثنا، احساسات خود را ابراز می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیگویم",
+      "PlainText": "ای آنکه ترا مدح و ثنا می گویم\r\nنامت چوبرم نام خدا می گویم\r\nخواهم ز درت بار سفر بربندم\r\nتا حال ثنا کنون دعا می گویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه ترا مدح و ثنا می گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامت چوبرم، نام خدا می گویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهم ز درت بار سفر بربندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا حال ثنا، کنون دعا می گویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه ترا مدح و ثنا می گویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نامت چوبرم، نام خدا می گویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم ز درت بار سفر بربندم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا حال ثنا، کنون دعا می گویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

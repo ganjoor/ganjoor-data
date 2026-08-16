@@ -1,0 +1,58 @@
+{
+  "Id": 75778,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/nezari/robnez/sh31",
+  "RhymeLetters": "اندگرست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به تضاد بین عشق و ایمان اشاره می‌کند. او خود و رفقایش را به عنوان افرادی بی‌اعتنا به عشق معرفی می‌کند و از آنان به عنوان \u0022کافر عشق\u0022 یاد می‌کند. همچنین، ضعف خود را در مقایسه با سلیمان، نماد قدرت، بیان می‌کند. در نهایت، او از وضع نابسامان خود و رفقایش می‌گوید و به وضعیت دیگران که در وضعیت بهتری قرار دارند اشاره می‌کند. به طور کلی، ابیات نمادی از حسرت و ناامیدی در مواجهه با عشق و زندگی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندگرست",
+      "PlainText": "ما کافر عشقیم مسلمان دگرست\r\nما مور ضعیفیم سلیمان دگرست\r\nاز ما رخ زرد و جامه پاره طلب\r\nبازارچه قصب فروشان دگرست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما کافر عشقیم مسلمان دگرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما مور ضعیفیم سلیمان دگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ما رخ زرد و جامه پاره طلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازارچه قصب فروشان دگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما کافر عشقیم مسلمان دگرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما مور ضعیفیم سلیمان دگرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ما رخ زرد و جامه پاره طلب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بازارچه قصب فروشان دگرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50203,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۴۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۴۳",
+  "FullUrl": "/mahsati/robmah/sh143",
+  "RhymeLetters": "من",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت از درد جدایی و غم هجرت سخن می‌گوید. او مانند یک بت عهدشکن، به دوست خود اشاره می‌کند که به خاطر غصه‌های او، حتی دشمن هم گریه کرده است. شاعر از شدت عشق و اندوهی که دارد، احساس تنهایی و سوختن دلش را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "من",
+      "PlainText": "دوش از غم هجرت ای بت عهدشکن\r\nچون دوست همی گریست بر من دشمن\r\nاز بس که من از عشق تو می نالیدم\r\nتا روز همی سوخت دل شمع به من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوش از غم هجرت ای بت عهدشکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دوست همی گریست بر من دشمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که من از عشق تو می‌نالیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا روز همی سوخت دل شمع به من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوش از غم هجرت ای بت عهدشکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون دوست همی گریست بر من دشمن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که من از عشق تو می‌نالیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا روز همی سوخت دل شمع به من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 74542,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/ghodsi/robghm/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان خلوص نیت در دعا و ارتباط معنوی می‌پردازند. می‌گوید که دعاهای حقیقی از ریاکاری خالی‌اند و هم برای شاهان و هم برای گدایان نتیجه خواهند داشت. همچنین به جایگاه و مقام معنوی رهبر و پیر در خانقاه اشاره می‌کند که دعاهای او همواره مورد اجابت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "آنی تو که نیست در دعای تو ریا\r\nوین حرف نهفته نیست بر شاه و گدا\r\nای پیر جوان تویی که در خانقهت\r\nمقرون به اجابت است پیوسته دعا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنی تو که نیست در دعای تو ریا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین حرف، نهفته نیست بر شاه و گدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پیر جوان، تویی که در خانقهت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمقرون به اجابت است پیوسته دعا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی تو که نیست در دعای تو ریا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین حرف، نهفته نیست بر شاه و گدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای پیر جوان، تویی که در خانقهت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مقرون به اجابت است پیوسته دعا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

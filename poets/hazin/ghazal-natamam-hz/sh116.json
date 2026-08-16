@@ -1,0 +1,72 @@
+{
+  "Id": 83277,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۱۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۱۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh116",
+  "RhymeLetters": "ازنیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف وضعیت آشفته و طوفانی حیات می‌پردازد که در آن هیچ کس نمی‌تواند به کمک آید. شاعر از ساقی می‌خواهد نوشیدنی بیاورد زیرا در این اوضاع خطرناک هیچ چیز دیگری دلپذیر نیست. او از تجربه زندگی خسته شده و می‌گوید تنها وجود پیر می‌فروش که امروز بدون مقام و قدرت است، قابل توجه است، زیرا او هم به نوعی به حقیقت تلخی اشاره می‌کند که به بی‌نیازی از چیزهای ظاهری اشاره دارد. در نهایت، شاعر از یکنواختی زندگی و عدم جاذبه‌های آن رنج می‌برد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرنیست",
+      "PlainText": "طوفان فتنه است و کسی دستگیر نیست\r\nساقی بیار کشتی می را گزیر نیست\r\nلخت جگر همین به مذاق من آشناست\r\nاز خوان دهر قوت دگر دلپذیر نیست\r\nجز پیر می فروش که امروز بی ریاست\r\nپیری ندیده ایم که آبش به شیر نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطوفان فتنه است و کسی دستگیر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساقی بیار کشتی می را، گزیر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلخت جگر، همین به مذاق من آشناست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خوان دهر، قوت دگر دلپذیر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز پیر می فروش که امروز بی ریاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیری ندیده ایم که، آبش به شیر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طوفان فتنه است و کسی دستگیر نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساقی بیار کشتی می را، گزیر نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لخت جگر، همین به مذاق من آشناست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خوان دهر، قوت دگر دلپذیر نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جز پیر می فروش که امروز بی ریاست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پیری ندیده ایم که، آبش به شیر نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45744,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۸۲",
+  "FullUrl": "/ghaani/ghetegh/sh82",
+  "RhymeLetters": "وش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این موضوع اشاره دارند که هر کس اگر ایمان و اعتقاد خوبی داشته باشد، نمی‌تواند به سادگی از ضعف‌های دیگران انتقاد کند و سکوت می‌کند. در اینجا به شخصیت خسرو اشاره شده که عیب‌های شیرین، یعنی خوبی‌های دیگران، برایش ناخوشایند نیست و به این ترتیب نشان‌دهنده احترام و درک اوست.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وش",
+      "PlainText": "هرکرا حسن اعتقادی هست\r\nعذر منکر نمی کند خاموش\r\nاین مسلم بودکه خسرو را\r\nعیب شیرین نمی رود درگوش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکرا حسن اعتقادی هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعذر منکر نمی کند خاموش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مسلم بودکه خسرو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیب شیرین نمی‌رود درگوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکرا حسن اعتقادی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عذر منکر نمی کند خاموش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این مسلم بودکه خسرو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیب شیرین نمی‌رود درگوش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

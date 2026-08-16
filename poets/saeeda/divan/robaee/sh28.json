@@ -1,0 +1,58 @@
+{
+  "Id": 107928,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/saeeda/divan/robaee/sh28",
+  "RhymeLetters": "انشدهاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به دو جنبه‌ی ایمان و کفر اشاره دارد. شعر بیان می‌کند که این دو حالت مانند رشته‌ای با دو سر هستند: یک سر پنهان که جمع و متحد است و سر دیگر که عیان و پراکنده شده است. به طور کلی، شاعر تفاوتهای بین ایمان و کفر را در ظاهر و باطن مورد بررسی قرار می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انشدهاست",
+      "PlainText": "آن رشته که کیش کفر و ایمان شده است\r\nدو سر دارد ظاهر و پنهان شده است\r\nآن سر که نهان ز ماست آن سر جمع است\r\nآن سر که عیان گشت پریشان شده است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن رشته که کیش کفر و ایمان شده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو سر دارد ظاهر و پنهان شده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن سر، که نهان ز ماست آن سر، جمع است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن سر که عیان گشت پریشان شده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن رشته که کیش کفر و ایمان شده است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دو سر دارد ظاهر و پنهان شده است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن سر، که نهان ز ماست آن سر، جمع است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن سر که عیان گشت پریشان شده است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

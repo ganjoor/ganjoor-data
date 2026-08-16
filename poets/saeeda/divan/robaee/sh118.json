@@ -1,0 +1,58 @@
+{
+  "Id": 108018,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۱۸",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۱۸",
+  "FullUrl": "/saeeda/divan/robaee/sh118",
+  "RhymeLetters": "ان",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی عشق و زیبایی عشق است. شاعر به محبوبش اشاره می‌کند و از فدای دو جهان به خاطر موی او سخن می‌گوید. او بیان می‌کند که هیچ دلی نیست که از زیبایی ابروی محبوب زخمی نشده باشد و در دست محبوبش کمانی است که تمام جهان را به قربان می‌خواند. به طور کلی، این اشعار بیانگر شدت عشق و تاثیر زیبایی معشوق بر دل‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "ای بسته میان تو کمر بر دل و جان\r\nبادا دو جهان فدای آن موی میان\r\nیک دل بی زخم تیغ ابروی تو نیست\r\nدر دست تو یک کمان و عالم قربان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بسته میان تو کمر بر دل و جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبادا دو جهان فدای آن موی میان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک دل بی زخم تیغ ابروی تو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دست تو یک کمان و عالم قربان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بسته میان تو کمر بر دل و جان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بادا دو جهان فدای آن موی میان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک دل بی زخم تیغ ابروی تو نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دست تو یک کمان و عالم قربان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 69362,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/azraghi/arob/sh1",
+  "RhymeLetters": "اب",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شخصی که حق از باطل را تمیز می‌دهد، به دنبال بزرگی و آبرو از توست. مشخص است که دانه در دریا به دنبال آب زلال نمی‌گردد. غواص حکیم به دنبال سراب نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "آن کس که ز ناصواب بشناخت صواب\r\nبی خدمت تو کرد طلب حشمت و آب\r\nمعلوم بود که دانۀ در خوشاب\r\nغواص خردمند نجوید ز سراب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که ز ناصواب بشناخت صواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی خدمت تو کرد طلب حشمت و آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعلوم بود که دانۀ در خوشاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغواص خردمند نجوید ز سراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که ز ناصواب بشناخت صواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی خدمت تو کرد طلب حشمت و آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معلوم بود که دانۀ در خوشاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غواص خردمند نجوید ز سراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

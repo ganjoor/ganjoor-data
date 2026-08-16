@@ -1,0 +1,58 @@
+{
+  "Id": 99041,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۷۳",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh73",
+  "RhymeLetters": "انمهمهتو",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر عشق و وابستگی عمیق شاعر به معشوق است. شاعر می‌گوید که تمام وجودش وابسته به معشوق است و او را جانی و دلی می‌داند. عشق او به گونه‌ای است که احساس می‌کند هویتش تنها در وجود معشوق تعریف می‌شود و خود را در او گم کرده است. به عبارتی، معشوق تمام هستی و وجود او را تشکیل می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمهمهتو",
+      "PlainText": "ای زندگی من و توانم همه تو\r\nجانی و دلی ای دل و جانم همه تو\r\nتو هستی من شدی از آنی همه من\r\nمن نیست شدم در تو از آنم همه تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زندگی من و توانم همه تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانی و دلی ای دل و جانم همه تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو هستی من شدی از آنی همه من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن نیست شدم در تو از آنم همه تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زندگی من و توانم همه تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانی و دلی ای دل و جانم همه تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو هستی من شدی از آنی همه من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من نیست شدم در تو از آنم همه تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70135,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۹۲",
+  "FullUrl": "/amir/robam/sh92",
+  "RhymeLetters": "روزیبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به اهمیت مقام و ارزش افسران و خدمتکاران در درگاه اشاره دارد. بیان می‌کند که حتی اگر در دنیا شاهان زیادی وجود داشته باشند، هیچ‌یک به پای شاه سنجر ملکشاه نمی‌رسند. این نشان‌دهنده عظمت و شرافت خاص این شاه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهبود",
+      "PlainText": "هرکس که سزای افسر وگاه بود\r\nخدمتگر این خدمت درگاه بود\r\nدر روی زمین اگر بسی شاه بود\r\nشاه همه سنجر ملکشاه بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکس که سزای افسر وگاه بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدمتگر این خدمت درگاه بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر روی زمین اگر بسی شاه بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاه همه سنجر ملکشاه بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس که سزای افسر وگاه بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خدمتگر این خدمت درگاه بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در روی زمین اگر بسی شاه بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاه همه سنجر ملکشاه بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

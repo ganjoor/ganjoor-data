@@ -1,0 +1,58 @@
+{
+  "Id": 45672,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۳۲",
+  "FullUrl": "/ghaani/ghetegh/sh32",
+  "RhymeLetters": "ونت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به یادآوری خیری که پیش از این درباره تو و افرادی که به نوعی با تو مرتبط‌اند، اشاره می‌کند. او از فزونی یا کمی این خیرو یاد می‌کند و به نوعی در انتظار روز قیامت و آخرت درباره تأثیر آن در وجود تو صحبت می‌کند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونت",
+      "PlainText": "ذکر خیری که پیش ازین بودت\r\nاز تو و رفتگان ملعونت\r\nبه دو فتحه فزون و یک یا کم\r\nباد تا روز حشر در کونت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذکر خیری که پیش ازین بودت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تو و رفتگان ملعونت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دو فتحه فزون و یک یا کم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد تا روز حشر در کونت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ذکر خیری که پیش ازین بودت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از تو و رفتگان ملعونت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به دو فتحه فزون و یک یا کم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باد تا روز حشر در کونت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

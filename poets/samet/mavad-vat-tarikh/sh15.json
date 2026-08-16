@@ -1,0 +1,82 @@
+{
+  "Id": 76929,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۱۵",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۱۵",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh15",
+  "RhymeLetters": "یم",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر ارادت و محبت به علی و اولاد او هستند. شاعر تأکید می‌کند که کسی که به علی محبت نداشته باشد، در روز قیامت جایگاهی نخواهد داشت و فقط علی و فرزندان او می‌توانند دردی را تسکین دهند. به عبارتی دیگر، عاطفه و پیوند با علی و خانواده‌اش، کلید نجات و درمان مشکلات است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ینکند",
+      "PlainText": "هر کس به علی روی تولی نکند\r\nدر ملکل جنان روز جزا جا نکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس به علی روی تولی نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ملکل جنان روز جزا جا نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "بالله به جز علی و اولاد علی\r\nدردی ز کسی کسی مداوا نکنید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبالله به جز علی و اولاد علی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردی ز کسی کسی مداوا نکنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 88,
+      "Number": 88,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "هر کس به علی روی تولی نکند\r\nدر ملکل جنان روز جزا جا نکند\r\nبالله به جز علی و اولاد علی\r\nدردی ز کسی کسی مداوا نکنید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس به علی روی تولی نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ملکل جنان روز جزا جا نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبالله به جز علی و اولاد علی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردی ز کسی کسی مداوا نکنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس به علی روی تولی نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 88,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در ملکل جنان روز جزا جا نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 88,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالله به جز علی و اولاد علی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 88,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردی ز کسی کسی مداوا نکنید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 88,
+      "SectionIndex2": 10
+    }
+  ]
+}

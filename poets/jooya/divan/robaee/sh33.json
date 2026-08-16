@@ -1,0 +1,58 @@
+{
+  "Id": 103087,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/jooya/divan/robaee/sh33",
+  "RhymeLetters": "اهست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به شب و اهمیت آن اشاره دارد. شب به عنوان نماد تاریکی و گمراهی توصیف شده است؛ اما در عین حال، بعنوان یک منبع آگاهی و روشنایی هم مطرح می‌شود. در واقع، تاریکی شب به چشم‌ها فرصتی می‌دهد تا به عمق و زیبایی‌های پنهان بیشتر توجه کنند. لذا می‌توان گفت که شب، با وجود تاریکی‌اش، می‌تواند به روشنی و درک عمیق‌تری منجر شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهست",
+      "PlainText": "شب عینک چشم عارف آگاهست\r\nشب خضر ره تیره دل گمراهست\r\nبی ظلمت شب روشنی از مه مطلب\r\nتاریکی شب سرمه چشم ماهست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب عینک چشم عارف آگاهست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب خضر ره تیره دل گمراهست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی ظلمت شب روشنی از مه مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاریکی شب سرمهٔ چشم ماهست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب عینک چشم عارف آگاهست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب خضر ره تیره دل گمراهست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی ظلمت شب روشنی از مه مطلب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاریکی شب سرمهٔ چشم ماهست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

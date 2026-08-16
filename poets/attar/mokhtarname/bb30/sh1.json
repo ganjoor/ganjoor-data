@@ -1,0 +1,58 @@
+{
+  "Id": 35256,
+  "CatId": 831,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "عطار » مختارنامه » باب سی‌ام: در فراغت نمودن از معشوق » شمارهٔ ۱",
+  "FullUrl": "/attar/mokhtarname/bb30/sh1",
+  "RhymeLetters": "یممیبینممن",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شاعر در این اشعار بیان می‌کند که از شدت احساسات متضاد امید و بیم دچار سردرگمی شده است. او در هر دو احساس دو نیمهٔ دل را می‌بیند. همچنین هر چه بیشتر به کار و مسائل اطرافش نگاه می‌کند، احساس استغنا و بی‌نیازی عظیمی را تجربه می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یممیبینممن",
+      "PlainText": "از بس که امید و بیم میبینم من\r\nاز هر دو دلی دو نیم میبینم من\r\nچندان که به سر کار در مینگرم\r\nاستغنایی عظیم میبینم من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که امید و بیم میبینم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هر دو دلی دو نیم میبینم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان که به سِرِّ کار در مینگرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاستغنائی عظیم میبینم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بس که امید و بیم میبینم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از هر دو دلی دو نیم میبینم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چندان که به سِرِّ کار در مینگرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "استغنائی عظیم میبینم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

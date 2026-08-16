@@ -1,0 +1,58 @@
+{
+  "Id": 70071,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/amir/robam/sh28",
+  "RhymeLetters": "اتخوشاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به توصیف ویژگی‌های برجسته یک شخص خاص می‌پردازد. او را به مهری زیبا و دل‌فریب تشبیه می‌کند و به علو جایگاه او مانند آسمان اشاره می‌نماید. این شخص را سرداری می‌داند که رهبری مردم را بر عهده دارد و به عنوان وزیر و سرپرست جهان، دارای مقام و احترام ویژه‌ای است. به طور کلی، شاعر از عظمت و بالندگی این فرد سخن می‌گوید و او را محوری برای خیر و برکت در جهان می‌شناسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یریکهتوراست",
+      "PlainText": "رخشنده چو مهرست ضمیری که تو راست\r\nعالی چو سپهرست سریری که تو راست\r\nفرمانده خلق است مشیری که تو راست\r\nمخدوم جهان است وزیری که توراست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخشنده چو مهرست ضمیری که تو راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالی چو سپهرست سریری که تو راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرمانده خلق است مشیری که تو راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمخدوم جهان است وزیری که توراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخشنده چو مهرست ضمیری که تو راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالی چو سپهرست سریری که تو راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرمانده خلق است مشیری که تو راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مخدوم جهان است وزیری که توراست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

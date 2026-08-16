@@ -1,0 +1,58 @@
+{
+  "Id": 82981,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۹۳",
+  "FullUrl": "/hazin/robaee-hz/sh93",
+  "RhymeLetters": "امیدارد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به احساس انزوا و تنهایی اشاره دارد. شاعر از شرایط نامساعد و افسرده‌ای سخن می‌گوید که در آن، درد و رنج وجود دارد و زندگی به کندی پیش می‌رود. همچنین، در این محفل غمگین، به نظر می‌رسد که جز زانو زدن و التماس برای کمکی از دیگران، کاری از دست ما ساخته نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیدارد",
+      "PlainText": "دهرم به شکنج انزوا می دارد\r\nوین مظلمه را چرخ روا می دارد\r\nدر محفل افسرده دوران بخیل\r\nزانوست که کاسه ای به ما می دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهرم به شکنج انزوا می دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین مظلمه را چرخ روا می دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر محفل افسرده دوران بخیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانوست که کاسه ای به ما می دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دهرم به شکنج انزوا می دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین مظلمه را چرخ روا می دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در محفل افسرده دوران بخیل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زانوست که کاسه ای به ما می دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

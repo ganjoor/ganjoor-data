@@ -1,0 +1,58 @@
+{
+  "Id": 83111,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱۴",
+  "FullUrl": "/hazin/robaee-hz/sh214",
+  "RhymeLetters": "هیاوردم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با یک پیشکش از خود نزد معشوق می‌آید؛ اما احساس می‌کند که دستش خالی و کم است. او از بیماری دوری معشوق رنج می‌برد و در نهایت با نوشیدن جام وصال، حالتی از زیبایی و سروری را به ارمغان می‌آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هیاوردم",
+      "PlainText": "پیش کرمت دست تهی آوردم\r\nنزد تو کمی و کوتهی آوردم\r\nبیماری هجر داشتم جام وصال\r\nنوشیدم و رویی به بهی آوردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش کرمت دست تهی آوردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزد تو، کمیّ و کوتهی آوردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیماری هجر داشتم، جام وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوشیدم و رویی به بهی آوردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش کرمت دست تهی آوردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نزد تو، کمیّ و کوتهی آوردم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیماری هجر داشتم، جام وصال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نوشیدم و رویی به بهی آوردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

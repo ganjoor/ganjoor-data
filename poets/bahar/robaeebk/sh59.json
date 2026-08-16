@@ -1,0 +1,58 @@
+{
+  "Id": 51782,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/bahar/robaeebk/sh59",
+  "RhymeLetters": "یرمکن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از معشوق خواسته که با دل بدی به او نزدیک نشود و خوبی‌اش را بی‌فایده نکند. او همچنین اشاره می‌کند که بعد از سه سال ارتباط صادقانه، دیگر نیازی به عهد و پیمان با دیگران نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرمکن",
+      "PlainText": "ای خواجه به خط بد دلی سیر مکن\r\nخوبی را بی برکت و بی خیر مکن\r\nکاری که  پس  از سه سال هم عهدی و صدق\r\nبا من کردی بس است با غیر مکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه به خط بد دلی سیر مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوبی را بی‌برکت و بی‌خیر مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاری که‌ پس‌ از سه سال هم‌عهدی و صدق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا من کردی بس است با غیر مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه به خط بد دلی سیر مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوبی را بی‌برکت و بی‌خیر مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کاری که‌ پس‌ از سه سال هم‌عهدی و صدق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با من کردی بس است با غیر مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

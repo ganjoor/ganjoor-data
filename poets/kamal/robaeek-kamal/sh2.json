@@ -1,0 +1,58 @@
+{
+  "Id": 71739,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/kamal/robaeek-kamal/sh2",
+  "RhymeLetters": "ندبادصبا",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها به توصیف زیبایی‌های طبیعت و تأثیر باد صبا بر آن می‌پردازند. باد صبا گاهی زلف‌های بنفشه را می‌کَند، گاه ساغرهای لاله را می‌شکند و به آب لرزه می‌اندازد. در نهایت، این باد همزمان با لطافت خود لحظاتی زیبا را خلق می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندبادصبا",
+      "PlainText": "گه زلف بنفشه برکند باد صبا\r\nگه ساغر لاله بشکند باد صبا\r\nگه لرزه بر آب افگند باد صبا\r\nو آنگه چه دم لطف زند باد صبا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه زلف بنفشه برکند باد صبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه ساغر لاله بشکند باد صبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه لرزه بر آب افگند باد صبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آنگه چه دم لطف زند باد صبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه زلف بنفشه برکند باد صبا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه ساغر لاله بشکند باد صبا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه لرزه بر آب افگند باد صبا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "و آنگه چه دم لطف زند باد صبا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

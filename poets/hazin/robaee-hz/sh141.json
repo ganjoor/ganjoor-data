@@ -1,0 +1,58 @@
+{
+  "Id": 83029,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۴۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۴۱",
+  "FullUrl": "/hazin/robaee-hz/sh141",
+  "RhymeLetters": "ردیدارند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف افرادی می‌پردازد که به ظاهر سر و پا ندارند و در زندگی خود از چارچوب‌های درست خارج شده‌اند. آن‌ها به صورت متوهم و در خیال زندگی می‌کنند و در واقعیتی غیراخلاقی و بی‌هدف سرگردانند. اما با وجود این، در قلوبشان نشانه‌ای از شجاعت و مردانگی وجود دارد که نمی‌توان به راحتی مشاهده کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردیدارند",
+      "PlainText": "بی پا و سران که هرزه گردی دارند\r\nبر مرکب وهم ره نوردی دارند\r\nنقشی ز عیار قلبشان کس نزند\r\nاز سکه زر سکه مردی دارند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی پا و سران که هرزه گردی دارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر مرکب وهم، ره نوردی دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقشی ز عیار قلبشان کس نزند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سکهٔ زر، سکهٔ مردی دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی پا و سران که هرزه گردی دارند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر مرکب وهم، ره نوردی دارند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نقشی ز عیار قلبشان کس نزند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سکهٔ زر، سکهٔ مردی دارند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

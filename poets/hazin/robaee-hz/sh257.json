@@ -1,0 +1,58 @@
+{
+  "Id": 83154,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۵۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۵۷",
+  "FullUrl": "/hazin/robaee-hz/sh257",
+  "RhymeLetters": "فتی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به ناله و غم خود اشاره می‌کند و از بیان احساسات سخن می‌گوید. او از کسی می‌خواهد که به جای درون‌گرایی و سکوت، خود را به جمع آزاداندیشان بکشاند و به رشد و شکوفایی بپردازد. در واقع، او به تحولی از حالت خاری به غنچه و شکوفه اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتی",
+      "PlainText": "خاموش حزین که گفتنی ها گفتی\r\nبا مثقب کلک خویش درها سفتی\r\nاکنون خود را به کوی آزادان کش\r\nخاری بودی غنچه شدی بشکفتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاموش حزین که گفتنی ها گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا مثقب کلک خویش درها سفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون خود را به کوی آزادان کش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاری بودی، غنچه شدی، بشکفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خاموش حزین که گفتنی ها گفتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با مثقب کلک خویش درها سفتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون خود را به کوی آزادان کش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاری بودی، غنچه شدی، بشکفتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

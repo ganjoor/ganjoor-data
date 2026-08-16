@@ -1,0 +1,58 @@
+{
+  "Id": 83342,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۸۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۸۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh181",
+  "RhymeLetters": "ادهشود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به موضوع همت و اراده اشاره دارد و بیانگر این است که در برابر مشکلات و ناملایمات نباید تسلیم شد. شاعر از تشنگی خود و نیاز به نیرویی قوی‌تر سخن می‌گوید و تأکید می‌کند که او هیچگاه در برابر کم‌ارزشی و بی‌توجهی تسلیم نخواهد شد. او انتظار دارد که در شرایط سخت، به خواسته‌ها و آرزوهایش برسد و در عین حال هیچ‌گونه کمبود و فشاری را تحمّل نکند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وننشود",
+      "PlainText": "همت آن است که در پیش کرم دون نشود\r\nکف من از گهر آبله ممنون نشود\r\nمن جگر تشنه آن تیغم و او صرفه شعار\r\nدم آبی ندهد تا دل من خون نشود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمّت آن است که در پیش کرم، دون نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکف من از گهر آبله ممنون نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن جگر تشنهٔ آن تیغم و او صرفه شعار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدم آبی ندهد، تا دل من خون نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همّت آن است که در پیش کرم، دون نشود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کف من از گهر آبله ممنون نشود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من جگر تشنهٔ آن تیغم و او صرفه شعار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دم آبی ندهد، تا دل من خون نشود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

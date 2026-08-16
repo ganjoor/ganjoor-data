@@ -1,0 +1,82 @@
+{
+  "Id": 23522,
+  "CatId": 342,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "فروغی بسطامی » دیوان اشعار » تضمین‌ها » شمارهٔ ۱۱",
+  "FullUrl": "/forooghi/divan-forooghi/tazminha/sh11",
+  "RhymeLetters": "ویتودارم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به یاد یک ماه زیبا و دلخواه می‌افتد که در خانه‌اش حضور داشته است. او با بهانه‌های مختلف به آن فکر می‌کند و در حالی که این تصویر در ذهنش شکل می‌گیرد، احساس درد و ناراحتی عمیقی به او دست می‌دهد و اشک‌هایش جاری می‌شود.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انه",
+      "PlainText": "دوشینه که آن ماه مشک مو را\r\nدر خانه کشیدم به صد بهانه\r\nاین بیت ملک در خیالم آمد\r\nخون دلم از دیده شد روانه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوشینه که آن ماه مشک مو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه کشیدم به صد بهانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بیت ملک در خیالم آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون دلم از دیده شد روانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "دوشینه که آن ماه مشک مو را\r\nدر خانه کشیدم به صد بهانه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوشینه که آن ماه مشک مو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه کشیدم به صد بهانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "این بیت ملک در خیالم آمد\r\nخون دلم از دیده شد روانه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بیت ملک در خیالم آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون دلم از دیده شد روانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوشینه که آن ماه مشک مو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خانه کشیدم به صد بهانه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این بیت ملک در خیالم آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون دلم از دیده شد روانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    }
+  ]
+}

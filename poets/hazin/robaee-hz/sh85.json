@@ -1,0 +1,58 @@
+{
+  "Id": 82973,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸۵",
+  "FullUrl": "/hazin/robaee-hz/sh85",
+  "RhymeLetters": "داگردید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به حالت دلتنگی و بی‌راهی خود اشاره می‌کند. او از دل و جان خود برای رسیدن به محبوب و دوستش تمنا می‌کند و احساس می‌کند که دشمنان به او طعنه می‌زنند. اما در نهایت، با وجود موانع و بسته شدن راه‌ها، به راهی برای رسیدن به محبت و دوستی برخورد می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "داگردید",
+      "PlainText": "یک چند دل از پی تمنا گردید\r\nجانم هدف طعنه اعدا گردید\r\nگردید ز هر طرف چو راهم بسته\r\nراه سر کوی دوست پیدا گردید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک چند دل از پی تمنا گردید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانم هدف طعنه اعدا گردید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردید ز هر طرف چو راهم بسته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراه سر کوی دوست پیدا گردید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک چند دل از پی تمنا گردید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانم هدف طعنه اعدا گردید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردید ز هر طرف چو راهم بسته",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "راه سر کوی دوست پیدا گردید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

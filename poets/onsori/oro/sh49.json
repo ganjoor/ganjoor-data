@@ -1,0 +1,58 @@
+{
+  "Id": 68899,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/onsori/oro/sh49",
+  "RhymeLetters": "ن",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر توصیف زیبایی‌های معشوقه‌ای است که دارای ویژگی‌های جذاب و زیبا مانند سیب، گل و چهره‌ای که با سیم و زیبایی خاصی آراسته شده است. شاعر به زیبایی‌های چهره و موهای او اشاره می‌کند و این زیبایی‌ها را با لاله و مشک مقایسه می‌کند. در کل، این شعر غرق در توصیف و تحسین جذابیت‌های معشوقه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "سیب و گل و سیم دارد آن دلبر من\r\nسیبش زنخ و گل دو رخ و سیمش تن\r\nبنگر به رخ و دو زلف آن سیم ذقن\r\nتا لاله به خروار بری مشک به من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیب و گل و سیم دارد آن دلبر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیبش زنخ و گل دو رخ و سیمش تن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنگر به رخ و دو زلفِ آن سیم‌ذقن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا لاله به خروار بری، مشک به من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سیب و گل و سیم دارد آن دلبر من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیبش زنخ و گل دو رخ و سیمش تن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنگر به رخ و دو زلفِ آن سیم‌ذقن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا لاله به خروار بری، مشک به من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

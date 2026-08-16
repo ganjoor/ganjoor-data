@@ -1,0 +1,58 @@
+{
+  "Id": 68854,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/onsori/oro/sh4",
+  "RhymeLetters": "وست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این ابیات اشاره به زیبایی و جذابیت چهره دوست دارند. شاعر می‌گوید که چهره‌ی دوست مانند گلی شکفته است، اما خود او گل نیست، بلکه زیبایی‌اش همچون گل سرخ است. او تأکید می‌کند که نمی‌توان پوست گل سرخ را با زیبایی چهره‌ی دوست مقایسه کرد. در حقیقت، زیبایی و نورانی بودن چهره‌ی دوست فراتر از گل‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "بشکفته گلی ست بر رخ فرخ دوست\r\nنی نی گل نیست آن رخ فرخ اوست\r\nهمچون گل سرخ پوست آن برگ نکوست\r\nهرگز دیدی که سرخ گل دارد پوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشکفته گلی‌ست بر رخِ فرخِ دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی نی گل نیست، آن رخِ فرخِ اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچون گل سرخ پوستِ آن برگ نکوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز دیدی که سرخ گل دارد پوست؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بشکفته گلی‌ست بر رخِ فرخِ دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی نی گل نیست، آن رخِ فرخِ اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچون گل سرخ پوستِ آن برگ نکوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز دیدی که سرخ گل دارد پوست؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

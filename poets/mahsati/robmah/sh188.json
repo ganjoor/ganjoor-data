@@ -1,0 +1,58 @@
+{
+  "Id": 50248,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۸۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۸۸",
+  "FullUrl": "/mahsati/robmah/sh188",
+  "RhymeLetters": "ترسایی",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی زلف معشوق اشاره می‌کند و به احساس نگرانی و دلواپسی که از عشق او دارد، می‌پردازد. او از قدرت و عظمت معشوق سخن می‌گوید و با وجود این قدرت، همچنان دلش برای او می‌تپد و از اینکه به او نزدیک است، ترس و نگرانی دارد. این تضاد بین قدرت و ضعف عاطفی در شعر به خوبی نشان داده شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ترسایی",
+      "PlainText": "هر گه که به زلف عنبر تر سایی\r\nبیم است کزو تازه شود ترسایی\r\nتو پای ز هفت چرخ برتر سایی\r\nچون است که نزد بنده با ترس آیی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر گه که به زلف، عنبرِ تر سایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیم است کزو تازه شود ترسایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو پای ز هفت چرخ برتر سایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون است که نزد بنده با ترس آیی!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر گه که به زلف، عنبرِ تر سایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیم است کزو تازه شود ترسایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو پای ز هفت چرخ برتر سایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون است که نزد بنده با ترس آیی!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

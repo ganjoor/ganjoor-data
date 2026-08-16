@@ -1,0 +1,58 @@
+{
+  "Id": 50202,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۴۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۴۲",
+  "FullUrl": "/mahsati/robmah/sh142",
+  "RhymeLetters": "یکسوزن",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به شدت بر دقت و توجه در روابط عاطفی تاکید می‌کند. او می‌گوید که به‌جای اینکه به دو طرف یک موضوع یا رابطه همزمان توجه کنی، بهتر است بر یک نقطه تمرکز کنی. همچنین، اشاره به آتش عشق دارد که اگر شعله‌ور شود، همه را تحت تأثیر قرار می‌دهد و نه تنها مردان بلکه زنان نیز از آن می‌سوزند. در مجموع، این شعر بیانگر شدت و عمق احساسات در عشق و روابط انسانی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یکسوزن",
+      "PlainText": "بر هر دو طرف مزن تو بر یک سوزن\r\nوآن زلف شکسته را ز رخ یک سو زن\r\nگر آتش عشق تو وزد یک سوزن\r\nیک سو همه مرد سوزد و یک سو زن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر هر دو طرف مزن تو بر، یک سوزن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن زلف شکسته را ز رخ یک سو زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر آتش عشق تو وزد یک سوزن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک سو همه مرد سوزد و یک سو زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر هر دو طرف مزن تو بر، یک سوزن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآن زلف شکسته را ز رخ یک سو زن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر آتش عشق تو وزد یک سوزن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک سو همه مرد سوزد و یک سو زن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

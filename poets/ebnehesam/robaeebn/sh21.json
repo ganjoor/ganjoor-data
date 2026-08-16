@@ -1,0 +1,58 @@
+{
+  "Id": 64818,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۲۱",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۲۱",
+  "FullUrl": "/ebnehesam/robaeebn/sh21",
+  "RhymeLetters": "ارد",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و تاثیر قلم اشاره می‌کند. او می‌گوید که قلمی که از آن مشک می‌ریزد، می‌تواند بر روی صفحه گل عنبر تأثیر بگذارد و برنامه وجود انسان را به نمایش بگذارد. شاعر خواهان آن است که با قدرت قلم، عدالت برقرار شود و ظلم از میان برداشته شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارد",
+      "PlainText": "نوک قلمت که مشک از او می بارد\r\nبر صفحه گل عنبر تر بنگارد\r\nبرنامه هستی قلم انصافت\r\nبنشاند عدل و ظلم از او بردارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوک قلمت که مشک از او می بارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر صفحه گل عنبر تر بنگارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرنامه هستی قلم انصافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنشاند عدل و ظلم از او بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوک قلمت که مشک از او می بارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر صفحه گل عنبر تر بنگارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برنامه هستی قلم انصافت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنشاند عدل و ظلم از او بردارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

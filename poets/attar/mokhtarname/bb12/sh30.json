@@ -1,0 +1,58 @@
+{
+  "Id": 34569,
+  "CatId": 813,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "عطار » مختارنامه » باب دوازدهم: در شكایت از نفس خود » شمارهٔ ۳۰",
+  "FullUrl": "/attar/mokhtarname/bb12/sh30",
+  "RhymeLetters": "امیم",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به وصف خود می‌پردازد و بیان می‌کند که نه به کمال رسیده است و نه به شکست دچار شده، بلکه در وضعیت خاصی قرار دارد. همچنین اشاره می‌کند که در عشق، همچون آسمان بی‌قرار است و با وجود سال‌ها تلاش، هنوز در یک نقطه ثابت مانده و در تکاپو است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیم",
+      "PlainText": "ماییم که نه سوخته و نه خامیم\r\nنه صاف چشیده و نه درد آشامیم\r\nگرچه چو فلک ز عشق بیآرامیم\r\nصد سال به تک دویده در یک گامیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمائیم که نه سوخته و نه خامیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه صاف چشیده و نه دُرد آشامیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه چو فلک ز عشق بیآرامیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد سال به تک دویده در یک گامیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مائیم که نه سوخته و نه خامیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه صاف چشیده و نه دُرد آشامیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرچه چو فلک ز عشق بیآرامیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد سال به تک دویده در یک گامیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

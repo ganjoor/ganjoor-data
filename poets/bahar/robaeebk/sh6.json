@@ -1,0 +1,58 @@
+{
+  "Id": 51729,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/bahar/robaeebk/sh6",
+  "RhymeLetters": "ست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به منظره‌ای در دشت اشاره می‌کند که نرگسی خوشبو و زیبا در آن به چشم می‌خورد. نرگس همچون مجنونی است که در انتظار لیلی خود، از گور بیرون آمده و بر روی سبزه نشسته است. این تصویر حالتی عاشقانه و پر از انتظار را تداعی می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "بر دامن دشت بنگر آن نرگس مست\r\nچشمی به ره و سبزه  عصایی در دست\r\nگویی مجنون به انتظار لیلی\r\nاز گور برون آمد و بر سبزه نشست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر دامن دشت بنگر آن نرگس مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمی به ره و سبزه‌ عصایی در دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی مجنون به انتظار لیلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گور برون آمد و بر سبزه نشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر دامن دشت بنگر آن نرگس مست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشمی به ره و سبزه‌ عصایی در دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی مجنون به انتظار لیلی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از گور برون آمد و بر سبزه نشست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

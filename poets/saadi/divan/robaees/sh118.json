@@ -1,0 +1,58 @@
+{
+  "Id": 10179,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۱۸",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۱۸",
+  "FullUrl": "/saadi/divan/robaees/sh118",
+  "RhymeLetters": "اماوردن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "در این شعر شاعر از سختی و ناممکن بودن وصال یار خود می‌گوید که چنان دشوار است که از به‌زیر کشیدن ماه آسمان‌، تغییر دین سرزمین‌ها و جبران عبادات از دست‌رفته دشوارتر و ناممکن‌تر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اماوردن",
+      "PlainText": "مه را ز فلک به طرف بام آوردن\r\nوز روم کلیسیا به شام آوردن\r\nدر وقت سحر نماز شام آوردن\r\nبتوان نتوان تو را به دام آوردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمه را ز فلک به طرف بام آوردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز روم، کلیسیا به شام آوردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر وقت سحر نماز شام آوردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتوان، نتوان تو را به دام آوردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مه را ز فلک به طرف بام آوردن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز روم، کلیسیا به شام آوردن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در وقت سحر نماز شام آوردن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بتوان، نتوان تو را به دام آوردن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

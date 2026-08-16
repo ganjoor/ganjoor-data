@@ -1,0 +1,58 @@
+{
+  "Id": 70040,
+  "CatId": 2043,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "امیر معزی » قطعات » شمارهٔ ۳۱",
+  "FullUrl": "/amir/ghatam/sh31",
+  "RhymeLetters": "نگاری",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به دعوت از یک شخص محترم (سید) برای لذت بردن از نعمت‌ها و خوشی‌ها اشاره دارد. به او می‌گوید که هرجا که نعمتی به دست می‌آورد، باید با شتاب آن را بگیرد و در مصرف آن درنگ نکند. این شعر به نوعی تأکید بر بهره‌برداری سریع از خوشی‌ها و نعمت‌های زندگی دارد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگاری",
+      "PlainText": "بخور ای سیدی به شادی و ناز\r\nهرکجا نعمتی به چنگ آری\r\nچرخ در بردنش شتاب کند\r\nگر تو در خوردنش درنگ آری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخور ای سیدی به شادی و ناز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرکجا نعمتی به چنگ آری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرخ در بردنش شتاب کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر تو در خوردنش درنگ آری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بخور ای سیدی به شادی و ناز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرکجا نعمتی به چنگ آری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چرخ در بردنش شتاب کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر تو در خوردنش درنگ آری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

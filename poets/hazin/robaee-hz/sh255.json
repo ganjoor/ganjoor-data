@@ -1,0 +1,58 @@
+{
+  "Id": 83152,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۵۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۵۵",
+  "FullUrl": "/hazin/robaee-hz/sh255",
+  "RhymeLetters": "ونساقی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت شراب و تاثیر آن بر زندگی اشاره می‌کند. او به ساقی (آورنده شراب) می‌گوید که مانند لاله‌ای در خون نشسته‌اند و از مشکلات و رنج‌های زندگی خسته شده‌اند. همچنین، او به امید نجاتی از وضعیت بد خود اشاره می‌کند و به نوعی از سختی‌های ناشی از اعتیاد به افیون ابراز نارضایتی می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونساقی",
+      "PlainText": "از می لب غنچه گشت گلگون ساقی\r\nچون لاله نشسته ایم در خون ساقی\r\nاقبال تو می دهد ز ادبار نجات\r\nتنگ آمدم از نکبت افیون ساقی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز می، لب غنچه گشت گلگون ساقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون لاله نشسته ایم در خون ساقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاقبال تو می دهد ز ادبار نجات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنگ آمدم از نکبت افیون ساقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از می، لب غنچه گشت گلگون ساقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون لاله نشسته ایم در خون ساقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اقبال تو می دهد ز ادبار نجات",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تنگ آمدم از نکبت افیون ساقی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

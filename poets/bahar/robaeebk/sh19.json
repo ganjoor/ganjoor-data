@@ -1,0 +1,58 @@
+{
+  "Id": 51742,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/bahar/robaeebk/sh19",
+  "RhymeLetters": "ونترازاوپیدانیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر دربارهٔ قلبی غمگین و چشمی پر از اشک و خون است. شاعر می‌گوید که هیچ‌چیز به اندازهٔ این قلب محزون و این چشم پر درد یافت نمی‌شود و به بیان این می‌پردازد که این غم و شکستگی ناشی از زیبایی بی‌نظیری است که در اطراف او وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونترازاوپیدانیست",
+      "PlainText": "این قلب که محزون تر از او پیدا نیست\r\nوین چشم که پر خون  تر از او پیدا نیست\r\nدانی ز چه آن شکسته وین خونین است\r\nزان حسن که افزون تر از او پیدا نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین قلب که محزون‌تر از او پیدا نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین چشم که پر خون‌ تر از او پیدا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی ز چه آن شکسته وین خونین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان حسن که افزون‌تر از او پیدا نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این قلب که محزون‌تر از او پیدا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین چشم که پر خون‌ تر از او پیدا نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دانی ز چه آن شکسته وین خونین است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان حسن که افزون‌تر از او پیدا نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 120719,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/hamgar/divan/robaee/sh3",
+  "RhymeLetters": "ارا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از باد خواسته که وقتی به موصل می‌گذرد، یاد و سلامی به رضی بابا برساند. او به شدت به یادآوری و حفظ یاد کسانی که برایش عزیزند، تأکید دارد و احساس می‌کند که فراموشی آنها به مثابه فراموش کردن هویت و ایمانش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارا",
+      "PlainText": "ای باد چو بگذری به موصل ما را\r\nیاد آر و سلام کن رضی بابا را\r\nگویی تو جهودم ار فراموش کنم\r\nیاد تو مسلمان و بت ترسا را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باد چو بگذری به موصل ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاد آر و سلام کن رضی بابا را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوئی تو جهودم ار فراموش کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاد تو مسلمان و بت ترسا را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باد چو بگذری به موصل ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یاد آر و سلام کن رضی بابا را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گوئی تو جهودم ار فراموش کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یاد تو مسلمان و بت ترسا را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

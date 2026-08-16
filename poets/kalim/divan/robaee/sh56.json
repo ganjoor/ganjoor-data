@@ -1,0 +1,58 @@
+{
+  "Id": 90767,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/kalim/divan/robaee/sh56",
+  "RhymeLetters": "ارند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به مفهوم روزی و روزی‌خوری اشاره دارد. می‌گوید افرادی که به رزق و روزی‌های خود اهمیت می‌دهند، در واقع به رمز و رازهایی دست می‌یابند که از خلال حجاب‌ها و موانع عبور می‌کنند. در نهایت نشان می‌دهد که آنچه برای انسان مقدر شده، هرگز از او دور نخواهد شد و حتی اگر چیزی در دسترس نباشد، ممکن است به شکل دیگری به او برسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارند",
+      "PlainText": "آنان که بخوان رزق روزی خوارند\r\nرمزیست که از خلال حاجب دارند\r\nیعنی چیزیکه نیست روزی تو آن\r\nگر در دهن تست برون می آرند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که بخوان رزق روزی خوارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرمزیست که از خلال حاجب دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی چیزیکه نیست روزی تو آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر در دهن تست برون می آرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنان که بخوان رزق روزی خوارند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رمزیست که از خلال حاجب دارند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یعنی چیزیکه نیست روزی تو آن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر در دهن تست برون می آرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

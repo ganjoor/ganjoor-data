@@ -1,0 +1,58 @@
+{
+  "Id": 119541,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/neshat/divan/robaee/sh7",
+  "RhymeLetters": "اهاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به اهمیت و ارزش وجودی معشوق اشاره می‌کند. او می‌گوید وقتی محبوب در کنار ماست، جهان پر از راه و فرصت است، اما در غیاب او، دنیا به کلاف غم و مشکلات تبدیل می‌شود. همچنین، اشاره می‌کند که شخصی که از پیوند با محبوب دور است، مانند دستی است که از دامن او کوتاه شده و در واقع از ماجرای زندگی و زیبایی‌ها بی‌بهره مانده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهاست",
+      "PlainText": "گر با تو بود کس همه عالم راه است\r\nور بی تو رود جهان سراسر چاه است\r\nبا خاک سرو چاک گریبان پیوست\r\nآن دست که از دامن تو کوتاه است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر با تو بود کس همه عالم راه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور بی تو رود جهان سراسر چاه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا خاک سرو چاک گریبان پیوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن دست که از دامن تو کوتاه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر با تو بود کس همه عالم راه است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور بی تو رود جهان سراسر چاه است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با خاک سرو چاک گریبان پیوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن دست که از دامن تو کوتاه است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

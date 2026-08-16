@@ -1,0 +1,58 @@
+{
+  "Id": 64867,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۷۰",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۷۰",
+  "FullUrl": "/ebnehesam/robaeebn/sh70",
+  "RhymeLetters": "یدهچوقلم",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از سختی‌ها و مشقت‌هایی که بر او گذشته سخن می‌گوید. او خود را همچون قلمی می‌داند که با اشک و درد، از امتحانات و چالش‌ها عبور کرده است. همچنین به قربانی شدن و آسیب‌هایی که از طرف کسی که برایش بدخواه است، اشاره می‌کند. در کل، احساس ناامیدی و رنج عمیق او در این ابیات به تصویر کشیده شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدهچوقلم",
+      "PlainText": "بدخواه تو صد بلا کشیده چو قلم\r\nبا اشک روان بسر دویده چو قلم\r\nاز دست تو تیغ تیز بر سر خورده\r\nسر داده ز دست و پا بریده چو قلم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدخواه تو صد بلا کشیده چو قلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا اشک روان بسر دویده چو قلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دست تو تیغ تیز بر سر خورده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر داده ز دست و پا بریده چو قلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بدخواه تو صد بلا کشیده چو قلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با اشک روان بسر دویده چو قلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دست تو تیغ تیز بر سر خورده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر داده ز دست و پا بریده چو قلم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

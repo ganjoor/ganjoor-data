@@ -1,0 +1,45 @@
+{
+  "Id": 52031,
+  "CatId": 1849,
+  "Title": "فقرۀ ۳۹",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۳۹",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh37",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به این معناست که نباید توجه و آگاهی خود را به چیزهای بی‌ارزش و ناچیز معطوف کنیم. از طرفی، نباید خود را تسلیم چیزهایی کنیم که ما را به بند می‌کشند. در واقع، باید مراقب باشیم که به هیچ چیزی وابسته نشویم که ما را محدود کند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یز",
+      "PlainText": "کسی کش به چیز تو چشمست تیز\r\nگروگان منه در برش هیچ چیز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکسی کش به چیز تو چشمست تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگروگان منه در برش هیچ چیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "چشم آگاه را به هیچ چیز گرو منه‌.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "کسی کش به چیز تو چشمست تیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "گروگان منه در برش هیچ چیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82904,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/hazin/robaee-hz/sh16",
+  "RhymeLetters": "ارانزدورفت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از طلوع خورشید و آغاز روزی جدید صحبت می‌کند که با امید و شادی همراه است. دلدار و بلبل نیز به زیبایی‌های بهار و شور و نشاط زندگی اشاره دارند و در نهایت گل نیز نماد خنده و شادی است که به زندگی روزمره وارد می‌شود. به طور کلی، این شعر به تجلی زیبایی‌ها و احساسات مثبت در طبیعت و زندگی انسان اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارانزدورفت",
+      "PlainText": "خورشید علم به کوهساران زد و رفت\r\nدلدار در امیدواران زد و رفت\r\nبلبل دستان نوبهاران زد و رفت\r\nگل خنده به وضع روزگاران زد و رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید، علم به کوهساران زد و رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلدار، در امیدواران زد و رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل، دستان نوبهاران زد و رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل، خنده به وضع روزگاران زد و رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید، علم به کوهساران زد و رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلدار، در امیدواران زد و رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بلبل، دستان نوبهاران زد و رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل، خنده به وضع روزگاران زد و رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

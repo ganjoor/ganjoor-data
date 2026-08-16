@@ -1,0 +1,58 @@
+{
+  "Id": 83115,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱۸",
+  "FullUrl": "/hazin/robaee-hz/sh218",
+  "RhymeLetters": "یشهمکن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به عاشقان توصیه می‌کند که در عشق سستی و تنبلی نکنند و اجازه ندهند که کسالت مانع از عشق ورزی آنها شود. شاعر می‌گوید که محبوب، پیوندی عمیق با پاکبازان دارد و اگر کسی جانی برای عشق می‌طلبد، باید دل را قربانی کند و از فکر و تردید دوری کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشهمکن",
+      "PlainText": "ای رهرو عشق کاهلی پیشه مکن\r\nدر کالبد فسردگی ریشه مکن\r\nجانان سر وصل پاکبازان دارد\r\nگر جان طلبد بباز و اندیشه مکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رهرو عشق، کاهلی پیشه مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کالبد فسردگی ریشه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانان سر وصل پاکبازان دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر جان طلبد بباز و اندیشه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای رهرو عشق، کاهلی پیشه مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کالبد فسردگی ریشه مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جانان سر وصل پاکبازان دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر جان طلبد بباز و اندیشه مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

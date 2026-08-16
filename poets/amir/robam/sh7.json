@@ -1,0 +1,58 @@
+{
+  "Id": 70050,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/amir/robam/sh7",
+  "RhymeLetters": "انتورا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف عظمت و تاثیر فرمان و احسان فردی اشاره دارد. در اینجا، \u0022مهرست ظفر\u0022 نماد پیروزی و افتخار است و بهشت به عنوان جایی که ناشی از احسان و بخشش اوست، توصیف شده است. همچنین، خاک و ستاره به میدان و جاذبه او اشاره دارد و \u0022گوی زمانه\u0022 به معنای تاثیرگذاری او در طول زمان بیان شده است. به طور کلی، این اشعار بر جلال و شکوه شخصیتی خاص تاکید دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انتورا",
+      "PlainText": "مهرست ظفر نگین فرمان تو را\r\nصید است بهشت دام احسان تو را\r\nخاک است ستاره صحن میدان تو را\r\nگوی است زمانه خم جوگان تورا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهرست ظفر نگین فرمان تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصید است بهشت دام احسان تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاک است ستاره صحن میدان تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوی است زمانه خَمٌ جوگان تورا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مهرست ظفر نگین فرمان تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صید است بهشت دام احسان تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاک است ستاره صحن میدان تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوی است زمانه خَمٌ جوگان تورا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

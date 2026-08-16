@@ -1,0 +1,58 @@
+{
+  "Id": 101796,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/salim/divan/robaee/sh5",
+  "RhymeLetters": "زودبیا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر از محبوب خود دعوت می‌کند تا به نزد او بیاید و احساس شوق و انتظارش را ابراز می‌کند. او با اشاره به چشم دل، نشان می‌دهد که در انتظار دیدار محبوب است و از او می‌خواهد که زودتر بیاید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "زودبیا",
+      "PlainText": "می آیی و مطلب دل این بود بیا\r\nنزدیک شدی و شوق افزود بیا\r\nاز روزن دیده چشم دل بر راه است\r\nای روشنی دیده و دل زود بیا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی آیی و مطلب دل این بود، بیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدیک شدی و شوق افزود، بیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز روزن دیده، چشم دل بر راه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای روشنی دیده و دل، زود بیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می آیی و مطلب دل این بود، بیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نزدیک شدی و شوق افزود، بیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از روزن دیده، چشم دل بر راه است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای روشنی دیده و دل، زود بیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

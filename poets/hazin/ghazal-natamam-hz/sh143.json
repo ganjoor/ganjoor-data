@@ -1,0 +1,58 @@
+{
+  "Id": 83304,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۴۳",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۴۳",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh143",
+  "RhymeLetters": "فتارمیسوزد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت زلف محبوب اشاره می‌کند و می‌گوید هر کسی که به آن نگاه کند، در دام عشق گرفتار می‌شود. همچنین او به جدایی و تشنگی هر ذره‌ای از خاک به خاطر نداشتن ارتباط با دریا (محبوب) اشاره می‌کند و به قطره‌ای رحم می‌کند که از دریا جدا شده است. در کل، شعر به موضوع عشق و جدایی پرداخته و احساسات عمیق ناشی از آن را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اشد",
+      "PlainText": "هرکس که نظر باز به آن زلف دوتا شد\r\nدرحلقه زنجیر نظر بند بلا شد\r\nهر ذره خاکیست جدا تشنه خونی\r\nرحم است بران قطره که از بحر جدا شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکس که نظر باز به آن زلف دوتا شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرحلقهٔ زنجیر نظر بند بلا شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر ذرهٔ خاکیست جدا تشنهٔ خونی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحم است بران قطره که از بحر جدا شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس که نظر باز به آن زلف دوتا شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درحلقهٔ زنجیر نظر بند بلا شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر ذرهٔ خاکیست جدا تشنهٔ خونی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رحم است بران قطره که از بحر جدا شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

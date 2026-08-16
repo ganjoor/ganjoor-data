@@ -1,0 +1,58 @@
+{
+  "Id": 35499,
+  "CatId": 835,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "عطار » مختارنامه » باب سی و چهارم: در صفتِ آمدن معشوق » شمارهٔ ۲۴",
+  "FullUrl": "/attar/mokhtarname/bb34/sh24",
+  "RhymeLetters": "ایی",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده با کسی که بینا است، صحبت می‌کند. او از احساس تنهایی‌اش شکایت می‌کند و می‌گوید که به خاطر عشق آن شخص دیوانه شده است. سپس از او می‌پرسد که درباره دیوانگی‌اش چه نظری دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایی",
+      "PlainText": "دوش از در دل درآمد آن بینایی\r\nگفتا که چه میکنی درین تنهایی\r\nگفتم که زعشق تو شدم سودایی\r\nسودایی خویش را چه میفرمایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوش از درِ دل درآمد آن بینایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا که چه میکنی درین تنهایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که زعشق تو شدم سودایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسودائی خویش را چه میفرمایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوش از درِ دل درآمد آن بینایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا که چه میکنی درین تنهایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که زعشق تو شدم سودایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سودائی خویش را چه میفرمایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

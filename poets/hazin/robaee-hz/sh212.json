@@ -1,0 +1,58 @@
+{
+  "Id": 83109,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱۲",
+  "FullUrl": "/hazin/robaee-hz/sh212",
+  "RhymeLetters": "لچهخواهیکردن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به نوعی به پیچیدگی و دشواری زندگی و احساسات انسانی اشاره دارد. شاعر از \u0022بسته آب و گل\u0022 که نماد انسان است، می‌پرسد چه کار خواهد کرد و از حال درون او می‌گوید. اگر درد و رنجی وجود نداشته باشد، آیا می‌توان به احساسات و کار دل پرداخته و زندگی کرد؟ به طور کلی، شاعر به روابط متقابل بین درد و زندگی، و اینکه چگونه درد می‌تواند ما را متوجه ارزش‌های واقعی وجودی‌مان کند، می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لچهخواهیکردن",
+      "PlainText": "ای بسته آب و گل چه خواهی کردن\r\nز اخوان صفا خجل چه خواهی کردن\r\nدندان به جگر گر نفشارد دردی\r\nبی درد به کار دل چه خواهی کردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بستهٔ آب و گل، چه خواهی کردن؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اخوان صفا خجل چه خواهی کردن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدندان به جگر، گر نفشارد دردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی درد! به کار دل چه خواهی کردن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بستهٔ آب و گل، چه خواهی کردن؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز اخوان صفا خجل چه خواهی کردن؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دندان به جگر، گر نفشارد دردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی درد! به کار دل چه خواهی کردن؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

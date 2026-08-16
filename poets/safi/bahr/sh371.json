@@ -1,0 +1,77 @@
+{
+  "Id": 139217,
+  "CatId": 3132,
+  "Title": "بخش ۳۷۱ - اللوح",
+  "FullTitle": "صفی علیشاه » بحرالحقایق » بخش ۳۷۱ - اللوح",
+  "FullUrl": "/safi/bahr/sh371",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر به بررسی مفهوم «لوح» و «کتاب» می‌پردازد و بیان می‌کند که هر دوی اینها نمایانگر حقیقتی عمیق‌تر هستند. به عبارتی، لوح و کتاب به عنوان نمادهایی از شناخت و آگاهی شناخته می‌شوند، که نفس کلی در آنها به وضوح مشخص است. این تناقض در تعبیرات نشان می‌دهد که گاهی آنها را به عنوان لوح و گاهی به عنوان کتاب می‌نامند، اما در نهایت همگی به یک حقیقت واحد اشاره دارند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "دگر لوحت کتاب بس مبین است\r\nکه کشف از نفس کلی در یقین است\r\nگهی گویند لوح و گه کتابش\r\nگهی هم نفس کلی در خطابش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر لوحت کتاب بس مبین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کشف از نفس کلی در یقین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگهی گویند لوح و گه کتابش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی هم نفس کلی در خطابش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یناست",
+      "PlainText": "دگر لوحت کتاب بس مبین است\r\nکه کشف از نفس کلی در یقین است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر لوحت کتاب بس مبین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کشف از نفس کلی در یقین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ابش",
+      "PlainText": "گهی گویند لوح و گه کتابش\r\nگهی هم نفس کلی در خطابش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگهی گویند لوح و گه کتابش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی هم نفس کلی در خطابش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دگر لوحت کتاب بس مبین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که کشف از نفس کلی در یقین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گهی گویند لوح و گه کتابش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گهی هم نفس کلی در خطابش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    }
+  ]
+}

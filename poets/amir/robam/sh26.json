@@ -1,0 +1,58 @@
+{
+  "Id": 70069,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/amir/robam/sh26",
+  "RhymeLetters": "روزتوراست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به شاه اشاره می‌کند و او را نماینده قدرت و قهر می‌داند که بر مخالفان تسلط دارد. همچنین او را به عنوان سلطانی در عصر و پادشاه دهر معرفی می‌کند و می‌گوید که حتی فتح سرزمین ماوراء النهر نیز به نام او ثبت شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هرتوراست",
+      "PlainText": "ای شاه به دولت از جهان بهر توراست\r\nبر جان و تن مخالفان قهر توراست\r\nسلطانی عصر و شاهی دهر توراست\r\nبا این همه فتح ماوراء النهر تو راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه به دولت از جهان بهر توراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر جان و تن مخالفان قهر توراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلطانی عصر و شاهی دهر توراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا این همه فتح ماوراء‌النهر تو راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه به دولت از جهان بهر توراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر جان و تن مخالفان قهر توراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سلطانی عصر و شاهی دهر توراست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با این همه فتح ماوراء‌النهر تو راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

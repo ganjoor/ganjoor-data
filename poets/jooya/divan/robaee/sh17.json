@@ -1,0 +1,58 @@
+{
+  "Id": 103071,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/jooya/divan/robaee/sh17",
+  "RhymeLetters": "یداست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی‌های یک معشوق می‌پردازد. او را به عنوان امیدی در باغ عشق معرفی می‌کند و صفحه چهره‌اش را زیبای مطلع خورشید می‌داند. همچنین ابروهای او را شبیه هلال عید و خال سیاهش را قابل دیدن برای مردم توصیف می‌کند. در کل، شاعر با استفاده از سُرَت‌های بی‌نظیر از زیبایی‌های معشوق خود تجلیل می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یداست",
+      "PlainText": "این سرو قد تو گلبن امید است\r\nخال سیهت مردم چشم دید است\r\nابروی تو مصرع هلال عید است\r\nرخسار تو حسن مطلع خورشید است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین سرو قد تو گلبن امید است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخال سیهت مردم چشم دید است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابروی تو مصرع هلال عید است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخسار تو حسن مطلع خورشید است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این سرو قد تو گلبن امید است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خال سیهت مردم چشم دید است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ابروی تو مصرع هلال عید است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رخسار تو حسن مطلع خورشید است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 118947,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/azar/divan/robaee/sh26",
+  "RhymeLetters": "وست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر دربارهٔ رابطهٔ پیچیده‌ای است که میان عشق و دوستی وجود دارد. شاعر از دوستش می‌خواهد که به او نزدیک نشود، زیرا او به خاطر دوستش، که در واقع دشمن جانش است، احساس خطر می‌کند. او به این نکته اشاره می‌کند که نمی‌تواند با کسی که نسبت به دوستش احساس خصومت دارد، ارتباط برقرار کند. در واقع، این بیانگر انتخاب بین محبت و حفظ جان و سلامت روح است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "ای دوست که از دوستیت با دل خوست\r\nبا دل منشین که دشمن جان من اوست\r\nمنعت کنم ار ز صحبت دل چه عجب\r\nنتوانم دید صحبت دشمن دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست! که از دوستیت با دل خوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دل منشین، که دشمن جان من اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنعت کنم ار ز صحبت دل چه عجب؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتوانم دید صحبت دشمن دوست!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست! که از دوستیت با دل خوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دل منشین، که دشمن جان من اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منعت کنم ار ز صحبت دل چه عجب؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نتوانم دید صحبت دشمن دوست!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

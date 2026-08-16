@@ -1,0 +1,58 @@
+{
+  "Id": 50188,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۲۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۲۸",
+  "FullUrl": "/mahsati/robmah/sh128",
+  "RhymeLetters": "وشم",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساساتش در مورد کسالت و اندوه اشاره می‌کند. او به قصابی تشبیه می‌کند که در درد و غم دیگری غرق است و تلاش می‌کند تا به دردش پایان دهد. همچنین به رسم و رسومات اشاره می‌کند که وقتی چیزی را می‌کشد باید آن را بفروشد، اما از او می‌خواهد که اگر دست به کشتن می‌زند، آن را نفروشد و به نیکویی عمل کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشم",
+      "PlainText": "قصاب منی و در غمت می جوشم\r\nتا کارد به استخوان رسد می کوشم\r\nرسمی ست تو را که چون کشی بفروشی\r\nاز بهر خدا اگر کشی مفروشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصاب منی و در غمت می‌جوشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کارد به استخوان رسد می‌کوشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرسمی‌ست تو را که چون کشی بفروشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بهر خدا اگر کشی مفروشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قصاب منی و در غمت می‌جوشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا کارد به استخوان رسد می‌کوشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رسمی‌ست تو را که چون کشی بفروشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بهر خدا اگر کشی مفروشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

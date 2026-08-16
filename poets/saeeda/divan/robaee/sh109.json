@@ -1,0 +1,58 @@
+{
+  "Id": 108009,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۰۹",
+  "FullUrl": "/saeeda/divan/robaee/sh109",
+  "RhymeLetters": "مشمیبینم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که نویسنده در درون آدم‌ها عمق و معنا را می‌بیند، ولی در ظاهر آن‌ها شاید فقط یک شوخی نمایان باشد. او با دقت به شخصیت و روحیه افراد نگاه می‌کند و حتی در چشم‌های خودشان هم به جستجوی حقیقت و گم‌شده‌ای می‌پردازد. به نوعی، شعر بیانگر کنجکاوی شاعر درباره عمق وجود انسانی و جستجوی معنای واقعی در زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مشمیبینم",
+      "PlainText": "شوخی که بری ز عالمش می بینم\r\nمعنی است ولی در آدمش می بینم\r\nتا جای به چشم خویش دادم او را\r\nچون مردمک دیده گمش می بینم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوخی که بری ز عالمش می بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعنی است ولی در آدمش می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا جای به چشم خویش دادم او را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مردمک دیده گمش می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوخی که بری ز عالمش می بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "معنی است ولی در آدمش می بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا جای به چشم خویش دادم او را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون مردمک دیده گمش می بینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 112340,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/sahab/divan/robaee/sh16",
+  "RhymeLetters": "وست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به این نکته اشاره دارد که اگر دل به دوستی شاید دائم دچار شود، این دوستی برای او و دیگران چه سودی دارد. او می‌گوید که دوستان بعضی وقت‌ها به دشمنی شبیه هستند و دشمنان هم می‌توانند در ظاهر به دوستی نزدیک شوند. در نهایت، روابط انسانی پیچیده و غیرقابل پیش‌بینی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "گیرم دایم بدوستی دل را خوست\r\nاو را و مرا چه سودی از عادت اوست\r\nبا طایفه ای دوست شود دل کایشان\r\nهم دوست به دشمن اند وهم دشمن دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیرم دایم بدوستی دل را خوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را و مرا چه سودی از عادت اوست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا طایفه ای دوست شود دل کایشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم دوست به دشمن اند وهم دشمن دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیرم دایم بدوستی دل را خوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او را و مرا چه سودی از عادت اوست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با طایفه ای دوست شود دل کایشان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم دوست به دشمن اند وهم دشمن دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

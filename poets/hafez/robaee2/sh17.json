@@ -1,0 +1,58 @@
+{
+  "Id": 2067,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱۷",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱۷",
+  "FullUrl": "/hafez/robaee2/sh17",
+  "RhymeLetters": "ید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از ناامیدی و ناپایداری زندگی می‌گوید. او به چرخ فلک و تغییرات زندگی اشاره دارد و احساس می‌کند که با گذر زمان دچار لرزش و تزلزل می‌شود. همچنین، از سیاه بودن موی خود در گذشته یاد می‌کند و تعجب می‌کند که چرا اکنون رنگ مویش سفید شده است، به نوعی از گذر عمر و تغییرات طبیعی آن شکایت دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "از چرخ به هر گونه همی دار امید\r\nوز گردش روزگار می لرز چو بید\r\nگفتی که پس از سیاه رنگی نبود\r\nپس موی سیاه من چرا گشت سفید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چرخ به هر گونه همی دار امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز گردش روزگار می‌لرز چو بید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که «پس از سیاه رنگی نبُوَد»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس موی سیاه من چرا گشت سفید؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چرخ به هر گونه همی دار امید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز گردش روزگار می‌لرز چو بید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی که «پس از سیاه رنگی نبُوَد»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پس موی سیاه من چرا گشت سفید؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

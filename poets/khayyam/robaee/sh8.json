@@ -1,0 +1,58 @@
+{
+  "Id": 1126,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۸",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۸",
+  "FullUrl": "/khayyam/robaee/sh8",
+  "RhymeLetters": "یست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "در این شعر، شاعر به زیبایی طبیعت و گذرای زندگی اشاره می‌کند. ابرها می‌آیند، بر روی سبزه‌ها می‌بارند، به آن طراوت می‌بخشند و اوقات خوشی را فراهم می‌آورند که ما باید آن غنیمت شمرده و به خوشی استفاده کنیم. در نهایت، به زودگذر بودن دنیا اشاره می‌کند و می‌پرسد که این سبزه‌ و گل که اکنون ما به تماشای آن نشسته‌ایم و از آن لذت می‌بریم پس از مرگ و نیستی ما-که بر گور ما می‌روید-چه‌کسی به تماشای آن می‌نشیند و از آن لذت می‌برد؟!",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یست",
+      "PlainText": "ابر آمد و باز بر سر سبزه گریست\r\nبی باده گلرنگ نمی باید زیست\r\nاین سبزه که امروز تماشاگه ماست\r\nتا سبزه خاک ما تماشاگه کیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابر آمد و باز بر سرِ سبزه گریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی بادهٔ گلرنگ نمی‌باید زیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین سبزه که امروز تماشاگه ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سبزهٔ خاک ما تماشاگه کیست!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابر آمد و باز بر سرِ سبزه گریست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی بادهٔ گلرنگ نمی‌باید زیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این سبزه که امروز تماشاگه ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سبزهٔ خاک ما تماشاگه کیست!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

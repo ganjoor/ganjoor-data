@@ -1,0 +1,58 @@
+{
+  "Id": 10151,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۹۰",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۹۰",
+  "FullUrl": "/saadi/divan/robaees/sh90",
+  "RhymeLetters": "ویش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر درباره اهمیت دوستی و ارتباط با همسایگان است. شاعر می‌گوید که اگر به همسایه‌ای که به او علاقه داریم نزدیک شویم، بهترین مکان همچون بهشت خواهد بود. اما اگر نخواهیم که با او ارتباطی داشته باشیم، آن جایگاه حتی می‌تواند به جهنم تبدیل شود. به عبارت دیگر، روابط اجتماعی و همسایگی اهمیت زیادی دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویش",
+      "PlainText": "همسایه که میل طبع بینی سویش\r\nفردوس برین بود سرا در کویش\r\nوآن را که نخواهی که ببینی رویش\r\nدوزخ باشد بهشت در پهلویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمسایه که میل طبع بینی سویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردوس برین بود سرا در کویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن را که نخواهی که ببینی رویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوزخ باشد بهشت در پهلویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همسایه که میل طبع بینی سویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فردوس برین بود سرا در کویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وآن را که نخواهی که ببینی رویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوزخ باشد بهشت در پهلویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

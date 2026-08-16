@@ -1,0 +1,58 @@
+{
+  "Id": 83140,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۴۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۴۳",
+  "FullUrl": "/hazin/robaee-hz/sh243",
+  "RhymeLetters": "اننکنی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره درد و رنج ناشی از مرگ و جدایی از‌یاری محبوب است. شاعر از بی‌توجهی به درمان دردهایش شکایت می‌کند و نمی‌خواهد به آسانی از غم جدایی بگذرد. او از محنت‌هایی که به خاطر دوری از محبوبش تحمل می‌کند، سخن می‌گوید و می‌خواهد که این آزارها را نادیده نگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننکنی",
+      "PlainText": "ای درد ز مرگ فکر درمان نکنی\r\nآزار دل شکسته حالان نکنی\r\nدر جان غم یار دارم آسان ندهم\r\nای محنت هجر مردن آسان نکنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای درد، ز مرگ فکر درمان نکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآزار دل شکسته حالان نکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جان، غم یار دارم آسان ندهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای محنت هجر، مردن آسان نکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای درد، ز مرگ فکر درمان نکنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آزار دل شکسته حالان نکنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در جان، غم یار دارم آسان ندهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای محنت هجر، مردن آسان نکنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

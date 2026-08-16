@@ -1,0 +1,58 @@
+{
+  "Id": 74755,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۲۱۴",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۲۱۴",
+  "FullUrl": "/ghodsi/robghm/sh214",
+  "RhymeLetters": "اغیدارد",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر اشاره به دو نوع انسان دارد: عاقل و دیوانه. عاقل با دل خود به دنبال حقیقت است و دیوانه در جستجوی آن، دلیلی برای دنبال کردن دارد. نکته جالب اینکه هر ذره‌ای، حتی کوچک‌ترین چیزها، می‌تواند نور و راهنمایی برای پیدا کردن حقیقت باشد، مانند جستجوی نور خورشید که در هر ذره‌ای چراغی وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغیدارد",
+      "PlainText": "عاقل به درش ز دل سراغی دارد\r\nدیوانه دلیل راه داغی دارد\r\nاین طرفه که در جستن خورشید منیر\r\nهر ذره به دست خود چراغی دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقل به درش ز دل سراغی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیوانه، دلیل راه، داغی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین طرفه که در جستن خورشید منیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر ذره به دست خود چراغی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقل به درش ز دل سراغی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیوانه، دلیل راه، داغی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این طرفه که در جستن خورشید منیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر ذره به دست خود چراغی دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

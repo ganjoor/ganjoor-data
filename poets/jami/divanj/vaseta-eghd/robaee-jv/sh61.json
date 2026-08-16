@@ -1,0 +1,58 @@
+{
+  "Id": 80800,
+  "CatId": 2142,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "جامی » دیوان اشعار » واسطة العقد » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/jami/divanj/vaseta-eghd/robaee-jv/sh61",
+  "RhymeLetters": "ادبهمن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به سنبوسه‌ای اشاره می‌کند که دیروز از سوی خواجه برای او فرستاده شده است. یک دختر زیبا نیز آن را همراه آورده و پس از نشستن، دو دانگ سنبوسه را برای خود خورده و چهار دانگ باقی‌مانده را به شاعر می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادبهمن",
+      "PlainText": "سنبوسه که دی خواجه فرستاد به من\r\nآورد یکی شوخ پریزاد به من\r\nبنشست وز سنبوسه که آورد دو دانگ\r\nخود خورد و چهار دانگ را داد به من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسنبوسه که دی خواجه فرستاد به من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآورد یکی شوخ پریزاد به من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنشست وز سنبوسه که آورد دو دانگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود خورد و چهار دانگ را داد به من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سنبوسه که دی خواجه فرستاد به من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آورد یکی شوخ پریزاد به من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنشست وز سنبوسه که آورد دو دانگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود خورد و چهار دانگ را داد به من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 34484,
+  "CatId": 805,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "عطار » مختارنامه » باب دهم: در معانی مختلف كه تعلّق به روح دارد » شمارهٔ ۴۱",
+  "FullUrl": "/attar/mokhtarname/bb10/sh41",
+  "RhymeLetters": "انیرا",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر اشاره به inevitability یا اجتناب‌ناپذیری مرگ دارد. شاعر به این نکته اشاره می‌کند که مرگ به طور کلی پایان زندگی را رقم می‌زند و نمی‌توان از آن فرار کرد. او همچنین می‌گوید که حتی اگر بدن دچار چالش و مشکلاتی شود (مانند \u0022مزبله\u0022 بودن)، در نهایت مرگ همگان را فرا می‌گیرد و سوالی را مطرح می‌کند که با مرگ چه باید کرد و روح چگونه با آن کنار خواهد آمد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیرا",
+      "PlainText": "مرگ است خلاص عالم فانی را\r\nدرهم چه کشی ز مرگ پیشانی را\r\nگر مزبله تن تو را مرگ رسید\r\nبا مرگ چکار جان تو با جانی را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرگ است خلاص عالم فانی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرهم چه کشی ز مرگ پیشانی را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مزبلهٔ تن تو را مرگ رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا مرگ چکار جان تو با جانی را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرگ است خلاص عالم فانی را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درهم چه کشی ز مرگ پیشانی را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر مزبلهٔ تن تو را مرگ رسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با مرگ چکار جان تو با جانی را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

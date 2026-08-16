@@ -1,0 +1,58 @@
+{
+  "Id": 50083,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۲۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۲۳",
+  "FullUrl": "/mahsati/robmah/sh23",
+  "RhymeLetters": "مست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گیسو به زلف معشوقه گره می‌زند و می‌خواهد او را به نشستن و تماشا کردن دعوت کند. شاعر پیش از اینکه معشوقه مست شود، احساساتش را بیان می‌کند تا بعد از مستی نتواند حرفی از او بزند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مست",
+      "PlainText": "گیسو به سر زلف تو درخواهم بست\r\nتا بنشینی چو دوش نگریزی مست\r\nپیش از مستی هر آنچه م اندر دل هست\r\nمیگویم تا باز نگویی شد مست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیسو به سر زلف تو درخواهم بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بنشینی چو دوش نگریزی مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش از مستی هر آنچه‌م اندر دل هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیگویم تا باز نگوئی شد مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیسو به سر زلف تو درخواهم بست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا بنشینی چو دوش نگریزی مست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش از مستی هر آنچه‌م اندر دل هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میگویم تا باز نگوئی شد مست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

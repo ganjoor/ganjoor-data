@@ -1,0 +1,77 @@
+{
+  "Id": 125582,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۴۶",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۴۶",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh47",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از لطف و کرم خداوند یاد می‌کند و به خاطر خجالت ناشی از رفتارهای خود، سرش را به زیر انداخته است. او از وضعیت ناامیدکننده خود صحبت می‌کند اما همچنان به رحمت خداوند امیدوار است.",
+  "Sections": [
+    {
+      "Index": 70,
+      "Number": 70,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "تتو",
+      "PlainText": "ای آنکه بود لطف و کرم عادت تو\r\nافتاده سرم به زیر از خجلت تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه بود لطف و کرم عادت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتاده سرم به زیر از خجلت تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 71,
+      "Number": 71,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "و",
+      "PlainText": "از جمله کار و بار خود نومیدم\r\nاما دارم امید بر رحمت تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جمله کار و بار خود نومیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما دارم امید بر رحمت تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 117,
+      "Number": 117,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تتو",
+      "PlainText": "ای آنکه بود لطف و کرم عادت تو\r\nافتاده سرم به زیر از خجلت تو\r\nاز جمله کار و بار خود نومیدم\r\nاما دارم امید بر رحمت تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه بود لطف و کرم عادت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتاده سرم به زیر از خجلت تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جمله کار و بار خود نومیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما دارم امید بر رحمت تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه بود لطف و کرم عادت تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 117,
+      "SectionIndex2": 70
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتاده سرم به زیر از خجلت تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 117,
+      "SectionIndex2": 70
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جمله کار و بار خود نومیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 117,
+      "SectionIndex2": 71
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اما دارم امید بر رحمت تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 117,
+      "SectionIndex2": 71
+    }
+  ]
+}

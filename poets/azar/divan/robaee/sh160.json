@@ -1,0 +1,58 @@
+{
+  "Id": 119081,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۶۰",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۶۰",
+  "FullUrl": "/azar/divan/robaee/sh160",
+  "RhymeLetters": "لازاو",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به مشکلات و چالش‌های خود اشاره می‌کند. او بیان می‌کند که محبتش به یار باعث مشکلاتش شده و بختش هم او را یاری نکرده است. اما در واقع، او از دشمنی که در دلش است غافل بوده و به همین دلیل دچار دردسر شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لازاو",
+      "PlainText": "گفتم یار است پای من در گل از او\r\nگفتم  بخت است کار من مشکل از او\r\nنی نی گله نه ز یار دارم نه ز بخت\r\nدل دشمن من بوده و من غافل از او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: یار است پای من در گل از او!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم : بخت است کار من مشکل از او!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نی گله نه ز یار دارم، نه ز بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل دشمن من بوده، و من غافل از او!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم: یار است پای من در گل از او!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم : بخت است کار من مشکل از او!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی نی گله نه ز یار دارم، نه ز بخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل دشمن من بوده، و من غافل از او!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

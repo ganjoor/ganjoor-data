@@ -1,0 +1,58 @@
+{
+  "Id": 118991,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/azar/divan/robaee/sh70",
+  "RhymeLetters": "لند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، بیانگر احساس دلتنگی و ناامیدی شاعر است. او از یارانش می‌گوید که به خاطر مشکلاتش از او فاصله گرفته‌اند و او را ترک کرده‌اند. شاعر به وضوح احساس خجالت و ناراحتی خود را از اینکه یارانش به او کمک نکرده‌اند، ابراز می‌کند و در عین حال می‌داند که آن‌ها نیز از این وضعیت خجالت‌زده‌اند. در نهایت، او بیشتر از خجالت یارانش، از خود خجالت می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لند",
+      "PlainText": "یاران که ز دلتنگی من تنگ دلند\r\nگر یاری من نکرده از من بحلند\r\nایشان خجل از من که ندادندم کام\r\nمن زین خجلم که از من ایشان خجلند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاران که، ز دلتنگی من، تنگ دلند؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر یاری من نکرده از من بحلند!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایشان خجل از من، که ندادندم کام؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن زین خجلم، که از من ایشان خجلند!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاران که، ز دلتنگی من، تنگ دلند؛",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر یاری من نکرده از من بحلند!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ایشان خجل از من، که ندادندم کام؛",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من زین خجلم، که از من ایشان خجلند!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

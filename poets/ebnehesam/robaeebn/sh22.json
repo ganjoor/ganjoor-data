@@ -1,0 +1,58 @@
+{
+  "Id": 64819,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۲۲",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۲۲",
+  "FullUrl": "/ebnehesam/robaeebn/sh22",
+  "RhymeLetters": "ارد",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از دردی سخن می‌گوید که به خاطر زیبایی چشمان معشوقش احساس می‌کند. چشمان او به دلیل این درد، اشک می‌ریزند و اگر معشوق با غمزه‌ای خود این درد را تسکین دهد، چشمانش به سوی چشمان او می‌نگرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارد",
+      "PlainText": "ز آن درد که آن دیده روشن دارد\r\nچشمم ز برای او گهر می بارد\r\nآن درد اگر غمزه او بگذارد\r\nچشمم به مژه ز چشم او بر دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آن درد که آن دیده روشن دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمم ز برای او گهر می بارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن درد اگر غمزه او بگذارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمم به مژه ز چشم او بر دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آن درد که آن دیده روشن دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشمم ز برای او گهر می بارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن درد اگر غمزه او بگذارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشمم به مژه ز چشم او بر دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

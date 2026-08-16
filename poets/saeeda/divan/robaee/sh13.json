@@ -1,0 +1,58 @@
+{
+  "Id": 107913,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/saeeda/divan/robaee/sh13",
+  "RhymeLetters": "وراست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره منصور، شخصیت برجسته و معتبر در تاریخ، صحبت می‌کند. آن را به عنوان شخصیتی مغفور و محترم توصیف می‌کند که در جهان مورد احترام است. همچنین به ارتباط او با بغداد اشاره کرد و آن را به عنوان دارایی ارزشمند او مطرح می‌کند. به طور کلی، شعر تصویری از مقام و جایگاه اجتماعی منصور را ارائه می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وراست",
+      "PlainText": "منصور که در دار جهان مغفور است\r\nخاک ره او تاج سر فغفور است\r\nدر دار خرابات جهان مشهور است\r\nیک بغداد است و دار یک منصور است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنصور که در دار جهان مغفور است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک ره او تاج سر فغفور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دار خرابات جهان مشهور است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک بغداد است و دار یک منصور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منصور که در دار جهان مغفور است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاک ره او تاج سر فغفور است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دار خرابات جهان مشهور است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک بغداد است و دار یک منصور است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

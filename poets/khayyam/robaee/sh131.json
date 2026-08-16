@@ -1,0 +1,58 @@
+{
+  "Id": 1249,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۳۱",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۳۱",
+  "FullUrl": "/khayyam/robaee/sh131",
+  "RhymeLetters": "ستینخورم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از نوشیدن می صحبت می‌کند. او به این نکته اشاره می‌کند که قبلاً به خاطر تنگدستی یا غم و اندوه می‌نوشیده، اما اکنون که محبوبش در دلش نشسته، دیگر نمی‌خواهد می‌نوشد. به نوعی این اشعار نشان‌دهنده تغییر حال و اولویت‌های شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستینخورم",
+      "PlainText": "من می نه ز بهر تنگدستی نخورم\r\nیا از غم رسوایی و مستی نخورم\r\nمن می ز برای خوشدلی می خوردم\r\nاکنون که تو بر دلم نشستی نخورم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن می نه ز بهر تنگدستی نخورم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا از غم رسوایی و مستی نخورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن می ز برای خوشدلی می‌خوردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون که تو بر دلم نشستی نخورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من می نه ز بهر تنگدستی نخورم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا از غم رسوایی و مستی نخورم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من می ز برای خوشدلی می‌خوردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اکنون که تو بر دلم نشستی نخورم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

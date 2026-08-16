@@ -1,0 +1,58 @@
+{
+  "Id": 99483,
+  "CatId": 2523,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "خیالی بخارایی » دیوان اشعار » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/khiali/divan/robaee/sh7",
+  "RhymeLetters": "ودخوری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به زندگی و مشکلات آن اشاره می‌کند. او می‌گوید که در دنیای پرهیاهو، همه به نوعی در رنج و غم هستند و نمی‌توانند از آن خارج شوند. بلکه باید بدانند که با خوردن و مصرف کردن و در پی منفعت خود رفتن، هیچ سودی عایدشان نخواهد شد. در واقع، زندگی پر از چالش است و نباید تنها به دنبال منافع شخصی بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ودخوری",
+      "PlainText": "در مطبخ دنیا تو همه دود خوری\r\nتا کی تو غمان بود و نابود خوری\r\nاز مایه نخواهی که جوی کم گردد\r\nمایه که خورد چون تو همه سود خوری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مطبخ دنیا تو همه دود خوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کی تو غمان بود و نابود خوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مایه نخواهی که جوی کم گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمایه که خورد چون تو همه سود خوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در مطبخ دنیا تو همه دود خوری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا کی تو غمان بود و نابود خوری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از مایه نخواهی که جوی کم گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مایه که خورد چون تو همه سود خوری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

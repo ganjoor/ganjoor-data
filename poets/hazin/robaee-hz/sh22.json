@@ -1,0 +1,58 @@
+{
+  "Id": 82910,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/hazin/robaee-hz/sh22",
+  "RhymeLetters": "طورکجاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به جستجو برای یافتن عشق و آتش درونی اشاره دارند. شاعر از حالتی عاطفی و شورانگیز صحبت می‌کند و به دنبال منبعی از اشتیاق و درد است. او به گرمای عشق و احساساتی که باید در دلش وجود داشته باشد، اشاره می‌کند و از غیرت عشق و نیرویی که می‌تواند روحش را بیدار کند، سوال می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "طورکجاست",
+      "PlainText": "داغی که بکاود سر پرشور کجاست\r\nزخمی که گدازد دم ساطور کجاست\r\nگرمی به دلم نمی کشد شعله حزین\r\nای غیرت عشق آتش طور کجاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداغی که بکاود سر پرشور کجاست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزخمی که گدازد دمِ ساطور کجاست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرمی به دلم نمی کشد شعله، حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای غیرت عشق، آتش طور کجاست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغی که بکاود سر پرشور کجاست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زخمی که گدازد دمِ ساطور کجاست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرمی به دلم نمی کشد شعله، حزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای غیرت عشق، آتش طور کجاست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

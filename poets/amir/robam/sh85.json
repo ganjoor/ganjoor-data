@@ -1,0 +1,58 @@
+{
+  "Id": 70128,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۸۵",
+  "FullUrl": "/amir/robam/sh85",
+  "RhymeLetters": "انند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: ترکان افرادی باهوش و با خرد هستند. آنها دارای زیبایی و جذابیت خاصی مانند حوران بهشتی هستند و در میدان جنگ به سختی می‌جنگند. همچنین، زمانی که در کنار پادشاه قرار می‌گیرند، به مانند حوران از زندگی و لذت‌ها بهره‌مند می‌شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشند",
+      "PlainText": "ترکان ملک با خرد و باهوشند\r\nحور شبه زلف و دیو آهن پوشند\r\nدیوند چو روز رزم جان را کوشند\r\nحورند چو پیش تخت شه می نوشند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترکان ملک با خرد و باهوشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحور شَبَه زلف و دیو آهن پوشند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیوند چو روز رزم جان را کوشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحورند چو پیش تخت شه می‌نوشند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترکان ملک با خرد و باهوشند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حور شَبَه زلف و دیو آهن پوشند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیوند چو روز رزم جان را کوشند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حورند چو پیش تخت شه می‌نوشند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

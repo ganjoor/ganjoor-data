@@ -1,0 +1,58 @@
+{
+  "Id": 51766,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴۳ - شهر تهران",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴۳ - شهر تهران",
+  "FullUrl": "/bahar/robaeebk/sh43",
+  "RhymeLetters": "یل",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره زندگی در یک شهر شلوغ و پر از سر و صدا است که پر از دروغ، غیبت و بدگویی‌هاست. شاعر از این همهمه خسته شده و احساس می‌کند که این زندگی مملو از تلخی و ناامیدی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یل",
+      "PlainText": "شهریست پر از همهمه و قالاقیل\r\nبهتان و دروغ و غیبت و فحش سبیل\r\nخستیم از این همهمه ای گوش امان\r\nمردیم ازین زندگی ای مرگ دخیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهریست پر از همهمه و قالاقیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهتان و دروغ و غیبت و فحش سبیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخستیم از این همهمه ای گوش امان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمُردیم ازین زندگی ای مرگ دخیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شهریست پر از همهمه و قالاقیل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بهتان و دروغ و غیبت و فحش سبیل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خستیم از این همهمه ای گوش امان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مُردیم ازین زندگی ای مرگ دخیل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

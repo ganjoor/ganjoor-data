@@ -1,0 +1,58 @@
+{
+  "Id": 1134,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۶",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۶",
+  "FullUrl": "/khayyam/robaee/sh16",
+  "RhymeLetters": "ستوریاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "شاعر در این شعر به ناپایداری عمر آدمی می‌پردازد و می‌گوید فرقی ندارد که شما شاه باشی یا وزیر، مستی رسوا باشی یا مستی پرده‌نشین؛ عاقبت جسم شما خاک خواهد شد و از آن خاک کوزه خواهند ساخت و دیگر تفاوتی نمی‌کند خاک چه‌کسی‌ست. در نهایت خاک خاک است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستوریاست",
+      "PlainText": "این کوزه که آبخواره مزدوری ست\r\nاز دیده شاهی و دل دستوری ست\r\nهر کاسه می که بر کف مخموری ست\r\nاز عارض مستی و لب مستوری ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین کوزه که آبخوارهٔ مزدوری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دیدهٔ شاهی و دل دستوری‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کاسهٔ می که بر کف مخموری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عارض مستی و لب مستوری‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این کوزه که آبخوارهٔ مزدوری‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دیدهٔ شاهی و دل دستوری‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر کاسهٔ می که بر کف مخموری‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از عارض مستی و لب مستوری‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

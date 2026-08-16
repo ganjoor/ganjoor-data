@@ -1,0 +1,58 @@
+{
+  "Id": 29327,
+  "CatId": 254,
+  "Title": "رباعی شمارهٔ ۶۱",
+  "FullTitle": "اوحدی مراغه‌ای » دیوان اشعار » رباعیات » رباعی شمارهٔ ۶۱",
+  "FullUrl": "/ouhadi/divano/robaeeo/sh61",
+  "RhymeLetters": "ویمببرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان حسرت و ناپایداری لحظات می‌پردازد. شاعر از گل می‌خواهد که زمان را متوقف کند، چرا که با وزش باد بوی خوش او می‌رود و مانند خاک در هر مسیر و جایی پراکنده می‌شود. او تأکید می‌کند که باید از لحظات وصال و شادابی استفاده کرد، وگرنه پیش از آنکه آن لحظات بگذرد، آبرو و زیبایی او از بین می‌رود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویمببرد",
+      "PlainText": "گل گفت مهل که باد بویم ببرد\r\nچون خاک به هر برزن و کویم ببرد\r\nبا وصل من آن آب چو آتش مینوش\r\nزان پیش که آتش آبرویم ببرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل گفت: مهل، که باد بویم ببرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خاک به هر برزن و کویم ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا وصل من آن آب چو آتش مینوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان پیش که آتش آبرویم ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل گفت: مهل، که باد بویم ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون خاک به هر برزن و کویم ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با وصل من آن آب چو آتش مینوش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان پیش که آتش آبرویم ببرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

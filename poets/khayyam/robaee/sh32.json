@@ -1,0 +1,58 @@
+{
+  "Id": 1150,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۳۲",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۳۲",
+  "FullUrl": "/khayyam/robaee/sh32",
+  "RhymeLetters": "هنیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات بیان می‌شود که در پرده‌های راز، هیچ کس به حقیقت دسترسی ندارد و هیچ انسانی از تقدیر و سرنوشت خود باخبر نیست. همچنین اشاره می‌شود که تنها جایی که انسان می‌تواند به آن پناه ببرد خاک و زمین است. در پایان، توصیه می‌شود که از زندگی و لذت‌های آن غافل نشوید، زیرا داستان زندگی و سرنوشت به این سادگی‌ها پایان نمی‌یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هنیست",
+      "PlainText": "در پردۀ اسرار کسی را ره نیست\r\nزین تعبیه جان هیچ کس آگه نیست\r\nجز در دل خاک هیچ منزلگه نیست\r\nمی خور که چنین فسانه ها کوته نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پردۀ اسرار کسی را ره نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین تعبیه، جانِ هیچ کس آگه نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز در دلِ خاک هیچ منزلگه نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمِی خور که چنین فسانه‌ها کوته نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در پردۀ اسرار کسی را ره نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین تعبیه، جانِ هیچ کس آگه نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز در دلِ خاک هیچ منزلگه نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مِی خور که چنین فسانه‌ها کوته نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

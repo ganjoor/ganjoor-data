@@ -1,0 +1,58 @@
+{
+  "Id": 69457,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۹۶",
+  "FullUrl": "/azraghi/arob/sh96",
+  "RhymeLetters": "وداوردی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به شمعی اشاره می‌کند که نورش با دود همراه است. او می‌گوید هرچند خطی که نوشته شده زیبا نیست، اما این خط نشان دهندهٔ احساسات و دلشکستگی اوست. در واقع، گلایه می‌کند که اگر دود دلش او را گرفته باشد، زودتر از این نباید به بیان درد و رنج خود پرداخته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وداوردی",
+      "PlainText": "ای شمع که پیش نور دود آوردی\r\nیعنی خط اگرچه خوش نبود آوردی\r\nگر دود دل منست دیرت بگرفت\r\nور خط به خون ماست زود آوردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمع، که پیش نور دود آوردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی خط اگرچه خوش نبود آوردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دود دل منست دیرت بگرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور خط به خون ماست زود آوردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شمع، که پیش نور دود آوردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی خط اگرچه خوش نبود آوردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دود دل منست دیرت بگرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور خط به خون ماست زود آوردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

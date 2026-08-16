@@ -1,0 +1,58 @@
+{
+  "Id": 45368,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۲۵",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۲۵",
+  "FullUrl": "/helali/robaeeh/sh25",
+  "RhymeLetters": "ازخواهدبودن",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به بیان احساسات عاشقانه می‌پردازد. شاعر می‌گوید تا زمانی که چشم طرف مقابل دلربایی کند، دل‌های بسیاری در عشق بازی خواهند کرد. همچنین اشاره می‌کند که اگر طرف مقابل ناز کند، او هم نیاز و احساسات بیشتری را نشان خواهد داد. در واقع، این شعر نشان‌دهنده تعامل میان عشق و ناز و نیاز است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازخواهدبودن",
+      "PlainText": "تا چشم تو عشوه ساز خواهد بودن\r\nصد دل شده عشق باز خواهد بودن\r\nتا از طرف تو ناز خواهد بودن\r\nاز جانب ما نیاز خواهد بودن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چشم تو عشوه‌ساز خواهد بودن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد دل‌شده عشق‌باز خواهد بودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا از طرف تو ناز خواهد بودن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جانب ما نیاز خواهد بودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چشم تو عشوه‌ساز خواهد بودن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد دل‌شده عشق‌باز خواهد بودن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا از طرف تو ناز خواهد بودن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از جانب ما نیاز خواهد بودن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

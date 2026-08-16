@@ -1,0 +1,58 @@
+{
+  "Id": 50212,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۵۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۵۲",
+  "FullUrl": "/mahsati/robmah/sh152",
+  "RhymeLetters": "چینبرچین",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت زلف و خط معشوق اشاره دارد. زلف‌ها به صورت حلقه‌ای و چیده‌شده توصیف شده‌اند و خط زیبای معشوق به طرزی دلنشین بر روی چین و چروک‌ها نقش بسته است. همچنین، زیبایی حوریان هم با زیبایی معشوق مقایسه می‌شود و نشان می‌دهد که همه زیبایی‌ها در مقابل معشوق به چشم می‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "چینبرچین",
+      "PlainText": "ای زلف تو حلقه حلقه و چین بر چین\r\nطغرای خط تو برزده چین بر چین\r\nحور از بر تو گریخت پرچین بر چین\r\nزیور همه بر تو ریخت پرچین بر چین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زلف تو حلقه حلقه و چین بر چین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطغرای خط تو برزده چین بر چین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحور از بر تو گریخت پرچین بر چین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیور همه بر تو ریخت پرچین بر چین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زلف تو حلقه حلقه و چین بر چین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طغرای خط تو برزده چین بر چین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حور از بر تو گریخت پرچین بر چین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیور همه بر تو ریخت پرچین بر چین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

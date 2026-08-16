@@ -1,0 +1,58 @@
+{
+  "Id": 1152,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۳۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۳۴",
+  "FullUrl": "/khayyam/robaee/sh34",
+  "RhymeLetters": "است",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر به مسأله زندگی و ذات وجود اشاره شده است. شاعر به دایره‌ای اشاره می‌کند که نماد زندگی انسان‌هاست و در آن هیچ سرآغازی یا پایانی وجود ندارد. او به این نکته تأکید می‌کند که هیچ‌کس به راستی نمی‌داند که آمدن به این دنیا از کجاست و رفتن به کجا. این توجیه عدم شناخت ما از چرایی و چگونگی وجود و مرگ است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "در دایره ای که آمد و رفتن ماست\r\nاو را نه بدایت نه نهایت پیدا ست\r\nکس می نزند دمی در این معنی راست\r\nکاین آمدن از کجا و رفتن به کجاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دایره‌ای که آمد و رفتن ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را نه بدایت، نه نهایت پیدا‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس می‌نزند دمی در این معنی راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین آمدن از کجا و رفتن به کجاست!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دایره‌ای که آمد و رفتن ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او را نه بدایت، نه نهایت پیدا‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کس می‌نزند دمی در این معنی راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین آمدن از کجا و رفتن به کجاست!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

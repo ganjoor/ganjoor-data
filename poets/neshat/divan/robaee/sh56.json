@@ -1,0 +1,58 @@
+{
+  "Id": 119590,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/neshat/divan/robaee/sh56",
+  "RhymeLetters": "ارمکن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از خداوند می‌خواهد که او را از هر چیز غیر از خود دور کند و به او کمک کند تا احساس تنهایی و بی‌رفیقی نکند. او درخواست می‌کند که ابتدا از خود و خویشتن بی‌خبر شود و سپس به آگاهی بیشتری درباره‌ی خود دست یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمکن",
+      "PlainText": "یارب از هر چه جز تو بیزارم کن\r\nبی مونس و بی رفیق و بی یارم کن\r\nاول از خویش بی خبر ساز مرا\r\nوانگاه ز خویشتن خبردارم کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب از هر چه جز تو بیزارم کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی مونس و بی رفیق و بی یارم کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول از خویش بی خبر ساز مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانگاه ز خویشتن خبردارم کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یارب از هر چه جز تو بیزارم کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی مونس و بی رفیق و بی یارم کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اول از خویش بی خبر ساز مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وانگاه ز خویشتن خبردارم کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

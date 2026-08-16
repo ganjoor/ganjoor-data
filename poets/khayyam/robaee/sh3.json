@@ -1,0 +1,58 @@
+{
+  "Id": 1121,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۳",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۳",
+  "FullUrl": "/khayyam/robaee/sh3",
+  "RhymeLetters": "امخوانندانرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این شعر اشاره به آن دارد که علی رغم اینکه همگان قرآن را کلام خداوند دانند اما انسانها گه گاه به سراغش می روند اما قدح و جام می چی آیه و معجزه ایست ؟ که انسانها هر شب به سراغش می روند",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امخوانندانرا",
+      "PlainText": "قرآن که مهین کلام خوانند آن را\r\nگه گاه نه بر دوام خوانند آن را\r\nبر گرد پیاله آیتی هست مقیم\r\nکاندر همه جا مدام خوانند آن را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقرآن که مهین کلام خوانند آن را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه‌گاه نه بر دوام خوانند آن را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر گِردِ پیاله، آیتی هست مقیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر همه جا مدام خوانند آن را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قرآن که مهین کلام خوانند آن را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه‌گاه نه بر دوام خوانند آن را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر گِردِ پیاله، آیتی هست مقیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاندر همه جا مدام خوانند آن را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

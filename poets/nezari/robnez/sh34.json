@@ -1,0 +1,58 @@
+{
+  "Id": 75781,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/nezari/robnez/sh34",
+  "RhymeLetters": "یکست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به حس و حال دل و اندیشه‌اش اشاره می‌کند که ممکن است در خود تاریکی و ناامیدی داشته باشد، اما او سعی دارد که آن را روشن کند. سپس به تصویری از بهشت که به جهان آورده‌اند اشاره می‌کند و در انتها از شنیدن یک سخن از نزار که به نوعی به زندگی و امید اشاره دارد، دعوت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یکست",
+      "PlainText": "آب دهن و دلت اگر تاریکست\r\nروشن کردم ولی سخن باریکست\r\nعکسی ز بهشت در جهان آوردند\r\nاینک ز نزاری بشنو شاهیکست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب دهن و دلت اگر تاریکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروشن کردم ولی سخن باریکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعکسی ز بهشت در جهان آوردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینک ز نزاری بشنو شاهیکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آب دهن و دلت اگر تاریکست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روشن کردم ولی سخن باریکست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عکسی ز بهشت در جهان آوردند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینک ز نزاری بشنو شاهیکست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

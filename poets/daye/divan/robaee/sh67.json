@@ -1,0 +1,58 @@
+{
+  "Id": 107230,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/daye/divan/robaee/sh67",
+  "RhymeLetters": "ردکهمن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از درد و غم خود سخن می‌گوید. او به صورت تمثیلی به بلبل اشاره می‌کند که سرش را پایین آورده، نشانی از ناامیدی و یاس است. همچنین، به شب و غصه‌هایش اشاره می‌کند و به نیلوفر آبی که از آب بیرون می‌آید، نشان از امید و تلاش برای یافتن زندگی بهتر می‌باشد. در کل، این ابیات بیانگر تضاد میان غم و امید هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردکهمن",
+      "PlainText": "گفتم که زد این چنین دم سرد که من\r\nبلبل ز درخت سر فرو کرد که من\r\nگفتم به شب این غصه کسی خورد که من\r\nنیلوفر از آب سر برآورد که من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: که زد این چنین دم سرد که من؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبل ز درخت سر فرو کرد که: من!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: به شب این غصه کسی خورد که من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیلوفر از آب سر برآورد که: من!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم: که زد این چنین دم سرد که من؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلبل ز درخت سر فرو کرد که: من!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم: به شب این غصه کسی خورد که من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نیلوفر از آب سر برآورد که: من!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 96066,
+  "CatId": 2471,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "محیط قمی » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/mohit/robaee/sh4",
+  "RhymeLetters": "مباشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و نظم ایران اشاره می‌کند و از صدر اعظم می‌خواهد که با خصال نیک، خود را شایسته این کشور کند. همچنین به شخصیت علی اصغر بن ابراهیم اشاره می‌کند که باید همچون حاتم طایی، بخشنده و با جود باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مباشد",
+      "PlainText": "ایران همه دلکش و منظم باشد\r\nاین گونه ز عدل صدراعظم باشد\r\nبوالمجد علی اصغر بن ابراهیم\r\nکش بنده جود معن و حاتم باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایران همه دلکش و منظم باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین گونه ز عدل صدراعظم باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوالمجد علی اصغر بن ابراهیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکش بندهٔ جود معن و حاتم باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایران همه دلکش و منظم باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این گونه ز عدل صدراعظم باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بوالمجد علی اصغر بن ابراهیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کش بندهٔ جود معن و حاتم باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

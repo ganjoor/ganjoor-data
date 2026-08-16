@@ -1,0 +1,58 @@
+{
+  "Id": 64876,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۷۹",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۷۹",
+  "FullUrl": "/ebnehesam/robaeebn/sh79",
+  "RhymeLetters": "ین",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به تجلیل از شخصیت‌های بزرگ اسلام، حسن و حسین، پرداخته است. شاعر از رسول خدا (ص) و مقام والای آن حضرت سخن می‌گوید و به زیبایی و مظلومیت این دو بزرگوار اشاره می‌کند. حسن با «خلعت زیبای» خود و حسین با «کسوت زیبای» خود، نشانه‌های عظمت و جانفشانی در راه حق را به نمایش می‌گذارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "ای روضه برون آی رسول ثقلین\r\nای ماه حجاز و آفتاب حرمین\r\nپر زهر ببین خلعت زیبای حسن\r\nپر خون بنگر کسوت زیبای حسین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای روضه برون آی رسول ثقلین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای ماه حجاز و آفتاب حرمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپر زهر ببین خلعت زیبای حسن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر خون بنگر کسوت زیبای حسین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای روضه برون آی رسول ثقلین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای ماه حجاز و آفتاب حرمین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پر زهر ببین خلعت زیبای حسن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پر خون بنگر کسوت زیبای حسین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

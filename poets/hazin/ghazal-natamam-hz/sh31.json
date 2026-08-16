@@ -1,0 +1,58 @@
+{
+  "Id": 83192,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۳۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh31",
+  "RhymeLetters": "دامرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از زیبایی و جذابیت کسی صحبت می‌کند که او را اسیر خود کرده است. او به شدت تحت تأثیر این زیبایی قرار دارد و به تپش قلب خود می‌رقصد. اما همزمان از غم و تنهایی رنج می‌برد و در حیرت است که این احساسات را با کی در میان بگذارد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دامرا",
+      "PlainText": "گشتم اسیر جلوه آن خوش خرام را\r\nدارم به رقص از تپش خویش دام را\r\nغم بی شمار و همنفسی نیست در کنار\r\nدر حیرتم که با که بگویم کدام را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشتم اسیر، جلوهٔ آن خوش خرام را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارم به رقص، از تپش خویش، دام را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم بی شمار و همنفسی نیست در کنار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حیرتم که با که بگویم، کدام را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گشتم اسیر، جلوهٔ آن خوش خرام را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دارم به رقص، از تپش خویش، دام را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غم بی شمار و همنفسی نیست در کنار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در حیرتم که با که بگویم، کدام را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

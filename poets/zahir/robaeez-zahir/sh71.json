@@ -1,0 +1,58 @@
+{
+  "Id": 73663,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/zahir/robaeez-zahir/sh71",
+  "RhymeLetters": "ایم",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر بیان می‌کند که هرچقدر برای عشق تو تلاش کنم و خود را خدمتگزار نشان دهم، اما راز عشق تو را به کسی نخواهم گفت. او همچنین اشاره می‌کند که این داستان آن‌قدر عمیق است که حتی در کنار آب، اشک‌هایش را بریزد و از درد عشق تو شکایت نکند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایم",
+      "PlainText": "گرچه همه جهد بندگی بنمایم\r\nاز عشق تو پیش کس زبان نگشایم\r\nهم بر سر آب آید این قصه چو من\r\nبا آب دو چشم خویش می برنایم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه همه جهد بندگی بنمایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عشق تو پیش کس زبان نگشایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم بر سر آب آید این قصه چو من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا آب دو چشم خویش می برنایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه همه جهد بندگی بنمایم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عشق تو پیش کس زبان نگشایم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم بر سر آب آید این قصه چو من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با آب دو چشم خویش می برنایم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

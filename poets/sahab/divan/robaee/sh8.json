@@ -1,0 +1,58 @@
+{
+  "Id": 112332,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/sahab/divan/robaee/sh8",
+  "RhymeLetters": "امتراست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره فردی است که از نظر شخصیت و ظاهر در وضعیتی نامناسب و ناخوشایند به سر می‌برد. او به خاطر روحیه‌ی منحرفش، فقط به دنبال تحسین دیگران است و در واقع، خود را ناتوان و خام می‌یابد. به طور کلی، شعر انتقادی به ناکامی‌ها و ضعف‌های درونی این فرد دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امتراست",
+      "PlainText": "از طبعی ناکام که ناکام تر است\r\nزاندام بدش که ناخوش اندام تر است\r\nبا طبع کجش جز طمع تحسین نیست\r\nطبعش خام است و طمعش خام تر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز طبعی ناکام که ناکام تر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزاندام بدش که ناخوش اندام تر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا طبع کجش جز طمع تحسین نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبعش خام است و طمعش خام تر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از طبعی ناکام که ناکام تر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زاندام بدش که ناخوش اندام تر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با طبع کجش جز طمع تحسین نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طبعش خام است و طمعش خام تر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

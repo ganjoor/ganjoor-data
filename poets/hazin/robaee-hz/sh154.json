@@ -1,0 +1,58 @@
+{
+  "Id": 83042,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۵۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۵۴",
+  "FullUrl": "/hazin/robaee-hz/sh154",
+  "RhymeLetters": "اهشدار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر به شخصی هشدار می‌دهد که در افکار و آرزوهای خود غرق شده و از آینده و عواقب آن غافل است. او به او یادآوری می‌کند که در حالی که به نظر می‌رسد زندگی‌اش آسوده است، ممکن است مرگ در کمین باشد. به همین دلیل، شاعر تأکید می‌کند که باید هوشیار و بیدار باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهشدار",
+      "PlainText": "ای دستخوش هزار سودا هشدار\r\nای غافل از اندیشه عقبا هشدار\r\nآسوده نشسته ای که جانی داری\r\nتیغ اجل است در تقاضا هشدار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دستخوش هزار سودا هشدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای غافل از اندیشهٔ عقبا هشدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسوده نشسته ای که جانی داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغ اجل است در تقاضا، هشدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دستخوش هزار سودا هشدار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای غافل از اندیشهٔ عقبا هشدار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آسوده نشسته ای که جانی داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیغ اجل است در تقاضا، هشدار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1179,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۶۱",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۶۱",
+  "FullUrl": "/khayyam/robaee/sh61",
+  "RhymeLetters": "رگردد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به بیان تجربه‌های انسانی می‌پردازد. او می‌گوید که از رنج و سختی، انسان به بالندگی و رشد می‌رسد. همچنین، اشاره می‌کند که مانند آب‌زده‌ای که درون صدف محبوس است، انسان نیز می‌تواند به رشد و تغییر برسد. در نهایت، او تأکید می‌کند که حتی اگر مال و ثروت از بین برود، هویت و وجود انسان باقی می‌ماند و پس از تهی شدن، دوباره می‌توان به سمت پر شدن و غنای جدید حرکت کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رگردد",
+      "PlainText": "از رنج کشیدن آدمی حر گردد\r\nقطره چو کشد حبس صدف در گردد\r\nگر مال نماند سر بماناد به جای\r\nپیمانه چو شد تهی دگر پر گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز رنج کشیدن آدمی حر گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطره چو کشد حبس صدف در گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مال نماند سر بماناد به جای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمانه چو شد تهی دگر پر گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از رنج کشیدن آدمی حر گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قطره چو کشد حبس صدف در گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر مال نماند سر بماناد به جای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیمانه چو شد تهی دگر پر گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

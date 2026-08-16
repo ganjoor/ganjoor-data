@@ -1,0 +1,58 @@
+{
+  "Id": 83467,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۳۰۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۳۰۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh306",
+  "RhymeLetters": "یدنچهفایده",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به حالت مستی و زیبایی خود اشاره دارد که در آینه منعکس شده است. لب‌های معشوقش به مانند شرابی در ساغر آینه جلوه‌گر است. او از حیرت و شگفتی خود می‌گوید و به یادگارهایی از اسکندر اشاره می‌کند، که ممکن است نشانه‌ای از قدرت و عظمت باشد. در کل، شاعر به تاثیرات عشق و زیبایی در وجود خود اشاره دارد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راینه",
+      "PlainText": "مستی فزوده است تو را در بر آینه\r\nعکس لبت شراب بود ساغر آینه\r\nحیرت به جاست پیش تو گر رفته ام ز خویش\r\nمانده ست یادگار ز اسکندر آینه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستی فزوده است تو را، در بر آینه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعکس لبت شراب بود، ساغر آینه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیرت به جاست، پیش تو گر رفته ام ز خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانده ست یادگار، ز اسکندر آینه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستی فزوده است تو را، در بر آینه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عکس لبت شراب بود، ساغر آینه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیرت به جاست، پیش تو گر رفته ام ز خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانده ست یادگار، ز اسکندر آینه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

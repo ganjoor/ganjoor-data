@@ -1,0 +1,58 @@
+{
+  "Id": 107234,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/daye/divan/robaee/sh71",
+  "RhymeLetters": "سته",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جاذبه زلف معشوق اشاره می‌کند که دل‌ها را به خود جذب کرده و غمزه‌های او جان‌ها را خسته می‌کند. او از خداوند درخواست می‌کند که این پیوند عاطفی و وابستگی شدیدش را به معشوق توضیح دهد، و بیان می‌کند که او در اوج عشق و اشتیاق به معشوق، احساس می‌کند که معشوق در دل او نشسته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سته",
+      "PlainText": "ای سلسله زلف تو دلها بسته\r\nوی غمزه خونخوار تو جانها خسته\r\nیا رب منم این چنین به تو پیوسته\r\nبر خاسته من زمن تویی بنشسته",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سلسله زلف تو دلها بسته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی غمزهٔ خونخوار تو جانها خسته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب منم این چنین به تو پیوسته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خاسته من زمن تویی بنشسته.\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سلسله زلف تو دلها بسته",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی غمزهٔ خونخوار تو جانها خسته",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا رب منم این چنین به تو پیوسته",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر خاسته من زمن تویی بنشسته.",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

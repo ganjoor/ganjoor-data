@@ -1,0 +1,58 @@
+{
+  "Id": 39569,
+  "CatId": 1332,
+  "Title": "بی‌خبری",
+  "FullTitle": "رهی معیری » رباعیها » بی‌خبری",
+  "FullUrl": "/rahi/robaeeha/sh2",
+  "RhymeLetters": "رند",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: این شعر به تضاد میان مستان و زاهدان اشاره دارد. مستان در خرابات (محل ناباب) غرق در خوشی و بی‌خبری هستند، در حالی که زاهدان خودپرست به خود مشغولند. شاعر به زاهدان هشدار می‌دهد که مستان و خودپرستان هر یک ویژگی‌های متفاوتی دارند و نباید در کنار هم قرار بگیرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رند",
+      "PlainText": "مستان خرابات ز خود بی خبرند\r\nجمعند و ز بوی گل پراکنده ترند\r\nای زاهد خودپرست با ما منشین\r\nمستان دگرند و خودپرستان دگرند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستان خرابات ز خود بی‌خبرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمعند و ز بوی گل پراکنده‌ترند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زاهد خودپرست با ما منشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمستان دگرند و خودپرستان دگرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستان خرابات ز خود بی‌خبرند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمعند و ز بوی گل پراکنده‌ترند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای زاهد خودپرست با ما منشین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مستان دگرند و خودپرستان دگرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

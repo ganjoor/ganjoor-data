@@ -1,0 +1,58 @@
+{
+  "Id": 48735,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۶",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۶",
+  "FullUrl": "/orfi/robaeeor/sh16",
+  "RhymeLetters": "تنیست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این اشعار نشان‌دهنده‌ی حالتی از فراتر رفتن از زمان و مکان است. گویا شاعر از محدودیت‌های دنیایی مثل سال، ماه، روز و شب رهایی یافته و به وحدتی دست پیدا کرده که در آن نه درد وجود دارد و نه آسایش. او به یک مقام بالاتر، به نام \u0022عالم وحدت\u0022 اشاره می‌کند که در آن همه‌ی این تفکیک‌ها و تضادها بی‌معنا می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تنیست",
+      "PlainText": "با سال و مه ام دقیقه و ساعت نیست\r\nبا روز و شبم روشنی و ظلمت نیست\r\nبا صحت و رنجم آفت و راحت نیست\r\nعرفی عالمی چو عالم وحدت نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا سال و مه ام دقیقه و ساعت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا روز و شبم روشنی و ظلمت نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا صحت و رنجم آفت و راحت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرفی عالمی چو عالم وحدت نیست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با سال و مه ام دقیقه و ساعت نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با روز و شبم روشنی و ظلمت نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با صحت و رنجم آفت و راحت نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عرفی عالمی چو عالم وحدت نیست ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 112349,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/sahab/divan/robaee/sh25",
+  "RhymeLetters": "تیخلق",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به شکایت برخی از مردم از زندگی و مشکلاتشان اشاره می‌کند. او احساس می‌کند که هم مردم از زندگی سردرگم و غمگین هستند و هم خود شاعر از نگرانی‌های مردم ناراحت است. به بیان دیگر، هر دو طرف در رنج و درد به سر می‌برند؛ مردم از وضعیت زندگی و شاعر از نگرانی برای آنان.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تیخلق",
+      "PlainText": "ای باعث افلاس و تهیدستی خلق\r\nاز نهیاتی شکایت مشتی خلق\r\nهم خلق ملول هم تو دلگیر زما\r\nخلق از غم هستی و تو از هستی خلق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باعث افلاس و تهیدستی خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نهیاتی شکایت مشتی خلق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم خلق ملول هم تو دلگیر زما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخلق از غم هستی و تو از هستی خلق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باعث افلاس و تهیدستی خلق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نهیاتی شکایت مشتی خلق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم خلق ملول هم تو دلگیر زما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خلق از غم هستی و تو از هستی خلق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

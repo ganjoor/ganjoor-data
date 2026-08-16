@@ -1,0 +1,58 @@
+{
+  "Id": 107175,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/daye/divan/robaee/sh12",
+  "RhymeLetters": "اقیاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به اشتیاق و عشق صحبت می‌کند. شاعر از ساقی می‌خواهد که باده بیشتری بریزد، زیرا هنوز چیزی از وجود او باقی مانده است. این بیانگر علاقه و شوق او به زندگی و لذت‌های دنیوی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقیاست",
+      "PlainText": "این مرتبهارب چه حد مشتاقی است\r\nکامروز هم او حریف و هم او ساقی است\r\nهان ای ساقی باده فرا افزون کن\r\nکز هستی ما هنوز چیزی باقی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مرتبهٔارب چه حد مشتاقی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامروز هم او حریف و هم او ساقی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهان ای ساقی باده فرا افزون کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز هستی ما هنوز چیزی باقی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این مرتبهٔارب چه حد مشتاقی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کامروز هم او حریف و هم او ساقی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هان ای ساقی باده فرا افزون کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز هستی ما هنوز چیزی باقی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

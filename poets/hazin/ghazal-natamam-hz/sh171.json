@@ -1,0 +1,72 @@
+{
+  "Id": 83332,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۷۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۷۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh171",
+  "RhymeLetters": "ارمیکشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات poet به درد و رنج دل غمناک اشاره می‌کند و این‌که نمی‌تواند از مصرف می (شراب) آرامش بگیرد. او همچنین بیان می‌کند که نمی‌توان به راحتی مشکلات روحی را با دل سنگی تحمل کرد، زیرا ستم و درد غمناک زندگی هر لحظه به شکلی دیگر خود را نشان می‌دهد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکگشاید",
+      "PlainText": "کی نشیه صهبا دل غمناک گشاید\r\nمی چون نتواند گره تاک گشاید\r\nکار جگر سنگ سپرداری دل نیست\r\nچون شست ستم غمزه بی باک گشاید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی نشئهٔ صهبا، دل غمناک گشاید؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی چون نتواند گره تاک گشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکار جگر سنگ، سپرداری دل نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شست ستم، غمزهٔ بی باک گشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "Second",
+      "RhymeLetters": "اکگشاید",
+      "PlainText": "کی نشیه صهبا دل غمناک گشاید\r\nمی چون نتواند گره تاک گشاید\r\nکار جگر سنگ سپرداری دل نیست\r\nچون شست ستم غمزه بی باک گشاید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی نشئهٔ صهبا، دل غمناک گشاید؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی چون نتواند گره تاک گشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکار جگر سنگ، سپرداری دل نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شست ستم، غمزهٔ بی باک گشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی نشئهٔ صهبا، دل غمناک گشاید؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می چون نتواند گره تاک گشاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کار جگر سنگ، سپرداری دل نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شست ستم، غمزهٔ بی باک گشاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70045,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/amir/robam/sh2",
+  "RhymeLetters": "ستانرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به زیبایی و جذابیت چهره و لب‌های محبوب اشاره دارند. شاعر با استفاده از تشبیهات پررمز و راز، نشان می‌دهد که زیبایی چهره محبوب در مقایسه با مناطق مختلفی چون لالستان و خوزستان چه تاثیری دارد و حتی افرادی که محبوب را در نظر گرفته‌اند، به خاطر او، قبله خود را تغییر داده و به زیبایی او معطوف کرده‌اند. به طور کلی، این شعر به تعریف و ستایش از زیبایی و جذابیت عاشقانه می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستانرا",
+      "PlainText": "بیقدرکند رخ تو لالستان را\r\nتشویر دهد لب تو خوزستان را\r\nان کس که تورا قبله ترکستان دید\r\nاز بهر تو کرد قبله  ترکستان را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیقدرکند رخ تو لالستان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتشویر دهد لب تو خوزستان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eان‌کس که تورا قبلهٔ ترکستان دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بهر تو کرد قبله‌ ترکستان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیقدرکند رخ تو لالستان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تشویر دهد لب تو خوزستان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ان‌کس که تورا قبلهٔ ترکستان دید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بهر تو کرد قبله‌ ترکستان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

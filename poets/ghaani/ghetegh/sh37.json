@@ -1,0 +1,58 @@
+{
+  "Id": 45677,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۳۷",
+  "FullUrl": "/ghaani/ghetegh/sh37",
+  "RhymeLetters": "راممیگردد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به نقد نفس انسان می‌پردازد که به مثابه زنی زناکار معرفی شده است. این نفس، به راحتی به دامن بیگانگان می‌افتد و در تلاش برای یافتن روزی حلال، به سمت رزق حرام می‌رود. این اشاره به تمایل انسان به گمراهی و دوری از مسیر صحیح دارد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راممیگردد",
+      "PlainText": "نفس کافر زنی است زانیه\r\nکه به بیگانه رام می گردد\r\nبسته از روزی حلال نظر\r\nپی رزق حرام می گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفس کافر زنی است زانیّه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه به بیگانه رام می گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسته از روزی حلال نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپی رزق حرام می گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نفس کافر زنی است زانیّه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که به بیگانه رام می گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسته از روزی حلال نظر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پی رزق حرام می گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

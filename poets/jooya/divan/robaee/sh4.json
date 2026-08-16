@@ -1,0 +1,58 @@
+{
+  "Id": 103058,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/jooya/divan/robaee/sh4",
+  "RhymeLetters": "ختمرا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر از معشوقی که دلش را به سختی شکست، شکایت می‌کند. او احساس می‌کند که به وصال محبوب نرسیده و دلش در این مسیر زخمی شده است. در نهایت، به این نتیجه می‌رسد که رسیدن به عشق، سخت و دشوار بوده و برای او مانند یک خواب سنگین و ناامیدکننده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ختمرا",
+      "PlainText": "یارب چه شد آن دلبر دل سخت مرا\r\nننواخت به وصل این دل صد لخت مرا\r\nسنگ ره وصل یار شد آخر کار\r\nاین خواب گرانی که بود بخت مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب چه شد آن دلبر دل سخت مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eننواخت به وصل این دل صد لخت مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسنگ ره وصل یار شد آخر کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین خواب گرانی که بود بخت مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یارب چه شد آن دلبر دل سخت مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ننواخت به وصل این دل صد لخت مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سنگ ره وصل یار شد آخر کار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این خواب گرانی که بود بخت مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

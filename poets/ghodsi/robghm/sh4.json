@@ -1,0 +1,58 @@
+{
+  "Id": 74545,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/ghodsi/robghm/sh4",
+  "RhymeLetters": "رویترا",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی به عشق و محبت اشاره دارد. شاعر می‌گوید اگر می‌خواهی که دیگران به تو توجه کنند و به تو عشق ورزند، باید با رویی گشاده و دوستانه با آنها برخورد کنی. همچنین به زیبایی و جذابیت چهره معشوق اشاره می‌کند و از او می‌خواهد که مانند یک محراب، آرامش‌بخش و قابل سجده باشد. در کل، شعر به اهمیت انعطاف و محبت در روابط انسانی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رویترا",
+      "PlainText": "خواهی که کنی قبله سر کویت را\r\nاز خواهش کس ترش مکن رویت را\r\nبا خلق گشاده روی شو چون محراب\r\nتا سجده برند طاق ابرویت را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی که کنی قبله سر کویت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خواهش کس، ترش مکن رویت را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا خلق، گشاده‌روی شو چون محراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سجده برند طاق ابرویت را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواهی که کنی قبله سر کویت را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خواهش کس، ترش مکن رویت را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با خلق، گشاده‌روی شو چون محراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سجده برند طاق ابرویت را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

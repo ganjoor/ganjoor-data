@@ -1,0 +1,58 @@
+{
+  "Id": 70177,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۳۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۳۴",
+  "FullUrl": "/amir/robam/sh134",
+  "RhymeLetters": "ان",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر درباره احساسات و رابطه‌ای میان خود و یک معشوق (بت) صحبت می‌کند. چشم او و چشم معشوق به نوعی درگیر معامله‌ای هستند که در آن، هر دو از موضوعاتی مانند سود و زیان سخن می‌گویند. در نهایت، شاعر به نوعی توافق نهانی اشاره می‌کند که در آن یکی آب را به دیگری می‌دهد و دیگری خواب را به او می‌سپارد. این ابیات احساس عمیق عشق و تعاملات پنهانی را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "چشم من و چشم آن بت تنگ دهان\r\nدر بیع و شری شدند و در سود و زیان\r\nکردند یکی بیع زما هر دو نهان\r\nآن آب بدین سپرد و این خواب بدان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم من و چشم آن بت تنگ دهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بیع و شری شدند و در سود و زیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردند یکی بیع زما هر دو نهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن آب بدین سپرد و این خواب بدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم من و چشم آن بت تنگ دهان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بیع و شری شدند و در سود و زیان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کردند یکی بیع زما هر دو نهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن آب بدین سپرد و این خواب بدان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 51784,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/bahar/robaeebk/sh61",
+  "RhymeLetters": "ون",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به ما می‌گویند که باید برای جنگ آماده باشیم، زیرا دنیا با مهربانی و نرمش به صلح نمی‌رسد. صلح تنها با آمادگی برای جنگ و خون پاک به دست می‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ون",
+      "PlainText": "آماده جنگ باش کاین چرخ حرون\r\nبا نرم دلی با تو نگردد مقرون\r\nجز با جنگ آماده نمی گردد صلح\r\nجز با خون پاکیزه نمی گردد خون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمادهٔ جنگ باش کاین چرخ حرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا نرم‌دلی با تو نگردد مقرون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز با جنگ آماده نمی‌گردد صلح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز با خون پاکیزه نمی گردد خون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمادهٔ جنگ باش کاین چرخ حرون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با نرم‌دلی با تو نگردد مقرون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز با جنگ آماده نمی‌گردد صلح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز با خون پاکیزه نمی گردد خون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

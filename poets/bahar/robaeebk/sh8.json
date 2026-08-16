@@ -1,0 +1,58 @@
+{
+  "Id": 51731,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/bahar/robaeebk/sh8",
+  "RhymeLetters": "یزاینجاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها شاعر به خواننده گوشزد می‌کند که به جای جستجوی خدا در خارج از خود، باید به درون خود نظر بیندازد. او تأکید می‌کند که پرهیز از خودشناسی و نادیده گرفتن درون، باعث دوری از فهم خداوند می‌شود. در نهایت، شاعر می‌گوید که رازهای خدا در دل انسان‌ها نهفته است و باید به جای جستجوی بی‌پایان، به خود توجه کنیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزاینجاست",
+      "PlainText": "پرهیز از خود که جای پرهیز اینجاست\r\nوز کس مطلب چیز که هر چیز اینجاست\r\nتا چند پی راز خدا می گردی\r\nراز دل خود جو که خدا نیز اینجاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرهیز از خود که جای پرهیز اینجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز کس مطلب چیز که هر چیز اینجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند پی راز خدا می گردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراز دل خود جو که خدا نیز اینجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پرهیز از خود که جای پرهیز اینجاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز کس مطلب چیز که هر چیز اینجاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا چند پی راز خدا می گردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "راز دل خود جو که خدا نیز اینجاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

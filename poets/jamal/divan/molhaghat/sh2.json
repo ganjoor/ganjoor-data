@@ -1,0 +1,82 @@
+{
+  "Id": 95125,
+  "CatId": 2442,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "جمال‌الدین عبدالرزاق » دیوان اشعار » ملحقات » شمارهٔ ۲",
+  "FullUrl": "/jamal/divan/molhaghat/sh2",
+  "RhymeLetters": "ار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: خلاصه این بیت این است که خوب است انسان از کارهای ناپسند دوستانش سخن نگوید، زیرا زشتی‌ها را نباید فاش کرد. همچنین، افسوس که بزرگان و محبوبان نیز گاهی از بخشش و توجه به دیگران کوتاهی می‌کنند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتنکنند",
+      "PlainText": "کرده آنست که از کرده دوست\r\nچون بود زشت حکایت نکنند\r\nآه و صد آه که از مخدومان\r\nنبود عفو و عنایت نکنند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده آنست که از کرده دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بود زشت حکایت نکنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه و صد آه که از مخدومان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبود عفو و عنایت نکنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "چونبودزشتحکایتنکنند",
+      "PlainText": "کرده آنست که از کرده دوست\r\nچون بود زشت حکایت نکنند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده آنست که از کرده دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بود زشت حکایت نکنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نبودعفووعنایتنکنند",
+      "PlainText": "آه و صد آه که از مخدومان\r\nنبود عفو و عنایت نکنند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه و صد آه که از مخدومان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبود عفو و عنایت نکنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کرده آنست که از کرده دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون بود زشت حکایت نکنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آه و صد آه که از مخدومان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نبود عفو و عنایت نکنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    }
+  ]
+}

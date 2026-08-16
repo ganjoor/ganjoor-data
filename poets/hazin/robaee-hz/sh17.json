@@ -1,0 +1,58 @@
+{
+  "Id": 82905,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/hazin/robaee-hz/sh17",
+  "RhymeLetters": "هلاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که در مبارزه با نادانی، فردی که آگاه است، می‌تواند به آسانی بر مشکلات غلبه کند. او همچنین اشاره می‌کند که زمانه به قدری با ما مهربان است که خود را از این خصومت‌ها ناتوان می‌بیند. به عبارت دیگر، آگاهی و درک صحیح می‌تواند بر سختی‌ها فائق آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هلاست",
+      "PlainText": "هر چند که خصمی سپهر از جهل است\r\nآسان گذرد به خاطری کو اهل است\r\nعاجز شده روزگار از خصمی ما\r\nدشوار زمانه بس که بر ما سهل است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که خصمی سپهر از جهل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسان گذرد به خاطری کو اهل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاجز شده روزگار از خصمی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشوار زمانه بس که بر ما سهل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که خصمی سپهر از جهل است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسان گذرد به خاطری کو اهل است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاجز شده روزگار از خصمی ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشوار زمانه بس که بر ما سهل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

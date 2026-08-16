@@ -1,0 +1,58 @@
+{
+  "Id": 119593,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/neshat/divan/robaee/sh59",
+  "RhymeLetters": "اهاستاین",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به تصویر کشیدن زیبایی ماه و زرق و برق آن اشاره دارد. ماه مانند یک هلال زیبا بر آسمان نقش بسته است و به نوعی نماد قدرت و عظمت آسمانی به شمار می‌آید. در اشعار به وجود ستاره‌ای بدخواه نیز اشاره شده است که باعث می‌شود آن زیبایی پنهان یا مخفی شود. به طور کلی، این متن به تضاد زیبایی و زشتی در آسمان می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهاستاین",
+      "PlainText": "بر چرخ هلال غره ی ماه است این\r\nیا تیغ شهنشه فلک جاه است این\r\nناگشته عیان زدیده ها گشت نهان\r\nنی نی غلطم کوکب بد خواه است این",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر چرخ هلال غره ی ماه است این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا تیغ شهنشه فلک جاه است این\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناگشته عیان زدیده ها گشت نهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی نی غلطم کوکب بد خواه است این\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر چرخ هلال غره ی ماه است این",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا تیغ شهنشه فلک جاه است این",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناگشته عیان زدیده ها گشت نهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نی نی غلطم کوکب بد خواه است این",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 12821,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۸۶",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۸۶",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh86",
+  "RhymeLetters": "شت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از بی‌عدالتی و سختی‌هایی که در زندگی‌اش تجربه کرده می‌گوید. او به نوری اشاره می‌کند که نمی‌تواند آن را در مشت بگیرد، و به آتش و عذابی اشاره دارد که نمی‌توان به آن نزدیک شد. همچنین از سختی روزگار و بدبیاری خود سخن می‌گوید و از بختی می‌نالد که وقتی او را می‌بیند، به او پشت می‌کند. در کل، این ابیات احساس ناامیدی و تلخی را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شت",
+      "PlainText": "نوری که همی جمع نیابی در مشت\r\nناری که به تو در نتوان زد انگشت\r\nدهری که شوی بر من بیچاره درشت\r\nبختی که چو بینمت بگردانی پشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوری که همی جمع نیابی در مشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناری که به تو در نتوان زد انگشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهری که شوی بر من بیچاره درشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبختی که چو بینمت بگردانی پشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوری که همی جمع نیابی در مشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناری که به تو در نتوان زد انگشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دهری که شوی بر من بیچاره درشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بختی که چو بینمت بگردانی پشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

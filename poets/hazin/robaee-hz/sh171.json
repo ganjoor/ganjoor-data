@@ -1,0 +1,58 @@
+{
+  "Id": 83060,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۷۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۷۱",
+  "FullUrl": "/hazin/robaee-hz/sh171",
+  "RhymeLetters": "وس",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با اشاره به لباس زیبا و ظاهری فریبنده (خرقه پر زرق و ردای سالوس)، به جستجوی حقیقت و زیبایی‌های واقعی می‌پردازد. او دچار سردرگمی است و نمی‌داند به کجا برود. در این دشت بی‌انتهایی که به نظر می‌رسد فقط سراب وجود دارد، او از فقدان چیزی واقعی و باارزش رنج می‌برد و تنها چیزی که در دست دارد، دانه‌ای از درد و ناامیدی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وس",
+      "PlainText": "این خرقه پر زرق و ردای سالوس\r\nای دل به کجا برم کزو به ناقوس\r\nازکشته خود به کف درین دشت سراب\r\nجز آبله دانه ندارم افسوس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین خرقهٔ پر زرق و ردای سالوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دل به کجا برم؟ کزو به ناقوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازکشتهٔ خود به کف درین دشت سراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز آبلهٔ دانه ندارم، افسوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این خرقهٔ پر زرق و ردای سالوس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای دل به کجا برم؟ کزو به ناقوس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ازکشتهٔ خود به کف درین دشت سراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز آبلهٔ دانه ندارم، افسوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

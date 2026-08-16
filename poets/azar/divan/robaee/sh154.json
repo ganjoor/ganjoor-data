@@ -1,0 +1,58 @@
+{
+  "Id": 119075,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۵۴",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۵۴",
+  "FullUrl": "/azar/divan/robaee/sh154",
+  "RhymeLetters": "رتو",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به دعا و درخواست از خداوند می‌پردازد. او از خدا می‌خواهد که به او کمک کند زیرا شخصی قوی و زورآور به در حجره‌اش آمده است. شاعر نمی‌داند چه کند و در عین حال به خوف و هراس از آن فرد زورآور، به مسجد آمده ولی آن شخص در برابر او ایستاده است، در حالی که خود او در برابر خداوند قرار دارد. این ابیات نشان‌دهنده تضاد میان ضعف انسانی و قدرت الهی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رتو",
+      "PlainText": "یا رب یکی از عباد زورآور تو\r\nآمد بدر حجره که چون شدزر تو\r\nمن آمده ام بمسجد از بیم اکنون\r\nاو بر در من نشسته من بر در تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب! یکی از عباد زورآور تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمد بدر حجره، که چون شدزر تو؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن آمده ام بمسجد از بیم اکنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو بر در من نشسته، من بر در تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب! یکی از عباد زورآور تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آمد بدر حجره، که چون شدزر تو؟!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من آمده ام بمسجد از بیم اکنون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او بر در من نشسته، من بر در تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

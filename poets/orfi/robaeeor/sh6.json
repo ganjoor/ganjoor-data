@@ -1,0 +1,58 @@
+{
+  "Id": 48725,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۶",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۶",
+  "FullUrl": "/orfi/robaeeor/sh6",
+  "RhymeLetters": "انبهکجا",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و fragility گل‌ها و طبیعت در بهار اشاره دارد و پرسش‌هایی را درباره سرنوشت آن‌ها مطرح می‌کند. شاعر از گلبرگ‌ها و سنبل‌های بهاری می‌پرسد که به کجا می‌روند و همچنین به چهره و زلف معشوقه‌اش اشاره دارد و از او نیز می‌پرسد که با این شتاب و پریشانی به کجا می‌رود. این سوالات نشان‌دهنده حس کنجکاوی و دل‌نگرانی شاعر از تغییرات و گذراندن لحظات زیبا و گذراست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انبهکجا",
+      "PlainText": "گلبرگ برد باد بهاران به کجا\r\nسنبل رود از شبنم بستان به کجا\r\nای عارض یار من شتابان به کجا\r\nوی زلف نگار من پریشان به کجا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلبرگ برد باد بهاران به کجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنبل رود از شبنم بستان به کجا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عارض یار من شتابان به کجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی زلف نگار من پریشان به کجا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلبرگ برد باد بهاران به کجا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سنبل رود از شبنم بستان به کجا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای عارض یار من شتابان به کجا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وی زلف نگار من پریشان به کجا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

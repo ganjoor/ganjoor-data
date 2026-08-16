@@ -1,0 +1,58 @@
+{
+  "Id": 83147,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۵۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۵۰",
+  "FullUrl": "/hazin/robaee-hz/sh250",
+  "RhymeLetters": "انینکنی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و سبکی باد صبا اشاره دارد و نویسنده از اینکه عشق یا زیبایی را با موجودات ناپسند مانند زاغ و زغن مقایسه کند، ابراز نگرانی می‌کند. او همچنین به رنگ سرمه اشاره می‌کند و از آن می‌خواهد که بر چشم‌ها فشار نیاورد و سبکی و لطافت را حفظ کند. به طور کلی، شاعر به دنبال زیبایی و رهایی از سنگینی‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انینکنی",
+      "PlainText": "چون باد صبا سبک عنانی نکنی\r\nبا زاغ و زغن هم آشیانی نکنی\r\nای سرمه به خاک تا توان یکسان شد\r\nزنهار به دیده ها گرانی نکنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون باد صبا، سبک عنانی نکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا زاغ و زغن، هم آشیانی نکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سرمه، به خاک تا توان یکسان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنهار، به دیده ها گرانی نکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون باد صبا، سبک عنانی نکنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با زاغ و زغن، هم آشیانی نکنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای سرمه، به خاک تا توان یکسان شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنهار، به دیده ها گرانی نکنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

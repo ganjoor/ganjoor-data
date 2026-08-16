@@ -1,0 +1,58 @@
+{
+  "Id": 103070,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/jooya/divan/robaee/sh16",
+  "RhymeLetters": "ردنعجباست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این متن، به چالش‌های زندگی انسانی و ناآگاهی ما از مرگ اشاره می‌کند. شعری به تفکر درباره‌ی زندگی، خواب و آرزوها پرداخته و بیان می‌کند که با وجود دانستن اینکه سفر زندگی در نهایت به پایان می‌رسد، تعجب‌آور است که همچنان به مسائل روزمره و مادی بچسبیم و از اندیشیدن به آمادگی برای این سفر غافل باشیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردنعجباست",
+      "PlainText": "دنیاداری با علم به مردن عجب است\r\nفکر خواب و خیال خوردن عجب است\r\nچون هست یقینت که سفر باید کرد\r\nاندیشه زاد ره نکردن عجب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیاداری با علم به مردن عجب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفکر خواب و خیال خوردن عجب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون هست یقینت که سفر باید کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندیشهٔ زاد ره نکردن عجب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دنیاداری با علم به مردن عجب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فکر خواب و خیال خوردن عجب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون هست یقینت که سفر باید کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندیشهٔ زاد ره نکردن عجب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

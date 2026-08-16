@@ -1,0 +1,58 @@
+{
+  "Id": 70209,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۶۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۶۶",
+  "FullUrl": "/amir/robam/sh166",
+  "RhymeLetters": "ازی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به فردی که عشق خود را به دیگری داده است، اشاره می‌کند و احساس می‌کند که در دوستی حقیقی چنین رفتارهایی ناپسند است. او خود را در غم عشقش غمگین نمی‌بیند و به نوعی با خوشحالی این جدایی را کنار گذاشته و با دیگری احساس خوشی می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انبادگری",
+      "PlainText": "ای باخته عشق در جهان با دگری\r\nنوشیده سبک می  گران با دگری\r\nدر مذهب دوستی روا نیست چنین\r\nمن بی  تو به غم تو شادمان با دگری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باخته عشق در جهان با دگری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوشیده سبک می‌ گران با دگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مذهب دوستی روا نیست چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بی‌ تو به غم تو شادمان با دگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باخته عشق در جهان با دگری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوشیده سبک می‌ گران با دگری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در مذهب دوستی روا نیست چنین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بی‌ تو به غم تو شادمان با دگری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

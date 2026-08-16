@@ -1,0 +1,58 @@
+{
+  "Id": 51737,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/bahar/robaeebk/sh14",
+  "RhymeLetters": "رایمنوتست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: مضمون این ابیات بیانگر این است که دنیا و زندگی فراتر از من و توست و هدفی در خلق عالم نیست که تنها به ما مربوط باشد. پس باید خوشحال و راضی باشیم که این کارها از محدوده وجود ما خارج است و در واقع فراتر از خواسته‌ها و آرزوهای فردی ماست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رایمنوتوست",
+      "PlainText": "خوش باش که گیتی نه برای من و توست\r\nوین کار برون ز ماجرای من و توست\r\nدر خلقت عالم نبود مقصودی\r\nقصدی هم اگر بود ورای من و توست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش باش که گیتی نه برای من و توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین کار برون ز ماجرای من و توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خلقت عالم نبود مقصودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقصدی هم اگر بود ورای من و توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش باش که گیتی نه برای من و توست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین کار برون ز ماجرای من و توست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خلقت عالم نبود مقصودی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قصدی هم اگر بود ورای من و توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

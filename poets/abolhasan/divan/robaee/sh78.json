@@ -1,0 +1,58 @@
+{
+  "Id": 96341,
+  "CatId": 2478,
+  "Title": "شمارهٔ  ۷۸",
+  "FullTitle": "ابوالحسن فراهانی » دیوان اشعار » رباعیات » شمارهٔ  ۷۸",
+  "FullUrl": "/abolhasan/divan/robaee/sh78",
+  "RhymeLetters": "ود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر ناراحتی شاعر است که به خاطر دلتنگی برای یار، روزش را تیره و غم‌انگیز می‌بیند. او اشاره می‌کند که سایه محبت یار بر زندگی‌اش سنگینی می‌کند و درازای زلف یار همچون شب‌های طولانی، غم و اندوهش را افزایش می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ود",
+      "PlainText": "گر تیرگی روز من غم فرسود\r\nزانست که نورش به رخ یار فزود\r\nبرد از شب من نیز درازی زلفش\r\nبس چون شبم آنچنان درازست که بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تیرگی روز من غم فرسود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانست که نورش به رخ یار فزود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرد از شب من نیز درازی زلفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس چون شبم آنچنان درازست که بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر تیرگی روز من غم فرسود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زانست که نورش به رخ یار فزود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برد از شب من نیز درازی زلفش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس چون شبم آنچنان درازست که بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

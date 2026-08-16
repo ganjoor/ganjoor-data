@@ -1,0 +1,58 @@
+{
+  "Id": 1183,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۶۵",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۶۵",
+  "FullUrl": "/khayyam/robaee/sh65",
+  "RhymeLetters": "وید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به اهمیت استفاده از زمان اشاره دارد. او می‌گوید عقل انسان بارها به او یادآوری می‌کند که نباید وقتش را بی‌هوده تلف کند. از این رو، به خواننده توصیه می‌کند که از لحظه‌هایش بهره‌برداری کند، زیرا زمان به سرعت می‌گذرد و ممکن است دیگر فرصتی برای جبران نباشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وید",
+      "PlainText": "این عقل که در ره سعادت پوید\r\nروزی صد بار خود تو را می گوید\r\nدریاب تو این یک دم وقتت که نه ای\r\nآن تره که بدروند و دیگر روید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین عقل که در ره سعادت پوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزی صد بار خود تو را می‌گوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریاب تو این یک دم وقتت که نه‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن تره که بدروند و دیگر روید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این عقل که در ره سعادت پوید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزی صد بار خود تو را می‌گوید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دریاب تو این یک دم وقتت که نه‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن تره که بدروند و دیگر روید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

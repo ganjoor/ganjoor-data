@@ -1,0 +1,58 @@
+{
+  "Id": 51758,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۳۵",
+  "FullUrl": "/bahar/robaeebk/sh35",
+  "RhymeLetters": "ار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ملاقات یاری می‌پردازد که با خرقه و تسبیح او را می‌بیند و به او می‌گوید که نور زهد از چراغ زهد نمی‌آید. شاعر تأکید می‌کند که کسی طعم شهد را در کان نمک نچشیده و کسی نیز میوه را از شاخ چنار نچیده است. به این ترتیب، شاعر بیان می‌کند که تنها ظاهر زهد و عبادت کافی نیست و برای درک واقعی باید عمق و حقیقت را جستجو کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "با خرقه و تسبیح مرا دید چو یار\r\nگفتا ز چراغ زهد ناید انوار\r\nکس شهد ندیده است در کان نمک\r\nکس میوه نچیده است از شاخ چنار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا خرقه و تسبیح مرا دید چو یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا ز چراغ زهد ناید انوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس شهد ندیده است در کان نمک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس میوه نچیده است از شاخ چنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با خرقه و تسبیح مرا دید چو یار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا ز چراغ زهد ناید انوار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کس شهد ندیده است در کان نمک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کس میوه نچیده است از شاخ چنار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

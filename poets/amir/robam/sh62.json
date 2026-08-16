@@ -1,0 +1,58 @@
+{
+  "Id": 70105,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۶۲",
+  "FullUrl": "/amir/robam/sh62",
+  "RhymeLetters": "اهنکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر عشق و وابستگی عمیق به محبوب است. شاعر می‌گوید که جان کسی که تحت تأثیر محبت او قرار گرفته، هیچ نقصی ندارد و درد و رنجی که ناشی از عشق اوست، درمان‌پذیر نیست. او اشاره می‌کند که هیچ‌کس نمی‌تواند به اختیار خود از فرمان عشق او فرار کند، حتی اگر به اوج دانش و معرفت برسد. در نهایت، همه چیز تحت تأثیر تأکید عشق او به زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننبرد",
+      "PlainText": "جانی که زمهر توست نقصان نبرد\r\nدردی که زکین توست درمان نبرد\r\nهرکس که تورا به طوع فرمان نبرد\r\nگر عالم جان شود ز تو جان نبرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانی‌که زمهر توست نقصان نبرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردی که زکین توست درمان نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکس‌که تورا به طوع فرمان نبرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر عالم جان شود ز تو جان نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانی‌که زمهر توست نقصان نبرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دردی که زکین توست درمان نبرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرکس‌که تورا به طوع فرمان نبرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر عالم جان شود ز تو جان نبرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

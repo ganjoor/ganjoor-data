@@ -1,0 +1,58 @@
+{
+  "Id": 69464,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۰۳",
+  "FullUrl": "/azraghi/arob/sh103",
+  "RhymeLetters": "سی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از درد و حسرت خود می‌گوید که به خاطر خواسته‌های بی‌ارزش، جان عزیزش را فدای امور بی‌اهمیت کرده است. او از غم و نگرانی‌های زندگی بسیار رنج برده و این مشکلات را ناشی از دل خود می‌داند، نه از تاثیری که دیگران بر او گذاشته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سی",
+      "PlainText": "دردا و دریغا که چنین در هوسی\r\nکردیم تن عزیز خس بهر خسی\r\nزهر غم روزگار خوردیم بسی\r\nاز دست دل خویش نه از دست کسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردا و دریغا که چنین در هوسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکردیم تن عزیز خس، بهر خسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهر غم روزگار خوردیم بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دست دل خویش، نه از دست کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردا و دریغا که چنین در هوسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کردیم تن عزیز خس، بهر خسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زهر غم روزگار خوردیم بسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دست دل خویش، نه از دست کسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

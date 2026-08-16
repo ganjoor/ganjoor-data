@@ -1,0 +1,58 @@
+{
+  "Id": 84228,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/maghrebi/robaee-sm/sh17",
+  "RhymeLetters": "مماییم",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، poet به بیان جایگاه انسان و ارتباط او با خداوند می‌پردازد. او تاکید می‌کند که ما خود دنیایی از معانی و صفات الهی هستیم و به نوعی گنجینه‌ای از قدرت و علم الهی به شمار می‌آییم. همچنین، به خواست و طلب انسان‌ها از خدا اشاره کرده و می‌گوید اگر کسی به دنبال اسم اعظم و حقیقت الهی است، باید به ما توجه کند، زیرا ما خود تجلی‌گر آن حقیقت هستیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مماییم",
+      "PlainText": "گنجی که طلسم اوست عالم ماییم\r\nذاتی که صفات اوست آدم ماییم\r\nای آنکه تویی طالب اسم اعظم\r\nاز ما مگذر که اسم اعظم ماییم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگنجی که طلسم اوست عالم ماییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذاتی که صفات اوست آدم ماییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه تویی طالب اسم اعظم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ما مگذر که اسم اعظم ماییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گنجی که طلسم اوست عالم ماییم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ذاتی که صفات اوست آدم ماییم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای آنکه تویی طالب اسم اعظم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از ما مگذر که اسم اعظم ماییم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

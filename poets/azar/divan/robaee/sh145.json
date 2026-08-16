@@ -1,0 +1,58 @@
+{
+  "Id": 119066,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۴۵",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۴۵",
+  "FullUrl": "/azar/divan/robaee/sh145",
+  "RhymeLetters": "ممن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به عشق و نزدیکی عاطفی اشاره می‌کند و آرزوی همدمی با معشوق را دارد. او می‌خواهد که در شب‌نشینی مشترک، همدیگر را در غم و اندوه‌هایشان شریک کنند و ماتم یکدیگر را بپذیرند. این بیانگر عاطفی عمیق و وابستگی عاطفی به محبوب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ممن",
+      "PlainText": "آن کس که براز عشق شد محرم من\r\nاکنون خواهم شبی شود همدم من\r\nتا من غم او بشنوم و او غم من\r\nمن ماتم او گیرم و او ماتم من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که براز عشق شد محرم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون خواهم شبی شود همدم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا من غم او بشنوم و او غم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن ماتم او گیرم و، او ماتم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که براز عشق شد محرم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اکنون خواهم شبی شود همدم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا من غم او بشنوم و او غم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من ماتم او گیرم و، او ماتم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

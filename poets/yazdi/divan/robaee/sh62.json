@@ -1,0 +1,58 @@
+{
+  "Id": 111609,
+  "CatId": 2631,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "فرخی یزدی » دیوان اشعار » رباعیات » شمارهٔ ۶۲",
+  "FullUrl": "/yazdi/divan/robaee/sh62",
+  "RhymeLetters": "یست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به نقد حرف‌های ناپسند و اثرگذاری صحبت‌های حق می‌پردازد. شاعر می‌پرسد که چه کسی این صحبت‌های نادرست را به زبان می‌آورد و به این نکته اشاره می‌کند که اگر گوینده نیت درست و اراده‌ای صادق نداشته باشد، صحبت‌هایش اثر ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یست",
+      "PlainText": "این زمزمه های شوم را قایل کیست\r\nواین نغمه ناپسند را حاصل چیست\r\nدر گفتن حرف حق اثر هست اما\r\nگوینده چو با اراده باطل نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین زمزمه های شوم را قائل کیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواین نغمه ناپسند را حاصل چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر گفتن حرف حق اثر هست اما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوینده چو با اراده باطل نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این زمزمه های شوم را قائل کیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "واین نغمه ناپسند را حاصل چیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در گفتن حرف حق اثر هست اما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوینده چو با اراده باطل نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

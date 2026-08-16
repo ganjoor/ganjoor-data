@@ -1,0 +1,58 @@
+{
+  "Id": 104903,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۹۷",
+  "FullUrl": "/ahli/divan/robaee/sh97",
+  "RhymeLetters": "ساست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به موضوع ارزش و مفهوم زندگی اشاره دارد. شاعر می‌گوید که جان انسان مثل یک نفس است و عمرش شبیه به عمر پرنده‌ ای در قفس. از این رو، نباید بیهوده نفس بکشیم، چرا که زندگی‌مان به هوس و آرزوها وابسته است. او به ما یادآوری می‌کند که عمر ما تنها به پای نفس‌هایمان می‌گذرد و باید ارزش آن را دریابیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ساست",
+      "PlainText": "جان یک نفس است و عمر مرغ قفس است\r\nبیهوده نفس مزن چو عمرت هوس است\r\nجوکی نزد نفس پی عمر دراز\r\nدریاب سخن که عمر پای نفس است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان یک نفس است و عمر مرغ قفس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیهوده نفس مزن چو عمرت هوس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوکی نزد نفس پی عمر دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاب سخن که عمر پای نفس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان یک نفس است و عمر مرغ قفس است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیهوده نفس مزن چو عمرت هوس است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جوکی نزد نفس پی عمر دراز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاب سخن که عمر پای نفس است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

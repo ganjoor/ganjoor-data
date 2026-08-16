@@ -1,0 +1,58 @@
+{
+  "Id": 123568,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/naziri/divan/robaee/sh2",
+  "RhymeLetters": "نما",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره درد و رنجی است که از ابتدا بر انسان‌ها تحمیل شده است. شاعر به عشق و وابستگی عمیق اشاره می‌کند و می‌گوید که دیگران از احساسات و دردهای او بهره‌برداری می‌کنند. در نهایت، او می‌گوید که عشق و درد تو (عشقی که به محبوب دارد) بر دوش او سنگینی می‌کند، و این وضعیت نگران‌کننده و غم‌انگیز است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نما",
+      "PlainText": "شد درد حواله از ازل بر تن ما\r\nعشاق کنند وام از خرمن ما\r\nبر گردن چون تویی گرانی حیفست\r\nگر درد تو خون ماست بر گردن ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد درد حواله از ازل بر تن ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشاق کنند وام از خرمن ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر گردن چون تویی گرانی حیفست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر درد تو خون ماست بر گردن ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد درد حواله از ازل بر تن ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشاق کنند وام از خرمن ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر گردن چون تویی گرانی حیفست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر درد تو خون ماست بر گردن ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

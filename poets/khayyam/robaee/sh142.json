@@ -1,0 +1,58 @@
+{
+  "Id": 1260,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۴۲",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۴۲",
+  "FullUrl": "/khayyam/robaee/sh142",
+  "RhymeLetters": "سبودن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به این نکته اشاره می‌کند که بهتر است آدمی قانع و راضی باشد به چیزهای اندک، مانند یک کرکس که به یک استخوان قانع است، تا اینکه بخواهد از نعمت‌های بی‌ارزش دیگران بهره‌برداری کند. او می‌گوید که با نانی ساده و حلال زندگی کردن بهتر از آن است که به زحمت و ناپاکی دیگران وابسته باشیم و به چیزهای بی‌ارزش و آلوده روی بیاوریم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سبودن",
+      "PlainText": "قانع به یک استخوان چو کرکس بودن\r\nبه زآنکه طفیل خوان ناکس بودن\r\nبا نان جوین خویش حقا که به است\r\nکآلوده و پالوده هر خس بودن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقانع به یک استخوان چو کرکس بودن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه زآنکه طُفیلِ خوانِ ناکس بودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا نانِ جُوینِ خویش حَقّا که بِه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآلوده و پالودهٔ هر خَس بودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قانع به یک استخوان چو کرکس بودن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به زآنکه طُفیلِ خوانِ ناکس بودن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با نانِ جُوینِ خویش حَقّا که بِه است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآلوده و پالودهٔ هر خَس بودن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50142,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۸۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۸۲",
+  "FullUrl": "/mahsati/robmah/sh82",
+  "RhymeLetters": "هنبود",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به زندگی در غربت و دشواری‌های آن اشاره می‌کند. او به این نکته توجه دارد که با وجود مشکلات و عدم مساعدت بخت، دشمنان از درد و رنج او خبر ندارند. شاعر می‌گوید که برای فرار از غم و اندوهی که ممکن است در کنار شیر (پادشاه یا قدرت) باشد، ناگزیر است رنج سفر را بر خود هموار کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هنبود",
+      "PlainText": "در غربت اگر چه بخت همره نبود\r\nباری دشمن ز جانم آگه نبود\r\nدانی که چرا گزیده ام رنج سفر\r\nتا ماتم شیر پیش روبه نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر غربت اگر چه بخت همره نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباری دشمن ز جانم آگه نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی که چرا گزیده‌ام رنج سفر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ماتمِ شیر پیشِ روبه نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در غربت اگر چه بخت همره نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باری دشمن ز جانم آگه نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دانی که چرا گزیده‌ام رنج سفر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا ماتمِ شیر پیشِ روبه نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 35120,
+  "CatId": 827,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "عطار » مختارنامه » باب بیست و ششم: در صفت گریستن » شمارهٔ ۴۵",
+  "FullUrl": "/attar/mokhtarname/bb26/sh45",
+  "RhymeLetters": "مانشنبود",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشق عمیق و درد ناشی از جدایی از معشوق است. شاعر به علاقه و وابستگی شدید خود به معشوق اشاره می‌کند و می‌گوید که دلش حتی لحظه‌ای بدون او آرامش ندارد. همچنین، او در ماتم معشوقش بسیار گریسته و هیچ درمانی برای دردش وجود ندارد. عشق و درد او به اندازه‌ای عمیق است که به قول شاعر، هم دردش او را به کشتن می‌دهد و هم درمانی برای آن نمی‌یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مانشنبود",
+      "PlainText": "آن دل که دمی بی تو سر جانش نبود\r\nجان در سر تو کرد و پشیمانش نبود\r\nدر ماتم درد تو بسی خون بگریست\r\nهم درد تواش بکشت و درمانش نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن دل که دمی بی تو سر جانش نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان در سر تو کرد و پشیمانش نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ماتم درد تو بسی خون بگریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم درد تواش بکشت و درمانش نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن دل که دمی بی تو سر جانش نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان در سر تو کرد و پشیمانش نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در ماتم درد تو بسی خون بگریست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم درد تواش بکشت و درمانش نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

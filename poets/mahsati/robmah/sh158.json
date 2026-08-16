@@ -1,0 +1,58 @@
+{
+  "Id": 50218,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۵۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۵۸",
+  "FullUrl": "/mahsati/robmah/sh158",
+  "RhymeLetters": "رو",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: مؤذن پسری زیبا و تازه‌نفَس را توصیف می‌کند که رنگ چهره‌اش شبیه به رنگ آب و مانند خون تذرو است. وقتی او به آواز درمی‌آید، قامت زیبایش مانند سرو در باغ به نماز می‌ایستد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رو",
+      "PlainText": "مؤذن پسری تازه تر از لاله مرو\r\nرنگ رخش آب برده از خون تذرو\r\nآوازه قامت خوشش چون برخاست\r\nدر حال به باغ در نماز آمد سرو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمؤذن پسری تازه‌تر از لالهٔ مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنگ رخش آب برده از خون تذرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآوازهٔ قامت خوشش چون برخاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حال به باغ در نماز آمد سرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مؤذن پسری تازه‌تر از لالهٔ مرو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رنگ رخش آب برده از خون تذرو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آوازهٔ قامت خوشش چون برخاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در حال به باغ در نماز آمد سرو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

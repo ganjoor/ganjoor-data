@@ -1,0 +1,58 @@
+{
+  "Id": 69364,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/azraghi/arob/sh3",
+  "RhymeLetters": "واب",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و لطافت گل و بوی گلاب اشاره کرده و احساس عشق و محبت را به تصویر می‌کشد. او از آتش و آبی که در دل و دیده‌اش وجود دارد سخن می‌گوید و از بخت بدی می‌گوید که اجازه نمی‌دهد دوستش را در خواب ببیند. به طور کلی، شعر احساسی عمیق از دوری و longing نسبت به محبوبش را منتقل می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "واب",
+      "PlainText": "دی با رهی ای رنگ گل و بوی گلاب\r\nاز دیده و دل همی زدی آتش و آب\r\nاز بخت ستم باشد ای در خوشاب\r\nکامروز ترا نبینم ای دوست به خواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی با رهی، ای رنگ گل و بوی گلاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دیده و دل همی زدی آتش و آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بخت ستم باشد، ای دُر خوشاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامروز ترا نبینم ای دوست به خواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی با رهی، ای رنگ گل و بوی گلاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دیده و دل همی زدی آتش و آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بخت ستم باشد، ای دُر خوشاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کامروز ترا نبینم ای دوست به خواب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

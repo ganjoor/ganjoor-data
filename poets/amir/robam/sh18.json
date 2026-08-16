@@ -1,0 +1,58 @@
+{
+  "Id": 70061,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/amir/robam/sh18",
+  "RhymeLetters": "ست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن شعری است که برای ستایش و بزرگداشت خداوند و پدر نقش دارد. نویسنده به خداوند می‌گوید که اگر پدرش نباشد، او در جایگاه پدرش می‌ماند و به او احترام می‌گذارد. در واقع، شاعر به اهمیت پدر و جایگاه او در زندگی‌اش اشاره می‌کند و خلوص و محبت خود را به خدا و پدرش ابراز می‌دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهپدرت",
+      "PlainText": "ای داده به تو خدای جاه پدرت\r\nخرم به تو میران و سپاه پدرت\r\nگر بی پدرت بماند گاه پدرت\r\nاندی که تویی به جایگاه پدرت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای داده به تو خدای جاه پدرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرم به تو میران و سپاه پدرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بی‌پدرت بماند گاه پدرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندی که تویی به جایگاه پدرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای داده به تو خدای جاه پدرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خرم به تو میران و سپاه پدرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر بی‌پدرت بماند گاه پدرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندی که تویی به جایگاه پدرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

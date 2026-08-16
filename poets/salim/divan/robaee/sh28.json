@@ -1,0 +1,58 @@
+{
+  "Id": 101819,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/salim/divan/robaee/sh28",
+  "RhymeLetters": "ارفت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به سرنوشت عارفان اشاره می‌کند که با تلاش و کوشش خود از دنیا می‌روند. او به تصویر مرغی در قفس می‌پردازد که برای آزادی تلاش می‌کند، اما همچنان در قفس باقی می‌ماند. در پایان به منصور اشاره می‌کند که با وجود محدودیت‌ها، به ارتفاعات بالاتری می‌رسد. این ابیات به مفهوم تلاش و پیچیدگی‌های زندگی و جست‌وجو برای بالا رفتن و رهایی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارفت",
+      "PlainText": "عارف که به سعی خویش از دنیا رفت\r\nمرغی به قفس بال همی زد تا رفت\r\nزین چاه که فکر تو به جایی نرسد\r\nمنصور به نیم گز رسن بالا رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارف که به سعی خویش از دنیا رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغی به قفس بال همی زد تا رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین چاه که فکر تو به جایی نرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنصور به نیم گز رسن بالا رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عارف که به سعی خویش از دنیا رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغی به قفس بال همی زد تا رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین چاه که فکر تو به جایی نرسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "منصور به نیم گز رسن بالا رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

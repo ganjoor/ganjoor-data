@@ -1,0 +1,58 @@
+{
+  "Id": 121846,
+  "CatId": 2803,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "مشتاق اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/moshtagh/divan/robaee/sh42",
+  "RhymeLetters": "ونمنست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق و غم خود سخن می‌گوید و به دشمنی که با وجود بخت بد او، دوست و یار محبوبش شده اشاره می‌کند. او به می‌گساری اشاره دارد که در دلش حسی از عشق و دردناک بودن این می‌خورد، به طوری که می‌آشامیدن آن با خون او همراه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونمنست",
+      "PlainText": "دشمن که برغم بخت وارون منست\r\nیار تو و یار دل محزون منست\r\nمی در قدحش ز شک گلگون منست\r\nمی نیست که با تو میخورد خون منست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشمن که برغم بخت وارون منست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار تو و یار دل محزون منست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی در قدحش ز شک گلگون منست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی نیست که با تو میخورد خون منست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دشمن که برغم بخت وارون منست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یار تو و یار دل محزون منست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می در قدحش ز شک گلگون منست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می نیست که با تو میخورد خون منست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

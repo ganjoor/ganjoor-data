@@ -1,0 +1,58 @@
+{
+  "Id": 45794,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۳۲",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۳۲",
+  "FullUrl": "/ghaani/ghetegh/sh132",
+  "RhymeLetters": "ری",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به مفهوم ادب و تواضع اشاره دارد. شاعر بر این باور است که اگر ادب به معنای بندگی است، باید بدانیم که انسان از خاک به وجود آمده و در مقابل عظمت آسمان و کبر آن، خاک تواضع و فروتنی است. بنابراین، بیان می‌کند که آسمان هم در مقایسه با خاک، در کبر و غرور پایین‌تر است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "قاآنیا اگر ادب اینست و بندگی\r\nخاکت به فرق باد که با خاک همسری\r\nنی نی سرشت خاک سراپا تواضعست\r\nای آسمان کبر تو از خاک کمتری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقاآنیا اگر ادب اینست و بندگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاکت به فرق باد که با خاک همسری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی‌نی سرشت خاک سراپا تواضعست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای آسمان کبر تو از خاک کمتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قاآنیا اگر ادب اینست و بندگی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاکت به فرق باد که با خاک همسری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی‌نی سرشت خاک سراپا تواضعست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای آسمان کبر تو از خاک کمتری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

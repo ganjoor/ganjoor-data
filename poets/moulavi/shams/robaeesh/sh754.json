@@ -1,0 +1,58 @@
+{
+  "Id": 30212,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۷۵۴",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۷۵۴",
+  "FullUrl": "/moulavi/shams/robaeesh/sh754",
+  "RhymeLetters": "رند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به توصیف موجودی می‌پردازد که نه طاووس زیبایی است که به زیبایی‌اش نگاه کنند، نه سیمرغی که نامش را در الوهیت ذکر کنند و نه شهبازی که دیگران از شکارش صحبت کنند. در نهایت، شاعر از عدم شناخت و ارزش واقعی این موجود سوال می‌کند و می‌خواهد بداند که او چه موجودی است و چرا مورد توجه قرار گرفته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رند",
+      "PlainText": "طاوس نه ای که بر جمالت نگرند\r\nسیمرغ نه ای که بیتو نام تو برند\r\nشهباز نه ای که از شکار تو چرند\r\nآخر تو چه مرغی و ترا با چه خرند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطاوس نه‌ای که بر جمالت نگرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیمرغ نه‌ای که بیتو نام تو برند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهباز نه‌ای که از شکار تو چرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر تو چه مرغی و ترا با چه خرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طاوس نه‌ای که بر جمالت نگرند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیمرغ نه‌ای که بیتو نام تو برند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شهباز نه‌ای که از شکار تو چرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر تو چه مرغی و ترا با چه خرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

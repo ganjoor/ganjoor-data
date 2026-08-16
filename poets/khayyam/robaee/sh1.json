@@ -1,0 +1,58 @@
+{
+  "Id": 1119,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱",
+  "FullUrl": "/khayyam/robaee/sh1",
+  "RhymeLetters": "لما",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "در این رباعی، شاعر از معشوق درخواست می‌کند بیاید و با تابیدن به دل و جانش، مشکل او را حل کند. در نهایت، اشاره می‌کند که بیا تا از کوزه شراب بنوشیم تا قبل از اینکه از خاک و پیکر ما، کوزه‌های شراب بسازند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لما",
+      "PlainText": "برخیز بتا بیا ز بهر دل ما\r\nحل کن به جمال خویشتن مشکل ما\r\nیک کوزه شراب تا به هم نوش کنیم\r\nزآن پیش که کوزه ها کنند از گل ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخیز بُتا، بیا ز بهر دل ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحل کن به جمال خویشتن مشکل ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک کوزه شراب تا به هم نوش کنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن پیش که کوزه‌ها کنند از گِل ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برخیز بُتا، بیا ز بهر دل ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حل کن به جمال خویشتن مشکل ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک کوزه شراب تا به هم نوش کنیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زآن پیش که کوزه‌ها کنند از گِل ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

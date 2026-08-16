@@ -1,0 +1,58 @@
+{
+  "Id": 119099,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۷۸",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۷۸",
+  "FullUrl": "/azar/divan/robaee/sh178",
+  "RhymeLetters": "وختمی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساسات خود درباره عشق به یک شخص خاص و همچنین تنش‌های ناشی از دشمنی می‌گوید. او آرزو می‌کند که قبل از اینکه احساساتش متولد شود، می‌توانست به پدر آن شخص نزدیک شود و دوستی را از کودکی به او بیاموزد. شاعر در واقع در تلاش است تا ناراحتی‌های ناشی از دشمنی را کاهش دهد و روابط مثبت‌تری را شکل دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وختمی",
+      "PlainText": "ز آن پیش که شمع مهرش افروختمی\r\nوز آتش دشمنی او سوختمی\r\nای کاش بدست من سپردی پدرش\r\nتا دوستیش بطفلی آموختمی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آن پیش که، شمع مهرش افروختمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آتش دشمنی او سوختمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کاش بدست من سپردی پدرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دوستیش بطفلی آموختمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آن پیش که، شمع مهرش افروختمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز آتش دشمنی او سوختمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای کاش بدست من سپردی پدرش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا دوستیش بطفلی آموختمی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

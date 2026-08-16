@@ -1,0 +1,58 @@
+{
+  "Id": 83096,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۹۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۹۹",
+  "FullUrl": "/hazin/robaee-hz/sh199",
+  "RhymeLetters": "ایدلم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این چند بیت به عشق و درد دل خود اشاره می‌کند. او عشق محبوبش را مانند آتش کوه طور سینا می‌داند که بر دلش تأثير عمیق گذاشته است. احساس درد ناشی از عشق را که در عمق وجودش احساس می‌کند، بیان می‌کند و از این که وی به دنبال درمانی برای غمش باشد، ابراز می‌کند. درواقع، شعر نشان‌دهنده شدت عشق و تاثیر آن بر روح و روان شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایدلم",
+      "PlainText": "عشق تو کلیم طور سینای دلم\r\nداغت حشم سینه صحرای دلم\r\nدردت که طبیب جان بی درد مباد\r\nدرمان غمم مقصد اقصای دلم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق تو کلیم طور سینای دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغت حشم سینهٔ صحرای دلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردت که طبیب جان بی درد مباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرمان غمم، مقصد اقصای دلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق تو کلیم طور سینای دلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغت حشم سینهٔ صحرای دلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دردت که طبیب جان بی درد مباد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درمان غمم، مقصد اقصای دلم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 51443,
+  "CatId": 1833,
+  "Title": "شمارهٔ ۵۴ - قطعهٔ هندی",
+  "FullTitle": "ملک‌الشعرا بهار » قطعات » شمارهٔ ۵۴ - قطعهٔ هندی",
+  "FullUrl": "/bahar/ghetebk/sh54",
+  "RhymeLetters": "ندکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر به تحول و رشد برنج اشاره شده است. برنج ابتدا در شرایط نامناسبی قرار دارد و به نوعی تحقیر می‌شود. سپس با فرآیند پختن، تغییر می‌کند و به یک ماده ارزشمند و ارتقاء یافته تبدیل می‌شود. این تغییر در نهایت باعث می‌شود که برنج در کل جهان جایگاه بالایی پیدا کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندکرد",
+      "PlainText": "بنگر برنج را که به چندین حقارتش\r\nآهنگ شهر علوی از بن شهر بند کرد\r\nافکند قشر صورت و شد کوفته بدنگ\r\nوانگاه پخته گشت و جهانش بلند کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنگر برنج را که به چندین حقارتش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهنگ شهر علوی از بن شهر بند کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافکند قشر صورت و شد کوفته بدنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانگاه پخته گشت و جهانش بلند کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بنگر برنج را که به چندین حقارتش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آهنگ شهر علوی از بن شهر بند کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افکند قشر صورت و شد کوفته بدنگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وانگاه پخته گشت و جهانش بلند کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 69377,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/azraghi/arob/sh16",
+  "RhymeLetters": "وست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده می‌گوید که برای کسی که به خاطر او دلتنگی و غم زیبایی را تجربه می‌کند، حتی دشمنانش نیز در یکسانی و نزدیکی با او قرار دارند. اگر دشمن او هم دوستی داشته باشد، این موضوع نشان‌دهنده بدبختی و رنج این بنده است، نه خیانت یا بدعهدی دوستش. در واقع، این ابیات به ارتباط پیچیده میان دوست و دشمن و تأثیرات عاطفی آن‌ها بر زندگی فرد اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "آن کس که ز بهر او مرا غم نیکوست\r\nبا دشمن من همی زید در یک پوست\r\nگر دشمن بنده را همی دارد دوست\r\nبدبختی بنده دان نه بد عهدی دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که ز بهر او مرا غم نیکوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دشمن من همی زید در یک پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دشمن بنده را همی دارد دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدبختی بنده دان، نه بد عهدی دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که ز بهر او مرا غم نیکوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دشمن من همی زید در یک پوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دشمن بنده را همی دارد دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدبختی بنده دان، نه بد عهدی دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

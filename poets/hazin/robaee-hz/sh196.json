@@ -1,0 +1,58 @@
+{
+  "Id": 83093,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۹۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۹۶",
+  "FullUrl": "/hazin/robaee-hz/sh196",
+  "RhymeLetters": "شدارم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از درد و غم ناشی از عشق به یک معشوق زیبا سخن می‌گوید. او احساس می‌کند که مانند شمع در حال ذوب شدن است و در عین حال با وجود زخم‌های عمیق، همچنان دل خوشی دارد. این تضاد بین درد و شادی نشان‌دهنده عمق احساسات اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شدارم",
+      "PlainText": "داغ غم آن نگار مهوش دارم\r\nچون شمع تنی در آب و آتش دارم\r\nالماس به زخم و نشترستان به جگر\r\nبا این همه شادم که دلی خوش دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداغ غم آن نگار مهوش دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شمع، تنی در آب و آتش دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالماس به زخم و نشترستان به جگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا این همه شادم که دلی خوش دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغ غم آن نگار مهوش دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شمع، تنی در آب و آتش دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "الماس به زخم و نشترستان به جگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با این همه شادم که دلی خوش دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

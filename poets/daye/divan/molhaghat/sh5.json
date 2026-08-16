@@ -1,0 +1,58 @@
+{
+  "Id": 107288,
+  "CatId": 2587,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » ملحقات » شمارهٔ ۵",
+  "FullUrl": "/daye/divan/molhaghat/sh5",
+  "RhymeLetters": "ری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به انتقاد از افرادی می‌پردازد که به جای حقیقت و صداقت در پی دنیای مادی و ظاهری هستند. شاعر از آنها می‌خواهد تا از هواپرستی و دلبستگی به دنیا دست بردارند و با صداقت و ایمان به خدا قدم بردارند. این دعوت به خودسازی و ترک خطاهای اخلاقی است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "تا کی هواپرستی و برگردی از خدای\r\nتا چند دین فروشی و دنیای دون خری\r\nدر نه قدم به صدق چو مردان راهرو\r\nزین جای پر خطا مگر از صدق بگذری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی هواپرستی و برگردی از خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چند دین فروشی و دنیای دون خری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نه قدم به صدق چو مردان راهرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین جای پر خطا مگر از صدق بگذری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی هواپرستی و برگردی از خدای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چند دین فروشی و دنیای دون خری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در نه قدم به صدق چو مردان راهرو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین جای پر خطا مگر از صدق بگذری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

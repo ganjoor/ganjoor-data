@@ -1,0 +1,58 @@
+{
+  "Id": 123697,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۳۱",
+  "FullUrl": "/naziri/divan/robaee/sh131",
+  "RhymeLetters": "ورشوی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به اهمیت نور و زیبایی اشاره دارند. شاعر می‌گوید اگر در شب تاریک نور تابشی وجود داشته باشد، آن نور می‌تواند ما را شاد کند. اما ترس او از این است که اگر کسی زیبایی خود را در آینه ببیند، به آن زیبایی مغرور شود. در واقع، زیبایی می‌تواند باعث فریب و غرور شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورشوی",
+      "PlainText": "گر در شب تیره تابیم نور شوی\r\nور در دم مردن آییم سور شوی\r\nاز دیده من اگر ببینی رخ خویش\r\nترسم که به حسن خویش مغرور شوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در شب تیره تابیم نور شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور در دم مردن آییم سور شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دیده من اگر ببینی رخ خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسم که به حسن خویش مغرور شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر در شب تیره تابیم نور شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور در دم مردن آییم سور شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دیده من اگر ببینی رخ خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم که به حسن خویش مغرور شوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

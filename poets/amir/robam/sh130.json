@@ -1,0 +1,58 @@
+{
+  "Id": 70173,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۳۰",
+  "FullUrl": "/amir/robam/sh130",
+  "RhymeLetters": "وشتخوانم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از غم و اندوهی که به خاطر معشوقش به دل دارد سخن می‌گوید. او هر شب از این غم رنج می‌برد و هرچند که حکمت‌های عقل را نمی‌پذیرد، اما خیال معشوق مدام در ذهنش است و او را دچار تشنگی عاطفی می‌کند. این تشنگی به حدی است که شاعر خود را در حال مرگ می‌بیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرم",
+      "PlainText": "هر شب ز غم تو دل ز جان برگیرم\r\nپندی که خرد دهد من آن نپذیرم\r\nتا روز نهد خیال تو در پیشم\r\nصد چشمه و من ز تشنگی می میرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شب ز غم تو دل ز جان برگیرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپندی که خرد دهد من آن نپذیرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا روز نهد خیال تو در پیشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد چشمه و من ز تشنگی می‌میرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شب ز غم تو دل ز جان برگیرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پندی که خرد دهد من آن نپذیرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا روز نهد خیال تو در پیشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد چشمه و من ز تشنگی می‌میرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

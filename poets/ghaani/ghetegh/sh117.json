@@ -1,0 +1,58 @@
+{
+  "Id": 45779,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۱۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۱۷",
+  "FullUrl": "/ghaani/ghetegh/sh117",
+  "RhymeLetters": "ین",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به دو سال تلخی اشاره دارد که مانند شراب در خم باقی مانده است. او می‌گوید شادی و خوشی دیر یا زود به سراغ دل‌های غمگین می‌آید. همچنین اشاره دارد که چه گنج‌هایی زیر خاک پنهان شده‌اند که با توجه و لطف خدا، افراد فقیر می‌توانند از فقر رهایی یابند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "دو سال تلخ نشاند شراب را در خم\r\nکه عیش دلشده ای زود می شود شیرین\r\nچه گنج ها که نهد زیر خاک تا روزی\r\nبه التفات وی از مسکنت رهد مسکین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو سال تلخ نشاند شراب را در خم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عیش دلشده‌ای زود می‌شود شیرین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه گنج‌ها که نهد زیر خاک تا روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه التفات وی از مسکنت رهد مسکین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دو سال تلخ نشاند شراب را در خم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که عیش دلشده‌ای زود می‌شود شیرین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه گنج‌ها که نهد زیر خاک تا روزی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به التفات وی از مسکنت رهد مسکین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 92118,
+  "CatId": 2409,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "امیر شاهی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/shahi/divan/robaee/sh3",
+  "RhymeLetters": "ارینیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر ابراز خرسندی می‌کند که هیچ‌کس از او رنجیده یا ناراحت نیست. او می‌گوید که اگر دیگران او را خوب یا بد بشمارند، برای او اهمیتی ندارد و به هیچ‌کس کاری ندارد. به عبارت دیگر، او به قضاوت‌های دیگران بی‌توجه است و زندگی‌اش را بدون در نظر گرفتن نظرات مثبت یا منفی آن‌ها ادامه می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارینیست",
+      "PlainText": "شادم که ز من بر دل کس باری نیست\r\nکس را ز من و کار من آزاری نیست\r\nگر نیک شمارند و گرم بد گویند\r\nبا نیک و بد هیچکسم کاری نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشادم که ز من بر دل کس باری نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس را ز من و کار من آزاری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نیک شمارند و گرم بد گویند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا نیک و بد هیچکسم کاری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شادم که ز من بر دل کس باری نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کس را ز من و کار من آزاری نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر نیک شمارند و گرم بد گویند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با نیک و بد هیچکسم کاری نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 117171,
+  "CatId": 2706,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "فضولی » دیوان اشعار فارسی » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/fozooli/divan/robaee/sh7",
+  "RhymeLetters": "مما",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان تنهایی و جدا بودن شاعر از دیگران می‌پردازد. شاعر می‌گوید که هیچ‌کس همدم او نیست و او نیز در غم دیگران نیست. او نه چیزی از دنیا و مردم آن می‌داند و نه آنها از حال او خبر دارند. این احساس انزوا و ناآشنایی با دیگران، موضوع اصلی شعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مما",
+      "PlainText": "ماییم که نیست هیچ کس همدم ما\r\nما در غم کس نه ایم و کس در غم ما\r\nنی ما خبر از مردم عالم داریم\r\nنی مردم عالم خبر از عالم ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماییم که نیست هیچ کس همدم ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما در غم کس نه ایم و کس در غم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی ما خبر از مردم عالم داریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی مردم عالم خبر از عالم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماییم که نیست هیچ کس همدم ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما در غم کس نه ایم و کس در غم ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی ما خبر از مردم عالم داریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نی مردم عالم خبر از عالم ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

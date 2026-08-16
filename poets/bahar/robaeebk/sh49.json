@@ -1,0 +1,58 @@
+{
+  "Id": 51772,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/bahar/robaeebk/sh49",
+  "RhymeLetters": "انیم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به مفهوم صداقت و وفاداری اشاره دارند. شاعر به اهمیت محبت و صفای واقعی اشاره می‌کند و از بی‌ارزش‌بودن افراد نالایق و سطحی صحبت می‌کند، که در نهایت آن‌ها می‌روند اما ارزش‌های واقعی باقی می‌مانند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیم",
+      "PlainText": "ما درس صداقت و صفا می خوانیم\r\nآیین محبت و وفا می دانیم\r\nزبن بی هنران سفله ای دل مخروش\r\nکانها همه می روند و ما می مانیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما درس صداقت و صفا می‌خوانیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیین محبت و وفا می‌دانیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبن بی‌هنران سفله ای دل مخروش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانها همه می‌روند و ما می‌مانیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما درس صداقت و صفا می‌خوانیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیین محبت و وفا می‌دانیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زبن بی‌هنران سفله ای دل مخروش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کانها همه می‌روند و ما می‌مانیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 101880,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/salim/divan/robaee/sh89",
+  "RhymeLetters": "یریداری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به دو جنبه از زندگی اشاره می‌کند: آشنایی و غیرو. او از دل و نگاه انسان صحبت می‌کند که هم دیار و هم غیر دیاری دارد. همچنین اشاره می‌کند که اگر در یک فضای تماشا و زیبایی باشی، زندگی خوشایندتر خواهد بود، به شرطی که از آن لذت ببری و سیراب از زیبایی‌ها باشی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یریداری",
+      "PlainText": "از یک طرف آشنا و غیری داری\r\nوز سوی دگر کعبه و دیری داری\r\nهر گاه درین دشت تماشاگاهی ست\r\nخوش باشد اگر دماغ سیری داری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز یک طرف آشنا و غیری داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز سوی دگر، کعبه و دیری داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر گاه درین دشت تماشاگاهی ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش باشد اگر دماغ سیری داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از یک طرف آشنا و غیری داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز سوی دگر، کعبه و دیری داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر گاه درین دشت تماشاگاهی ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوش باشد اگر دماغ سیری داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

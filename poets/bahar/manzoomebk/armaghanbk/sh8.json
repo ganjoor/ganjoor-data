@@ -1,0 +1,49 @@
+{
+  "Id": 52002,
+  "CatId": 1849,
+  "Title": "فقرۀ ۵",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۵",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh8",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این جمله به ما توصیه می‌کند که اگر چیزی به ما نیکو نیست، آن را به دیگران نیز منتقل نکنیم. به عبارتی، هر چیزی که برای ما خوب نیست، نباید برای دیگران آرزو کنیم.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "و",
+      "PlainText": "هر آن چیزکان زی تو نبود نکو\r\nبه دیگر کسانش مکن آرزو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آن چیزکان زی تو نبود نکو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دیگر کسانش مکن آرزو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "هرچه به تو نه نیکواست تو نیز به دگرکس مکن‌.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "هر آن چیزکان زی تو نبود نکو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "به دیگر کسانش مکن آرزو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

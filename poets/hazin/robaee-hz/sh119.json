@@ -1,0 +1,58 @@
+{
+  "Id": 83007,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۱۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۱۹",
+  "FullUrl": "/hazin/robaee-hz/sh119",
+  "RhymeLetters": "راننتوانکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها به این موضوع اشاره دارند که انسان‌ها قادر به خلق جهان و انجام کارهای بزرگ نیستند. آن‌ها نمی‌توانند بار سنگین زندگی را که بر دوش دارند، به تنهایی حمل کنند. همچنین، نمی‌توانند در برابر قدرت افراد بزرگ و تأثیرگذار ایستادگی کنند و به نوعی ناتوانی و محدودیت‌های خود را بیان می‌کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راننتوانکرد",
+      "PlainText": "شاهنشهی خلق جهان نتوان کرد\r\nحمالی این بار گران نتوان کرد\r\nسر در ره این گنده کسان نتوان کرد\r\nپاکاری این کون خران نتوان کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهنشهی خلق جهان نتوان کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحمّالی این بار گران نتوان کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر در ره این گنده کسان نتوان کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپاکاری این کونِ خران نتوان کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاهنشهی خلق جهان نتوان کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حمّالی این بار گران نتوان کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر در ره این گنده کسان نتوان کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پاکاری این کونِ خران نتوان کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

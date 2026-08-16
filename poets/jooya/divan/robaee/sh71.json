@@ -1,0 +1,58 @@
+{
+  "Id": 103125,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/jooya/divan/robaee/sh71",
+  "RhymeLetters": "ار",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به بیداری از خواب غفلت اشاره می‌کند و می‌گوید که در هر سمت که بنگری، جلوه‌ای از محبوب را می‌توان دید. او همچنین به این نکته اشاره می‌کند که در هر ذره از جهان، وجود الهی نهفته است و این معنی به نرمی در خط غبار نمایان می‌شود. به طور کلی، شاعر بر اهمیت مشاهده و درک زیبایی‌های الهی در هر جا تأکید می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "یکه شوی ار ز خواب غفلت بیدار\r\nهر سوی که بنگری بود جلوه یار\r\nدر هر ذره سر الهی پنهان\r\nچون معنی نازک است در خط غبار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکه شوی ار ز خواب غفلت بیدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر سوی که بنگری بود جلوهٔ یار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هر ذره سرّ الهی پنهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون معنی نازک است در خط غبار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یکه شوی ار ز خواب غفلت بیدار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر سوی که بنگری بود جلوهٔ یار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هر ذره سرّ الهی پنهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون معنی نازک است در خط غبار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

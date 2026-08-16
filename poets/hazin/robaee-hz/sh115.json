@@ -1,0 +1,58 @@
+{
+  "Id": 83003,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۱۵",
+  "FullUrl": "/hazin/robaee-hz/sh115",
+  "RhymeLetters": "یزنبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به جذابیت و فریبندگی زیبایی محبوبش اشاره می‌کند. او می‌گوید که تا زمانی که لبی به رنگ یاقوت و منجر به ایجاد فتنه و آشوب در دل‌ها نشده، همه چیز آرام بوده و هیچ آتش و حسی وجود نداشته است. در واقع، زیبایی او باعث برهم زدن آرامش و ایجاد دلهره می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزنبود",
+      "PlainText": "اول نگه تو فتنه انگیز نبود\r\nبر هم زن هنگامه پرهیز نبود\r\nتا نقش نبسته بود یاقوت لبت\r\nبا آب قران آتش تیز نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول نگه تو فتنه انگیز نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر هم زن هنگامهٔ پرهیز نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نقش نبسته بود یاقوت لبت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا آب، قران آتش تیز نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اول نگه تو فتنه انگیز نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر هم زن هنگامهٔ پرهیز نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا نقش نبسته بود یاقوت لبت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با آب، قران آتش تیز نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

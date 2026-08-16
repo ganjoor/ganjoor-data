@@ -1,0 +1,58 @@
+{
+  "Id": 103069,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/jooya/divan/robaee/sh15",
+  "RhymeLetters": "است",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شعر بیانگر احساسی از آرامش و عدم کینه‌ورزی است. شاعر می‌گوید که دلش به خاطر فضل خداوند خالی از کینه است و خاطراتش نیازی به تزئین ندارند. هر گاه که کسی موجب ناراحتی‌اش شود، مانند گرد و غبار یتیمی است که در حقیقت، درون او پاک و روشن است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "بی کینه دلم به سینه از فضل خداست\r\nآیینه خاطرم نه محتاج جلاست\r\nاز هر که غباری به دلم جای گرفت\r\nچون گرد یتیمی گهر عین صفاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی کینه دلم به سینه از فضل خداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآئینه خاطرم نه محتاج جلاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هر که غباری به دلم جای گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون گرد یتیمی گهر عین صفاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی کینه دلم به سینه از فضل خداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آئینه خاطرم نه محتاج جلاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هر که غباری به دلم جای گرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون گرد یتیمی گهر عین صفاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

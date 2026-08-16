@@ -1,0 +1,58 @@
+{
+  "Id": 51783,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/bahar/robaeebk/sh60",
+  "RhymeLetters": "اهیازمن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، سردار به شاه می‌گوید که او مسئولیت‌های نظامی و فرماندهی را بر عهده دارد و همه اوامر و نواهی به او مربوط می‌شود. همچنین عزل و نصب مقام‌ها و اداره امور نظامی نیز در اختیار اوست. اما تخت و تاج و عنوان شاهی تنها متعلق به شاه است. به عبارتی، سردار همچنان قدرت تعیین سیاست‌ها را دارد، ولی رهبری ظاهری و عنوان شاهی به عهده شاه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیازمن",
+      "PlainText": "سردار به شه گفت سپاهی از من\r\nامضای اوامر و نواهی از من\r\nعزل  از من و نصب از من و دربار از تو\r\nتخت از تو و تاج از تو و شاهی از من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسردار به شه گفت سپاهی از من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامضای اوامر و نواهی از من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعزل‌ از من و نصب از من و دربار از تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتخت از تو و تاج از تو و شاهی از من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سردار به شه گفت سپاهی از من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امضای اوامر و نواهی از من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عزل‌ از من و نصب از من و دربار از تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تخت از تو و تاج از تو و شاهی از من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

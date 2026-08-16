@@ -1,0 +1,49 @@
+{
+  "Id": 52023,
+  "CatId": 1849,
+  "Title": "فقرۀ ۳۱",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۳۱",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh29",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: با مرد نجیب و زیرک کارآگاه صحبت کن و با او دوستی کن. او فردی زیرک و خوش‌خوی است، پس با نرمی و ملایمت با او گفتگو کن.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سخنپرسوپیشاراوازنرم",
+      "PlainText": "همان زیرک و مرد آزادچهر\r\nسخن پرس و پیش آر آواز نرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمان زیرک و مرد آزادچهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن پرس و پیش آر آواز نرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "با آزادچهره ‌مرد (‌نجیب مرد) کارآگاه و زیرک و خوش‌خیم‌مرد، همپرسشی (‌صحبت‌) کن و دوست باش‌.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "همان زیرک و مرد آزادچهر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "سخن پرس و پیش آر آواز نرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

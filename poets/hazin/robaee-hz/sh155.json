@@ -1,0 +1,58 @@
+{
+  "Id": 83043,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۵۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۵۵",
+  "FullUrl": "/hazin/robaee-hz/sh155",
+  "RhymeLetters": "ار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شعر درباره زیبایی و جذابیت محبوبی است که همچون سرمه چشمان او درخشان و دل‌ربا است. دل شب به خاطر غم عشق او تار و تاریک شده و شور و شوق عاشق به خاطر چهره معروف و جذابش افزون شده است. در نهایت، احساسات عاشق مانند جگر خونین است که نشان‌دهنده عمق عشق و درد جدایی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "با سرمه چو شد نرگس عیار تو یار\r\nشد چون دل شب روز گرفتار تو تار\r\nشوریده سر از طلعت مشهور تو هور\r\nخونین جگر از گونه گلنار تو نار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا سرمه چو شد نرگس عیّار تو یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد چون دل شب، روز گرفتار تو تار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوریده سر از طلعت مشهور تو هور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخونین جگر از گونهٔ گلنار تو نار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با سرمه چو شد نرگس عیّار تو یار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد چون دل شب، روز گرفتار تو تار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شوریده سر از طلعت مشهور تو هور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خونین جگر از گونهٔ گلنار تو نار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

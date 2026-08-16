@@ -1,0 +1,58 @@
+{
+  "Id": 10200,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۳۹",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۳۹",
+  "FullUrl": "/saadi/divan/robaees/sh139",
+  "RhymeLetters": "لکی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر درباره ماه و انسانیت است. شاعر به زیبایی و لطافت ماه اشاره می‌کند و آن را نسبت به دیگران تشبیه می‌کند. او به این نکته می‌پردازد که همه انسان‌ها نیز مانند ماه زیبا و ارزشمند هستند و در نهایت، یک خط سبز که نشان از زندگی و امید دارد، نماد خاصی برای انسان‌ها به شمار می‌رود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لکی",
+      "PlainText": "ماها همه شیرینی و لطف و نمکی\r\nنه ماه زمین که آفتاب فلکی\r\nتو آدمیی و دیگران آدمیند\r\nنی نی تو که خط سبز داری ملکی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماها همه شیرینی و لطف و نمکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه ماه زمین که آفتاب فلکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو آدمیی و دیگران آدمیند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی‌نی تو که خط سبز داری ملکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماها همه شیرینی و لطف و نمکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه ماه زمین که آفتاب فلکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو آدمیی و دیگران آدمیند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نی‌نی تو که خط سبز داری ملکی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

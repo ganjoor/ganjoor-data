@@ -1,0 +1,58 @@
+{
+  "Id": 75083,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۵۴۲",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۵۴۲",
+  "FullUrl": "/ghodsi/robghm/sh542",
+  "RhymeLetters": "اه",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این شعر به موضوع بی‌برگان و فقرا پرداخته شده است. شاعر می‌گوید که باوجود نداشتن ثروت و مقام، این افراد به خاطر هنرهای خود ارزشمند هستند. او اشاره می‌کند که زیبایی و ارزش گل‌ها (بی‌برگان) در برابر گیاهان (اغنیا) کمتر دیده می‌شود. همچنین، از این نکته یاد می‌کند که عیب‌نمودن ثروتمندان به دلیل مال و دارایی‌شان رخ می‌دهد. در نهایت به اهمیت پناه و حمایت در زندگی اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اه",
+      "PlainText": "بی برگان را به صد هنر بی زر و جاه\r\nگردون نشمارد گل شان را به گیاه\r\nننمودن عیب اغنیا از مال است\r\nکجواجی شاخ را بود برگ پناه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌برگان را به صد هنر، بی زر و جاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردون نشمارد گل‌شان را به گیاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eننمودن عیب اغنیا از مال است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجواجی شاخ را بود برگ پناه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌برگان را به صد هنر، بی زر و جاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردون نشمارد گل‌شان را به گیاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ننمودن عیب اغنیا از مال است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کجواجی شاخ را بود برگ پناه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

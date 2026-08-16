@@ -1,0 +1,58 @@
+{
+  "Id": 45752,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۹۰",
+  "FullUrl": "/ghaani/ghetegh/sh90",
+  "RhymeLetters": "نگ",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به ستمگری هشدار می‌دهد که از ظلم و ستم خود بکاهد تا مظلومان تحت فشار قرار نگیرند. همچنین اشاره می‌کند که روزی ممکن است انتقام الهی و عدالت خداوند دامان ستمگران را بگیرد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگ",
+      "PlainText": "ای ستمگر ستم مکن چندان\r\nکه به مظلوم کار گردد تنگ\r\nزان حذرکن که آورد روزی\r\nدامن عدل کردگار به چنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ستمگر ستم مکن چندان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه به مظلوم کار گردد تنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان حذرکن که آورد روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامن عدل کردگار به چنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ستمگر ستم مکن چندان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که به مظلوم کار گردد تنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان حذرکن که آورد روزی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دامن عدل کردگار به چنگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

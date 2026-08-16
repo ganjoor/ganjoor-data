@@ -1,0 +1,58 @@
+{
+  "Id": 69437,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/azraghi/arob/sh76",
+  "RhymeLetters": "ارتومنم",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از عشق خود به معشوق سخن می‌گوید و خود را عاشق و وفادار به او معرفی می‌کند. او بیان می‌کند که به دلایل مختلفی، از جمله درگیری‌های روزمره، دچار مشکلات و ناکامی‌ها شده است اما همچنان به عشق و حضور معشوق وابسته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارتومنم",
+      "PlainText": "در شهر هری عاشق زار تو منم\r\nبا عشق تو یار پایدار تو منم\r\nخو کرده به جور بی شمار تو منم\r\nبیچاره و درمانده به کار تو منم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شهر هری عاشق زار تو منم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا عشق تو یار پایدار تو منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخو کرده به جور بی شمار تو منم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره و درمانده به کار تو منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در شهر هری عاشق زار تو منم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با عشق تو یار پایدار تو منم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خو کرده به جور بی شمار تو منم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیچاره و درمانده به کار تو منم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

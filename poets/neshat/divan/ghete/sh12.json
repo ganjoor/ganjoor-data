@@ -1,0 +1,58 @@
+{
+  "Id": 119632,
+  "CatId": 2755,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » قطعات » شمارهٔ ۱۲",
+  "FullUrl": "/neshat/divan/ghete/sh12",
+  "RhymeLetters": "ادمیکند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساس عشق و دوری صحبت می‌کند. او به وصال (نزدیکی) و هجر (جدایی) اشاره می‌کند و به حسادت دیگران درباره‌ی عشقش اشاره دارد. امروز دلش اضطراب و نگرانی بیشتری دارد و می‌گوید که آیا صیاد (کسی که دلش را اسیر کرده) او را از قفس آزادی خواهد بخشید یا نه.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمیکند",
+      "PlainText": "در وصلم و به هجر برم رشک غیر را\r\nاز نامه ای چو می شنوم یاد می کند\r\nامروز اضطراب دگر داشت مرغ دل\r\nصیادش از قفس مگر آزاد می کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر وصلم و به هجر برم رشک غیر را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نامه‌ای چو می‌شنوم یاد می‌کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز اضطراب دگر داشت مرغ دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصیادش از قفس مگر آزاد می‌کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در وصلم و به هجر برم رشک غیر را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نامه‌ای چو می‌شنوم یاد می‌کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز اضطراب دگر داشت مرغ دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صیادش از قفس مگر آزاد می‌کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

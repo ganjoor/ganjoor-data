@@ -1,0 +1,58 @@
+{
+  "Id": 45648,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۸",
+  "FullUrl": "/ghaani/ghetegh/sh8",
+  "RhymeLetters": "ما",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به مشکل درک حکمت و معرفت اشاره دارد. شاعر می‌گوید حتی کسی که قادر به حل هزاران معماست، نمی‌تواند معمای حکمت را حل کند. پس درک و شناسایی حقیقت بسیار دشوار است و نمی‌توان با سعی و تلاش سطحی به آن رسید. در واقع، شناخت عمیق نیازمند درک و تفکر عمیق‌تری است.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ما",
+      "PlainText": "حل معمای حکمتش نتواند\r\nآنکه کند حل صدهزار معما\r\nفهم شناساییش  چگونه کند کس\r\nمشت نشاید زدن به صخره صما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحل معمای حکمتش نتواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه کند حل صدهزار معمّا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفهم شناساییش‌ چگونه کند کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشت نشاید زدن به صخرهٔ صمّا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حل معمای حکمتش نتواند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنکه کند حل صدهزار معمّا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فهم شناساییش‌ چگونه کند کس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مشت نشاید زدن به صخرهٔ صمّا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119600,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۶۶",
+  "FullUrl": "/neshat/divan/robaee/sh66",
+  "RhymeLetters": "انبودی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی عشق را توصیف می‌کند و بیان می‌کند که عشق می‌تواند آرامش‌بخش روح و جسم باشد. در حضور عشق، مشکلات به راحتی حل می‌شوند و در حالی که برخی عشق را کفر می‌دانستند، در واقع آن را ایمان و دردیاب درمان می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انبودی",
+      "PlainText": "ای عشق تو راحت دل و جان بودی\r\nدر پیش تو هر مشکلی آسان بودی\r\nمیخواندندت کفر و تو ایمان بودی\r\nمیگفتندت درد و تو درمان بودی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عشق تو راحت دل و جان بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پیش تو هر مشکلی آسان بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیخواندندت کفر و تو ایمان بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیگفتندت درد و تو درمان بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق تو راحت دل و جان بودی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پیش تو هر مشکلی آسان بودی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میخواندندت کفر و تو ایمان بودی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میگفتندت درد و تو درمان بودی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

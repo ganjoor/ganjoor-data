@@ -1,0 +1,58 @@
+{
+  "Id": 116156,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/akhsikati/divan/robaee/sh30",
+  "RhymeLetters": "ند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به وصال یار و لذت نوشیدن می‌پردازد. او شب را به عنوان فرصتی برای ارتباط با معشوق می‌بیند و از آن می‌خواهد که با کارهایش او را مزاحم نکند. همچنین به صبح اشاره می‌کند که نباید به شادی‌هایش بخندد و از لحظات شیرین شب لذت ببرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "امشب منم و وصال آن سرو بلند\r\nمی را ز لبش چاشنی  یی داده به قند\r\nای شب اگرت هزار کار است مرو\r\nوی صبح گرت هزار شادی است مخند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب منم و وصال آن سرو بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی را ز لبش چاشنی‌‌یی داده به قند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شب اگرت هزار کار است مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی صبح گرت هزار شادی است مخند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب منم و وصال آن سرو بلند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می را ز لبش چاشنی‌‌یی داده به قند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای شب اگرت هزار کار است مرو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وی صبح گرت هزار شادی است مخند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

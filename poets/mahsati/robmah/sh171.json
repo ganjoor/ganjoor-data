@@ -1,0 +1,58 @@
+{
+  "Id": 50231,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۷۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۷۱",
+  "FullUrl": "/mahsati/robmah/sh171",
+  "RhymeLetters": "یعاوردی",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از زیبایی گل‌ها و بهار سخن می‌گوید. او به محبوبش می‌گوید که با چهره خندان و زیبای خود به او شادی و سرزندگی آورده است. وقتی که شاعر می‌فهمد که دلش به گل نمی‌چسبد، محبوبش بنفشه را به عنوان شفیع و میانجی در این رابطه به او می‌آورد. این شعر بیانگر احساسات عاشقانه و زیبایی‌های طبیعت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یعاوردی",
+      "PlainText": "خندان به دو رخ گل بدیع آوردی\r\nواندر مه دی فصل ربیع آوردی\r\nچون دانستی که دل به گل می  ندهم\r\nرفتی و بنفشه را شفیع آوردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخندان به دو رخ گل بدیع آوردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواندر مه دی فصل ربیع آوردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دانستی که دل به گل می‌‌ندهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتی و بنفشه را شفیع آوردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خندان به دو رخ گل بدیع آوردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "واندر مه دی فصل ربیع آوردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون دانستی که دل به گل می‌‌ندهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتی و بنفشه را شفیع آوردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

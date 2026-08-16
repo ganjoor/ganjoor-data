@@ -1,0 +1,58 @@
+{
+  "Id": 83139,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۴۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۴۲",
+  "FullUrl": "/hazin/robaee-hz/sh242",
+  "RhymeLetters": "امایساقی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد که با پر کردن جام از شراب، غم‌ها و بی‌حوصلگی‌اش را از بین ببرد. او به زیبایی طبیعت اشاره می‌کند و می‌گوید که زندگی به شکلی دیگر پیش نمی‌رود و تنها چیزی که برایش اهمیت دارد، لذت بردن از لحظه‌ها و نوشیدن شراب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امایساقی",
+      "PlainText": "صحراست ز سبزه سبزفام ای ساقی\r\nکار از گل و مل شود تمام ای ساقی\r\nگو چرخ نگردد به مراد دل ما\r\nکافیست به ما گردش جام ای ساقی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصحراست ز سبزه، سبزفام ای ساقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار از گل و مل شود تمام ای ساقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو چرخ نگردد به مراد دل ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکافیست به ما، گردش جام ای ساقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحراست ز سبزه، سبزفام ای ساقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کار از گل و مل شود تمام ای ساقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گو چرخ نگردد به مراد دل ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کافیست به ما، گردش جام ای ساقی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

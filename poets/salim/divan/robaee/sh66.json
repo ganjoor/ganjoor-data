@@ -1,0 +1,58 @@
+{
+  "Id": 101857,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۶",
+  "FullUrl": "/salim/divan/robaee/sh66",
+  "RhymeLetters": "ل",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر از زیبایی باغی صحبت می‌کند که مانند بهشتی است و پر از گل‌ها و عطر سنبل. این باغ به قدری شاداب و زیباست که حتی قلعه‌ای قدیمی به نام بنگاله را به محلی شاد و خندان تبدیل کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ل",
+      "PlainText": "باغی دارم همچو بهشت ای بلبل\r\nباغی که بود غبار خاکش سنبل\r\nباغی که کهن قلعه ی بنگاله ازو\r\nشد قلعه ی قهقهه ز خندیدن گل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباغی دارم همچو بهشت ای بلبل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباغی که بود غبار خاکش سنبل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباغی که کهن قلعه ی بنگاله ازو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد قلعه ی قهقهه ز خندیدن گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باغی دارم همچو بهشت ای بلبل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باغی که بود غبار خاکش سنبل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باغی که کهن قلعه ی بنگاله ازو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد قلعه ی قهقهه ز خندیدن گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

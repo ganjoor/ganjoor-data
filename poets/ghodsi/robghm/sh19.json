@@ -1,0 +1,58 @@
+{
+  "Id": 74560,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/ghodsi/robghm/sh19",
+  "RhymeLetters": "اکیرا",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به تصاویری از دیری و حسرت اشاره دارد، جایی که شعله‌ها و آتش به نماد درد و رنج تبدیل شده‌اند. در آن، با چشم‌های پر از اشک، زمین را شستشو می‌دهند و به نوعی عمق اندوه و نابودی را به تصویر می‌کشند. به طور کلی، این شعر حس ناامیدی و تأثیرات ویرانگر را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکیرا",
+      "PlainText": "بردیم به چرخ آه شررناکی را\r\nبستیم به پای شعله خاشاکی را\r\nبا دیده تر نقش زمین را شستیم\r\nدادیم به سیلاب کف خاکی را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبردیم به چرخ آه شررناکی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبستیم به پای شعله خاشاکی را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا دیده تر، نقش زمین را شستیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدادیم به سیلاب، کف خاکی را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بردیم به چرخ آه شررناکی را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بستیم به پای شعله خاشاکی را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با دیده تر، نقش زمین را شستیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دادیم به سیلاب، کف خاکی را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

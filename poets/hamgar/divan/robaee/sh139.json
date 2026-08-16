@@ -1,0 +1,58 @@
+{
+  "Id": 120855,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۱۳۹",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۱۳۹",
+  "FullUrl": "/hamgar/divan/robaee/sh139",
+  "RhymeLetters": "ویمناست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با استفاده از نمادهایی چون \u0022رخسار ماه\u0022 و \u0022قد سرو\u0022، زیبایی معشوق را توصیف می‌کند. او اشاره می‌کند که چشمش همیشه به دنبال زیبایی‌های اوست و این چشم که مانند جوی آب است، دچار آشفتگی و بلا است. به طور کلی، شاعر احساس عاشقانه و شیدایی خود را نسبت به معشوق به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویمناست",
+      "PlainText": "رخشنده رخت ماه سخنگوی من است\r\nزیبنده قدت سرو سمن بوی من است\r\nچشمم همه بالای تو جوید چه کنم\r\nاین چشم چو جوی من بلاجوی من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخشنده رخت ماه سخنگوی من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیبنده قدت سرو سمن بوی من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمم همه بالای تو جوید چه کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین چشم چو جوی من بلاجوی من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخشنده رخت ماه سخنگوی من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیبنده قدت سرو سمن بوی من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشمم همه بالای تو جوید چه کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این چشم چو جوی من بلاجوی من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

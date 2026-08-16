@@ -1,0 +1,58 @@
+{
+  "Id": 74594,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۵۳",
+  "FullUrl": "/ghodsi/robghm/sh53",
+  "RhymeLetters": "انهنسوخت",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عشق و شیدایی اشاره می‌کند و می‌گوید که جان عاشق باید در آتش عشق بسوزد. همچنین بیان می‌کند که بدون وجود عشق (گرمی باده)، هیچ چیزی نمی‌تواند تاثیرگذار باشد. عاشق باید تمام تلاشش را کند تا مطابق با خواست معشوق عمل کند و در نهایت، تا زمانی که عشق و توجهی وجود نداشته باشد، مانند شمعی که برای پروانه نمی‌سوزد، هیچ چیز به وجود نمی‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهنسوخت",
+      "PlainText": "جان نیست که در آتش جانانه نسوخت\r\nبی گرمی باده هیچ پیمانه نسوخت\r\nعاشق همه آن کند که معشوق کند\r\nتا درنگرفت شمع پروانه نسوخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان نیست که در آتش جانانه نسوخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی گرمی باده هیچ پیمانه نسوخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشق همه آن کند که معشوق کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا درنگرفت شمع، پروانه نسوخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان نیست که در آتش جانانه نسوخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی گرمی باده هیچ پیمانه نسوخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاشق همه آن کند که معشوق کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا درنگرفت شمع، پروانه نسوخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

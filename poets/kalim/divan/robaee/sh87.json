@@ -1,0 +1,58 @@
+{
+  "Id": 90798,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/kalim/divan/robaee/sh87",
+  "RhymeLetters": "راغمنکند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساس تنهایی و بی‌توجهی یاد می‌کند. بلبل و پروانه که نمادهای زیبایی و عشق هستند، دیگر توجهی به او ندارند. همچنین، شاعر به بی‌حالی و افسردگی‌اش اشاره می‌کند و می‌گوید حتی اگر به حالت مایع درآید، باز هم کسی به دنبال او نخواهد آمد. این اشعار نشان‌دهنده یأس و ناامیدی در زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راغمنکند",
+      "PlainText": "بلبل هوس گلبن باغم نکند\r\nپروانه هم آهنگ چراغم نکند\r\nزین گونه که روزگار برگشته ز من\r\nگر آب شوم تشنه سراغم نکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل هوس گلبن باغم نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپروانه هم آهنگ چراغم نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین گونه که روزگار برگشته ز من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آب شوم تشنه سراغم نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلبل هوس گلبن باغم نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پروانه هم آهنگ چراغم نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین گونه که روزگار برگشته ز من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر آب شوم تشنه سراغم نکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

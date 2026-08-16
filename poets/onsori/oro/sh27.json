@@ -1,0 +1,58 @@
+{
+  "Id": 68877,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/onsori/oro/sh27",
+  "RhymeLetters": "ریر",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی شاه حبش پرداخته و او را به عنوان ستاره‌ای درخشان توصیف می‌کند. زلف او شبیه به عطر خوش عنبر است و تاجی از گل لاله بر سر دارد. شاعر به زیبایی گل سرخ اشاره می‌کند که با خوناب زریر شسته می‌شود و این دو تصویر، نشان‌دهنده زیبایی و شکوه آن شخصیت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریر",
+      "PlainText": "شاه حبش است زلفت ای بدر منیر\r\nاز عنبر تاج دارد از لاله سریر\r\nتو شسته همی کنی گل سرخ به قیر\r\nمن شسته همی کنم به خوناب زریر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه حبش است زلفت ای بدر منیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عنبر تاج دارد از لاله سریر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو شسته همی کنی گل سرخ به قیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن شسته همی کنم به خوناب زریر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاه حبش است زلفت ای بدر منیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عنبر تاج دارد از لاله سریر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو شسته همی کنی گل سرخ به قیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من شسته همی کنم به خوناب زریر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

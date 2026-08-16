@@ -1,0 +1,58 @@
+{
+  "Id": 107240,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۷۷",
+  "FullUrl": "/daye/divan/robaee/sh77",
+  "RhymeLetters": "وانهنهای",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت شعری، شاعر به کسی هشدار می‌دهد که نباید خود را در دام عشق بیندازد، زیرا او مانند مرغی نیست که به دانه بیفتد. همچنین او از کسی که شبیه پروانه‌ای نیست خواسته تا به گرد شعله (عشق) نگردد و تأکید می‌کند که دیوانه واقعی کسی است که به او علاقه‌مند شود. شاعر به این نکته اشاره دارد که نباید به عشق بی‌جا و بی‌دلیل نزدیک شد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وانهنهای",
+      "PlainText": "در دام میا که مرغ این دانه نه ای\r\nدر شمع میاز چونکه پروانه نه ای\r\nدیوانه کسی بود که گردد بر ما\r\nکم گرد به گرد ما که دیوانه نه ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دام میا که مرغ این دانه نه ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر شمع میاز چونکه پروانه نه ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیوانه کسی بود که گردد بر ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکم گرد به گرد ما که دیوانه نه ای.\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دام میا که مرغ این دانه نه ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در شمع میاز چونکه پروانه نه ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیوانه کسی بود که گردد بر ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کم گرد به گرد ما که دیوانه نه ای.",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82971,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۸۳",
+  "FullUrl": "/hazin/robaee-hz/sh83",
+  "RhymeLetters": "انینکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به این موضوع اشاره می‌کند که دل نمی‌تواند از غم عشق شادی کند و تا زمانی که ناله و افسوس از دل برآید، خوشی نخواهد آمد. او با یاری عزیز صحبت می‌کند و می‌گوید که بار غم در دل اگرچه سنگین است، اما نمی‌تواند مانع از ادامه زندگی و عشق ورزی شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انینکند",
+      "PlainText": "دل در غم عشق کامرانی نکند\r\nتا ناله درفش کاویانی نکند\r\nبا یار گرانباری دل گفتم گفت\r\nبار غم ما به دل گرانی نکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل در غم عشق، کامرانی نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ناله درفش کاویانی نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا یار گرانباری دل گفتم، گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبار غم ما به دل گرانی نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل در غم عشق، کامرانی نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا ناله درفش کاویانی نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با یار گرانباری دل گفتم، گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بار غم ما به دل گرانی نکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83428,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۶۷",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۶۷",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh267",
+  "RhymeLetters": "ارهندارم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به بی‌توجهی‌اش نسبت به یاد مصر و مسافران اشاره می‌کند و تنها به عشق و محبت معشوقش اهمیت می‌دهد. او خود را به شمعی تشبیه می‌کند که در محفل محبوب روشنی می‌بخشد و در وجودش عشق، مانند آتش، شعله‌ور است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندارم",
+      "PlainText": "نه یاد مصر و نه پروای کاروان دارم\r\nعبیر پیرهن آن خاک آستان دارم\r\nچو شمع تا شده ام روشناس محفل او\r\nتبی چو آتش سوزان در استخوان دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه یاد مصر و نه پروای کاروان دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعبیر پیرهن، آن خاک آستان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شمع، تا شده ام روشناس محفل او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتبی چو آتش سوزان در استخوان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه یاد مصر و نه پروای کاروان دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عبیر پیرهن، آن خاک آستان دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو شمع، تا شده ام روشناس محفل او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تبی چو آتش سوزان در استخوان دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

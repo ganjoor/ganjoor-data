@@ -1,0 +1,58 @@
+{
+  "Id": 83034,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۴۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۴۶",
+  "FullUrl": "/hazin/robaee-hz/sh146",
+  "RhymeLetters": "ارمکرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: حسن تو به یک جلوه‌ات مرا اسیر کرد و جذابیت نرگس‌وار تو، مرا به خود مشغول کرد. عشق تو به قدری ارزشمند است که حتی متاع بی‌ارزش من را نیز ارزشمند کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمکرد",
+      "PlainText": "حسن تو به یک جلوه گرفتارم کرد\r\nوز نرگس مست عشوه درکارم کرد\r\nبی قدر متاع من خریدار نداشت\r\nعشق تو به این قیمت و مقدارم کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحسن تو به یک جلوه گرفتارم کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نرگس مست، عشوه درکارم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی قدر متاع من خریدار نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق تو به این قیمت و مقدارم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسن تو به یک جلوه گرفتارم کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز نرگس مست، عشوه درکارم کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی قدر متاع من خریدار نداشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشق تو به این قیمت و مقدارم کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

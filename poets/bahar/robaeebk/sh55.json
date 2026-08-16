@@ -1,0 +1,58 @@
+{
+  "Id": 51778,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/bahar/robaeebk/sh55",
+  "RhymeLetters": "گران",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر آن است که دوربین آسمان مراقب ستمگران است و امیدوار است که آنها از خواب غفلت بیدار شوند. دنیا به حال خود در حال گذر است و زمان بر ستمگران می‌گذرد، پس باید به عواقب کارهای خود توجه کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "گران",
+      "PlainText": "چشم فلک است بر ستمگر نگران\r\nبیدار شود ظالم ازین خواب گران\r\nازکار نمانده این جهان گذران\r\nبر ما بگذشت و بگذرد بر دگران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم فلک است بر ستمگر نگران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیدار شود ظالم ازین خواب گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازکار نمانده این جهان گذران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ما بگذشت و بگذرد بر دگران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم فلک است بر ستمگر نگران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیدار شود ظالم ازین خواب گران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ازکار نمانده این جهان گذران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر ما بگذشت و بگذرد بر دگران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 114074,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۲۰۱",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۲۰۱",
+  "FullUrl": "/jahan/divan/robaee/sh201",
+  "RhymeLetters": "گل",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعری زیبا، شاعر به صبح صبا و زیبایی چمن آراسته به گل‌ها اشاره می‌کند و می‌گوید که باغ با چهره‌ی دل‌انگیز معشوقش زیباتر به نظر می‌رسد. همچنین، گل‌ها به خاطر زیبایی چهره‌ی او حسرت می‌خورند و از غم و ناله‌های خود خبر می‌دهند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "گل",
+      "PlainText": "در صبح صبا چمن بیاراست ز گل\r\nبستان به رخ خوب تو زیباست چو گل\r\nگل دید رخ خوب تو وز رشک رخت\r\nبس ناله و فریاد که برخاست ز گل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر صبح صبا چمن بیاراست ز گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبستان به رخ خوب تو زیباست چو گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل دید رخ خوب تو وز رشک رخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس ناله و فریاد که برخاست ز گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در صبح صبا چمن بیاراست ز گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بستان به رخ خوب تو زیباست چو گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل دید رخ خوب تو وز رشک رخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس ناله و فریاد که برخاست ز گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 123647,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۸۱",
+  "FullUrl": "/naziri/divan/robaee/sh81",
+  "RhymeLetters": "ابردار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از بلبل بی‌قرار می‌خواهد که با سر و صدا و شوق خود، غم و درد دل عاشق را برطرف کند. بهار زیبایی‌ها را به همراه دارد و شاعر با حسرت از رفتن گل‌ها صحبت می‌کند و تقاضا دارد که آوای دلنشینشان را بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابردار",
+      "PlainText": "ای بلبل بی قرار غوغا بردار\r\nبخروش و گره از دل شیدا بردار\r\nخوبی بهار شد به افسوس بنال\r\nگل می رود از قفاش آوا بردار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بلبل بی قرار غوغا بردار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبخروش و گره از دل شیدا بردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوبی بهار شد به افسوس بنال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل می رود از قفاش آوا بردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بلبل بی قرار غوغا بردار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بخروش و گره از دل شیدا بردار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوبی بهار شد به افسوس بنال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل می رود از قفاش آوا بردار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

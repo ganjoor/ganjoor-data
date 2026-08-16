@@ -1,0 +1,58 @@
+{
+  "Id": 50061,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱",
+  "FullUrl": "/mahsati/robmah/sh1",
+  "RhymeLetters": "دا",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از شب یلدا یاد می‌کند که شبی طولانی و تاریک است. او به شدت منتظر کسی است که نمی‌آید و این باعث غم و اندوه او می‌شود. او تا صبح با اشک و ناباوری در حال نوشیدن شراب است و از خداوند طلب کمک می‌کند تا او را در تنهایی رها نکند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دا",
+      "PlainText": "دوشینه شبم بود شبیه یلدا\r\nآن مونس غم گسار نآمد عمدا\r\nشب تا به سحر ز دیده در می سفتم\r\nمی گفتم رب لاتذرنی فردا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوشینه شبم بود شبیه یلدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن مونس غم‌گسار نآمد عمدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب تا به سحر ز دیده دُر می‌سفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌گفتم رب لاتذرنی فردا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوشینه شبم بود شبیه یلدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن مونس غم‌گسار نآمد عمدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب تا به سحر ز دیده دُر می‌سفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌گفتم رب لاتذرنی فردا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70108,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۶۵",
+  "FullUrl": "/amir/robam/sh65",
+  "RhymeLetters": "اندازد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به پیروزی شاه جهان اشاره می‌کند که با کشیدن کمان، موفقیت و پیروزی را به دست می‌آورد. تیرهایی که از کمان رها می‌شوند، نمادی از اوج موفقیت هستند و صبحی جدید و پربرکت از پیروزی قرار است طلوع کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدنگیرد",
+      "PlainText": "چون شاه جهان کمان کشیدن گیرد\r\nپیروزی از آسمان رسیدن گیرد\r\nهر تیر کز آن کمان پریدن گیرد\r\nصبحی دگر از ظفر دمیدن  گیرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شاه جهان کمان کشیدن گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیروزی از آسمان رسیدن گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر تیر کز آن کمان پریدن گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبحی دگر از ظفر دمیدن‌ گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شاه جهان کمان کشیدن گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیروزی از آسمان رسیدن گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر تیر کز آن کمان پریدن گیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبحی دگر از ظفر دمیدن‌ گیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

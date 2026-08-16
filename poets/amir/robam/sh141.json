@@ -1,0 +1,58 @@
+{
+  "Id": 70184,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴۱",
+  "FullUrl": "/amir/robam/sh141",
+  "RhymeLetters": "ین",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها به مقایسه قدرت و مقام نازید افریدون با دیگران می‌پردازد. نازید به گرز افریدون اشاره دارد که در دست اوست و او را با گرز شیر ساری مقایسه می‌کند. همچنین نشان می‌دهد که او از افریدون بسیار متفاوت است، مانند تفاوت بین شیر قوی و گاو ضعیف. به طور کلی، این ابیات برتری و قدرت نازید را نسبت به دیگران بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ون",
+      "PlainText": "نازید به گرز گاوسار افریدون\r\nدر دست تو گرز شیر سارست کنون\r\nاز تو فرق است تا به افْریدون چون\r\nچونانکه ز شیر شرزه تا گاو زبون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازید به گرز گاوسار افریدون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دست تو گرز شیر سارست کنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تو فرق است تا به افْریدون چون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچونانکه ز شیر شرزه تا گاوِ زبون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نازید به گرز گاوسار افریدون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دست تو گرز شیر سارست کنون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از تو فرق است تا به افْریدون چون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چونانکه ز شیر شرزه تا گاوِ زبون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 107946,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/saeeda/divan/robaee/sh46",
+  "RhymeLetters": "اقینیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر بی‌ثباتی و ناپایداری زندگی هستند. شاعر به ما یادآوری می‌کند که این جهان به دست یک نوشنده (ساقی) نیست و هیچ چیز در آن دائمی نیست. هر روز در زندگی، پیمانی شکسته می‌شود و عهد و میثاق زمانه قابل اعتماد نیستند. در واقع، زندگی ادامه‌ای از تغییرات و ناپایداری‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقینیست",
+      "PlainText": "جامی است جهان به دست یک ساقی نیست\r\nیک دم باقی دم دگر باقی نیست\r\nپیمان شکنی است کار دوران هر روز\r\nاین عهد زمانه عهد و میثاقی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجامی است جهان به دست یک ساقی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دم باقی، دم دگر باقی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیمان شکنی است کار دوران هر روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین عهد زمانه عهد [و] میثاقی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جامی است جهان به دست یک ساقی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک دم باقی، دم دگر باقی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیمان شکنی است کار دوران هر روز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این عهد زمانه عهد [و] میثاقی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

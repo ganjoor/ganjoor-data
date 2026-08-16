@@ -1,0 +1,58 @@
+{
+  "Id": 120748,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/hamgar/divan/robaee/sh32",
+  "RhymeLetters": "اب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به پیری اشاره دارد که از نوشیدن شراب کم، به خاطر عواقب آن، توصیه می‌کند. او می‌گوید که باید از خواب و نوشیدنی‌های تلخ دوری کند تا دل بیدار و هوشیار خود را از دست ندهد. در نهایت، شاعر بیان می‌کند که حتی اگر زهر هم بنوشد، بهتر از شراب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "گویند شراب کم خور ای پیر خراب\r\nتا ره نزند بر دل بیدار تو خواب\r\nچه جای شراب و خواب کز تلخی عیش\r\nگر زهر خورم روا بود خاصه شراب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند شراب کم خور ای پیر خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ره نزند بر دل بیدار تو خواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه جای شراب و خواب کز تلخی عیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر زهر خورم روا بود خاصه شراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند شراب کم خور ای پیر خراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا ره نزند بر دل بیدار تو خواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه جای شراب و خواب کز تلخی عیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر زهر خورم روا بود خاصه شراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

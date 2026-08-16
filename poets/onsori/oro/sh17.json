@@ -1,0 +1,58 @@
+{
+  "Id": 68867,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/onsori/oro/sh17",
+  "RhymeLetters": "وناید",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده بیان می‌کند که چشمانش از شدت اشک و غم خونین شده است. او اشاره می‌کند که این اشک‌ها به اندازه‌ای هستند که رنگ و زیبایی لاله را تحت تاثیر قرار می‌دهند. اما در پاسخ گفته می‌شود که این همه خون و رنجی که از او بیرون آمده، به اندازه رنگ سرخ و زیبا از اشک‌های او نیست که بر چهره‌اش نمایان شده است. به طور کلی، شعر به عمق احساسات و غم عشق اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وناید",
+      "PlainText": "گفتم چشمم ز بس کز او خون آید\r\nاز لاله به رنگ و سرخی افزون آید\r\nگفت آن همه خون نبد که بیرون آمد\r\nکز رنگ رخم اشک تو گلگون آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: چشمم ز بس کز او خون آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز لاله به رنگ و سرخی افزون آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت: آن‌همه خون نبد که بیرون آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز رنگ رخم اشک تو گلگون آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم: چشمم ز بس کز او خون آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از لاله به رنگ و سرخی افزون آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفت: آن‌همه خون نبد که بیرون آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز رنگ رخم اشک تو گلگون آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

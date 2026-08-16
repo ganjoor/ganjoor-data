@@ -1,0 +1,58 @@
+{
+  "Id": 71867,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۱۳۰",
+  "FullUrl": "/kamal/robaeek-kamal/sh130",
+  "RhymeLetters": "ایست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت احساسات درونی خود را بیان می‌کند. او از عشق و آتش شمعی یاد می‌کند که دلش را می‌سوزاند، اما این آتش زندگی‌اش را زنده‌تر می‌کند. با وجود اینکه جسم او خسته و فرسوده است، اما جانش همچنان پویایی و شجاعت دارد. به‌عبارتی، زبان او همواره در تلاش است تا این احساسات را ابراز کند، مانند شعله‌ای که به نور می‌افزاید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایست",
+      "PlainText": "گرچه دل من چو شمع آتش خایست\r\nاین آتش من چو آب جار افزایست\r\nورچند مرا زبان تن فرسایست\r\nچون شمع زبان من بتن برپایست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه دل من چو شمع آتش خایست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین آتش من چو آب جار افزایست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورچند مرا زبان تن فرسایست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شمع زبان من بتن برپایست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه دل من چو شمع آتش خایست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این آتش من چو آب جار افزایست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ورچند مرا زبان تن فرسایست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شمع زبان من بتن برپایست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

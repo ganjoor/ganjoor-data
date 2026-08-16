@@ -1,0 +1,58 @@
+{
+  "Id": 45809,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۴۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۴۷",
+  "FullUrl": "/ghaani/ghetegh/sh147",
+  "RhymeLetters": "ایی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از شخصی به نام \u0022خواجه\u0022 می‌خواهد که امروز به نزد شحنه (مسئول دولتی) برود و از عهده‌ی جرمی که مرتکب شده برنیاید، زیرا در روز قیامت باید به داور (خدا) درباره‌ی خطایش پاسخگو باشد. در واقع، او به خواجه هشدار می‌دهد که چگونه می‌تواند از خطاهای خود دفاع کند.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایی",
+      "PlainText": "ای خواجه به نزد شحنه امروز\r\nاز عهده جرم برنیایی\r\nدر روز جزا به نزد داور\r\nتمهید خطا چسان نمایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه به نزد شحنه امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عهدهٔ جرم برنیایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر روز جزا به نزد داور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتمهید خطا چسان نمایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه به نزد شحنه امروز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عهدهٔ جرم برنیایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در روز جزا به نزد داور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تمهید خطا چسان نمایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

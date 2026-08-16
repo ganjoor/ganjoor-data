@@ -1,0 +1,58 @@
+{
+  "Id": 29551,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۹۳",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۹۳",
+  "FullUrl": "/moulavi/shams/robaeesh/sh93",
+  "RhymeLetters": "باب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف حالتی از سرمستی و عشق می‌پردازد. شاعر می‌گوید که بدون شراب، حال و هوای این دنیا همچون شراب است و بدون دود، دلش داغ و سوزان است. همچنین، فریاد عشق از ساز رباب به گوش می‌رسد، و به شدت از بیان اینکه خود رباب باعث این حال و هوای عشق است، هشدار می‌دهد. در واقع، شاعر می‌خواهد تأکید کند که عشق و احساسات عمیق‌تر از صرف موسیقی و ساز هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باب",
+      "PlainText": "بی جام در این دور شرابست شراب\r\nبی دود در این سینه کبابست کباب\r\nفریاد رباب عشق از زخمه او است\r\nزنهار مگو همین ربابست رباب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌جام در این دور شرابست شراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌دود در این سینه کبابست کباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریادِ ربابِ عشق از زخمهٔ او است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنهار مگو همین ربابست رباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌جام در این دور شرابست شراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌دود در این سینه کبابست کباب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریادِ ربابِ عشق از زخمهٔ او است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنهار مگو همین ربابست رباب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

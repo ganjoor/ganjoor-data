@@ -1,0 +1,58 @@
+{
+  "Id": 83443,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۸۲",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۸۲",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh282",
+  "RhymeLetters": "امتوام",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر از تغییرات فصل بهار به پاییز و از دست دادن زیبایی‌ها و رنگ‌ها سخن می‌گوید. او اشاره می‌کند که احساسات و خاطراتش چنان عمیق و دل‌انگیز است که همچون گلی همیشه شکفته باقی مانده است. همچنین از ناامیدی و بی‌نسبتی در زندگی‌اش ابراز ناراحتی می‌کند و به تاثیرات قوی زمان و سرنوشت اشاره دارد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینم",
+      "PlainText": "خزان چه می برد از نوبهار رنگینم\r\nگل همیشه بهار است داغ دیرینم\r\nفتاده است به بی نسبتان مدار مرا\r\nفلک چو مصرع برجسته کرده تضمینم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخزان چه می برد از نوبهار رنگینم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل همیشه بهار است، داغ دیرینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتاده است به بی نسبتان مدار مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفلک چو مصرع برجسته، کرده تضمینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خزان چه می برد از نوبهار رنگینم؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل همیشه بهار است، داغ دیرینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فتاده است به بی نسبتان مدار مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فلک چو مصرع برجسته، کرده تضمینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

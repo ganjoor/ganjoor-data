@@ -1,0 +1,58 @@
+{
+  "Id": 48326,
+  "CatId": 1729,
+  "Title": "دوبیتی شمارهٔ ۲۳۵",
+  "FullTitle": "شاه نعمت‌الله ولی » دوبیتی‌ها » دوبیتی شمارهٔ ۲۳۵",
+  "FullUrl": "/shahnematollah/dobeytihash/sh235",
+  "RhymeLetters": "رکو",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به نوعی از فقدان و نابودی اشاره دارد. شاعر می‌گوید زمانی که خبر و اثر از میان رفته‌اند، دیگر چه چیزی باقی می‌ماند. او به لطیفه‌ای اشاره می‌کند که وقتی شمس (خورشید) نیست، قمر (ماه) هم وجود نخواهد داشت. در واقع، این ابیات نشان‌دهنده ارتبا‌ط دوگانگی‌ها و وابستگی‌های طبیعی در زندگی است.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رکو",
+      "PlainText": "مخبر چو نمانده است خبر کو\r\nمؤثر چو نمانده است اثر کو\r\nگفتیم لطیفه بدیعی\r\nچون شمس نمانده است قمر کو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمخبر چو نمانده است خبر کو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمؤثر چو نمانده است اثر کو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتیم لطیفهٔ بدیعی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شمس نمانده است قمر کو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مخبر چو نمانده است خبر کو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مؤثر چو نمانده است اثر کو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتیم لطیفهٔ بدیعی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شمس نمانده است قمر کو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

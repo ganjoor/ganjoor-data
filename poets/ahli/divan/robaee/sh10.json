@@ -1,0 +1,58 @@
+{
+  "Id": 104816,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/ahli/divan/robaee/sh10",
+  "RhymeLetters": "ستمرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از احساس تنهایی و درد دل می‌گوید. او تا زمانی که بلبلش (یارش) نیست، با سنگدلانی صحبت می‌کند که به او توجهی ندارند. هر شب به خاطر غم و آسیب جدیدی می‌سوزد و هر روز از نو با درد جدایی مواجه است. این احساس دوگانگی بین عشق و رنج را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستمرا",
+      "PlainText": "تا بلبل خویش یار گفته است مرا\r\nبا سنگدلان گفت و شنفتست مرا\r\nهر شام به داغ تازه ای می سوزم\r\nهر روز ز نو گلی شکفته است مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بلبل خویش یار گفته است مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سنگدلان گفت و شنفتست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شام به داغ تازه‌ای می‌سوزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر روز ز نو گلی شکفته است مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بلبل خویش یار گفته است مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با سنگدلان گفت و شنفتست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر شام به داغ تازه‌ای می‌سوزم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر روز ز نو گلی شکفته است مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

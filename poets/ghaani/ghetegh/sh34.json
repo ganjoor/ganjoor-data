@@ -1,0 +1,58 @@
+{
+  "Id": 45674,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۳۴",
+  "FullUrl": "/ghaani/ghetegh/sh34",
+  "RhymeLetters": "ارهاگردد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به مظلومیت و سرنوشت تیر دلدوزی اشاره می‌کند که به طرز ناگوار و دردناکی از دست قضا رها شده است. اگر این تیر به هدف برسد، عجیب نیست چرا که قضا و سرنوشت او را از شست رها کرده است. در واقع، تیری که به قضا وابسته باشد، چگونه می‌تواند از شست رها شود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارهاگردد",
+      "PlainText": "آه مظلوم تیر دلدوزیست\r\nکه ز شست قضا رهاگردد\r\nگر رسد بر نشان عجب نبود\r\nتیر از آن شست کی رها گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه مظلوم تیر دلدوزیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ز شست قضا رهاگردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر رسد بر نشان عجب نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیر از آن شست کی رها گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آه مظلوم تیر دلدوزیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که ز شست قضا رهاگردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر رسد بر نشان عجب نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیر از آن شست کی رها گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

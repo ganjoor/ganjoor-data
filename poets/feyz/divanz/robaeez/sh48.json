@@ -1,0 +1,58 @@
+{
+  "Id": 38372,
+  "CatId": 1128,
+  "Title": "رباعی شمارهٔ ۴۸",
+  "FullTitle": "فیض کاشانی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۴۸",
+  "FullUrl": "/feyz/divanz/robaeez/sh48",
+  "RhymeLetters": "اللاالهالاالله",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به معرفت و زیبایی توحید اشاره دارد. بیانگر لحظاتی است که انسان با حقیقت \u0022لا اله الا الله\u0022 آشنا می‌شود و از عذاب دوزخ و لذت بهشت رهایی می‌یابد. در نهایت، جستجوی وصال و نزدیکی به خداوند را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اللاالهالاالله",
+      "PlainText": "دیدیم جمال لا اله الا الله\r\nدیدیم جلال لا اله الا الله\r\nاز دوزخ و از بهشت آزاد شدیم\r\nجستیم وصال لا اله الا الله",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدیم جمال لا اله الا الله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدیم جلال لا اله الا الله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دوزخ و از بهشت آزاد شدیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجستیم وصال لا اله الا الله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدیم جمال لا اله الا الله",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیدیم جلال لا اله الا الله",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دوزخ و از بهشت آزاد شدیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جستیم وصال لا اله الا الله",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

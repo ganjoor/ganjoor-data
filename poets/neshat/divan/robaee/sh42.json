@@ -1,0 +1,58 @@
+{
+  "Id": 119576,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/neshat/divan/robaee/sh42",
+  "RhymeLetters": "ستم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر از میکده بازمی‌گردد و حالتی مست دارد. او نمی‌داند که آیا وجود دارد یا نه. در اثر عشق، عقلش درهم برهم شده است و اگر نجاتش ندهی، در موقعیتی سخت و خطرناک قرار می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستم",
+      "PlainText": "از میکده میآیم و چندان مستم\r\nکاگاه نیم که نیستم یا هستم\r\nاز خلوت عشق تو بدیوان خرد\r\nسد جای فتم اگر نگیری دستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز میکده میآیم و چندان مستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاگاه نیم که نیستم یا هستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خلوت عشق تو بدیوان خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسد جای فتم اگر نگیری دستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از میکده میآیم و چندان مستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاگاه نیم که نیستم یا هستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خلوت عشق تو بدیوان خرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سد جای فتم اگر نگیری دستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

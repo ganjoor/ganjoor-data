@@ -1,0 +1,58 @@
+{
+  "Id": 51750,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/bahar/robaeebk/sh27",
+  "RhymeLetters": "رقتورسد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به خواجه وثوق اشاره می‌کند و می‌گوید که در لحظات ناامیدی و خمودی، ممکن است به او کمک برسد. همچنین، به دو نماد یعنی جام شکسته و تیغی که به کار برده اشاره می‌کند و نشان می‌دهد که اتفاقاتی که به نظر بد می‌رسند، می‌توانند در نهایت به نفع خواجه تمام شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رقتورسد",
+      "PlainText": "ای خواجه وثوق گاه غرق تو رسد\r\nهنگام خمود رعد و برق  تو رسد\r\nجامی که شکسته ای به پای تو خلد\r\nتیغی که فکنده ای به فرق تو رسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه وثوق گاه غرق تو رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنگام خمود رعد و برق‌ تو رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجامی که شکسته‌ای به پای تو خلد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغی که فکنده‌ای به فرق تو رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه وثوق گاه غرق تو رسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنگام خمود رعد و برق‌ تو رسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جامی که شکسته‌ای به پای تو خلد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیغی که فکنده‌ای به فرق تو رسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

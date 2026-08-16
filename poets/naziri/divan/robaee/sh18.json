@@ -1,0 +1,58 @@
+{
+  "Id": 123584,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/naziri/divan/robaee/sh18",
+  "RhymeLetters": "نتست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها به بیان این موضوع می‌پردازند که درد و رنج‌های سر و گردن انسان، بخشی از وجود و جسم اوست و به نوعی نشان‌دهنده‌ی مشکلات و اندوه‌های درونی اوست. اگر فردی با مشکلی مواجه نیست، این امر به دلیل حضور ناموس زمانه و شرایط محیطی است که بر سر و گردن او تأثیر می‌گذارد. به طور کلی، اشعار نشان‌دهنده‌ی پیوند میان دردهای جسمی و روحی انسان هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نتست",
+      "PlainText": "درد سر و گردن تو حرز تن تست\r\nاندوه تو صیقل دل روشن تست\r\nگر دردسری کشیده ای نیست عجب\r\nناموس زمانه بر سر و گردن تست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد سر و گردن تو حرز تن تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندوه تو صیقل دل روشن تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دردسری کشیده ای نیست عجب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناموس زمانه بر سر و گردن تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درد سر و گردن تو حرز تن تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندوه تو صیقل دل روشن تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دردسری کشیده ای نیست عجب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناموس زمانه بر سر و گردن تست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

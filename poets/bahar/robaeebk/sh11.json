@@ -1,0 +1,58 @@
+{
+  "Id": 51734,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۱۱ - این رباعی را در خواب گفته است",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۱۱ - این رباعی را در خواب گفته است",
+  "FullUrl": "/bahar/robaeebk/sh11",
+  "RhymeLetters": "ناست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت بیانگر احساس عمیق شاعر نسبت به عشق است. شاعر می‌گوید که هیچ‌کس به اندازه او از عشق آگاه نیست و همه سخنان او ناشی از شیرینی و شکرینگی عشق است. همچنین اشاره می‌کند که در هر مژه او، نیرویی وجود دارد که قادر است کوه‌ها را بشکند، نماد قدرت و تاثیر عشق در اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ناست",
+      "PlainText": "امروز نه کس  ز عشق آگه چو من است\r\nکز شکر عشقم  همه  شیرین  سخن  است\r\nدر هر مژه من به ره خسرو عشق\r\nنیروی هزار تیشه کوهکن است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز نه کس ‌ز عشق آگه چو من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز شکّر عشقم‌ همه‌ شیرین ‌سخن‌ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هر مژهٔ من به ره خسرو عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیروی هزار تیشهٔ کوهکن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز نه کس ‌ز عشق آگه چو من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز شکّر عشقم‌ همه‌ شیرین ‌سخن‌ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هر مژهٔ من به ره خسرو عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نیروی هزار تیشهٔ کوهکن است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

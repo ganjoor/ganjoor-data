@@ -1,0 +1,59 @@
+{
+  "Id": 52104,
+  "CatId": 1849,
+  "Title": "فقرۀ ۱۱۸",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۱۱۸",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh110",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این متن، شاعر به رفتار و ویژگی‌های انسانی اشاره می‌کند و آن را به شیرخواری تشبیه می‌کند که هر ویژگی یا خویی را که به او داده شود، می‌پذیرد. او تاکید می‌کند که آدمیان مانند کودکان به راحتی تحت تاثیر خوی‌های مختلف قرار می‌گیرند، و اگر با دقت و آگاهی نسبت به این خوی‌ها توجه نکنند، ممکن است صفات ناپسند را نیز بپذیرند. بنابراین، مهم است که انسان‌ها به انتخاب و پذیرش خود توجه کنند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "بود آدمی کودکی شیرخوار\r\nپذیرنده ی خوی ها بی شمار\r\nچو خویی پذیرد در استد بدان\r\nنگر تا نگیری تو خوی بدان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود آدمی کودکی شیرخوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپذیرنده ی خوی‌ها بی‌شمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خویی پذیرد در استد بدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگر تا نگیری تو خوی بدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "مردم ایدون همانا چون شیرخواره است که چون خو‌یی اندرگرفت بر آن خوی بایستد.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "بود آدمی کودکی شیرخوار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "پذیرنده ی خوی‌ها بی‌شمار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "چو خویی پذیرد در استد بدان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "نگر تا نگیری تو خوی بدان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

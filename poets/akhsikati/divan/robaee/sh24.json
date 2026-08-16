@@ -1,0 +1,58 @@
+{
+  "Id": 116150,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/akhsikati/divan/robaee/sh24",
+  "RhymeLetters": "انبرود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که عشق و محبت به معشوق به آسانی از دل او خارج نمی‌شود. حتی اگر این عشق با بهای کمی به دست آمده باشد، ولی احساسات و وابستگی‌ها عمیق و گران‌بهاء هستند. او همچنین تاکید می‌کند که عشقش از دلش نمی‌رود و با تمام وجودش به این احساسات متعهد است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انبرود",
+      "PlainText": "حاشا که ز دل مهر تو آسان برود\r\nوان عشق گران خریده ارزان برود\r\nای از بر من نرفته مهر تو مرا\r\nبا شیر فرو شده ست با جان برود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاشا که ز دل، مهر تو آسان برود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان عشق گران خریده، ارزان برود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از بر من نرفته، مهر تو مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا شیر فرو شده ست، با جان برود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاشا که ز دل، مهر تو آسان برود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان عشق گران خریده، ارزان برود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای از بر من نرفته، مهر تو مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با شیر فرو شده ست، با جان برود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

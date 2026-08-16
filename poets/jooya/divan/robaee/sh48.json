@@ -1,0 +1,58 @@
+{
+  "Id": 103102,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/jooya/divan/robaee/sh48",
+  "RhymeLetters": "ایینرسد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات بیان شده است که دل بدون آرامش به صفا و پاکی نمی‌رسد و از بی‌تابی به هدف خود نمی‌تواند برسد. همچنین، شبنم که به تابش آفتاب می‌رسد به خاطر لطافت و نرمی‌اش به زمین می‌نشیند، اما گرما و آتش به جایی نمی‌رسد. در کل، این اشعار به اهمیت آرامش و لطافت در دستیابی به اهداف و زیبایی‌ها اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایینرسد",
+      "PlainText": "دل غیر تأنی به صفایی نرسد\r\nاز بیتابی به مدعایی نرسد\r\nشبنم که رسد به مهر از نرم روی است\r\nاز گرم روی شرر به جایی نرسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل غیر تأنی به صفایی نرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بیتابی به مدعایی نرسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبنم که رسد به مهر از نرم روی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گرم روی شرر به جایی نرسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل غیر تأنی به صفایی نرسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بیتابی به مدعایی نرسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبنم که رسد به مهر از نرم روی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از گرم روی شرر به جایی نرسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

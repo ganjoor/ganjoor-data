@@ -1,0 +1,58 @@
+{
+  "Id": 122920,
+  "CatId": 2826,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "ادیب صابر » دیوان اشعار » ملحقات » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/saber/divan/molhaghat/robaee/sh1",
+  "RhymeLetters": "رت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر آرزو دارد که امشب به پیش معشوق برود و لبانش را بر لبان او بگذارد. او در این شعر از ناز و نیاز صحبت می‌کند، به طوری که معشوق با ناز پایش را بر چشم شاعر می‌گذارد و شاعر در عوض از نیاز خود بر خاک درگاه معشوق سر خم می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رت",
+      "PlainText": "دارم سر آنکه امشب آیم به برت\r\nتا لب به لبت بر نهم و بر به برت\r\nتو پای نهی ز ناز بر چشم ترم\r\nمن سر نهم از نیاز بر خاک درت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارم سر آنکه امشب آیم به برت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا لب به لبت بر نهم و بر به برت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو پای نهی ز ناز بر چشم ترم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن سر نهم از نیاز بر خاک درت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارم سر آنکه امشب آیم به برت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا لب به لبت بر نهم و بر به برت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو پای نهی ز ناز بر چشم ترم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من سر نهم از نیاز بر خاک درت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

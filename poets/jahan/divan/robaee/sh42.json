@@ -1,0 +1,58 @@
+{
+  "Id": 113915,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/jahan/divan/robaee/sh42",
+  "RhymeLetters": "ردانست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به دورانی اشاره می‌کند که انسان‌ها در آن تحت تاثیر سرنوشت و چرخش روزگار قرار دارند. او بیان می‌کند که مردی که بر دیگری دل می‌نهد، در واقع باید قوی و امیدوار باشد. اما در عین حال، وی از سرنوشت و سرگردانی‌اش یاد می‌کند و به این نکته اشاره می‌کند که حتی مردانی که دل می‌سپارند، خود نیز از بلاهای روزگار در امان نیستند و به نوعی دچار سردرگمی شده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردانست",
+      "PlainText": "دوران فلک نگر که چون گردانست\r\nمردی که بر او دل بنهد مرد آنست\r\nلیکن چه کند فلک که او نیز چو من\r\nبیچاره ز روزگار سرگردانست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوران فلک نگر که چون گردانست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردی که بر او دل بنهد مرد آنست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیکن چه کند فلک که او نیز چو من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره ز روزگار سرگردانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوران فلک نگر که چون گردانست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مردی که بر او دل بنهد مرد آنست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن چه کند فلک که او نیز چو من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیچاره ز روزگار سرگردانست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

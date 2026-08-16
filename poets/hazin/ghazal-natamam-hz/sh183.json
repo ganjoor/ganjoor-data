@@ -1,0 +1,58 @@
+{
+  "Id": 83344,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۸۳",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۸۳",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh183",
+  "RhymeLetters": "ابمیکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به بررسی آزادی نفس و احساس رهایی می‌پردازد. وقتی نفس از قید عقل آزاد می‌شود، شبیه به یک سگ درنده می‌شود که از قلاده رها شده است. شاعر همچنین بیان می‌کند که دل او اکنون نمی‌تواند با درد دیگری همدردی کند، زیرا قدرت و تأثیر شراب کهنه در او بسیار زیاد است. در مجموع، این اشعار به تمایلات سرکش و احساسات عمیق عشق و رنج اشاره دارد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادهشود",
+      "PlainText": "مباد نفس ز قید خرد گشاده شود\r\nبلاست چون سگ درنده بی قلاده شود\r\nحریف درد تو اکنون نمی شود دل من\r\nکه زور باده کهن چون شود زیاده شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمباد، نفس ز قید خرد گشاده شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلاست چون سگ درّنده، بی قلاده شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحریف درد تو اکنون نمی شود دل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه زور باده، کهن چون شود زیاده شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مباد، نفس ز قید خرد گشاده شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلاست چون سگ درّنده، بی قلاده شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حریف درد تو اکنون نمی شود دل من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که زور باده، کهن چون شود زیاده شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

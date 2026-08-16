@@ -1,0 +1,44 @@
+{
+  "Id": 97152,
+  "CatId": 2489,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "بابافغانی » دیوان اشعار » مفردات » شمارهٔ ۴۵",
+  "FullUrl": "/faghani/divan/mofradat/sh45",
+  "RhymeLetters": "ردنست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به مفهوم تضاد عید و مرگ اشاره دارد. شاعر در یک سمت، جشن و شادی عید را توصیف می‌کند و در سمت دیگر، از روزی صحبت می‌کند که او باید جان بسپارد. به عبارتی، برای شاعر عید، زمان شادی و خوشی است، اما برای او روز مردن و از دست دادن زندگی محسوب می‌شود.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردنست",
+      "PlainText": "عیدست و عیش من برخش جان سپردنست\r\nاو را صباح عید و مرا روز مردنست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیدست و عیش من برخش جان سپردنست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را صباح عید و مرا روز مردنست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عیدست و عیش من برخش جان سپردنست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او را صباح عید و مرا روز مردنست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

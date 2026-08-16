@@ -1,0 +1,58 @@
+{
+  "Id": 108003,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۰۳",
+  "FullUrl": "/saeeda/divan/robaee/sh103",
+  "RhymeLetters": "انمیترسم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از احساس ترس خود سخن می‌گوید. او می‌گوید اگر دلش را به تو بدهد از جانش می‌ترسد و اگر جانش را به تو بدهد از دنیایی که در آن زندگی می‌کند می‌ترسد. اما در عین حال، برای جان و جهان، یعنی عشق و زندگی، آماده است تا قربانی بدهد و تأکید می‌کند که از هیچ‌یک از این دو نمی‌ترسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمیترسم",
+      "PlainText": "گر دل گویم تو را ز جان می ترسم\r\nور جان خوانم هم از جهان می ترسم\r\nای جان و جهان هر دو به قربان سرت\r\nحق می گویم نه زین نه زان می ترسم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دل گویم تو را ز جان می ترسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور جان خوانم هم از جهان می ترسم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای جان و جهان هر دو به قربان سرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق می گویم نه زین نه زان می ترسم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر دل گویم تو را ز جان می ترسم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور جان خوانم هم از جهان می ترسم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای جان و جهان هر دو به قربان سرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حق می گویم نه زین نه زان می ترسم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50165,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۰۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۰۵",
+  "FullUrl": "/mahsati/robmah/sh105",
+  "RhymeLetters": "س",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "شاعر در این شعر با اشاره به کلاه دوز هنرمند، از یک سو او را می‌ستاید و از سوی دیگر به چهار تَرْک بودن کلاهی می‌پردازد که یک زه برای آن کافی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "س",
+      "PlainText": "دلدار کله دوز من از روی هوس\r\nمی دوخت کلاهی ز نسیج و اطلس\r\nبر هر ترکی هزار زه می گفتم\r\nبا آنکه چهار ترک را یک زه بس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلدار کله‌دوز من از روی هوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌دوخت کلاهی ز نسیج و اطلس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر هر تَرْکی هزار زه می‌گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا آنکه چهار تَرک را یک زه بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلدار کله‌دوز من از روی هوس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌دوخت کلاهی ز نسیج و اطلس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر هر تَرْکی هزار زه می‌گفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با آنکه چهار تَرک را یک زه بس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

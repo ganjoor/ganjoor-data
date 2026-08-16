@@ -1,0 +1,58 @@
+{
+  "Id": 50072,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۲",
+  "FullUrl": "/mahsati/robmah/sh12",
+  "RhymeLetters": "ستهچراست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بی‌نظمی و درد عشق اشاره دارد. او از محبوبش می‌خواهد که علت بسته بودن لبش را توضیح دهد و از چشمان زیبا و خسته‌کننده‌اش گلایه می‌کند. همچنین، ابروهای زیبا و کمان‌مانند محبوبش را به عنوان نمادی از بی‌وفایی زمانه می‌داند و از او می‌پرسد که اگر چنین جفایی نیست، پس چرا این‌گونه است. به‌طور کلی، شاعر از ناامیدی و غم عشق سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستهچراست",
+      "PlainText": "با من لب تو چو زلف تو بسته چراست\r\nچشم خوش تو خصم من خسته چراست\r\nابروی کمان مثالت اندر حق من\r\nگر نیست جفای چرخ پیوسته چراست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا من لب تو چو زلف تو بسته چراست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم خوش تو خصم من خسته چراست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابروی کمان مثالت اندر حق من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نیست جفای چرخ پیوسته چراست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با من لب تو چو زلف تو بسته چراست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم خوش تو خصم من خسته چراست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ابروی کمان مثالت اندر حق من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر نیست جفای چرخ پیوسته چراست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

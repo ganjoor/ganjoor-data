@@ -1,0 +1,58 @@
+{
+  "Id": 52128,
+  "CatId": 1850,
+  "Title": "شمارهٔ ۶ - از یک غزل",
+  "FullTitle": "ملک‌الشعرا بهار » اشعار محلی » شمارهٔ ۶ - از یک غزل",
+  "FullUrl": "/bahar/mahalibk/sh6",
+  "RhymeLetters": "وشتبزمنم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر دربارهٔ عشق و اشتیاق به معشوق است. شاعر می‌خواهد با زیبایی‌های خود، دل معشوق را به دست آورد و در عین حال از رقیبانش انتقام بگیرد. او از پیامدهای عشق و خواسته‌های خود به طرز شاعرانه‌ای سخن می‌گوید.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشتبزمنم",
+      "PlainText": "مو مخام خوذم بزو  چشمه نوشت بزنم\r\nلبام غنچه کنم شرق تو گوشت بزنم\r\nدل تو سنگ بیا دلت بدست مو بده\r\nتا بمغز رقیب خرده فروشت بزنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمو مخام خوذم بزو ‌چشمه نوشت بزنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلبام غنچه کُنُم، شرق تو گوشت بزنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل تو سنگ بیا دلت بدست مو بده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بمغز رقیب خرده فروشت بزنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مو مخام خوذم بزو ‌چشمه نوشت بزنم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لبام غنچه کُنُم، شرق تو گوشت بزنم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل تو سنگ بیا دلت بدست مو بده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بمغز رقیب خرده فروشت بزنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

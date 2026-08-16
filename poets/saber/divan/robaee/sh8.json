@@ -1,0 +1,58 @@
+{
+  "Id": 122791,
+  "CatId": 2822,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "ادیب صابر » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/saber/divan/robaee/sh8",
+  "RhymeLetters": "یادمهست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر غم و اندوه شاعر از دوری محبوبش است. او احساس ناکامی و دلشکستگی دارد و با وجود اینکه به یاد محبوبش است، دلتنگی او را آزار می‌دهد. شاعر می‌خواهد فریاد کند، اما نمی‌داند که آیا جایی برای فریادش وجود دارد یا نه. در کل، شعر حس عمیق عشق و درد جدایی را منتقل می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یادمهست",
+      "PlainText": "از فرقت دلبر دل ناشادم هست\r\nیادم نکند گرچه از او یادم هست\r\nاز یک دل او هزار بیدادم هست\r\nفریاد کنم که جای فریادم هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فرقت دلبر دل ناشادم هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیادم نکند گرچه از او یادم هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز یک دل او هزار بیدادم هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد کنم که جای فریادم هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از فرقت دلبر دل ناشادم هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یادم نکند گرچه از او یادم هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از یک دل او هزار بیدادم هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فریاد کنم که جای فریادم هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 118951,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/azar/divan/robaee/sh30",
+  "RhymeLetters": "یرتونیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به این موضوع می‌پردازد که عشق و وابستگی‌اش به معشوق، ناشی از تدبیر و خواست او نیست. او می‌گوید که دلش به خاطر تلاش‌های معشوق در زنجیر عشق او قرار نگرفته و خود عشقش باعث شده که به چنگ معشوق بیفتد. در نهایت، شاعر تقصیر را به خود نسبت می‌دهد و می‌گوید که این وضعیت تقصیر خودش است و تقصیر معشوق نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرتونیست",
+      "PlainText": "از سعی تو دل بسته ی زنجیر تو نیست\r\nمایل بتو بودنش ز تدبیر تو نیست\r\nخود صید تو گشت اینکه زارش کشتی\r\nتقصیر دل من است تقصیر تو نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سعی تو، دل بسته ی زنجیر تو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمایل بتو بودنش، ز تدبیر تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود صید تو گشت، اینکه زارش کشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتقصیر دل من است، تقصیر تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سعی تو، دل بسته ی زنجیر تو نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مایل بتو بودنش، ز تدبیر تو نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود صید تو گشت، اینکه زارش کشتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تقصیر دل من است، تقصیر تو نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 68919,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/onsori/oro/sh69",
+  "RhymeLetters": "ینمانی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به توصیف زیبایی و ظرافت یک معشوق می‌پردازد. او اشاره می‌کند که وقتی معشوق در برابر او می‌ایستد، مانند درختی زیبای سیمین و وقتی می‌نشینند، مانند ماه و ستاره‌ها زیباست. همچنین معشوق را آزاد و دلربا می‌داند که در نگاه و دل او جای دارد و شیرینی او به جانش نشسته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینمانی",
+      "PlainText": "چون بر پایی بسرو سیمین مانی\r\nچون بنشینی بماه و پروین مانی\r\nآزاده بتا بدیده و دین مانی\r\nوز شیرینی بجان شیرین مانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بر پائی بسرو سیمین مانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بنشینی بماه و پروین مانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآزاده بتا بدیده و دین مانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز شیرینی بجان شیرین مانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون بر پائی بسرو سیمین مانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون بنشینی بماه و پروین مانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آزاده بتا بدیده و دین مانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز شیرینی بجان شیرین مانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

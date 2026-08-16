@@ -1,0 +1,58 @@
+{
+  "Id": 117165,
+  "CatId": 2706,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "فضولی » دیوان اشعار فارسی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/fozooli/divan/robaee/sh1",
+  "RhymeLetters": "ممارا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمجید از خداوند و نعمت‌های او اشاره دارد. شاعر از لطف و کرم خداوند سخن می‌گوید که انسان را از خاک سیاه آفریده و به او علم و دانش عطا کرده است. همچنین، او بر اهمیت وجود انسان و مقام بلند او در دو عالم تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ممارا",
+      "PlainText": "ای کرده بلطف خود مکرم ما را\r\nوز خاک سیه ساخته آدم ما را\r\nآموخته علمهای مبهم ما را\r\nافراخته سر بهر دو عالم ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کرده بلطف خود مکرم ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز خاک سیه ساخته آدم ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآموخته علمهای مبهم ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافراخته سر بهر دو عالم ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کرده بلطف خود مکرم ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خاک سیه ساخته آدم ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آموخته علمهای مبهم ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افراخته سر بهر دو عالم ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

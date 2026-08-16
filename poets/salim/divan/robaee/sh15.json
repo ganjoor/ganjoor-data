@@ -1,0 +1,58 @@
+{
+  "Id": 101806,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/salim/divan/robaee/sh15",
+  "RhymeLetters": "ازاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این عشق مانند نوری است که زندگی را روشن می‌کند و جان ما را مانند شعله‌ای زنده نگه می‌دارد. عشق برای مردان، بیماری‌ای است شبیه تب و یرقان که می‌تواند آنها را تحت تأثیر قرار دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازاست",
+      "PlainText": "این عشق که برق عافیت پرداز است\r\nجان پرور ما چو شعله ی آواز است\r\nبیماری عشق در وجود مردان\r\nهمچون تب شیر و یرقان باز است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین عشق که برق عافیت پرداز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان پرور ما چو شعله ی آواز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیماری عشق در وجود مردان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچون تب شیر و یرقان باز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این عشق که برق عافیت پرداز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان پرور ما چو شعله ی آواز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیماری عشق در وجود مردان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچون تب شیر و یرقان باز است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

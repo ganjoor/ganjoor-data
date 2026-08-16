@@ -1,0 +1,58 @@
+{
+  "Id": 118923,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/azar/divan/robaee/sh2",
+  "RhymeLetters": "سبوداورا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان حسرت و longing یک مرغ می‌پردازد که در قفس است و در انتظار آزادی و گنجاندن خود در باغ است. او از ناله‌های همنفس خود سخن می‌گوید و آرزوی آزادی را دارد، اما در نهایت می‌بیند که نغمه‌هایش در قفس باقی مانده و به باغ نمی‌رسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سبوداورا",
+      "PlainText": "آن مرغ که ناله همنفس بود او را\r\nدر کنج قفس باغ هوس بود او را\r\nشد نغمه سرای طرف باغ اما کو\r\nآن ناله که در کنج قفس بود او را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن مرغ، که ناله همنفس بود او را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کنج قفس، باغ هوس بود او را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد نغمه سرای طرف باغ، اما کو؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن ناله، که در کنج قفس بود او را؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن مرغ، که ناله همنفس بود او را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کنج قفس، باغ هوس بود او را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد نغمه سرای طرف باغ، اما کو؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن ناله، که در کنج قفس بود او را؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

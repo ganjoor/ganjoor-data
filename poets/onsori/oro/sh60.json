@@ -1,0 +1,58 @@
+{
+  "Id": 68910,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/onsori/oro/sh60",
+  "RhymeLetters": "اه",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که اگر به معشوق خود بیندیشی، دلت از راه عشق منحرف نخواهد شد. اگر از درد عشق سیر شده‌ای، بهتر است که به او نگاه نکنی. اگر نمی‌خواهی درد بکشی، از عشق دوری کن؛ اما اگر خواهان عشق هستی، نباید بگذاری که دل‌ات به درد دچار شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اه",
+      "PlainText": "منگر تو بدو تا نشود دلت از راه\r\nور سیر شدی ز دل برو کن تو نگاه\r\nور درد نخواهی تو برو عشق مخواه\r\nعشق ار خواهی مکن دل از درد تباه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنگر تو بدو تا نشود دلت از راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور سیر شدی ز دل برو کن تو نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور درد نخواهی تو برو عشق مخواه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق ار خواهی مکن دل از درد تباه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منگر تو بدو تا نشود دلت از راه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور سیر شدی ز دل برو کن تو نگاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ور درد نخواهی تو برو عشق مخواه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشق ار خواهی مکن دل از درد تباه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

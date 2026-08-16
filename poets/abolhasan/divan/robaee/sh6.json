@@ -1,0 +1,58 @@
+{
+  "Id": 96269,
+  "CatId": 2478,
+  "Title": "شمارهٔ  ۶",
+  "FullTitle": "ابوالحسن فراهانی » دیوان اشعار » رباعیات » شمارهٔ  ۶",
+  "FullUrl": "/abolhasan/divan/robaee/sh6",
+  "RhymeLetters": "الاستتورا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به تأملات عمیق و پیچیده درباره انسان‌ها و وضعیت اجتماعی اشاره دارد. او از احساسات و مشکلاتی که در ارتباط با مردم و جامعه وجود دارد سخن می‌گوید. خواب‌هایی که به ظاهر مجازند، ولی در حقیقت مضرند و خون‌هایی که به نظر ممنوع می‌آیند، ولی در واقع در جامعه‌ای که در آن زندگی می‌کنیم، عادی شده‌اند، نشان‌دهنده تناقضات و چالش‌های موجود است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الاستتورا",
+      "PlainText": "ای مردم چشمم چه وبال است تو را\r\nعکس همه مردمی چه حال است تو را\r\nخوابی که حلال است حرام است به تو\r\nخونی که حرام است حلال است تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مردم چشمم چه وبال است تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعکس همه مردمی چه حال است تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوابی که حلال است حرام است به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخونی که حرام است حلال است تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مردم چشمم چه وبال است تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عکس همه مردمی چه حال است تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوابی که حلال است حرام است به تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خونی که حرام است حلال است تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 75809,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۶۲",
+  "FullUrl": "/nezari/robnez/sh62",
+  "RhymeLetters": "لاست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به ناتوانی عقل و خرد در مقابل بیداد و مشکلات اشاره دارد. فریاد و ناله‌ها از طبیعت و عناصر چهارگانه (باد، آتش، آب و گل) ناشی می‌شود. اگر عقل و دل به شدت تحت تأثیر قرار بگیرند، به خوبی می‌توان فهمید که چه چیزهایی از ما بدتر و مشکل‌تر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لاست",
+      "PlainText": "بیداد ز عقل و خرد و هوش و دل است\r\nفریاد ز باد و آتش و آب و گل است\r\nگر می خورد و عقل و دل و خوش برد\r\nگر می بیند کو بتر از من بحل است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیداد ز عقل و خرد و هوش و دل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد ز باد و آتش و آب و گل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر می خورد و عقل و دل و خوش برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر می بیند کو بتر از من بحل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیداد ز عقل و خرد و هوش و دل است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فریاد ز باد و آتش و آب و گل است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر می خورد و عقل و دل و خوش برد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر می بیند کو بتر از من بحل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

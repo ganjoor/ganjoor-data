@@ -1,0 +1,58 @@
+{
+  "Id": 47576,
+  "CatId": 1726,
+  "Title": "قطعهٔ شمارهٔ ۲۵",
+  "FullTitle": "شاه نعمت‌الله ولی » قطعات » قطعهٔ شمارهٔ ۲۵",
+  "FullUrl": "/shahnematollah/ghetesh/sh25",
+  "RhymeLetters": "ست",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که در واقع همه چیز یکی است و تفاوت‌هایی که ما درک می‌کنیم، توهمی بیش نیست. عقل می‌گوید که چیزهای جداگانه‌ای وجود دارد، اما در حقیقت، همه اجزای هستی مانند موج، دریا و حباب، به یک حقیقت واحد متصل‌اند. قطره آبی که به دریا می‌پیوندد، نماد این وحدت و پیوستگی است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "نزد ما عین نیست غیری کو\r\nعقل گوید که عین و غیری هست\r\nموج و بحر و حباب و دریا شد \r\nقطره آب کو به ما پیوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنزد ما عین نیست غیری کو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل گوید که عین و غیری هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eموج و بحر و حباب و دریا شد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطرهٔ آب کو به ما پیوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نزد ما عین نیست غیری کو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عقل گوید که عین و غیری هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "موج و بحر و حباب و دریا شد ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قطرهٔ آب کو به ما پیوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

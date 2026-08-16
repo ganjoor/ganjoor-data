@@ -1,0 +1,58 @@
+{
+  "Id": 29560,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۰۲",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۰۲",
+  "FullUrl": "/moulavi/shams/robaeesh/sh102",
+  "RhymeLetters": "اب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات از شاعر به مخالفت و تضاد میان دو شخص اشاره دارد. شاعر می‌گوید که هر دو در موضوعات مختلف همیشه با هم مخالفت داریم. او همچنین به بخت خود و هم‌چنین بخت طرف مقابل اشاره می‌کند و بیان می‌کند که او در خواب نرفته و در مقابل، طرف مقابل در خواب است و از واقعیت دور شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "سبحان الله من و تو ای در خوشاب\r\nپیوسته مخالفیم اندر همه باب\r\nمن بخت توام که هیچ خوابم نبرد\r\nتو بخت منی که برنیایی از خواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسبحان‌الله من و تو ای در خوشاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیوسته مخالفیم اندر همه باب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بخت توام که هیچ خوابم نبرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو بخت منی که برنیایی از خواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سبحان‌الله من و تو ای در خوشاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوسته مخالفیم اندر همه باب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من بخت توام که هیچ خوابم نبرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو بخت منی که برنیایی از خواب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 64820,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۲۳",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۲۳",
+  "FullUrl": "/ebnehesam/robaeebn/sh23",
+  "RhymeLetters": "وکرد",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به نکته‌ای اشاره دارد که خداوند همیشه کارهای نیک انجام می‌دهد، در حالی که انسان‌ها معمولاً بد عمل می‌کنند. به عبارت دیگر، با وجود خوبی‌های خدا، انسان‌ها به خاطر رفتارهای خود به بدی روی می‌آورند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وکرد",
+      "PlainText": "لطفت همه کارهای او نیکو کرد\r\nآری همه کارهای ما نیک او کرد\r\nاو نیکو کرد و ما همه بد کردیم\r\nما را به نکو کاری خود بدخو کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطفت همه کارهای او نیکو کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری همه کارهای ما نیک او کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو نیکو کرد و ما همه بد کردیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما را به نکو کاری خود بدخو کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لطفت همه کارهای او نیکو کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آری همه کارهای ما نیک او کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او نیکو کرد و ما همه بد کردیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما را به نکو کاری خود بدخو کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

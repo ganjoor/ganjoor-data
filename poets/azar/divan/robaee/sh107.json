@@ -1,0 +1,58 @@
+{
+  "Id": 119028,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۰۷",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۷",
+  "FullUrl": "/azar/divan/robaee/sh107",
+  "RhymeLetters": "وس",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به توصیف خسرو می‌پردازد که مانند روی عروس، زیبایی خاصی دارد. او شراب می‌نوشد و لب‌های شیرینش را می‌بوسد. در این حال، هم صدای نی را می‌شنود و هم ناله‌ی طبل را، و هر کاری که می‌خواهد انجام می‌دهد. اما در نهایت، احساس افسوس و پشیمانی دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وس",
+      "PlainText": "خسرو کآراست ملک چون روی عروس\r\nنوشید می و به لعل شیرین زد بوس\r\nهم نغمه ی نی شنید و هم ناله ی کوس\r\nهر کار که خواست کرد لیکن افسوس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخسرو، کآراست ملک چون روی عروس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوشید می و به لعل شیرین زد بوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم نغمه ی نی شنید و هم ناله ی کوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کار که خواست کرد، لیکن افسوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خسرو، کآراست ملک چون روی عروس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوشید می و به لعل شیرین زد بوس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم نغمه ی نی شنید و هم ناله ی کوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر کار که خواست کرد، لیکن افسوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

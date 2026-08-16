@@ -1,0 +1,58 @@
+{
+  "Id": 83439,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۷۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۷۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh278",
+  "RhymeLetters": "مندرامانم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از بیهوده‌گشتن در دنیا و جستجو برای معنا و هدف صحبت می‌کند. او به این نتیجه می‌رسد که هدف واقعی او تنها عشق و نزدیکی به معشوقش بوده است. همچنین، او با اشاره به نهادن سر به خاک برای عبادت، بیان می‌کند که هیچ نیازی به سجده برای رسیدن به خواسته‌های دنیوی نداشته است. در واقع، او نشان می‌دهد که عشق و ایمان به معشوقش بالاتر از تمام زیبایی‌ها و جاذبه‌های دنیا است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایدوعالم",
+      "PlainText": "بیهوده نگشتم به سراپای دو عالم\r\nمنظور تو بودی ز تماشای دو عالم\r\nخم کردن سر بهر طمع طاعت بت بود\r\nیک سجده نکردم به تمنای دو عالم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیهوده نگشتم به سراپای دو عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنظور تو بودی ز تماشای دو عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخم کردن سر، بهر طمع، طاعت بُت بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک سجده نکردم به تمنّای دو عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیهوده نگشتم به سراپای دو عالم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منظور تو بودی ز تماشای دو عالم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خم کردن سر، بهر طمع، طاعت بُت بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک سجده نکردم به تمنّای دو عالم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "Id": 107290,
+  "CatId": 2587,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » ملحقات » شمارهٔ ۷",
+  "FullUrl": "/daye/divan/molhaghat/sh7",
+  "RhymeLetters": "ان",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، به تصویر زیبا و دلنشینی از کوه قاف و سیمرغ اشاره شده است. سیمرغ به عنوان نماد موفقیت و کمال، سایه‌اش بر کوه قاف افکنده و از دامن او عقابی پرواز می‌کند. این پرواز و زخم پرش عقاب به مانند نبردی میان سحر و شب توصیف شده است که در نهایت دست صبح با تیغ آفتاب به جنگ شب می‌شتابد. این متن به نمادسازی از زیبایی و قدرت طبیعی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تاب",
+      "PlainText": "بر کوه قاف سایه سیمرغ کامیاب\r\nکز دامنش عقاب بپرد به صد عتاب\r\nزخم پرش چنانکه سحر گه به جنگ شب\r\nدست سپیده دم بکشد تیغ آفتاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر کوه قاف سایهٔ سیمرغ کامیاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز دامنش عقاب بپرد به صد عتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزخم پرش چنانکه سحر گه به جنگ شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست سپیده دم بکشد تیغ آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "بر کوه قاف سایه سیمرغ کامیاب\r\nکز دامنش عقاب بپرد به صد عتاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر کوه قاف سایهٔ سیمرغ کامیاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز دامنش عقاب بپرد به صد عتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ب",
+      "PlainText": "زخم پرش چنانکه سحر گه به جنگ شب\r\nدست سپیده دم بکشد تیغ آفتاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزخم پرش چنانکه سحر گه به جنگ شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست سپیده دم بکشد تیغ آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر کوه قاف سایهٔ سیمرغ کامیاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز دامنش عقاب بپرد به صد عتاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زخم پرش چنانکه سحر گه به جنگ شب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دست سپیده دم بکشد تیغ آفتاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    }
+  ]
+}

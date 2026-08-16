@@ -1,0 +1,58 @@
+{
+  "Id": 70141,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/amir/robam/sh98",
+  "RhymeLetters": "شید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به قدرت و تاثیر اراده و تدبیر شاه اشاره می‌کند. زمانی که دل شاه در جستجوی تدبیر باشد، کمک و یاری از عالم مقدر برای او می‌آید. همچنین، شاعر بر این نکته تأکید می‌کند که شمشیر شاه می‌تواند جهان را در اختیار او قرار دهد و هر کسی که با اراده و قدرت او روبرو شود، به او تسلیم خواهد شد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یراید",
+      "PlainText": "شاها چو دلت در صف تدبیر آید\r\nاو را مدد از عالم تقدیر آید\r\nتیغ تو جهان گرفت آری شک نیست\r\nآن راکه تو برکشی جهانگیر آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها چو دلت در صف تدبیر آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را مدد از عالم تقدیر آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیغ تو جهان‌گرفت آری شک نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن راکه تو برکشی جهانگیر آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها چو دلت در صف تدبیر آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او را مدد از عالم تقدیر آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیغ تو جهان‌گرفت آری شک نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن راکه تو برکشی جهانگیر آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83414,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۵۳",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۵۳",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh253",
+  "RhymeLetters": "لستم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عشق و زیبایی معشوقش اشاره می‌کند و از آن چون لاله‌ای داغ و سوزان طلب می‌کند. او در دل آرزو دارد که شب‌هنگام، معشوقش را در خواب ببیند و برای روشنایی و امید در زندگی‌اش، نوری می‌طلبد. شاعر خود را گدایی در کوی عشق توصیف می‌کند که به دنبال الهام و روشنی است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغمیطلبم",
+      "PlainText": "به عشق روی تو چون لاله داغ می طلبم\r\nگدای کوی مغانم ایاغ می طلبم\r\nشبی به خواب من تیره روزگار بیا\r\nسیاه خیمه نشینم چراغ می طلبم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عشق روی تو، چون لاله داغ می طلبم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگدای کوی مغانم، ایاغ می طلبم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی به خواب من تیره روزگار بیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیاه خیمه نشینم، چراغ می طلبم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به عشق روی تو، چون لاله داغ می طلبم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گدای کوی مغانم، ایاغ می طلبم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبی به خواب من تیره روزگار بیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیاه خیمه نشینم، چراغ می طلبم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 93839,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/ebneyamin/divan/robaee/sh73",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان تغییرات و ناپایداری‌های زندگی می‌پردازند. در واقع، آنچه که وجود دارد، دائمی نیست و آنچه که وجود ندارد نیز هرگز به وجود نخواهد آمد. به نوعی، این شعر به گردش زمان و عدم ثبات اوضاع اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "این برشده دولاب که گردد پیوست\r\nگاهیش بلند بینی و گاهی پست\r\nهرچیز که هست نیست هرگز نشود\r\nو آن نیز که نیست هم نخواهد شد هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین برشده دولاب که گردد پیوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهیش بلند بینی و گاهی پست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچیز که هست نیست هرگز نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آن نیز که نیست هم نخواهد شد هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این برشده دولاب که گردد پیوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گاهیش بلند بینی و گاهی پست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچیز که هست نیست هرگز نشود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "و آن نیز که نیست هم نخواهد شد هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

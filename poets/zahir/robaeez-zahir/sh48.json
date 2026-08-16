@@ -1,0 +1,58 @@
+{
+  "Id": 73640,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/zahir/robaeez-zahir/sh48",
+  "RhymeLetters": "انمیاید",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر احساسات درونی خود را با تصاویری از آتش و شمع توصیف می‌کند. او به شدت از درد و رنج درونی رنج می‌برد و می‌گوید که همچون شمعی که می‌سوزد، از دلش آتش برمی‌خیزد. جانش نزدیک به لبانش است و زبانش تاب بیان این احساس را ندارد. در نهایت، او اشاره می‌کند که این آتش دلش به قدری شدید است که به نوعی به آب شدن و تسکین در دهانش می‌انجامد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمیاید",
+      "PlainText": "چو شمع تنم ز دل به جان می آید\r\nجانم به لب از تاب زبان می آید\r\nزین آتش دل خوشم چنان می آید\r\nکز آتش آب در دهان می آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شمع تنم ز دل به جان می آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانم به لب از تاب زبان می آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین آتش دل خوشم چنان می آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز آتش آب در دهان می آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو شمع تنم ز دل به جان می آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانم به لب از تاب زبان می آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین آتش دل خوشم چنان می آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز آتش آب در دهان می آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

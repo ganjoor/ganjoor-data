@@ -1,0 +1,58 @@
+{
+  "Id": 112343,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/sahab/divan/robaee/sh19",
+  "RhymeLetters": "اقتونکرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این اشعار از وفاداری و محبت خود نسبت به معشوق سخن می‌گوید. او می‌گوید هرگز از کسی جز خود معشوق گله نکرده و تنها به خاطر وفایش از او سپاس‌گزاری کرده است. همچنین در محفل رقیبان، ملاقات معشوق را تجربه کرده که در طول یک عمر فراق، چنین فرصتی نداشته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقتونکرد",
+      "PlainText": "هرگز گله از غیر نفاق تو نکرد\r\nجز وصف وفا شکر وفاق تو نکرد\r\nدر بزم رقیب دوش وصل تو به من\r\nکرد آنچه به یک عمر فراق تو نکرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز گله از غیر نفاق تو نکرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز وصف وفا شکر وفاق تو نکرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بزم رقیب دوش وصل تو به من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد آنچه به یک عمر فراق تو نکرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگز گله از غیر نفاق تو نکرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز وصف وفا شکر وفاق تو نکرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بزم رقیب دوش وصل تو به من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کرد آنچه به یک عمر فراق تو نکرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

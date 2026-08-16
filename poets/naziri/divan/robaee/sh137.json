@@ -1,0 +1,58 @@
+{
+  "Id": 123703,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۳۷",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۳۷",
+  "FullUrl": "/naziri/divan/robaee/sh137",
+  "RhymeLetters": "ورتری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها به عمق و دوری از حکمت اشاره دارند. شاعر بیان می‌کند که هر چه به حکمت نزدیک‌تر شویم، درک ما از مسائل بهتری پیدا می‌کنیم. در عین حال، هنگامی که از کسی که خود درک کمتری دارد، راهنمایی می‌خواهیم، نشان‌دهنده نادانی خودمان است. به عبارت دیگر، باید به دنبال دانش و آگاهی واقعی بگردیم تا بتوانیم مسیر درستی را پیدا کنیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورتری",
+      "PlainText": "چندان که به حکمت گروی دورتری\r\nتا می شمری نجوم بی نورتری\r\nآن کور که تو راه ازو می پرسی\r\nاو می داند که تو ازو کورتری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان که به حکمت گروی دورتری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا می شمری نجوم بی نورتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کور که تو راه ازو می پرسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو می داند که تو ازو کورتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چندان که به حکمت گروی دورتری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا می شمری نجوم بی نورتری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن کور که تو راه ازو می پرسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او می داند که تو ازو کورتری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

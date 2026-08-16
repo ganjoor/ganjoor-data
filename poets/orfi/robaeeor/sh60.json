@@ -1,0 +1,58 @@
+{
+  "Id": 48779,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۶۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۶۰",
+  "FullUrl": "/orfi/robaeeor/sh60",
+  "RhymeLetters": "ات",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر اشتیاق و حسرت شاعر به لبان معشوق است. شاعر می‌گوید که شوق لبان معشوق او را از صبر و آرامش دور کرده و طعم تلخ عشق را با شیرینی لبخند او ترکیب کرده است. همچنین، بیان می‌شود که اگرچه زمان مرگ محتوم است، لیکن عشق و محبت همچنان زندگی را حیات می‌بخشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ات",
+      "PlainText": "ای شوق لبت ز صبر من برده ثبات\r\nتلخ از شکرین تبسمت کام نبات\r\nمشتاق لبت را چو اجل خون ریزد\r\nاز تیغ اجل فرو چکد آب حیات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شوق لبت ز صبر من برده ثبات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتلخ از شکرین تبسمت کام نبات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشتاق لبت را چو اجل خون ریزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تیغ اجل فرو چکد آب حیات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شوق لبت ز صبر من برده ثبات",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تلخ از شکرین تبسمت کام نبات",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مشتاق لبت را چو اجل خون ریزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از تیغ اجل فرو چکد آب حیات",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

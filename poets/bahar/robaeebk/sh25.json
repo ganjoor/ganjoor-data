@@ -1,0 +1,58 @@
+{
+  "Id": 51748,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/bahar/robaeebk/sh25",
+  "RhymeLetters": "ابمنبرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از دوری دوست ناله می‌کند و می‌گوید که به خاطر این درد فراق نتوانسته خوابش ببرد. او نه به شمع و کتاب که نشانه‌های آرامش هستند، توجهی ندارد و از شدت حسرت، چشمانش پر از اشک است. بنابراین، بیدار نشسته تا مبادا اشک‌ها او را ببرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابمنبرد",
+      "PlainText": "امشب ز فراق دوست خوابم نبرد\r\nهم دل به سوی شمع و کتابم نبرد\r\nاز بس که دو دیده آب حسرت بارد\r\nبیدار نشسته ام که آبم نبرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب ز فراق دوست خوابم نبرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم دل به سوی شمع و کتابم نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که دو دیده آب حسرت بارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیدار نشسته‌ام که آبم نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب ز فراق دوست خوابم نبرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم دل به سوی شمع و کتابم نبرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که دو دیده آب حسرت بارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیدار نشسته‌ام که آبم نبرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

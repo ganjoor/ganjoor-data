@@ -1,0 +1,58 @@
+{
+  "Id": 91344,
+  "CatId": 2384,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "اسیری لاهیجی » دیوان اشعار » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/asiri/divan/robaee/sh18",
+  "RhymeLetters": "ایتورفت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از گذر عمر و سرمایه‌اش به خاطر عشق و علاقه به معشوق سخن می‌گوید. او احساس می‌کند که تمام جوانی و انرژی‌اش صرف این عشق شده و در نتیجه از دنیا و خوشی‌های آن بی‌نصیب مانده است. علاوه بر این، او داغ فراق و غم‌های ناشی از دوری را به دوش می‌کشد و از این دردها رنج می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتورفت",
+      "PlainText": "سرمایه عمر من بسودای تو رفت\r\nنقد دو جهان مرا بیغمای تو رفت\r\nجان و دلم از جهان بصد حسرت و آه\r\nبا درد فراق وداغ غم های تو رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرمایه عمر من بسودای تو رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقد دو جهان مرا بیغمای تو رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان و دلم از جهان بصد حسرت و آه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا درد فراق وداغ غم های تو رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرمایه عمر من بسودای تو رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقد دو جهان مرا بیغمای تو رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان و دلم از جهان بصد حسرت و آه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با درد فراق وداغ غم های تو رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

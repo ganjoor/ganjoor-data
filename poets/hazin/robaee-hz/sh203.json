@@ -1,0 +1,58 @@
+{
+  "Id": 83100,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۰۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۰۳",
+  "FullUrl": "/hazin/robaee-hz/sh203",
+  "RhymeLetters": "ادهمنم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساس آزادی خود در میان سختی‌ها و ظلمت هستی اشاره می‌کند. او خود را مانند شمعی می‌بیند که در زیر تیغ ایستاده است و نشان‌دهندهٔ استقامت اوست. همچنین، او به خالی بودن میخانه و بی‌ساقی آن اشاره می‌کند و خود را به عنوان باده‌ای که در این خمخانه وجود دارد، معرفی می‌کند. این ابیات نمادی از تلاش و سختی‌های زندگی و در عین حال امیدواری به آزادی و ادامهٔ زندگی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادهمنم",
+      "PlainText": "از ظلمت هستی خود آزاده منم\r\nچون شمع به زیرتیغ استاده منم\r\nپیمانه مشرب حریفان خالی ست\r\nخمخانهء چرخ راکهن باده منم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ظلمت هستی خود آزاده منم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شمع به زیرتیغ، استاده منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیمانهٔ مشرب حریفان خالی ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخمخانهء چرخ راکهن باده منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از ظلمت هستی خود آزاده منم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شمع به زیرتیغ، استاده منم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیمانهٔ مشرب حریفان خالی ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خمخانهء چرخ راکهن باده منم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83148,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۵۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۵۱",
+  "FullUrl": "/hazin/robaee-hz/sh251",
+  "RhymeLetters": "ان",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از دنیای زهد و پرهیزکاری صحبت می‌کند و به نوعی از زندگی خود که به دور از آلودگی و گناه است، یاد می‌کند. او از دوستانش نیز جدا شده و به نماز و مکان‌های مقدس اشاره دارد. در نهایت، او از دوستانش می‌خواهد تا او را فراموش نکنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "آلوده زهد کرده ام دامانی\r\nوجهت من المسجد نحو الحان\r\nما رخت ز کوی نیکنامی بردیم\r\nنستودعکم معاشر الاخوان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآلودهٔ زهد کرده ام دامانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوجّهت مِنَ المسجدِ نحو الحانِ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما رخت ز کوی نیکنامی بردیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنستودِعُکُم معاشر الاخوانِ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آلودهٔ زهد کرده ام دامانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وجّهت مِنَ المسجدِ نحو الحانِ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما رخت ز کوی نیکنامی بردیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نستودِعُکُم معاشر الاخوانِ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1186,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۶۸",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۶۸",
+  "FullUrl": "/khayyam/robaee/sh68",
+  "RhymeLetters": "یرنشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به این ایده اشاره دارد که هیچ کس بر چرخ فلک (حیات و روزگار) تسلط ندارد و انسان‌ها هرگز از تجربه زندگی خود سیر نمی‌شوند. همچنین به نوعی هشدار می‌دهد که مغرور نشوید و فکر نکنید که به موقع از زندگی لذت می‌برید، چرا که زمان همه ما را در بر خواهد گرفت و همه به سرانجام یکسانی می‌رسیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرنشد",
+      "PlainText": "بر چرخ فلک هیچ کسی چیر نشد\r\nوز خوردن آدمی زمین سیر نشد\r\nمغرور بدانی که نخورده ست تو را\r\nتعجیل مکن هم بخورد دیر نشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر چرخ فلک هیچ کسی چیر نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز خوردن آدمی زمین سیر نشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمغرور بدانی که نخورده‌ست تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعجیل مکن هم بخورَد دیر نشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر چرخ فلک هیچ کسی چیر نشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خوردن آدمی زمین سیر نشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مغرور بدانی که نخورده‌ست تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تعجیل مکن هم بخورَد دیر نشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 51740,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/bahar/robaeebk/sh17",
+  "RhymeLetters": "پوست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از دوستش می‌خواهد که با طلوع خورشید برخیزد و از عشق بگوید. او عشق میان خود و دوستش را به نبردی با مشت و درفش تشبیه می‌کند و به تنش بین احساسات و واقعیت‌های زندگی اشاره می‌کند. همچنین، این دوستی را با سنگ و سبو مقایسه می‌کند که به تضاد میان سختی و لطافت اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "پوست",
+      "PlainText": "برخاست خروس صبح برخیز ای دوست\r\nز انگور بگیر خون و ده در رگ و پوست\r\nعشق من و تو قصه مشت است و درفش\r\nجور تو و دل صحبت سنگ است و سبوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخاست خروس صبح برخیز ای دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز انگور بگیر خون و ده در رگ و پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق من و تو قصهٔ مشت است و درفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجور تو و دل صحبت سنگ است و سبوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برخاست خروس صبح برخیز ای دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز انگور بگیر خون و ده در رگ و پوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق من و تو قصهٔ مشت است و درفش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جور تو و دل صحبت سنگ است و سبوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

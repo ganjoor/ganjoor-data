@@ -1,0 +1,58 @@
+{
+  "Id": 2063,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱۳",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱۳",
+  "FullUrl": "/hafez/robaee2/sh13",
+  "RhymeLetters": "نشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به این نکته اشاره می‌کند که هر دوستی که از وفا صحبت می‌کند، ممکن است به عنوان یک دشمن ظاهر شود. همچنین، هر کسی که به نظر پاک و معصوم می‌رسد، ممکن است به دلیل طمع و خیانت ناپاک باشد. در انتها، شاعر با اشاره به شب آبستن، از عجیب بودن وضعیتی سخن می‌گوید که در آن مردی وجود ندارد، در حالی که وضعیت بارداری به وجود آمده است. این ابیات به تضادها و مشکلات در روابط انسانی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نشد",
+      "PlainText": "هر دوست که دم زد ز وفا دشمن شد\r\nهر پاک روی که بود تردامن شد\r\nگویند شب آبستن و این است عجب\r\nکـ او مرد ندید از چه آبستن شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دوست که دَم زد زِ وفا، دشمن شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر پاک‌رُوی که بود، تَردامن شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند شب آبِستَن و این است عجب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکـ‌او مَرد ندید، از چه آبستن شد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر دوست که دَم زد زِ وفا، دشمن شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر پاک‌رُوی که بود، تَردامن شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویند شب آبِستَن و این است عجب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کـ‌او مَرد ندید، از چه آبستن شد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

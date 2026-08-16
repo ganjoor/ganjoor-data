@@ -1,0 +1,58 @@
+{
+  "Id": 103159,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/jooya/divan/robaee/sh105",
+  "RhymeLetters": "ارشوی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به احساسات عاشقانه و درد عاطفی اشاره دارد. شاعر از یاری می‌گوید که زیبایی‌اش او را دچار غم و اضطراب کرده است. او از یار می‌خواهد که به او توجه کند و در عذابی که باعث شده، شریک شود. به طور کلی، شعر بیانگر زخم‌های عاطفی و longing برای عشق واقعی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارشوی",
+      "PlainText": "ای دل تا کی به گلرخان یار شوی\r\nبینم که تو هم چو دیده خونبار شوی\r\nآشفته حسن بد بلایم کردی\r\nیارب به بلای بد گرفتار شوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل تا کی به گلرخان یار شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبینم که تو هم چو دیده خونبار شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشفتهٔ حسن بد بلایم کردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب به بلای بد گرفتار شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل تا کی به گلرخان یار شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بینم که تو هم چو دیده خونبار شوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آشفتهٔ حسن بد بلایم کردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یارب به بلای بد گرفتار شوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

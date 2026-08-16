@@ -1,0 +1,59 @@
+{
+  "Id": 52045,
+  "CatId": 1849,
+  "Title": "فقرۀ ۵۴",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۵۴",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh51",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی زنی بافرهنگ و باخرد است که دارای ویژگی‌های مثبت مانند شرم و آرامش است. شاعر به اهمیت چنین زنی به عنوان یک همیار و دوست در زندگی اشاره می‌کند و از او به عنوان الگویی از هشیاری و فرزانگی یاد می‌کند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "زن باخرد را ز جان دوست دار\r\nکه باشد زن باخرد دستیار\r\nزنی جوی فرزانه و شرمگین\r\nهشیوار و آرام و آرزمگین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن باخرد را ز جان دوست دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باشد زن باخرد دستیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنی جوی فرزانه و شرمگین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهشیوار و آرام و آرزمگین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "زن فرزانه و شرمگین دوست دار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "زن باخرد را ز جان دوست دار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "که باشد زن باخرد دستیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "زنی جوی فرزانه و شرمگین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "هشیوار و آرام و آرزمگین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45654,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۴",
+  "FullUrl": "/ghaani/ghetegh/sh14",
+  "RhymeLetters": "یب",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این موضوع اشاره دارد که انسان‌ها معمولاً از عیوب و نقص‌های خود بی‌خبرند و در عوض، عیوب دیگران را می‌بینند و مورد قضاوت قرار می‌دهند. همچنین، اشاره به این دارد که فردی که خود در مشکلی گرفتار است، چرا باید مسبب درد و رنج دیگران شود. به عبارت دیگر، این اشعار به انتقاد از خودخواهی و عدم آگاهی انسان‌ها نسبت به وضعیت خود و دیگران پرداخته است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یب",
+      "PlainText": "مردکز عیب خویش بیخبرست\r\nهنر دیگران شمارد عیب\r\nجام بیچارگان چرا شکند\r\nآنکه مینای می نهد در جیب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردکز عیب خویش بیخبرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنر دیگران شمارد عیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجام بیچارگان چرا شکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه مینای می نهد در جیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردکز عیب خویش بیخبرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنر دیگران شمارد عیب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جام بیچارگان چرا شکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنکه مینای می نهد در جیب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

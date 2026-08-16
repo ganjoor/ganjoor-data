@@ -1,0 +1,58 @@
+{
+  "Id": 119543,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/neshat/divan/robaee/sh9",
+  "RhymeLetters": "ست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی و جذابیت پا و زلف محبوبش اشاره می‌کند. او می‌گوید که هر قدم محبوب، نقش و اثری بر دل او می‌گذارد و زلفی که دلش به آن گره خورده است، درد و حسرتی را برای او ایجاد می‌کند. شاعر آرزو می‌کند که بتواند به چهره محبوبش نگاه کند و دستی بر آن بگذارد، اما از این که نتواند، غمگین است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "پایی که بجان هر قدمی نقشی بست\r\nزلفی که دلی از آن بهر تارش بست\r\nدردا نگذارد که بدان سایم رخ\r\nآوخ نپسندد که بدان آرم دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپایی که بجان هر قدمی نقشی بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلفی که دلی از آن بهر تارش بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردا نگذارد که بدان سایم رخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآوخ نپسندد که بدان آرم دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پایی که بجان هر قدمی نقشی بست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلفی که دلی از آن بهر تارش بست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دردا نگذارد که بدان سایم رخ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آوخ نپسندد که بدان آرم دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83256,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۹۵",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh95",
+  "RhymeLetters": "اچهحاجتاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ملاقات با چشمان زیبا و جذاب یک معشوق اشاره می‌کند که اثر عمیقی بر دل او گذاشته است. او با احساس غم و خستگی، در تلاش است که با نوشیدن شراب، خود را از این احساس رها کند، اما سایه ضعف و سرخوشی ناکامش، او را در فشار قرار می‌دهد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگداشت",
+      "PlainText": "روزی که غمزه اش به من خسته جنگ داشت\r\nهر جای دل که دست نهادم خدنگ داشت\r\nمی خواستم که خرقه به ساغر بیفشرم\r\nضعف خمار دست مرا زیر سنگ داشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی که غمزه اش به من خسته جنگ داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر جای دل که دست نهادم، خدنگ داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی خواستم که خرقه به ساغر بیفشرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eضعف خمار، دست مرا زیر سنگ داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزی که غمزه اش به من خسته جنگ داشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر جای دل که دست نهادم، خدنگ داشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می خواستم که خرقه به ساغر بیفشرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ضعف خمار، دست مرا زیر سنگ داشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

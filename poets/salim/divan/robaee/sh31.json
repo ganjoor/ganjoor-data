@@ -1,0 +1,58 @@
+{
+  "Id": 101822,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/salim/divan/robaee/sh31",
+  "RhymeLetters": "وت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: اگر فیض تو نباشد، هیچ چیز نمی‌تواند قوت و قدرت پیدا کند. همان‌طور که دریا اگر نباشد، صدف نمی‌تواند گوهر را در بر داشته باشد. اگر لطف تو به موجودات نرسد، یاقوت هم به آتش می‌سوزد و رنگ خود را از دست می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وت",
+      "PlainText": "در بحر نیابد اگر از فیض تو قوت\r\nاورنگ صدف شود گهر را تابوت\r\nگر زان که نه لطف تو برو آب زند\r\nدر آتش رنگ خود بسوزد یاقوت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بحر نیابد اگر از فیض تو قوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاورنگ صدف شود گهر را تابوت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زان که نه لطف تو برو آب زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آتش رنگ خود بسوزد یاقوت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بحر نیابد اگر از فیض تو قوت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اورنگ صدف شود گهر را تابوت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر زان که نه لطف تو برو آب زند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آتش رنگ خود بسوزد یاقوت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70115,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/amir/robam/sh72",
+  "RhymeLetters": "انیشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر به این موضوع اشاره می‌شود که اگر نعمت و ثروت دشمن بر تو زیاد شود، باید به عاقبت آن توجه کنی که چگونه از رنج و درد به وجود می‌آید. مثال قارون نیز آورده شده که هرچند او به خاطر مال و ثروتش سرشناس بود، اما در نهایت در زیر زمین گم شد و به عاقبتی ناپسند دچار گردید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونشد",
+      "PlainText": "گر نعمت دشمنت ز حد بیرون شد\r\nبنگر که به عاقبت ز محنت چون شد\r\nاز قارون  گر به مال و گنج افزون شد\r\nدر زیر زمین نهفته چون قارون شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نعمت دشمنت ز حد بیرون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنگر که به عاقبت ز محنت چون شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز قارون‌ گر به مال و گنج افزون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زیر زمین نهفته چون قارون شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر نعمت دشمنت ز حد بیرون شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنگر که به عاقبت ز محنت چون شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از قارون‌ گر به مال و گنج افزون شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در زیر زمین نهفته چون قارون شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

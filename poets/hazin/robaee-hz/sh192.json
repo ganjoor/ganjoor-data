@@ -1,0 +1,58 @@
+{
+  "Id": 83089,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۹۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۹۲",
+  "FullUrl": "/hazin/robaee-hz/sh192",
+  "RhymeLetters": "انیدارم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساسات عمیق عاشقانه و دردهای درونی خود سخن می‌گوید. او بیان می‌کند که با وجود اشک‌ها و رنج‌ها، از عشق و خوشبختی‌ای که از معشوق به دست آورده است، رضایت دارد. در واقع، این رنج‌ها بخشی از تجربه عاشقانه او هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیدارم",
+      "PlainText": "رخ تازه به اشک ارغوانی دارم\r\nاز دولت عشق کامرانی دارم\r\nخون دل و اشک دیده و آه جگر\r\nاینها همه از تو یار جانی دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخ، تازه به اشک ارغوانی دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دولت عشق، کامرانی دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخون دل و اشک دیده و آه جگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینها همه از تو یار جانی دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخ، تازه به اشک ارغوانی دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دولت عشق، کامرانی دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون دل و اشک دیده و آه جگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینها همه از تو یار جانی دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

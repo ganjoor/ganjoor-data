@@ -1,0 +1,58 @@
+{
+  "Id": 83056,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۶۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۶۸",
+  "FullUrl": "/hazin/robaee-hz/sh168",
+  "RhymeLetters": "یزمترس",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به شخصی خطاب می‌کند و او را از ترسیدن از ظلمت و تیرگی شب نهی می‌کند. همچنین به او می‌گوید که نباید از خصم‌های ناچیز هراس داشته باشد، زیرا آنها به اندازه‌ای قوی نیستند که بتوانند به او آسیبی برسانند. به طور کلی، شعر به تقویت روحیه و دوری از ترس و اندوه دعوت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزمترس",
+      "PlainText": "از ظلمت هند سفله انگیز مترس\r\nوز تیرگی شب ای سحرخیز مترس\r\nهرگز باکی ز خصمی هند مدار\r\nنامرد نیی زحملهء حیز مترس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ظلمت هندِ سفله انگیز مترس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تیرگی شب ای سحرخیز مترس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز باکی ز خصمی هند مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامرد نیی، زحملهء حیز مترس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از ظلمت هندِ سفله انگیز مترس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز تیرگی شب ای سحرخیز مترس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز باکی ز خصمی هند مدار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نامرد نیی، زحملهء حیز مترس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

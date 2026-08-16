@@ -1,0 +1,58 @@
+{
+  "Id": 64801,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۴",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۴",
+  "FullUrl": "/ebnehesam/robaeebn/sh4",
+  "RhymeLetters": "وشاست",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت‌ها به توصیف فضایی در خانه و زیبایی خط نویسنده می‌پردازد. او می‌گوید که در خانه‌اش حال و هوای مرزنگوش (نوعی گیاه) حاکم است و خطش چنان نمایان است که گویی خورشید سیاه و خاصی دارد. همچنین، دواتش مانند تاریکی است که از آن، قلم خوشنویس همچون نوشیدنی گوارا بیرون می‌آید. این توصیف‌ها نشان‌دهنده زیبایی و عمق هنر خوشنویسی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشاست",
+      "PlainText": "در خانه تو مزاج مرزنگوش است\r\nوز خط تو افتاب کحلی پوش است\r\nگویی که دواتت ظلماتست کزو\r\nخضر قلم ترا دهان پر نوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خانه تو مزاج مرزنگوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز خط تو افتاب کحلی پوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی که دواتت ظلماتست کزو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخضر قلم ترا دهان پر نوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در خانه تو مزاج مرزنگوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خط تو افتاب کحلی پوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی که دواتت ظلماتست کزو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خضر قلم ترا دهان پر نوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

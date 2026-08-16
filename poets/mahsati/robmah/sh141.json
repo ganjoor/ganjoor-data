@@ -1,0 +1,58 @@
+{
+  "Id": 50201,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۴۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۴۱",
+  "FullUrl": "/mahsati/robmah/sh141",
+  "RhymeLetters": "زوزن",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از زیبایی پسری صحبت می‌کند که در روزن (پنجره) دیده است. او به طرف مقابل می‌گوید که اگر قرار است از زیبایی‌ها سخن بگوید، باید از او فاصله بگیرد. این پسر بر دل شاعر رحم نمی‌کند و با زیبایی‌اش او را تحت تأثیر قرار می‌دهد، به طوری که خود شاعر هم بر دلش رحم نمی‌کند و از این موقعیت لذت می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "زوزن",
+      "PlainText": "دی خوش پسری بدیدم اندر زوزن\r\nگو لاف زنی ز خوبرویان زو زن\r\nاو بر دل من رحم نکرد و زن کرد\r\nخود داد منش همی ستاند زو زن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی خوش پسری بدیدم اندر زوزن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو لاف زنی ز خوبرویان زو زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو بر دل من رحم نکرد و زن کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود داد منش، همی ستاند زو زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی خوش پسری بدیدم اندر زوزن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گو لاف زنی ز خوبرویان زو زن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او بر دل من رحم نکرد و زن کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود داد منش، همی ستاند زو زن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 34560,
+  "CatId": 813,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "عطار » مختارنامه » باب دوازدهم: در شكایت از نفس خود » شمارهٔ ۲۱",
+  "FullUrl": "/attar/mokhtarname/bb12/sh21",
+  "RhymeLetters": "رتو",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به وجود و تاثیر خود بر نفس انسان اشاره می‌کند. او می‌گوید که نفس او به خاطر آلودگی‌هایش تحت تاثیر چیزهای ناپسند است. حتی اگر نفس در آتش بسوزد، باز هم بوی آلودگی او از خاکسترش به مشام می‌رسد. به طور کلی، شاعر در تلاش است تا رابطه پیچیده بین نفس و خویشتن را به تصویر بکشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رتو",
+      "PlainText": "ای نفس فرو گرفته سر تا سر تو\r\nآلوده نجاست منی گوهر تو\r\nگر در آتش به عمر ها می سوزی\r\nهم بوی منی زند ز خاکستر تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نفس فرو گرفته سر‌تا‌سر تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآلوده نجاستِ منی گوهرِ تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در آتش به عمر‌ها می‌سوزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم بوی منی زند ز خاکسترِ تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نفس فرو گرفته سر‌تا‌سر تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آلوده نجاستِ منی گوهرِ تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر در آتش به عمر‌ها می‌سوزی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم بوی منی زند ز خاکسترِ تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

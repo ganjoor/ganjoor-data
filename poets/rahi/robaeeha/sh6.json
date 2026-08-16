@@ -1,0 +1,58 @@
+{
+  "Id": 39573,
+  "CatId": 1332,
+  "Title": "افسونگر",
+  "FullTitle": "رهی معیری » رباعیها » افسونگر",
+  "FullUrl": "/rahi/robaeeha/sh6",
+  "RhymeLetters": "ازمده",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر درخواست می‌کند که یا سلامتی و آرامش را به او بازگردانند، یا اینکه اجازه دهند شکایت و ناله کند. همچنین از خدا می‌خواهد که درد و غم‌هایی را که به او داده بازپس گیرد، یا جان و قلبی که از او گرفته را به او بازگرداند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازمده",
+      "PlainText": "یا عافیت از چشم فسون سازم ده\r\nیا آن که زبان شکوه پردازم ده\r\nیا درد و غمی که داده ای بازش گیر\r\nیا جان و دلی که برده ای بازم ده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا عافیت از چشم فسون‌سازم ده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا آن که زبان شکوه‌پردازم ده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا درد و غمی که داده‌ای بازش گیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا جان و دلی که برده‌ای بازم ده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا عافیت از چشم فسون‌سازم ده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا آن که زبان شکوه‌پردازم ده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا درد و غمی که داده‌ای بازش گیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا جان و دلی که برده‌ای بازم ده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

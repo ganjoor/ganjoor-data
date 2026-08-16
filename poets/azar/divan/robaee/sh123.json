@@ -1,0 +1,58 @@
+{
+  "Id": 119044,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۲۳",
+  "FullUrl": "/azar/divan/robaee/sh123",
+  "RhymeLetters": "نمشکل",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر سختی جدایی و دوری از معشوق است. شاعر از احساس درد و مشکل فراق صحبت می‌کند و می‌گوید که اگر معشوق از او دور شود، او را از این مشکل نجات نخواهد داد. در پایان، شاعر اشاره می‌کند که گفتن حال خود آسان است، اما شنیدن آن برای دیگران دشوار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمشکل",
+      "PlainText": "ای شوخ فراق تو کشیدن مشکل\r\nاز من چو رمیدی آرمین مشکل\r\nگفتی که بگوی حال خود تا شنوم\r\nگفتن آسان ولی شنیدن مشکل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شوخ! فراق تو کشیدن مشکل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز من چو رمیدی، آرمین مشکل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که: بگوی حال خود، تا شنوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتن آسان، ولی شنیدن مشکل!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شوخ! فراق تو کشیدن مشکل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از من چو رمیدی، آرمین مشکل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی که: بگوی حال خود، تا شنوم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتن آسان، ولی شنیدن مشکل!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

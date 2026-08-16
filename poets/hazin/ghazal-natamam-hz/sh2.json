@@ -1,0 +1,58 @@
+{
+  "Id": 83163,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh2",
+  "RhymeLetters": "اختهمارا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احوال آشفته خود و دلشکستگی‌اش در دوری معشوق صحبت می‌کند. او احساس می‌کند که آواره و بی‌سرپناه شده و غم معشوق تمام وجودش را تحت تاثیر قرار داده است. در نهایت از معشوق درخواست می‌کند که به او توجه کند و نجاتش دهد.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اختهمارا",
+      "PlainText": "آواره عالم نگهی ساخته ما را\r\nآن گوشه نشین دربه در انداخته ما را\r\nچون مهره ششدر شده در هجر تو ماتیم\r\nدریاب که نیرنگ غمت باخته ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآوارهٔ عالم، نگهی، ساخته ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن گوشه نشین، دربه در انداخته ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مهرهٔ ششدر شده، در هجر تو ماتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاب که نیرنگ غمت باخته ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آوارهٔ عالم، نگهی، ساخته ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن گوشه نشین، دربه در انداخته ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون مهرهٔ ششدر شده، در هجر تو ماتیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاب که نیرنگ غمت باخته ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

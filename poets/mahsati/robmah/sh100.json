@@ -1,0 +1,58 @@
+{
+  "Id": 50160,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۰۰",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۰۰",
+  "FullUrl": "/mahsati/robmah/sh100",
+  "RhymeLetters": "ر",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از معشوقه می‌خواهد که هنگام سفر او را تنها نگذارد و ببیند که او نیز مانند شتر بارکش غم دارد و نیازمند همراهی است. شاعر احساس خستگی و تنهایی می‌کند و می‌خواهد که معشوقه‌اش او را با خود ببرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "اشتربانا چو عزم کردی به سفر\r\nمگذار مرا خسته و زاینجا مگذر\r\nگر اشتر با تو از پی بارکشی ست\r\nمن بارکش غمم مرا نیز ببر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشتربانا چو عزم کردی به سفر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگذار مرا خسته و زاینجا مگذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر اشتر با تو از پی بارکشی‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بارکش غمم مرا نیز ببر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشتربانا چو عزم کردی به سفر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگذار مرا خسته و زاینجا مگذر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر اشتر با تو از پی بارکشی‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بارکش غمم مرا نیز ببر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

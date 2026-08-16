@@ -1,0 +1,58 @@
+{
+  "Id": 50095,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۳۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۳۵",
+  "FullUrl": "/mahsati/robmah/sh35",
+  "RhymeLetters": "فتمهمهرفت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به یادآوری لحظات شیرین و عاشقانه‌ای می‌پردازد که با محبوبش داشته است. او می‌گوید که وقتی در کنار او بوده، احساس آرامش می‌کرده، اما حالا که او رفته، تمام آن لحظات زیبا و صحبت‌ها نیز از دست رفته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتمهمهرفت",
+      "PlainText": "شب ها که به ناز با تو خفتم همه رفت\r\nدرها که به نوک غمزه سفتم همه رفت\r\nآرام دل و مونس جانم بودی\r\nرفتی و هر آنچه با تو گفتم همه رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب‌ها که به ناز با تو خفتم همه رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدُرها که به نوک غمزه سفتم همه رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآرام دل و مونس جانم بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتی و هر آنچه با تو گفتم همه رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب‌ها که به ناز با تو خفتم همه رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دُرها که به نوک غمزه سفتم همه رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آرام دل و مونس جانم بودی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتی و هر آنچه با تو گفتم همه رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

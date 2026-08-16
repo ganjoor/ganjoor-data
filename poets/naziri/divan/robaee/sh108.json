@@ -1,0 +1,58 @@
+{
+  "Id": 123674,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/naziri/divan/robaee/sh108",
+  "RhymeLetters": "تزادم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این اشعار بیان می‌کند که او به خاطر دنیا و عبادت خلق نشده، بلکه هدف خاصی از زنده بودنش دارد. به رغم این که بارها در زندگی تجربه‌های زیادی کسب کرده، اما هنوز به درک کاملی نرسیده و این به خاطر طبیعت انسانی‌اش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تزادم",
+      "PlainText": "نی بهر جهان نه بهر طاعت زادم\r\nدر کار نیم تا به چه حکمت زادم\r\nبالغ نشدم اگرچه صد بار فزون\r\nاز بطن موالید طبیعت زادم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی بهر جهان نه بهر طاعت زادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کار نیم تا به چه حکمت زادم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبالغ نشدم اگرچه صد بار فزون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بطن موالید طبیعت زادم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی بهر جهان نه بهر طاعت زادم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کار نیم تا به چه حکمت زادم؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالغ نشدم اگرچه صد بار فزون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بطن موالید طبیعت زادم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

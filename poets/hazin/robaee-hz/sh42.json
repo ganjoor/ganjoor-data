@@ -1,0 +1,58 @@
+{
+  "Id": 82930,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/hazin/robaee-hz/sh42",
+  "RhymeLetters": "صلاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به عشق و رسوم عاشقانه اشاره می‌کند و می‌گوید که عشق واقعی بی‌توجه به فاصله و جدایی است. در نامه‌های عاشقان، فصل جدایی نمی‌تواند وجود داشته باشد و داستان عشق تنها به وصال و در کنار هم بودن اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "صلاست",
+      "PlainText": "آن را که رسوم عشقبازی اصل است\r\nآسوده ز دوری و خلاص از فصل است\r\nدر نامه ی عاشقان نباشد فصلی\r\nافسانه عشق وصل اندر وصل است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن را که رسوم عشقبازی اصل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسوده ز دوری و خلاص از فصل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نامه ی عاشقان نباشد فصلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسانهٔ عشق، وصل اندر وصل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که رسوم عشقبازی اصل است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسوده ز دوری و خلاص از فصل است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در نامه ی عاشقان نباشد فصلی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسانهٔ عشق، وصل اندر وصل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

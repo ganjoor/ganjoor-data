@@ -1,0 +1,58 @@
+{
+  "Id": 10164,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۰۳",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۰۳",
+  "FullUrl": "/saadi/divan/robaees/sh103",
+  "RhymeLetters": "انم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از سست عهدی و ناباب بودن دوستانش شکایت می‌کند و بیان می‌کند که از دوستی با آنها روحش رنج می‌برد. حتی اگر زیبایی‌اش به مرور زمان از بین برود، او هنوز هم به یاد خط و نشانه‌های دوستیش خواهد بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انم",
+      "PlainText": "میندیش که سست عهد و بدپیمانم\r\nوز دوستیت فرار گیرد جانم\r\nهرچند که به خط جمال منسوخ شود\r\nمن خط تو همچنان زنخ می خوانم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیندیش که سست عهد و بدپیمانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز دوستیت فرار گیرد جانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچند که به خط جمال منسوخ شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن خط تو همچنان زنخ می‌خوانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میندیش که سست عهد و بدپیمانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز دوستیت فرار گیرد جانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که به خط جمال منسوخ شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من خط تو همچنان زنخ می‌خوانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

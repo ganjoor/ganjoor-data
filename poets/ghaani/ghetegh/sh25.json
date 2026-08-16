@@ -1,0 +1,58 @@
+{
+  "Id": 45665,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۲۵",
+  "FullUrl": "/ghaani/ghetegh/sh25",
+  "RhymeLetters": "وست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر بیان می‌کند که منافق هنر تلبیس و نفاق را به خوبی می‌داند و کارهای بدش را به شیوه‌ای خوب و نیکو نمایش می‌دهد. اما او نمی‌داند که مردم با بصیرت و اهل معنی، درک عمیق‌تری از حقیقت دارند و ظاهر را نمی‌بینند، بلکه به باطن و صفای دل می‌نگرند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "منافق آنچنان داند ز تلبیس\r\nکه افعال بدش با خلق نیکوست\r\nنمی داندکه چشم اهل معنی\r\nصفای مغز را می بیند از پوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنافق آنچنان داند ز تلبیس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه افعال بدش با خلق نیکوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌داندکه چشم اهل معنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصفای مغز را می‌بیند از پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منافق آنچنان داند ز تلبیس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که افعال بدش با خلق نیکوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی‌داندکه چشم اهل معنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صفای مغز را می‌بیند از پوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 73691,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۹۹",
+  "FullUrl": "/zahir/robaeez-zahir/sh99",
+  "RhymeLetters": "رمیگویی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به شخصی خطاب می‌کند و می‌گوید که امروز سخنانش نسبت به دیروز بی‌پایه‌تر و نادرست‌تر است. او به وی یادآوری می‌کند که ادعا کرده است دانش می‌تواند مرده را زنده کند، اما هیچ چیزی نمی‌تواند مانند آنچه که او می‌گوید، واقعیت را تغییر دهد. شاعر به نوعی انتقاد می‌کند که گفته‌های او بی‌اساس و اشتباه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمیگویی",
+      "PlainText": "ای خواجه سخن زیر و زبر می گویی\r\nامروز بسی ز دی بتر می گویی\r\nگفتی که به علم مرده را زنده کند\r\nعیسی نکند آنچ تو خر می گویی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه سخن زیر و زبر می‌گویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز بسی ز دی بتر می‌گویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که به علم مرده را زنده کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیسی نکند آنچ تو خر می‌گویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه سخن زیر و زبر می‌گویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امروز بسی ز دی بتر می‌گویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی که به علم مرده را زنده کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیسی نکند آنچ تو خر می‌گویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

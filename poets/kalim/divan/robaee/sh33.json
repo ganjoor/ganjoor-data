@@ -1,0 +1,58 @@
+{
+  "Id": 90744,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/kalim/divan/robaee/sh33",
+  "RhymeLetters": "رت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به این معناست که هر کسی که در نظر شاه قرار گیرد و مورد توجه او قرار بگیرد، از حوادث ناگوار محفوظ می‌ماند، مانند خاکی که زیر سایه امام معنا دار قرار می‌گیرد. همچنین اشاره می‌کند که خورشید هم نمی‌تواند بر کسی که تحت سایه و حمایت شاه است، آسیب برساند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رت",
+      "PlainText": "شاها یکره بهر که افتد نظرت\r\nایمن شود از حادثه چون خاک درت\r\nخورشید نیارد که بر آن تیغ کشد\r\nخاکی که برو سایه فتد از سپرت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها یکره بهر که افتد نظرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایمن شود از حادثه چون خاک درت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید نیارد که بر آن تیغ کشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاکی که برو سایه فتد از سپرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها یکره بهر که افتد نظرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ایمن شود از حادثه چون خاک درت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورشید نیارد که بر آن تیغ کشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاکی که برو سایه فتد از سپرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

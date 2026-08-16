@@ -1,0 +1,58 @@
+{
+  "Id": 50073,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۳",
+  "FullUrl": "/mahsati/robmah/sh13",
+  "RhymeLetters": "ست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به زیبایی چهره معشوق اشاره دارد و می‌گوید که می‌خواهد آن زیبایی را مانند بهشت تزئین کند. در زمان حاضر، زیبایی معشوق مانند زهره (سیاره زهره) است و او خواهان بیان حقیقت است، بدون هیچگونه دروغ یا خلافی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اراست",
+      "PlainText": "گفتی که بدین رخان زیبا که مراست\r\nچون خلد وثاق تو بخواهم آراست\r\nامروز در این زمانه آن زهره که راست\r\nتا گوید کان خلاف گفتی یا راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که بدین رخان زیبا که مراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خلد، وثاق تو بخواهم آراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز در این زمانه آن زَهره که راست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا گوید کان خلاف گفتی یا راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتی که بدین رخان زیبا که مراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون خلد، وثاق تو بخواهم آراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز در این زمانه آن زَهره که راست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا گوید کان خلاف گفتی یا راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

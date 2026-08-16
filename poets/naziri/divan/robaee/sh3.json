@@ -1,0 +1,58 @@
+{
+  "Id": 123569,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/naziri/divan/robaee/sh3",
+  "RhymeLetters": "هرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان اهمیت بینش و شناخت در زندگی می‌پردازد. شاعر از کسی می‌خواهد که درک عمیق‌تری داشته باشد و مسیر درست را بشناسد. اشاره به دوری و تاریکی شب و همچنین تأثیر عصای موسی به عنوان نمادی از هدایت و راهنمایی، نشان می‌دهد که باید با آگاهی و بصیرت پیش رفت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هرا",
+      "PlainText": "بگشای نظیری  نظر کوته را\r\nتو راه شناسی نشناسی چه را\r\nای دور که در شب به کمان می تازی\r\nموسی به عصا روز رود این ره را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگشای «نظیری » نظر کوته را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو راه شناسی نشناسی چه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دور که در شب به کمان می تازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموسی به عصا روز رود این ره را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگشای «نظیری » نظر کوته را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو راه شناسی نشناسی چه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای دور که در شب به کمان می تازی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موسی به عصا روز رود این ره را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

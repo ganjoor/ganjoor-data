@@ -1,0 +1,58 @@
+{
+  "Id": 1188,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۷۰",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۷۰",
+  "FullUrl": "/khayyam/robaee/sh70",
+  "RhymeLetters": "انند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به موقعیت و سرنوشت خود اشاره می‌کند. او می‌گوید که اگر تقدیر و سرنوشتش بدون حضور او رقم خورد، پس چرا نیک و بد آن را به او نسبت می‌دهند؟ او همچنین اشاره می‌کند که روز گذشته و امروز بدون او گذشته و فردا چه دلیلی دارد که او را در محاکمه به داور ارجاع دهند. در واقع، او به نوعی از بی‌پناهی و عدم کنترل بر سرنوشتش سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انند",
+      "PlainText": "بر من قلم قضا چو بی من رانند\r\nپس نیک و بدش ز من چرا می دانند\r\nدی بی من و امروز چو دی بی من و تو\r\nفردا به چه حجتم به داور خوانند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر من قلم قضا چو بی من رانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس نیک و بدش ز من چرا می‌دانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی بی من و امروز چو دی بی من و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا به چه حجتم به داور خوانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر من قلم قضا چو بی من رانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پس نیک و بدش ز من چرا می‌دانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دی بی من و امروز چو دی بی من و تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فردا به چه حجتم به داور خوانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

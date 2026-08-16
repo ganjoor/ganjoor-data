@@ -1,0 +1,58 @@
+{
+  "Id": 83065,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۷۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۷۶",
+  "FullUrl": "/hazin/robaee-hz/sh176",
+  "RhymeLetters": "ط",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت شعری از مولوی نشان‌دهندهٔ اهمیت یک نقطه به عنوان نمادی از توحید در دایره‌ها و خطوط زندگی است. هر چند که خطوط و شکل‌ها از نقاط پدید می‌آیند، اما اگر چشم به درستی به آن نقطه توجه نکند، نمی‌تواند آن حقیقت را ببیند. در واقع، این شعر به ما یادآور می‌شود که درک حقیقت به دقت و توجه لازم دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ط",
+      "PlainText": "پنهان به سیه خانه حرف است نقط\r\nبا آنکه ز نقطه شد پدید آن همه خط\r\nیک نقطه توحید درین دایره هاست\r\nگر مردمک دیده نیفتد به غلط",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپنهان به سیه خانهٔ حرف است نقط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا آنکه ز نقطه شد پدید آن همه خط\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک نقطهٔ توحید درین دایره هاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر مردمک دیده نیفتد به غلط\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پنهان به سیه خانهٔ حرف است نقط",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با آنکه ز نقطه شد پدید آن همه خط",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک نقطهٔ توحید درین دایره هاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر مردمک دیده نیفتد به غلط",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

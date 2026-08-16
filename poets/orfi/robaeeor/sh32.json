@@ -1,0 +1,58 @@
+{
+  "Id": 48751,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۳۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۲",
+  "FullUrl": "/orfi/robaeeor/sh32",
+  "RhymeLetters": "اماست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این بیت، عشق خود را به عنوان پیامبری معرفی می‌کند که در زیبایی به آسمان پیام آورده است. او حکم می‌کند که باید دل و دین را به خاطر درد و عشق فدای کرد و این کار را ساده‌ترین نکته از احکام عشق می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اماست",
+      "PlainText": "عشق آمد و گوید رسولم نام است\r\nدر حسن به آسمان صدم پیغام است\r\nحکم است که دل و دین فروشید به درد\r\nوین سهل ترین جمله احکام است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق آمد و گوید رسولم نام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حسن به آسمان صدم پیغام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکم است که دل و دین فروشید به درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سهل ترین جمله احکام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق آمد و گوید رسولم نام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حسن به آسمان صدم پیغام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حکم است که دل و دین فروشید به درد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین سهل ترین جمله احکام است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

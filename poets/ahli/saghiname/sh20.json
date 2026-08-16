@@ -1,0 +1,58 @@
+{
+  "Id": 105640,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۱۹",
+  "FullUrl": "/ahli/saghiname/sh20",
+  "RhymeLetters": "رنخواهیمگرفت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات نشان‌دهنده‌ی عزم و اراده‌ی راسخ شاعر هستند. او می‌گوید که حتی اگر ساقی (محبوب) او را نادیده بگیرد یا به او آسیب رساند، باز هم از عشق و توجه به او دست نخواهد کشید. حتی اگر او را به خاک بیندازند، باز هم سرش را از در او برنمی‌دارد. به عبارتی، شاعر غیرت و پایبندی عاطفی‌اش را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رنخواهیمگرفت",
+      "PlainText": "ساقی ز درت نظر نخواهیم گرفت\r\nگر هم بکشی حذر نخواهیم گرفت\r\nگیرم که ز خاک برنگیری سر ما\r\nما سر ز در تو بر نخواهیم گرفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی ز درت نظر نخواهیم گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر هم بکشی حذر نخواهیم گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیرم که ز خاک برنگیری سر ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما سر ز در تو بر نخواهیم گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی ز درت نظر نخواهیم گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر هم بکشی حذر نخواهیم گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گیرم که ز خاک برنگیری سر ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما سر ز در تو بر نخواهیم گرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

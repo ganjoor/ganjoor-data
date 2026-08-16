@@ -1,0 +1,58 @@
+{
+  "Id": 82928,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/hazin/robaee-hz/sh40",
+  "RhymeLetters": "ازیهست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به نظر می‌رسد درباره مفهوم هستی و زندگی انسانی صحبت می‌کند. زندگی را به یک جشن یا بزم تشبیه کرده و به نقش انسان در این بازی جهانی اشاره می‌کند. همچنین به کار و تلاش در زندگی به عنوان شغل و کارپردازی اشاره دارد و به فعالیت‌های مختلف بشر در این عالم پرداخته شده است. در کل، این شعر به تعامل انسان با جهان و مسئولیت‌های او در این فضا می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازیهست",
+      "PlainText": "هستی بزمی ست انجمن سازی هست\r\nعالم نطعی ست پنج و شش بازی هست\r\nدر جام جم و مهر سلیمان این بود\r\nما کارگهیم کارپردازی هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی بزمی ست، انجمن سازی هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالم نطعی ست، پنج و شش بازی هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جام جم و مهر سلیمان این بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما کارگهیم، کارپردازی هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هستی بزمی ست، انجمن سازی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالم نطعی ست، پنج و شش بازی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در جام جم و مهر سلیمان این بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما کارگهیم، کارپردازی هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

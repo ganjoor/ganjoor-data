@@ -1,0 +1,58 @@
+{
+  "Id": 84525,
+  "CatId": 2207,
+  "Title": "شمارهٔ  ۵",
+  "FullTitle": "نیر تبریزی » رباعیات » شمارهٔ  ۵",
+  "FullUrl": "/nayyer/robaee-nt/sh5",
+  "RhymeLetters": "یش",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی احساسات عمیق و پیچیده‌ای است که ناشی از عشق و دلتنگی است. شاعر به زیبایی‌های معشوق اشاره می‌کند و به تأثیر موی او بر دل، که باعث پریشانی و ناامنی در دل‌ها شده، اشاره می‌کند. او به خطراتی که از عشق به وجود آمده و قربانیانی که بر اثر این عشق متحمل شده‌اند، اشاره می‌کند. به طور کلی، شعر حسی از اندوه و زیبایی را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یش",
+      "PlainText": "ای برده قرار و صبر و تاب از دل ریش\r\nلرزان بسر موی تو دلهای پریش\r\nدادی سر زلفین مسلسل بر باد\r\nصد خون خطا فکندی از گردن خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای برده قرار و صبر و تاب از دل ریش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلرزان بسر موی تو دلهای پریش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدادی سر زلفین مسلسل بر باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد خون خطا فکندی از گردن خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای برده قرار و صبر و تاب از دل ریش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لرزان بسر موی تو دلهای پریش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دادی سر زلفین مسلسل بر باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد خون خطا فکندی از گردن خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

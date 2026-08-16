@@ -1,0 +1,58 @@
+{
+  "Id": 105653,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۳۲",
+  "FullUrl": "/ahli/saghiname/sh33",
+  "RhymeLetters": "ینمنست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ساقی کهنه و دوست دیرینه‌اش اشاره می‌کند و می‌گوید بدون دختر رز، زندگی‌اش لذت‌بخش نخواهد بود. او از ساقی می‌خواهد که او را به حوری‌ها نرساند، زیرا دلش تنها خواهان همشیره‌ی رز است که جانش را شیرین می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینمنست",
+      "PlainText": "ساقی می کهنه یار دیرین منست\r\nبی دختر رز عیش نه آیین منست\r\nگو حوریم مده که دل میطلبد  کذا \r\nهمشیره رز که جان شیرین منست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی می کهنه یار دیرین منست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی دختر رز عیش نه آیین منست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو حوریم مده که دل میطلبد « کذا »\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمشیره رز که جان شیرین منست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی می کهنه یار دیرین منست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی دختر رز عیش نه آیین منست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گو حوریم مده که دل میطلبد « کذا »",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همشیره رز که جان شیرین منست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

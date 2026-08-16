@@ -1,0 +1,58 @@
+{
+  "Id": 84595,
+  "CatId": 2208,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "نیر تبریزی » سایر اشعار » شمارهٔ ۶۵",
+  "FullUrl": "/nayyer/sayer-nt/sh65",
+  "RhymeLetters": "رکنم",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از عشق و وابستگی‌اش به معشوق سخن می‌گوید. او به زیبایی‌های معشوق اشاره کرده و می‌گوید که در میان هیاهوی دلش، تنها او را می‌بیند. همچنین اشاره می‌کند که دیگران که عشقشان را به معشوق ابراز کرده‌اند، از او خواسته‌های خود را خواهند داشت، اما او خود را از تمام تعلقات جدا کرده و به معشوق پیوسته است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدم",
+      "PlainText": "هزار شانه به زلف نگار خویش کشیدم\r\nز ازدحام دل خویش در میانه ندیدم\r\nکسان که دل به تو داده است کام خود ز تو خواهد\r\nمنم که با تو به پیوستم و ز خویش بریدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار شانه به زلف نگار خویش کشیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ازدحام دل خویش در میانه ندیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکسان که دل به تو داده است کام خود ز تو خواهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنم که با تو به پیوستم و ز خویش بریدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هزار شانه به زلف نگار خویش کشیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز ازدحام دل خویش در میانه ندیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کسان که دل به تو داده است کام خود ز تو خواهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "منم که با تو به پیوستم و ز خویش بریدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

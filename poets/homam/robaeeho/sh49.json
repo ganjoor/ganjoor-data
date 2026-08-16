@@ -1,0 +1,58 @@
+{
+  "Id": 77867,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/homam/robaeeho/sh49",
+  "RhymeLetters": "انمیاید",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: باد سحری با خوشحالی و نغمه‌ای دلنشین می‌آید و نوید حضور یار مهربان را می‌آورد. بیایید تا با هم روی راه بنشینیم و به صدای کاروان گوش دهیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمیاید",
+      "PlainText": "باد سحری رقص کنان می آید\r\nبا مژده یار مهربان می آید\r\nبرخیز که تا بر سر ره بنشینیم\r\nکآواز درای کاروان می آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد سحری رقص‌کنان می‌آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا مژده یار مهربان می‌آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخیز که تا بر سر ره بنشینیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآواز درای کاروان می‌آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باد سحری رقص‌کنان می‌آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با مژده یار مهربان می‌آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخیز که تا بر سر ره بنشینیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآواز درای کاروان می‌آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

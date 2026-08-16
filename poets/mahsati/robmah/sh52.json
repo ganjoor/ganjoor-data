@@ -1,0 +1,58 @@
+{
+  "Id": 50112,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۵۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۵۲",
+  "FullUrl": "/mahsati/robmah/sh52",
+  "RhymeLetters": "واهودارد",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره زیبایی و魅بت‌های شخصی معشوق است که به زیبایی چهره و زلف‌های او اشاره می‌کند. شاعر با اشاره به احوالی که در شب با غم معشوق سپری کرده، نشان می‌دهد که این غم و اندوه تا صبح ادامه دارد و به نوعی احساساتی عمیق و رنج را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "واهودارد",
+      "PlainText": "مشکی که ز چین ختن آهو دارد\r\nاز چین سر زلف تو آهو دارد\r\nآن کس که شبی با غم تو یار بشد\r\nتا وقت سحر ناله و آهو دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشکی که ز چین ختن آهو دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چینِ سرِ زلف تو آهو دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که شبی با غم تو یار بشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا وقت سحر ناله و آهو دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشکی که ز چین ختن آهو دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از چینِ سرِ زلف تو آهو دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن کس که شبی با غم تو یار بشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا وقت سحر ناله و آهو دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

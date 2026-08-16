@@ -1,0 +1,58 @@
+{
+  "Id": 112333,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/sahab/divan/robaee/sh9",
+  "RhymeLetters": "داخت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به بیان احساسات عمیق و پیچیده عاشقانه می‌پردازد. او از شکست در عشق و تأثیرات آن بر دلش سخن می‌گوید. دل نازک و حساس او به دلیل آتش عشق آسیب‌پذیر شده است و این حالت او را به مانند آبگینه‌ای نرم می‌کند که در برابر گرمای عشق به شکل و حالتی جدید درمی‌آید. به طور کلی، این اشعار اشاره به درد و لطافت عشق دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "داخت",
+      "PlainText": "با همچو خودی نرد محبت چون باخت\r\nچون من خود را به ششدر عشق انداخت\r\nاکنون شده نازک دلش از آتش عشق\r\nآری شود آبگینه چون سنگ گداخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا همچو خودی نرد محبت چون باخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون من خود را به ششدر عشق انداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون شده نازک دلش از آتش عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری شود، آبگینه چون سنگ گداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با همچو خودی نرد محبت چون باخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون من خود را به ششدر عشق انداخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون شده نازک دلش از آتش عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری شود، آبگینه چون سنگ گداخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 51412,
+  "CatId": 1833,
+  "Title": "شمارهٔ ۲۳ - در زندان",
+  "FullTitle": "ملک‌الشعرا بهار » قطعات » شمارهٔ ۲۳ - در زندان",
+  "FullUrl": "/bahar/ghetebk/sh23",
+  "RhymeLetters": "ردمنشستهاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در شعری که اشاره شده، راوی از عبور خود از در شعبه چهار می‌گوید و متوجه می‌شود که کامران در حال نشستن پشت میزی با علم و طبل و ابزار دیگر است. او به نظر می‌رسد که به نفع توده مردم فعالیت می‌کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردمنشستهاست",
+      "PlainText": "کردم عبور دی ز در شعبه چهار\r\nدیدم که کامران بسردم نشسته است\r\nدر پشت میز با علم و طبل و عر و تیز\r\nبهر فنای توده مردم نشسته است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردم عبور دی ز در شعبهٔ چهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدم که کامران بسردم نشسته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پشت میز با علم و طبل و عر و تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر فنای تودهٔ مردم نشسته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کردم عبور دی ز در شعبهٔ چهار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیدم که کامران بسردم نشسته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در پشت میز با علم و طبل و عر و تیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهر فنای تودهٔ مردم نشسته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

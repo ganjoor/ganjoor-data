@@ -1,0 +1,58 @@
+{
+  "Id": 70090,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۴۷",
+  "FullUrl": "/amir/robam/sh47",
+  "RhymeLetters": "انت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: اگر زهره (سیاره زهره) از نام تو باخبر شود، خواهان آن خواهد بود که در جام تو قرار گیرد. همچنین اگر ماه از پیغام تو مطلع شود، به زمین می‌آید و در دام تو خواهد افتاد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امت",
+      "PlainText": "گر یابد زهره آگهی از نامت\r\nخواهد که به جای می بود در جامت\r\nگر ماه ز چرخ بشنود پیغامت\r\nآید به  زمین و اوفتد در دامت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر یابد زهره آگهی از نامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهد که به‌جای می‌بود در جامت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ماه ز چرخ بشنود پیغامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآید به ‌زمین و اوفتد در دامت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر یابد زهره آگهی از نامت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواهد که به‌جای می‌بود در جامت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر ماه ز چرخ بشنود پیغامت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آید به ‌زمین و اوفتد در دامت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119579,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/neshat/divan/robaee/sh45",
+  "RhymeLetters": "لم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به محبوب خود می‌گوید که او را فراموش نمی‌کند و از یادش خجالت می‌کشد. او از محبوبش می‌خواهد که هر گونه که می‌خواهد با او رفتار کند، اما اگر نتواند بر او رحمی داشته باشد، این موضوع برای او دردناک است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لم",
+      "PlainText": "ای خواجه ی جان وای خداوند دلم\r\nاز یاد تو بیشتر ز رویت خجلم\r\nاز من بحلی هر چه کنی یا نکنی\r\nای وای بمن اگر نسازی بحلم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه ی جان وای خداوند دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز یاد تو بیشتر ز رویت خجلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز من بحلی هر چه کنی یا نکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای وای بمن اگر نسازی بحلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه ی جان وای خداوند دلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از یاد تو بیشتر ز رویت خجلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از من بحلی هر چه کنی یا نکنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای وای بمن اگر نسازی بحلم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 35200,
+  "CatId": 830,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "عطار » مختارنامه » باب بیست و نهم: در شوق نمودن معشوق » شمارهٔ ۱۵",
+  "FullUrl": "/attar/mokhtarname/bb29/sh15",
+  "RhymeLetters": "ایتدارم",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از محبت و زیبایی معشوق خود شکایت می‌کند و از عشقش به او دفاع می‌کند. او به نوعی از وابستگی و درد و خوشی ناشی از این عشق سخن می‌گوید و به معشوقش می‌گوید که داستان عشقش چگونه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتدارم",
+      "PlainText": "از چشم خوشت بسی شکایت دارم\r\nوز لعل لبت بسی حمایت دارم\r\nچون من بندانم که بداند آخر\r\nتا با تو ز تو من چه حکایت دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چشم خوشت بسی شکایت دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز لعل لبت بسی حمایت دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون من بندانم که بداند آخر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا با تو ز تو من چه حکایت دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چشم خوشت بسی شکایت دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز لعل لبت بسی حمایت دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون من بندانم که بداند آخر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا با تو ز تو من چه حکایت دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

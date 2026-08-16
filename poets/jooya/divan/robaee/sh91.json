@@ -1,0 +1,58 @@
+{
+  "Id": 103145,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/jooya/divan/robaee/sh91",
+  "RhymeLetters": "ان",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از غم و اندوهی که در دلش به خاطر پاییز و زوال بهار احساس می‌کند، سخن می‌گوید. او بیان می‌کند که ایمانش در برابر کفر و دشواری‌ها شکست خورده و حالا تصمیم به سفر از سرزمین دل دارد. همچنین به زیبایی و جاذبه حسن محبوبش اشاره می‌کند که همچون دامن زیبایی در میان قضا و قدر، او را درگیر کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "افسوس که شد به دل بهارت به خزان\r\nمغلوب جنود کفر گردید ایمان\r\nعزم سفری ز کشور دل دارد\r\nحسن تو ز خط برزده دامن به میان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که شد به دل بهارت به خزان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغلوب جنود کفر گردید ایمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعزم سفری ز کشور دل دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحسن تو ز خط برزده دامن به میان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که شد به دل بهارت به خزان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مغلوب جنود کفر گردید ایمان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عزم سفری ز کشور دل دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حسن تو ز خط برزده دامن به میان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

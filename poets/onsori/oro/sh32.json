@@ -1,0 +1,58 @@
+{
+  "Id": 68882,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/onsori/oro/sh32",
+  "RhymeLetters": "روش",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به زیبایی و جذابیت چشمان یک معشوق اشاره دارد. وقتی او چشمانش را باز می‌کند و می‌خندد، شیرینی و شکر از آن جاری می‌شود و ستاره پروین نیز به حرکت درمی‌آید. همچنین، اشاره به این دارد که باید از چشم بد دور بماند، زیرا زلف‌هایش جذابیت دارند و ممکن است دچار حسادت شوند. در نهایت، به یک مقام و کلبه‌ی پر از عشق و زیبایی اشاره می‌کند که در فضای آن معشوق، همه چیز را جلب می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روش",
+      "PlainText": "چون بگشایی به خنده آن چشمه نوش\r\nشکر به فغان آید و پروین به خروش\r\nوز چشم بدش در آن دو زلفین بپوش\r\nکو غارت کرد کلبه مشک فروش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بگشایی به خنده آن چشمهٔ نوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکّر به فغان آید و پروین به خروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز چشم بدش در آن دو زلفین بپوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو غارت کرد کلبهٔ مشک‌فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون بگشایی به خنده آن چشمهٔ نوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکّر به فغان آید و پروین به خروش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وز چشم بدش در آن دو زلفین بپوش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو غارت کرد کلبهٔ مشک‌فروش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

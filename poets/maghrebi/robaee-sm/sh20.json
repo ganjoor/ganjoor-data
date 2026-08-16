@@ -1,0 +1,58 @@
+{
+  "Id": 84231,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/maghrebi/robaee-sm/sh20",
+  "RhymeLetters": "یچممن",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به تفکر دربارهٔ خود و وجودش می‌پردازد. او اشاره می‌کند که گاهی به خود می‌اندیشد و در می‌یابد که مانند یک رشته در پیچیدگی زندگی و هویت خود درگیر شده است. شاعر به تواضع اشاره می‌کند و می‌گوید که نمی‌تواند ادعایی دربارهٔ خود داشته باشد، چرا که در حقیقت احساس می‌کند که هیچ است، حتی با وجود اینکه وقتی دوباره به خود می‌نگرد، در می‌یابد که واقعاً هیچ نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یچممن",
+      "PlainText": "گه گاه به نفس خویش درپیچم من\r\nبینم که چو رشته جمله در پیچم من\r\nکی دعوی او کنم که من هیچ نیم\r\nبا آنکه چو باز بنگرم هیچم من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه گاه به نفس خویش درپیچم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبینم که چو رشته جمله در پیچم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی دعوی او کنم که من هیچ نیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا آنکه چو باز بنگرم هیچم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه گاه به نفس خویش درپیچم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بینم که چو رشته جمله در پیچم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی دعوی او کنم که من هیچ نیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با آنکه چو باز بنگرم هیچم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45818,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۵",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۵",
+  "FullUrl": "/ghaani/robaeegh/sh5",
+  "RhymeLetters": "اقست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به زیبایی و جذابیت ابروی محبوبش اشاره کرده است. او می‌گوید که ابروهای کج محبوبش، برای دل‌بران جذاب و دلخواه است و به نوعی به عنوان یک محراب و نقطه‌ي کانونی در زندگی‌شان شناخته می‌شود. همچنین، ابروها در عین زیبایی، سبب بی‌قراری و احساساتی عمیق در دل عاشق می‌شوند. به عبارتی، زیبایی ابروها هم دلنشین است و هم به دلیل احساسات عمیق، تلخی و درد را به همراه دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقست",
+      "PlainText": "ابروی کجت که دل برو مشتاقست\r\nمحراب شهان و قبله آفاقست\r\nطاقست ولی به دلنشینی جفتست\r\nجفتست ولی ز بیقرینی طاقست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابروی کجت که دل برو مشتاقست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحراب شهان و قبلهٔ آفاقست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطاقست ولی به دلنشینی جفتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجفتست ولی ز بیقرینی طاقست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابروی کجت که دل برو مشتاقست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محراب شهان و قبلهٔ آفاقست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "طاقست ولی به دلنشینی جفتست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جفتست ولی ز بیقرینی طاقست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

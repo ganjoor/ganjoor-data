@@ -1,0 +1,58 @@
+{
+  "Id": 123665,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۹۹",
+  "FullUrl": "/naziri/divan/robaee/sh99",
+  "RhymeLetters": "شتاندارم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از زیبایی‌های خود و طبیعتی که دارد می‌گوید. او خود را مانند حوریان زیبا می‌داند، اما در عین حال از تشنگی و نیاز به عشق و محبت سخن می‌گوید. شاعر همچنین به سادگی و راستی درون خود اشاره کرده و از یک آینه یاد می‌کند که ناامیدانه چیزی از زشت‌ها در آن دیده نمی‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شتاندارم",
+      "PlainText": "طبعی چو رخ حورسرشتان دارم\r\nاما چو ریاض تشنه کشتان دارم\r\nبس ساده ضمیر و راستگو آمده است\r\nاین آینه در نمد ز زشتان دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبعی چو رخ حورسرشتان دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما چو ریاض تشنه کشتان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس ساده ضمیر و راستگو آمده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین آینه در نمد ز زشتان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طبعی چو رخ حورسرشتان دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اما چو ریاض تشنه کشتان دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس ساده ضمیر و راستگو آمده است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این آینه در نمد ز زشتان دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

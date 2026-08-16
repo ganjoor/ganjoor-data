@@ -1,0 +1,58 @@
+{
+  "Id": 112393,
+  "CatId": 2642,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "عمعق بخاری » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/amagh/divan/robaee/sh1",
+  "RhymeLetters": "ویت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق به محبوبش صحبت می‌کند و اشاره می‌کند که حاضر است دیگران را از عشق خود نابینا کند تا فقط زیبایی محبوبش را ببیند. همچنین، حتی اگر لازم باشد، خود را نیز نابینا می‌کند تا هیچ کس دیگر را جز محبوبش نبیند. این ابراز عشق و دلبستگی شدید به زیبایی محبوب، احساسات عمیق شاعر را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویت",
+      "PlainText": "خواهم همه را کور ز عشق رویت\r\nتا من نگرم بس به رخ نیکویت\r\nیا خود خواهم همی دو چشم خود کور\r\nتا دیدن دیگری نبینم سویت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهم همه را کور ز عشق رویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا من نگرم بس به رخ نیکویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا خود خواهم همی دو چشم خود کور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دیدن دیگری نبینم سویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواهم همه را کور ز عشق رویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا من نگرم بس به رخ نیکویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا خود خواهم همی دو چشم خود کور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا دیدن دیگری نبینم سویت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83107,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱۰",
+  "FullUrl": "/hazin/robaee-hz/sh210",
+  "RhymeLetters": "ارمنچهخواهدکردن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نگرانی و نگرانیش از آینده اشاره دارد. او از تدبیر و چاره‌جویی می‌پرسد که چه اثری بر زندگی او خواهد داشت. همچنین به رابطه عشق اشاره می‌کند و می‌گوید حتی اگر عشق هزار شمع روشن کند، در برابر شب تاریک وجودش چه راه حلی وجود خواهد داشت. به نوعی، شاعر به یأس و ناامیدی خود اشاره کرده و به دنبال شناخت چاره‌ای برای درد و رنج‌هایش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمنچهخواهدکردن",
+      "PlainText": "تدبیر به کار من چه خواهد کردن\r\nساغر به خمار من چه خواهد کردن\r\nگر عشق هزار شمع داغ افروزد\r\nبا این شب تار من چه خواهد کردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتدبیر به کار من چه خواهد کردن؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساغر به خمار من چه خواهد کردن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر عشق هزار شمع داغ افروزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا این شب تار من چه خواهد کردن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تدبیر به کار من چه خواهد کردن؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساغر به خمار من چه خواهد کردن؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر عشق هزار شمع داغ افروزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با این شب تار من چه خواهد کردن؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

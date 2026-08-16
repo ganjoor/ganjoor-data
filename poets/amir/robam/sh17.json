@@ -1,0 +1,58 @@
+{
+  "Id": 70060,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/amir/robam/sh17",
+  "RhymeLetters": "اهپدرت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به قدرت و عظمت شاه اشاره می‌کند که بر زمین و آسمان تسلط دارد. او بیان می‌کند که دشمنان در برابر او ضعیف و سست هستند زیرا شاه دارای قدرت و تدبیر است. همچنین به پیری و جوانی اشاره می‌کند که نشان از تجربه و شانس دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "خت",
+      "PlainText": "ای شاه زمین بر آسمان داری تخت\r\nسست است عدو تا تو کمان داری سخت\r\nحمله سبک آری وگران داری لخت\r\nپیری تو به تدبیر و جوان داری بخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه زمین بر آسمان داری تخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسست است عدو تا تو کمان داری سخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحمله سبک آری وگران داری لخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیری تو به تدبیر و جوان داری بخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه زمین بر آسمان داری تخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سست است عدو تا تو کمان داری سخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حمله سبک آری وگران داری لخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیری تو به تدبیر و جوان داری بخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

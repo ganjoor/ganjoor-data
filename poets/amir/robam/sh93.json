@@ -1,0 +1,58 @@
+{
+  "Id": 70136,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۹۳",
+  "FullUrl": "/amir/robam/sh93",
+  "RhymeLetters": "اید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تعداد بزم‌ها و رزم‌هایی اشاره می‌کند که فرد به آنها پرداخته است. او می‌گوید هر جشنی که برپا کرده، موجب شادی و خوشبختی بوده و هر نبردی که انجام داده، با پیروزی همراه شده است. به طور کلی، شاعر از موفقیت‌ها و شادی‌هایی که در زندگی فرد وجود داشته، صحبت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روزیبود",
+      "PlainText": "هر بزم که کردی همه بهروزی بود\r\nکار تو نشاط و مجلس افروزی بود\r\nهر رزم که کردی همه پیروزی بود\r\nهرچ آن دگری خواست تو را روزی بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر بزم که کردی همه بهروزی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار تو نشاط و مجلس افروزی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر رزم که کردی همه پیروزی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچ آن دگری خواست تو را روزی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر بزم که کردی همه بهروزی بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کار تو نشاط و مجلس افروزی بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر رزم که کردی همه پیروزی بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچ آن دگری خواست تو را روزی بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 47553,
+  "CatId": 1726,
+  "Title": "قطعهٔ شمارهٔ ۲",
+  "FullTitle": "شاه نعمت‌الله ولی » قطعات » قطعهٔ شمارهٔ ۲",
+  "FullUrl": "/shahnematollah/ghetesh/sh2",
+  "RhymeLetters": "ابمیبینمتورا",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساسات عمیق خود در مورد یک معشوق اشاره می‌کند که در خواب‌هایش همیشه حضور دارد. او از زیبایی و جذابیت معشوقش صحبت می‌کند و اینکه چطور در روز و شب، چهره او را در خواب می‌بیند. همچنین، او اشاره می‌کند که چشم‌هایش پر از اشک است، نشان‌دهندهٔ غم و دلتنگی برای معشوق.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابمیبینمتورا",
+      "PlainText": "چون مرا درخواب کردی روز و شب\r\nروز و شب درخواب می بینم تو را\r\nروی تو ماهست و چشم من پر آب\r\nروز و شب در آب می بینم تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مرا درخواب کردی روز و شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز و شب درخواب می بینم تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی تو ماهست و چشم من پر آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز و شب در آب می بینم تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون مرا درخواب کردی روز و شب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روز و شب درخواب می بینم تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روی تو ماهست و چشم من پر آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روز و شب در آب می بینم تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

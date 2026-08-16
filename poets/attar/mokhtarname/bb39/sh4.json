@@ -1,0 +1,58 @@
+{
+  "Id": 35669,
+  "CatId": 840,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "عطار » مختارنامه » باب سی و نهم: در صفتِ میان و قدِ معشوق » شمارهٔ ۴",
+  "FullUrl": "/attar/mokhtarname/bb39/sh4",
+  "RhymeLetters": "یرمیبینممن",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: مولانا با این اشعار به زیبایی و دلربایی محبوبش اشاره می‌کند. او بیان می‌کند که وقتی حریر را مقابل خود می‌بیند، یاد معشوق‌اش می‌افتد و دلش در غم او اسیر است. همچنین، او به موهای زیبای محبوبش اشاره می‌کند و آن‌ها را با مویی که در خمیر است مقایسه می‌کند، تا نرم و لطافت آن را به تصویر کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرمیبینممن",
+      "PlainText": "جانا چو برت حریر میبینم من\r\nدل در غم او اسیر میبینم من\r\nای موی میان میان چون موی ترا\r\nمویی است که در خمیر میبینم من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانا چو برت حریر میبینم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل در غم او اسیر میبینم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای موی میان! میانِ چون موی ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموئی است که در خمیر میبینم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانا چو برت حریر میبینم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل در غم او اسیر میبینم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای موی میان! میانِ چون موی ترا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موئی است که در خمیر میبینم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

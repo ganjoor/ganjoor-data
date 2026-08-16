@@ -1,0 +1,58 @@
+{
+  "Id": 10178,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۱۷",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۱۷",
+  "FullUrl": "/saadi/divan/robaees/sh117",
+  "RhymeLetters": "فتن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "در این شعر، شاعر می‌گوید که برای خدمت به یار خود از هیچ‌کاری دریغ نخواهد کرد و به بدگویی‌های خصم اهمیت نمی‌دهد. او خود را همچون مگسی می‌بیند که غرق عسل شده که نمی‌تواند دست از یار خود بردارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فتن",
+      "PlainText": "من خاک درش به دیده خواهم رفتن\r\nای خصم بگوی هرچه خواهی گفتن\r\nچون پای مگس که در عسل سخت شود\r\nچندانکه برانی نتواند رفتن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن خاک درش به دیده خواهم رُفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای خصم بگوی هرچه خواهی گفتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون پای مگس که در عسل سخت شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندانکه برانی نتواند رفتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من خاک درش به دیده خواهم رُفتن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای خصم بگوی هرچه خواهی گفتن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون پای مگس که در عسل سخت شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندانکه برانی نتواند رفتن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

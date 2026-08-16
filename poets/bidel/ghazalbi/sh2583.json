@@ -1,0 +1,58 @@
+{
+  "Id": 44651,
+  "CatId": 1401,
+  "Title": "غزل شمارهٔ ۲۵۸۳",
+  "FullTitle": "بیدل دهلوی » غزلیات » غزل شمارهٔ ۲۵۸۳",
+  "FullUrl": "/bidel/ghazalbi/sh2583",
+  "RhymeLetters": "انابرو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عشق و زیبایی ابرو و قد محبوبش اشاره می‌کند. حتی با وجود پیری، هنوز از عشق آن کمان ابرو غافل نیست. او تأکید دارد که اشک‌هایش به رنگ خونش نمی‌افتند و نگران است که از شدت شوق و مستی، نتواند به آزمون عشق و زیبایی آن ابرو فکر کند.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انابرو",
+      "PlainText": "به پیری هم نی ام غافل ز عشق آن کمان ابرو\r\nحضور قامت خم  گشته ایمایی ست زان ابرو\r\nدم تیغی چو اشک از خون من رنگین نمی گردد\r\nمبادا افتد از مستی به فکر امتحان ابرو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیری هم نی‌ام غافل ز عشق آن‌کمان ابرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحضور قامت خم‌ گشته ایمایی‌ست زان ابرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدم تیغی چو اشک از خون من رنگین نمی گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمبادا افتد از مستی به فکر امتحان ابرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به پیری هم نی‌ام غافل ز عشق آن‌کمان ابرو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حضور قامت خم‌ گشته ایمایی‌ست زان ابرو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دم تیغی چو اشک از خون من رنگین نمی گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مبادا افتد از مستی به فکر امتحان ابرو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

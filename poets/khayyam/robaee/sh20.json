@@ -1,0 +1,58 @@
+{
+  "Id": 1138,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۲۰",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۲۰",
+  "FullUrl": "/khayyam/robaee/sh20",
+  "RhymeLetters": "اریبودهاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این رباعی به این موضوع اشاره دارد که قبل از آمدن انسان‌ها و وجود ما، زمان و مکان‌ها وجود داشته‌اند و در طول تاریخ، افراد و وقایعی در آن جاها بوده‌اند. هر کجا که ما قدم می‌گذاریم، کسانی بوده‌اند که پیش از ما وجود داشته‌اند و آثار خود را بر جای گذاشته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریبودهاست",
+      "PlainText": "پیش از من و تو لیل و نهاری بوده ست\r\nگردنده فلک نیز به کاری بوده است\r\nهر جا که قدم نهی تو بر روی زمین\r\nآن مردمک چشم نگاری بوده ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش از من و تو لیل و نهاری بوده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردنده فلک نیز به کاری بوده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جا که قدم نهی تو بر روی زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن مردمک چشم نگاری بوده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش از من و تو لیل و نهاری بوده‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردنده فلک نیز به کاری بوده است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جا که قدم نهی تو بر روی زمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن مردمک چشم نگاری بوده‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

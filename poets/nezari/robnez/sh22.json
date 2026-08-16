@@ -1,0 +1,58 @@
+{
+  "Id": 75769,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/nezari/robnez/sh22",
+  "RhymeLetters": "انیماست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به ویرانی و پریشانی زندگی بشر اشاره می‌کند و از عدم عقل و ساماندهی در وجود انسان‌ها گلایه می‌نماید. او معتقد است که این بی‌نظمی و مشکل‌ها ناشی از عدم عقلانیت و سامان‌دهی در جامعه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیماست",
+      "PlainText": "معموری روزگار ویرانی ماست\r\nجمعیت احباب پریشانی ماست\r\nآه از عدم عقل که در ملک وجود\r\nچندین خلل از بی سر و سامانی ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعموری روزگار ویرانی ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمعیت احباب پریشانی ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه از عدم عقل که در ملک وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندین خلل از بی سر و سامانی ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "معموری روزگار ویرانی ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمعیت احباب پریشانی ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آه از عدم عقل که در ملک وجود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندین خلل از بی سر و سامانی ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

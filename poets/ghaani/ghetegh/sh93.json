@@ -1,0 +1,58 @@
+{
+  "Id": 45755,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۹۳",
+  "FullUrl": "/ghaani/ghetegh/sh93",
+  "RhymeLetters": "غل",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر این است که اگر فردی زبان و بیان صحیحی نداشته باشد، نمی‌تواند به درستی با دل خود ارتباط برقرار کند. همچنین، نشان می‌دهد که ادعای ایمان بدون عمل و صداقت، در واقع نوعی نفاق و کفر است. در نهایت، به نقد افرادی می‌پردازد که به ظاهر پارسا و مؤمنند اما در باطن خود، خودپرست و ریاکارند.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "غل",
+      "PlainText": "چون زبانت نیست با دل آشنا\r\nلاف ایمان محض کفرست و دغل\r\nزشت باشد پارسایی خودپرست\r\nسبحه اش در دست و مینا در بغل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون زبانت نیست با دل آشنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاف ایمان محض کفرست و دغل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزشت باشد پارسایی خودپرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسبحه‌اش در دست و مینا در بغل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون زبانت نیست با دل آشنا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لاف ایمان محض کفرست و دغل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زشت باشد پارسایی خودپرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سبحه‌اش در دست و مینا در بغل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

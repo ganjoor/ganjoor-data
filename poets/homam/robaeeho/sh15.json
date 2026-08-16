@@ -1,0 +1,58 @@
+{
+  "Id": 77833,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/homam/robaeeho/sh15",
+  "RhymeLetters": "قعجباست",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به شدت به عشق و احساسات خود نسبت به یاری و نگاری اشاره می‌کند. او به شگفتی خود از عشق و انتظار هر دو طرف در این رابطه تأکید می‌کند. عاشق در انتظار معشوق و معشوق در انتظار عاشق، وضعیتی عجب و شگفت‌انگیز است که نشان‌دهنده عمق و پیچیدگی عشق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "قعجباست",
+      "PlainText": "میلت به من ای یار موافق عجب است\r\nمهرت به من ای نگار صادق عجب است\r\nعاشق دیدی در انتظار معشوق\r\nمعشوق در انتظار عاشق عجب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیلت به من ای یار موافق عجب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهرت به من ای نگار صادق عجب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشق دیدی در انتظار معشوق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعشوق در انتظار عاشق عجب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میلت به من ای یار موافق عجب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مهرت به من ای نگار صادق عجب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاشق دیدی در انتظار معشوق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معشوق در انتظار عاشق عجب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

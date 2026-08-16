@@ -1,0 +1,58 @@
+{
+  "Id": 70175,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۳۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۳۲",
+  "FullUrl": "/amir/robam/sh132",
+  "RhymeLetters": "ونگویم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به زیبایی و جذابیت معشوق اشاره می‌کند. او می‌گوید که اگر زبان داشته باشد، از زیبایی‌های معشوق خواهد گفت و اگر بخواهد عشق را تجربه کند، به جوی عشق او خواهد رفت. همچنین، اگر به سرو تبدیل شود، در پیش روی معشوق خواهد ایستاد. به طور کلی، ابیات بیانگر عمیق‌ترین احساسات عاشقانه و تمایل به نزدیکی به محبوب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویم",
+      "PlainText": "ای  گوی زنخ سخن ز گویت  گویم\r\nوی موی میان ز عشق مویت مویم\r\nگر آب شوم  گذر به جویت جویم\r\nور سرو شوم به پیش رویت رویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای‌ گوی زَنَخ سخن ز گویت ‌گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی موی میان ز عشق مویت مویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر آب شوم‌ گذر به جویت جویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور سرو شوم به پیش رویت رویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای‌ گوی زَنَخ سخن ز گویت ‌گویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی موی میان ز عشق مویت مویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر آب شوم‌ گذر به جویت جویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور سرو شوم به پیش رویت رویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

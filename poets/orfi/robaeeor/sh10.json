@@ -1,0 +1,58 @@
+{
+  "Id": 48729,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰",
+  "FullUrl": "/orfi/robaeeor/sh10",
+  "RhymeLetters": "ردینیست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این بیت نشان‌دهنده عدم وجود راهنمایی واقعی است و بیان می‌کند که در مسیر زندگی، راه‌ها و گزینه‌های مختلفی وجود دارد ولی هیچ یک به ما کمکی نمی‌کند. همچنین شاعر با اشاره به درد دیگران، می‌گوید که اگرچه با درد آنها نسبتی ندارد، اما این عدم نسبت به کم شدن شدت درد آنها کمکی نمی‌کند. به عبارتی، درد دیگران برای او نیز مهم و تأثیرگذار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردینیست",
+      "PlainText": "راهی بنما که رهنما مردی نیست\r\nصد ره به هیچ گذر گردی نیست\r\nبا درد تو هیچ نسبتم نیست ولی\r\nبی نسبتی درد تو کم دردی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراهی بنما که رهنما مردی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد ره به هیچ گذر گردی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا درد تو هیچ نسبتم نیست، ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی نسبتی درد تو کم دردی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "راهی بنما که رهنما مردی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد ره به هیچ گذر گردی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با درد تو هیچ نسبتم نیست، ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی نسبتی درد تو کم دردی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

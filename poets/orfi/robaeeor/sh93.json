@@ -1,0 +1,58 @@
+{
+  "Id": 48812,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۹۳",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۹۳",
+  "FullUrl": "/orfi/robaeeor/sh93",
+  "RhymeLetters": "تهکند",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر به اهمیت عشق و محبت اشاره دارد. شاعر می‌گوید کسی که به کمک نفس خود، دل را از دردها و رنج‌ها آزاد کند، مانند مسیح برای بیماران است. اما او تأکید می‌کند که وای بر آن کسی که این فواید را نادیده بگیرد و از محبت دوری کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تهکند",
+      "PlainText": "آن کس که ز راه نفسم بسته کند\r\nدل را ز هجوم داغ گل دسته کند\r\nبیماران را دم مسیح است علاج\r\nای وای بر آن کس دم او تفته کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که ز راه نفسم بسته کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل را ز هجوم داغ گل دسته کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیماران را دم مسیح است علاج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای وای بر آن کس دم او تفته کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که ز راه نفسم بسته کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل را ز هجوم داغ گل دسته کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیماران را دم مسیح است علاج",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای وای بر آن کس دم او تفته کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

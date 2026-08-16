@@ -1,0 +1,58 @@
+{
+  "Id": 105629,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۸",
+  "FullUrl": "/ahli/saghiname/sh9",
+  "RhymeLetters": "نتست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد که دل خوشش را به خاطر دیدن او و شادابی‌اش بیان کند. او از عشق و احساسات نهفته‌اش سخن می‌گوید و اعتقاد دارد که دل عاشقان همیشه روشن است و موجودیت آن را در جام عشق می‌بیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نتست",
+      "PlainText": "ساقی نظری که دل خوش از دیدن تست\r\nجان شاد ز خوشه چینی خرمن تست\r\nناگفته دلت ضمیر ما میداند\r\nجام جم عاشقان دل روشن تست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی نظری که دل خوش از دیدن تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان شاد ز خوشه چینی خرمن تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناگفته دلت ضمیر ما میداند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجام جم عاشقان دل روشن تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی نظری که دل خوش از دیدن تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان شاد ز خوشه چینی خرمن تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناگفته دلت ضمیر ما میداند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جام جم عاشقان دل روشن تست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

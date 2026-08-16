@@ -1,0 +1,58 @@
+{
+  "Id": 69411,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/azraghi/arob/sh50",
+  "RhymeLetters": "ر",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان رنج‌هایی می‌پردازد که عشق معشوق برای شاعر به وجود آورده است. شاعر می‌گوید اگر در روز قیامت از خون و رنج او بپرسند، معشوق به این مسائل توجهی نخواهد کرد و ارتباطی با او وجود نخواهد داشت. در واقع، شاعر به فراق و نادیده گرفتن دردهایش توسط معشوق اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "گر عشق تو بر من آورد رنج به سر\r\nدر حشر ز خون من نپرسد داور\r\nآری به حساب خون خویش ای دلبر\r\nبا تو سخن و ره نبود در محشر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر عشق تو بر من آورد رنج به سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حشر ز خون من نپرسد داور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآری به حساب خون خویش، ای دلبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو سخن و ره نبود در محشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر عشق تو بر من آورد رنج به سر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حشر ز خون من نپرسد داور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آری به حساب خون خویش، ای دلبر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با تو سخن و ره نبود در محشر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

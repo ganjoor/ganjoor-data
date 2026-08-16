@@ -1,0 +1,58 @@
+{
+  "Id": 107961,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/saeeda/divan/robaee/sh61",
+  "RhymeLetters": "نبازیچند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به تمثیل و بازیابی از زندگی اشاره دارند. شاعر به حال مستی و نشئگی می‌پردازد و به تضاد بین خوشی و مرگ اشاره می‌کند. او از عقل می‌خواهد که به بازی‌های دنیا ادامه ندهد، زیرا در نهایت همه چیز به سرانجامی خاتمه می‌یابد. به نوعی، این ابیات به گذرا بودن زندگی و لزوم لذت بردن از لحظات آن اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نبازیچند",
+      "PlainText": "ای مست شراب ما و من بازی چند\r\nوی غره جامه با کفن بازی چند\r\nآخر افتادنی است در پیش تو را\r\nای عقل بر این دار رسن بازی چند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مست شراب، ما و من بازی چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی غرهٔ جامه با کفن بازی چند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآخر افتادنی است در پیش، تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای عقل، بر این دار، [رسن] بازی چند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مست شراب، ما و من بازی چند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی غرهٔ جامه با کفن بازی چند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آخر افتادنی است در پیش، تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای عقل، بر این دار، [رسن] بازی چند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

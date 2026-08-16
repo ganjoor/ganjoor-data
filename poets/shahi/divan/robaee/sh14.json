@@ -1,0 +1,58 @@
+{
+  "Id": 92129,
+  "CatId": 2409,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "امیر شاهی » دیوان اشعار » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/shahi/divan/robaee/sh14",
+  "RhymeLetters": "ایدلمن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت زلف و لب معشوق اشاره دارد و بیان می‌کند که زلف او موجب عذاب دل شاعر است و لب او نیز مایه آرامش و گشایش دل او. شاعر به نوعی می‌گوید که دل خود را به کسی جز او نمی‌دهد و از او درخواست می‌کند که دلش را به دیگری نسپارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایدلمن",
+      "PlainText": "ای زلف مسلسلت بلای دل من\r\nوای لعل لبت گره گشای دل من\r\nمن دل ندهم بکس برای دل تو\r\nتو دل بکسی مده برای دل من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زلف مسلسلت بلای دل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوای لعل لبت گره گشای دل من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن دل ندهم بکس برای دل تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو دل بکسی مده برای دل من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زلف مسلسلت بلای دل من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وای لعل لبت گره گشای دل من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من دل ندهم بکس برای دل تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو دل بکسی مده برای دل من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

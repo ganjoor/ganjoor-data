@@ -1,0 +1,58 @@
+{
+  "Id": 45357,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۱۴",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۱۴",
+  "FullUrl": "/helali/robaeeh/sh14",
+  "RhymeLetters": "امشکردند",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این اشعار به توضیح درد و رنج ناشی از عشق می‌پردازند. شاعر بیان می‌کند که وقتی کسی به عشق دست می‌زند، از آن تعبیر به دردی تلخ می‌شود. به طور کلی، تمام غم‌ها و مشکلات جهان در عشق جمع شده‌اند و این عشق، نامی بسیار سنگین و پیچیده دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امشکردند",
+      "PlainText": "هر کس که می عشق به جامش کردند\r\nاز دردی درد تلخ کامش کردند\r\nگویا همه غم های جهان در یک جا\r\nجمع آمده بود عشق نامش کردند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس که می عشق به جامش کردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دردی درد تلخ‌کامش کردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویا همه غم‌های جهان در یک جا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمع آمده بود، عشق نامش کردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس که می عشق به جامش کردند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دردی درد تلخ‌کامش کردند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویا همه غم‌های جهان در یک جا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جمع آمده بود، عشق نامش کردند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

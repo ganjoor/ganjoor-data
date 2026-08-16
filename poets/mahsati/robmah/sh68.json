@@ -1,0 +1,58 @@
+{
+  "Id": 50128,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۶۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۶۸",
+  "FullUrl": "/mahsati/robmah/sh68",
+  "RhymeLetters": "اشتهاند",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از احوال درونی خود می‌گوید. او احساس غم و درد قلبی دارد که مانند آتش درونش را می‌سوزاند. همچنین، حس سردرگمی و بی‌هدفی را تجربه می‌کند و در تلاش است تا بفهمد چه چیزی باعث این وضعیت برای او شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اشتهاند",
+      "PlainText": "تا از تف آب چرخ افراشته اند\r\nغم در دل من چو آتش انباشته اند\r\nسرگشته چو باد می دوم در عالم\r\nتا خاک من از چه جای برداشته اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا از تف آب چرخ افراشته‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغم در دل من چو آتش انباشته‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرگشته چو باد می‌دوم در عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خاک من از چه جای برداشته‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا از تف آب چرخ افراشته‌اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غم در دل من چو آتش انباشته‌اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرگشته چو باد می‌دوم در عالم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا خاک من از چه جای برداشته‌اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

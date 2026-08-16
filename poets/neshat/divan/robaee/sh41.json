@@ -1,0 +1,58 @@
+{
+  "Id": 119575,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/neshat/divan/robaee/sh41",
+  "RhymeLetters": "انهشویم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به نداشتن شانس برای فرزانه و عاقل شدن اشاره می‌کند و بیان می‌کند که نتوانسته‌اند به مقامی والا برسند، چه در مکانی مقدس و چه در مکان‌های دیگر. او از شنوندگان می‌خواهد که برخیزند و به سمت میخانه بروند تا با نوشیدن جامی مست و شاداب شوند و از دیوانگی لذت ببرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهشویم",
+      "PlainText": "آن بخت نداریم که فرزانه شویم\r\nمقبول به کعبه یا به بتخانه شویم\r\nبرخیز که باز سوی میخانه شویم\r\nجامی بزنیم و مست و دیوانه شویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن بخت نداریم که فرزانه شویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمقبول به کعبه یا به بتخانه شویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخیز که باز سوی میخانه شویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجامی بزنیم و مست و دیوانه شویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن بخت نداریم که فرزانه شویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مقبول به کعبه یا به بتخانه شویم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخیز که باز سوی میخانه شویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جامی بزنیم و مست و دیوانه شویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

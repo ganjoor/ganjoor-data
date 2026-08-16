@@ -1,0 +1,58 @@
+{
+  "Id": 101802,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/salim/divan/robaee/sh11",
+  "RhymeLetters": "افشپوچاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان بی‌ارزشی و پوچی حسادت می‌پردازد. شاعر می‌گوید که حاسد، به رغم ادعاهای بزرگش، در واقع چیزی از خود ندارد. او همچنان که حیا در وجودش نیست، به بیان هم نمی‌تواند چیزی ارزشمند ارائه کند. در نهایت، شاعر این نکته را نیز به تصویر می‌کشد که مثل شمشیری که در غلافش بی‌خاصیت است، حاسد نیز فقط از زبان و صحبت‌هایش سخن می‌گوید، در حالی که عمل و محتوای خاصی ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "افشپوچاست",
+      "PlainText": "حاسد که همه دعوی لافش پوچ است\r\nاز مغز حیا چو نافش پوچ است\r\nاز طبع زبان دراز معنی مطلب\r\nشمشیر کشیده را غلافش پوچ است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاسد که همه دعوی لافش پوچ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز مغز حیا، چو نافش پوچ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز طبع زبان دراز، معنی مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمشیر کشیده را غلافش پوچ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاسد که همه دعوی لافش پوچ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از مغز حیا، چو نافش پوچ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از طبع زبان دراز، معنی مطلب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر کشیده را غلافش پوچ است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

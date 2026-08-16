@@ -1,0 +1,58 @@
+{
+  "Id": 1209,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹۱",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹۱",
+  "FullUrl": "/khayyam/robaee/sh91",
+  "RhymeLetters": "اباشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که هر رازی که در دل فردی دانا وجود دارد، باید به‌اندازه‌ای پنهان و ارزشمند باشد که از نظر دیگران مخفی بماند، مانند عنقا (پرنده‌ای افسانه‌ای). همچنین، رازها باید مانند مروارید در صدف نهفته باشند و برای آنکه به ارزش و زیبایی خود برسند، باید در پنهانی نگهداری شوند؛ چرا که راز دل، به مانند قطره‌ای در دریا، باید در خفا باقی بماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباشد",
+      "PlainText": "هر راز که اندر دل دانا باشد\r\nباید که نهفته تر ز عنقا باشد\r\nکاندر صدف از نهفتگی گردد در\r\nآن قطره که راز دل دریا باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر راز که اندر دل دانا باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباید که نهفته‌تر ز عنقا باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاندر صدف از نهفتگی گردد در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن قطره که راز دل دریا باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر راز که اندر دل دانا باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید که نهفته‌تر ز عنقا باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کاندر صدف از نهفتگی گردد در",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن قطره که راز دل دریا باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

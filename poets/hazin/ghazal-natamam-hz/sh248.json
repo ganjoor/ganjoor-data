@@ -1,0 +1,58 @@
+{
+  "Id": 83409,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۴۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۴۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh248",
+  "RhymeLetters": "نگ",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر التماس و درد افراد آزاده و رنج‌کشیده است. شاعر به مقایسه میان آزادگان و سگان می‌پردازد و از بی‌رحمی و فقر سخن می‌گوید. او به این نکته اشاره می‌کند که حتی لقمه‌ای از برکت زندگی و امید به آینده هم برای این افراد وجود ندارد و تنها تیغی از ناامیدی و تشنگی به یادگار مانده است. در کل، شعر نشان‌دهنده‌ی ناامیدی و مشکلاتی است که انسان‌ها با آن روبه‌رو هستند.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندارددریغ",
+      "PlainText": "لقمه ای را ممسک از آزادگان دارد دریغ\r\nاز هما این سگ ز خست استخوان دارد دریغ\r\nبا کدام امید دیگر زندگانی کس کند\r\nتیغش آبی از گلوی تشنگان دارد دریغ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلقمه ای را ممسک از آزادگان دارد دریغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هما، این سگ ز خسّت، استخوان دارد دریغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا کدام امّید دیگر، زندگانی کس کند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغش آبی از گلوی تشنگان دارد دریغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لقمه ای را ممسک از آزادگان دارد دریغ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از هما، این سگ ز خسّت، استخوان دارد دریغ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با کدام امّید دیگر، زندگانی کس کند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیغش آبی از گلوی تشنگان دارد دریغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

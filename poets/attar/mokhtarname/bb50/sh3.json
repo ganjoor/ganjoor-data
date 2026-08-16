@@ -1,0 +1,58 @@
+{
+  "Id": 36206,
+  "CatId": 851,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "عطار » مختارنامه » باب پنجاهم: در ختم كتاب » شمارهٔ ۳",
+  "FullUrl": "/attar/mokhtarname/bb50/sh3",
+  "RhymeLetters": "ادردلماست",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شعر به زیبایی بیان می‌کند که در دل ما دو چیز ارزشمند وجود دارد: محبت و وفاداری. همچنین، اگرچه زندگی ممکن است پیچ و خم‌هایی داشته باشد، اما با تسلیم و رضایت در مقابل سرنوشت، می‌توانیم غم‌ها را فراموش کنیم. به عبارتی، در دل ما قدرتی هست که می‌تواند به ما در مواجهه با چالش‌ها کمک کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادردلماست",
+      "PlainText": "بحر کرم و گنج وفا در دل ماست\r\nگنجینه تسلیم و رضا در دل ماست\r\nگر چرخ فلک چو آسیا میگردد\r\nغم نیست که میخ آسیا در دل ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحر کرم و گنج وفا در دل ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنجینهٔ تسلیم و رضا در دل ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چرخ فلک چو آسیا میگردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغم نیست که میخ آسیا در دل ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بحر کرم و گنج وفا در دل ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گنجینهٔ تسلیم و رضا در دل ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر چرخ فلک چو آسیا میگردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم نیست که میخ آسیا در دل ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

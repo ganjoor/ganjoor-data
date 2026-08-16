@@ -1,0 +1,58 @@
+{
+  "Id": 1174,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۵۶",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۵۶",
+  "FullUrl": "/khayyam/robaee/sh56",
+  "RhymeLetters": "وند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت ها اشاره به گذر زمان و تغییر نسل‌ها دارند. کسانی که پیر شده‌اند و کسانی که جوان‌ترند، هر یک به دنبال خواسته‌های خود می‌دوند. دنیای کهنه برای هیچ‌کس باقی نمی‌ماند و همه در نهایت می‌روند و نسل‌های جدید سر بر می‌آورند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وند",
+      "PlainText": "آن ها که کهن شدند و این ها که نوند\r\nهر کس به مراد خویش یک تک بدوند\r\nاین کهنه جهان به کس نماند باقی\r\nرفتند و رویم و دیگر آیند و روند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن‌ها که کهن شدند و این‌ها که نُوَند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کس به مراد خویش یک تک بدوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین کهنه‌جهان به کس نماند باقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتند و رویم و دیگر آیند و روند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن‌ها که کهن شدند و این‌ها که نُوَند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر کس به مراد خویش یک تک بدوند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این کهنه‌جهان به کس نماند باقی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتند و رویم و دیگر آیند و روند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

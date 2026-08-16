@@ -1,0 +1,58 @@
+{
+  "Id": 27351,
+  "CatId": 192,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "سنایی » دیوان اشعار » قصاید و قطعات » شمارهٔ ۱۱",
+  "FullUrl": "/sanaee/divans/ghgh/sh11",
+  "RhymeLetters": "ب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت بیانگر تضاد و دوگانگی درون و بیرون است. \u0022مال\u0022 به عنوان یک احساس درونی و کاذب تشبیه شده که شبیه به مار در دل می‌پیچد. در حالی که \u0022یار\u0022 به عنوان یک موجود بیرونی و روشنایی شبیه به روز و شب در نظر گرفته شده است. به‌طور کلی، این شعر به احساسات متناقض و عدم اطمینان در زندگی اشاره دارد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ب",
+      "PlainText": "مال هست از درون دل چون مار\r\nوز برون یار همچو روز و چو شب\r\nاو چنانست کاب کشتی را\r\nاز درون مرگ و از برون مرکب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمال هست از درون دل چون مار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز برون یار همچو روز و چو شب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو چنانست کاب کشتی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز درون مرگ و از برون مرکب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مال هست از درون دل چون مار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز برون یار همچو روز و چو شب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او چنانست کاب کشتی را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از درون مرگ و از برون مرکب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

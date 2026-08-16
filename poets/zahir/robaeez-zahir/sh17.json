@@ -1,0 +1,58 @@
+{
+  "Id": 73609,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/zahir/robaeez-zahir/sh17",
+  "RhymeLetters": "ادیست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که هرچند میل و خواسته شخص ممکن است به سمت ظلم و ستم باشد، اما اندکی از غم و ناراحتی او بهتر از تمام شادی‌های دنیا است. شاعر به احساسات طرف مقابل اشاره می‌کند که اگرچه از او گلایه دارد، اما برای او بندگی و خدمت به این فرد، خود نوعی آزادی و رهایی محسوب می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادیست",
+      "PlainText": "هر چند که میل تو سوی بیدادی ست\r\nیک ذره غمت به از جهانی شادی ست\r\nاز ما گله می کنی و لیکن ما را\r\nاز بندگی تو صد هزار آزادی ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که میل تو سوی بیدادی ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ذره غمت به از جهانی شادی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ما گله می کنی و لیکن ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بندگی تو صد هزار آزادی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که میل تو سوی بیدادی ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک ذره غمت به از جهانی شادی ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ما گله می کنی و لیکن ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بندگی تو صد هزار آزادی ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 118963,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/azar/divan/robaee/sh42",
+  "RhymeLetters": "ردهدلت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق و دردهای دل می‌پردازد. شاعر از رنج و عذابی که پیر و جوان به دلش می‌زنند سخن می‌گوید و نگرانی‌اش را از این‌که ممکن است دلش آزرده شود، ابراز می‌کند. او همچنین از دیگری درخواست می‌کند که او را بیشتر نرنجاند، زیرا این کار ممکن است به دل او لطمه بزند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردهدلت",
+      "PlainText": "ای خون دل پیر و جوان خورد دلت\r\nوی ز آهن و از سنگ گرو برده دلت\r\nزنهار میازار دلم میترسم\r\nگردد ز دل آزردنم آزرده دلت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خون دل پیر و جوان خورد دلت!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی ز آهن و از سنگ گرو برده دلت!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار، میازار دلم، میترسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردد ز دل آزردنم، آزرده دلت!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خون دل پیر و جوان خورد دلت!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی ز آهن و از سنگ گرو برده دلت!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنهار، میازار دلم، میترسم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردد ز دل آزردنم، آزرده دلت!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

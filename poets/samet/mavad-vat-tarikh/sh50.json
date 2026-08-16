@@ -1,0 +1,77 @@
+{
+  "Id": 125585,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۴۹",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۴۹",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh50",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: هر کسی به دنبال کمک از دیگران است و من نیز به حسین بن علی امیدوارم، زیرا در روز قیامت هیچ کس دیگری برای یاری من نخواهد بود.",
+  "Sections": [
+    {
+      "Index": 76,
+      "Number": 76,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "سی",
+      "PlainText": "هر کس زده دست خود به دامان کسی\r\nجسته است برای درد خود ملتمسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس زده دست خود به دامان کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجسته است برای درد خود ملتمسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 77,
+      "Number": 77,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "من هم به حسین بن علی دارم چشم\r\nچون نیست جز او به حشر فریادرسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن هم به حسین بن علی دارم چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نیست جز او به حشر فریادرسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 114,
+      "Number": 114,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سی",
+      "PlainText": "هر کس زده دست خود به دامان کسی\r\nجسته است برای درد خود ملتمسی\r\nمن هم به حسین بن علی دارم چشم\r\nچون نیست جز او به حشر فریادرسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس زده دست خود به دامان کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجسته است برای درد خود ملتمسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن هم به حسین بن علی دارم چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نیست جز او به حشر فریادرسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس زده دست خود به دامان کسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 114,
+      "SectionIndex2": 76
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جسته است برای درد خود ملتمسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 114,
+      "SectionIndex2": 76
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من هم به حسین بن علی دارم چشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 114,
+      "SectionIndex2": 77
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون نیست جز او به حشر فریادرسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 114,
+      "SectionIndex2": 77
+    }
+  ]
+}

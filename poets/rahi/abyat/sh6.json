@@ -1,0 +1,58 @@
+{
+  "Id": 39601,
+  "CatId": 1334,
+  "Title": "آواره",
+  "FullTitle": "رهی معیری » ابیات پراکنده » آواره",
+  "FullUrl": "/rahi/abyat/sh6",
+  "RhymeLetters": "ارهندارم",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به شدت دلتنگی و بی‌پناهی خود را بیان می‌کند. او می‌گوید که فقط در کوی معشوق خود احساس آرامش می‌کند و در هیچ مکان دیگری جا و سرپناهی ندارد. طبیعت زیبا و تابش ماه را توصیف می‌کند، اما می‌گوید که هیچ چیزی به جز عشق و یاد معشوقش برای او ارزش ندارد. در واقع، تمام وجودش مشغول تصویری از معشوق است و از جدایی رنج می‌برد.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارهندارم",
+      "PlainText": "جز کوی تو جایی من آواره ندارم\r\nجولانگه برق است ولی چاره ندارم\r\nیک جلوه کند ماه در آیینه صد موج\r\nجز نقش تو بر سینه صد پاره ندارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز کوی تو جایی من آواره ندارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجولانگه برق است ولی چاره ندارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک جلوه کند ماه در آیینه صد موج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز نقش تو بر سینه صد پاره ندارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز کوی تو جایی من آواره ندارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جولانگه برق است ولی چاره ندارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک جلوه کند ماه در آیینه صد موج",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز نقش تو بر سینه صد پاره ندارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

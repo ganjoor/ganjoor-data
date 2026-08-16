@@ -1,0 +1,58 @@
+{
+  "Id": 45690,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۵۰",
+  "FullUrl": "/ghaani/ghetegh/sh50",
+  "RhymeLetters": "رند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شعر به اهمیت تواضع و فروتنی اشاره دارد. شاعر می‌گوید که باید به قدری humble باشی که دیگران بتوانند به راستی وجود درونت را ببینند. تو باید مانند خاک در برابر دیگران افتاده و humble باشی، تا زمانی که افراد پاک و نیکو بر تو بگذرند، بویی از پاکی و معرفت تو را حس کنند.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رند",
+      "PlainText": "آنچنان افتاده شو در راه خلق\r\nکز برون راز درونت بنگرند\r\nدر تواضع همچو خاک افتاده باش\r\nبو که پاکان بر تو وقتی بگذرند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچنان افتاده شو در راه خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز برون راز درونت بنگرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر تواضع همچو خاک افتاده باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبو که پاکان بر تو وقتی بگذرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنچنان افتاده شو در راه خلق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز برون راز درونت بنگرند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در تواضع همچو خاک افتاده باش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بو که پاکان بر تو وقتی بگذرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

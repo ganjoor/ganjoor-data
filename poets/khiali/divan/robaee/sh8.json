@@ -1,0 +1,58 @@
+{
+  "Id": 99484,
+  "CatId": 2523,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "خیالی بخارایی » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/khiali/divan/robaee/sh8",
+  "RhymeLetters": "ری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر به یار خود خبری مهم را می‌رساند. او می‌گوید که همه افراد در این دنیا مسافرانی هستند که در حال سفر در دریای زندگی‌اند. این یادآوری این نکته است که هر کسی در دنیا جایگاهی دارد و در حال تجربه کردن سفری متفاوت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "گر بشنوی ای یار بگویم خبری\r\nعالم همه آدم است بگشا نظری\r\nامروز یقین مسافر بحر و بر است\r\nدر ملک وجود هرکه دارد سفری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بشنوی ای یار بگویم خبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالم همه آدم است بگشا نظری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز یقین مسافر بحر و بر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ملک وجود هرکه دارد سفری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر بشنوی ای یار بگویم خبری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالم همه آدم است بگشا نظری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز یقین مسافر بحر و بر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در ملک وجود هرکه دارد سفری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

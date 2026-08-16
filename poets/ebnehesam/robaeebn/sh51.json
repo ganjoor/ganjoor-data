@@ -1,0 +1,58 @@
+{
+  "Id": 64848,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۵۱",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۵۱",
+  "FullUrl": "/ebnehesam/robaeebn/sh51",
+  "RhymeLetters": "امیگرید",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، ابر به عنوان نماد حزن و غم معرفی شده است که روی هوا می‌بارد و مانند متهمی از خجالت گریه می‌کند. شاعر متوجه می‌شود که دلیل این گریه، ناراحتی او از عمرهایی است که هدر رفته و بی‌فایده گذشته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیگرید",
+      "PlainText": "ابر آمد و بر روی هوا می گرید\r\nچون متهم از شرم و حیا می گرید\r\nمعلومم شد که او چرا می گرید\r\nبر عمر تلف گشته ما می گرید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابر آمد و بر روی هوا می گرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون متهم از شرم و حیا می گرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعلومم شد که او چرا می گرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر عمر تلف گشته ما می گرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابر آمد و بر روی هوا می گرید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون متهم از شرم و حیا می گرید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معلومم شد که او چرا می گرید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر عمر تلف گشته ما می گرید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

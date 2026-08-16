@@ -1,0 +1,58 @@
+{
+  "Id": 34554,
+  "CatId": 813,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "عطار » مختارنامه » باب دوازدهم: در شكایت از نفس خود » شمارهٔ ۱۵",
+  "FullUrl": "/attar/mokhtarname/bb12/sh15",
+  "RhymeLetters": "شبودن",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات متناقض اشاره دارد. گوینده گاهی احساس ناآرامی و خشم دارد، مانند یک سگ که نفسش دچار مشکل است یا در شرایطی آتشین قرار گرفته است. اما در عین حال، به او گفته می‌شود که خوش باشد و از لحظات خوب لذت ببرد، هرچند که در دلش نگرانی‌ها و چالش‌هایی وجود دارد. به نوعی، شاعر به تضاد بین خوشی ظاهری و ناآرامی درونی پرداخته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شبودن",
+      "PlainText": "گاهم ز سگ نفس مشوش بودن\r\nگاهم ز سر خشم بر آتش بودن\r\nگفتی خوش باش چون مرا دست دهد\r\nبا این همه سگ در اندرون خوش بودن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاهم ز سگ نفس مشوش بودن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهم ز سر خشم بر آتش بودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی: «خوش باش» چون مرا دست دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا این همه سگ در اندرون خوش بودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گاهم ز سگ نفس مشوش بودن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گاهم ز سر خشم بر آتش بودن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی: «خوش باش» چون مرا دست دهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با این همه سگ در اندرون خوش بودن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

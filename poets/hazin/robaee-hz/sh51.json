@@ -1,0 +1,58 @@
+{
+  "Id": 82939,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/hazin/robaee-hz/sh51",
+  "RhymeLetters": "رداست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که حقیقت و واقعیت، به نوعی با درد همراه است و این درد است که ارزش و جایگاه انسان را مشخص می‌کند. همچنین از خاکی که محبوب را در بر دارد خواسته می‌شود تا آن را نگه دارد، چرا که این کودک یتیم، غم را به دوش می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رداست",
+      "PlainText": "دردانه دریای حقیقت درد است\r\nدرد است که میزان عیار مرد است\r\nای خاک ره یار عزیزش می دار\r\nاین طفل یتیم اشک غم پرورد است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردانهٔ دریای حقیقت درد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد است که میزان عیار مرد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خاک ره یار، عزیزش می دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین طفل یتیم اشک، غم پرورد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردانهٔ دریای حقیقت درد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درد است که میزان عیار مرد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خاک ره یار، عزیزش می دار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این طفل یتیم اشک، غم پرورد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

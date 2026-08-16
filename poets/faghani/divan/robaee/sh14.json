@@ -1,0 +1,58 @@
+{
+  "Id": 97086,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/faghani/divan/robaee/sh14",
+  "RhymeLetters": "رد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات احساس ناراحتی و افسوس می‌کند که تلاش‌هایش بی‌ثمر بوده و زندگی‌اش به درد و رنج می‌گذرد. او سعی دارد دوباره روشنایی و زندگی را به وجود آورد، اما از این می‌ترسد که اگر دوباره شمع زندگی‌اش را روشن کند، ممکن است به پیامدهای ناگواری منجر شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "افسوس که آتشم ببیهوده فسرد\r\nوین جام لبالبم رسیدست بدرد\r\nکوشم که کنم دگر چراغی روشن\r\nترسم که چو برفروزمش باید مرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که آتشم ببیهوده فسرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین جام لبالبم رسیدست بدرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوشم که کنم دگر چراغی روشن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسم که چو برفروزمش باید مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که آتشم ببیهوده فسرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین جام لبالبم رسیدست بدرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوشم که کنم دگر چراغی روشن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم که چو برفروزمش باید مرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

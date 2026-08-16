@@ -1,0 +1,58 @@
+{
+  "Id": 75828,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۸۱",
+  "FullUrl": "/nezari/robnez/sh81",
+  "RhymeLetters": "وناورد",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از ورود یار به نزد خود سخن می‌گوید که با شبیخون و surprise به سراغش آمده و جامی از شراب گلگون به دست دارد. شاعر در دل می‌گوید که شاید بتواند به خود برگردد، اما ناگهان یار او را از خود جدا می‌کند و به حالت دیگری در می‌آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وناورد",
+      "PlainText": "آمد به برم یار و شبیخون آورد\r\nبر دست گرفته جام گلگون آورد\r\nگفتم که مگر به خویشتن باز آیم\r\nیکباره مرا زخویش بیرون آورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد به برم یار و شبیخون آورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دست گرفته جام گلگون آورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که مگر به خویشتن باز آیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکباره مرا زخویش بیرون آورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد به برم یار و شبیخون آورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر دست گرفته جام گلگون آورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که مگر به خویشتن باز آیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکباره مرا زخویش بیرون آورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

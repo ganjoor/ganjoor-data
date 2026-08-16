@@ -1,0 +1,58 @@
+{
+  "Id": 90722,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/kalim/divan/robaee/sh11",
+  "RhymeLetters": "رش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به ناپایداری دوران و شور و شوق انسان‌ها اشاره می‌کند. او می‌گوید که اگر کاری در زندگی نداریم، نباید از اتفاقات و چالش‌ها نگران باشیم. به بیان دیگر، حتی اگر خارها و مشکلاتی وجود داشته باشد، نباید از آنها بترسیم و در مسیر زندگی خود پا نگذاریم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رش",
+      "PlainText": "با گردش دهر و خلق پرشور و شرش\r\nکاری که نداری چه غمست از حذرش\r\nخاریکه تمام مایه آزارست\r\nدر پا نخلد تا ننهی پا بسرش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا گردش دهر و خلق پرشور و شرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاری که نداری چه غمست از حذرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاریکه تمام مایه آزارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پا نخلد تا ننهی پا بسرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با گردش دهر و خلق پرشور و شرش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاری که نداری چه غمست از حذرش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاریکه تمام مایه آزارست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در پا نخلد تا ننهی پا بسرش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

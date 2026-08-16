@@ -1,0 +1,58 @@
+{
+  "Id": 75142,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۶۰۱",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۶۰۱",
+  "FullUrl": "/ghodsi/robghm/sh601",
+  "RhymeLetters": "رزی",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس عشق و تنش‌های آن اشاره دارد. شاعر بیان می‌کند که عشق چقدر برای انسان‌ها ارزشمند است و در عین حال، گاهی دشمنی و دوستی در آن وجود دارد. همچنین، اشاره به این دارد که جدایی در عشق ممکن نیست و بدون ابزار مناسب امکان‌پذیر نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رزی",
+      "PlainText": "ای عشق تو ما را به جهان می ارزی\r\nدشمن رویی و دوستی می ورزی\r\nاز پی دارد بریدنت دوختنی\r\nبی سوزن و مقراض نباشد درزی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عشق، تو ما را به جهان می‌ارزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمن رویی و دوستی می‌ورزی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پی دارد بریدنت، دوختنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی سوزن و مقراض نباشد درزی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق، تو ما را به جهان می‌ارزی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دشمن رویی و دوستی می‌ورزی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پی دارد بریدنت، دوختنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی سوزن و مقراض نباشد درزی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

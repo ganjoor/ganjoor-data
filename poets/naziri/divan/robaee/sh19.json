@@ -1,0 +1,58 @@
+{
+  "Id": 123585,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/naziri/divan/robaee/sh19",
+  "RhymeLetters": "انیداشت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساس درد و پشیمانی خود سخن می‌گوید. او می‌گوید که در مواجهه با مشکلات و غم‌ها، حتی اگر بر بستر غم باشد، نمی‌تواند قبول کند که سرنوشتی که با تاج و دولت همراه است، ارزش این درد و رنج را داشته باشد. به طور کلی، این ابیات به نارضایتی و ناپسند بودن اوضاع اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیداشت",
+      "PlainText": "یک دم که ز دردسر پریشانی داشت\r\nصد عربده با درد پشیمانی داشت\r\nبر بستر غم خدا گران نپسندد\r\nآن سر که به تاج دولت ارزانی داشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک دم که ز دردسر پریشانی داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد عربده با درد پشیمانی داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر بستر غم خدا گران نپسندد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن سر که به تاج دولت ارزانی داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک دم که ز دردسر پریشانی داشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد عربده با درد پشیمانی داشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر بستر غم خدا گران نپسندد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن سر که به تاج دولت ارزانی داشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

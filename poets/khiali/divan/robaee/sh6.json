@@ -1,0 +1,58 @@
+{
+  "Id": 99482,
+  "CatId": 2523,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "خیالی بخارایی » دیوان اشعار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/khiali/divan/robaee/sh6",
+  "RhymeLetters": "هیداری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به عظمت و کمال پادشاهی آنی اشاره می‌کند که دارای قدرت و حکومت است. او می‌گوید که هر نوع موفقیتی، مانند فتح و پیروزی، که بخواهد به او می‌رسد و این نعمت‌ها را به لطف الهی می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هیداری",
+      "PlainText": "آنی که کمال پادشاهی داری\r\nهر دولت سلطنت که خواهی داری\r\nفتح و ظفر و نصرت و فرصت که تو راست\r\nشک نیست که از فر الهی داری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنی که کمال پادشاهی داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دولت سلطنت که خواهی داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتح و ظفر و نصرت و فرصت که تو راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشک نیست که از فرّ الهی داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی که کمال پادشاهی داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر دولت سلطنت که خواهی داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فتح و ظفر و نصرت و فرصت که تو راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شک نیست که از فرّ الهی داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

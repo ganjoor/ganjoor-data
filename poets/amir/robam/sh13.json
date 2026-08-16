@@ -1,0 +1,58 @@
+{
+  "Id": 70056,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/amir/robam/sh13",
+  "RhymeLetters": "ب",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تضاد و تقابل عناصر آب و آتش اشاره می‌کند و از جامی سخن می‌گوید که هم آب است و هم آتش ناب شراب. او به قدرت و تأثیر شمشیر بر دشمنان اشاره می‌کند و بیان می‌کند که گاهی می‌تواند آتش را از آب پنهان کند و گاهی نیز آتش ناب را از روی آب به نمایش بگذارد. این شعر نمادی از هنر و قدرت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "ای جام تو آب و آتش ناب شراب\r\nای خون عدو ز آتش شمشیر تو آب\r\nگه آتش را کنی تو از آب نقاب\r\nگه بفروزی ز روی آب آتش ناب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای جام تو آب و آتش ناب شراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای خون عدو ز آتش شمشیر تو آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه آتش را کنی تو از آب نقاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه بفروزی ز روی آب آتش ناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای جام تو آب و آتش ناب شراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای خون عدو ز آتش شمشیر تو آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه آتش را کنی تو از آب نقاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گه بفروزی ز روی آب آتش ناب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

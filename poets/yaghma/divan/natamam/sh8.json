@@ -1,0 +1,77 @@
+{
+  "Id": 125782,
+  "CatId": 2881,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "یغمای جندقی » دیوان اشعار » غزلیات ناتمام » شمارهٔ ۸",
+  "FullUrl": "/yaghma/divan/natamam/sh8",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به رابطه‌ای عمیق و روحانی میان خود و ساقی اشاره دارد و آن را به ارتباط میان ماهی و آب تشبیه می‌کند. او از ساقی می‌خواهد که باده‌ای بیاورد زیرا احساس می‌کند که حال و هوای بغداد متزلزل و خراب است. همچنین، شاعر از تلخی عیش و شکرآب بودن ارتباطش با ساقی صحبت می‌کند، که نشان‌دهنده‌ی تنش یا فاصله‌ای در این رابطه است.",
+  "Sections": [
+    {
+      "Index": 32,
+      "Number": 33,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راباست",
+      "PlainText": "ساقی من و صهبا مثل ماهی و آب است\r\nپیش آر شط باده که بغداد خراب است\r\nتلخ است مرا عیش که اندر پی یک بوس\r\nامروز میان من و ساقی شکرآب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی من و صهبا مثل ماهی و آب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش آر شط باده که بغداد خراب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتلخ است مرا عیش که اندر پی یک بوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز میان من و ساقی شکرآب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 33,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اباست",
+      "PlainText": "ساقی من و صهبا مثل ماهی و آب است\r\nپیش آر شط باده که بغداد خراب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی من و صهبا مثل ماهی و آب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش آر شط باده که بغداد خراب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "تلخ است مرا عیش که اندر پی یک بوس\r\nامروز میان من و ساقی شکرآب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتلخ است مرا عیش که اندر پی یک بوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز میان من و ساقی شکرآب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی من و صهبا مثل ماهی و آب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 32,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش آر شط باده که بغداد خراب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 32,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تلخ است مرا عیش که اندر پی یک بوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 32,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز میان من و ساقی شکرآب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 32,
+      "SectionIndex2": 34
+    }
+  ]
+}

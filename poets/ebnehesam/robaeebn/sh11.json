@@ -1,0 +1,58 @@
+{
+  "Id": 64808,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۱۱",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۱۱",
+  "FullUrl": "/ebnehesam/robaeebn/sh11",
+  "RhymeLetters": "ازمیبایدرفت",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر اشاره به سفر طولانی و دشواری دارد که باید با عبادت و نهایت تلاش انجام شود. شاعر به زیبایی و منحصر به فردی فرد اشاره می‌کند که از خاک ساخته شده و به همین خاطر باید به اصل خود، یعنی خاک، برگردد. به طور کلی، این شعر نماد سفر روحانی و بازگشت به ریشه‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازمیبایدرفت",
+      "PlainText": "زادی که ره دراز می باید رفت\r\nبا روزه و با نماز می باید رفت\r\nترکیب تو چون ز خاک پرداخته اند\r\nای خال به خاک باز می باید رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزادی که ره دراز می باید رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا روزه و با نماز می باید رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترکیب تو چون ز خاک پرداخته اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای خال به خاک باز می باید رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زادی که ره دراز می باید رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با روزه و با نماز می باید رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترکیب تو چون ز خاک پرداخته اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای خال به خاک باز می باید رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

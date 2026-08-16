@@ -1,0 +1,58 @@
+{
+  "Id": 83061,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۷۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۷۲",
+  "FullUrl": "/hazin/robaee-hz/sh172",
+  "RhymeLetters": "انیخویش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از غم و ناراحتی پنهان خود سخن می‌گوید و به آرزوهایی اشاره می‌کند که در دل دارد. او می‌خواهد در یک شب، به آرامش برسد و احساسات و پریشانی‌هایش را با کسی نزدیک، مانند معشوقش، در میان بگذارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیخویش",
+      "PlainText": "تا چند به چنگ غم پنهانی خویش\r\nروزی به شب آرم از گرانجانی خویش\r\nیک شب خواهم به کام دل شرح دهم\r\nبا زلف تو احوال پریشانی خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند به چنگ غم پنهانی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزی به شب آرم از گرانجانی خویش؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک شب خواهم به کام دل شرح دهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا زلف تو، احوال پریشانی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند به چنگ غم پنهانی خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزی به شب آرم از گرانجانی خویش؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک شب خواهم به کام دل شرح دهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با زلف تو، احوال پریشانی خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

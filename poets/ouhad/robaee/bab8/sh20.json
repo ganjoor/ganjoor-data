@@ -1,0 +1,58 @@
+{
+  "Id": 98542,
+  "CatId": 2507,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » الباب الثامن: فی الخصال المذمومة و ما یتولد منها » شمارهٔ ۲۰",
+  "FullUrl": "/ouhad/robaee/bab8/sh20",
+  "RhymeLetters": "انیباشی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر می‌گوید که اگر شخصی بدگمان و بدبین باشد، حتی اگر در درون خودش دانای نیکویی باشد، باز هم بد خواهد بود. شاعر از او می‌خواهد که عمرش را صرف بدگویی درباره او نکند، زیرا او در این حالت به خودش آسیب می‌زند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیباشی",
+      "PlainText": "بی هیچ یقین چو بدگمانی باشی\r\nبد باشی اگر چه نیک دانی باشی\r\nتو عمر به بد گفتن من صرف مکن\r\nمن سود کنم تو در زیانی باشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی هیچ یقین چو بدگمانی باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبد باشی اگر چه نیک دانی باشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو عمر به بد گفتن من صرف مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن سود کنم تو در زیانی باشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی هیچ یقین چو بدگمانی باشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بد باشی اگر چه نیک دانی باشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو عمر به بد گفتن من صرف مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من سود کنم تو در زیانی باشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

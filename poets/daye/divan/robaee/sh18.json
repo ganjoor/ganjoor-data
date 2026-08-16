@@ -1,0 +1,58 @@
+{
+  "Id": 107181,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/daye/divan/robaee/sh18",
+  "RhymeLetters": "انکویت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به طور شبانه به دور آستان معشوق (صنم) می‌گردد، مانند پاسبان شهر کویت. او امیدوار است که در روز حساب، نامش از میان نام‌های بی‌ارزش (مانند سگان) بیرون بیاید و مورد توجه قرار گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انکویت",
+      "PlainText": "هر شب به مثال پاسبان کویت\r\nمی گردم گرد آستان کویت\r\nباشد که بر آید ای صنم روز حساب\r\nنامم ز جریده سگان کویت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شب به مثال پاسبان کویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی گردم گرد آستان کویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباشد که بر آید ای صنم روز حساب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامم ز جریدهٔ سگان کویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شب به مثال پاسبان کویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می گردم گرد آستان کویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشد که بر آید ای صنم روز حساب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نامم ز جریدهٔ سگان کویت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

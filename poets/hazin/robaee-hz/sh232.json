@@ -1,0 +1,58 @@
+{
+  "Id": 83129,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۳۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۳۲",
+  "FullUrl": "/hazin/robaee-hz/sh232",
+  "RhymeLetters": "انهمجو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این موضوع اشاره دارند که سرچشمه غم عشق را نباید از بیگانگان و آدم‌های ناآگاه جستجو کرد، چون آنها فقط افسانه‌ها و حرف‌های بی‌معنا می‌زنند. همچنین، از شخصی که در حالت مستی به سر می‌برد، نباید انتظار داشته باشیم که به ما نکات هوشیارانه‌ای بگوید، زیرا او در عالم دیوانگی است و نمی‌تواند عقل را درک کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهمجو",
+      "PlainText": "سر غم عشق را ز بیگانه مجو\r\nاز واعظ بی خبر جز افسانه مجو\r\nمستم ره هوشیاری از من مطلب\r\nافسانه عقل را ز دیوانه مجو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرّ غم عشق را، ز بیگانه مجو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز واعظ بی خبر، جز افسانه مجو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستم، ره هوشیاری از من مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسانهٔ عقل را ز دیوانه مجو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرّ غم عشق را، ز بیگانه مجو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از واعظ بی خبر، جز افسانه مجو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مستم، ره هوشیاری از من مطلب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسانهٔ عقل را ز دیوانه مجو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

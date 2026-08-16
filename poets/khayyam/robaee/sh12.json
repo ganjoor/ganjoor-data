@@ -1,0 +1,58 @@
+{
+  "Id": 1130,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۲",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۲",
+  "FullUrl": "/khayyam/robaee/sh12",
+  "RhymeLetters": "ینهتوست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "در این شعر شاعر به آسمان نگاه می‌کند و روزگار را خطاب قرار می‌دهد و او را به ویرانگری و کینه‌توزی و بی‌عدالتی از دیرباز متهم می‌کند و سپس رو به زمین می‌کند و به او یادآوری می‌کند که چه ناآواران و فرهیختگانی در دل تو دفن شده‌اند؛ که از هستی آنان بر روی زمین نشانی نماده.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینهتوست",
+      "PlainText": "ای چرخ فلک خرابی از کینه توست\r\nبی دادگری شیوه دیرینه توست\r\nای خاک اگر سینه تو بشکافند\r\nبس گوهر قیمتی که در سینه توست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چرخ فلک! خرابی از کینهٔ توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌دادگری شیوهٔ دیرینهٔ توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خاک! اگر سینهٔ تو بشکافند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس گوهر قیمتی که در سینهٔ توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چرخ فلک! خرابی از کینهٔ توست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌دادگری شیوهٔ دیرینهٔ توست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خاک! اگر سینهٔ تو بشکافند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس گوهر قیمتی که در سینهٔ توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

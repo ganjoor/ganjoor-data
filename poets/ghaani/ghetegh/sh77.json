@@ -1,0 +1,58 @@
+{
+  "Id": 45739,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۷۷",
+  "FullUrl": "/ghaani/ghetegh/sh77",
+  "RhymeLetters": "س",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: هر گناهی که به اجبار انجام شود، تنها از خداوند نشأت می‌گیرد. اما اگر خیری اتفاق بیفتد، فرد به شکرگزاری مشغول می‌شود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "س",
+      "PlainText": "هرگناهی که خودکند جبری\r\nهمه را از خدای داند و بس\r\nور ازو خیری اتفاق افتد\r\nبرگشاید به شکر نفس نفس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگناهی که خودکند جبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه را از خدای داند و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور ازو خیری اتفاق افتد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرگشاید به شکر نفس نفس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگناهی که خودکند جبری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همه را از خدای داند و بس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ور ازو خیری اتفاق افتد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برگشاید به شکر نفس نفس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

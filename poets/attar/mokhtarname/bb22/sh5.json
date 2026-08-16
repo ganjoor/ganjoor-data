@@ -1,0 +1,58 @@
+{
+  "Id": 34880,
+  "CatId": 823,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "عطار » مختارنامه » باب بیست و دوم: در روی به آخرت آوردن و ترك دنیا كردن » شمارهٔ ۵",
+  "FullUrl": "/attar/mokhtarname/bb22/sh5",
+  "RhymeLetters": "ادبمرد",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تقابل بین زندگی و مرگ اشاره دارد. او تاکید می‌کند که حتی اگر کسی در زندگی رنج کشیده باشد، سرانجام به مرگ می‌رسد، چه شاگرد باشد و چه استاد. این نشان‌دهنده‌ی از بین رفتن تبعیض‌ها و مسائلی است که در طول زندگی وجود دارند. شاعر به این نکته می‌پردازد که همه انسان‌ها در نهایت به یک سرنوشت مشترک دچار می‌شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادبمرد",
+      "PlainText": "دیدی تو که محنت زده و شاد بمرد\r\nشاگرد به خاک رفت و استاد بمرد\r\nآن دم مردی که زادهای از مادر\r\nاین مایه بدان که هر که او زاد بمرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدی تو که محنت زده و شاد بمرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاگرد به خاک رفت و استاد بمرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن دَم مُردی که زادهای از مادر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین مایه بدان که هر که او زاد بمرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدی تو که محنت زده و شاد بمرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاگرد به خاک رفت و استاد بمرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن دَم مُردی که زادهای از مادر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این مایه بدان که هر که او زاد بمرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

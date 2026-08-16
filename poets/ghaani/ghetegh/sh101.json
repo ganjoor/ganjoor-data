@@ -1,0 +1,58 @@
+{
+  "Id": 45763,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۰۱",
+  "FullUrl": "/ghaani/ghetegh/sh101",
+  "RhymeLetters": "ریشم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به تضاد بین درویش قناعت‌گر و سلطان توانگر اشاره دارد. بیان می‌کند که آنها نمی‌توانند به هم نزدیک شوند و ارتباطی برقرار کنند. همچنین، به افرادی که به خاطر طمع و خودخواهی خود، از دیگران دور می‌شوند، انتقاد می‌کند. در نهایت، این موضوع را با تشبیهی به کرم ابریشم بیان می‌کند که خود را به دام می‌اندازد و به نوعی، با رفتار خود، به دشمنی برای خود تبدیل می‌شود.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریشم",
+      "PlainText": "درویش قناعت گر و سلطان توانگر\r\nپیوند نیابند به صدکاسه سریشم\r\nهرکس که تند تار طمع پیش و پس خویش\r\nخود دشمن خویش  آید چون کرم بریشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرویش قناعت‌گر و سلطان توانگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیوند نیابند به صدکاسه سریشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکس که تند تار طمع پیش و پس خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود دشمن خویش‌ آید چون کرم بریشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درویش قناعت‌گر و سلطان توانگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوند نیابند به صدکاسه سریشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرکس که تند تار طمع پیش و پس خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود دشمن خویش‌ آید چون کرم بریشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

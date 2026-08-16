@@ -1,0 +1,58 @@
+{
+  "Id": 116151,
+  "CatId": 2692,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/akhsikati/divan/robaee/sh25",
+  "RhymeLetters": "یدبرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات شاعری به توصیف مقام و عظمت یک شخصیت مهم اشاره دارد. شاعر می‌گوید که خاک پای او با نور خورشید در تماس است و بادی که به حرکت در می‌آید، کلاه جمشید را به همراه می‌آورد. همچنین هر دست که با او ارتباط برقرار کند، امید را از زندگی می‌برد. به طور کلی، این شعر نشان‌دهنده تاثیرات مثبت و فراگیر این شخصیت بر دیگران و جهان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدبرد",
+      "PlainText": "خاک قدم تو آب خورشید برد\r\nباد سخطت کلاه جمشید برد\r\nهر دست که چوگان قبول تو گرفت\r\nاز کل وجود  گوی امید برد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاک قدم تو، آب خورشید بَرَد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد سخطت، کلاه جمشید برد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دست، که چوگان قبول تو گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کل وجود‌، گوی امید برد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خاک قدم تو، آب خورشید بَرَد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باد سخطت، کلاه جمشید برد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر دست، که چوگان قبول تو گرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از کل وجود‌، گوی امید برد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 31337,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۸۷۹",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۸۷۹",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1879",
+  "RhymeLetters": "ویی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، بلبلکی نازک صدا ترانه‌ای را کنار جوی می‌خواند. او از زیبایی گلی که با سنگ‌های قیمتی ساخته شده صحبت می‌کند، ولی این گل بویی ندارد. ",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویی",
+      "PlainText": "دی بلبلکی لطیفکی خوش گویی\r\nمی گفت ترانه ای کنار جویی\r\nکز لعل و زمرد و زر و زیره توان\r\nبرساخت گلی ولی ندارد بویی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی بلبلکی لطیفکی خوش گوئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌گفت ترانه‌ای کنار جوئی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز لعل و زمرد و زر و زیره توان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرساخت گلی ولی ندارد بوئی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی بلبلکی لطیفکی خوش گوئی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌گفت ترانه‌ای کنار جوئی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کز لعل و زمرد و زر و زیره توان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برساخت گلی ولی ندارد بوئی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

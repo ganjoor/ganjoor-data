@@ -1,0 +1,58 @@
+{
+  "Id": 103155,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۱",
+  "FullUrl": "/jooya/divan/robaee/sh101",
+  "RhymeLetters": "وسشدی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به حسرت و درد جدایی از معشوق اشاره می‌کند. او می‌گوید وقتی از وصل یار ناامید شدی، با زخم‌ها و آلام جدایی کنار آمدی. به گونه‌ای که تمامی وجودت در غم و درد غرق شده و زیبایی‌های وجودت به حالتی دچار تغییر شده و شبیه رنگ‌های طاووس گشته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وسشدی",
+      "PlainText": "ای دل چو ز وصل یار مأیوس شدی\r\nبا محنت و درد هجر مأنوس شدی\r\nپا تا به سرت گشته نهان در گل داغ\r\nگلشن تن خود به رنگ طاووس شدی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل چو ز وصل یار مأیوس شدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا محنت و درد هجر مأنوس شدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپا تا به سرت گشته نهان در گل داغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلشن تن خود به رنگ طاووس شدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل چو ز وصل یار مأیوس شدی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با محنت و درد هجر مأنوس شدی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پا تا به سرت گشته نهان در گل داغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گلشن تن خود به رنگ طاووس شدی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

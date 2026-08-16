@@ -1,0 +1,59 @@
+{
+  "Id": 52010,
+  "CatId": 1849,
+  "Title": "فقرۀ ۱۳",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۱۳",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh16",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره اهمیت حفظ فرهنگ و دانش و همچنین ارزش خانواده است. شاعر هشدار می‌دهد که اگر از فرهنگ و تربیت دوری کنیم، ممکن است خود را با پشیمانی و غم روبرو کنیم. همچنین، بر توجه به زن و کودک و احترام به آن‌ها تأکید می‌کند، زیرا جدا شدن از این ارزش‌ها باعث از دست دادن آرامش و رفاه خواهد شد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "مبادا ز فرهنگ و دانش جدا\r\nزن و کودک مردم پارسا\r\nکش آرد پشیمانی بیکران\r\nبرد بیش و تیمار و رنج گران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمبادا ز فرهنگ و دانش جدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزن و کودک مردم پارسا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکش آرد پشیمانی بیکران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرد بیش و تیمار و رنج گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "زن و فرزند خویشتن جدا از فرهنگ بمهل‌، کت تیمار و بیش (‌رنج و غم‌) گران نرسد و پشیمان نشوی‌.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "مبادا ز فرهنگ و دانش جدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "زن و کودک مردم پارسا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "کش آرد پشیمانی بیکران",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "برد بیش و تیمار و رنج گران",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

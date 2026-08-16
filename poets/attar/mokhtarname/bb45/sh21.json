@@ -1,0 +1,58 @@
+{
+  "Id": 35892,
+  "CatId": 846,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "عطار » مختارنامه » باب چهل و پنجم: در معانیی كه تعلق به گل دارد » شمارهٔ ۲۱",
+  "FullUrl": "/attar/mokhtarname/bb45/sh21",
+  "RhymeLetters": "ارم",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گل به بیان احساسات خود می‌پردازد و از درد و رنج‌هایی که تحمل می‌کند صحبت می‌کند. او می‌گوید که گاهی زخم می‌زند و گاهی وقت‌ها روی زمین می‌افتد. همچنین اشاره می‌کند که گاه به خاطر آتش و گرما، به خود آسیب می‌زند. در نهایت، گل از اینکه غم و رنج را تحمل کرده، ابراز نگرانی می‌کند و این پرسش را مطرح می‌کند که چه گناهی کرده است که این همه عذاب می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارم",
+      "PlainText": "گل گفت که گه زخم زند صد خارم\r\nگه باد به خاک ره فشاند خوارم\r\nگه مرد گلابگر بر آتش نهدم\r\nآخر من غم کش چه جنایت دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل گفت: که گه زخم زند صد خارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه باد به خاک ره فشاند خوارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه مردِ گلابگر بر آتش نهدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر منِ غم کش چه جنایت دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل گفت: که گه زخم زند صد خارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه باد به خاک ره فشاند خوارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه مردِ گلابگر بر آتش نهدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر منِ غم کش چه جنایت دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

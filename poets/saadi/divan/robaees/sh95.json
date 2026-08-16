@@ -1,0 +1,58 @@
+{
+  "Id": 10156,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۹۵",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۹۵",
+  "FullUrl": "/saadi/divan/robaees/sh95",
+  "RhymeLetters": "رم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار شاعر به عشق و فدای خود برای معشوق اشاره می‌کند. او می‌گوید که برای رسیدن به محبوبش آماده است هر چیزی از جمله جان و مال خود را فدای او کند. عشق او تا جایی عمیق است که حاضر است خود را بفروشد تا رضایت معشوقش را به دست آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رم",
+      "PlainText": "خورشید رخا من به کمند تو درم\r\nبارت بکشم به جان و جورت ببرم\r\nگر سیم و زرم خواهی و گر جان و سرم\r\nخود را بفروشم و مرادت بخرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید رخا من به کمند تو درم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبارت بکشم به جان و جورت ببرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر سیم و زرم خواهی و گر جان و سرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود را بفروشم و مرادت بخرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید رخا من به کمند تو درم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بارت بکشم به جان و جورت ببرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر سیم و زرم خواهی و گر جان و سرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود را بفروشم و مرادت بخرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

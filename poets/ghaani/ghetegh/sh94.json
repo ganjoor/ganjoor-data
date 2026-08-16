@@ -1,0 +1,58 @@
+{
+  "Id": 45756,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۹۴",
+  "FullUrl": "/ghaani/ghetegh/sh94",
+  "RhymeLetters": "ول",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به تصویر کشیدن مکانی ترسناک و مخوف اشاره دارد که انسان در آن احساس هراس و ناامنی می‌کند. به قدری این مکان دلهره‌آور است که حتی شیطان هم از آن ابراز ناتوانی می‌کند. شاعر با استفاده از زبان و تصویرهای قوی، وحشتی عمیق را به تصویر می‌کشد که فراتر از تصور است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ول",
+      "PlainText": "چنان بیغوله دشتی آدمی کش\r\nکه نگذشتی در آن اندیشه از هول\r\nتعالی الله بدانسان وحشت انگیز\r\nکه شیطان اندرو می گفت لاحول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان بیغوله دشتی آدمی‌کش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نگذشتی در آن اندیشه از هول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتعالی‌الله بدانسان وحشت‌انگیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شیطان اندرو می‌گفت لاحول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان بیغوله دشتی آدمی‌کش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که نگذشتی در آن اندیشه از هول",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تعالی‌الله بدانسان وحشت‌انگیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که شیطان اندرو می‌گفت لاحول",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

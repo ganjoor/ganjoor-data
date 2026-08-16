@@ -1,0 +1,58 @@
+{
+  "Id": 123702,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۳۶",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۳۶",
+  "FullUrl": "/naziri/divan/robaee/sh136",
+  "RhymeLetters": "ستهتری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس دل‌تنگی و جدایی اشاره دارد. شاعر از کشاورزی و فصول طبیعی صحبت می‌کند و به این نتیجه می‌رسد که از ابرها و بادها باید به کشتزار و بهار توجه بیشتری داشت. او خودش را در هر شب به خاطر دوری معشوق خسته‌تر و معشوق را در هر صبح از زحمت‌هایش رها شده‌تر می‌بیند. \n\nبه طور کلی، این شعر نشان‌دهنده‌ی عشق و دلتنگی عمیق شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستهتری",
+      "PlainText": "از ابر به کشتزار بایسته تری\r\nوز باد به نوبهار شایسته تری\r\nهر شام من از فراق تو خسته ترم\r\nهر صبح تو از زحمت من رسته تری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ابر به کشتزار بایسته تری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز باد به نوبهار شایسته تری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شام من از فراق تو خسته ترم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر صبح تو از زحمت من رسته تری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از ابر به کشتزار بایسته تری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز باد به نوبهار شایسته تری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر شام من از فراق تو خسته ترم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر صبح تو از زحمت من رسته تری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 118937,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/azar/divan/robaee/sh16",
+  "RhymeLetters": "الاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از غم جدایی و وضعیت ناخوشایند خود حرف می‌زند. او می‌گوید که حالش به قدری بد است که نمی‌تواند به خوبی درباره‌اش صحبت کند. همچنین به انتظارش برای چشم کسی اشاره می‌کند که برای او بسیار اهمیت دارد و نگاهش را به آن شخص دوخته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الاست",
+      "PlainText": "حالم ز غم هجر چه ناخوش حال است\r\nحالی که ز گفتنش زبانم لال است\r\nدارم چشم نگه ز چشمی و چه چشم\r\nچشمی که هزار چشمش از دنبال است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحالم ز غم هجر، چه ناخوش حال است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحالی که ز گفتنش زبانم لال است!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارم چشم نگه ز چشمی و چه چشم؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمی که هزار چشمش از دنبال است!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حالم ز غم هجر، چه ناخوش حال است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حالی که ز گفتنش زبانم لال است!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دارم چشم نگه ز چشمی و چه چشم؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشمی که هزار چشمش از دنبال است!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

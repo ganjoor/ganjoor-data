@@ -1,0 +1,58 @@
+{
+  "Id": 77820,
+  "CatId": 2116,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "همام تبریزی » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/homam/robaeeho/sh2",
+  "RhymeLetters": "قرا",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر به اهمیت شناخت حقیقت اشاره شده است. شاعر می‌گوید که باید تلاش کنی تا حقیقت را بشناسی، چون در آن‌جا که حقیقت وجود دارد، صدای بی‌معنی و زرق و برق را نمی‌خرند. همچنین، علم الهی به مانند وسیله‌ای است که روح را به اوج می‌رساند، ولی برای انسان‌های نادان فقط مانند وسیله‌ای بی‌ارزش می‌ماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "قرا",
+      "PlainText": "جهدی بنما تا بشناسی حق را\r\nکانجا نخرند غلغل و بقبق را\r\nاز علم الهی که براق روح است\r\nجز استر زینی نرسد احمق را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهدی بنما تا بشناسی حق را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانجا نخرند غلغل و بقبق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز علم الهی که براق روح است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز استر زینی نرسد احمق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهدی بنما تا بشناسی حق را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کانجا نخرند غلغل و بقبق را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از علم الهی که براق روح است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز استر زینی نرسد احمق را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

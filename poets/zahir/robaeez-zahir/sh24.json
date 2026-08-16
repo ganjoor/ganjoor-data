@@ -1,0 +1,58 @@
+{
+  "Id": 73616,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/zahir/robaeez-zahir/sh24",
+  "RhymeLetters": "ینمیرفت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر توصیف می‌کند که دیو شاه با چهره‌ای زیبا و رنگین به طور پیاده و به نرمی حرکت می‌کند. او به اندازه‌ای جذاب است که شکر از لبش به زمین می‌ریزد و به نظر می‌رسد در حالتی از مستی و بی‌خبری، شاداب و سرحال قدم می‌زند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینمیرفت",
+      "PlainText": "دی شاه بتان با رخ رنگین می رفت\r\nبی اسب و پیاده نغز و شیرین می رفت\r\nشکر ز لبش به پیل بالا می ریخت\r\nوز مستی و بیخودی چو فرزین می رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی شاه بتان با رخ رنگین می رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی اسب و پیاده نغز و شیرین می رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکر ز لبش به پیل بالا می ریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز مستی و بیخودی چو فرزین می رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی شاه بتان با رخ رنگین می رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی اسب و پیاده نغز و شیرین می رفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکر ز لبش به پیل بالا می ریخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز مستی و بیخودی چو فرزین می رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

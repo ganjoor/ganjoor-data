@@ -1,0 +1,58 @@
+{
+  "Id": 70130,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/amir/robam/sh87",
+  "RhymeLetters": "ینخواهدبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر به قدرت و توانایی افرادی اشاره شده که اگر بتوانند به بالاترین مقام‌ها و جایگاه‌ها دست یابند و حتی بر دست فلک نیز تسلط پیدا کنند، در نهایت همه این افتخارات و مقام‌ها به نام ملکشاه ثبت خواهد شد. به نوعی این متن بیانگر این است که هر چقدر هم قدرت یافتگان در تلاش باشند، نام و یاد ملکشاه برتر از همه خواهد بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهکنند",
+      "PlainText": "گر بر فلک از تاجوران راه کنند\r\nوز قدرت و قدر دست بر ماه کنند\r\nور دست فلک ز دهر کوتاه کنند\r\nآخر همه خطبه بر ملکشاه کنند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بر فلک از تاجوران راه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز قدرت و قدر دست بر ماه کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور دست فلک ز دهر کوتاه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر همه خطبه بر ملکشاه کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر بر فلک از تاجوران راه کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز قدرت و قدر دست بر ماه کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ور دست فلک ز دهر کوتاه کنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر همه خطبه بر ملکشاه کنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 29269,
+  "CatId": 254,
+  "Title": "رباعی شمارهٔ ۳",
+  "FullTitle": "اوحدی مراغه‌ای » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳",
+  "FullUrl": "/ouhadi/divano/robaeeo/sh3",
+  "RhymeLetters": "وشامشب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از انتظار و امید دیدار محبوب سخن می‌گوید. او شب را به یاد شب گذشته و حالتی که محبوب در دلش داشته، توصیف می‌کند و آرزو دارد که امشب بتواند محبوبش را در آغوش بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشامشب",
+      "PlainText": "هستیم به امید تو چون دوش امشب\r\nبر آمدنت بسته دل و هوش امشب\r\nزان گونه که دوش در دلم بودی تو\r\nیارب که ببینمت در آغوش امشب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستیم به امید تو چون دوش امشب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آمدنت بسته دل و هوش امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان گونه که دوش در دلم بودی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب! که ببینمت در آغوش امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هستیم به امید تو چون دوش امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر آمدنت بسته دل و هوش امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان گونه که دوش در دلم بودی تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یارب! که ببینمت در آغوش امشب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70096,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۵۳",
+  "FullUrl": "/amir/robam/sh53",
+  "RhymeLetters": "امتومباد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعر بیان می‌کند که باید دنیا تنها به خاطر تو زیبا و آباد باشد. او معتقد است که در رفتار تو جز هنر و انصاف نباید وجود داشته باشد و همچنین دشمنان تو نباید از رنج و مشکلات آزاد باشند. در نهایت، هرکس که برای تو شادی نکند، نباید در واقع شاد باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمباد",
+      "PlainText": "گیتی ملکا جز به تو آباد مباد\r\nدر عادت تو جز هنر و داد مباد\r\nخصم تو ز بند محنت آزاد مباد\r\nهر کاو به تو شادی نکند شاد مباد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیتی ملکا جز به تو آباد مباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عادت تو جز هنر و داد مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخصم تو ز بند محنت آزاد مباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کاو به تو شادی نکند شاد مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیتی ملکا جز به تو آباد مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عادت تو جز هنر و داد مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خصم تو ز بند محنت آزاد مباد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر کاو به تو شادی نکند شاد مباد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

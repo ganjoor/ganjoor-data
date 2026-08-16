@@ -1,0 +1,58 @@
+{
+  "Id": 103088,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/jooya/divan/robaee/sh34",
+  "RhymeLetters": "وست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت درباره وجود خداوند است که تنها اوست و همه چیز را از خود می‌داند. هر کسی که از دیگران به نور و هدایت الهی نگاه کند، می‌فهمد که توجه و نور الهی به سوی اوست. به عبارت دیگر، همه موجودات به نوعی به خدا وابسته‌اند و او را درک می‌کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "آن ذات خفی که لا اله الا هوست\r\nاز خود می داندش چه بیگانه چه دوست\r\nهر کس سوی شمع بیند از مجلسیان\r\nداند نظر شمع همین جانب اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ذات خفی که لا اله الا هوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خود می داندش چه بیگانه چه دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس سوی شمع بیند از مجلسیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداند نظر شمع همین جانب اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن ذات خفی که لا اله الا هوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خود می داندش چه بیگانه چه دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر کس سوی شمع بیند از مجلسیان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داند نظر شمع همین جانب اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

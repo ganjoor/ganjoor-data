@@ -1,0 +1,58 @@
+{
+  "Id": 1269,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۵۱",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۵۱",
+  "FullUrl": "/khayyam/robaee/sh151",
+  "RhymeLetters": "اکمنوتو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به معنای این هستند که وقتی روح ما از بدن جدا می‌شود، تنها یک سنگ روی قبر ما می‌گذارند و سپس دیگران را در همان خاک دفن می‌کنند. در واقع، این شعر به ناپایداری زندگی و فراموشی انسان‌ها پس از مرگ اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکمنوتو",
+      "PlainText": "از تن چو برفت جان پاک من و تو\r\nخشتی دو نهند بر مغاک من و تو\r\nوآنگاه برای خشت گور دگران\r\nدر کالبدی کشند خاک من و تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تن چو برفت جان پاک من و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخشتی دو نهند بر مغاک من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآنگاه برای خشت گور دگران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کالبدی کشند خاک من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از تن چو برفت جان پاک من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خشتی دو نهند بر مغاک من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وآنگاه برای خشت گور دگران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کالبدی کشند خاک من و تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

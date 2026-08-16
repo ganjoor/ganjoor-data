@@ -1,0 +1,58 @@
+{
+  "Id": 64567,
+  "CatId": 338,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "سیف فرغانی » دیوان اشعار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/seyf/divan-seyf/robaee-seyf/sh13",
+  "RhymeLetters": "یدهزتونیک",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس عمیق عذرخواهی و ندامت شاعر است. او اقرار می‌کند که در طول عمرش کارهای بدی انجام داده و حتی درباره‌ی دیگران نیز سخنان ناپسندی گفته است. اما او می‌گوید که در نهایت، خوبی‌ها و مهربانی‌های معشوقش به او رسیده و نشان می‌دهد که نیکی و پاکی معشوق او را تحت تأثیر قرار داده است. در واقع، شاعر به contrast بین بدی‌های خود و نیکی‌های معشوق اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدهزتونیک",
+      "PlainText": "ای من همه بد کرده و دیده ز تو نیک\r\nبد گفته همه عمر و شنیده ز تو نیک\r\nحد بدی و غایت نیکی این است\r\nکز من به تو بد به من رسیده ز تو نیک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای من همه بد کرده و دیده ز تو نیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبد گفته همه عمر و شنیده ز تو نیک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحد بدی و غایت نیکی این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز من به تو بد، به من رسیده ز تو نیک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای من همه بد کرده و دیده ز تو نیک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بد گفته همه عمر و شنیده ز تو نیک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حد بدی و غایت نیکی این است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز من به تو بد، به من رسیده ز تو نیک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

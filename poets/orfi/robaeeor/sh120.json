@@ -1,0 +1,58 @@
+{
+  "Id": 48839,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۲۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۲۰",
+  "FullUrl": "/orfi/robaeeor/sh120",
+  "RhymeLetters": "ستکند",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساسات و آرزوهای خود صحبت می‌کند. او می‌خواهد که شراب همت و تلاشش را مست کند و به او امید بدهد. اگر به دست کسی دست بزند که غیر از او است، اینقدر قوی است که با شمشیرش آن دست را قطع کند. به طور کلی، این اشعار بیانگر عزم و اراده‌ی قوی شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستکند",
+      "PlainText": "خوش آن که شراب همتم مست کند\r\nآوازه امید مرا پست کند\r\nگر دست زنم به کام در دست دگر\r\nشمشیر دهم که قطع آن دست کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن که شراب همتم مست کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآوازهٔ امید مرا پست کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دست زنم به کام، در دست دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمشیر دهم که قطع آن دست کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آن که شراب همتم مست کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آوازهٔ امید مرا پست کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دست زنم به کام، در دست دگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر دهم که قطع آن دست کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

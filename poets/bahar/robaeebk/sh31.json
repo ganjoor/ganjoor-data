@@ -1,0 +1,58 @@
+{
+  "Id": 51754,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۳۱ - این رباعی را از منفای خود «‌بجنورد» گفته است",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۳۱ - این رباعی را از منفای خود «‌بجنورد» گفته است",
+  "FullUrl": "/bahar/robaeebk/sh31",
+  "RhymeLetters": "انخواهید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر می‌گوید اگر مردم مرکز ایران به گل و خوشی می‌خواهند و یا به صدای خوش بلبل علاقه‌مندند، باید یا به بجنورد بروند یا اینکه بهار را به تهران بیاورند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انخواهید",
+      "PlainText": "ای مرکزیان گر گل و ریحان خواهید\r\nور بلبل سرمست غزلخوان خواهید\r\nیا مرکز ملک را به بجنورد کشید\r\nیا آنکه بهار را به تهران خواهید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرکزیان گر گل و ریحان خواهید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور بلبل سرمست غزلخوان خواهید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا مرکز ملک را به بجنورد کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا آنکه بهار را به تهران خواهید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مرکزیان گر گل و ریحان خواهید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور بلبل سرمست غزلخوان خواهید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا مرکز ملک را به بجنورد کشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا آنکه بهار را به تهران خواهید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

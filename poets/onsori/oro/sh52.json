@@ -1,0 +1,58 @@
+{
+  "Id": 68902,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/onsori/oro/sh52",
+  "RhymeLetters": "و",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شخصی به سمرقند می‌آید، با وجود دشمنانش. در اینجا، او در حال تماشای زیبایی‌های منطقه است، و بر روی رود جیحون پلی می‌سازد و غل و زنجیری برای دشمنانش آماده می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "و",
+      "PlainText": "آمد به سمرقند شه از رغم عدو\r\nاینک ملک مشرق بدخواهش کو\r\nگر یبغو و جیحونش نظر دید افزون\r\nپل بر جیحون نهاد و غل بر یبغو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد به سمرقند شه از رغم عدو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینک ملک مشرق بدخواهش کو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر یبغو و جیحونش نظر دید افزون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپل بر جیحون نهاد و غل بر یبغو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد به سمرقند شه از رغم عدو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اینک ملک مشرق بدخواهش کو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر یبغو و جیحونش نظر دید افزون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پل بر جیحون نهاد و غل بر یبغو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Id": 119657,
+  "CatId": 2757,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » مفردات » شمارهٔ ۱",
+  "FullUrl": "/neshat/divan/mofradat/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر با امید زیاد درد و دلش را با پزشک در میان می‌گذارد، اما پزشک جواب می‌دهد که برای درد بیمار چاره‌ای جز مرگ نیست.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "گفتجزمردننباشدچارهیبیمارما",
+      "PlainText": "با هزار امید درد دل چو گفتم با طبیب\r\nگفت جز مردن نباشد چاره ی بیمار ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هزار امید درد دل چو گفتم با طبیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت جز مردن نباشد چاره ی بیمار ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با هزار امید درد دل چو گفتم با طبیب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفت جز مردن نباشد چاره ی بیمار ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45838,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۲۵",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۲۵",
+  "FullUrl": "/ghaani/robaeegh/sh25",
+  "RhymeLetters": "مرخوریم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به مفهوم لذت بردن از زندگی اشاره دارد. شاعر می‌گوید به جای نگرانی و غم، بهتر است از خوشی‌ها و لذت‌ها بهره ببریم. او به استفاده از شراب به عنوان نمادی از شادی و لذت اشاره می‌کند و می‌گوید در زندگی گاهی با مشکلات و چالش‌ها روبه‌رو هستیم، اما باید سعی کنیم که از لحظات خوب زندگی نهایت استفاده را ببریم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مرخوریم",
+      "PlainText": "تاکی غم زید و گه غم عمر خوریم\r\nآن به که به جای غم ز خم خمر خوریم\r\nخوش باش به نیش  و نوش کز نخل حیات\r\nفرضست که گه خار و گهی تمر خوریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاکی غم زید و گه غم عمر خوریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن به که به جای غم ز خم خمر خوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش باش به نیش‌ و نوش کز نخل حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرضست که گه خار و گهی تمر خوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تاکی غم زید و گه غم عمر خوریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن به که به جای غم ز خم خمر خوریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوش باش به نیش‌ و نوش کز نخل حیات",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرضست که گه خار و گهی تمر خوریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

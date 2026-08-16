@@ -1,0 +1,58 @@
+{
+  "Id": 101801,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/salim/divan/robaee/sh10",
+  "RhymeLetters": "انتوکجاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به دنبال بلبل خوش نغمه‌ای است و از او می‌پرسد مکانش کجاست. او به آتشکده‌ای از درد و آه اشاره می‌کند و از بلبل می‌خواهد که تا کی باید در چمن به دنبالش بگردند. در نهایت، شاعر به نوعی سوال می‌کند که بلبل، که به عنوان یک نماد عشق و زیبایی است، کجا می‌تواند سرانجام ساکن شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انتوکجاست",
+      "PlainText": "ای بلبل خوش نغمه مکان تو کجاست\r\nآتشکده ی آه و فغان تو کجاست\r\nتا چند درین چمن سراغ تو کنیم\r\nعنقا نه ای آخر آشیان تو کجاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بلبل خوش نغمه، مکان تو کجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتشکده ی آه و فغان تو کجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند درین چمن سراغ تو کنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعنقا نه ای، آخر آشیان تو کجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بلبل خوش نغمه، مکان تو کجاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتشکده ی آه و فغان تو کجاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا چند درین چمن سراغ تو کنیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عنقا نه ای، آخر آشیان تو کجاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

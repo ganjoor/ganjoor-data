@@ -1,0 +1,58 @@
+{
+  "Id": 69376,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/azraghi/arob/sh15",
+  "RhymeLetters": "ونست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این بیت دربارهٔ مسئله‌ای ریاضی و فلسفی صحبت می‌کند. می‌گوید که ۲۲۰ بیشتر از یک عدد خاص است و آن عدد نیمهٔ ۱۸ است. کسانی که از خرد و دانش کافی برخوردارند، می‌توانند این نکته را بفهمند، اما افرادی که نادان و بی‌فرهنگ هستند، از این مفهوم آگاه نیستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونست",
+      "PlainText": "چیزی که دویست و بیست صد افزونست\r\nیک نیمه او هجده بود این چونست\r\nاین آن داند که از خرد قارونست\r\nنی دانش نا اهل و خسان دونست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیزی که دویست و بیست صد افزونست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک نیمهٔ او هجده بود این چونست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین آن داند که از خرد قارونست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی دانش نا اهل و خسان دونست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چیزی که دویست و بیست صد افزونست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک نیمهٔ او هجده بود این چونست؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این آن داند که از خرد قارونست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نی دانش نا اهل و خسان دونست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

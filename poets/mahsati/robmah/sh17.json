@@ -1,0 +1,58 @@
+{
+  "Id": 50077,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۷",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۷",
+  "FullUrl": "/mahsati/robmah/sh17",
+  "RhymeLetters": "ینهٔماست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این ابیات اشاره به شعله‌ور بودن احساسات و وجود انسانی دارند و دنیا را به عنوان یک آتشکده توصیف می‌کنند. همچنین به ارثی که از نیاکان داریم و تأثیر آن بر زندگی امروز اشاره می‌کنند، به طوری که آنچه داریم از خاک و فرهنگ برادران و نیاکان ما نشأت می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینهٔماست",
+      "PlainText": "ایام چو آتشکده از سینه ماست\r\nعالم کهن از وجود دیرینه ماست\r\nاینک به مثل چو کوزه ای آب خوریم\r\nاز خاک برادران پیشینه ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایام چو آتشکده از سینهٔ ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالم کهن از وجود دیرینهٔ ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینک به مثل چو کوزه‌ای آب خوریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خاک برادران پیشینهٔ ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایام چو آتشکده از سینهٔ ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالم کهن از وجود دیرینهٔ ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اینک به مثل چو کوزه‌ای آب خوریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خاک برادران پیشینهٔ ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

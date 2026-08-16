@@ -1,0 +1,58 @@
+{
+  "Id": 84212,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/maghrebi/robaee-sm/sh1",
+  "RhymeLetters": "دما",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: در این شعر، بت به بت‌پرست می‌گوید که آیا می‌دانی به چه دلیلی در برابر ما سجده می‌کنی؟ او توضیح می‌دهد که زیبایی و حضور خداوند به‌وضوح در چهره ما قابل مشاهده است و کسی که تو در حال پرستشش هستی، ناظر و شاهد ما است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دما",
+      "PlainText": "بت گفت به بت پرست کای عابد ما\r\nدانی ز چه روی گشته ای ساجد ما\r\nبر ما به جمال خود تجلی کرده است\r\nآن کس که ز تست ناظر و شاهد ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبت گفت به بت‌پرست کای عابد ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانی ز چه روی گشته‌ای ساجد ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر ما به جمال خود تجلی کرده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کس که ز تست ناظر و شاهد ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بت گفت به بت‌پرست کای عابد ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانی ز چه روی گشته‌ای ساجد ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر ما به جمال خود تجلی کرده است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن کس که ز تست ناظر و شاهد ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83017,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۲۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۲۹",
+  "FullUrl": "/hazin/robaee-hz/sh129",
+  "RhymeLetters": "ممیشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به آرزوی نجات بشر از مشکلات و دردها اشاره دارد. او می‌گوید اگر دعای نوح برای جلوگیری از غرق شدن انسان‌ها در این زمان مستجاب می‌شد، دنیا برای آدمی یک لحظه خوشی می‌آورد و بار مشکلات کم می‌گشت. همچنین آرزو می‌کند که طاعون و بلاهای دیگر به دنیای انسان‌ها حاکم شود تا شاید از این وضعیت رهایی یابند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ممیشد",
+      "PlainText": "گر نوح و دعای غرق این دم می شد\r\nدنیا یک دم به کام آدم می شد\r\nتا این همه کثرت اندکی کم می شد\r\nطاعون خری کاش به عالم میشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نوح و دعای غرق، این دم می شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنیا یک دم به کام آدم می شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا این همه کثرت اندکی کم می شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطاعون خری، کاش به عالم میشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر نوح و دعای غرق، این دم می شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دنیا یک دم به کام آدم می شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا این همه کثرت اندکی کم می شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طاعون خری، کاش به عالم میشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

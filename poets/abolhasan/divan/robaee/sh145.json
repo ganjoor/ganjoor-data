@@ -1,0 +1,58 @@
+{
+  "Id": 96408,
+  "CatId": 2478,
+  "Title": "شمارهٔ  ۱۴۵",
+  "FullTitle": "ابوالحسن فراهانی » دیوان اشعار » رباعیات » شمارهٔ  ۱۴۵",
+  "FullUrl": "/abolhasan/divan/robaee/sh145",
+  "RhymeLetters": "ادارممن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به وجود دو هزار خواسته و آرزو اشاره می‌کند و می‌گوید که به‌خاطر مداوم جفا و سختی‌ها، دلش به راحتی شکسته می‌شود. او خود را مانند حبابی در هوا می‌بیند که به سادگی آسیب‌پذیر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادارممن",
+      "PlainText": "در دل دو هزار مدعا دارم من\r\nزان است که پیوسته جفا دارم من\r\nزان زود شکسته می شود شیشه دل\r\nکورا چو حباب بر هوا دارم من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دل دو هزار مدّعا دارم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان است که پیوسته جفا دارم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان زود شکسته می شود شیشه دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکورا چو حباب بر هوا دارم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دل دو هزار مدّعا دارم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان است که پیوسته جفا دارم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان زود شکسته می شود شیشه دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کورا چو حباب بر هوا دارم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

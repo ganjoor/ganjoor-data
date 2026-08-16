@@ -1,0 +1,58 @@
+{
+  "Id": 51771,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/bahar/robaeebk/sh48",
+  "RhymeLetters": "وشیم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از نوشیدن جام باده عزت و جلال صحبت می‌کند و تأکید می‌کند که در مسیر شرافت با تمام وجود تلاش خواهد کرد. او اعلام می‌کند که حتی اگر در میدان جنگ نیز لباسش به خون آغشته شود، هرگز آزادی را به بندگی نخواهد فروخت. این بیانگر تعهد و فدای ارزش‌های والای انسانی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشیم",
+      "PlainText": "ما باده عزت و جلالت نوشیم\r\nدر راه شرف از دل و از جان کوشیم\r\nگر در صف رزم جامه از خون پوشیم\r\nآزادی را به بندگی نفروشیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما بادهٔ عزت و جلالت نوشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر راه شرف از دل و از جان کوشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در صف رزم جامه از خون پوشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآزادی را به بندگی نفروشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما بادهٔ عزت و جلالت نوشیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در راه شرف از دل و از جان کوشیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر در صف رزم جامه از خون پوشیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آزادی را به بندگی نفروشیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

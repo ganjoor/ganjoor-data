@@ -1,0 +1,58 @@
+{
+  "Id": 1270,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۵۲",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۵۲",
+  "FullUrl": "/khayyam/robaee/sh152",
+  "RhymeLetters": "اکمنوتو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این اشعار به نقش تقدیر و سرنوشت در زندگی انسان‌ها اشاره می‌کند و می‌گوید که آسمان (فلک) به هلاک ما قصد دارد. اما در عین حال از ما دعوت می‌کند که در طبیعت بنشینیم و به نوشیدن شراب بپردازیم، زیرا زندگی و خوشی‌های آن زودگذرند و می‌گذرد، مانند سبزه که از خاک می‌روید و سپس پژمرده می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکمنوتو",
+      "PlainText": "می  خور که فلک بهر هلاک من و تو\r\nقصدی دارد به جان پاک من و تو\r\nدر سبزه نشین و می روشن می خور\r\nکاین سبزه بسی دمد ز خاک من و تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌ خور که فلک بهر هلاک من و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقصدی دارد به جان پاک من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سبزه نشین و می روشن می‌خور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین سبزه بسی دمد ز خاک من و تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می‌ خور که فلک بهر هلاک من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قصدی دارد به جان پاک من و تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سبزه نشین و می روشن می‌خور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین سبزه بسی دمد ز خاک من و تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

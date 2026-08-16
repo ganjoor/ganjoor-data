@@ -1,0 +1,58 @@
+{
+  "Id": 2068,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱۸",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱۸",
+  "FullUrl": "/hafez/robaee2/sh18",
+  "RhymeLetters": "اباولیتر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به این موضوع اشاره دارند که در دوران جوانی، نوشیدن شراب بهترین انتخاب است، و لذت بردن از شراب ناب در کنار زندگی سبز و زیبا از هر چیز دیگری بهتر است. همچنین، زندگی دنیا به گونه‌ای است که همه در حال گذران روزگار هستند و حتی در مکان‌های خراب، زندگی و لذت‌بردن از آن اهمیت بیشتری دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباولىٰتر",
+      "PlainText": "ایام شباب ست شراب اولاتر\r\nبا سبزخطان باده ناب اولاتر\r\nعالم همه سر به سر رباطی ست خراب\r\nدر جای خراب هم خراب اولاتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایّام شباب‌ست، شراب اولاتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سبزخَطان، بادهٔ ناب اولاتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم همه سر به سر رباطی‌ست خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جای خراب هم، خراب اولاتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایّام شباب‌ست، شراب اولاتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با سبزخَطان، بادهٔ ناب اولاتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عالم همه سر به سر رباطی‌ست خراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جای خراب هم، خراب اولاتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

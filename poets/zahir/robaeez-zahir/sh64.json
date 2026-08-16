@@ -1,0 +1,58 @@
+{
+  "Id": 73656,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/zahir/robaeez-zahir/sh64",
+  "RhymeLetters": "یندل",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از وضعیت درد و رنج دلش در عشق سخن می‌گوید. او می‌گوید اگر یارت حال دلش را نمی‌داند، نباید بی‌تفاوت باشد، و اگر می‌داند و باز هم بی‌اعتناست، نشان‌دهنده بی‌حسی اوست. شاعر از سنگینی دل یار و رنجی که می‌کشد، گلایه می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یندل",
+      "PlainText": "در عشق تو باز گفت نتوان کاین دل\r\nچون است و چسان رنج کشد مسکین دل\r\nگر حال دلم ندانی ای غافل یار\r\nور دانی و تن می زنی ای سنگین دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق تو باز گفت نتوان کاین دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون است و [چسان] رنج کشد مسکین دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر حال دلم ندانی ای غافل یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور دانی و تن می زنی ای سنگین دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق تو باز گفت نتوان کاین دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون است و [چسان] رنج کشد مسکین دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر حال دلم ندانی ای غافل یار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور دانی و تن می زنی ای سنگین دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

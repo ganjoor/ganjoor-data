@@ -1,0 +1,58 @@
+{
+  "Id": 70112,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/amir/robam/sh69",
+  "RhymeLetters": "ونزد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت‌ها از عواطف عمیق خود نسبت به محبوب صحبت می‌کند. او ابراز می‌کند که حتی در سخت‌ترین شرایط، حاضر نیست از عشق و ارتباط خود با محبوب دست بکشد و حتی جان خود را هم برای او فدای می‌کند. به عبارت دیگر، او رابطه‌اش با محبوب را بسیار ارزشمندتر از هر چیز دیگری می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سنمییارمزد",
+      "PlainText": "من با تو بتا نفس نمی یارم زد\r\nدر موکب تو جرس نمی یارم زد\r\nجان میدهم و نفس نمی یارم زد\r\nدست از تو به هیچ کس نمی یارم زد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن با تو بتا نفس نمی‌یارم زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر موکب تو جرس نمی‌یارم زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان میدهم و نفس نمی‌یارم زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست از تو به هیچ‌کس نمی‌یارم زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من با تو بتا نفس نمی‌یارم زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در موکب تو جرس نمی‌یارم زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان میدهم و نفس نمی‌یارم زد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دست از تو به هیچ‌کس نمی‌یارم زد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

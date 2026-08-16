@@ -1,0 +1,58 @@
+{
+  "Id": 90792,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۸۱",
+  "FullUrl": "/kalim/divan/robaee/sh81",
+  "RhymeLetters": "سمیایم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساس خستگی و درد درونی خود اشاره می‌کند. او از زیبایی‌های زندگی فاصله گرفته و به دادرس (شاید خدا یا حقیقت) نزدیک می‌شود. مانند ساغری که همیشه در حال سفر است، او نیز در جستجوی پر شدن از معانی عمیق است، اما همچنان تهی و خالی به گذشته بر می‌گردد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سمیایم",
+      "PlainText": "دلخسته به پیش دادرس می آیم\r\nآزرده ز گلشن بقفس می آیم\r\nچون ساغر می بهر زمان در سفرم\r\nپر می روم و تهی به پس می آیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلخسته به پیش دادرس می آیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآزرده ز گلشن بقفس می آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ساغر می بهر زمان در سفرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر می روم و تهی به پس می آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلخسته به پیش دادرس می آیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آزرده ز گلشن بقفس می آیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون ساغر می بهر زمان در سفرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پر می روم و تهی به پس می آیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

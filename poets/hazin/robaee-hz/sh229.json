@@ -1,0 +1,58 @@
+{
+  "Id": 83126,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲۹",
+  "FullUrl": "/hazin/robaee-hz/sh229",
+  "RhymeLetters": "اازتو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساس شدید عشق و اشتیاق خود به معشوق سخن می‌گوید. او با اشاره به دل‌تنگی و آرزوهایش، نشان می‌دهد که تمام احساسات و خوشی‌هایش به معشوق مربوط می‌شود. همه چیز در زندگی‌اش، از قطره‌های اشک تا نوشیدنی‌ها، به معشوق و وجود او وابسته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اازتو",
+      "PlainText": "ای در دل هر قطره تمنا از تو\r\nوی در سر هر حباب سودا از تو\r\nممنون دل و دیده خونبار نیم\r\nجام از تو و باده از تو مینا از تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای در دل هر قطره تمنّا از تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی در سر هر حباب سودا از تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eممنون دل و دیدهٔ خونبار نیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجام از تو و باده از تو، مینا از تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای در دل هر قطره تمنّا از تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی در سر هر حباب سودا از تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ممنون دل و دیدهٔ خونبار نیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جام از تو و باده از تو، مینا از تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

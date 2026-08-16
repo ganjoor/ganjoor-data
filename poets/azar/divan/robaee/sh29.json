@@ -1,0 +1,58 @@
+{
+  "Id": 118950,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/azar/divan/robaee/sh29",
+  "RhymeLetters": "منیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: ساقی، نوشیدنی از آب زندگی فراوان است و اگرچه جام جم در دسترس نیست، هنوز حیات را به ارمغان می‌آورد. می‌گویند که شراب تلخ است، اما این تلخی هیچ‌گاه به اندازه غم تلخ نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منیست",
+      "PlainText": "ساقی می از آب زندگانی کم نیست\r\nزنده است از جام نام جم گر جم نیست\r\nگویند که تلخ است می آری سم نیست\r\nتلخ است اگر چه تلخ تر از غم نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی! می از آب زندگانی کم نیست!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنده است از جام نام جم، گر جم نیست!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند که: تلخ است می، آری، سم نیست!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتلخ است، اگر چه تلخ تر از غم نیست!!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی! می از آب زندگانی کم نیست!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زنده است از جام نام جم، گر جم نیست!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویند که: تلخ است می، آری، سم نیست!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تلخ است، اگر چه تلخ تر از غم نیست!!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

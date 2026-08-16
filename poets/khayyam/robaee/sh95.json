@@ -1,0 +1,58 @@
+{
+  "Id": 1213,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹۵",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹۵",
+  "FullUrl": "/khayyam/robaee/sh95",
+  "RhymeLetters": "ستشدند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "در این رباعی، شاعر به از دست دادن آشنایان و همراهان اشاره می‌کند و می‌گوید که شاهد از دست رفتن تک تک آنها بوده که زودتر از او دنیا را ترک کرده و مرده اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستشدند",
+      "PlainText": "یاران موافق همه از دست شدند\r\nدر پای اجل یکان یکان پست شدند\r\nخوردیم ز یک شراب در مجلس عمر\r\nدوری دو سه پیشتر ز ما مست شدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاران موافق همه از دست شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پای اجل یکان‌یکان پست شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوردیم ز یک شراب در مجلس عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوری دو سه پیشتر ز ما مست شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاران موافق همه از دست شدند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پای اجل یکان‌یکان پست شدند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوردیم ز یک شراب در مجلس عمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوری دو سه پیشتر ز ما مست شدند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

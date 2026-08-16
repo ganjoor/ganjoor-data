@@ -1,0 +1,58 @@
+{
+  "Id": 51746,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/bahar/robaeebk/sh23",
+  "RhymeLetters": "یزگشتیاحسنت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به تمجید از شخصی می‌پردازد که مانند آینه نورانی و روشن است و در تعامل با دیگران و ادبیان هوشمند به یاد ماندنی و بارز شده است. او همچنین به این نکته اشاره می‌کند که این شخص از یک مرحله ابتدایی (غوره) به یک مرحله بالاتر (مویز) رسیده است و این موفقیت‌ها را تحسین می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یزگشتیاحسنت",
+      "PlainText": "چون آینه نورخیز گشتی  احسنت\r\nچون اره به خلق تیز گشتی احسنت\r\nدر کفش ادیبان جهان کردی پای\r\nغوره نشده مویز گشتی  احسنت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون آینه نورخیز گشتی‌، احسنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون اره به خلق تیز گشتی احسنت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کفش ادیبان جهان کردی پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغوره نشده مویز گشتی‌، احسنت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون آینه نورخیز گشتی‌، احسنت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون اره به خلق تیز گشتی احسنت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کفش ادیبان جهان کردی پای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غوره نشده مویز گشتی‌، احسنت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

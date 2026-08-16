@@ -1,0 +1,58 @@
+{
+  "Id": 119598,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/neshat/divan/robaee/sh64",
+  "RhymeLetters": "اه",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به زیبایی‌های شب و روز اشاره می‌کند و از نور خورشید (مهر) و روشنایی ماه حرف می‌زند. او می‌گوید که خورشید زیبایی شبستان را تأمین می‌کند و ماه نیز در شب، فضایی آرامش‌بخش و زیبا ایجاد می‌کند. به نوعی، شاعر از اهمیت وجود نور در هر دو زمان، روز و شب، صحبت می‌کند و به زیبایی‌های ظاهری و معنوی آنها تأکید می‌نماید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اه",
+      "PlainText": "بادا تا هست روز شب و طلعت شاه\r\nهم زیب شبستان و هم آرایش گاه\r\nمهر است و بروز گیتی افروزد مهر\r\nماه است و بشب انجمن آراید ماه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادا تا هست روز شب و طلعت شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم زیب شبستان و هم آرایش گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهر است و بروز گیتی افروزد مهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماه است و بشب انجمن آراید ماه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بادا تا هست روز شب و طلعت شاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم زیب شبستان و هم آرایش گاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مهر است و بروز گیتی افروزد مهر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ماه است و بشب انجمن آراید ماه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83170,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۹",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh9",
+  "RhymeLetters": "شترا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، نویسنده از نابودی زیبایی و خوشبویی باغ بهشت صحبت می‌کند و به تضاد بین زیبایی (طره‌ عطرآگین) و نابودی آن اشاره می‌کند. همچنین، با ذکر درد و رنجی که ناشی از سرنوشت ناگوار است، سوالی از بی‌کسی می‌پرسد که آیا کسی می‌تواند برای تغییر سرنوشت کاری کند یا خیر. این اشعار تجلی‌گر اندوه و حسرت نسبت به آنچه که از دست رفته است، می‌باشد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شترا",
+      "PlainText": "دادی به باد طره عنبر سرشت را\r\nکردی کساد نکهت باغ بهشت را\r\nسر شمع سان ز داغ به آتش که می دهد\r\nآیا کسی چه چاره کند سرنوشت را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدادی به باد، طره عنبر سرشت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکردی کساد، نکهت باغ بهشت را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر، شمع سان ز داغ به آتش که می دهد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیا کسی چه چاره کند، سرنوشت را؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دادی به باد، طره عنبر سرشت را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کردی کساد، نکهت باغ بهشت را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر، شمع سان ز داغ به آتش که می دهد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیا کسی چه چاره کند، سرنوشت را؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 85655,
+  "CatId": 2238,
+  "Title": "شمارهٔ  ۲۵",
+  "FullTitle": "جلال عضد » دیوان اشعار » رباعیّات » شمارهٔ  ۲۵",
+  "FullUrl": "/jalal/divanj/robaee/sh25",
+  "RhymeLetters": "ید",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات اشاره می‌کند که ماه رمضان نزدیک است و پس از آن نمی‌تواند به نوشیدن باده ادامه دهد. او در آخرین روزهای شعبان تصمیم می‌گیرد تا از می‌نوشی لذت ببرد و از حال مستی برای روز عید خود را آماده کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "گویند که ماه روزه نزدیک رسید\r\nمن بعد به گرد باده نتوان گردید\r\nدر آخر شعبان بخورم چندان می\r\nکاندر رمضان مست بخسبم تا عید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند که ماه روزه نزدیک رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمِن بعد به گرد باده نتوان گردید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آخر شعبان بخورم چندان می\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر رمضان مست بخُسبم تا عید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند که ماه روزه نزدیک رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مِن بعد به گرد باده نتوان گردید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آخر شعبان بخورم چندان می",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاندر رمضان مست بخُسبم تا عید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

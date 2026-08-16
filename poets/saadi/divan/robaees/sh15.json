@@ -1,0 +1,58 @@
+{
+  "Id": 10076,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۵",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۵",
+  "FullUrl": "/saadi/divan/robaees/sh15",
+  "RhymeLetters": "روزست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر به اهمیت زندگی در لحظه حال و غفلت نکردن از آن اشاره می‌کند. او می‌گوید که شب‌هایی که با هم هستیم و روزهایی که در کنار هم می‌گذرانیم، ارزشمند هستند. به جای انتظار کشیدن برای فردا، باید از آنچه امروز داریم بهره بگیریم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روزست",
+      "PlainText": "آن شب که تو در کنار مایی روزست\r\nو آن روز که با تو می رود نوروزست\r\nدی رفت و به انتظار فردا منشین\r\nدریاب که حاصل حیات امروزست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن شب که تو در کنار مایی روزست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آن روز که با تو می‌رود نوروزست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی رفت و به انتظار فردا منشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاب که حاصل حیات امروزست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن شب که تو در کنار مایی روزست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و آن روز که با تو می‌رود نوروزست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دی رفت و به انتظار فردا منشین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاب که حاصل حیات امروزست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

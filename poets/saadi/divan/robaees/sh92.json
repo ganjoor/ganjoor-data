@@ -1,0 +1,58 @@
+{
+  "Id": 10153,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۹۲",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۹۲",
+  "FullUrl": "/saadi/divan/robaees/sh92",
+  "RhymeLetters": "نگ",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساس تنگی و محدودیت بدون محبوبش اشاره می‌کند. او می‌گوید که با وجود محبوب، دنیا برای او وسیع و زیباست، و به او افتخار می‌کند، در حالی که محبوب از وجود او شرمنده است. شاعر همچنین به رابطه متناقض بین خود و محبوب اشاره می‌کند که در عین صلح و عشق، محبوب با او در حال جنگ است، و در پایان از محبوب می‌خواهد حقیقت احساسات را بیان کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگ",
+      "PlainText": "ای بی تو فراخای جهان بر ما تنگ\r\nما را به تو فخرست و تو را از ما ننگ\r\nما با تو به صلحیم و تو را با ما جنگ\r\nآخر بنگویی که دل ست این یا سنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بی‌تو فراخای جهان بر ما تنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما را به تو فخرست و تو را از ما ننگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما با تو به صلحیم و تو را با ما جنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر بنگویی که دل‌ست این یا سنگ؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بی‌تو فراخای جهان بر ما تنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما را به تو فخرست و تو را از ما ننگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما با تو به صلحیم و تو را با ما جنگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر بنگویی که دل‌ست این یا سنگ؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

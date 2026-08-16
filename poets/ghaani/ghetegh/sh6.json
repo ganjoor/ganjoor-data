@@ -1,0 +1,58 @@
+{
+  "Id": 45646,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۶",
+  "FullUrl": "/ghaani/ghetegh/sh6",
+  "RhymeLetters": "اپرستانرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر این است که در عشق حقیقی، نیازی به دنیا و مادیات نیست. برای باورمندان به خدا، تسلیم شدن به غیر خدا ظلم محسوب می‌شود. به عبارت دیگر، انسان باید سر تسلیم را فقط به خداوند بفرود آورد و از محبت‌های دنیوی فاصله بگیرد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اپرستانرا",
+      "PlainText": "چون به عشق مجاز نیست نیاز\r\nبه دوگیتی هواپرستان را\r\nظلم باشد که سر فرود آید\r\nبه دوگیتی خداپرستان را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به عشق مجاز نیست نیاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دوگیتی هواپرستان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eظلم باشد که سر فرود آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دوگیتی خداپرستان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون به عشق مجاز نیست نیاز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به دوگیتی هواپرستان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ظلم باشد که سر فرود آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به دوگیتی خداپرستان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

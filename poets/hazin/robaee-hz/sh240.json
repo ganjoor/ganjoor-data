@@ -1,0 +1,58 @@
+{
+  "Id": 83137,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۴۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۴۰",
+  "FullUrl": "/hazin/robaee-hz/sh240",
+  "RhymeLetters": "ارانساقی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از غم و تنهایی خود بعد از ترک میگساران صحبت می‌کند. او به ساقی اشاره می‌کند که در هنگام رفتن همه را ترک کرده و او را در حال انتظار و درد دل رها کرده است. شاعر احساس می‌کند که مانند لاله‌ای در انتظار بارانی از لبان ساقی است و داغ شوق و درد در دلش باقی مانده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارانساقی",
+      "PlainText": "رفتند ز بزم میگساران ساقی\r\nمن مانده ام از گران خماران ساقی\r\nچون لاله در انتظار ابر کف توست\r\nداغ جگر سینه فگاران ساقی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتند ز بزم، میگساران ساقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن مانده ام از گران خماران ساقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون لاله در انتظارِ ابرِ کف توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغ جگر سینه فگاران ساقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتند ز بزم، میگساران ساقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من مانده ام از گران خماران ساقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون لاله در انتظارِ ابرِ کف توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داغ جگر سینه فگاران ساقی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

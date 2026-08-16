@@ -1,0 +1,58 @@
+{
+  "Id": 105721,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۱۰۰",
+  "FullUrl": "/ahli/saghiname/sh101",
+  "RhymeLetters": "اییباری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد که اگر نمی‌تواند شراب بدهد، دست‌کم نگاهی به او بیاندازد. او بیان می‌کند که نگاه ساقی می‌تواند به اندازه شراب تسکین‌دهنده باشد و برای او درمانی باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییباری",
+      "PlainText": "ساقی نظری به بینوانیی باری\r\nگر باده نمیدهی صلایی باری\r\nدرمان منست یک نگه چون نکنی\r\nاز نیم نگه نیم دوایی باری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی نظری به بینوانیی باری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر باده نمیدهی صلایی باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرمان منست یک نگه چون نکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نیم نگه نیم دوایی باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی نظری به بینوانیی باری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر باده نمیدهی صلایی باری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درمان منست یک نگه چون نکنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از نیم نگه نیم دوایی باری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

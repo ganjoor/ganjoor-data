@@ -1,0 +1,58 @@
+{
+  "Id": 98969,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۱",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh1",
+  "RhymeLetters": "امشبادا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت بیانگر ویژگی‌های درویش و زندگی اوست. درویش به صبر و استقامت تشبیه شده و امیدوار است که راضی به حال خود باشد. همچنین، به اهمیت رزق حلال اشاره می‌شود و تذکر داده می‌شود که اگر درویش به کسب روزی نامشروع (کدیه) بپردازد، خرقه و لباس درویشی او بی‌ارزش خواهد شد. در واقع، پیروزی واقعی درویش در درک ارزش‌های معنوی و زندگی صحیح است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امشبادا",
+      "PlainText": "درویش چو صابری است کامش بادا\r\nمه چاکر خورشید غلامش بادا\r\nهر درویشی که قوت یومش باشد\r\nگر کدیه کند خرقه حرامش بادا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرویش چو صابری است کامش بادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمَه چاکر، خورشید غلامش بادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر درویشی که قوت یومش باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر کدیه کند خرقه حرامش بادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درویش چو صابری است کامش بادا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مَه چاکر، خورشید غلامش بادا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر درویشی که قوت یومش باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر کدیه کند خرقه حرامش بادا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

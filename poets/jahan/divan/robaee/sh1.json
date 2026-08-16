@@ -1,0 +1,58 @@
+{
+  "Id": 113874,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/jahan/divan/robaee/sh1",
+  "RhymeLetters": "جا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساسات عاشقانه و نگرانی از جدایی اشاره می‌کند. او در عالم خیال، هر جا که باشد، به یاد معشوق است و از دوری او ترس و امید دارد. شاعر از معشوق می‌خواهد درباره صبر و دلش بگوید که این صبر تا کجا باید ادامه یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "جا",
+      "PlainText": "در دیده خیال تست ما را همه جا\r\nهستیم ز بیم هجر در خوف و رجا\r\nصبرم ز رخ خویش همی فرمایی\r\nصبر و دل من بگو کجا تا به کجا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دیده خیال تست ما را همه جا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستیم ز بیم هجر در خوف و رجا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبرم ز رخ خویش همی فرمایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبر و دل من بگو کجا تا به کجا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دیده خیال تست ما را همه جا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هستیم ز بیم هجر در خوف و رجا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبرم ز رخ خویش همی فرمایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبر و دل من بگو کجا تا به کجا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

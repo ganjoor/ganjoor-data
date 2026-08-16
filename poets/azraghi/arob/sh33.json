@@ -1,0 +1,58 @@
+{
+  "Id": 69394,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/azraghi/arob/sh33",
+  "RhymeLetters": "ندد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساس غم و ناراحتی شاعر از دوستی‌های روزمره و وابستگی‌هایی است که به دیگران پیدا می‌کند. شاعر می‌گوید که هر روز با شخص جدیدی ارتباط برقرار می‌کند و با او صحبت و می‌خندد، اما اگر لحظه‌ای شاد باشد، کسی آن را نمی‌پسندد. در نتیجه، او دل خود را به افرادی که ناپایدارند، نمی‌دهد. در واقع، شعر به تنهایی و دلتنگی در میان روابط سطحی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندد",
+      "PlainText": "هر روز بتم با دگری پیوندد\r\nبا وی گوید حدیث و با وی خندد\r\nگر من نفسی شاد زیم نپسندد\r\nمردم دل خویش بر چنین کس بندد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر روز بتم با دگری پیوندد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا وی گوید حدیث و با وی خندد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر من نفسی شاد زیم نپسندد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردم دل خویش بر چنین کس بندد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر روز بتم با دگری پیوندد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با وی گوید حدیث و با وی خندد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر من نفسی شاد زیم نپسندد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مردم دل خویش بر چنین کس بندد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 19587,
+  "CatId": 263,
+  "Title": "رباعی شمارهٔ ۳۵",
+  "FullTitle": "عراقی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳۵",
+  "FullUrl": "/eraghi/divane/robaeee/sh35",
+  "RhymeLetters": "رهست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر بیان می‌کند که حتی با وجود سختی‌هایی چون کباب دل و اشک، دوری از محبوب برای او بهتر از وصال دیگران است. او به معشوق می‌گوید که گمان می‌کند بدون او می‌تواند به زندگی ادامه دهد، اما در واقع بدون وجود او نه خواب و نه خوراکی برایش وجود ندارد. به عبارت دیگر، عشق و حضور محبوب برای او اساسی و ضروری است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رهست",
+      "PlainText": "هر چند کباب دل و چشم تر هست\r\nهجر تو ز وصل دیگری خوشتر هست\r\nتو پنداری که بی تو خواب و خور هست\r\nبی روی تو خواب و خور کجا در خور هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند کباب دل و چشم تر هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهجر تو ز وصل دیگری خوشتر هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو پنداری که بی تو خواب و خور هست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی روی تو خواب و خور کجا در خور هست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند کباب دل و چشم تر هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هجر تو ز وصل دیگری خوشتر هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو پنداری که بی تو خواب و خور هست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی روی تو خواب و خور کجا در خور هست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 12825,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۹۰",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۹۰",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh90",
+  "RhymeLetters": "اهتوبرفت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات نشان‌دهنده احساس ناباوری و ناامیدی شاعر از فقدان علم، دین و زیبایی‌های زندگی هستند. شاعر به سوی آسمان اشاره می‌کند و از رفتن ماه (نماد زیبایی و نور) و یا شاه سخن (نماد دانایی و حکمت) گلایه می‌کند. به‌طور کلی، این اشعار هم‌دردی با فقدان‌ها و ناامیدی‌ها را ابراز می‌کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهتوبرفت",
+      "PlainText": "ای عالم علم پیشگاه تو برفت\r\nای دین محمدی پناه تو برفت\r\nای چرخ فرو گسل که ماه تو برفت\r\nدر حجله رو ای سخن که شاه تو برفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عالم علم پیشگاه تو برفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دین محمدی پناه تو برفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چرخ فرو گسل که ماه تو برفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حجله‌رو ای سخن که شاه تو برفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عالم علم پیشگاه تو برفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای دین محمدی پناه تو برفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای چرخ فرو گسل که ماه تو برفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در حجله‌رو ای سخن که شاه تو برفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

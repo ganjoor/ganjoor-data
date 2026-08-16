@@ -1,0 +1,58 @@
+{
+  "Id": 107924,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/saeeda/divan/robaee/sh24",
+  "RhymeLetters": "المناست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به تقابل بین هستی و نیستی اشاره دارد. شاعر می‌گوید که هستی و تمام خوبی‌ها به تو تعلق دارد، در حالی که نیستی و بدی‌ها به من مربوط می‌شود. حال تو پر از عظمت و استقلال است، اما حال من پر از افتادگی و ضعف است. به‌طور کلی، شاعر احساس نابرابری و تضاد میان خودش و دیگری را توصیف می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "المناست",
+      "PlainText": "هستی مال تو و نیستی مال من است\r\nفعل تو همه نیک و بد افعال من است\r\nاستغنا و کبریاست حال تو مدام\r\nافتادگی و شکستگی حال من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی مال تو و نیستی مال من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفعل تو همه نیک و بد افعال من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاستغنا [و] کبریاست حال تو مدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتادگی و شکستگی حال من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هستی مال تو و نیستی مال من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فعل تو همه نیک و بد افعال من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "استغنا [و] کبریاست حال تو مدام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افتادگی و شکستگی حال من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45806,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۴۴",
+  "FullUrl": "/ghaani/ghetegh/sh144",
+  "RhymeLetters": "منی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به دوگانگی کفر و دین اشاره دارد و می‌گوید که این دو می‌توانند مانع راه شوند. شاعر از رفیق می‌خواهد که از این حالت مایی و منی بگذرد و با شمشیر عشق بر‌خیزد. او دعوت به دوست‌داشتن می‌کند و دشمنی را نیز مورد تأکید قرار می‌دهد؛ به‌عبارتی، عشق و دوستی باید بر هر چیز دیگری غلبه کنند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منی",
+      "PlainText": "چو کفر و دین حجاب رهست ای رفیق راه\r\nبگذار هر دو بگذرد ازین مایی و منی\r\nشمشیر عشق برکش و از خویش برآی\r\nآن را به دوستی کش و این را به دشمنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کفر و دین حجاب رهست ای رفیق راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذار هر دو بگذرد ازین مایی و منی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمشیر عشق برکش و از خویش برآی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن را به دوستی کش و این را به دشمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو کفر و دین حجاب رهست ای رفیق راه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگذار هر دو بگذرد ازین مایی و منی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمشیر عشق برکش و از خویش برآی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن را به دوستی کش و این را به دشمنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

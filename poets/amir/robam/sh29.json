@@ -1,0 +1,58 @@
+{
+  "Id": 70072,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/amir/robam/sh29",
+  "RhymeLetters": "فبیشاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات دربارهٔ زیبایی و جذابیت عشق صحبت می‌کنند. شاعر با افتخار از عشق خود می‌گوید و پیوند زلف معشوق را به یک مناجات زیبا تشبیه می‌کند. همچنین اشاره می‌کند که بازی شطرنجی که در عشق معشوق انجام می‌دهند، برایشان مهم نیست که برنده شوند، زیرا خود این بازی و احساسات و لحظات شیرین آن، بسیار لذت‌بخش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اتخوشاست",
+      "PlainText": "با لشکر عشق تو مباهات خوش است\r\nبا حلقه زلف تو مناجات خوش است\r\nشطرنج که در عشق تو بازیم همی\r\nما برد نخواهیم که شهمات خوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا لشکر عشق تو مباهات خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا حلقهٔ زلف تو مناجات خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشطرنج‌که در عشق تو بازیم همی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما برد نخواهیم که شَهمات خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با لشکر عشق تو مباهات خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با حلقهٔ زلف تو مناجات خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شطرنج‌که در عشق تو بازیم همی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما برد نخواهیم که شَهمات خوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

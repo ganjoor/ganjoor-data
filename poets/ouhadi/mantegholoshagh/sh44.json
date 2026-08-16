@@ -1,0 +1,57 @@
+{
+  "Id": 18114,
+  "CatId": 255,
+  "Title": "بخش ۴۴ - مثنوی",
+  "FullTitle": "اوحدی مراغه‌ای » منطق‌العشاق » بخش ۴۴ - مثنوی",
+  "FullUrl": "/ouhadi/mantegholoshagh/sh44",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساس تنهایی و دوری از معشوق اشاره می‌کند. او بیان می‌کند که نمی‌خواهد با معشوق به هم بپیوندد، بلکه بهتر است کنار نشسته و با هجران خود کنار بیاید. اگرچه او نمی‌خواهد در کنار معشوق باشد، اما از سوی دیگر، معشوق به گریه و زاری ادامه می‌دهد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ی",
+      "PlainText": "نخواهی گشت با وصلم هم آواز\r\nکناری گیر و با هجران همی ساز\r\nنخواهم در تو پیوستن بیاری\r\nتو خواهی گریه میکن خواه زاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخواهی گشت با وصلم هم آواز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکناری گیر و با هجران همی ساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخواهم در تو پیوستن بیاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو خواهی گریه میکن، خواه زاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نخواهی گشت با وصلم هم آواز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کناری گیر و با هجران همی ساز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نخواهم در تو پیوستن بیاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو خواهی گریه میکن، خواه زاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 76494,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/khojandi/robkk/sh16",
+  "RhymeLetters": "ویند",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نقد و بررسی رفتار دوستان و همراهانش می‌پردازد. او می‌گوید که یارانش مانند ورق شکسته، عیب‌های او را جستجو می‌کنند و می‌خواهند در هر جا که بحثی پیش می‌آید، او را مورد قضاوت قرار دهند. او به این مسئله اعتراض می‌کند و می‌پرسد چرا باید او را به بدی و عیب‌جویی نسبت دهند، در حالی که خود را به عنوان یک شعر خوب نمی‌بیند و از این وضعیت ناراضی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویند",
+      "PlainText": "یاران چو ورق شکسته ما می جویند\r\nچو خامه یکی دو عیب ما می پویند\r\nگویند بدم چو شعر هرجا که رسید\r\nمن شعر نیم بدم چرا می گویند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاران چو ورق شکسته ما می‌جویند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو خامه یکی دو عیب ما می‌پویند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند بدم چو شعر هرجا که رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن شعر نیم بدم چرا می‌گویند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاران چو ورق شکسته ما می‌جویند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو خامه یکی دو عیب ما می‌پویند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویند بدم چو شعر هرجا که رسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من شعر نیم بدم چرا می‌گویند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

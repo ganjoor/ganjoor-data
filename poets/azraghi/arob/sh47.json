@@ -1,0 +1,58 @@
+{
+  "Id": 69408,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۴۷",
+  "FullUrl": "/azraghi/arob/sh47",
+  "RhymeLetters": "نمیااید",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان زیبایی‌های طبیعی و تأثیر آن‌ها بر احساسات انسانی می‌پردازد. نویسنده از بوی خوش سمن که از چمن به مشام می‌رسد و طراوت باران که از ابرها به زمین می‌ریزد سخن می‌گوید. همچنین اشاره دارد که هر بادی که از سمت چمن می‌وزد، شعله‌های عشق را در دل زنده‌تر می‌کند. در کل، این شعر به ارتباط عمیق میان طبیعت و عشق اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمیااید",
+      "PlainText": "از خاک چمن بوی سمن می آید\r\nوز ابر طراوتی به تن می آید\r\nبر آتش عشق می فزاید در دل\r\nهر باد که از سوی چمن می آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خاک چمن بوی سمن می‌آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ابر طراوتی به تن می‌آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آتش عشق می‌فزاید در دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر باد که از سوی چمن می‌آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خاک چمن بوی سمن می‌آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز ابر طراوتی به تن می‌آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر آتش عشق می‌فزاید در دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر باد که از سوی چمن می‌آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

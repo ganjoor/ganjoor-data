@@ -1,0 +1,58 @@
+{
+  "Id": 70190,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴۷",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴۷",
+  "FullUrl": "/amir/robam/sh147",
+  "RhymeLetters": "متاو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به فتحی که شاه بر چین کسب کرده اشاره می‌کند و بیان می‌کند که این پیروزی باعث شادی و افتخار همه ممالک و دولت‌ها شده است. به ویژه، بوالفتح ملکشاه این چنینی فتوحات را به ارمغان می‌آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "زین فتح  که  کرد شاه در کشور چین\r\nهم ملک همی نازد و هم دولت و دین\r\nهر مملکتی که هست بر روی زمین\r\nبوالفتح ملکشاه کند فتح چنین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین فتح‌ که‌ کرد شاه در کشور چین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم ملک همی نازد و هم دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر مملکتی که هست بر روی زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوالفتح ملکشاه کند فتح چنین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین فتح‌ که‌ کرد شاه در کشور چین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم ملک همی نازد و هم دولت و دین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر مملکتی که هست بر روی زمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بوالفتح ملکشاه کند فتح چنین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

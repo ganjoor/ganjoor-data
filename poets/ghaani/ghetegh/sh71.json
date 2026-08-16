@@ -1,0 +1,58 @@
+{
+  "Id": 45733,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۷۱",
+  "FullUrl": "/ghaani/ghetegh/sh71",
+  "RhymeLetters": "کر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر از یک عارف صحبت می‌کند که به خاطر عشق و انغماس در محبوبش، از ذکر و یاد خداوند غافل شده است. لذا، نباید به او خُرده گرفت که در خاموشی و سکوت به سر می‌برد، زیرا او تمام وجودش را در عشق خدا غرق کرده و حتی یاد خدا را از یاد برده است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کر",
+      "PlainText": "اگر خاموش بینی عارفی را\r\nمزن طعنش که هست آسوده از ذکر\r\nچنان از پای تا سر غرق یارست\r\nکه هم ذکرش فراموشست و هم فکر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر خاموش بینی عارفی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمزن طعنش که هست آسوده از ذکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان از پای تا سر غرق یارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هم ذکرش فراموشست و هم فکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر خاموش بینی عارفی را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مزن طعنش که هست آسوده از ذکر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چنان از پای تا سر غرق یارست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که هم ذکرش فراموشست و هم فکر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

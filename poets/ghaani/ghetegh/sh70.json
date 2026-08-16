@@ -1,0 +1,58 @@
+{
+  "Id": 45732,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۷۰",
+  "FullUrl": "/ghaani/ghetegh/sh70",
+  "RhymeLetters": "ار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: اگر تو لبخند نزنی، حضور تو چنان پرشکوه است که هم عارف و هم مردم عادی از گفتن در مورد آن عاجز می‌مانند. من از کلام و سخن تو به گونه‌ای می‌گویم که مثل ماهی است که نور خود را از خورشید می‌گیرد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "مگر به خنده درآیی وگرنه هیبت تو\r\nزبان عارف و عامی ببندد از گفتار\r\nمن از کلام تو گویم سخن چنان که قمر\r\nز آفتاب فلک عاریت کند انوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر به خنده درآیی وگرنه هیبت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبان عارف و عامی ببندد از گفتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از کلام تو گویم سخن چنان که قمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آفتاب فلک عاریت کند انوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مگر به خنده درآیی وگرنه هیبت تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زبان عارف و عامی ببندد از گفتار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من از کلام تو گویم سخن چنان که قمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز آفتاب فلک عاریت کند انوار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 119008,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/azar/divan/robaee/sh87",
+  "RhymeLetters": "راباولیتر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به تجربیات خوشایند و نشئگی ناشی از شراب و زندگی اشاره دارد. شاعر کشتی نوح را به عنوان نمادی از حفاظت در برابر طوفان‌ها به کار می‌برد و از خوشی‌های زندگی و عشق می‌گوید. همچنین، تأکید بر زنده‌بودن در این دنیای پر از هستی و نیستی و لذت بردن از آن دارد. در نهایت، زندگی و به ویژه آرامش در مکان‌هایی مانند دیر یا میخانه را مهم می‌شمارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راباولیتر",
+      "PlainText": "پیمانه ی ما پر از شراب اولیتر\r\nاین کشتی نوح است در آب اولیتر\r\nزین هستی و نیستی بمستی رستم\r\nدر دیر خراب هم خراب اولیتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیمانه ی ما پر از شراب اولیتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کشتی نوح است، در آب اولیتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین هستی و نیستی، بمستی رستم؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیر خراب هم، خراب اولیتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیمانه ی ما پر از شراب اولیتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این کشتی نوح است، در آب اولیتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین هستی و نیستی، بمستی رستم؛",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دیر خراب هم، خراب اولیتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 107192,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/daye/divan/robaee/sh29",
+  "RhymeLetters": "استهاند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و سرسبزی صحرا و چمن اشاره می‌کند که با گل و لاله آراسته شده‌اند. او از شادی و نشاط در طبیعت صحبت می‌کند و می‌گوید که غم‌ها کاهش یافته‌اند. همچنین به عروسان گل‌ها اشاره می‌کند که در خاک چمن خوابیده‌اند و امروز روزی است خاص و مهم که به قیامت تعبیر شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استهاند",
+      "PlainText": "صحرا به گل و لاله بیاراسته اند\r\nدر عیش فزوده و ز غم کاسته اند\r\nدر خاک عروسان چمن خفته بدند\r\nامروز قیامت است برخاسته اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصحرا به گل و لاله بیاراسته‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عیش فزوده و ز غم کاسته‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خاک عروسان چمن خفته بدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز قیامت است برخاسته‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحرا به گل و لاله بیاراسته‌اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عیش فزوده و ز غم کاسته‌اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خاک عروسان چمن خفته بدند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز قیامت است برخاسته‌اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

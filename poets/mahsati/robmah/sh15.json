@@ -1,0 +1,58 @@
+{
+  "Id": 50075,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۵",
+  "FullUrl": "/mahsati/robmah/sh15",
+  "RhymeLetters": "خوشاست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در میکده، در کنار بت معشوق، خوشحالی و عبادت دلپذیر است. همراه با شراب، نیایش و راز و نیاز لطف دارد، در حالی که عبادت‌های ظاهری و ریاکارانه مورد پسند نیستند. در این فضا، زیبایی و لذت از نوشیدن شراب و رهایی از قید و بندها احساس می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اتخوشاست",
+      "PlainText": "در میکده پیش بت تحیات خوش است\r\nبا ساغر یک منی مناجات خوش است\r\nتسبیح و مصلای ریایی خوش نیست\r\nزنار مغانه در خرابات خوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر میکده پیش بت تحیّات خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا ساغر یک منی مناجات خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتسبیح و مصلای ریائی خوش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنّار مغانه در خرابات خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در میکده پیش بت تحیّات خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با ساغر یک منی مناجات خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تسبیح و مصلای ریائی خوش نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنّار مغانه در خرابات خوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

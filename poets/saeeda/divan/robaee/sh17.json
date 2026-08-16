@@ -1,0 +1,58 @@
+{
+  "Id": 107917,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/saeeda/divan/robaee/sh17",
+  "RhymeLetters": "اماست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به حال و هوای بهاری اشاره می‌کند و از بی‌نصیب بودن در menikmati های زندگی می‌گوید. او معتقد است که ممکن است این وضعیت به خاطر کوتاهی قسمت افراد باشد یا سختی‌های زندگی در این روزهاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اماست",
+      "PlainText": "ایام بهار است نه می در جام است\r\nنی سوخته ای هم نفس این خام است\r\nکوتاهی طالع است یا بوده چنین\r\nیا سختی اوقات در این ایام است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایام بهار است نه می در جام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی سوخته ای هم نفس این خام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوتاهی طالع است یا بوده چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا سختی اوقات در این ایام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایام بهار است نه می در جام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی سوخته ای هم نفس این خام است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوتاهی طالع است یا بوده چنین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا سختی اوقات در این ایام است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

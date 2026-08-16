@@ -1,0 +1,58 @@
+{
+  "Id": 45723,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۶۱",
+  "FullUrl": "/ghaani/ghetegh/sh61",
+  "RhymeLetters": "وگوید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت اشاره به این دارد که اگر نعمتی به کسی بدهی و او تنها یک بار از تو تشکر کند، این کم است. در واقع، هر نعمتی که به دیگران می‌دهی، باید با شکرگزاری بیشتری جواب داده شود. این موضوع به اهمیت شکرگزاری و قدردانی از نعمت‌ها و احسان دیگران اشاره دارد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وگوید",
+      "PlainText": "به هر کس نعمتی گر زان فرستی\r\nکه یکره شکر احسان تو گوید\r\nپس احول به که او هر نعمتی را\r\nدو بیند شکر احسانت دو گوید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر کس نعمتی گر زان فرستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یکره شکر احسان تو گوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس احول به که او هر نعمتی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو بیند شکر احسانت دو گوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به هر کس نعمتی گر زان فرستی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که یکره شکر احسان تو گوید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پس احول به که او هر نعمتی را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دو بیند شکر احسانت دو گوید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

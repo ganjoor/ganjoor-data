@@ -1,0 +1,58 @@
+{
+  "Id": 69372,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/azraghi/arob/sh11",
+  "RhymeLetters": "ارشدست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق و غم دوری معشوقش صحبت می‌کند. او می‌گوید که دلش به شدت تحت تأثیر عشق معشوق قرار گرفته و به خاطر فاصله‌ای که وجود دارد، حالش بد شده است. همچنین اشاره می‌کند که دلش کاملاً در دست معشوق است و در واقع، به نوعی نسبت به او وابسته شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارشدهست",
+      "PlainText": "در عشق بتی دلم گرفتار شده ست\r\nوز فرقت او رخم چو دینار شده ست\r\nاین قصه مرا ز دوست دشوار شده ست\r\nدل در کف یار و از کفم یار شده ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق بتی دلم گرفتار شده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز فرقت او رخم چو دینار شده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین قصه مرا ز دوست دشوار شده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل در کف یار و از کفم یار شده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق بتی دلم گرفتار شده‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز فرقت او رخم چو دینار شده‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این قصه مرا ز دوست دشوار شده‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل در کف یار و از کفم یار شده‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1228,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۱۰",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۱۰",
+  "FullUrl": "/khayyam/robaee/sh110",
+  "RhymeLetters": "ر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر به ما یادآوری می‌کند که در سحرگاه بیدار شویم و از لحظات زندگی بهره‌برداری کنیم. در اینجا به اهمیت نوشیدن از شادابی زندگی (که با باده لعل نمادین است) اشاره می‌شود و این نکته را مطرح می‌کند که این لحظات ارزشمند و گذرا هستند و ممکن است دیگر هرگز دشوار به دست نیایند. بنابراین، باید قدر آن‌ها را دانست و از آن‌ها بهره برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "وقت سحر است خیز ای طرفه پسر\r\nپر باده لعل کن بلورین ساغر\r\nکاین یک دم عاریت در این کنج فنا\r\nبسیار بجویی و نیابی دیگر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقت سحر است خیز ای طرفه پسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر بادهٔ لعل کن بلورین ساغر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاین یک‌دَم عاریت در این کنج فنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسیار بجویی و نیابی دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقت سحر است خیز ای طرفه پسر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پر بادهٔ لعل کن بلورین ساغر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کاین یک‌دَم عاریت در این کنج فنا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسیار بجویی و نیابی دیگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

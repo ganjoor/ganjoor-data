@@ -1,0 +1,58 @@
+{
+  "Id": 48770,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۵۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۵۱",
+  "FullUrl": "/orfi/robaeeor/sh51",
+  "RhymeLetters": "ساست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی عشق را توصیف می‌کند و می‌گوید که خود عشق، بزرگ‌ترین ستایش و مدح است. عشق مانند برقی است که موسی (نبی) در آن سحر و جادو دارد، اما در واقع این عشق و مستی است که به معنای واقعی زندگی می‌بخشد و به زیبایی‌های گلزار وجود انسان اشاره می‌کند. به عبارت دیگر، عشق جوهر زندگی است و تنها در پرتو آن می‌توان به زیبایی‌های واقعی دست یافت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ساست",
+      "PlainText": "ای عشق که مدح تو همین عشق بس است \r\nبرقی ست که موسی اش یک مشت خس است\r\nنی نی در مستی نزنم گلزارست\r\nکش موسی عمرا ن گل مشکین نفس است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عشق که مدح تو همین عشق بس است \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرقی ست که موسی اش یک مشت خس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نی در مستی نزنم، گلزارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکش موسی عمرا ن گل مشکین نفس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق که مدح تو همین عشق بس است ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برقی ست که موسی اش یک مشت خس است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی نی در مستی نزنم، گلزارست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کش موسی عمرا ن گل مشکین نفس است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

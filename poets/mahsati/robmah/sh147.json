@@ -1,0 +1,58 @@
+{
+  "Id": 50207,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۴۷",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۴۷",
+  "FullUrl": "/mahsati/robmah/sh147",
+  "RhymeLetters": "ستهایهستچومن",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره احساس غم و شکست عشقی است. شاعر بیان می‌کند که مانند بسیاری دیگر، او نیز در دام غم عشق گرفتار شده و دلش شکسته است. او به این نکته اشاره دارد که افراد زیادی در وفاداری به عشق خود از عشق محبوبشان آسیب دیده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستهایهستچومن",
+      "PlainText": "در دام غم تو بسته ای هست چو من\r\nوز جور تو دل شکسته ای هست چو من\r\nبرخاستگان عشق تو بسیارند\r\nدر عهد وفا نشسته ای هست چو من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دام غم تو بسته‌ای هست چو من؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز جور تو دل شکسته‌ای هست چو من؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخاستگان عشق تو بسیارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عهد وفا نشسته‌ای هست چو من؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دام غم تو بسته‌ای هست چو من؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز جور تو دل شکسته‌ای هست چو من؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخاستگان عشق تو بسیارند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عهد وفا نشسته‌ای هست چو من؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

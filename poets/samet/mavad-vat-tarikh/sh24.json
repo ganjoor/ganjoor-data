@@ -1,0 +1,77 @@
+{
+  "Id": 125559,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۲۴",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۲۴",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh24",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر به این معناست که هر کسی که در این دنیای فانی زندگی می‌کند، برای به‌دست آوردن شرایط بهتر و آسایش تلاش می‌کند، اما در نهایت مرگ همه آرزوها و تفکراتش را نابود می‌کند. در واقع، تلاش‌ها و آرزوهای او در برابر واقعیت مرگ بی‌فایده می‌شود.",
+  "Sections": [
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لکرد",
+      "PlainText": "هر کس که در این دار فنا منزل کرد\r\nاوضاع کمی به خون دل حاصل کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس که در این دار فنا منزل کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاوضاع کمی به خون دل حاصل کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "تا رفته که کنج راحتی بنشیند\r\nمرگ آمد و اندیشه او باطل کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا رفته که کنج راحتی بنشیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرگ آمد و اندیشه او باطل کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 99,
+      "Number": 99,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لکرد",
+      "PlainText": "هر کس که در این دار فنا منزل کرد\r\nاوضاع کمی به خون دل حاصل کرد\r\nتا رفته که کنج راحتی بنشیند\r\nمرگ آمد و اندیشه او باطل کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس که در این دار فنا منزل کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاوضاع کمی به خون دل حاصل کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا رفته که کنج راحتی بنشیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرگ آمد و اندیشه او باطل کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس که در این دار فنا منزل کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 99,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اوضاع کمی به خون دل حاصل کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 99,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا رفته که کنج راحتی بنشیند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 99,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرگ آمد و اندیشه او باطل کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 99,
+      "SectionIndex2": 28
+    }
+  ]
+}

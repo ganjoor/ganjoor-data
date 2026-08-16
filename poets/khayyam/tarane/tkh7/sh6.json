@@ -1,0 +1,58 @@
+{
+  "Id": 50361,
+  "CatId": 1818,
+  "Title": "رباعی ۱۰۶",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » هیچ است  [۱۰۷-۱۰۱] » رباعی ۱۰۶",
+  "FullUrl": "/khayyam/tarane/tkh7/sh6",
+  "RhymeLetters": "ست",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: در این شعر بیان می‌شود که هر چیز که به نظر می‌رسد، در حقیقت به نوعی ناکافی و دارای نقصان است. همه‌چیز به ظاهر وجود دارد، اما در باطن شاید واقعی نیست. همچنین تأکید می‌شود که آنچه که در عالم به نظر نمی‌رسد، ممکن است مهم‌تر از آنچه هست، باشد. به عبارت دیگر، مفهوم وجود و عدم به شکل ذهنی و انتزاعی مطرح شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "چون نیست ز هر چه هست جز باد به دست\r\nچون هست ز هر چه هست نقصان و شکست\r\nانگار که هست هر چه در عالم نیست\r\nپندار که نیست هر چه در عالم هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نیست زِ هر چه هست جُز باد به دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون هست زِ هر چه هست نُقصان و شکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانگار که هست، هر چه در عالَم نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپندار که نیست، هر چه در عالَم هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نیست زِ هر چه هست جُز باد به دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون هست زِ هر چه هست نُقصان و شکست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انگار که هست، هر چه در عالَم نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پندار که نیست، هر چه در عالَم هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

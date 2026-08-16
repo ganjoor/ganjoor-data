@@ -1,0 +1,58 @@
+{
+  "Id": 45746,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۸۴",
+  "FullUrl": "/ghaani/ghetegh/sh84",
+  "RhymeLetters": "اص",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: خلاصه: در این شعر به موضوع رحم و لطف خداوند اشاره شده است. خداوند به دو نفر رحم می‌کند: یکی به کسی که به خاطر بی‌گناهی‌اش از مرگ نجات می‌یابد و دیگری به شخصی که از عذاب دوزخ رهایی می‌یابد.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اص",
+      "PlainText": "وقتی ار رحم آورد جلاد بر بیچاره ای\r\nبر دو کس رحم  آورد پرورد گار از لطف  خاص\r\nهم بر آن رحم آورد کز کشتنش بخشد امان\r\nهم  بر این  رحم  آورد کز دوزخش سازد خلاص",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتی ار رحم آورد جلاد بر بیچاره‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دو کس رحم‌ آورد پرورد‌گار از لطف‌ خاص\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم بر آن رحم آورد کز کشتنش بخشد امان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم‌ بر این‌ رحم‌ آورد کز دوزخش سازد خلاص\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقتی ار رحم آورد جلاد بر بیچاره‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر دو کس رحم‌ آورد پرورد‌گار از لطف‌ خاص",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم بر آن رحم آورد کز کشتنش بخشد امان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم‌ بر این‌ رحم‌ آورد کز دوزخش سازد خلاص",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

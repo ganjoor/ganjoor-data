@@ -1,0 +1,58 @@
+{
+  "Id": 50171,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۱۱",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۱۱",
+  "FullUrl": "/mahsati/robmah/sh111",
+  "RhymeLetters": "هش",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به توصیف زیبایی و جذابیت معشوق خود می‌پردازد. او هنگام کشیدن کمان، نگاهی به معشوقش انداخته و متوجه می‌شود که او دارای چهره‌ای چون مه و موی سیاه مانند عقرب است. در واقع، اشاره به زیبایی و ظرافت اندام معشوق دارد که به شکل هنرمندانه‌ای توصیف شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هش",
+      "PlainText": "ترکم چو کمان کشید کردم نگهش\r\nدیدم مه و عقربی به زیر کلهش\r\nمه بود رخش عقرب زلف سیهش\r\nوز عقرب در قوس همی رفت مهش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترکم چو کمان کشید کردم نگهش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدم مه و عقربی به زیر کلهش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمه بود رخش عقرب زلف سیهش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز عقرب در قوس همی رفت مهش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترکم چو کمان کشید کردم نگهش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیدم مه و عقربی به زیر کلهش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مه بود رخش عقرب زلف سیهش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز عقرب در قوس همی رفت مهش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

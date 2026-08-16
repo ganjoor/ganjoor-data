@@ -1,0 +1,58 @@
+{
+  "Id": 105632,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۱۱",
+  "FullUrl": "/ahli/saghiname/sh12",
+  "RhymeLetters": "اقیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشق و yearning است. شاعر از ساقی (معنی مجازی کسی که دل را سیراب می‌کند) می‌خواهد که برگردد، زیرا او درمان درد عاشقان است. شاعر همچنین به امیدی که در وجودش دارد اشاره می‌کند و می‌گوید تا زمانی که زنده است، امید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقیست",
+      "PlainText": "ساقی دل ما سوخته از مشتاقیست\r\nبازآ که طبیب درد مستان ساقیست\r\nجان دادن امیدست مرا در قدمت\r\nتا جان بودم امیدواری باقیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی دل ما سوخته از مشتاقیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازآ که طبیب درد مستان ساقیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان دادن امیدست مرا در قدمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا جان بودم امیدواری باقیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی دل ما سوخته از مشتاقیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازآ که طبیب درد مستان ساقیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان دادن امیدست مرا در قدمت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا جان بودم امیدواری باقیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

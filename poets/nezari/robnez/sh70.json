@@ -1,0 +1,58 @@
+{
+  "Id": 75817,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/nezari/robnez/sh70",
+  "RhymeLetters": "شت",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به آفرینش انسان از خاک اشاره می‌کند و به این فکر می‌افتد که از سرنوشت خود نگران نباشد، زیرا در نهایت معلوم نیست که پروردگار در ازل چه سرنوشتی برای او مقرر کرده است. او از قوم دوزخیان می‌ترسد و به بی‌فایده بودن نگرانی‌هایش اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شت",
+      "PlainText": "جل صبح خمیر خاک آدم که سرشت\r\nزان قوم نیم که ترسم از دوزخ زشت\r\nبیهوده چه غم خورم که معلومم نیست\r\nتا بر سر من در ازل ایزد چه نوشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجل صبح خمیر خاک آدم که سرشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان قوم نیم که ترسم از دوزخ زشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیهوده چه غم خورم که معلومم نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بر سر من در ازل ایزد چه نوشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جل صبح خمیر خاک آدم که سرشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان قوم نیم که ترسم از دوزخ زشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیهوده چه غم خورم که معلومم نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بر سر من در ازل ایزد چه نوشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

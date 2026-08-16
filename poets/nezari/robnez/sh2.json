@@ -1,0 +1,58 @@
+{
+  "Id": 75749,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/nezari/robnez/sh2",
+  "RhymeLetters": "هرا",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر از ناکامی در تلاش برای رسیدن به عشق و وصل صحبت می‌کند. او اشاره دارد که دل ساده‌لوح خود را بیهوده در راه عشق صرف کرده است. شاعر امیدوار بود که شبی را در وصل معشوق بگذارند، اما مانند ابری که ماه را می‌پوشاند، از دیدار معشوق خود محروم مانده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هرا",
+      "PlainText": "کردیم به ناکام بسیج ره را\r\nبگذاشته بیهوده دل ابله را\r\nگفتم مگر از وصل شبی عید کنم\r\nچون ابر حجاب شد ندیدم مه را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردیم به ناکام بسیج ره را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذاشته بیهوده دل ابله را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم مگر از وصل شبی عید کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ابر حجاب شد ندیدم مه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کردیم به ناکام بسیج ره را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگذاشته بیهوده دل ابله را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم مگر از وصل شبی عید کنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون ابر حجاب شد ندیدم مه را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

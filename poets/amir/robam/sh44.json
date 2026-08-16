@@ -1,0 +1,58 @@
+{
+  "Id": 70087,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۴۴",
+  "FullUrl": "/amir/robam/sh44",
+  "RhymeLetters": "یدهبرفت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این مفهوم اشاره دارند که کسی که عشق و محبت تو را در دل دارد، در زندگی خود به موفقیت و ثروت دست می‌یابد، در حالی که کسی که به فکر کینه و دشمنی با توست، از خود ناامیدی و بی‌خیالی می‌بیند. در واقع، عشق و محبت به تو زندگی را پر بارتر و زیباتر می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریافت",
+      "PlainText": "آن کس که چراغ مهر تو در بر یافت\r\nدر خاک به فر دولت تو زر یافت\r\nوان کس که خیال کین تو در سر یافت\r\nدر آب ز روی خویش نیلوفر یافت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن‌کس‌که چراغ مهر تو در بر یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خاک به فر دولت تو زر یافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان‌کس که خیال کین تو در سر یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آب ز روی خویش نیلوفر یافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن‌کس‌که چراغ مهر تو در بر یافت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خاک به فر دولت تو زر یافت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وان‌کس که خیال کین تو در سر یافت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آب ز روی خویش نیلوفر یافت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

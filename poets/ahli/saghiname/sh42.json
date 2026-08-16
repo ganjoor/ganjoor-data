@@ -1,0 +1,58 @@
+{
+  "Id": 105662,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۴۱",
+  "FullUrl": "/ahli/saghiname/sh42",
+  "RhymeLetters": "اغمنرود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از ساقی می‌خواهد که قدحی (کاسی) به او بدهد تا حسی که داغی و سوزی در او ایجاد کرده، فروکش کند. او تأکید می‌کند که تا وقتی روغن باده در چراغش باقی است، همین احساس را خواهد داشت. همچنین اشاره می‌کند که بوی شراب مانند بویی خوش از غنچه در ذهنش نشسته و این حس او را شگفت‌زده کرده و نمی‌تواند از آن رهایی یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغمنرود",
+      "PlainText": "ساقی قدحی که سوز داغم نرود\r\nتا روغن باده در چراغم نرود\r\nبویی که چو غنچه در دماغم ز می است\r\nمغزم بشکافی ز دماغم نرود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی قدحی که سوز داغم نرود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا روغن باده در چراغم نرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبویی که چو غنچه در دماغم ز می است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغزم بشکافی ز دماغم نرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی قدحی که سوز داغم نرود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا روغن باده در چراغم نرود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بویی که چو غنچه در دماغم ز می است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مغزم بشکافی ز دماغم نرود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

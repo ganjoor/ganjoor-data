@@ -1,0 +1,58 @@
+{
+  "Id": 119606,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/neshat/divan/robaee/sh72",
+  "RhymeLetters": "ری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از نسیم صبحگاهی درخواست می‌کند که به او رحمت آورد و از کنار رود عبور کند. او از نسیم می‌خواهد که غبار و کدورت‌های ناشی از خاک را به چشمانش آورده و از آنجا پیام و سلامتی را به رود برساند. این شعر بیان‌گر longing و خواسته‌های عاطفی شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "وقتست که بر من ای نسیم سحری\r\nرحم آری و بر ساحل رودی گذری\r\nزان خاک بدین چشم غباری آری\r\nزین چشم بدان رود درودی ببری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتست که بر من ای نسیم سحری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحم آری و بر ساحل رودی گذری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان خاک بدین چشم غباری آری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین چشم بدان رود درودی ببری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقتست که بر من ای نسیم سحری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رحم آری و بر ساحل رودی گذری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان خاک بدین چشم غباری آری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین چشم بدان رود درودی ببری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

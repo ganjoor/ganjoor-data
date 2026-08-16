@@ -1,0 +1,58 @@
+{
+  "Id": 103105,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/jooya/divan/robaee/sh51",
+  "RhymeLetters": "انخواهدشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به توصیف حالتی می‌پردازد که در آن دل انسان با عشق دگرگون می‌شود. دل مانند آینه زنده و شفاف می‌شود و احساساتی چون عشق را به تندی احساس می‌کند. در این حالت، انسان مانند شمع به عشق خود جان می‌دهد و در طول زمان، این عشق موجب رشد و تحولی در روح او می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انخواهدشد",
+      "PlainText": "دل گر ز گداز آینه سان خواهد شد\r\nچون آب سراپای روان خواهد شد\r\nماننده شمع تن دهد هر که به عشق\r\nالبته که رفته رفته جان خواهد شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گر ز گداز آینه سان خواهد شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون آب سراپای روان خواهد شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانندهٔ شمع تن دهد هر که به عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالبته که رفته رفته جان خواهد شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل گر ز گداز آینه سان خواهد شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون آب سراپای روان خواهد شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مانندهٔ شمع تن دهد هر که به عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "البته که رفته رفته جان خواهد شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

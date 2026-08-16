@@ -1,0 +1,58 @@
+{
+  "Id": 50295,
+  "CatId": 1815,
+  "Title": "رباعی ۴۰",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » گردش دوران  [۵۶-۳۵] » رباعی ۴۰",
+  "FullUrl": "/khayyam/tarane/tkh4/sh6",
+  "RhymeLetters": "شت",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بررسی بی‌فایده بودن تلاش برای تغییر سرنوشت می‌پردازد. او می‌گوید که حتی اگر انسان خردمند باشد و خواسته‌هایش را دنبال کند، در نهایت همه چیز به سرنوشت و تقدیر بستگی دارد. در پایان، اشاره می‌کند که در هر حالتی، چه مورچه‌ای در گور باشد و چه گرگی در دشت، نتیجه یکی است و زندگی به همین شکل ادامه دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شت",
+      "PlainText": "چون چرخ به کام یک خردمند نگشت\r\nخواهی تو فلک هفت شمر خواهی هشت\r\nچون باید مرد و آرزوها همه هشت\r\nچه مور خورد به گور و چه گرگ به دشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون چرخ به کام یک خردمند نگشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهی تو فلک هفت شِمُر، خواهی هشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون باید مُرد و آرزوها همه هِشْت،\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه مور خورد به گور و چه گرگ به دشت!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون چرخ به کام یک خردمند نگشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواهی تو فلک هفت شِمُر، خواهی هشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون باید مُرد و آرزوها همه هِشْت،",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه مور خورد به گور و چه گرگ به دشت!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

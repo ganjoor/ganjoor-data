@@ -1,0 +1,58 @@
+{
+  "Id": 50250,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۹۰",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۹۰",
+  "FullUrl": "/mahsati/robmah/sh190",
+  "RhymeLetters": "ازینایی",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به دعوت به تجربه و رهایی از قید و بندها اشاره دارد. شاعر از مخاطب می‌خواهد که اگر هنوز جرات ورود به دنیای عشق و وجدانیات را ندارد، به خرابات (محل خوش‌گذرانی و عرفان) نرود. او بیان می‌کند که اینجا مکانی است برای مردان شجاع و فداکار که تنها در صورت آمادگی برای بازی و ریسک کردن می‌توانند وارد این فضا شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازینایی",
+      "PlainText": "هان تا به خرابات حجازی نایی\r\nتا کار قلندری نسازی نایی\r\nکینجا ره مردان سراندازان است\r\nجانبازانند تا ببازی نایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهان تا به خرابات حجازی نائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کار قلندری نسازی نائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکینجا ره مردان سراندازان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانبازانند تا ببازی نائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هان تا به خرابات حجازی نائی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا کار قلندری نسازی نائی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کینجا ره مردان سراندازان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جانبازانند تا ببازی نائی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

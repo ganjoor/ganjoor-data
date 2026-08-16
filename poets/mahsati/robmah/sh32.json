@@ -1,0 +1,58 @@
+{
+  "Id": 50092,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۳۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۳۲",
+  "FullUrl": "/mahsati/robmah/sh32",
+  "RhymeLetters": "فت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از تجربه‌های درونی خود سخن می‌گوید. او در آتش دلش رنج می‌برد و در هوای صبح، نسیم صبا با او لطیف سخن می‌گوید. او همچنین به حقیقت زندگی اشاره می‌کند و می‌گوید که هر کسی که امروزه دارای آبرو است، فردا ممکن است به خاک سپرده شود و با مرگ مواجه شود. این ابیات به ناپایداری دنیا و سرنوشت انسان اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فت",
+      "PlainText": "در آتش دل پریر بودم بنهفت\r\nدی باد صبا خوش سخنی با من گفت\r\nکه امروز هر آن که آبرویی دارد\r\nفرداش به خاک تیره می باید خفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آتش دل پریر بودم بنهفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدی باد صبا خوش سخنی با من گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه‌امروز هر آن که آبرویی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرداش به خاک تیره می‌باید خفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در آتش دل پریر بودم بنهفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دی باد صبا خوش سخنی با من گفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "که‌امروز هر آن که آبرویی دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرداش به خاک تیره می‌باید خفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

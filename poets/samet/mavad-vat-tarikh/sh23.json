@@ -1,0 +1,77 @@
+{
+  "Id": 125558,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۲۳",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۲۳",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh23",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر این نکته هستند که در دنیا هیچ کسی از مرگ در امان نیست. هر فردی که مرتکب wrongdoing شود، در نهایت باید با عواقب آن مواجه شود و سرنوشت همگان مرگ است. در واقع، زمان پایان عمر به عنوان سنگی سخت بر شیشه زندگی همه افراد خواهد افتاد.",
+  "Sections": [
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "دنیا به کسی خط امانی نسپرد\r\nهرکس که بزدا عاقبت باید مرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیا به کسی خط امانی نسپرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرکس که بزدا عاقبت باید مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "آن سنگ که نام نامی وی اجلست\r\nبر شیشه عمر همه کس خواهد خورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن سنگ که نام نامی وی اجلست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شیشه عمر همه کس خواهد خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 100,
+      "Number": 100,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "دنیا به کسی خط امانی نسپرد\r\nهرکس که بزدا عاقبت باید مرد\r\nآن سنگ که نام نامی وی اجلست\r\nبر شیشه عمر همه کس خواهد خورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیا به کسی خط امانی نسپرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرکس که بزدا عاقبت باید مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن سنگ که نام نامی وی اجلست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شیشه عمر همه کس خواهد خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دنیا به کسی خط امانی نسپرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 100,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرکس که بزدا عاقبت باید مرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 100,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن سنگ که نام نامی وی اجلست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 100,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر شیشه عمر همه کس خواهد خورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 100,
+      "SectionIndex2": 26
+    }
+  ]
+}

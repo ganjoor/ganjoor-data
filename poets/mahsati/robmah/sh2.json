@@ -1,0 +1,58 @@
+{
+  "Id": 50062,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۲",
+  "FullUrl": "/mahsati/robmah/sh2",
+  "RhymeLetters": "اب",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مخاطب می‌گوید که در حمام استراحت کند و نگران نباشد. او قصد دارد تا صبح با شتاب بیاید و احساساتش را از دل و دیده‌اش بیرون بریزد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "حمامی را بگو گرت هست صواب\r\nامشب تو بخسب و تون گرمابه متاب\r\nتا من به سحرگهان بیایم به شتاب\r\nاز دل کنمش آتش وز دیده پر آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحمامی را بگو گرت هست صواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامشب تو بخسب و تون گرمابه متاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا من به سحرگهان بیایم به شتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دل کنمش آتش وز دیده پر آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حمامی را بگو گرت هست صواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امشب تو بخسب و تون گرمابه متاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا من به سحرگهان بیایم به شتاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دل کنمش آتش وز دیده پر آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

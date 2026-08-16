@@ -1,0 +1,58 @@
+{
+  "Id": 103085,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/jooya/divan/robaee/sh31",
+  "RhymeLetters": "یاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی‌های هند می‌پردازد. در دنیای غبار آلود این سرزمین، هر تکه از خاک آن نشان‌دهنده‌ی بهشت است. طاووس‌های زیبا درختان بلند نخل را تزیین کرده و به مانند سبدی پر از گل، شکوه طبیعت را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یاست",
+      "PlainText": "در هند که دیده را غبارش مددی است\r\nهر قبضه خاک خلد را دست ردیی است\r\nهر سو طاووس مست بر نخل بلند\r\nهمچون سبد گل بسر سرو قدی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هند که دیده را غبارش مددی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر قبضهٔ خاک خلد را دست ردیی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر سو طاووس مست بر نخل بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچون سبد گل بسر سرو قدی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در هند که دیده را غبارش مددی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر قبضهٔ خاک خلد را دست ردیی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر سو طاووس مست بر نخل بلند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچون سبد گل بسر سرو قدی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

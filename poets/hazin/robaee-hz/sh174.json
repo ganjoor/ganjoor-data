@@ -1,0 +1,58 @@
+{
+  "Id": 83063,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۷۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۷۴",
+  "FullUrl": "/hazin/robaee-hz/sh174",
+  "RhymeLetters": "اکبکش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از زمانه و وضعیت موجود شکایت دارد و از آن می‌خواهد که با انرژی و شتاب بیشتری حرکت کند. او به بی‌عملی اشاره می‌کند و دعوت به بیداری و اقدام می‌کند، تا انسانی که در سکوت و رکود به سر می‌برد، دست به کار شود و به سوی آسمان و عروج حرکت کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکبکش",
+      "PlainText": "ای عوج زمانه قد چالاک بکش\r\nگردن به عروج قبه خاک بکش\r\nبی قوت چرا نشسته ای بسته دهان\r\nبرخیز سری به کن افلاک بکش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عوج زمانه، قد چالاک بکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردن به عروج قبهٔ خاک بکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی قوت چرا نشسته ای بسته دهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخیز سری به ک.ن افلاک بکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عوج زمانه، قد چالاک بکش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردن به عروج قبهٔ خاک بکش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی قوت چرا نشسته ای بسته دهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برخیز سری به ک.ن افلاک بکش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

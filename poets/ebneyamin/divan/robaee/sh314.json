@@ -1,0 +1,58 @@
+{
+  "Id": 94080,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۳۱۴",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۳۱۴",
+  "FullUrl": "/ebneyamin/divan/robaee/sh314",
+  "RhymeLetters": "ایدبرود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به مرور زمان و گذر زندگی اشاره دارد. شاعر می‌گوید که همه چیز در حال گذر است و هر چیزی که پیش از این بوده، آینده‌اش مشخص نیست. او به این نکته اشاره می‌کند که با همان چیزهایی که برایش مهم نیستند، باید کنار بیاید و از آن‌ها بگذرد. در نهایت، او به این نتیجه می‌رسد که آنچه که واقعا مهم است، در زندگی باقی نخواهد ماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایدبرود",
+      "PlainText": "رفتند و رویم و هر که آید برود\r\nهر چیز که شاید و نشاید برود\r\nدانم چو نباید آنچ با تو نبود\r\nآنهم که ببایدت نپاید برود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتند و رویم و هر که آید برود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چیز که شاید و نشاید برود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانم چو نباید آنچ با تو نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنهم که ببایدت نپاید برود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتند و رویم و هر که آید برود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چیز که شاید و نشاید برود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دانم چو نباید آنچ با تو نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنهم که ببایدت نپاید برود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

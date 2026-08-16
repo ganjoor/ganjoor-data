@@ -1,0 +1,58 @@
+{
+  "Id": 113916,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/jahan/divan/robaee/sh43",
+  "RhymeLetters": "نست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به زیبایی خود اشاره می‌کند و می‌پرسد که آیا گلی در چمن یا لاله‌ای به رنگ او وجود دارد. او همچنین از دیگرانی که به شقایق‌ها می‌نگرند می‌خواهد تا به حال و روز او که دلش سوخته و بیمار است، توجه کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نست",
+      "PlainText": "گل گفت چو من گلی کجا در چمنست\r\nیا رنگ کدام لاله گویی چو منست\r\nنسبت به شقایقم مکن کان مسکین\r\nدل سوخته و نزار و خونین دهنست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل گفت چو من گلی کجا در چمنست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا رنگ کدام لاله گویی چو منست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنسبت به شقایقم مکن کان مسکین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل سوخته و نزار و خونین دهنست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل گفت چو من گلی کجا در چمنست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا رنگ کدام لاله گویی چو منست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نسبت به شقایقم مکن کان مسکین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل سوخته و نزار و خونین دهنست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

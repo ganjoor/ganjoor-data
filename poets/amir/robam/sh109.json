@@ -1,0 +1,58 @@
+{
+  "Id": 70152,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۰۹",
+  "FullUrl": "/amir/robam/sh109",
+  "RhymeLetters": "یر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از شاه می‌پرسد که چگونه می‌تواند باری سنگین را به یکباره بر دوش بکشد و از میان صد قبر عبور کند. اگر حتی شخصیت‌های بزرگ مانند بهمن و بهرام از گور برآیند، باز هم می‌گویند که تمام این کارها به دست تو انجام می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ور",
+      "PlainText": "ای شاه کجا گرم کنی باره بور\r\nصدگور بیفکنی به یک بار به زور\r\nگر بهمن و بهرام برآیند ازگور\r\nگویند که کار توست افکندن گور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه کجا گرم کنی بارهٔ بور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدگور بیفکنی به یک بار به زور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بهمن و بهرام برآیند ازگور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویند که کار توست افکندن گور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه کجا گرم کنی بارهٔ بور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صدگور بیفکنی به یک بار به زور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر بهمن و بهرام برآیند ازگور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویند که کار توست افکندن گور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

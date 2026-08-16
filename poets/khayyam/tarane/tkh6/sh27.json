@@ -1,0 +1,58 @@
+{
+  "Id": 50355,
+  "CatId": 1817,
+  "Title": "رباعی ۱۰۰",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » هرچه باداباد  [۱۰۰-۷۴] » رباعی ۱۰۰",
+  "FullUrl": "/khayyam/tarane/tkh6/sh27",
+  "RhymeLetters": "یماندهاست",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات احساس خستگی و بی‌حوصلگی خود را بیان می‌کند. او از عدم توافق با مردم و احساس کمبود انرژی در خود سخن می‌گوید و می‌گوید که تنها یک جام شراب باقی مانده و از عمرش هم نمی‌داند چه چیز باقی مانده است. به طور کلی، حالتی از ناامیدی و تردید در او به چشم می‌خورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقیماندهاست",
+      "PlainText": "از من رمقی به سعی ساقی مانده  است\r\nوز صحبت خلق بی وفاقی مانده  است\r\nاز باده دوشین قدحی بیش نماند\r\nاز عمر ندانم که چه باقی مانده  است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز من رَمَقی به سعی ساقی مانده‌ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوَزْ صحبتِ خلق، بی‌وِفاقی مانده‌ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بادهٔ دوشین قَدَحی بیش نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عمر ندانم که چه باقی مانده‌ است!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از من رَمَقی به سعی ساقی مانده‌ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وَزْ صحبتِ خلق، بی‌وِفاقی مانده‌ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بادهٔ دوشین قَدَحی بیش نماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از عمر ندانم که چه باقی مانده‌ است!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82964,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/hazin/robaee-hz/sh76",
+  "RhymeLetters": "اخ",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تضاد بین فقر و ثروت اشاره می‌کند و می‌گوید که با وجود تنگدستی و سختی‌های زندگی، حوصله و صبر آنها زیاد است. برای آنها تفاوتی بین قصر و خانهٔ ساده وجود ندارد و احساس می‌کنند که در قفس زندگی می‌کنند. همچنان که مرغی در قفس در تلاش است تا به آزادی برسد، آنها نیز در تلاشند تا بر مشکلات خود غلبه کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اخ",
+      "PlainText": "با تنگدلی حوصله ماست فراخ\r\nدر دیده ما یکی بود گلخن و کاخ\r\nما سینه زنیم بر در و بام قفس\r\nچندان که پرد مرغ چمن شاخ به شاخ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تنگدلی حوصلهٔ ماست فراخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیدهٔ ما یکی بود گلخن و کاخ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما سینه زنیم بر در و بام قفس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان که پرد مرغ چمن شاخ به شاخ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با تنگدلی حوصلهٔ ماست فراخ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیدهٔ ما یکی بود گلخن و کاخ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما سینه زنیم بر در و بام قفس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان که پرد مرغ چمن شاخ به شاخ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

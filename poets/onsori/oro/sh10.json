@@ -1,0 +1,58 @@
+{
+  "Id": 68860,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/onsori/oro/sh10",
+  "RhymeLetters": "استناست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "این شعر به شکل بداهه برای آرام کردن سلطان محمود و پس از اینکه او در زمان مستی دستور به کوتاهی موی ایاز داد و روز بعد پشیمان و خشمگین شد، سروده شده است. شاعر به این نکته اشاره می‌کند که معشوق که در زیبایی به سرو می‌ماند، همچون سرو با پیراستن حتی زیباتر هم می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استناست",
+      "PlainText": "کی عیب سر زلف بت از کاستن است\r\nچه جای به غم نشستن و خاستن است\r\nروز طرب و نشاط و می خواستن است\r\nکآراستن سرو ز پیراستن است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی عیب سر زلف بت از کاستن است؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه جای به غم نشستن و خاستن است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز طرب و نشاط و می خواستن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآراستنِ سرو ز پیراستن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی عیب سر زلف بت از کاستن است؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه جای به غم نشستن و خاستن است؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روز طرب و نشاط و می خواستن است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآراستنِ سرو ز پیراستن است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

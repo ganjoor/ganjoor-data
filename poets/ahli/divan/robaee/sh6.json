@@ -1,0 +1,58 @@
+{
+  "Id": 104812,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/ahli/divan/robaee/sh6",
+  "RhymeLetters": "یباستمرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از ارتباط عاطفی‌اش با محبوب سخن می‌گوید. او می‌گوید اگر درد دلش به خاطر غم محبوب باشد، این غم برایش دردی نیست چون خودِ غم، مداوا کنندهٔ درد اوست. همچنین، او به عدم تمایلش به فخر فروشی اشاره می‌کند و بیان می‌کند که اگر فقر نسبت به زندگی محمدی نصیبش شود، از این موضوع شرمنده نیست. به طور کلی، شاعر به ارزش‌های معنوی و عشق واقعی تأکید می‌کند و از فخر و ثروت دنیوی فاصله می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یباستمرا",
+      "PlainText": "گر درد دل از غم حبیب است مرا\r\nغم نیست که هم غمش طبیب است مرا\r\nاز فخر جهانیان مرا عار بود\r\nگر فقر محمدی نصیب است مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر درد دل از غم حبیب است مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغم نیست که هم غمش طبیب است مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فخر جهانیان مرا عار بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر فقر محمدی نصیب است مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر درد دل از غم حبیب است مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غم نیست که هم غمش طبیب است مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از فخر جهانیان مرا عار بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر فقر محمدی نصیب است مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

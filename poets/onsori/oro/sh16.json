@@ -1,0 +1,58 @@
+{
+  "Id": 68866,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/onsori/oro/sh16",
+  "RhymeLetters": "ازد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساساتی اشاره دارد که شخص از عشق و غم ناشی از آن تجربه می‌کند. شاعر می‌گوید که اگرچه اشک‌هایش به او آسیب می‌زنند، اما این احساسات مانند شکر در برابر گرما ذوب می‌شوند. همچنین، او به زیبایی و زینت‌های خیالی اشاره می‌کند که از غم عشق نشأت می‌گیرد، تا جایی که اشک‌هایش می‌توانند عقیق را هم ذوب کنند و بر زر تأثیر بگذارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازد",
+      "PlainText": "آن لب نمزم گرچه مرا آن سازد\r\nزیرا که شکر چون بمزی بگدازد\r\nچشمم ز غمانش زرگری آغازد\r\nتا بگدازد عقیق و بر زر یازد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن لب نمزم گرچه مرا آن سازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که شکر چون بمزی بگدازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمم ز غمانش زرگری آغازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بگدازد عقیق و بر زر یازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن لب نمزم گرچه مرا آن سازد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیرا که شکر چون بمزی بگدازد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشمم ز غمانش زرگری آغازد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بگدازد عقیق و بر زر یازد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

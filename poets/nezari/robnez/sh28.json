@@ -1,0 +1,58 @@
+{
+  "Id": 75775,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/nezari/robnez/sh28",
+  "RhymeLetters": "ینیبفرست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از شخصی درخواست می‌کند که گندم یا جو بفرستد، زیرا در وضعیت ضروری و فوری قرار دارد و نیازمند مواد غذایی است. وی تأکید می‌کند که هر چه سریع‌تر باید این درخواست برآورده شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینیبفرست",
+      "PlainText": "گفتم که برای ما قرینی بفرست\r\nگر گندمیی نیست جوینی بفرست\r\nحالی چو ضرورت و مهم دارم زود\r\nتا زان برسد به نقد زینی بفرست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که برای ما قرینی بفرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر گندمیی نیست جوینی بفرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحالی چو ضرورت و مهم دارم زود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا زان برسد به نقد زینی بفرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که برای ما قرینی بفرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر گندمیی نیست جوینی بفرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حالی چو ضرورت و مهم دارم زود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا زان برسد به نقد زینی بفرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

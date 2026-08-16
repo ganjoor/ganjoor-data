@@ -1,0 +1,58 @@
+{
+  "Id": 51465,
+  "CatId": 1833,
+  "Title": "شمارهٔ ۷۶ - غول",
+  "FullTitle": "ملک‌الشعرا بهار » قطعات » شمارهٔ ۷۶ - غول",
+  "FullUrl": "/bahar/ghetebk/sh76",
+  "RhymeLetters": "ممیکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف یک موجود وحشتناک و هولناک می‌پردازد که به نوعی دیو یا غولی را به تصویر می‌کشد. این موجود به گونه‌ای ترسناک است که حتی اگر تصویرش را به دیوار خالی نیز بیندازیم، تأثیری عمیق و ترسناک خواهد داشت. به نظر می‌رسد که این هیبت و形 به حدی رعب‌آور است که موجب رمیدن و وحشت دیگران می‌شود.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ممیکند",
+      "PlainText": "بنگر آن غول راکز هول او\r\nدیو لاحول دمادم می کند\r\nگر کشی عکسش به دیوار خلا\r\nلولیین از هیبتش رم می کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنگر آن غول راکز هول او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیو لاحول دمادم می کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کشی عکسش به دیوار خلا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلولئین از هیبتش رم می کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بنگر آن غول راکز هول او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیو لاحول دمادم می کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر کشی عکسش به دیوار خلا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لولئین از هیبتش رم می کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

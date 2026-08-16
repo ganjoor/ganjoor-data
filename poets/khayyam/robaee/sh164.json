@@ -1,0 +1,58 @@
+{
+  "Id": 1282,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۶۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۶۴",
+  "FullUrl": "/khayyam/robaee/sh164",
+  "RhymeLetters": "اشی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف لحظاتی از خوشی و عیاشی می‌پردازد که در آن در حال نوشیدن از سبوی کاشی بوده است. سبو به نوعی به او پیام می‌دهد که اگر او نیز مانند من مست و شاداب باشد، لذت بیشتری خواهد برد. در واقع، شاعر این حس سرمستی و خوشی را با به اشتراک گذاشتن آن با سبو، نماد وضعیتی مشابه در دیگران می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اشی",
+      "PlainText": "بر سنگ زدم دوش سبوی کاشی\r\nسرمست بدم که کردم این عیاشی\r\nبا من به زبان حال می گفت سبو\r\nمن چون تو بدم تو نیز چون من باشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر سنگ زدم دوش سبوی کاشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمست بدم که کردم این عیاشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا من به زبان حال می‌گفت سبو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن چون تو بدم تو نیز چون من باشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر سنگ زدم دوش سبوی کاشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمست بدم که کردم این عیاشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با من به زبان حال می‌گفت سبو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من چون تو بدم تو نیز چون من باشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

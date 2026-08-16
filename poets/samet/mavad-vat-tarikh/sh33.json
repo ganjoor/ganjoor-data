@@ -1,0 +1,77 @@
+{
+  "Id": 125568,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۳۳",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۳۳",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh33",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به احساس غم و اندوه خود اشاره می‌کند، اما با وجود معصیت‌ها و گناهانی که انجام داده، امید به رحمت خداوند دارد. او می‌داند که در روز قیامت، هرچند چهره‌اش با گناه سیاه شده، باز هم به رحمت الهی دلخوش است.",
+  "Sections": [
+    {
+      "Index": 44,
+      "Number": 44,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهیدارم",
+      "PlainText": "هر چند ز غم چهره کاهی دارم\r\nدر حشر متاع روسیاهی دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند ز غم چهره کاهی دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حشر متاع روسیاهی دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 45,
+      "Number": 45,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "با این همه معصیت خدا می داند\r\nکامید به رحمت الهی دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا این همه معصیت خدا می‌داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامید به رحمت الهی دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 110,
+      "Number": 110,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هیدارم",
+      "PlainText": "هر چند ز غم چهره کاهی دارم\r\nدر حشر متاع روسیاهی دارم\r\nبا این همه معصیت خدا می داند\r\nکامید به رحمت الهی دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند ز غم چهره کاهی دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حشر متاع روسیاهی دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا این همه معصیت خدا می‌داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامید به رحمت الهی دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند ز غم چهره کاهی دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 110,
+      "SectionIndex2": 44
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حشر متاع روسیاهی دارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 110,
+      "SectionIndex2": 44
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با این همه معصیت خدا می‌داند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 110,
+      "SectionIndex2": 45
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کامید به رحمت الهی دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 110,
+      "SectionIndex2": 45
+    }
+  ]
+}

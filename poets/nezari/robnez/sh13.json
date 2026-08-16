@@ -1,0 +1,58 @@
+{
+  "Id": 75760,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/nezari/robnez/sh13",
+  "RhymeLetters": "اب",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به شوق و ایشتراک در صبح اشاره دارد. شاعر از خواننده می‌خواهد که وقتی از خواب بیدار می‌شود، از نوشیدنی‌های شب گذشته لذت ببرد. او تأکید می‌کند که باید با شادی و حرارت به جشن و خوشگذرانی بپردازد و از هر لحظه‌ی زندگی استفاده کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "هنگام صبوح چون درآیی از خواب\r\nدر خواه ز باقیات دوشینه شراب\r\nبر سر کش و دست بر زن و پای بکوب\r\nعشرت به غنیمت کن و فرصت دریاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهنگام صبوح چون درآیی از خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خواه ز باقیات دوشینه شراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر سر کش و دست بر زن و پای بکوب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشرت به غنیمت کن و فرصت دریاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هنگام صبوح چون درآیی از خواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خواه ز باقیات دوشینه شراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر سر کش و دست بر زن و پای بکوب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشرت به غنیمت کن و فرصت دریاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 2071,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۲۱",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۲۱",
+  "FullUrl": "/hafez/robaee2/sh21",
+  "RhymeLetters": "ارمگیر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عاشقانه و درد دل می‌پردازد. شاعر از یار خود می‌خواهد که او را نرنجاند و به خستگی‌های دل عاشقان توجه کند. او از صوفی نیز می‌خواهد که با دانایی خود درباره‌ی راه‌رفتگان، از رندان نکته‌ای بیشتر بیان نکند و به احساسات آن‌ها احترام بگذارد. در کل، شعر بر اهمیت توجه به دل شکسته‌ها و حساسیت‌های عاشقی تأکید دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمگیر",
+      "PlainText": "عشق رخ یار بر من زار مگیر\r\nبر خسته دلان رند خمار مگیر\r\nصوفی چو تو رسم رهروان می دانی\r\nبر مردم رند نکته بسیار مگیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشقِ رخِ یار، بر منِ زار مگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خسته‌دلانِ رندِ خَمّار مگیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی چو تو رسمِ رهروان می‌دانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر مَردمِ رند، نکته بسیار مگیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشقِ رخِ یار، بر منِ زار مگیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر خسته‌دلانِ رندِ خَمّار مگیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صوفی چو تو رسمِ رهروان می‌دانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر مَردمِ رند، نکته بسیار مگیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

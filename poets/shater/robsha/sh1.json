@@ -1,0 +1,58 @@
+{
+  "Id": 50764,
+  "CatId": 1824,
+  "Title": "شب",
+  "FullTitle": "شاطر عباس صبوحی » دوبیتی‌ها » شب",
+  "FullUrl": "/shater/robsha/sh1",
+  "RhymeLetters": "رایدافتاب",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده در شب به چهره محبوبش نگاهی می‌اندازد و خواب‌آلودگی او را می‌بیند. او برقع محبوب را کنار می‌زند تا نور خورشید به او برسد و او را بیدار کند. گوینده به محبوب می‌گوید که خورشید طلوع کرده و از او می‌خواهد که بیدار شود، اما محبوب در پاسخ می‌گوید که تا او نرود، خورشید نیز نخواهد آمد.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رایدافتاب",
+      "PlainText": "دست بر زلفش زدم شب بود چشمش مست خواب\r\nبرقع از رویش گشودم تا درآید آفتاب\r\nگفتمش خورشید سر زد ماه من بیدار شو\r\nگفت تا من برنخیزم کی برآید آفتاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست بر زلفش زدم، شب بود، چشمش مست خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرقع از رویش گشودم تا درآید آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتمش خورشید سر زد، ماه من بیدار شو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت تا من برنخیزم، کی برآید آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دست بر زلفش زدم، شب بود، چشمش مست خواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برقع از رویش گشودم تا درآید آفتاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتمش خورشید سر زد، ماه من بیدار شو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفت تا من برنخیزم، کی برآید آفتاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83411,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۵۰",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۵۰",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh250",
+  "RhymeLetters": "یبم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شخصی به دیگری می‌گوید که امروز به او آسیب زده و فردا این آسیب به خود او بازخواهد گشت و او را دچار مشکلاتی خواهد کرد. همچنین در این مسیر، او را از دام‌هایی که ممکن است او را گرفتار کند، هشدار می‌دهد و از این می‌ترسد که او به زحمت بیفتد.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگ",
+      "PlainText": "ای آنکه زدی بر قدح امروز مرا سنگ\r\nفرداست درین راه کند پای تو را لنگ\r\nدر رهگذر بال فشانان مفکن دام\r\nترسم که تو را سخت فشارد قفس تنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه زدی بر قدح، امروز مرا سنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرداست درین راه، کند پای تو را لنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رهگذر بال فشانان مفکن دام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسم که تو را سخت فشارد، قفس تنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه زدی بر قدح، امروز مرا سنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فرداست درین راه، کند پای تو را لنگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در رهگذر بال فشانان مفکن دام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم که تو را سخت فشارد، قفس تنگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

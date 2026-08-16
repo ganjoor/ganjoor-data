@@ -1,0 +1,58 @@
+{
+  "Id": 70074,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/amir/robam/sh31",
+  "RhymeLetters": "انمناست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر دربارهٔ زیبایی و بزرگی طبیعت و عناصر آن است. شاعر به ابر، دریا و خورشید اشاره می‌کند و آن‌ها را نمادهایی از قدرت و شکوه می‌داند. \u0022طبع و دل و همت\u0022 به عنوان ویژگی‌های انسان، به رییس‌الشرراق (سردار یا رهبر) نسبت داده می‌شود، که نشان‌دهندهٔ نفوذ و اهمیت اوست. به طور کلی، شعر به ارتباط میان طبیعت و ویژگی‌های انسانی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رقاست",
+      "PlainText": "آن ابر که خاطرش به خاطر برق است\r\nوان بحر که خلق در نوالش غرق است\r\nوان شمس  که تاج دولتش بر فرق است\r\nطبع و دل و همت رییس الشرق است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ابر که خاطرش به خاطر برق است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان بحر که خلق در نوالش غرق است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان شمس‌ که تاج دولتش بر فرق است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبع و دل و همت رئیس الشرق است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن ابر که خاطرش به خاطر برق است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان بحر که خلق در نوالش غرق است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وان شمس‌ که تاج دولتش بر فرق است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طبع و دل و همت رئیس الشرق است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

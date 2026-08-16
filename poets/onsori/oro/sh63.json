@@ -1,0 +1,58 @@
+{
+  "Id": 68913,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۶۳",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۶۳",
+  "FullUrl": "/onsori/oro/sh63",
+  "RhymeLetters": "قداری",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف ویژگی‌های معشوق می‌پردازد. شاعر از پاکی و صداقت معشوق سخن می‌گوید و او را دارای ظاهری دلربا و زلف‌های سیاه توصیف می‌کند. در عین حال، به تضاد درون خود نیز اشاره کرده و بیان می‌کند که در خویشتن، دو عاشق وجود دارد: یکی مؤمن و وفادار و دیگری منافق و فاسق. این کنایه‌ها نشان‌دهندهٔ پیچیدگی‌های عشق و روابط انسانی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "قداری",
+      "PlainText": "رخ پاکتر از ضمیر صادق داری\r\nزلفین سیه چون دل فاسق داری\r\nبر خویشتنم بدین دو عاشق داری\r\nمؤمن سخن و وفا منافق داری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخ پاکتر از ضمیر صادق داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلفین سیه چون دل فاسق داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خویشتنم بدین دو عاشق داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمؤمن سخن و وفا منافق داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخ پاکتر از ضمیر صادق داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلفین سیه چون دل فاسق داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر خویشتنم بدین دو عاشق داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مؤمن سخن و وفا منافق داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

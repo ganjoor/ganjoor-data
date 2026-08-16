@@ -1,0 +1,58 @@
+{
+  "Id": 69415,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۵۴",
+  "FullUrl": "/azraghi/arob/sh54",
+  "RhymeLetters": "ار",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به غفلت نفس و دوری از واقعیت اشاره دارد. شاعر به نفس هشدار می‌دهد که از خواب غفلت بیدار شود و از بهانه‌جویی‌های بی‌پایان دست بردارد، زیرا این مسائل باعث شده‌اند که شخصیت و نام او به چیزی ناپسند تبدیل شود. در اینجا، شکست در خودآگاهی و ارزش‌های واقعی به تصویر کشیده شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "غافل شدی ای نفس دگر باره ز کار\r\nبیدار نمی شوی ز خواب پندار\r\nاز بس که بهانه ها گرفتی بر یار\r\nنامت همه ننگ گشت و فخرت همه عار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغافل شدی ای نفس، دگر باره ز کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیدار نمی‌شوی ز خواب پندار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که بهانه‌ها گرفتی بر یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامت همه ننگ گشت و فخرت همه عار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غافل شدی ای نفس، دگر باره ز کار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیدار نمی‌شوی ز خواب پندار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که بهانه‌ها گرفتی بر یار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نامت همه ننگ گشت و فخرت همه عار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

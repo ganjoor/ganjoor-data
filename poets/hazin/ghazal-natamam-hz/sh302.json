@@ -1,0 +1,58 @@
+{
+  "Id": 83463,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۳۰۲",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۳۰۲",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh302",
+  "RhymeLetters": "ینفرو",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به بی‌وفایی و زیبایی‌های محبوبش اشاره می‌کند. او از زیبایی مژگان معشوق سخن می‌گوید که می‌تواند او را از خود دور کند. صبر او مانند کوهی است که در برابر می‌خوردن و مشکلات بسیار مقاوم است. وقتی معشوق با سبکی و ناز عبور می‌کند، تمام سختی‌ها و مشکلات فراموش می‌شود.",
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انتو",
+      "PlainText": "خوش آنکه پیماید قدح چشم جفا پیمان تو\r\nاز خویش بستاند مرا گیرایی مژگان تو\r\nصبر گران تمکین من کوه است و می بازد کمر\r\nچون بگذرد دامن کشان سرو سبک جولان تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آنکه پیماید قدح، چشم جفا پیمان تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خویش بستاند مرا، گیرایی مژگان تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبر گران تمکین من، کوه است و می بازد کمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بگذرد دامن کشان، سرو سبک جولان تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آنکه پیماید قدح، چشم جفا پیمان تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خویش بستاند مرا، گیرایی مژگان تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبر گران تمکین من، کوه است و می بازد کمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بگذرد دامن کشان، سرو سبک جولان تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

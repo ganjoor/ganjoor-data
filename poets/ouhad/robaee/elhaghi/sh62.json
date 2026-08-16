@@ -1,0 +1,58 @@
+{
+  "Id": 99030,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۶۲",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh62",
+  "RhymeLetters": "امتبکشم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر از عشق خود به معشوق سخن می‌گوید و می‌خواهد با وجود تمام ملامت‌ها و دردها، همچنان به عشق او ادامه دهد. او بیان می‌کند که حتی اگر عمرش کم باشد یا با جفاهای معشوقش روبرو شود، به هر حال به عشق او ادامه خواهد داد و تا ابد این عشق را تحمل خواهد کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امتبکشم",
+      "PlainText": "من عشق تو را به صد ملامت بکشم\r\nگر آه کنم به جان غرامت بکشم\r\nگر عمر وفا کند جفاهای تو را\r\nآخر کم از آن که تا قیامت بکشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن عشق تو را به صد ملامت بکشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آه کنم به جان غرامت بکشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر عمر وفا کند جفاهای تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر کم از آن که تا قیامت بکشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من عشق تو را به صد ملامت بکشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر آه کنم به جان غرامت بکشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر عمر وفا کند جفاهای تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر کم از آن که تا قیامت بکشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 107955,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/saeeda/divan/robaee/sh55",
+  "RhymeLetters": "ازنتوانمکرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات شعر به عشق و نیاز شاعر به معشوق اشاره دارد. شاعر می‌گوید که بدون زیبایی و حضور معشوق نمی‌تواند زندگی کند و حتی عبادت هم برایش بی‌معنی است. به عبارت دیگر، او نمی‌تواند بدون نگاه معشوق به روح و قلبش آرامش بدهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازنتوانمکرد",
+      "PlainText": "بی ناز تو من نیاز نتوانم کرد\r\nبی روی تو دیده باز نتوانم کرد\r\nتا قبله ابروی تو ناید به نظر\r\nبالله که من نماز نتوانم کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی ناز تو من نیاز نتوانم کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی روی تو دیده باز نتوانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا قبلهٔ ابروی تو ناید به نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالله که من نماز نتوانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی ناز تو من نیاز نتوانم کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی روی تو دیده باز نتوانم کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا قبلهٔ ابروی تو ناید به نظر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بالله که من نماز نتوانم کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

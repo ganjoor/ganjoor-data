@@ -1,0 +1,58 @@
+{
+  "Id": 50138,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۷۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۷۸",
+  "FullUrl": "/mahsati/robmah/sh78",
+  "RhymeLetters": "ایینکند",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به موضوع عشق و عرفان اشاره می‌کند. او می‌گوید تا زمانی که سنبل (نماد زیبایی و عشق) عطر و زیبایی خود را منتشر نکند و بادی (اشاره به روح و معنویت) به عطر نافه (نماد عشق و جذابیت) نوزد، هیچ چیز نمی‌تواند اهمیت داشته باشد. حتی اگر زاهدی که سال‌ها در راه زهد و پارسایی بود، دستان او را ببیند، نمی‌تواند به گردن او پارسایی (عفاف و خلوص) بگذارد. به طور کلی، شاعر بر قدرت عشق و زیبایی تاکید می‌کند و نشان می‌دهد که این موارد فراتر از زهد و پارسایی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایینکند",
+      "PlainText": "تا سنبل تو غالیه سایی نکند\r\nباد سحری نافه گشایی نکند\r\nگر زاهد صد ساله ببیند دستت\r\nبر گردن من که پارسایی نکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا سنبل تو غالیه‌سائی نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد سحری نافه‌گشایی نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زاهد صد ساله ببیند دستت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گردن من، که پارسایی نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا سنبل تو غالیه‌سائی نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باد سحری نافه‌گشایی نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر زاهد صد ساله ببیند دستت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر گردن من، که پارسایی نکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

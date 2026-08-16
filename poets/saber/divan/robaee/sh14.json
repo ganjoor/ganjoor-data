@@ -1,0 +1,58 @@
+{
+  "Id": 122797,
+  "CatId": 2822,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "ادیب صابر » دیوان اشعار » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/saber/divan/robaee/sh14",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از بی‌خوابی و غم دوری محبوب خود سخن می‌گوید. او به خواب نرفتنش اشاره کرده و می‌گوید که بی‌خوابی‌اش ناشی از یاد و عشق محبوبش است. او بیان می‌کند که عشق محبوبش چشمانش را بیدار نگه‌داشته و اشک‌هایش موجب پاک شدن خواب از چشمانش شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "ای بی تو نخفته من شبی خواب دوست\r\nبی خوابی چشم من ز خوش خوابی توست\r\nدر چشم من از عشق تو بی خوابی رست\r\nتا آب دو دیده خوابم از دیده بشست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بی تو نخفته من شبی خواب دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی خوابی چشم من ز خوش خوابی توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر چشم من از عشق تو بی خوابی رست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا آب دو دیده خوابم از دیده بشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بی تو نخفته من شبی خواب دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی خوابی چشم من ز خوش خوابی توست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در چشم من از عشق تو بی خوابی رست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا آب دو دیده خوابم از دیده بشست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 45730,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۶۸",
+  "FullUrl": "/ghaani/ghetegh/sh68",
+  "RhymeLetters": "ار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به فردی اشاره می‌کند که در جوانی هیچ تلاش و کار مفیدی نکرده است، اما اکنون در تاریکی پیری ادعا می‌کند که می‌تواند به دنبال چیزهایی باشد که در روشنایی روز کسی موفق به یافتن آن‌ها نشده است. این شعر بیانگر این است که بدون عمل و تلاش در زمان مناسب، نمی‌توان انتظار نتایج مثبت در آینده را داشت.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "لاف طاعت چند در پیری زنی\r\nای نکرده در جوانی هیچ کار\r\nآنچه را در روز روشن کس  نجست\r\nچون توانی جست در شبهای تار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاف طاعت چند در پیری زنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای نکرده در جوانی هیچ کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچه را در روز روشن کس‌ نجست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون توانی جست در شبهای تار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لاف طاعت چند در پیری زنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای نکرده در جوانی هیچ کار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنچه را در روز روشن کس‌ نجست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون توانی جست در شبهای تار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

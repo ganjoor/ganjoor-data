@@ -1,0 +1,58 @@
+{
+  "Id": 51763,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/bahar/robaeebk/sh40",
+  "RhymeLetters": "وش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، با آمدن ماه رمضان، مردم از حالت عادی خارج شده و به عبادت می‌پردازند. میکده‌ها بسته شده و درها به روی می‌نوشیدگان بسته است تا صدای آن‌ها به گوش نرسد و از نوشیدنی‌های الکلی پرهیز کنند. این وضعیت به معنای احترام به ماه رمضان و دوری از انحرافات است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وش",
+      "PlainText": "آمد رمضان و خلق رفتند ز هوش\r\nشد میکده ها قفل و زبان ها خاموش\r\nتا نشنود الغیاث می خواران را\r\nمینای عرق پنبه نهادست به گوش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد رمضان و خلق رفتند ز هوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد میکده‌ها قفل و زبان‌ها خاموش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نشنود الغیاث می‌خواران را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمینای عرق پنبه نهادست به گوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد رمضان و خلق رفتند ز هوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد میکده‌ها قفل و زبان‌ها خاموش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا نشنود الغیاث می‌خواران را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مینای عرق پنبه نهادست به گوش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 101863,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/salim/divan/robaee/sh72",
+  "RhymeLetters": "اهعالم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بزرگی و لطف خدا اشاره دارد و تأکید می‌کند که وجود خداوند پناهی برای جهانیان است. شاعر بیان می‌کند که تا زمان و مکانی وجود دارد، نام خدا و محبت او در جهان خواهد بود و درگاه خداوند همچون عیدگاه مقدسی برای انسان‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهعالم",
+      "PlainText": "ای حاصل دور سال و ماه عالم\r\nوی سایه ی لطف تو پناه عالم\r\nتا نام و نشان ز عید در عالم هست\r\nدرگاه تو باد عیدگاه عالم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای حاصل دور سال و ماه عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی سایه ی لطف تو پناه عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نام و نشان ز عید در عالم هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرگاه تو باد عیدگاه عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای حاصل دور سال و ماه عالم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی سایه ی لطف تو پناه عالم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا نام و نشان ز عید در عالم هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درگاه تو باد عیدگاه عالم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

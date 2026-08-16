@@ -1,0 +1,58 @@
+{
+  "Id": 10096,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۳۵",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳۵",
+  "FullUrl": "/saadi/divan/robaees/sh35",
+  "RhymeLetters": "ابشببرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و طراوت گل اشاره می‌کند و می‌گوید اگر باد زیبایی و جوانی او را ببرد، بلبل نمی‌تواند خواب او را برباید. همچنین به زمان رسیدن آب عطار اشاره می‌کند که گل با آمدن آب، شاداب‌تر می‌شود و در نهایت عطار نیز به موقع آب را می‌برد. به طور کلی، این شعر به ناپایداری زیبایی و تأثیرات طبیعی بر گل‌ها اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابشببرد",
+      "PlainText": "گر باد ز گل حسن شبابش ببرد\r\nبلبل نه حریفست که خوابش ببرد\r\nگل وقت رسیدن آب عطار ببرد\r\nعطار به وقت رفتن آبش ببرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر باد ز گل حسن شبابش ببرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبل نه حریفست که خوابش ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل وقت رسیدن آب عطار ببرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعطار به وقت رفتن آبش ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر باد ز گل حسن شبابش ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلبل نه حریفست که خوابش ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل وقت رسیدن آب عطار ببرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عطار به وقت رفتن آبش ببرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

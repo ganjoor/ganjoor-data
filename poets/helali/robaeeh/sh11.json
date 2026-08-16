@@ -1,0 +1,58 @@
+{
+  "Id": 45354,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۱۱",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۱۱",
+  "FullUrl": "/helali/robaeeh/sh11",
+  "RhymeLetters": "ویتوگذشت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات می‌گوید که تمام روز و شبش به گفت‌وگوی معشوق سپری شده، سال‌ها و ماه‌ها را در جستجوی او گذرانده و عمرش را به دور زدن در اطراف کوی محبوبش گذارنده است. در نهایت، همه چیزش در آرزوی معشوق به سر رفته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویتوگذشت",
+      "PlainText": "روز و شب من به گفتگوی تو گذشت\r\nسال و مه من به جستجوی تو گذشت\r\nعمرم به طواف گرد کوی تو گذشت\r\nالقصه همه در آرزوی تو گذشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز و شب من به گفتگوی تو گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسال و مه من به جستجوی تو گذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرم به طواف گرد کوی تو گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالقصه، همه در آرزوی تو گذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روز و شب من به گفتگوی تو گذشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سال و مه من به جستجوی تو گذشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمرم به طواف گرد کوی تو گذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "القصه، همه در آرزوی تو گذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

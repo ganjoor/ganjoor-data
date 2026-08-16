@@ -1,0 +1,58 @@
+{
+  "Id": 101876,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۵",
+  "FullUrl": "/salim/divan/robaee/sh85",
+  "RhymeLetters": "ینافتادی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از عدم توجه به زین و مرکب سخن می‌گوید و از محبوبش می‌پرسد که چرا به چنین وضعی افتاده است. او به این نکته اشاره می‌کند که بشارتی از پیروزی به او رسیده و به خاطر این نعمت در سجده شکر فرود آمده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینافتادی",
+      "PlainText": "از تندی مرکب نه ز زین افتادی\r\nگویم ز چه ای قبله ی دین افتادی\r\nاز غیب ترا بشارت فتح رسید\r\nدر سجده ی شکر بر زمین افتادی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تندی مرکب نه ز زین افتادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویم ز چه ای قبله ی دین افتادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز غیب ترا بشارت فتح رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سجده ی شکر بر زمین افتادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از تندی مرکب نه ز زین افتادی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویم ز چه ای قبله ی دین افتادی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از غیب ترا بشارت فتح رسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سجده ی شکر بر زمین افتادی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

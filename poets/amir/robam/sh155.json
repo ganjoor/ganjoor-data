@@ -1,0 +1,58 @@
+{
+  "Id": 70198,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۵۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۵۵",
+  "FullUrl": "/amir/robam/sh155",
+  "RhymeLetters": "ادندهمه",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به تفاوت بین دو شاه اشاره می‌کند. یکی \u0022ابلق شاه\u0022 و دیگری \u0022فرخ شاه\u0022 است. به نظر می‌رسد که هر کدام از آن‌ها ویژگی‌های خاصی دارند و شاعر به زیبایی و شگفتی آن‌ها اشاره می‌کند. در نهایت، با ذکر \u0022سیر زحل\u0022 و \u0022رفتن ماه\u0022 به تفاوت‌های بیشتر آن‌ها اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اه",
+      "PlainText": "دارند همه شگفت میران سپاه\r\nاز ابلق شاه و ابرش فرخ شاه\r\nفرق است میان هر دو سبحان الله\r\nکین سیر زحل دارد و آن رفتن ماه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارند همه شگفت میران سپاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ابلق شاه و ابرش فرخ شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرق است میان هر دو سبحان الله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکین سیر زحل دارد و آن رفتن ماه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارند همه شگفت میران سپاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از ابلق شاه و ابرش فرخ شاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرق است میان هر دو سبحان الله",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کین سیر زحل دارد و آن رفتن ماه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

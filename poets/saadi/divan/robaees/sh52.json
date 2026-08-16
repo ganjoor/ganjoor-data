@@ -1,0 +1,58 @@
+{
+  "Id": 10113,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۵۲",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۵۲",
+  "FullUrl": "/saadi/divan/robaees/sh52",
+  "RhymeLetters": "وازامد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به گردش افکارش اشاره می‌کند که رازهایی از دلش بر زبانش جاری می‌شود. او با بیان اینکه دلش همچون پرنده‌ای در حال پرواز است، نشان می‌دهد که احساساتش تحت تأثیر جفای یار قرار گرفته و این جفا باعث شده تا غم و اندوهش را بیان کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وازامد",
+      "PlainText": "دانی که چرا بر دهنم راز آمد\r\nمرغ دلم از درون به پرواز آمد\r\nاز من نه عجب که هاون رویین تن\r\nاز یار جفا دید و به آواز آمد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی که چرا بر دهنم راز آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغ دلم از درون به پرواز آمد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز من نه عجب که هاون رویین‌تن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز یار جفا دید و به آواز آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانی که چرا بر دهنم راز آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغ دلم از درون به پرواز آمد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از من نه عجب که هاون رویین‌تن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از یار جفا دید و به آواز آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

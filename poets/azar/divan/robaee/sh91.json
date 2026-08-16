@@ -1,0 +1,58 @@
+{
+  "Id": 119012,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/azar/divan/robaee/sh91",
+  "RhymeLetters": "ردهنگر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت چین و پرده‌های مربوط به آن اشاره می‌کند. او از مردم می‌خواهد که به زیبایی و آرامش موجود در این صحنه توجه کنند و از زیبا رویانی که در این بزم هستند، لذت ببرند. به عبارت دیگر، شاعر به تماشای زیبایی و هنر در مراسم‌های شاد دعوت می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردهنگر",
+      "PlainText": "این پرده که نقش چین خجل کرده نگر\r\nزیبش ز بتان ناز پرورده نگر\r\nخاموش ازین بزم خوش آوازان بین\r\nبی پرده پری رخان درین پرده نگر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین پرده که نقش چین خجل کرده نگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیبش ز بتان ناز پرورده نگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاموش، ازین بزم خوش آوازان بین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی پرده پری رخان درین پرده نگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این پرده که نقش چین خجل کرده نگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیبش ز بتان ناز پرورده نگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاموش، ازین بزم خوش آوازان بین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی پرده پری رخان درین پرده نگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

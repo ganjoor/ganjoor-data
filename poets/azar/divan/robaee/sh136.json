@@ -1,0 +1,58 @@
+{
+  "Id": 119057,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۳۶",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۳۶",
+  "FullUrl": "/azar/divan/robaee/sh136",
+  "RhymeLetters": "یبدگران",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات شاعر درباره ظلم و فریب می‌پردازد. شاعر از درد و رنج خود صحبت می‌کند و به ظلمی که به او شده اشاره می‌کند؛ همچنین به این نکته می‌پردازد که چگونه دیگران نیز ممکن است مورد ظلم قرار گیرند. در واقع، شاعر احساس می‌کند که در حالی که او در رنج و زحمت است، دیگران نیز در معرض فریب و ظلم هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یبدگران",
+      "PlainText": "چند ای ظالم بهر فریب دگران\r\nماخسته و باشی تو طبیب دگران\r\nظلم اینکه گذشت تیر جورت از من\r\nوین ظلم دگر که شد نصیب دگران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند ای ظالم! بهر فریب دگران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماخسته و باشی تو طبیب دگران؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eظلم اینکه، گذشت تیر جورت از من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین ظلم دگر که شد نصیب دگران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چند ای ظالم! بهر فریب دگران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماخسته و باشی تو طبیب دگران؟!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ظلم اینکه، گذشت تیر جورت از من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین ظلم دگر که شد نصیب دگران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

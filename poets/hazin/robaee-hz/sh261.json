@@ -1,0 +1,58 @@
+{
+  "Id": 83158,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۶۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۶۱",
+  "FullUrl": "/hazin/robaee-hz/sh261",
+  "RhymeLetters": "هی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به مفهوم سکوت و بی‌عملی اشاره دارد. شاعر می‌گوید اگر کسی باید محبت یا نیکی کند، باید آن را ابراز کند وگرنه سکوت و بی‌عملی تنها موجب ناراحتی و بسته ماندن کارها می‌شود. در واقع، سخن گفتن و ابراز احساسات دارای اهمیت زیادی است و خاموشی به نتایج منفی منتهی می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هی",
+      "PlainText": "مهری به لب خود زن اگر مرد مهی\r\nگر نیکی اگر بدی که خاموش بهی\r\nخاموش حزین که از کلید سخنت\r\nجز قفل دهان نمی گشاید گرهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهری به لب خود زن اگر مرد مهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نیکی، اگر بدی، که خاموش بِهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاموش حزین که از کلید سخنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز قفل دهان، نمی گشاید گرهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مهری به لب خود زن اگر مرد مهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر نیکی، اگر بدی، که خاموش بِهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاموش حزین که از کلید سخنت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز قفل دهان، نمی گشاید گرهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

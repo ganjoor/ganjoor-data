@@ -1,0 +1,58 @@
+{
+  "Id": 50168,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۰۸",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۰۸",
+  "FullUrl": "/mahsati/robmah/sh108",
+  "RhymeLetters": "ارش",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق و دلنگرانی دربارهٔ عشق و جدایی می‌پردازد. شاعر از نبودن معشوق و تأثیر آن بر روح خود صحبت می‌کند و به زیبایی‌های عشق و دل‌سوزی بلبل اشاره دارد. همچنین به سرنوشتی که در دام عشق افتاده، اشاره می‌شود و احساساتی از غم و عشق را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارش",
+      "PlainText": "من تازه گلی که او نباشد خارش\r\nیا بلبل خوش گو که بود غمخوارش\r\nبازی که سر دست شهان جاش بود\r\nدر دام تو افتاد نکو می دارش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن تازه‌گلی که او نباشد خارش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا بلبل خوش‌گو که بود غمخوارش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازی که سر دست شهان جاش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دام تو افتاد نکو می‌دارش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من تازه‌گلی که او نباشد خارش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا بلبل خوش‌گو که بود غمخوارش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بازی که سر دست شهان جاش بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دام تو افتاد نکو می‌دارش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

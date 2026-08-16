@@ -1,0 +1,58 @@
+{
+  "Id": 68883,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/onsori/oro/sh33",
+  "RhymeLetters": "ل",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، به زیبایی‌های خراسان و زابل اشاره شده است. فصل بهار به کابل می‌آید و اشاره به غل‌زنی بر یبغو و پل زدن بر جیحون دارد. جیحون به پل می‌رسد و یبغو تحت تأثیر غل قرار دارد. در واقع، این شعر به زیبایی‌های طبیعی و فرهنگی این مناطق می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ل",
+      "PlainText": "خورشید خراسان و خدیو زابل\r\nاز نخشب و کش بهار گردد کابل\r\nغل بر یبغو نهاد و پل بر جیحون\r\nجیحون به پل دارد و یبغوی به غل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید خراسان و خدیو زابل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نخشب و کش بهار گردد کابل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغل بر یبغو نهاد و پل بر جیحون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجیحونِ به پل دارد و یبغویِ به غل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید خراسان و خدیو زابل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نخشب و کش بهار گردد کابل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غل بر یبغو نهاد و پل بر جیحون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جیحونِ به پل دارد و یبغویِ به غل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70142,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۹۹",
+  "FullUrl": "/amir/robam/sh99",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که شاه بزرگی متوجه احساسات او شده و او را از زمین به بلندای ماه می‌برد. همچنین، وقتی آب صدای او را می‌شنود، یک ترانه به او می‌دهد و هنگامی که باد به وی توجه می‌کند، یک مرکب خاص به او می‌بخشد. این ابیات نشان‌دهنده‌ی ارتباط شاعر با عناصر طبیعی و تأثیر آنها بر روح و احساسات او هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شید",
+      "PlainText": "چون آتش خاطر مرا شاه بدید\r\nاز خاک مرا بر زبر ماه کشید\r\nچون آب یکی ترانه از من بشنید\r\nچون باد یکی مرکب خاصم بخشید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون آتش خاطر مرا شاه بدید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خاک مرا بر زبر ماه کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون آب یکی ترانه از من بشنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون باد یکی مرکب خاصم بخشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون آتش خاطر مرا شاه بدید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خاک مرا بر زبر ماه کشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون آب یکی ترانه از من بشنید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون باد یکی مرکب خاصم بخشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

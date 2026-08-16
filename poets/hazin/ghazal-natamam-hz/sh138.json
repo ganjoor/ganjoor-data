@@ -1,0 +1,58 @@
+{
+  "Id": 83299,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۳۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۳۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh138",
+  "RhymeLetters": "انهنسازد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به زمان و تغییر آن اشاره دارد. بیان می‌کند که عمر و زمان به شکل غیرقابل بازگشتی سپری می‌شود و هیچ نگرانی از عواقب آن وجود ندارد. همچنین، شاعر از قهر و خشم محبوب سخن می‌گوید، که برای بوالهوسان ترسی ندارد و چشم محبوب به مانند پلنگی است که علیرغم قدرتش، چنگال ندارد و به نوعی قدرت خود را محدود کرده است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الندارد",
+      "PlainText": "عمر گذران فکر مه و سال ندارد\r\nچشم نگران سیل به دنبال ندارد\r\nاز قهر تو بیمی نبود بوالهوسان را\r\nچشم تو پلنگیست که چنگال ندارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر گذران، فکر مه و سال ندارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم نگران، سیل به دنبال ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز قهر تو، بیمی نبود بوالهوسان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم تو پلنگیست که چنگال ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمر گذران، فکر مه و سال ندارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم نگران، سیل به دنبال ندارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از قهر تو، بیمی نبود بوالهوسان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشم تو پلنگیست که چنگال ندارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 107941,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/saeeda/divan/robaee/sh41",
+  "RhymeLetters": "ندهاینیستکهنیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به این موضوع اشاره می‌کند که بدون یاد و ذکر محبوب هیچ موجود زنده‌ای وجود ندارد. او می‌گوید شادی‌اش از دل‌تنگی و ماتم ناشی می‌شود و در واقعی، هیچ‌اندازه‌ای از گریه و غم وجود ندارد که به خنده و شادی تبدیل نشود. به عبارتی، عشق و یاد محبوب در زندگی او همه چیز را تحت تأثیر قرار می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندهاینیستکهنیست",
+      "PlainText": "بی ذکر تو هیچ زنده ای نیست که نیست\r\nبی یاد تو هیچ بنده ای نیست که نیست\r\nشادی من از برای ماتم باشد\r\nصد گریه نهان به خنده ای نیست که نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی ذکر تو هیچ زنده ای نیست که نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی یاد تو هیچ بنده ای نیست که نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشادی من از برای ماتم باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد گریه نهان به خنده ای نیست که نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی ذکر تو هیچ زنده ای نیست که نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی یاد تو هیچ بنده ای نیست که نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شادی من از برای ماتم باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد گریه نهان به خنده ای نیست که نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

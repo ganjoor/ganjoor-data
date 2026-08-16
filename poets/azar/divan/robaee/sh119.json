@@ -1,0 +1,58 @@
+{
+  "Id": 119040,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۱۹",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۱۹",
+  "FullUrl": "/azar/divan/robaee/sh119",
+  "RhymeLetters": "شعشق",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به شادی و خوشی ناشی از عشق اشاره می‌کند و می‌گوید که این خوشی حتی در میان غم‌ها نیز وجود دارد. او تأکید می‌کند که هرگز از گناه دست نخواهد کشید، حتی اگر عواقب آن مانند آتش دوزخ باشد؛ زیرا عشق برای او ارزشمندتر از هر چیزی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شعشق",
+      "PlainText": "شادیم مدام از غم دلکش عشق\r\nپیوسته خوشیم از خوش و ناخوش عشق\r\nهرگز نکشم دست ز دامان گناه\r\nگر آتش دوزخ است چون آتش عشق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشادیم، مدام از غم دلکش عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیوسته خوشیم، از خوش و ناخوش عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز نکشم دست ز دامان گناه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آتش دوزخ است، چون آتش عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شادیم، مدام از غم دلکش عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوسته خوشیم، از خوش و ناخوش عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز نکشم دست ز دامان گناه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر آتش دوزخ است، چون آتش عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

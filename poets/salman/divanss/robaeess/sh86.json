@@ -1,0 +1,58 @@
+{
+  "Id": 39050,
+  "CatId": 1136,
+  "Title": "رباعی شمارهٔ ۸۶",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۸۶",
+  "FullUrl": "/salman/divanss/robaeess/sh86",
+  "RhymeLetters": "وش",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از زلف معشوق سخن می‌گوید و از تمایل خود برای نزدیک شدن به او صحبت می‌کند. معشوق در پاسخ به او می‌گوید که دل چیست و به سکوت اشاره می‌کند. همچنین، اشاره می‌شود که زلف معشوق اگرچه حال شاعر را تحت تاثیر قرار می‌دهد، اما در واقع روی دوش او نگاه‌دارنده‌ای وجود دارد. در کل، شعر به احساسات عاشقانه و پیچیدگی‌های آن پرداخته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وش",
+      "PlainText": "دل خواستم از زلف سمن پوش تو دوش \r\nگفتا که چه دل دل که دل چیست خموش \r\nزلف تو اگر چه حال ما می ماند \r\nلیکن طرف دوش تو می دارد گوش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل خواستم از زلف سمن پوش تو دوش \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا که چه دل؟ دل که؟ دل چیست؟ خموش \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلف تو اگر چه حال ما می‌ماند \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن طرف دوش تو می‌دارد گوش \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل خواستم از زلف سمن پوش تو دوش ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا که چه دل؟ دل که؟ دل چیست؟ خموش ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زلف تو اگر چه حال ما می‌ماند ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لیکن طرف دوش تو می‌دارد گوش ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

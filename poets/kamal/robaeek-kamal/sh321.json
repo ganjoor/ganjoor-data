@@ -1,0 +1,58 @@
+{
+  "Id": 72058,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۳۲۱",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۳۲۱",
+  "FullUrl": "/kamal/robaeek-kamal/sh321",
+  "RhymeLetters": "امیامد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر describes آوا و بوی خوش صبحگاهی را احساس می‌کند که یادآور محبوبش است و از آنجا می‌فهمد که این عطر از زلف یار او می‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیامد",
+      "PlainText": "انگام سحر باد صبا می آمد\r\nازوی بویی بس آشنا می آمد\r\nپی می بردم که از کجا می آید\r\nهم از سر زلف یار ما می امد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانگام سحر باد صبا می آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازوی بویی بس آشنا می آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپی می بردم که از کجا می آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم از سر زلف یار ما می امد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انگام سحر باد صبا می آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازوی بویی بس آشنا می آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پی می بردم که از کجا می آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم از سر زلف یار ما می امد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 70095,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/amir/robam/sh52",
+  "RhymeLetters": "ادمباد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: غزل نشان می‌دهد که عشق و علاقه به کسی باید با دل و جان باشد و نباید به هیچ کس اجازه داد که دلش شاد باشد اگر از عشق او محروم است. همچنین، به اهمیت آزادی در عشق اشاره دارد و می‌گوید که اگر عشق به کسی به یک حس ویرانگر تبدیل شود، بهتر است که دیگر احساس عشق نکند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمباد",
+      "PlainText": "هرگز دل تو به هیچکس شاد مباد\r\nوز بند تو بنده تو آزاد مباد\r\nتا عشق تو را دلم عمارت نکند\r\nویران شده عشق تو آباد مباد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز دل تو به هیچکس شاد مباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بند تو بندهٔ تو آزاد مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا عشق تو را دلم عمارت نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eویران شدهٔ عشق تو آباد مباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگز دل تو به هیچکس شاد مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز بند تو بندهٔ تو آزاد مباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا عشق تو را دلم عمارت نکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ویران شدهٔ عشق تو آباد مباد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

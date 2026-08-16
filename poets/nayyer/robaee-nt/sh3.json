@@ -1,0 +1,58 @@
+{
+  "Id": 84523,
+  "CatId": 2207,
+  "Title": "شمارهٔ  ۳",
+  "FullTitle": "نیر تبریزی » رباعیات » شمارهٔ  ۳",
+  "FullUrl": "/nayyer/robaee-nt/sh3",
+  "RhymeLetters": "انکند",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان بی‌توجهی افرادی می‌پردازد که نسبت به رنج و خونریزی عاشقان و ستم‌دیدگان بی‌اعتنا هستند. شاعر به یک ترکی اشاره دارد که به هیچ‌وجه نسبت به مسائل انسانی و درد دیگران اهمیتی نمی‌دهد و به هموطنان خود هشدار می‌دهد که نباید به آینده امیدوار باشند، زیرا در حال حاضر مصائب عاشقان و ستم‌دیدگان را نادیده می‌گیرند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انکند",
+      "PlainText": "ترکی که ز خون خیره پروا نکند\r\nاز آه ستم کشان محابا نکند\r\nخونریزی عاشقان بفردا نگذشت\r\nترسا بچه بین که فکر فردا نکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترکی که ز خون خیره پروا نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آه ستم کشان محابا نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخونریزی عاشقان بفردا نگذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسا بچه بین که فکر فردا نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترکی که ز خون خیره پروا نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از آه ستم کشان محابا نکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خونریزی عاشقان بفردا نگذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسا بچه بین که فکر فردا نکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

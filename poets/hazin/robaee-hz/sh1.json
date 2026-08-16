@@ -1,0 +1,58 @@
+{
+  "Id": 82889,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/hazin/robaee-hz/sh1",
+  "RhymeLetters": "اییدلما",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف احساسات عاشقانه‌اش می‌پردازد. او با اشاره به زلف محبوبش به عنوان صید دل خود، از گرفتار شدن در عشق و عواطف شدیدش سخن می‌گوید. همچنین، با ذکر بوی کباب، به وجود حرارت عشق و آتش در دلش اشاره می‌کند که نشان‌دهنده شدت علاقه‌اش است. به طور کلی، احساساتی همچون عشق، گرفتار شدن و سوز و حرارت در دل را منتقل می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییدلما",
+      "PlainText": "شد صید خم زلف رسایی دل ما\r\nافتاد به دام اژدهایی دل ما\r\nاز بوی کباب می توان دانستن\r\nکز عشق در آتش است جایی دل ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد صید خم زلف رسایی دل ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتاد به دام اژدهایی دل ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بوی کباب می توان دانستن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز عشق در آتش است جایی دل ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد صید خم زلف رسایی دل ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتاد به دام اژدهایی دل ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بوی کباب می توان دانستن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز عشق در آتش است جایی دل ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

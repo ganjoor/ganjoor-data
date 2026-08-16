@@ -1,0 +1,58 @@
+{
+  "Id": 119605,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/neshat/divan/robaee/sh71",
+  "RhymeLetters": "ارمبکشی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از معشوق خود می‌خواهد که اگر تصمیم به آزار او دارد، با خنجر به او حمله کند. او از اعمال خود احساس شرمساری کرده و می‌گوید که اگرچه بارها بی‌گناهی‌اش را به او نشان داده، اما باز هم مورد ظلم قرار گرفته است. در نهایت، او از معشوق می‌پرسد که نتیجه این ظلم‌ها بر حال او چیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمبکشی",
+      "PlainText": "خواهی که کشی خنجر و زارم بکشی\r\nاز کرده مرا که شرمسارم بکشی\r\nسد بار فزون چو بیگناهم کشتی\r\nیکره چه شود گناهکارم بکشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی که کشی خنجر و زارم بکشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کرده مرا که شرمسارم بکشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسد بار فزون چو بیگناهم کشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکره چه شود گناهکارم بکشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواهی که کشی خنجر و زارم بکشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از کرده مرا که شرمسارم بکشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سد بار فزون چو بیگناهم کشتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکره چه شود گناهکارم بکشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

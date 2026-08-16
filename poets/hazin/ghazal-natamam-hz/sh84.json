@@ -1,0 +1,58 @@
+{
+  "Id": 83245,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۸۴",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh84",
+  "RhymeLetters": "نها",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از عشق و longing به معشوق خود سخن می‌گوید. احساس درد و شوق به معشوق را با تصاویری مانند داغ لاله‌زارها و هوای بهاری توصیف می‌کند. همچنین افراط در زیبایی معشوق را نشان می‌دهد که حتی سروران نیز به زلف او پا می‌افتند و از نگاهش اختیارشان را از دست می‌دهند. این اشعار نمادی از عشق عمیق و تسخیر قلب‌ها است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارها",
+      "PlainText": "ای از تو داغ بر جگر لاله زارها\r\nسرگشته در هوای تو بوی بهارها\r\nدر پا فتاده سر زلف تو سروران\r\nاز دست رفته نگهت اختیارها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از تو داغ بر جگر لاله زارها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگشته در هوای تو، بوی بهارها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پا فتادهٔ سر زلف تو سروران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دست رفتهٔ نگهت، اختیارها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای از تو داغ بر جگر لاله زارها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرگشته در هوای تو، بوی بهارها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در پا فتادهٔ سر زلف تو سروران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دست رفتهٔ نگهت، اختیارها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

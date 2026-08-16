@@ -1,0 +1,58 @@
+{
+  "Id": 83354,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۹۳",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۹۳",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh193",
+  "RhymeLetters": "انرفتند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره زیبایی و جذابیت یک معشوق است که رنگ و بوی او تاثیر زیادی بر اطرافیان دارد. از خون لاله به خاطر رنگ و لطافت او، جویش می‌زند و بوی او هم هوش و حواس را تحت تأثیر قرار می‌دهد. همچنین اشاره به زیبایی و طراوت چهره او در صبح دارد که احساسات شگفت‌انگیزی را القا می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشمیزند",
+      "PlainText": "از روی لاله رنگ تو خون جوش می زند\r\nبوی تو راه قافله هوش می زند\r\nچون کاکلت مدام نباشد سیاه مست\r\nدر صبح عارضت می سرجوش می زند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز روی لاله رنگ تو خون جوش می زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی تو راه قافلهٔ هوش می زند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون کاکلت، مدام نباشد سیاه مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صبح عارضت، می سرجوش می زند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از روی لاله رنگ تو خون جوش می زند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی تو راه قافلهٔ هوش می زند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون کاکلت، مدام نباشد سیاه مست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در صبح عارضت، می سرجوش می زند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

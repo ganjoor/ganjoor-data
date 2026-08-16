@@ -1,0 +1,58 @@
+{
+  "Id": 123599,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/naziri/divan/robaee/sh33",
+  "RhymeLetters": "بماست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات از شاعر به بیان این نکته می‌پردازد که هر چیزی که نور و روشنی نداشته باشد، از ارزش و زیبایی کمتری برخوردار است. شمعی که نمی‌سوزد، مانند ستاره‌ای است که درخشش ندارد و مرغی که صبح را نمی‌شناسد، در واقع در تاریکی شب زندگی می‌کند. به طور کلی، این ابیات اشاره به بی‌فایده بودن چیزهایی دارد که نتوانند روشنی و روزی را به ارمغان بیاورند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بماست",
+      "PlainText": "شمعی که فروزان نشود کوکب ماست\r\nبرقی که ضیا نمی دهد مطلب ماست\r\nصبح همه مرغان سحرخیز دمید\r\nمرغی که سحر نمی شناسد شب ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمعی که فروزان نشود کوکب ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرقی که ضیا نمی دهد مطلب ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح همه مرغان سحرخیز دمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغی که سحر نمی شناسد شب ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمعی که فروزان نشود کوکب ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برقی که ضیا نمی دهد مطلب ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبح همه مرغان سحرخیز دمید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرغی که سحر نمی شناسد شب ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

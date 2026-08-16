@@ -1,0 +1,58 @@
+{
+  "Id": 70211,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۶۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۶۸",
+  "FullUrl": "/amir/robam/sh168",
+  "RhymeLetters": "ودایساقی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت بیانگر این است که هر لحظه با دیدار خوشی روبرو می‌شویم، اگرچه ممکن است با کسانی که نظر مخالف دارند دست و پنجه نرم کنیم. شاعر به قدرت خود در مواجهه با مخالفان اشاره می‌کند و می‌گوید می‌تواند آن‌ها را به چالش بکشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازی",
+      "PlainText": "هر دم زا دمی  خجسته دیدار تری\r\nهرچند که مهتری نکوکارتری\r\nبا خیل مخالفان نبرد آغازی\r\nسرشان بدل گوی همی اندازی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم زا‌دمی‌ خجسته دیدار تری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچند که مهتری نکوکارتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا خیل مخالفان نبرد آغازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسَرشان بَدَل گوی همی اندازی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر دم زا‌دمی‌ خجسته دیدار تری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرچند که مهتری نکوکارتری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با خیل مخالفان نبرد آغازی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سَرشان بَدَل گوی همی اندازی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

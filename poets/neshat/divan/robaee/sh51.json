@@ -1,0 +1,58 @@
+{
+  "Id": 119585,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/neshat/divan/robaee/sh51",
+  "RhymeLetters": "ستم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از عشق و غم خود سخن می‌گوید. او می‌گوید که برای عشق و غم معشوقش جان و دل خود را فدای او کرده و از احوال دنیا خسته است. او نمی‌داند چگونه باید از غم معشوقش که در زندگی‌اش تأثیرگذار است، شکرگزاری کند، زیرا این عشق او را به شادی و اندوهی عمیق کشانده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستم",
+      "PlainText": "پیوند غمت تا بدل و جان بستم\r\nاز دل ببریدم وز جان بگسستم\r\nاندوه تو را چه شکر گویم کزوی\r\nاز شادی و اندوه دو عالم رستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوند غمت تا بدل و جان بستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دل ببریدم وز جان بگسستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندوه تو را چه شکر گویم کزوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شادی و اندوه دو عالم رستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیوند غمت تا بدل و جان بستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دل ببریدم وز جان بگسستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندوه تو را چه شکر گویم کزوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از شادی و اندوه دو عالم رستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

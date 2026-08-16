@@ -1,0 +1,58 @@
+{
+  "Id": 82941,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۵۳",
+  "FullUrl": "/hazin/robaee-hz/sh53",
+  "RhymeLetters": "اریبرخاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، ساقی به آرامی و با طراوت از دل ابر آبداری می‌گذرد و به نظر می‌رسد این حال از چشمان می‌گساری نشأت می‌گیرد. زمانی که جام را در دست می‌گیرد، یادها و خاطرات قدیمی از ذهنم زنده می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریبرخاست",
+      "PlainText": "ساقی رگ ابر آبداری برخاست\r\nگویا که ز چشم می گساری برخاست\r\nتا آینه جام گرفتی در دست\r\nزآیینه خاطرم غباری برخاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی، رگ ابر آبداری برخاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویا که ز چشم می گساری برخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا آینهٔ جام گرفتی در دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآیینهٔ خاطرم غباری برخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی، رگ ابر آبداری برخاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویا که ز چشم می گساری برخاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا آینهٔ جام گرفتی در دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زآیینهٔ خاطرم غباری برخاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

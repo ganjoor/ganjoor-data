@@ -1,0 +1,58 @@
+{
+  "Id": 82994,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۰۶",
+  "FullUrl": "/hazin/robaee-hz/sh106",
+  "RhymeLetters": "اشیندهند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به احساس ناخرسندی و انتقاد از اوضاع کنونی اشاره دارد. شاعر به کعبه و معنویت آن اشاره می‌کند و تأکید می‌کند که اگر شرایط زندگی بهتر نشود (معاشی فراهم نگردد)، مهمانی و زیارت آن نیز بی‌معناست. همچنین به کربلا و زائران آن پرداخته که در آنجا به جای آرامش و احترام، در صدد حفظ زندگی و یاد شهیدانند، ولی با حالتی ناامیدانه مواجه‌اند. در کل، شعر به نارضایتی از وضعیت اجتماعی و دینی اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اشیندهند",
+      "PlainText": "با کعبه چه کار اگر معاشی ندهند\r\nمهمانی زنده مرده لاشی ندهند\r\nزان گشته به کربلا مجاور زاهد\r\nکاندر سر گور شمر آشی ندهند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا کعبه چه کار اگر معاشی ندهند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهمانی زنده، مرده لاشی ندهند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان گشته به کربلا مجاور، زاهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر سر گور شمر، آشی ندهند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با کعبه چه کار اگر معاشی ندهند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مهمانی زنده، مرده لاشی ندهند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان گشته به کربلا مجاور، زاهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاندر سر گور شمر، آشی ندهند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

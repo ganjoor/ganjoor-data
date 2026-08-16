@@ -1,0 +1,58 @@
+{
+  "Id": 34190,
+  "CatId": 801,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "عطار » مختارنامه » باب ششم: در بیان محو شدۀ توحید و فانی در تفرید » شمارهٔ ۱",
+  "FullUrl": "/attar/mokhtarname/bb6/sh1",
+  "RhymeLetters": "بیم",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عجب و شگفتی خود اشاره می‌کند که با وجود نوشیدن آب دریا، همچنان خشکی لب خود را احساس می‌کند. \nاو از این که با وجود دریا بودن، به خاطر خشک‌لبی خود همیشه در طلب آب است، غم و حیرت دارد. به عبارت دیگر، او می‌گوید که به رغم داشتن منابع و قابلیت‌های زیاد (همچون دریا)، هنوز نیاز به آب و نوشیدنی دارد و این خشکی را در خود احساس می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بیم",
+      "PlainText": "صد دریا نوش کرده اندر عجبیم\r\nتا چون دریا از چه سبب خشک لبیم\r\nاز خشک لبی همیشه دریا طلبیم\r\nما دریاییم خشک لب زین سببیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد دریا نوش کرده اندر عجبیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چون دریا از چه سبب خشک لبیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خشک لبی همیشه دریا طلبیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما دریاییم خشک لب زین سببیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد دریا نوش کرده اندر عجبیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چون دریا از چه سبب خشک لبیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خشک لبی همیشه دریا طلبیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما دریاییم خشک لب زین سببیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

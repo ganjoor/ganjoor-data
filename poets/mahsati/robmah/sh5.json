@@ -1,0 +1,58 @@
+{
+  "Id": 50065,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۵",
+  "FullUrl": "/mahsati/robmah/sh5",
+  "RhymeLetters": "یارانریخت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این بیت، به تصویر زیبایی از آمدن باد و یار اشاره شده است. باد گل‌هایی را بر سر می‌نوشان می‌ریزد و یار هم می را در قدح‌های یاران می‌ریزد. همچنین، عنبر عطرآگین و نرگس می مست، حال و هوای شاداب و پر از زندگی را برای هشیاران به ارمغان می‌آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یارانریخت",
+      "PlainText": "باد آمد و گل بر سر می خواران ریخت\r\nیار آمد و می در قدح یاران ریخت\r\nآن عنبر تر رونق عطاران برد\r\nو آن نرگس مست خون هشیاران ریخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد آمد و گل بر سر مِی‌خواران ریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار آمد و می در قدح یاران ریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن عنبر تر رونق عطاران بُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آن نرگس مست خون هشیاران ریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باد آمد و گل بر سر مِی‌خواران ریخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یار آمد و می در قدح یاران ریخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن عنبر تر رونق عطاران بُرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "و آن نرگس مست خون هشیاران ریخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

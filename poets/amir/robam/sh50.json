@@ -1,0 +1,58 @@
+{
+  "Id": 70093,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/amir/robam/sh50",
+  "RhymeLetters": "لباد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات درباره نعمت‌ها و خوشبختی‌هایی هستند که خداوند به انسان‌ها عطا کرده است. شاعر به خداوند اشاره می‌کند که این اقبال و خوش‌بختی را تا همیشه برای انسان‌ها حفظ کند. همچنین، در این ابیات به اهمیت شادی و زندگی مثبت اشاره شده و بیان می‌شود که دشمنان و بدخواهان، حتی جان و مال خود را نیز به خطر انداخته‌اند. به طور کلی، این اشعار تلاشی برای قدردانی از نعمت‌های الهی و دعوت به شادزیستن است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باد",
+      "PlainText": "خالق همه اقبال خلایق به تو داد\r\nتا دهر بود بقای اقبال تو باد\r\nتو باده به  دست همچنین با دل شاد\r\nبدخواه تو جان و خان و مان داده به  باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخالق همه اقبال خلایق به تو داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دهر بود بقای اقبال تو باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو باده به‌ دست همچنین با دل شاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدخواه تو جان و خان و مان داده به‌ باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خالق همه اقبال خلایق به تو داد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا دهر بود بقای اقبال تو باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو باده به‌ دست همچنین با دل شاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدخواه تو جان و خان و مان داده به‌ باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

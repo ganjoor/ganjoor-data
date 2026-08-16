@@ -1,0 +1,58 @@
+{
+  "Id": 10698,
+  "CatId": 144,
+  "Title": "قطعه شمارهٔ ۸",
+  "FullTitle": "سعدی » دیوان اشعار » قطعات » قطعه شمارهٔ ۸",
+  "FullUrl": "/saadi/divan/ghetes/sh8",
+  "RhymeLetters": "رباشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به بیان زیبایی و خاص بودن دهنی (دهان) اشاره می‌کند. او تأکید می‌کند که هرچند دهنی بزرگ‌تر از دهن معشوق وجود دارد، اما به نظر او دهنی که از آن معشوق تنگ‌تر باشد، خاص‌تر و زیباتر است؛ زیرا نه تمامی دهن‌های تنگ خوشمزه و شیرین هستند. در واقع، شاعر به نسبت زیبایی و جذابیت دهن‌های مختلف اشاره دارد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رباشد",
+      "PlainText": "من بگویم ندیده ام دهنی\r\nکز دهان تو تنگتر باشد\r\nتنگتر زین دهان فراخ ولیک\r\nنه همه تنگها شکر باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بگویم ندیده‌ام دهنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز دهان تو تنگتر باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتنگتر زین دهان فراخ ولیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه همه تنگها شکر باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من بگویم ندیده‌ام دهنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز دهان تو تنگتر باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تنگتر زین دهان فراخ ولیک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه همه تنگها شکر باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

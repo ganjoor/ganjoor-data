@@ -1,0 +1,58 @@
+{
+  "Id": 45362,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۱۹",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۱۹",
+  "FullUrl": "/helali/robaeeh/sh19",
+  "RhymeLetters": "الیکهمپرس",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر احساس عمیق ناراحتی و دل‌تنگی شاعر هستند. او در بیان می‌کند که بدون حضور loved one (عزیزش) دچار ملال و غم است و از زندگی‌اش ناپسند و بی‌تحرک شده است. به دیگران می‌گوید که هرگز حال او را نپرسند، چراکه دوری از آن شخص باعث درد و رنج او شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الیکهمپرس",
+      "PlainText": "بی روی توام هست ملالی که مپرس\r\nوز زندگی خود انفعالی که مپرس\r\nهر لحظه چه پرسی که بگو حال تو چیست\r\nدور از تو فتاده ام به حالی که مپرس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی روی توام هست ملالی که مپرس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز زندگی خود انفعالی که مپرس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر لحظه چه پرسی که بگو حال تو چیست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور از تو فتاده‌ام به حالی که مپرس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی روی توام هست ملالی که مپرس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز زندگی خود انفعالی که مپرس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر لحظه چه پرسی که بگو حال تو چیست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دور از تو فتاده‌ام به حالی که مپرس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

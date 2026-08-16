@@ -1,0 +1,58 @@
+{
+  "Id": 70119,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/amir/robam/sh76",
+  "RhymeLetters": "نارنماند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به این معناست که اگر ابر به وفاداری خود به تو اشاره کند، مانند خدمتگزار تو خواهد بود و دور تو جمع می‌شود. هرچند که او به ظاهر زیبایی‌ها و جواهرات زیادی می‌پاشد، در نهایت چیزی از آن باقی نمی‌ماند و بی‌فعالیت می‌ماند. در واقع، این شعر به موقتی بودن زیبایی‌ها و نعمت‌ها اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اند",
+      "PlainText": "گر ابر به جود خویشتن را چو تو خواند\r\nفراش تو بود او همی گرد نشاند\r\nهر چند بسی  گهر پراکند و فشاند\r\nآخر گهرش نماند و بی کار بماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ابر به جود خویشتن را چو تو خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفراش تو بود او همی‌گرد نشاند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند بسی‌ گهر پراکند و فشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر گهرش نماند و بی‌کار بماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر ابر به جود خویشتن را چو تو خواند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فراش تو بود او همی‌گرد نشاند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چند بسی‌ گهر پراکند و فشاند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر گهرش نماند و بی‌کار بماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

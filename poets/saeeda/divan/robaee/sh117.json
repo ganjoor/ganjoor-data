@@ -1,0 +1,58 @@
+{
+  "Id": 108017,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۱۷",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۱۷",
+  "FullUrl": "/saeeda/divan/robaee/sh117",
+  "RhymeLetters": "ان",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات می‌گویند که انسان به عنوان یک موجود، هم از جنبه‌ی ظاهری و هم از جنبه‌ی روحی دارای هویت است. اما تفاوت‌ها و تقسیم‌بندی‌ها بیشتر به شرایط و مکان‌های مختلف اختصاص دارد. به عنوان مثال، وقتی فردی به کعبه می‌رود، او به عنوان یک مسلمان شناخته می‌شود و وقتی به دیر می‌رود، به عنوان یک زاهد یا رهبان. این نشان‌دهنده‌ی تأثیر محیط و موقعیت بر شناسایی انسان‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "آدم یک آدم است و یک صورت و جان\r\nلیکن تفریق در مقام است و مکان\r\nدر کعبه چو رفت شیخ می گویندش\r\nدر دیر چو شد برهمن است و رهبان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدم یک آدم است و یک صورت و جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن تفریق در مقام است و مکان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کعبه چو رفت شیخ می گویندش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیر چو شد برهمن است و رهبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آدم یک آدم است و یک صورت و جان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیکن تفریق در مقام است و مکان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کعبه چو رفت شیخ می گویندش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دیر چو شد برهمن است و رهبان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

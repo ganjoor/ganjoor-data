@@ -1,0 +1,58 @@
+{
+  "Id": 64873,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۷۶",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۷۶",
+  "FullUrl": "/ebnehesam/robaeebn/sh76",
+  "RhymeLetters": "ستننتوان",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ناپایداری و فریبندگی دنیای خاکی اشاره می‌کند. او می‌گوید که از خاک نمی‌توان به بلندی و شکوه رسید و در برابر سیل حوادث نمی‌توان ایستاد. همچنین، به احتیاط در برابر مکر و فریب دنیای نابهنجار توصیه می‌کند، چرا که نمی‌توان به خوش‌باوری و اعتماد بر مکر جهان تکیه کرد و انتظار خوبی داشت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستننتوان",
+      "PlainText": "از خاک جهان به زرق رستن نتوان\r\nبر رهگذر سیل نشستن نتوان\r\nاز مکر جهان حذر که از وی زادی\r\nبا مادر خود نکا بستن نتوان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خاک جهان به زرق رستن نتوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر رهگذر سیل نشستن نتوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مکر جهان حذر که از وی زادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا مادر خود نکا بستن نتوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خاک جهان به زرق رستن نتوان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر رهگذر سیل نشستن نتوان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از مکر جهان حذر که از وی زادی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با مادر خود نکا بستن نتوان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

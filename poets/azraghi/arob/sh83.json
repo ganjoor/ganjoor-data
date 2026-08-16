@@ -1,0 +1,58 @@
+{
+  "Id": 69444,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۸۳",
+  "FullUrl": "/azraghi/arob/sh83",
+  "RhymeLetters": "ان",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به تلاش دل برای پیروی از دستورات اشاره دارد. شاعر بیان می‌کند که اگر دل به فرمان فرمانروایی خود تن دهد، مشکلات و دشواری‌ها آسان‌تر خواهند شد. او از احساس درماندگی صحبت می‌کند و به این نکته اشاره می‌کند که این درماندگی به دل سخت‌تر است تا به جان. در واقع، دل می‌تواند با اطاعت از فرمان، بر مشکلات فائق آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "این نافرمان دل ار پذیرد فرمان\r\nدشواری من خوار شود سخت آسان\r\nدرمانده به دست دلم ای جان جهان\r\nدرمانده به دل بتر که درمانده به جان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین نافرمان دل، ار پذیرد فرمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشواری منِ خوار شود، سخت آسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرمانده به دست دلم، ای جان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرمانده به دل بتر که درمانده به جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این نافرمان دل، ار پذیرد فرمان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دشواری منِ خوار شود، سخت آسان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درمانده به دست دلم، ای جان جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درمانده به دل بتر که درمانده به جان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 1295,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۷۷",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۷۷",
+  "FullUrl": "/khayyam/robaee/sh177",
+  "RhymeLetters": "اری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به هنرمند یا سازنده کوزه اشاره دارد و او را به هشیاری دعوت می‌کند. شاعر از او می‌پرسد که چقدر می‌خواهد به گل و سرزمین خود آسیب برساند. همچنین به داستان‌های تاریخی مانند انگشت فریدون و کی خسرو اشاره می‌کند تا نشان دهد که چه‌چیزی بر دوش او است و این موضوع را به او یادآور می‌شود. به طور کلی، شعر تأکید دارد بر اهمیت مسئولیت‌پذیری و آگاهی در کار هنری.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اری",
+      "PlainText": "هان کوزه گرا بپای اگر هشیاری\r\nتا چند کنی بر گل مردم خواری\r\nانگشت فریدون و کف کی خسرو\r\nبر چرخ نهاده ای چه می پنداری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهان کوزه‌گرا بپای اگر هشیاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چند کنی بر گِل مردم خواری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانگشت فریدون و کف کی‌خسرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر چرخ نهاده‌ای، چه می‌پنداری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هان کوزه‌گرا بپای اگر هشیاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چند کنی بر گِل مردم خواری؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انگشت فریدون و کف کی‌خسرو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر چرخ نهاده‌ای، چه می‌پنداری؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

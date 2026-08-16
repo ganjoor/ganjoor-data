@@ -1,0 +1,58 @@
+{
+  "Id": 116108,
+  "CatId": 2690,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » قطعات » شمارهٔ ۵۵",
+  "FullUrl": "/akhsikati/divan/ghete/sh55",
+  "RhymeLetters": "گلهکردن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر می‌گوید که نباید به هیچ‌کس شکایت کرد، حتی از دشمن، زیرا برای دوستان نیز شایسته نیست که از هم گله کنند. او به دنبال یک دل هم‌دل در جهان است که بتواند با او از یاران خود شکایت کند.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "گلهکردن",
+      "PlainText": "از تو ننالم به هیچکس که به دشمن\r\nشرط نباشد بدوستان گله کردن\r\nیک دلی اندرجهان کجاست که با او\r\nیک گله بتوان ز یار ده گله کردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تو ننالم به هیچکس که به دشمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرط نباشد بدوستان گله کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک دلی اندرجهان کجاست که با او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک گله بتوان ز یار ده گله کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از تو ننالم به هیچکس که به دشمن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شرط نباشد بدوستان گله کردن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک دلی اندرجهان کجاست که با او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک گله بتوان ز یار ده گله کردن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

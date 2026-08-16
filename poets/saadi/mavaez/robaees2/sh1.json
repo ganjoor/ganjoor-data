@@ -1,0 +1,58 @@
+{
+  "Id": 10600,
+  "CatId": 141,
+  "Title": "رباعی شمارهٔ ۱",
+  "FullTitle": "سعدی » مواعظ » رباعیات » رباعی شمارهٔ ۱",
+  "FullUrl": "/saadi/mavaez/robaees2/sh1",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به ضرورت اقدام و آماده‌سازی در برابر چالش‌ها اشاره دارد. شاعر با انتقاد از کسانی که منتظر فرصت‌ها می‌مانند، به آن‌ها می‌گوید که زمان از دست می‌رود و باید هر چه سریع‌تر اقدام کنند و از موقعیت‌های خود استفاده کنند. به عبارتی، باید بار سفر را ببندند و برای رویارویی با شرایط آماده شوند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "آن کیست که دل نهاد و فارغ بنشست\r\nپنداشت که مهلتی و تأخیری هست\r\nگو میخ مزن که خیمه می باید کند\r\nگو رخت منه که بار می باید بست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کیست که دل نهاد و فارغ بنشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنداشت که مهلتی و تأخیری هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو میخ مزن که خیمه می‌باید کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو رخت منه که بار می‌باید بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کیست که دل نهاد و فارغ بنشست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پنداشت که مهلتی و تأخیری هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گو میخ مزن که خیمه می‌باید کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گو رخت منه که بار می‌باید بست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

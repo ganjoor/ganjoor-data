@@ -1,0 +1,72 @@
+{
+  "Id": 69975,
+  "CatId": 2042,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "امیر معزی » غزلیات » شمارهٔ ۲۷",
+  "FullUrl": "/amir/ghazam/sh27",
+  "RhymeLetters": "یش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشق و درد ناشی از آن است. شاعر از زلف محبوبش به کژدمی که دلش را نیش زده، سخن می‌گوید و از زخم‌های عاطفی‌اش شکایت می‌کند. او اشاره می‌کند که در جمع زیبایی‌ها، نام محبوبش در صدر قرار دارد و زیبایی‌اش در اولویت است. در پایان، شاعر lament می‌کند که اگر کسی از ابتدا به عاقبت عشق فکر نکرده باشد، به غم و اندوهی دچار خواهد شد.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یش",
+      "PlainText": "ای کژدم زلف تو زده بر دل من نیش\r\nوز ضربت آن نیش دل نازک من ریش\r\nآنجا که بود انجمن لشکر خوبان\r\nنام تو بود اول و ناز تو بود پیش\r\nچون من شود آخر به غم عشق  گرفتار\r\nآنکس که ز اول نبود عاقبت اندیش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کژدم زلف تو زده بر دل من نیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ضربت آن نیش دل نازک من ریش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنجا که بود انجمن لشکر خوبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنام تو بود اول و ناز تو بود پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون من شود آخر به غم عشق ‌گرفتار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکس که ز اول نبود عاقبت اندیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کژدم زلف تو زده بر دل من نیش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز ضربت آن نیش دل نازک من ریش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنجا که بود انجمن لشکر خوبان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نام تو بود اول و ناز تو بود پیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون من شود آخر به غم عشق ‌گرفتار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آنکس که ز اول نبود عاقبت اندیش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

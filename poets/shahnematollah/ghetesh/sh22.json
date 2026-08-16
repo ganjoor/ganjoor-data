@@ -1,0 +1,58 @@
+{
+  "Id": 47573,
+  "CatId": 1726,
+  "Title": "قطعهٔ شمارهٔ ۲۲",
+  "FullTitle": "شاه نعمت‌الله ولی » قطعات » قطعهٔ شمارهٔ ۲۲",
+  "FullUrl": "/shahnematollah/ghetesh/sh22",
+  "RhymeLetters": "شاست",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شاعر به فصل زمستان (ستا) اشاره می‌کند و می‌گوید که باید آن را معکوس کرد. او به کشته‌شدگان در این فصل و ارتباطشان با آتش می‌پردازد و از سید (شخصی حکیم یا عارف) نقل قول می‌کند که آتش مقلوب، با آتش دیگری خوشایند است. این جملات به زیبایی و تضادهای فصل زمستان و آتش اشاره دارد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شاست",
+      "PlainText": "چون شتا آمد شتا مقلوب کن\r\nکشته ها اندر شتا با آتش است\r\nنشنیدستی تو از سید مگر\r\nکآتش مقلوب با آتش خوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شتا آمد شتا مقلوب کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکِشته ها اندر شتا با آتش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشنیدستی تو از سید مگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآتش مقلوب با آتش خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شتا آمد شتا مقلوب کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کِشته ها اندر شتا با آتش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشنیدستی تو از سید مگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآتش مقلوب با آتش خوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

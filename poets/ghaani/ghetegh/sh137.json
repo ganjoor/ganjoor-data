@@ -1,0 +1,58 @@
+{
+  "Id": 45799,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۳۷",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۳۷",
+  "FullUrl": "/ghaani/ghetegh/sh137",
+  "RhymeLetters": "نگی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس دل‌تنگی و ناتوانی در بیان احساسات عمیق است. شاعر می‌گوید وقتی زبان نمی‌تواند رازهای دل را بیان کند، چه راهی جز دلتنگی وجود دارد. همچنین اشاره می‌کند که وقتی زبان نمی‌تواند زبان دیگری را بفهمد، حس حسادت و انگیزه‌های منفی می‌تواند به وجود آید.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگی",
+      "PlainText": "چون زبان راز دل نمی داند\r\nچیستش چاره غیر دلتنگی\r\nچون نداند زبان رومی را\r\nاز حسد تنگدل شود زنگی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون زبان راز دل نمی‌داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچیستش چاره غیر دلتنگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نداند زبان رومی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حسد تنگدل شود زنگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون زبان راز دل نمی‌داند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چیستش چاره غیر دلتنگی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نداند زبان رومی را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از حسد تنگدل شود زنگی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

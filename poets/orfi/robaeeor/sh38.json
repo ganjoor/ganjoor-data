@@ -1,0 +1,58 @@
+{
+  "Id": 48757,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۳۸",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۸",
+  "FullUrl": "/orfi/robaeeor/sh38",
+  "RhymeLetters": "انگیاست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر به وضعیت دردناک و رنج‌آور سخن می‌گوید. شاعر از فرزندی و دیوانگی صحبت می‌کند و به بیگانگی که قبلاً عافیتش بود، اشاره می‌کند. در حال حاضر، این بیگانگی تبدیل به نوعی نزدیکی و هم‌زیستی شده است که شاعر را دچار عذاب و ننگ می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انگیاست",
+      "PlainText": "دردا که دگر سخن ز فرزانگی است\r\nچیزی که نه در شمار دیوانگی است\r\nبیگانگی عافیتم ننگی بود\r\nاکنون به وی ام نسبت هم خانگی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردا که دگر سخن ز فرزانگی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچیزی که نه در شمار دیوانگی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیگانگی عافیتم ننگی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون به وی ام نسبت هم خانگی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردا که دگر سخن ز فرزانگی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چیزی که نه در شمار دیوانگی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیگانگی عافیتم ننگی بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اکنون به وی ام نسبت هم خانگی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

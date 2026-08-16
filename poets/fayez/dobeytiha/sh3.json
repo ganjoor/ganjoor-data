@@ -1,0 +1,58 @@
+{
+  "Id": 68133,
+  "CatId": 2021,
+  "Title": "دوبیتی شمارهٔ ۳",
+  "FullTitle": "فایز » دوبیتی‌ها » دوبیتی شمارهٔ ۳",
+  "FullUrl": "/fayez/dobeytiha/sh3",
+  "RhymeLetters": "هرا",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به زیبایی و جذابیت موی سیاه اشاره می‌کند که مانند جاذبه‌ای خطرناک عمل می‌کند. او همچنین به این نکته اشاره دارد که این زیبایی می‌تواند آدمی را به خطر بیندازد، همان‌طور که عقرب به ماه در آسمان حسادت می‌ورزد و در پی آسیب رساندن به آن است. به طور کلی، شاعر از تناقض زیبایی و خطر در این تصویر استفاده کرده است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هرا",
+      "PlainText": "به رخ جا داده ای زلف سیه را\r\nبه کام عقرب افکندی تو مه را\r\nکه دیده عقرب جراره فایز\r\nزند پهلو به ماه چارده را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه رخ جا داده‌ای زلف سیه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کام عقرب افکندی تو مه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه دیده عقرب جراره فایز؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزند پهلو به ماه چارده را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به رخ جا داده‌ای زلف سیه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به کام عقرب افکندی تو مه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "که دیده عقرب جراره فایز؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زند پهلو به ماه چارده را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

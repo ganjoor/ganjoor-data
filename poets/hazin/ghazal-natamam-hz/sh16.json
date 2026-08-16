@@ -1,0 +1,58 @@
+{
+  "Id": 83177,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh16",
+  "RhymeLetters": "ارخودرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به زیبایی و دلنشینی بهار و باغ اشاره می‌کند و می‌گوید هر کسی باید به تلاش و کار خود متعهد باشد. او خودش را با شمع مقایسه می‌کند که همواره در تلاش است و نمی‌تواند به راحتی استراحت کند. در واقع، شاعر به اهمیت تلاش و کوشش در زندگی اشاره دارد و نشان می‌دهد که آسایش به سادگی به دست نمی‌آید.",
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارخودرا",
+      "PlainText": "باغ و بهار سازد جیب و کنار خود را\r\nهرکس گذاشت چون من با دیده کار خود را\r\nمن آن نیم که چون شمع آسودگی گزینم\r\nدرکارگریه کردم لیل و نهار خود را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباغ و بهار سازد، جیب و کنار خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرکس گذاشت چون من، با دیده کار خود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن آن نیم که چون شمع، آسودگی گزینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرکارگریه کردم، لیل و نهار خود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باغ و بهار سازد، جیب و کنار خود را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرکس گذاشت چون من، با دیده کار خود را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من آن نیم که چون شمع، آسودگی گزینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درکارگریه کردم، لیل و نهار خود را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

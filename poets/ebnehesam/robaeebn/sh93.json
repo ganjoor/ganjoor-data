@@ -1,0 +1,58 @@
+{
+  "Id": 64890,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۹۳",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۹۳",
+  "FullUrl": "/ebnehesam/robaeebn/sh93",
+  "RhymeLetters": "اچونی",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس حسرت و نگرانی درباره‌ی نبودن احمد اشاره دارد. شاعر می‌پرسد که احمد چطور است و به او یادآوری می‌کند که بدون او، حال و روزشان شبیه پروانه‌ای بی‌پرواز است. احمد برای آن‌ها مانند چشم و چراغی است که بدون او، زندگی رنگ و بویی ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اچونی",
+      "PlainText": "ای احمد دلخسته تو با ما چونی\r\nوای تازه گل خرم رعنا چونی\r\nما بی تو چو پروانه ز بی پروایی\r\nای چشم و چراغ ما تو بی ما چونی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای احمد دلخسته تو با ما چونی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوای تازه گل خّرم رعنا چونی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما بی تو چو پروانه ز بی پروایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای چشم و چراغ ما تو بی ما چونی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای احمد دلخسته تو با ما چونی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وای تازه گل خّرم رعنا چونی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما بی تو چو پروانه ز بی پروایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای چشم و چراغ ما تو بی ما چونی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

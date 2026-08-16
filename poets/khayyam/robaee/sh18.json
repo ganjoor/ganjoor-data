@@ -1,0 +1,58 @@
+{
+  "Id": 1136,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۸",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۸",
+  "FullUrl": "/khayyam/robaee/sh18",
+  "RhymeLetters": "دشت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به گذر سریع زمان اشاره دارد. شاعر می‌گوید که این چند روز مانند آب در جویبار و باد در دشت گذشته‌اند و او هیچگاه به غم روزهای گذشته و روزهایی که هنوز نیامده است، فکر نمی‌کند. به عبارتی دیگر، او تجربه‌های منفی گذشته و نگرانی برای آینده را فراموش کرده و بر لحظه حال تمرکز دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دشت",
+      "PlainText": "این یک دو سه روز نوبت عمر گذشت\r\nچون آب به جویبار و چون باد به دشت\r\nهرگز غم دو روز مرا یاد نگشت\r\nروزی که نیامده ست و روزی که گذشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین یک دو سه روز نوبت عمر گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون آب به جویبار و چون باد به دشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز غم دو روز مرا یاد نگشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزی که نیامده‌ست و روزی که گذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این یک دو سه روز نوبت عمر گذشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون آب به جویبار و چون باد به دشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز غم دو روز مرا یاد نگشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روزی که نیامده‌ست و روزی که گذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

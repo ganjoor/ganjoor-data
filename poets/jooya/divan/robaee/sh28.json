@@ -1,0 +1,58 @@
+{
+  "Id": 103082,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/jooya/divan/robaee/sh28",
+  "RhymeLetters": "اختهاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به انتقاد از افرادی پرداخته که به ظواهر و تکلفات دلبسته‌اند و این علاقه (عجب) باعث گرفتاری‌شان شده است. او از بی‌ساختگی و طبیعی بودن صحبت کرده و بیان می‌کند که او از چیزهای ساختگی بیزار است و از طبیعت و واقعیت‌های ساده خوشش می‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اختهاست",
+      "PlainText": "هر کس به تکلفات دل باخته است\r\nخود را به عجب بلای انداخته است\r\nبی ساخته از ساختگی بیزارم\r\nبی ساختگی به طبع من ساخته است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس به تکلفات دل باخته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود را به عجب بلای انداخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی ساخته از ساختگی بیزارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی ساختگی به طبع من ساخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس به تکلفات دل باخته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود را به عجب بلای انداخته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی ساخته از ساختگی بیزارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی ساختگی به طبع من ساخته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

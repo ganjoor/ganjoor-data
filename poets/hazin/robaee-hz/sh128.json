@@ -1,0 +1,58 @@
+{
+  "Id": 83016,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۲۸",
+  "FullUrl": "/hazin/robaee-hz/sh128",
+  "RhymeLetters": "ارالودهمگرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر به فرد توصیه می‌شود که از گناه و آلودگی در زندگی پرهیز کند. اشاره شده که زندگی باید خالی از آلودگی‌های دنیوی باشد و مخصوصاً از غبارهایی که انسان را به انحراف می‌کشند. شاعری با استفاده از تصاویر طبیعت، از جمله دی و بهار، به اهمیت پاکی و دوری از آلودگی‌ها اشاره می‌کند. تن انسان به یک غبار شبیه است و باید مراقب بود که این غبار باعث انحراف نشود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارالودهمگرد",
+      "PlainText": "در دهر به مستعار آلوده مگرد\r\nهرگز به دی و بهار آلوده مگرد\r\nتن در ره تو مشت غباری ست حزین\r\nزنهار به این غبار آلوده مگرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دهر، به مستعار آلوده مگرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز به دی و بهار، آلوده مگرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن در رَهِ تو مشت غباری ست حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنهار، به این غبار آلوده مگرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دهر، به مستعار آلوده مگرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرگز به دی و بهار، آلوده مگرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تن در رَهِ تو مشت غباری ست حزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنهار، به این غبار آلوده مگرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50074,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۴",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۴",
+  "FullUrl": "/mahsati/robmah/sh14",
+  "RhymeLetters": "اتخوشست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس عاشقانه و غم درونی شاعر اشاره دارد. او از زیبایی و جذابیت محبوبش صحبت می‌کند و می‌گوید که وجود او در زندگی‌اش باعث شادی و خوشحالی اوست. همچنین به نوعی به بازی شطرنج اشاره می‌کند که در آن همیشه در کنار محبوبش، خود را مات احساس می‌کند. به طور کلی، این شعر دربردارنده‌ی عشق و غم ناشی از آن است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اتخوشست",
+      "PlainText": "بازار دلم با سر سودات خوش ست\r\nشطرنج غمم با رخ زیبات خوش ست\r\nدایم داری مرا تو در خانه مات\r\nای جان و جهان مگر که با مات خوش ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازار دلم با سر سودات خوش‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشطرنج غمم با رخ زیبات خوش‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدائم داری مرا تو در خانهٔ مات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای جان و جهان مگر که با مات خوش‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بازار دلم با سر سودات خوش‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شطرنج غمم با رخ زیبات خوش‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دائم داری مرا تو در خانهٔ مات",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای جان و جهان مگر که با مات خوش‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

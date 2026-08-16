@@ -1,0 +1,58 @@
+{
+  "Id": 72445,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۷۰۸",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۷۰۸",
+  "FullUrl": "/kamal/robaeek-kamal/sh708",
+  "RhymeLetters": "اییمن",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر از شاعر درباره عشق و یاد محبوب صحبت می‌کند. او از غم فراق محبوبش به عنوان تنها همراهش یاد می‌کند و خاک درگاه او را منبع بینایی و روشنایی خود می‌داند. شاعر درخواست می‌کند که حال دلش که تحت تأثیر زیبایی محبوب است، در دنیای بیرون فاش نشود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییمن",
+      "PlainText": "ای یاد غمت مونس تنهایی من\r\nوی خاک درت سرمۀ بینایی من\r\nمگذار که فاش گردد اندر عالم\r\nچون حسن تو حال دل سودایی من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای یاد غمت مونس تنهایی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی خاک درت سرمۀ بینائی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگذار که فاش گردد اندر عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون حسن تو حال دل سودایی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای یاد غمت مونس تنهایی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی خاک درت سرمۀ بینائی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مگذار که فاش گردد اندر عالم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون حسن تو حال دل سودایی من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

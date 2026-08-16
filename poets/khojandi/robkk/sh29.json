@@ -1,0 +1,58 @@
+{
+  "Id": 76507,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/khojandi/robkk/sh29",
+  "RhymeLetters": "ین",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و لطافت پرداخته و به مقایسه‌ی قمر (ماه) با اسب و گل‌های لطیف می‌پردازد. شاعر می‌گوید که اگر ماه (قمر) از اسب بیفتد، عیب و نقصی در او ایجاد نمی‌شود. او به گل تشبیه شده و اسبش به باد صبا، که نمادی از لطافت و خوشبویی است. در نهایت، شاعر به این نکته اشاره می‌کند که اگر باد صبا برگ گل را به زمین بیاندازد، این سقوط از ارزش آن گل نمی‌کاهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "دی از سر اسب ای قمر خانه نشین\r\nگر آژنگ فتادی که کند عیب تو زین\r\nتو برگ گلی و اسب تو باد صباست\r\nاز باد صبا برگ گل افتد بزمین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی از سر اسب ای قمر خانه نشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آژنگ فتادی که کند عیب تو زین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو برگ گلی و اسب تو باد صباست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز باد صبا برگ گل افتد بزمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی از سر اسب ای قمر خانه نشین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر آژنگ فتادی که کند عیب تو زین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو برگ گلی و اسب تو باد صباست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از باد صبا برگ گل افتد بزمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

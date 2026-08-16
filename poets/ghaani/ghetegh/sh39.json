@@ -1,0 +1,58 @@
+{
+  "Id": 45679,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۳۹",
+  "FullUrl": "/ghaani/ghetegh/sh39",
+  "RhymeLetters": "ارد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر به این نکته اشاره می‌کند که فردی که مست است، به اشتباه فکر می‌کند که می‌تواند با وضو گرفتن از بول خود، پاک و طاهر شود. او همچنین این رفتار را به احمق‌ها نسبت می‌دهد که در دوستی‌ها درست فکر نمی‌کنند و ممکن است باعث آسیب به دیگران شوند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارد",
+      "PlainText": "مست کز بول خود وضو گیرد\r\nاز چه آن را طهارت انگارد\r\nحال احمق به دوستیست چنانک\r\nبدکند با تو نیک پندارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست کز بول خود وضو گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چه آن را طهارت انگارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحال احمق به دوستیست چنانک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدکند با تو نیک پندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مست کز بول خود وضو گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از چه آن را طهارت انگارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حال احمق به دوستیست چنانک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدکند با تو نیک پندارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83037,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۴۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۴۹",
+  "FullUrl": "/hazin/robaee-hz/sh149",
+  "RhymeLetters": "وشکند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره شنیدن پیام مهمی است که فرد را به حالت خوشی و مستی می‌آورد. شاعر به زیبایی از لذت نوشیدن باده‌ای صاف و دلنشین صحبت می‌کند که جان انسان را به وجد می‌آورد و او را از دنیای مادی و خود فراموشی دور می‌کند. در واقع، هر کس این پیام را بشنود و از آن بهره‌مند شود، به حالتی عمیق و روحانی دست می‌یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشکند",
+      "PlainText": "خوش آن که پیام ارجعی گوش کند\r\nزان باده صافی قدحی نوش کند\r\nجان از می وصل مست و مدهوش کند\r\nوز هستی روپوش فراموش کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن که پیام ارجعی گوش کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان بادهٔ صافی، قدحی نوش کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان از می وصل، مست و مدهوش کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز هستی روپوش، فراموش کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آن که پیام ارجعی گوش کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان بادهٔ صافی، قدحی نوش کند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان از می وصل، مست و مدهوش کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز هستی روپوش، فراموش کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 114195,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۳۲۲",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۳۲۲",
+  "FullUrl": "/jahan/divan/robaee/sh322",
+  "RhymeLetters": "انداری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر از شاعر به بیان حال بے سر و سامان خود می‌پردازد و از زیبایی و جذابیت محبوبش سخن می‌گوید. شاعر احساس می‌کند که با وجود مشکلات، محبوبش به راحتی می‌تواند به درد او رسیدگی کند و این وضعیت او را درک می‌کند. او از محبوبش می‌خواهد که همچنان به سر و سامان دادن به حال او ادامه دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انداری",
+      "PlainText": "تا چند مرا بی سر و سامان داری\r\nچون زلف خودم حال پریشان داری\r\nچون مشکل ما پیش تو سخت آسانست\r\nزان روی بتا درد من آسان داری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند مرا بی سر و سامان داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون زلف خودم حال پریشان داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مشکل ما پیش تو سخت آسانست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان روی بتا درد من آسان داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند مرا بی سر و سامان داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون زلف خودم حال پریشان داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون مشکل ما پیش تو سخت آسانست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان روی بتا درد من آسان داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

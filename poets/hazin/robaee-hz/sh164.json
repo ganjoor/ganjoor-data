@@ -1,0 +1,58 @@
+{
+  "Id": 83052,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۶۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۶۴",
+  "FullUrl": "/hazin/robaee-hz/sh164",
+  "RhymeLetters": "ابرخیز",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از یک مرد حزین و غمگین می‌خواهد که از درد و رنجی که به او تحمیل شده است، برخیزد و جانی تازه بگیرد. او تنها در این جمع حس می‌کند و از او می‌خواهد که از این وضعیت بیرون بیاید و برخیزد. این دعوت، به نوعی تشویق به حرکت و تغییر است، حتی در دشواری‌ها.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابرخیز",
+      "PlainText": "مردانه حزین از سر دنیا برخیز\r\nزین کهنه دمن تو ای مسیحا برخیز\r\nتنها تو درین انجمنی بیگانه\r\nبرخیز ازین میانه تنها برخیز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردانه حزین از سر دنیا برخیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین کهنه دمن، تو ای مسیحا برخیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتنها تو درین انجمنی بیگانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخیز ازین میانه، تنها برخیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردانه حزین از سر دنیا برخیز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین کهنه دمن، تو ای مسیحا برخیز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تنها تو درین انجمنی بیگانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برخیز ازین میانه، تنها برخیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

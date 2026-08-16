@@ -1,0 +1,58 @@
+{
+  "Id": 83023,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۳۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۳۵",
+  "FullUrl": "/hazin/robaee-hz/sh135",
+  "RhymeLetters": "لیلیدارد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر عشق و اشتیاق عمیق شاعر است. او می‌گوید دلش پر از عشق است و جان و تنش در جستجوی دلیلی برای این عشق هستند. همچنین اشاره می‌کند که در سینه‌اش آتش عشق همیشه روشن است و فضای روحانی و الهی در درونش وجود دارد. به طور کلی، شاعر احساسات و تجربیات عاشقانه‌اش را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لیلیدارد",
+      "PlainText": "دل بنده عشق است کفیلی دارد\r\nجان و تن سرگشته دلیلی دارد\r\nآتشکده سینه من خالی نیست\r\nبتخانه آزری خلیلی دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل، بندهٔ عشق است، کفیلی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان و تن سرگشته دلیلی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتشکدهٔ سینهٔ من خالی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتخانهٔ آزری خلیلی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل، بندهٔ عشق است، کفیلی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان و تن سرگشته دلیلی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آتشکدهٔ سینهٔ من خالی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بتخانهٔ آزری خلیلی دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

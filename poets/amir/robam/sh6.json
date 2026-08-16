@@ -1,0 +1,58 @@
+{
+  "Id": 70049,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/amir/robam/sh6",
+  "RhymeLetters": "فبادتورا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به ستایش از قدرت و عظمت یک شخصیت می‌پردازد و بیانگر این است که فرد مورد اشاره دارای عزت و شرافت است. او به عنوان یک رهبری قوی با توانایی‌های بالا و نفوذ میان دیگران، توصیف شده است. تیغ، قلم و جام نمادهای قدرت، علم و خوشبختی هستند که همگی در دستان او قرار دارد. همچنین شعر اشاره به تعداد زیادی از پیروان و اطرافیان او دارد که به او احترام می‌گذارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فبادتورا",
+      "PlainText": "جاوید شها عز و شرف باد تو را\r\nتیغ و قلم و جام به  کف باد تو را\r\nاز تاجوران هزار صف باد تو را\r\nصد شاه خلیفه خلف باد تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجاوید شها عز و شرف باد تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغ و قلم و جام به‌ کف باد تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تاجوران هزار صف باد تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد شاه خلیفهٔ خَلَف باد تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جاوید شها عز و شرف باد تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیغ و قلم و جام به‌ کف باد تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از تاجوران هزار صف باد تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد شاه خلیفهٔ خَلَف باد تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

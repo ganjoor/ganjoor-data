@@ -1,0 +1,58 @@
+{
+  "Id": 83038,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۵۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۵۰",
+  "FullUrl": "/hazin/robaee-hz/sh150",
+  "RhymeLetters": "وشکنند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر حالتی از وصال و عشق عمیق هستند. شاعر به مستان اشاره می‌کند که وقتی در کنار محبوب خود قرار می‌گیرند، تمام چیزهای غیر از او را فراموش می‌کنند. آنها با شهامت و بی‌خیالی از عقل و خرد خود وداع کرده و با محبوب خود در آغوش می‌گیرند. به طور کلی، این اشعار به تجربه‌ای عاشقانه و فراموشی دنیوی اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشکنند",
+      "PlainText": "مستان لقا چو ارجعی گوش کنند\r\nاز هر چه جز او بود فراموش کنند\r\nمردانه وداع خرد و هوش کنند\r\nبا شاهد جان دست در آغوش کنند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستان لقا چو ارجعی گوش کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هر چه جز او بود فراموش کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردانه وداع خرد و هوش کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا شاهد جان، دست در آغوش کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستان لقا چو ارجعی گوش کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از هر چه جز او بود فراموش کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردانه وداع خرد و هوش کنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با شاهد جان، دست در آغوش کنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

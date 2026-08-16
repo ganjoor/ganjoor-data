@@ -1,0 +1,58 @@
+{
+  "Id": 122828,
+  "CatId": 2822,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "ادیب صابر » دیوان اشعار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/saber/divan/robaee/sh45",
+  "RhymeLetters": "از",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات عمیق عاشقانه اشاره دارد. شاعر بیان می‌کند که وقتی شب طولانی می‌شود، بدنش به زحمت می‌افتد و قلبش در آتش ناراحتی می‌سوزد. او به نیاز دلش به زلف محبوبش اشاره می‌کند و می‌گوید که این زلف‌ها، نیابت از شب‌های دراز را بر عهده دارند. به طور کلی، شاعر در این اشعار، ارتباط عشق و درد را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "از",
+      "PlainText": "گر شب چو دراز گردد ای مایه ناز\r\nتن را به فغان آرد و دل را به گداز\r\nچون است دلم را به دو زلف تو نیاز\r\nگر نایب زلف توست شبهای دراز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر شب چو دراز گردد ای مایه ناز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن را به فغان آرد و دل را به گداز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون است دلم را به دو زلف تو نیاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نایب زلف توست شبهای دراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر شب چو دراز گردد ای مایه ناز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تن را به فغان آرد و دل را به گداز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون است دلم را به دو زلف تو نیاز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر نایب زلف توست شبهای دراز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

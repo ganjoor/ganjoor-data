@@ -1,0 +1,78 @@
+{
+  "Id": 76927,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۱۳",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۱۳",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh13",
+  "RhymeLetters": "داد",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمجید از مقام علی و فرزندان او اشاره دارد و به اعتقاد شاعری می‌پردازد که هیچ کس چون آنان در تاریخ وجود نداشته است. شاعر از صبح تا شام در حال یادآوری و ستایش این بزرگان است و تأکید می‌کند که هیچ کس در مقام و فضیلت به مانند آنها نیست.",
+  "Sections": [
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اد",
+      "PlainText": "از اول صبح کون تا شام معاد\r\nجز ختم رسل هادی کل فخر عباد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز اول صبح کون تا شام معاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز ختم رسل هادی کل فخر عباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "بهتر ز علی و یازده اولادش\r\nبالله ندیده دهر و نه مادر زاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهتر ز علی و یازده اولادش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالله ندیده دهر و نه مادر زاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 90,
+      "Number": 90,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اد",
+      "PlainText": "از اول صبح کون تا شام معاد\r\nجز ختم رسل هادی کل فخر عباد\r\nبهتر ز علی و یازده اولادش\r\nبالله ندیده دهر و نه مادر زاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز اول صبح کون تا شام معاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز ختم رسل هادی کل فخر عباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهتر ز علی و یازده اولادش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالله ندیده دهر و نه مادر زاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از اول صبح کون تا شام معاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 90,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز ختم رسل هادی کل فخر عباد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 90,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهتر ز علی و یازده اولادش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 90,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بالله ندیده دهر و نه مادر زاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 90,
+      "SectionIndex2": 6
+    }
+  ]
+}

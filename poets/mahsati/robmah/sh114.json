@@ -1,0 +1,58 @@
+{
+  "Id": 50174,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۱۴",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۱۴",
+  "FullUrl": "/mahsati/robmah/sh114",
+  "RhymeLetters": "راق",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات خود را با نام \u0022مهستی\u0022 معرفی می‌کند و از زیبایی و شهرت خود در خراسان و عراق سخن می‌گوید. او به شخصی به نام \u0022پور خطیب\u0022 اشاره می‌کند و از او می‌خواهد که به خاطر خدا، به درد شدید فراق او پایان دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راق",
+      "PlainText": "من مهستی ام بر همه خوبان شده طاق\r\nمشهور به حسن در خراسان و عراق\r\nای پور خطیب گنجه از بهر خدا\r\nمگذار چنین بسوزم از درد فراق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن مهستی‌ام بر همه خوبان شده طاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشهور به حسن در خراسان و عراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پور خطیب گنجه از بهر خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگذار چنین بسوزم از درد فراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من مهستی‌ام بر همه خوبان شده طاق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشهور به حسن در خراسان و عراق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای پور خطیب گنجه از بهر خدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مگذار چنین بسوزم از درد فراق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

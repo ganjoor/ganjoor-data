@@ -1,0 +1,58 @@
+{
+  "Id": 83470,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۳۰۹",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۳۰۹",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh309",
+  "RhymeLetters": "ارگله",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر ناامیدی و بی‌فایده بودن زندگی پس از مرگ است. شاعر به این موضوع اشاره می‌کند که تپیدن دل (زندگی) زیر خاک بعد از مرگ (هلاک) هیچ سودی ندارد و همچنین به افسردگی و گذر نوبهار بدون شادی اشاره می‌کند، که حتی سبزه و زیبایی طبیعت هم در چنین حالتی فاقد ارزش و فایده است.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدنچهفایده",
+      "PlainText": "ای دل به زیر خاک تپیدن چه فایده\r\nبعد از هلاک سینه دریدن چه فایده\r\nما را که نوبهار به افسردگی گذشت\r\nای سبزه از مزار دمیدن چه فایده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل به زیر خاک تپیدن چه فایده؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعد از هلاک، سینه دریدن چه فایده؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را که نوبهار به افسردگی گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای سبزه، از مزار دمیدن چه فایده؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل به زیر خاک تپیدن چه فایده؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بعد از هلاک، سینه دریدن چه فایده؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را که نوبهار به افسردگی گذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای سبزه، از مزار دمیدن چه فایده؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

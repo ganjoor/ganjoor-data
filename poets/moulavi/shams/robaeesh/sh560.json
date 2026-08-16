@@ -1,0 +1,58 @@
+{
+  "Id": 30018,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۵۶۰",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۵۶۰",
+  "FullUrl": "/moulavi/shams/robaeesh/sh560",
+  "RhymeLetters": "ابید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به مردم یادآوری می‌کند که با وجود برتریشان، چرا به زندگی مادی و ظاهری خود چسبیده‌اند. شاعر از آنها می‌خواهد که بیدار شوند و از خواب غفلت بیرون آیند، زیرا زندگی را باید جدی گرفت و از غرق شدن در مسائل دنیوی پرهیز کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابید",
+      "PlainText": "ای قوم که برتر از مه و مهتابید\r\nاز هستی آب و گل چرا میتابید\r\nای اهل خرابات که در غرقابید\r\nخیزید که روز است چرا در خوابید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای قوم که برتر از مه و مهتابید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هستی آب و گل چرا؟ میتابید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای اهل خرابات که در غرقابید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخیزید که روز است چرا؟ در خوابید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای قوم که برتر از مه و مهتابید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از هستی آب و گل چرا؟ میتابید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای اهل خرابات که در غرقابید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خیزید که روز است چرا؟ در خوابید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

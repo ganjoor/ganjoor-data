@@ -1,0 +1,72 @@
+{
+  "Id": 83369,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۰۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۰۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh208",
+  "RhymeLetters": "اندیرمیاید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به بیان زیبایی و دشواری ارتباط بین کامل و ناقص پرداخته است. وجود یا کمال یک شخص (که به روح الله اشاره دارد) برای ناقصان سخت است. همچنین به زیبایی سخن از لب‌های صاحب کلام و شیرینی گفتار او اشاره شده است، که مانند بلبل در بهار به سمت گفتار او می‌آید و حس زیبا و شیرین را منتقل می‌کند. در کل، این شعر به تجلیل از زیبایی کلام و دشواری ارتباط با کمالات می‌پردازد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمیاید",
+      "PlainText": "وجود کاملان بر ناقصان دشوار می آید\r\nاگر روح الله است او نیز بر خر بار می آید\r\nلب صاحب سخن بی گل عذاران غنچه می باشد\r\nکه بلبل در بهاران بر سر گفتار می آید\r\nگلو شیرین کند نی را نوای لعل نوشینش\r\nسخن سازی از آن لب های شکربار می آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوجود کاملان بر ناقصان دشوار می‌آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر روح اللّه است او نیز، بر خر بار می‌آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب صاحب سخن، بی‌گل‌عذاران غنچه می‌باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بلبل در بهاران، بر سر گفتار می‌آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلو شیرین کند نی را، نوای لعل نوشینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن‌سازی، از آن لب‌های شکربار می‌آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وجود کاملان بر ناقصان دشوار می‌آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر روح اللّه است او نیز، بر خر بار می‌آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب صاحب سخن، بی‌گل‌عذاران غنچه می‌باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بلبل در بهاران، بر سر گفتار می‌آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گلو شیرین کند نی را، نوای لعل نوشینش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سخن‌سازی، از آن لب‌های شکربار می‌آید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

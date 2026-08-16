@@ -1,0 +1,44 @@
+{
+  "Id": 83312,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۵۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۵۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh151",
+  "RhymeLetters": "یشمیباشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این دو بیت بیانگر عمق حسرت و ناامیدی است. شاعر با تشبیه آتش محرومی به آتش، نشان می‌دهد که درد ناشی از محرومیت شدیدتر از هر نوع آتش دیگری است. همچنین، نخل حسرت به آرزوهای برآورده‌نشده اشاره می‌کند که بارها و بارها اندیشه‌های خام و ناپخته را تجربه کرده است. در مجموع، این اشعار به تلخی احساسات و آرزوهای ناکام انسان می‌پردازد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اتشیگرمترازاتشمحرومینیست",
+      "PlainText": "آتشی گرمتر از آتش محرومی نیست\r\nنخل حسرت چقدر آرزوی خام کشید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتشی گرمتر از آتش محرومی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنخل حسرت، چقدر آرزوی خام کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتشی گرمتر از آتش محرومی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نخل حسرت، چقدر آرزوی خام کشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    }
+  ]
+}

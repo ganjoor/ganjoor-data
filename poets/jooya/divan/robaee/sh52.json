@@ -1,0 +1,58 @@
+{
+  "Id": 103106,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/jooya/divan/robaee/sh52",
+  "RhymeLetters": "انشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف تأثیرات عمیق و مخرب عشق و زیبایی می‌پردازد. خنجر مژگان به معنای درد و آسیب ناشی از عشق است که جان انسان‌ها را می‌گیرد. چشم‌های زیبا مانند هندوی دلربا، ایمان مردم را غارت می‌کنند. در نهایت، این وضعیت باعث می‌شود که خون دل مردم زیر پا برود و پای معشوق به شکلی زیبا و متفاوت تزئین شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انشد",
+      "PlainText": "زآن خنجر مژگان ز بدن ها جان شد\r\nزآن هندوی چشم غارت ایمان شد\r\nپامال خرام گشت خون دل خلق\r\nتا کفش حنا به پای او چسبان شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن خنجر مژگان ز بدن‌ها جان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن هندوی چشم غارت ایمان شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپامال خرام گشت خون دل خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کفش حنا به پای او چسبان شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زآن خنجر مژگان ز بدن‌ها جان شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زآن هندوی چشم غارت ایمان شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پامال خرام گشت خون دل خلق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا کفش حنا به پای او چسبان شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

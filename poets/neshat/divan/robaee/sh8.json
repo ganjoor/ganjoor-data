@@ -1,0 +1,58 @@
+{
+  "Id": 119542,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/neshat/divan/robaee/sh8",
+  "RhymeLetters": "یختهاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این اشعار به شادی و نشاطی که در شب ایجاد شده اشاره می‌کند. او از باده‌ای صحبت می‌کند که در جام ریخته و سبب سوزاندن غم و افزایش عمر می‌شود. به نوعی، ترکیب آب حیات و آتش نشان‌دهنده‌ی اثرات مثبت و زنده‌کننده‌ی این باده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یختهاست",
+      "PlainText": "ساقی کامشب نشاط انگیخته است\r\nزین باده که در ساغر ما ریخته است\r\nغم سوزد و عمر سازد افزون گویی\r\nبا آب حیات آتش آمیخته است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی کامشب نشاط انگیخته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین باده که در ساغر ما ریخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم سوزد و عمر سازد افزون گویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا آب حیات آتش آمیخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی کامشب نشاط انگیخته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین باده که در ساغر ما ریخته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غم سوزد و عمر سازد افزون گویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با آب حیات آتش آمیخته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

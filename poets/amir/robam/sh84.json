@@ -1,0 +1,58 @@
+{
+  "Id": 70127,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۸۴",
+  "FullUrl": "/amir/robam/sh84",
+  "RhymeLetters": "وشند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به عشق و دلدادگی خود اشاره می‌کند. او می‌گوید هر شب که فال می‌گیرد، مانند پرنده‌ای است که به سوی محبوب پرواز می‌کند. همچنین، هر صدا و نعره‌ای که در کوچه‌های محبوبش شنیده می‌شود، نشان از عشق عمیق او به آن شخص دارد و گویی این صداها از جانش برمی‌خیزند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویتوزند",
+      "PlainText": "هر شب که رهی فال ز روی تو زند\r\nمرغی شود و بال به سوی تو زند\r\nهر نعره که پاسبان کوی تو زند\r\nگویی که زجان مهرجوی تو زند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شب که رهی فال ز روی تو زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغی شود و بال به سوی تو زند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر نعره که پاسبان کوی تو زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی‌که زجان مهرجوی تو زند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شب که رهی فال ز روی تو زند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغی شود و بال به سوی تو زند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر نعره که پاسبان کوی تو زند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی‌که زجان مهرجوی تو زند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

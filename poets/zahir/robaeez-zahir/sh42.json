@@ -1,0 +1,58 @@
+{
+  "Id": 73634,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/zahir/robaeez-zahir/sh42",
+  "RhymeLetters": "ورشود",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر بیان می‌شود که نگران نباشید که شاه دچار رنج و ناراحتی شود یا سلامت و راحتی‌اش از او دور گردد. این گرد و غبار ناشی از مشکلات آن‌قدر زیاد است که حتی چشم بد نمی‌تواند آن را ببیند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورشود",
+      "PlainText": "تا ظن نبری که شاه رنجور شود\r\nیا راحت و صحت از تنش دور شود\r\nگردی که از آن عارضه بر دامن اوست\r\nچندان باشد که چشم بد کور شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ظن نبری که شاه رنجور شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا راحت و صحت از تنش دور شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردی که از آن عارضه بر دامن اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان باشد که چشم بد کور شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا ظن نبری که شاه رنجور شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا راحت و صحت از تنش دور شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردی که از آن عارضه بر دامن اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان باشد که چشم بد کور شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

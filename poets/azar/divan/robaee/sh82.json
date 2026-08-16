@@ -1,0 +1,58 @@
+{
+  "Id": 119003,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/azar/divan/robaee/sh82",
+  "RhymeLetters": "اننرسید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به حس درد و اندوه خودش اشاره می‌کند. او می‌گوید که تا زمانی که به محبوبش نرسیده، جانش به لبش رسیده و دلی پر از حسرت دارد. در نهایت، او بیان می‌کند که اگرچه به دردش پی برده، اما همچنان به محبوبش نرسیده و این موضوع او را بسیار غمگین کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننرسید",
+      "PlainText": "تا در غم جانان به لبم جان نرسید\r\nآن درد که داشتم به درمان نرسید\r\nدردا که رسید با هزاران حسرت\r\nجان بر لب و لب بر لب جانان نرسید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا در غم جانان، به لبم جان نرسید؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن درد که داشتم، به درمان نرسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردا که رسید با هزاران حسرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان بر لب و لب بر لب جانان نرسید!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا در غم جانان، به لبم جان نرسید؛",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن درد که داشتم، به درمان نرسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دردا که رسید با هزاران حسرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان بر لب و لب بر لب جانان نرسید!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

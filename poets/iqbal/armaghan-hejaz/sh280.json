@@ -1,0 +1,74 @@
+{
+  "Id": 40516,
+  "CatId": 1365,
+  "Title": "بخش ۲۷۹ - حضور عالم انسانی",
+  "FullTitle": "اقبال لاهوری » ارمغان حجاز » بخش ۲۷۹ - حضور عالم انسانی",
+  "FullUrl": "/iqbal/armaghan-hejaz/sh280",
+  "RhymeLetters": "باخبرشوازمقامدمی",
+  "SourceName": "سایت علامه اقبال",
+  "SourceUrlSlug": "allamaiqbal",
+  "PoemSummary": "هوش مصنوعی: شعر \u0022دمیت احترام دمی\u0022 اشاره به مفهوم ارزش و مقام دم (لحظه) دارد. در این شعر به اهمیت و احترام به هر لحظه زندگی اشاره شده و بر این نکته تاکید می‌شود که هر دم و دقایقی که می‌گذرد، دارای ارزش است و باید از آن‌ها آگاه بود و از آن‌ها بهره‌برداری کرد. این موضوع در \u0022جاویدنامه\u0022 به عنوان یکی از مفاهیم کلیدی مطرح شده است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باخبرشوازمقامدمی",
+      "PlainText": "دمیت احترام دمی\r\nبا خبر شو از مقام دمی\r\nجاویدنامه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدمیت احترام دمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خبر شو از مقام دمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eجاویدنامه\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "امدمی",
+      "PlainText": "دمیت احترام دمی\r\nبا خبر شو از مقام دمی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدمیت احترام دمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خبر شو از مقام دمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "جاویدنامه",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eجاویدنامه\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دمیت احترام دمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خبر شو از مقام دمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "CenteredVerse1",
+      "Text": "جاویدنامه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    }
+  ]
+}

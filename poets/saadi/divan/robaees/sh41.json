@@ -1,0 +1,58 @@
+{
+  "Id": 10102,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۴۱",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۴۱",
+  "FullUrl": "/saadi/divan/robaees/sh41",
+  "RhymeLetters": "نینخواهیکرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از باد می‌خواهد که اگر قرار است به آن سرزمین برود، با عشق و محبت به یار نازنینش نزدیک شود. او همچنین تقاضا دارد که باد دعا و خدمت‌هایش را به دوستانش برساند و یاد آن‌ها را زنده نگه دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نینخواهیکرد",
+      "PlainText": "ای باد چو عزم آن زمین خواهی کرد\r\nرخ در رخ یار نازنین خواهی کرد\r\nاز ماش بسی دعا و خدمت برسان\r\nگو یاد ز دوستان چنین خواهی کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باد چو عزم آن زمین خواهی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخ در رخ یار نازنین خواهی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ماش بسی دعا و خدمت برسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو یاد ز دوستان چنین خواهی کرد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باد چو عزم آن زمین خواهی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رخ در رخ یار نازنین خواهی کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ماش بسی دعا و خدمت برسان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گو یاد ز دوستان چنین خواهی کرد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

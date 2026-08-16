@@ -1,0 +1,58 @@
+{
+  "Id": 83120,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲۳",
+  "FullUrl": "/hazin/robaee-hz/sh223",
+  "RhymeLetters": "اییمن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از دوستان و یارانش یاد می‌کند که بدون او رفته‌اند و او را در تنهایی خود رها کرده‌اند. او احساس دل‌شکستگی و بی‌کسی می‌کند و به این موضوع اشاره می‌کند که دوستانش به حال او آسیب‌دیده توجهی نکرده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییمن",
+      "PlainText": "یاران عزیز و نور بینایی من\r\nرفتند چو هوش از سر سودایی من\r\nرفتند و گذاشتند با بی کسیم\r\nاندیشه نکردند ز تنهایی من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاران عزیز و نور بینایی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتند چو هوش از سر سودایی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتند و گذاشتند با بی کسیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندیشه نکردند ز تنهایی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاران عزیز و نور بینایی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفتند چو هوش از سر سودایی من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفتند و گذاشتند با بی کسیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندیشه نکردند ز تنهایی من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

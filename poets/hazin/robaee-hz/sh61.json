@@ -1,0 +1,58 @@
+{
+  "Id": 82949,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/hazin/robaee-hz/sh61",
+  "RhymeLetters": "وست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به عشق و محبت اشاره می‌کند. او از عشق به عنوان چیزی یاد می‌کند که مانند یک بازار است و جستجوی معشوق را توصیف می‌کند. در پاسخ به سوالی در مورد مقصد، شاعر می‌گوید که او از دوست به سوی دوست در حرکت است، به این معنا که همه تلاشش برای رسیدن به عشق و معشوق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "آن دیده که بازاری عشاقش خوست\r\nروی طلب راه نوردان با اوست\r\nپرسید که من این الی این تروح\r\nگفتم از دوست هم روم باز به دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن دیده، که بازاری عشاقش خوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروی طلب راه نوردان با اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرسید که: مِن اَینَ اِلی اینَ تَروحُ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم از دوست، هم روم باز به دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن دیده، که بازاری عشاقش خوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روی طلب راه نوردان با اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرسید که: مِن اَینَ اِلی اینَ تَروحُ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم از دوست، هم روم باز به دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

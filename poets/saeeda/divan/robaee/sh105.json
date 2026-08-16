@@ -1,0 +1,58 @@
+{
+  "Id": 108005,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/saeeda/divan/robaee/sh105",
+  "RhymeLetters": "بهیقینمیدانم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات احساسات و تجربیات خود را درباره یک عشق یا آرزو بیان می‌کند. او می‌گوید که خانه محبوبش را می‌شناسد و گهگاه به یقین می‌رسد، ولی در عین حال عمرش را صرف جستجوی یقین کرده و همچنان به آن دست نیافته است. به عبارتی، او در میان شک و یقین قرار دارد و از ناکامی در رسیدن به حقیقتی که می‌جوید، ناراحت است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بهیقینمیدانم",
+      "PlainText": "من خانه آن ماه جبین می دانم\r\nگاهی به گمان گه به یقین می دانم\r\nعمرم همه در راه یقین شد از دست\r\nاما نرسیدم به یقین می دانم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن خانهٔ آن ماه جبین می دانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی به گمان گه به یقین می دانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرم همه در راه یقین شد از دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما نرسیدم به یقین می دانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من خانهٔ آن ماه جبین می دانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گاهی به گمان گه به یقین می دانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمرم همه در راه یقین شد از دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اما نرسیدم به یقین می دانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

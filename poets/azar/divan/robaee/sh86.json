@@ -1,0 +1,58 @@
+{
+  "Id": 119007,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۸۶",
+  "FullUrl": "/azar/divan/robaee/sh86",
+  "RhymeLetters": "انیخوشتر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بند شعر، شاعر به زیبایی‌های میخانه و لذت‌های آن اشاره می‌کند و می‌گوید که میخانه به عنوان یک مکان از کارگاه مانی (که ممکن است به معنای سختی و کار باشد) خوش‌تر است. همچنین او می‌گوید که می (نوشیدنی) از زهر یمانی (شراب یمن) لذیذتر است و آب جوانی برتر از آتش زندگی است. در نهایت، آتش زندگی نیز به نوعی از آب برتر می‌باشد. به این ترتیب، شاعر در این ابیات به تضادها و زیبایی‌های زندگی و لذت‌های آن پرداخته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیخوشتر",
+      "PlainText": "میخانه ز کارگاه مانی خوشتر\r\nمینای می از برد یمانی خوشتر\r\nاین آب ز آتش جوانی خوشتر\r\nاین آتش از آب زندگانی خوشتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیخانه، ز کارگاه مانی خوشتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمینای می، از برد یمانی خوشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین آب، ز آتش جوانی خوشتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین آتش، از آب زندگانی خوشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میخانه، ز کارگاه مانی خوشتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مینای می، از برد یمانی خوشتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این آب، ز آتش جوانی خوشتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این آتش، از آب زندگانی خوشتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 101803,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/salim/divan/robaee/sh12",
+  "RhymeLetters": "ادبداست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به این نکته اشاره می‌کند که سفر با دل ناخرسند، ناپسند است و آغاز کار بدون آمادگی و ابزار، نادرست است. او به قرض کردن رضایت می‌دهد، حتی اگر قرض در بغداد باشد، زیرا می‌داند که این وضعیت هم بهتر از عدم اقدام است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادبداست",
+      "PlainText": "تشویش سفر با دل ناشاد بد است\r\nبا دست تهی چو کار افتاد بد است\r\nراضی شده ام به قرض هم گر باشد\r\nمی دانم اگرچه قرض بغداد بد است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتشویش سفر با دل ناشاد بد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دست تهی چو کار افتاد بد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراضی شده ام به قرض هم گر باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی دانم اگرچه قرض بغداد بد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تشویش سفر با دل ناشاد بد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دست تهی چو کار افتاد بد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راضی شده ام به قرض هم گر باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می دانم اگرچه قرض بغداد بد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

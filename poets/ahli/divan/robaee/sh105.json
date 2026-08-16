@@ -1,0 +1,58 @@
+{
+  "Id": 104911,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/ahli/divan/robaee/sh105",
+  "RhymeLetters": "ماست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که لذت‌ها و جذابیت‌های زندگی (مثل عسل) می‌توانند ظاهری شیرین داشته باشند، اما در عمقشان در واقع درد و غم وجود دارد. شاعر به این نکته تأکید می‌کند که با وجود جذابیت‌هایی که داریم، در واقع، بسیاری از آن‌ها در واقع تلخ و دردناک هستند. به عبارت دیگر، ممکن است ظاهراً چیزهای خوشایندی وجود داشته باشد، اما وقتی به عمق آن‌ها نگاهی بیندازیم، زهر و تلخی را می‌یابیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ماست",
+      "PlainText": "شهدی همه نیش است و در او نوش کم است\r\nبگذار که با وجود هستی عدم است\r\nشهدی که تو چون مگس بر او شیفته یی\r\nچون نیک در او فرو روی زهر غم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهدی همه نیش است و در او نوش کم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذار که با وجود هستی عدم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهدی که تو چون مگس بر او شیفته یی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نیک در او فرو روی زهر غم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شهدی همه نیش است و در او نوش کم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگذار که با وجود هستی عدم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شهدی که تو چون مگس بر او شیفته یی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون نیک در او فرو روی زهر غم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

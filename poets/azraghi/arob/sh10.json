@@ -1,0 +1,58 @@
+{
+  "Id": 69371,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/azraghi/arob/sh10",
+  "RhymeLetters": "دست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بررسی و توصیف فردی می‌پردازد که از حس و خرد آگاه است و از مسائل مربوط به دین و کفر، نیکی و بدی رهایی یافته است. این فرد به‌جای داد و ستدهای مادی، به شناخت عمیق‌تری از خود و عقلش رسیده و از آگاهی درونی برخوردار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دست",
+      "PlainText": "آن کیست که آگاه ز حس و خردست\r\nآسوده ز کفر و دین و از نیک و بدست\r\nکارش نه چو جسم و نفس داد و ستدست\r\nآگاه بدو عقل و خود آگه به خودست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کیست که آگاه ز حس و خردست:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسوده ز کفر و دین و از نیک و بدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکارش نه چو جسم و نفس داد و ستدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآگاه بدو عقل و خود آگه به خَودست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کیست که آگاه ز حس و خردست:",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسوده ز کفر و دین و از نیک و بدست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کارش نه چو جسم و نفس داد و ستدست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آگاه بدو عقل و خود آگه به خَودست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

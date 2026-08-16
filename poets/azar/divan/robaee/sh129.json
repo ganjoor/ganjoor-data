@@ -1,0 +1,58 @@
+{
+  "Id": 119050,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۲۹",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۲۹",
+  "FullUrl": "/azar/divan/robaee/sh129",
+  "RhymeLetters": "وازکشم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق و تنهایی سخن می‌گوید. اگر در باغ باشد، از باغبان ناز می‌کشد و اگر در قفس باشد، حسرت پرواز را در دل دارد. او می‌بیند که سایر پرندگان هم آواز می‌خوانند، اما خودش در غم دوری معشوقه‌اش سر به زیر است و باید بار سنگین هجران را به دوش بکشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وازکشم",
+      "PlainText": "گر در باغم ز باغبان ناز کشم\r\nور در قفسم حسرت پرواز کشم\r\nمرغان همه هم نغمه چرا من باید\r\nسر زیر پر از هجر هم آواز کشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در باغم، ز باغبان ناز کشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور در قفسم، حسرت پرواز کشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغان همه هم نغمه، چرا من باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر زیر پر از هجر هم آواز کشم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر در باغم، ز باغبان ناز کشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور در قفسم، حسرت پرواز کشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرغان همه هم نغمه، چرا من باید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر زیر پر از هجر هم آواز کشم؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

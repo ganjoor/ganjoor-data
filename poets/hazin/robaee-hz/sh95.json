@@ -1,0 +1,58 @@
+{
+  "Id": 82983,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۹۵",
+  "FullUrl": "/hazin/robaee-hz/sh95",
+  "RhymeLetters": "یلکشید",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و زشتی توجه می‌کند و احساس می‌کند که عزت و شأن او تحت تأثیر ناگواری‌ها قرار گرفته است. در عین حال، او اشاره دارد که سرنوشت هر کسی می‌تواند به شکل ناگواری تغییر کند، مانند بختی که از خاک سیاه به رنگ نیلین تغییر می‌یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یلکشید",
+      "PlainText": "نظاره زشت دیده را میل کشید\r\nسرمایه عزتم به تنزیل کشید\r\nدراعه بخت سبز ما را گردون\r\nاز خاک سیاه هند در نیل کشید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظّارهٔ زشت، دیده را میل کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمایهٔ عزّتم به تنزیل کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرّاعه بخت سبز ما را گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خاک سیاه هند، در نیل کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نظّارهٔ زشت، دیده را میل کشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمایهٔ عزّتم به تنزیل کشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درّاعه بخت سبز ما را گردون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خاک سیاه هند، در نیل کشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

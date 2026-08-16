@@ -1,0 +1,58 @@
+{
+  "Id": 83018,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۳۰",
+  "FullUrl": "/hazin/robaee-hz/sh130",
+  "RhymeLetters": "اررسد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به این نکته اشاره می‌کند که هر سخنی که از انسان خارج می‌شود، باید دارای ارزش و محتوا باشد. اگر سخنان بی‌مایه باشند، افرادی که آن را می‌شنوند، از آن‌ها چیزی به دست نخواهند آورد. همچنین، شاعر به نوعی سیطره و استثمار اجتماعی اشاره می‌کند که در آن افراد از یکدیگر می‌دزدند و به نوعی از آن جملات و معانی بی‌محتوا سوء استفاده می‌کنند. در نهایت این مطلب به طرزی بیان می‌شود که حقایق و حقوق باید به صاحبان واقعی خود بازگردانده شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اررسد",
+      "PlainText": "هرگه سخنی برلب اظهار رسد\r\nبی مایه عزیزیش طلبکار رسد\r\nدزدند ز ما و می فروشند به ما\r\nاین راست بود که حق به حق دار رسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگه سخنی برلب اظهار رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی مایه عزیزیش، طلبکار رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدزدند ز ما و می فروشند به ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین راست بود که حق به حق دار رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگه سخنی برلب اظهار رسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی مایه عزیزیش، طلبکار رسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دزدند ز ما و می فروشند به ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این راست بود که حق به حق دار رسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

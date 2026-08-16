@@ -1,0 +1,58 @@
+{
+  "Id": 75797,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/nezari/robnez/sh50",
+  "RhymeLetters": "است",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر با محبوب خود صحبت می‌کند و از عشق و تمایلش به او سخن می‌گوید. او به زیبایی محبوبش اشاره می‌کند و می‌گوید که گرچه او به اندازه ماه روشن نیست و قدش به زیبایی سرو نمی‌رسد، اما احساساتش را صادقانه بیان می‌کند. این شاعری نشان‌دهندهٔ عشق و آرزوهای عمیق شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "با یار بگفتم به زبانی که مراست\r\nکز آرزوی روی تو جانم برخاست\r\nچون روی تو ماه نیست روشن گفتم\r\nچون قد تو سرو نیست می گویم راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا یار بگفتم به زبانی که مراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز آرزوی روی تو جانم برخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون روی تو ماه نیست روشن، گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون قد تو سرو نیست، می گویم راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با یار بگفتم به زبانی که مراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز آرزوی روی تو جانم برخاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون روی تو ماه نیست روشن، گفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون قد تو سرو نیست، می گویم راست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

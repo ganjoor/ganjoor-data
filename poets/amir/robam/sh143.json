@@ -1,0 +1,58 @@
+{
+  "Id": 70186,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴۳",
+  "FullUrl": "/amir/robam/sh143",
+  "RhymeLetters": "ین",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به قدرت و عظمت شاه اشاره می‌کند که تخت و زین او از نعمت‌ها و برکات اوست. او می‌گوید که برکت و حکومت شاه باعث پیشرفت و رفاه مردم و دین شده و دشمنان او به زیر زمین رفته‌اند، یعنی ناتوان و شکست‌خورده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "ای شاه زتو تخت همی نازد و زین\r\nوز دولت تو داد همی یابد دین\r\nتا روی زمین گرفته ای زیر نگین\r\nخصمان تو رفته اند در زیر زمین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه زتو تخت همی نازد و زین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز دولت تو داد همی یابد دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا روی زمین گرفته‌ای زیر نگین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخصمان تو رفته‌اند در زیر زمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه زتو تخت همی نازد و زین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز دولت تو داد همی یابد دین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا روی زمین گرفته‌ای زیر نگین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خصمان تو رفته‌اند در زیر زمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

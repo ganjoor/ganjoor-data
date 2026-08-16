@@ -1,0 +1,58 @@
+{
+  "Id": 83099,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۰۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۰۲",
+  "FullUrl": "/hazin/robaee-hz/sh202",
+  "RhymeLetters": "وییبزنیم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از صوفی دعوت می‌کند تا به پا خیزد و شادی و هیاهو کند. او به یاد محبوبش آتش عشق را در دل زنده کند و با نعره‌های مستی، در نیمه‌شب به دل کوی محبوب برود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وییبزنیم",
+      "PlainText": "صوفی برخیز های و هوبی بزنیم\r\nآتش در دل به یاد رویی بزنیم\r\nبا سینه تنگ نعره مستانه\r\nدر نیم شبان بر سر کویی بزنیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی برخیز های و هوبی بزنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش در دل به یاد رویی بزنیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا سینهٔ تنگ، نعرهٔ مستانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نیم شبان بر سر کویی بزنیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صوفی برخیز های و هوبی بزنیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش در دل به یاد رویی بزنیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با سینهٔ تنگ، نعرهٔ مستانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در نیم شبان بر سر کویی بزنیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 2083,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۳۳",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۳۳",
+  "FullUrl": "/hafez/robaee2/sh33",
+  "RhymeLetters": "ورازتو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، غنچه‌ای شرمنده و نرگسی حیران از زیبایی و جذابیت محبوب سخن می‌گوید. شاعر به این نکته اشاره می‌کند که هیچ گلی نمی‌تواند با محبوب مقایسه شود، زیرا او زیبایی و درخششی دارد که از نور ماه نشأت می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورازتو",
+      "PlainText": "ای شرم زده غنچه ی مستور از تو\r\nحیران و خجل نرگس مخمور از تو\r\nگل با تو برابری کجا یارد کرد\r\nکـ او\u00A0نور ز مه دارد و مه نور از تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شَرم‌زده غنچه‌ی مَستور از تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیران و خِجِل، نرگسِ مَخمور از تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگُل با تو برابری کجا یارَد کرد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکـ‌او\u00A0نور زِ مَه دارد و مَه نور از تو!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شَرم‌زده غنچه‌ی مَستور از تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حیران و خِجِل، نرگسِ مَخمور از تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گُل با تو برابری کجا یارَد کرد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کـ‌او\u00A0نور زِ مَه دارد و مَه نور از تو!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

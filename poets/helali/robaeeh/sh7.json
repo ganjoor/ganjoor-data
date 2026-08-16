@@ -1,0 +1,58 @@
+{
+  "Id": 45350,
+  "CatId": 1714,
+  "Title": "رباعی شمارهٔ ۷",
+  "FullTitle": "هلالی جغتایی » رباعیات » رباعی شمارهٔ ۷",
+  "FullUrl": "/helali/robaeeh/sh7",
+  "RhymeLetters": "ارکمست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساس کمبود و فقدان در زندگی صحبت می‌کند. او بیان می‌کند که دولت (خوشی) او به اندازه کافی بیدار و حاضر نیست و نمی‌تواند بگوید این کمبود تا چه حد است. همچنین، از رنج فراقت معشوق سخن می‌گوید که اگرچه کم است، اما درد آن بسیار بزرگ و شدید است. در نهایت، عاشق می‌گوید که لذت دیدار معشوق هم بسیار اندک است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارکمست",
+      "PlainText": "از بس که مرا دولت بیدار کم ست\r\nگفتن نتوان که تا چه مقدار کم ست\r\nرنجی ست فراقت که کمش بسیارست\r\nعیشی ست وصال تو که بسیار کم ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که مرا دولت بیدار کم‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتن نتوان که تا چه مقدار کم‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنجی‌ست فراقت که کمش بسیارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیشی‌ست وصال تو، که بسیار کم‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بس که مرا دولت بیدار کم‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتن نتوان که تا چه مقدار کم‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رنجی‌ست فراقت که کمش بسیارست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیشی‌ست وصال تو، که بسیار کم‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

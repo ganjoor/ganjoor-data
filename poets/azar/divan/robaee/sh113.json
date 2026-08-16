@@ -1,0 +1,58 @@
+{
+  "Id": 119034,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۱۳",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۱۳",
+  "FullUrl": "/azar/divan/robaee/sh113",
+  "RhymeLetters": "اشکهدوش",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از گفتگو با معشوقش یاد می‌کند که در آن شب توصیف شده، معشوق به او گفته که ممکن است او را بکشد. شاعر به او پاسخ می‌دهد که ای کاش این کار را در شب گذشته انجام می‌داد تا از غصه‌ای که دارد رهایی می‌یافت. همچنین اشاره می‌کند که هر شب باید همانطور باشد که در شب گذشته بوده است. این شعر به بیان احساسات و تنش‌های عاطفی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اشکهدوش",
+      "PlainText": "امشب مهم آمد نه چنان فاش که دوش\r\nگفتا کشمت- گفتمش ای کاش که دوش\r\nمیکشتی و از غصه نمی بایستم\r\nهر شب گفتن شبا چنان باش که دوش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب مهم آمد، نه چنان فاش که دوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا: کشمت- گفتمش: ای کاش که دوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیکشتی و از غصه نمی بایستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر شب گفتن: شبا چنان باش که دوش!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب مهم آمد، نه چنان فاش که دوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا: کشمت- گفتمش: ای کاش که دوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میکشتی و از غصه نمی بایستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر شب گفتن: شبا چنان باش که دوش!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

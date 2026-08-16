@@ -1,0 +1,58 @@
+{
+  "Id": 1162,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۴۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۴۴",
+  "FullUrl": "/khayyam/robaee/sh44",
+  "RhymeLetters": "افت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به این مضمون اشاره دارد که مهتاب زیبایی شب را می‌شکافد و لحظه‌ای شیرین‌تر از نوشیدن این زیبایی وجود ندارد. شاعر از شنونده می‌خواهد خوش باشند و نگرانی نداشته باشند، زیرا روزی مهتاب بر قبر هر فردی خواهد تابید و زندگی کوتاه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "افت",
+      "PlainText": "مهتاب به نور دامن شب بشکافت\r\nمی نوش دمی بهتر از این نتوان یافت\r\nخوش باش و میندیش که مهتاب بسی\r\nاندر سر خاک یک به یک خواهد تافت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهتاب به نور دامن شب بشکافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی نوش دمی بهتر از این نتوان یافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش باش و میندیش که مهتاب بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر سر خاک یک به یک خواهد تافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مهتاب به نور دامن شب بشکافت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می نوش دمی بهتر از این نتوان یافت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوش باش و میندیش که مهتاب بسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندر سر خاک یک به یک خواهد تافت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

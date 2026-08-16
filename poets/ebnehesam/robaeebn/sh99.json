@@ -1,0 +1,58 @@
+{
+  "Id": 64896,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۹۹",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۹۹",
+  "FullUrl": "/ebnehesam/robaeebn/sh99",
+  "RhymeLetters": "ویی",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف احوال ابرها پرداخته است که به خاطر حیا و احترام، گریه می‌کنند و آب خود را بر زمین می‌ریزند. همچنین اشاره به فریاد زدن ابرها مانند رعد و جستجوی آب برای امام حسین در کربلا دارد. این بیان نشان‌دهندهٔ احساسات عمیق و عاطفی درباره واقعه عاشورا است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویی",
+      "PlainText": "ای ابر پر آب بر هوا می پویی\r\nگریان گریان رخ ز حیا می شویی\r\nفریاد کنان چو رعد و برداشته آب\r\nاز بهر حسین  کربلا می جویی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ابر پر آب بر هوا می پویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگریان گریان رخ ز حیا می شویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریاد کنان چو رعد و برداشته آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بهر حسین ، کربلا می جویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ابر پر آب بر هوا می پویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گریان گریان رخ ز حیا می شویی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریاد کنان چو رعد و برداشته آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بهر حسین ، کربلا می جویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

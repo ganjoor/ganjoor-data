@@ -1,0 +1,58 @@
+{
+  "Id": 75003,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۴۶۲",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۴۶۲",
+  "FullUrl": "/ghodsi/robghm/sh462",
+  "RhymeLetters": "یل",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این چهار خط شعر به مفهوم شناخت خداوند و اهمیت آن اشاره دارد. شاعر می‌گوید کسی که به معرفت و شناخت حق (خدا) می‌رسد، هرگز از درک آن غافل نخواهد شد. او همچنین تأکید می‌کند که مخلوق به عنوان نشانه‌ای از خالق خود محسوب می‌شود و وجود مخلوقات، دلیلی بر وجود خداوند است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یل",
+      "PlainText": "آن کس که کند معرفت حق تحصیل\r\nعرفان خدا نیفتدش در تعطیل\r\nمخلوق بود حجت خالق آری\r\nنقش آمده بر وجود نقاش دلیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که کند معرفت حق تحصیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرفان خدا نیفتدش در تعطیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمخلوق بود حجت خالق، آری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش آمده بر وجود نقاش، دلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که کند معرفت حق تحصیل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عرفان خدا نیفتدش در تعطیل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مخلوق بود حجت خالق، آری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نقش آمده بر وجود نقاش، دلیل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

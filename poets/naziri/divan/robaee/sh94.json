@@ -1,0 +1,58 @@
+{
+  "Id": 123660,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/naziri/divan/robaee/sh94",
+  "RhymeLetters": "ایینزدیم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به حالتی از خاموشی و بی‌عملی اشاره می‌کند. او می‌گوید که هرگز به معرکه جنگ نرفته و حتی کلامی از خون و قیمت آن بر زبان نراند. همچنین به تلفات و شهیدان اشاره می‌کند و می‌گوید ما چنان بی‌تحرک و بی‌احساس مانده‌ایم که حتی حرکتی نکرده‌ایم. در کل، بیانگر ناامیدی و سکون در مواجهه با وقایع دردناک است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایینزدیم",
+      "PlainText": "یک معرکه خویش را به جایی نزدیم\r\nیک مرتبه حرف خون بهایی نزدیم\r\nصد قافله شهید بر ما بگذشت\r\nما مرده چنان که دست و پایی نزدیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک معرکه خویش را به جایی نزدیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک مرتبه حرف خون بهایی نزدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد قافله شهید بر ما بگذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما مرده چنان که دست و پایی نزدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک معرکه خویش را به جایی نزدیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک مرتبه حرف خون بهایی نزدیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد قافله شهید بر ما بگذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما مرده چنان که دست و پایی نزدیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

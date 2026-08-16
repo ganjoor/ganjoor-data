@@ -1,0 +1,58 @@
+{
+  "Id": 93767,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/ebneyamin/divan/robaee/sh1",
+  "RhymeLetters": "ابادترا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این قطعه شاعر برای محبوبش آرزو می‌کند که همه حاجاتش برآورده شود. او همچنین از دیگران درباره خوشبختی محبوبش سوال کرده و متوجه می‌شود که همه در این باره نگران و غمگین هستند، اما صرفاً دعا می‌کنند که دوام و بقای او ادامه داشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابادترا",
+      "PlainText": "ای دل همه حاجتی روا باد ترا\r\nلیکن ز من این مژده ترا باد ترا\r\nکز هر که نشان بخت تو پرسیدم\r\nگریان شد و بس گفت بقا باد ترا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل همه حاجتی روا باد ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن ز من این مژده ترا باد ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز هر که نشان بخت تو پرسیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگریان شد و بس گفت بقا باد ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل همه حاجتی روا باد ترا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیکن ز من این مژده ترا باد ترا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کز هر که نشان بخت تو پرسیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گریان شد و بس گفت بقا باد ترا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

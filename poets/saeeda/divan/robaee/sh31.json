@@ -1,0 +1,58 @@
+{
+  "Id": 107931,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/saeeda/divan/robaee/sh31",
+  "RhymeLetters": "امیکیاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به اتحاد و یکسانی کفر و اسلام اشاره می‌کند و می‌گوید که صبح و شب در شادی و اندوه یکی هستند. او همچنین به این نکته می‌پردازد که صید و صیاد تفاوتی ندارند و در نهایت، به یکسانی مرگ و زندگی (گور و بهرام) اشاره می‌کند. این اشعار نشان‌دهنده‌ی نگاه عمیق به وجود و هستی و اتحاد همه چیز در جهان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیکیاست",
+      "PlainText": "در مذهب ما که کفر و اسلام یکی است\r\nصبح شادی و ماتم شام یکی است\r\nصید و صیاد هر دو را نیست دویی\r\nچشمی بگشا که گور و بهرام یکی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مذهب ما که کفر و اسلام یکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبح شادی و ماتم شام، یکی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصید و صیاد، هر دو را نیست دویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمی بگشا که گور و بهرام یکی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در مذهب ما که کفر و اسلام یکی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبح شادی و ماتم شام، یکی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صید و صیاد، هر دو را نیست دویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشمی بگشا که گور و بهرام یکی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

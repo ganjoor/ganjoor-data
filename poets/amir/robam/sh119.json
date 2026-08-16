@@ -1,0 +1,58 @@
+{
+  "Id": 70162,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۱۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۱۹",
+  "FullUrl": "/amir/robam/sh119",
+  "RhymeLetters": "ایتعشق",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به زیبایی و بزرگی شخصیت فردی اشاره دارد که مانند ابر، نویدبخش برکت و نعمت است. وقتی دیگران به خوبی‌های او نگاه می‌کنند، احساس خجالت می‌کنند زیرا نمی‌توانند به او برسند. او به قدری از برکت و سخاوت برخوردار است که باعث می‌شود دیگران در حسرت بمانند، و این حسرت تا حدی است که مانند ابر در حال باریدن اشک می‌ریزند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رق",
+      "PlainText": "چون ابر کف تو بیند ای خسرو شرق\r\nاز تو نکند به جود تا دریا فرق\r\nگردد خجل و شود به آب اندر غرق\r\nاز رشک بگرید و برو خندد برق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ابر کف تو بیند ای خسرو شرق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تو نکند به جود تا دریا فرق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردد خجل و شود به آب اندر غرق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رشک بگرید و برو خندد برق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون ابر کف تو بیند ای خسرو شرق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از تو نکند به جود تا دریا فرق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردد خجل و شود به آب اندر غرق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از رشک بگرید و برو خندد برق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

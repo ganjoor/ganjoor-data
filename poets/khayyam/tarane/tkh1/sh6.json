@@ -1,0 +1,58 @@
+{
+  "Id": 50261,
+  "CatId": 1812,
+  "Title": "رباعی ۶",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » راز آفرینش  [ ۱۵-۱] » رباعی ۶",
+  "FullUrl": "/khayyam/tarane/tkh1/sh6",
+  "RhymeLetters": "ت",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از دلزدگی خود از دنیای بت‌پرستی و اعتقادات رایج سخن می‌گوید. او به تصویر کشیدن زنان در کنار دریا اشاره می‌کند و در نهایت به سخن خیام اشاره می‌کند که می‌گوید کسی که به دوزخ می‌رود، در واقع دوزخی خواهد بود؛ چون او به حقیقت و واقعیت پی نمی‌برد. شعر به نوعی نقدی به باورهای نادرست و تظاهر به ایمان دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شت",
+      "PlainText": "تا چند زنم به روی دریاها خشت\r\nبیزار شدم ز بت پرستان و کنشت\r\nخیام که گفت دوزخی خواهد بود\r\nکه رفت به دوزخ و که آمد ز بهشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E\u00A0تا چند زنم به روی دریاها خشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیزار شدم ز بت‌پرستان و کُنِشْت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیام! که گفت دوزخی خواهد بود؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه رفت به دوزخ و که آمد ز بهشت؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "\u00A0تا چند زنم به روی دریاها خشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیزار شدم ز بت‌پرستان و کُنِشْت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خیام! که گفت دوزخی خواهد بود؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که رفت به دوزخ و که آمد ز بهشت؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

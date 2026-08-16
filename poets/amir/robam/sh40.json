@@ -1,0 +1,58 @@
+{
+  "Id": 70083,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/amir/robam/sh40",
+  "RhymeLetters": "یننیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به بیان یکتایی خداوند و سلطنت او اشاره دارد. شاعر می‌گوید که تا زمانی که دین وجود دارد، فقط یک خداوند وجود دارد و تا زمانی که سلطنت هست، فقط یک سلطان واقعی وجود دارد. در نهایت، هیچ‌کدام از این دو (دین و سلطنت) بدون یکدیگر کامل نیستند و هر یک به دیگری نیاز دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننیست",
+      "PlainText": "تا دین باشد به جز یکی یزدان نیست\r\nتا ملک بود به جز یکی سلطان نیست\r\nبر هر دو برون از آن و زین فرمان نیست\r\nآن بی  این نیست هرگز این بی  آن نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دین باشد به جز یکی یزدان نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ملک بود به جز یکی سلطان نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر هر دو برون از آن و زین فرمان نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن بی ‌این نیست هرگز این بی‌ آن نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دین باشد به جز یکی یزدان نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا ملک بود به جز یکی سلطان نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر هر دو برون از آن و زین فرمان نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن بی ‌این نیست هرگز این بی‌ آن نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

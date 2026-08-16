@@ -1,0 +1,58 @@
+{
+  "Id": 99046,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۷۸",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh78",
+  "RhymeLetters": "منمیبخشی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی‌های طبیعت و عشق اشاره می‌کند. او به شخصی اشاره دارد که هدایایی چون گُل و نعمت‌های دیگر را به یمن و چمن می‌بخشد. وقتی شاعر می‌گوید که آماده است جانش را فدای محبوب کند، محبوب در پاسخ می‌گوید که نه، جان او همان جان شاعر است و او باید خودش را به محبوب تقدیم کند. این گفتگو در واقع نمادی از عمق و پیچیدگی عشق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منمیبخشی",
+      "PlainText": "آنی که سهیلی به یمن می بخشی\r\nیا تازه گلی را به چمن می بخشی\r\nگفتم که تو را جان بدهم گفتا نه\r\nجان تو منم مرا به من می بخشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنی که سهیلی به یمن می بخشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا تازه گلی را به چمن می بخشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که تو را جان بدهم؟ گفتا نه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان تو منم مرا به من می بخشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی که سهیلی به یمن می بخشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا تازه گلی را به چمن می بخشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که تو را جان بدهم؟ گفتا نه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان تو منم مرا به من می بخشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

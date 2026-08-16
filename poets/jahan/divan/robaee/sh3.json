@@ -1,0 +1,58 @@
+{
+  "Id": 113876,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/jahan/divan/robaee/sh3",
+  "RhymeLetters": "نگمرا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از خداوند طلب کمک می‌کند و از او می‌خواهد که دل افسرده‌اش را نرنجاند. او نسبت به وضعیت بدی که در آن قرار دارد، نگرانی و شرمساری دارد و به چرخ فلک (سرنوشت) هشدار می‌دهد که از سرنوشتش بترسد. اینجا او به تضاد بین اسب رهوار (سریع و آزاد) و خر لنگ (کند و ناتوان) اشاره کرده و از نارضایتی از وضعیتش پرده برداشته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگمرا",
+      "PlainText": "یارب تو روا مدار دل تنگ مرا\r\nمپسند در این روز بدین ننگ مرا\r\nای چرخ کبود حرفه اینت بترست\r\nاسب همه رهوار و خر لنگ مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب تو روا مدار دل تنگ مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمپسند در این روز بدین ننگ مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چرخ کبود حرفه اینت بترست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسب همه رهوار و خر لنگ مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یارب تو روا مدار دل تنگ مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مپسند در این روز بدین ننگ مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای چرخ کبود حرفه اینت بترست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اسب همه رهوار و خر لنگ مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

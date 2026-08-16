@@ -1,0 +1,58 @@
+{
+  "Id": 82850,
+  "CatId": 2172,
+  "Title": "شمارهٔ ۳۱ - اندرز",
+  "FullTitle": "حزین لاهیجی » قطعات » شمارهٔ ۳۱ - اندرز",
+  "FullUrl": "/hazin/ghete-hz/sh31",
+  "RhymeLetters": "وغ",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شخصی به خاطر طعنه و سخنان بیهوده دشمن ناراحت شده است و سؤال می‌کند که چگونه ممکن است این موضوع جای تعجب داشته باشد. اگر حقیقت را گفته باشد، چرا باید از حق رنج ببرد و اگر این دروغ باشد، چرا باید از دروغ ناراحت شود؟",
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وغ",
+      "PlainText": "عاقلی رنجه شد از طعن عدو\r\nقلت هذا عجب کیف یسوغ\r\nراست گر گفته چه رنجی از راست\r\nگر دروغ است چه رنجش ز دروغ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقلی، رنجه شد از طعن عدو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقلت هذا عجبٌ کیف یسوغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراست گر گفته چه رنجی از راست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر دروغ است، چه رنجش ز دروغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقلی، رنجه شد از طعن عدو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قلت هذا عجبٌ کیف یسوغ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راست گر گفته چه رنجی از راست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر دروغ است، چه رنجش ز دروغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

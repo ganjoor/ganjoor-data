@@ -1,0 +1,58 @@
+{
+  "Id": 97262,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/emami/divan/robaee/sh3",
+  "RhymeLetters": "وزاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و نورانی بودن محبت و عشق اشاره دارد. شاعر شب را به روزی که خورشید در آسمان می‌تابد تشبیه کرده و از زلف و زیبایی معشوق صحبت می‌کند که همانند خورشید می‌درخشد. در کل، مفاهیم عشق، زیبایی و روشنی در این ابیات مشهود است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزاست",
+      "PlainText": "آن شب که ملازم فروغ روز است\r\nو آنروز که شب بروز مهرافروز است\r\nعقد شکن زلف بت سیم تن است\r\nخورشید رخ خوش پسر زر دوز است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن شب که ملازم فروغ روز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آنروز که شب بروز مهرافروز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقد شکن زلف بت سیم تن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید رخ خوش پسر زر دوز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن شب که ملازم فروغ روز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و آنروز که شب بروز مهرافروز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عقد شکن زلف بت سیم تن است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید رخ خوش پسر زر دوز است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

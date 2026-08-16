@@ -1,0 +1,58 @@
+{
+  "Id": 1217,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹۹",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹۹",
+  "FullUrl": "/khayyam/robaee/sh99",
+  "RhymeLetters": "ادهبیار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر خواستار آوردن محبوب و مایه خوشی (لعل) در ظرف شفاف (آبگینه) است. او به اهمیت زمان و زودگذری دنیا اشاره می‌کند و از آن می‌خواهد که در این مدت کوتاه، باده و شادی را بیاورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادهبیار",
+      "PlainText": "آن لعل در آبگینه ساده بیار\r\nوآن محرم و مونس هر آزاده بیار\r\nچون می دانی که مدت عالم خاک\r\nباد است که زود بگذرد باده بیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن لعل در آبگینهٔ ساده بیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن محرم و مونس هر آزاده بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون می‌دانی که مدت عالم خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد است که زود بگذرد باده بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن لعل در آبگینهٔ ساده بیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآن محرم و مونس هر آزاده بیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون می‌دانی که مدت عالم خاک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باد است که زود بگذرد باده بیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

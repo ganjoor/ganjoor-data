@@ -1,0 +1,58 @@
+{
+  "Id": 2062,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱۲",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱۲",
+  "FullUrl": "/hafez/robaee2/sh12",
+  "RhymeLetters": "ممیارزد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به نقد دنیا و زیبایی‌های ظاهری آن می‌پردازد. شاعر تأکید می‌کند که خوشی‌ها و لذت‌های دنیوی با درد و رنجی که ممکن است به همراه داشته باشند، ارزش کمتری دارند. او همچنین بیان می‌کند که حتی شادی‌های طولانی مدت دنیا به اندازه‌ی درد و محنت‌های کوتاه‌مدت ارزشمند نیستند. به طور کلی، شاعر به بی‌امیدی و ناپایداری لذت‌های دنیوی اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ممیارزد",
+      "PlainText": "نی دولت دنیا به ستم می ارزد\r\nنی لذت مستی اش الم می ارزد\r\nنه هفت هزار ساله شادی جهان\r\nاین محنت هفت روزه غم می ارزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی دولت دنیا به ستم می‌ارزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی لذّت مستی‌اش الم می‌ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه هفت هزار ساله شادی جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین محنت هفت روزه غم می‌ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی دولت دنیا به ستم می‌ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی لذّت مستی‌اش الم می‌ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه هفت هزار ساله شادی جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این محنت هفت روزه غم می‌ارزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

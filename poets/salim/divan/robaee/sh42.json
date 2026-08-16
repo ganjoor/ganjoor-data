@@ -1,0 +1,58 @@
+{
+  "Id": 101833,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/salim/divan/robaee/sh42",
+  "RhymeLetters": "اییدارد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مفهوم صبر اشاره دارد و می‌گوید که اگرچه صبر می‌تواند دل را آرام کند، اما در برابر سختی‌ها و ظلم‌های زندگی، تاثیر چندانی ندارد. او با تشبیه به سنگ و شیشه می‌گوید که اگر بر صبر فشار بیاید، مانند سنگ که در برابر فشار می‌شکند، صبر هم تحت فشار زندگی از بین می‌رود، حتی اگر ظاهری مقاوم داشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییدارد",
+      "PlainText": "در صبر اگرچه دل رسایی دارد\r\nبا جور فلک چه آشنایی دارد\r\nچون سنگ به او رسد یقین می شکند\r\nهرچند که شیشه مومیایی دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر صبر اگرچه دل رسایی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا جور فلک چه آشنایی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سنگ به او رسد، یقین می شکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچند که شیشه مومیایی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در صبر اگرچه دل رسایی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با جور فلک چه آشنایی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون سنگ به او رسد، یقین می شکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچند که شیشه مومیایی دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

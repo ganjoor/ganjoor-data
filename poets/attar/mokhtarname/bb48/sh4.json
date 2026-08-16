@@ -1,0 +1,58 @@
+{
+  "Id": 36088,
+  "CatId": 849,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "عطار » مختارنامه » باب چهل و هشتم: در سخن گفتن به زبان شمع » شمارهٔ ۴",
+  "FullUrl": "/attar/mokhtarname/bb48/sh4",
+  "RhymeLetters": "انمنمیسوزد",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شمع به بیان احساس خود می‌گوید که جانش در حال سوختن است و این سوختن به سبب ناتوانی تنش است. او با قسم به جان و سرش می‌گوید که کلامش نیز از این سوختن رنج می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمنمیسوزد",
+      "PlainText": "شمع آمد و گفت جان من میسوزد\r\nوز جان تن ناتوان من میسوزد\r\nسوگند همی خورم به جان و سر خویش\r\nوز سوگندم زبان من میسوزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع آمد و گفت: جانِ من میسوزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز جان تن ناتوانِ من میسوزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوگند همی خورم به جان و سرِ خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز سوگندم زبانِ من میسوزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمع آمد و گفت: جانِ من میسوزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز جان تن ناتوانِ من میسوزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سوگند همی خورم به جان و سرِ خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز سوگندم زبانِ من میسوزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

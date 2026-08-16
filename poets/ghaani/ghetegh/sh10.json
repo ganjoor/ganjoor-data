@@ -1,0 +1,58 @@
+{
+  "Id": 45650,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۰",
+  "FullUrl": "/ghaani/ghetegh/sh10",
+  "RhymeLetters": "انهرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به تضاد میان شب و روز اشاره می‌کند. در شب، شمع و پروانه وجود دارند و پروانه از نور شمع بهره‌مند می‌شود، اما در روز، نور شمع به بیگانه آسیب می‌زند. شمع هم نور بخش است و هم سوزاننده. در نتیجه، نورش برای پروانه خوشایند و سوزش برای بیگانه مضر است.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهرا",
+      "PlainText": "در شب تاریک شمع ما بود پروانه سوز\r\nلیک چون شد روز سوزد پا و سر بیگانه را\r\nشمع را هم نور و هم نارست سوزد لاجرم\r\nنار او بیگانه را و نور او پروانه را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شب تاریک شمع ما بود پروانه‌سوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک چون شد روز سوزد پا و سر بیگانه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع را هم نور و هم نارست سوزد لاجرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنار او بیگانه را و نور او پروانه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در شب تاریک شمع ما بود پروانه‌سوز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیک چون شد روز سوزد پا و سر بیگانه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمع را هم نور و هم نارست سوزد لاجرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نار او بیگانه را و نور او پروانه را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

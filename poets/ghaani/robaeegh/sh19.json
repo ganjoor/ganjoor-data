@@ -1,0 +1,58 @@
+{
+  "Id": 45832,
+  "CatId": 1721,
+  "Title": "رباعی شمارهٔ ۱۹",
+  "FullTitle": "قاآنی » رباعیات » رباعی شمارهٔ ۱۹",
+  "FullUrl": "/ghaani/robaeegh/sh19",
+  "RhymeLetters": "اندادم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از لحظه‌ای عاطفی و عاشقانه صحبت می‌کند که با معشوق خود وصالی دلپذیر دارد. او با اشتیاق لب بر لب معشوقش می‌گذارد و جان می‌دهد. شاعر اشاره می‌کند که اگر خضر (نماد زندگی و بقا) از چشمه حیوان جان می‌گیرد، او نیز جانش را به معشوق و شیرینی وصال می‌بخشد. در کل، این اشعار به بیان عشق و فداکاری از سوی شاعر می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندادم",
+      "PlainText": "تا دل به هوای وصل جانان دادم\r\nلب بر لب او نهادم و جان دادم\r\nخضر ار ز لب چشمه حیوان جان یافت\r\nمن جان به لب چشمه حیوان دادم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دل به هوای وصل جانان دادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب بر لب او نهادم و جان دادم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخضر ار ز لب چشمهٔ حیوان جان یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن جان به لب چشمهٔ حیوان دادم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دل به هوای وصل جانان دادم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لب بر لب او نهادم و جان دادم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خضر ار ز لب چشمهٔ حیوان جان یافت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من جان به لب چشمهٔ حیوان دادم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

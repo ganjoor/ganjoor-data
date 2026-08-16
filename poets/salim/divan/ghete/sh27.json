@@ -1,0 +1,58 @@
+{
+  "Id": 101756,
+  "CatId": 2532,
+  "Title": "شمارهٔ ۲۷ - در هجو شخصی",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » قطعات » شمارهٔ ۲۷ - در هجو شخصی",
+  "FullUrl": "/salim/divan/ghete/sh27",
+  "RhymeLetters": "م",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به شنونده می‌گوید که داستانی راست را از او بشنود. او به وجود شخصی مستور اشاره می‌کند که در حرم قرار دارد و هر کس به او برسد، از او بهره‌مند می‌شود. این بهره‌مندی را به مانند نطفه‌ای در شکم تشبیه می‌کند که به دیگران منتقل می‌شود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "خواجه بشنو حدیث راست ز من\r\nهست مستوره ای ترا به حرم\r\nکه به هرکس رسد ازو گیرد\r\nهمچو آیینه نطفه ای به شکم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواجه بشنو حدیث راست ز من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست مستوره ای ترا به حرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه به هرکس رسد، ازو گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو آیینه نطفه ای به شکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواجه بشنو حدیث راست ز من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هست مستوره ای ترا به حرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "که به هرکس رسد، ازو گیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچو آیینه نطفه ای به شکم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

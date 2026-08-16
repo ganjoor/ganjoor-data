@@ -1,0 +1,58 @@
+{
+  "Id": 107959,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/saeeda/divan/robaee/sh59",
+  "RhymeLetters": "ارنشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس ناامیدی و بی‌نتیجه بودن تلاش‌هاست. شاعر از کشت عمل خود سخن می‌گوید که هیچ ثمری نداشته و دل و چشمانش به خوبی و نیکی دست نیافته‌اند. با اینکه دیگران از رفتن خود اطلاعاتی به او داده‌اند، اما او هیچ خبری از دل خود ندارد و همچنان در ناامیدی به سر می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارنشد",
+      "PlainText": "کشت عملم هیچ نمودار نشد\r\nهرگز دل و دیده ام نکوکار نشد\r\nهر چند که رفتگان خبرها کردند\r\nاز رفتن خود دلم خبردار نشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشت عملم هیچ نمودار نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز دل و دیده ام نکوکار نشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که رفتگان خبرها کردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رفتن خود دلم خبردار نشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کشت عملم هیچ نمودار نشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرگز دل و دیده ام نکوکار نشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چند که رفتگان خبرها کردند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از رفتن خود دلم خبردار نشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

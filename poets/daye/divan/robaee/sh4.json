@@ -1,0 +1,58 @@
+{
+  "Id": 107167,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/daye/divan/robaee/sh4",
+  "RhymeLetters": "بیشاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسی عمیق درباره عشق می‌پردازد. شاعر می‌گوید عشق او به معشوق نه تنها درمان دردهایش است، بلکه فراتر از هر خواسته‌ای است. او این عشق را نه تنها از ابتدای وجودش احساس کرده، بلکه می‌داند که این عشق تا ابد در زندگی‌اش ادامه خواهد داشت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بیشاست",
+      "PlainText": "عشقت که دوای جان این دلریش است\r\nز اندازه هر هوس پرستی بیش است\r\nچیزی است که از ازل مرا در سر بود\r\nکاری است که تا ابد مرا در پیش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشقت که دوای جان این دلریش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اندازهٔ هر هوس پرستی بیش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیزی است که از ازل مرا در سر بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاری است که تا ابد مرا در پیش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشقت که دوای جان این دلریش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز اندازهٔ هر هوس پرستی بیش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چیزی است که از ازل مرا در سر بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاری است که تا ابد مرا در پیش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

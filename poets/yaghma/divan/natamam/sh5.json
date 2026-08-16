@@ -1,0 +1,77 @@
+{
+  "Id": 125779,
+  "CatId": 2881,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "یغمای جندقی » دیوان اشعار » غزلیات ناتمام » شمارهٔ ۵",
+  "FullUrl": "/yaghma/divan/natamam/sh5",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی شب و سحر اشاره می‌کند و اشک را به عنوان جواهری از درد و جنون توصیف می‌کند. او همچنین از فقر و شرایط سخت زندگی صحبت می‌کند و می‌پرسد که آیا در چنین شرایطی دیگر بزرگان و پادشاهان مانند پرویز و جمشید، تنها گدایانی در دنیای ما هستند. این ابیات به تضاد بین زیبایی و فقر در زندگی اشاره دارند.",
+  "Sections": [
+    {
+      "Index": 41,
+      "Number": 42,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رماست",
+      "PlainText": "آه شبگیر علم ملک سحر کشور ماست\r\nگوهر اشک نگین داغ جنون افسر ماست\r\nتو که یغما که اگر سلطنت فقر این است\r\nکی نه پرویز نه جمشید گدای در ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه شبگیر علم، ملک سحر کشور ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوهر اشک نگین، داغ جنون افسر ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو که یغما که اگر سلطنت فقر این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی نه پرویز نه جمشید گدای در ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 42,
+      "Number": 43,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رماست",
+      "PlainText": "آه شبگیر علم ملک سحر کشور ماست\r\nگوهر اشک نگین داغ جنون افسر ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه شبگیر علم، ملک سحر کشور ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوهر اشک نگین، داغ جنون افسر ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 43,
+      "Number": 44,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "تو که یغما که اگر سلطنت فقر این است\r\nکی نه پرویز نه جمشید گدای در ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو که یغما که اگر سلطنت فقر این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی نه پرویز نه جمشید گدای در ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آه شبگیر علم، ملک سحر کشور ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 41,
+      "SectionIndex2": 42
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوهر اشک نگین، داغ جنون افسر ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 41,
+      "SectionIndex2": 42
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو که یغما که اگر سلطنت فقر این است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 41,
+      "SectionIndex2": 43
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کی نه پرویز نه جمشید گدای در ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 41,
+      "SectionIndex2": 43
+    }
+  ]
+}

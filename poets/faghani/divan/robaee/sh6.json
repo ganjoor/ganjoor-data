@@ -1,0 +1,58 @@
+{
+  "Id": 97078,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/faghani/divan/robaee/sh6",
+  "RhymeLetters": "اسنهد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به موضوع مرگ و شجاعت اشاره دارد. شاعر در آن می‌گوید که زمانی که سرنوشت انسان را می‌کشد (مرگ) مثل یک داس به او ضربه می‌زند. سپس به مردانی که در برابر مرگ و سختی‌ها تسلیم می‌شوند، انتقاد می‌کند و از دلیرانی سخن می‌گوید که جان خود را در خطر می‌گذارند و به مبارزه با فنا و خطر می‌پردازند. به طور کلی، این شعر به تمایل انسان به شجاعت و ایستادگی در برابر مرگ و چالش‌ها می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اسنهد",
+      "PlainText": "روزیکه فلک بکشت ما داس نهد\r\nنامرد چو مرده تن بکرباس نهد\r\nکو شیر دلی که زیر شمشیر فنا\r\nدندان بجگر جگر بالماس نهد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزیکه فلک بکشت ما داس نهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامرد چو مرده تن بکرباس نهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو شیر دلی که زیر شمشیر فنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدندان بجگر جگر بالماس نهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزیکه فلک بکشت ما داس نهد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نامرد چو مرده تن بکرباس نهد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو شیر دلی که زیر شمشیر فنا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دندان بجگر جگر بالماس نهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83377,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۱۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۱۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh216",
+  "RhymeLetters": "وشیدند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به درد جدایی از محبوبش اشاره می‌کند. او در بهاری که پر از زیبایی و زندگی بوده، به خاطر نبودن معشوق، گل‌ها نیز برایش بی‌معنا و مانند تیغی تیز به نظر می‌رسند. شاعر از اینکه به بتخانه (مکان عشق) خود ضربه‌ای زده شده و به همین خاطر دچار سردرگمی و آشفتگی شده، ابراز تأسف می‌کند. زلف معشوقش برای او، نوعی کفر و حیرت ایجاد کرده که نشان‌دهنده عشق عمیق اوست.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیبود",
+      "PlainText": "در بهاری که مرا بال و پرافشانی بود\r\nبی تو گل در نظرم لاله پیکانی بود\r\nمن بتخانه نشین را ز چه رو کرد خراب\r\nکفر زلف تو که آشوب مسلمانی بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بهاری که مرا بال و پرافشانی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی تو گل در نظرم، لالهٔ پیکانی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بتخانه نشین را ز چه رو کرد خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکفر زلف تو، که آشوب مسلمانی بود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بهاری که مرا بال و پرافشانی بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی تو گل در نظرم، لالهٔ پیکانی بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من بتخانه نشین را ز چه رو کرد خراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کفر زلف تو، که آشوب مسلمانی بود؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

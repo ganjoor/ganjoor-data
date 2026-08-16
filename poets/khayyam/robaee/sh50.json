@@ -1,0 +1,58 @@
+{
+  "Id": 1168,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۵۰",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۵۰",
+  "FullUrl": "/khayyam/robaee/sh50",
+  "RhymeLetters": "ینیبودهاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و ارزشمندی انسان اشاره دارد و می‌گوید که هر ذره‌ای از خاک که در زمین وجود دارد، زمانی ارزش و زیبایی خاصی داشته است. شاعر به صورت خاص از زیبایی چهره نازنین یاد می‌کند و به نوعی از دلتنگی یا احترام به آن زیبایی صحبت می‌کند. در کل، پیام شعر درباره‌ی ارتباط انسان با خاک و زیبایی درون و بیرون آن است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینیبودهاست",
+      "PlainText": "هر ذره که در خاک زمینی بوده ست\r\nپیش از من و تو تاج و نگینی بوده ست\r\nگرد از رخ نازنین به آزرم فشان\r\nکآن هم رخ خوب نازنینی بوده ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر ذره که در خاک زمینی بوده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش از من و تو تاج و نگینی بوده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرد از رخ نازنین به آزرم فشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن هم رخ خوب نازنینی بوده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر ذره که در خاک زمینی بوده‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش از من و تو تاج و نگینی بوده‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرد از رخ نازنین به آزرم فشان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآن هم رخ خوب نازنینی بوده‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

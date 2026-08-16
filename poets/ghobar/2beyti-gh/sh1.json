@@ -1,0 +1,58 @@
+{
+  "Id": 84001,
+  "CatId": 2195,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "غبار همدانی » دوبیتی‌ها » شمارهٔ ۱",
+  "FullUrl": "/ghobar/2beyti-gh/sh1",
+  "RhymeLetters": "وتهدیری",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات عمیق و دردهای درون شاعر اشاره دارد. او به زیبایی و شادابی رخسار محبوبش (که به گل لاله تشبیه شده) اشاره می‌کند، اما در عین حال از داغ دل خود و آتش عشق سخن می‌گوید. شاعر از محبوب خود می‌خواهد که برای دل بی‌حاصلش فکری کند، چرا که مدت زیادی است که در غم و اندوه به سر می‌برد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وتهدیری",
+      "PlainText": "تو که رخ لاله سان افروته دیری\r\nچو داغ لاله ام دل سوته دیری\r\nیکی فکر دل بی حاصلم کن\r\nکه چندین حاصل اندوته دیری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو که رخ لاله‌سان افروته دیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو داغ لاله‌ام دل سوته دیری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی فکر دل بی‌حاصلم کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چندین حاصل اندوته دیری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Dobeyti",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو که رخ لاله‌سان افروته دیری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو داغ لاله‌ام دل سوته دیری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکی فکر دل بی‌حاصلم کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چندین حاصل اندوته دیری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

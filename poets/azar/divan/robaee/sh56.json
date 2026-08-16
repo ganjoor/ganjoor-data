@@ -1,0 +1,58 @@
+{
+  "Id": 118977,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/azar/divan/robaee/sh56",
+  "RhymeLetters": "بخیزد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان درد و غم ناشی از دوری و فقدان یار می‌پردازد. شاعر از خواب سیاه و شب‌بیداری ناشی از اندوه صحبت می‌کند و پیوند عمیق عاطفی بین خود و محبوبش را نشان می‌دهد. در آخر، اشاره به این دارد که هر کسی که صدای ناله و دعاهای او را بشنود، خود نیز متاثر شده و به یاد یار خود به دعا و نیایش می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بخیزد",
+      "PlainText": "از خواب سیه روز تو چون شب خیزد\r\nچون شب ز غمت یار بش از لب خیزد\r\nگوید یا رب یا رب او هر که شنید\r\nاز یک یار ب هزار یا رب خیزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خواب سیه روز تو، چون شب خیزد؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شب، ز غمت یار بش از لب خیزد!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوید: یا رب، یا رب او هر که شنید؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز یک یار ب، هزار یا رب خیزد!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خواب سیه روز تو، چون شب خیزد؛",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شب، ز غمت یار بش از لب خیزد!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گوید: یا رب، یا رب او هر که شنید؛",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از یک یار ب، هزار یا رب خیزد!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

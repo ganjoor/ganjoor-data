@@ -1,0 +1,58 @@
+{
+  "Id": 98983,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۱۵",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh15",
+  "RhymeLetters": "ست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر بیان می‌کند که حالتی بین هشیاری و مستی دارد. او از سرگشتگی و محدودیت خود شکایت می‌کند و از خدا درخواست می‌کند تا آنچه که نیاز دارد ولی ندارند، به او عطا کند و آنچه که نمی‌خواهد و هست را از او بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "شوریده دلانیم نه هشیار و نه مست\r\nسرگشته و پای بسته و باد به دست\r\nیا رب تو بده آنچ همی باید و نیست\r\nیا رب تو ببر آنچ نمی باید و هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوریده دلانیم نه هشیار و نه مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگشته و پای بسته و باد به دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب تو بده آنچ همی باید و نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا رب تو ببر آنچ نمی باید و هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوریده دلانیم نه هشیار و نه مست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرگشته و پای بسته و باد به دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا رب تو بده آنچ همی باید و نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا رب تو ببر آنچ نمی باید و هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

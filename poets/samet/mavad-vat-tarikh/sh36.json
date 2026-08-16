@@ -1,0 +1,77 @@
+{
+  "Id": 125571,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۳۶",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۳۶",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh36",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساسات شاعر نسبت به غزه و ایمان به لشکر اسلام است. او نه به خاطر اطاعت از غزه و نه به خاطر ننگ و نامش، بلکه به دنبال حقیقت و امیدواری است. احساس او نسبت به دین و اسلام قوی و پایدار است.",
+  "Sections": [
+    {
+      "Index": 50,
+      "Number": 50,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "امم",
+      "PlainText": "نه غزه به طاعت و نه ننگ و نامم\r\nخالی بود از می حقیقت جامم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه غزه به طاعت و نه ننگ و نامم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی بود از می حقیقت جامم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 51,
+      "Number": 51,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "اسباب امیدواری من این است\r\nکامروز سواد لشگر اسلامم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسباب امیدواری من این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامروز سواد لشگر اسلامم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 107,
+      "Number": 107,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امم",
+      "PlainText": "نه غزه به طاعت و نه ننگ و نامم\r\nخالی بود از می حقیقت جامم\r\nاسباب امیدواری من این است\r\nکامروز سواد لشگر اسلامم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه غزه به طاعت و نه ننگ و نامم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی بود از می حقیقت جامم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسباب امیدواری من این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامروز سواد لشگر اسلامم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه غزه به طاعت و نه ننگ و نامم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 107,
+      "SectionIndex2": 50
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خالی بود از می حقیقت جامم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 107,
+      "SectionIndex2": 50
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اسباب امیدواری من این است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 107,
+      "SectionIndex2": 51
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کامروز سواد لشگر اسلامم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 107,
+      "SectionIndex2": 51
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 123677,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/naziri/divan/robaee/sh111",
+  "RhymeLetters": "امیایم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از حس تنهایی و غمگینی خود سخن می‌گوید. او احساس می‌کند که از خود دور شده و به یک سرزمین بیگانه آمده است. آرزو می‌کند که در لحظه‌ی رفتنش نمی‌دانست به کجا می‌رود تا از گذشته و جایی که از آن آمده، آگاهی داشته باشد. این کلمات بیانگر دلتنگی و افسردگی شاعر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیایم",
+      "PlainText": "پر می بینم که بینوا می آیم\r\nبیگانه ز خویش و آشنا می آیم\r\nای کاش چو رفتنم ندانم به کجاست\r\nمی دانستم که از کجا می آیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپر می بینم که بینوا می آیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیگانه ز خویش و آشنا می آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کاش چو رفتنم ندانم به کجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی دانستم که از کجا می آیم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پر می بینم که بینوا می آیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیگانه ز خویش و آشنا می آیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای کاش چو رفتنم ندانم به کجاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می دانستم که از کجا می آیم؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

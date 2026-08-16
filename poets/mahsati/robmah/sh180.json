@@ -1,0 +1,58 @@
+{
+  "Id": 50240,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۸۰",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۸۰",
+  "FullUrl": "/mahsati/robmah/sh180",
+  "RhymeLetters": "نگتنی",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی و دلربایی معشوق می‌پردازد. شاعر با استفاده از تشبیهات زیبا، از تنگی دهان گل و رنگ رخساره معشوق سخن می‌گوید و به این نکته اشاره دارد که دل او به خاطر زلف معشوق پاره‌پاره شده است، ولی همچنان از عشق او شرمنده نیست. به طور کلی، احساسات عمیق عشق و زیبایی در این اشعار به خوبی منتقل شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگتنی",
+      "PlainText": "ای تنگ شکر چون دهن تنگت نی\r\nرخساره گل چون رخ گلرنگت نی\r\nاز تیر مژه این دل صد پاره من\r\nمیدوز و ز پاره دوختن ننگت نی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تُنگ شکر چون دهن تنگت نی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخسارهٔ گل چون رخ گلرنگت نی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تیر مژه این دل صد پارهٔ من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیدوز و ز پاره دوختن ننگت نی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تُنگ شکر چون دهن تنگت نی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رخسارهٔ گل چون رخ گلرنگت نی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از تیر مژه این دل صد پارهٔ من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میدوز و ز پاره دوختن ننگت نی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

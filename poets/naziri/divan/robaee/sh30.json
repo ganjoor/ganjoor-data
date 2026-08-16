@@ -1,0 +1,58 @@
+{
+  "Id": 123596,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/naziri/divan/robaee/sh30",
+  "RhymeLetters": "مناست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره بلبل خوش نوا و زیبایی‌اش و همچنین سرو سرافراز صحبت می‌کند. بلبل نماد هنر و آواز است و سرو نمایانگر زیبایی و شکوه. شاعر به بلبل می‌گوید که آوازش شهرتی بزرگ دارد و این افتخار ناشی از زیبایی و بزرگی اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مناست",
+      "PlainText": "یک بلبل خوش نوا و صد انجمن است\r\nیک سرو سرافراز و هزاران چمن است\r\nخوش گویی من بلند آوازه به اوست\r\nزان نوع که سرفرازی او ز من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک بلبل خوش نوا و صد انجمن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک سرو سرافراز و هزاران چمن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش گویی من بلند آوازه به اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان نوع که سرفرازی او ز من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک بلبل خوش نوا و صد انجمن است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک سرو سرافراز و هزاران چمن است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوش گویی من بلند آوازه به اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان نوع که سرفرازی او ز من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

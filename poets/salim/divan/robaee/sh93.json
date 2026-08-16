@@ -1,0 +1,58 @@
+{
+  "Id": 101884,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۹۳",
+  "FullUrl": "/salim/divan/robaee/sh93",
+  "RhymeLetters": "نی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به دشمنان اهل علم و هنر اشاره می‌کند و می‌گوید که بدگویی و انتقاد از هنر دیگران، مثل شکستن گوهر است. او همچنین می‌پرسد چگونه می‌توان در وجود کسی که از خودپرستی پر است، انصاف و عدالت وجود داشته باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نی",
+      "PlainText": "ای دشمن اهل سخن از بی سخنی\r\nدر عیب هنر کار تو گوهرشکنی\r\nانصاف چگونه در تو گنجد که پر است\r\nبیرون تو از کبر و درونت ز منی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دشمن اهل سخن از بی سخنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عیب هنر، کار تو گوهرشکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانصاف چگونه در تو گنجد، که پر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون تو از کبر و درونت ز منی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دشمن اهل سخن از بی سخنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عیب هنر، کار تو گوهرشکنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انصاف چگونه در تو گنجد، که پر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیرون تو از کبر و درونت ز منی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

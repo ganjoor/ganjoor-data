@@ -1,0 +1,58 @@
+{
+  "Id": 50117,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۵۷",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۵۷",
+  "FullUrl": "/mahsati/robmah/sh57",
+  "RhymeLetters": "ورد",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: شعر به وصف گذر زمان و تغییرات آن می‌پردازد. در آن اشاره می‌شود که روزها با شادی و زیبایی همراهند، اما فردا ممکن است غم و ناراحتی به همراه داشته باشد. بدین ترتیب، زندگی پر از نوسانات و دو حالتی‌های شاد و غمگین است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورد",
+      "PlainText": "بگذشت پریر باد بر لاله و ورد\r\nدی خاک چمن سنبل تر بار آورد\r\nامروز خور آب شادمانی زیراک\r\nفردات همی آتش غم باید خورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذشت پریر باد بر لاله و ورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدی خاک چمن سنبل تر بار آورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز خور آب شادمانی زیراک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردات همی آتشِ غم باید خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگذشت پریر باد بر لاله و ورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دی خاک چمن سنبل تر بار آورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز خور آب شادمانی زیراک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فردات همی آتشِ غم باید خورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

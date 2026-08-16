@@ -1,0 +1,58 @@
+{
+  "Id": 99480,
+  "CatId": 2523,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "خیالی بخارایی » دیوان اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/khiali/divan/robaee/sh4",
+  "RhymeLetters": "انیازمن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر رابطه عمیق و پرتنش میان عشق و فداکاری هستند. شاعر از یک سو به اشاره به احساسات و دردهای ناشی از عشق می‌پردازد و از سوی دیگر، عشق طرف مقابل را به تیغ تند تشبیه می‌کند. در نهایت، شاعر با تاکید بر فداکاری خود، نشان می‌دهد که اگر محبوب جان او را بگیرد، او همچنان آماده است تا جان خود را به خاطر عشق فدای او کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیازمن",
+      "PlainText": "تیغ از تو و لبیک نهانی از من\r\nزخم از تو و سودای جوانی از من\r\nگر دل دهدت که جان ستانی از من\r\nازتو سر تیغ و جان فشانی از من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیغ از تو و لبیک نهانی از من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزخم از تو و سودای جوانی از من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دل دهدت که جان ستانی از من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازتو سر تیغ و جان فشانی از من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تیغ از تو و لبیک نهانی از من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زخم از تو و سودای جوانی از من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دل دهدت که جان ستانی از من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ازتو سر تیغ و جان فشانی از من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

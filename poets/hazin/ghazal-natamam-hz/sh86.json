@@ -1,0 +1,58 @@
+{
+  "Id": 83247,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۸۶",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh86",
+  "RhymeLetters": "انها",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و قدرت جاذبه دیدگان یک فرد اشاره دارد. شاعر به وصف تأثیر عمیق نگاه‌ها می‌پردازد که بر مانند جادو اثر می‌گذارد و خیال‌ها را تحت‌تأثیر قرار می‌دهد. همچنین، به جولان و گردش چشم‌ها و تأثیر آن بر موجودات دیگر مانند غزال‌ها اشاره می‌کند و در نهایت به اشاره‌ای دارد از خستگی پرندگان که به خاطر پرواز در آسمان آن بام، بال و پرشان فرسوده شده است.",
+  "Metre": {
+    "Id": 11,
+    "Rhythm": "مفعول مفاعیلن مفعول مفاعیلن (هزج مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الها",
+      "PlainText": "ای امت نگاه تو جادو خیال ها\r\nصحرانورد گردش چشمت غزال ها\r\nافشانده اند بال و پر از بس که می زنند\r\nپر در هوای بام تو فرسوده بال ها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای امّت نگاه تو، جادو خیال‌ها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصحرانورد گردش چشمت، غزال‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافشانده‌اند بال و پر، از بس که می‌زنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر در هوای بام تو فرسوده‌بال‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای امّت نگاه تو، جادو خیال‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صحرانورد گردش چشمت، غزال‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افشانده‌اند بال و پر، از بس که می‌زنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پر در هوای بام تو فرسوده‌بال‌ها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

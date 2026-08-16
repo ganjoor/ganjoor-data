@@ -1,0 +1,58 @@
+{
+  "Id": 51765,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/bahar/robaeebk/sh42",
+  "RhymeLetters": "ل",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از مرگ (میر اجل) درخواست مهلتی می‌کند تا بتواند مشکلات پیچیده زندگی را حل کند. او اشاره می‌کند که فرقی نمی‌کند اگر با اعمال نیک یا بد از ری (شهر) رفته باشد، بلکه مهم این است که باید به دنبال کارهای خوب و رفتار درست باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ل",
+      "PlainText": "ای میر اجل گر دهدم مهل اجل\r\nخواهم کرد این مشکل لاینحل حل\r\nگر خوش عمل  ار بدعمل از ری رفتم\r\nای مهتر ری حی علی خیر عمل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای میر اجل گر دهدم مهل اجل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهم کرد این‌مشکل لاینحل حل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خوش‌عمل‌،‌ار بدعمل از ری رفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای مهتر ری حی علی خیر عمل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای میر اجل گر دهدم مهل اجل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواهم کرد این‌مشکل لاینحل حل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر خوش‌عمل‌،‌ار بدعمل از ری رفتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای مهتر ری حی علی خیر عمل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

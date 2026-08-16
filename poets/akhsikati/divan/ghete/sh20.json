@@ -1,0 +1,58 @@
+{
+  "Id": 116073,
+  "CatId": 2690,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "اثیر اخسیکتی » دیوان اشعار » قطعات » شمارهٔ ۲۰",
+  "FullUrl": "/akhsikati/divan/ghete/sh20",
+  "RhymeLetters": "منماند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نبود وفا و صداقت در جامعه اشاره می‌کند و احساس می‌کند که در این دنیا هیچ کس خوشحال نیست. او از غم و اندوه خود می‌گوید و بیان می‌کند که دیگران نیز از او غمگین‌تر هستند. در نهایت، به این نتیجه می‌رسد که شادی و خوشی در این جهان به طور کلی نایاب است.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منماند",
+      "PlainText": "نیست آیین وفا در شهر ما\r\nمن بر آنم خود که در عالم نماند\r\nغمگسار از من بسی غمگین تر است\r\nدر جهان گویی دلی خرم نماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست آئین وفا در شهر ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بر آنم خود که در عالم نماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمگسار از من بسی غمگین تر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جهان گوئی دلی خرم نماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست آئین وفا در شهر ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من بر آنم خود که در عالم نماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غمگسار از من بسی غمگین تر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جهان گوئی دلی خرم نماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

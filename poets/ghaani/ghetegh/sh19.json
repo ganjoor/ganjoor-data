@@ -1,0 +1,58 @@
+{
+  "Id": 45659,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۹",
+  "FullUrl": "/ghaani/ghetegh/sh19",
+  "RhymeLetters": "رست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن اشاره به اسیری انسان در دام شهوت دارد. نویسنده به تصویر یک زن می‌پردازد که تحت تأثیر شهوت قرار گرفته و در این حالت، برایش زیبایی‌ها و ارزش‌ها متفاوت می‌شوند. او با مقایسه خر و طاووس، نشان می‌دهد که وقتی چشم آدمی به شهوت مبتلا باشد، حتی چیزهای ناپسند نیز حسین‌تر از زیبایی‌های بهشتی به نظر می‌آیند. به طور کلی، این ابیات به خطرات و وسوسه‌های شهوت و تأثیرات آن بر دیدگاه انسان پرداخته است.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رست",
+      "PlainText": "چو زنی در دام شهوت شد اسیر\r\nخر به چشمش به ز طاوس  نرست\r\nهمچنان در چشم شهوت مرد را\r\nدیو با حور بهشتی همبرست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو زنی در دام شهوت شد اسیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخر به چشمش به ز طاوس‌ نرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچنان در چشم شهوت مرد را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیو با حور بهشتی همبرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو زنی در دام شهوت شد اسیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خر به چشمش به ز طاوس‌ نرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچنان در چشم شهوت مرد را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیو با حور بهشتی همبرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 104912,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۶",
+  "FullUrl": "/ahli/divan/robaee/sh106",
+  "RhymeLetters": "یست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بی‌وفایی و ناامیدی از دنیا اشاره دارد. شاعر می‌گوید که در این جهان هیچ‌کس به آنچه که می‌خواهد نمی‌رسد و چشمی که به ظلم و بدی‌های این عالم نگاه کند، همچون چشمه‌ای از غم و اندوه به خود می‌گرید. در کل، سخن از ناامیدی و سختی‌های زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یست",
+      "PlainText": "این عالم بی وفا ندانیم که چیست\r\nکز وی دل کس چنانکه میخواست نزیست\r\nچشمی که به بدمهری عالم نگریست\r\nچون چشمه بهایهای بر خود بگریست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین عالم بی وفا ندانیم که چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز وی دل کس چنانکه میخواست نزیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمی که به بدمهری عالم نگریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون چشمه بهایهای بر خود بگریست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این عالم بی وفا ندانیم که چیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز وی دل کس چنانکه میخواست نزیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشمی که به بدمهری عالم نگریست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون چشمه بهایهای بر خود بگریست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

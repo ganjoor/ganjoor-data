@@ -1,0 +1,58 @@
+{
+  "Id": 74656,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۱۱۵",
+  "FullUrl": "/ghodsi/robghm/sh115",
+  "RhymeLetters": "التوبهاست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و عشق اشاره دارد. شاعر می‌گوید که در هر دو جهان، وصال و نزدیکی معشوق بهترین چیز است و هر تصویری که در ذهن دارد، تنها خیال معشوق است. او بر این باور است که هر چه خوبی در دنیا وجود دارد، از زیبایی معشوق او بالاتر است و در نهایت، زیبایی واقعی فقط در جمال معشوق نهفته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "التوبهاست",
+      "PlainText": "از هر دو جهان مرا وصال تو به است\r\nوز هرچه گمان برم خیال تو به است\r\nهر خوب که یابند از آن خوب تری\r\nحاصل که ز هر بهی جمال تو به است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هر دو جهان مرا وصال تو به است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز هرچه گمان برم خیال تو به است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر خوب که یابند، از آن خوب‌تری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاصل که ز هر بهی جمال تو به است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از هر دو جهان مرا وصال تو به است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز هرچه گمان برم خیال تو به است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر خوب که یابند، از آن خوب‌تری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حاصل که ز هر بهی جمال تو به است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

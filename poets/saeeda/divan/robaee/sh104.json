@@ -1,0 +1,58 @@
+{
+  "Id": 108004,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۰۴",
+  "FullUrl": "/saeeda/divan/robaee/sh104",
+  "RhymeLetters": "م",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در جهان دو جنبه وجود دارد: یکی شادی و دیگری غم. در یک طرف زخم‌ها و مشکلات جمع شده‌اند و در طرف دیگر مرهم‌ها و تسکین‌دهنده‌ها قرار دارند. در تجربه‌ام از عدالت، شیطان و آدم نیز هر کدام در یک سمت قرار دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "یک سو شادی است در جهان یک سو غم\r\nیک سو زخم است جمع و یک سو مرهم\r\nدر پله میزان عدالت دیدم\r\nشیطان یک سو نشسته یک سو آدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک سو شادی است در جهان یک سو غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک سو زخم است جمع و یک سو مرهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پلهٔ میزان عدالت دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیطان یک سو نشسته یک سو آدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک سو شادی است در جهان یک سو غم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک سو زخم است جمع و یک سو مرهم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در پلهٔ میزان عدالت دیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیطان یک سو نشسته یک سو آدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50089,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۲۹",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۲۹",
+  "FullUrl": "/mahsati/robmah/sh29",
+  "RhymeLetters": "وریهست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق و درد دل در رابطه با دوستی و وداع می‌پردازد. شاعر اشاره می‌کند که غم و رنج در دوستی وجود دارد و هنگامی که وقت جدایی فرا می‌رسد، پرسش‌هایی درباره آخرین دیدار و لحظات همراهی با دوست مطرح می‌شود. احساسات شدید و درونی در مواجهه با دوری و جدایی از دوست، مشخصه‌ی اصلی این اشعار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وریهست",
+      "PlainText": "چندان که نخواهی غم و رنجوری هست\r\nدر دوستیت آفت مهجوری هست\r\nهنگام وداع ست چه می فرمایی\r\nیک ساعته دیدار تو دستوری هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان که نخواهی غم و رنجوری هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دوستیت آفت مهجوری هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهنگام وداع‌ست چه می‌فرمائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ساعته دیدار تو دستوری هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چندان که نخواهی غم و رنجوری هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دوستیت آفت مهجوری هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنگام وداع‌ست چه می‌فرمائی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک ساعته دیدار تو دستوری هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

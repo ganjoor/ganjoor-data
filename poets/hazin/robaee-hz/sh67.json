@@ -1,0 +1,58 @@
+{
+  "Id": 82955,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/hazin/robaee-hz/sh67",
+  "RhymeLetters": "اکمریخت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از احوال دل غمگین خود می‌گوید. او احساساتش را با تصاویری زیبا بیان می‌کند: موسیقی (طرب) دلش را شاد کرده، در حالی که زخم‌هایش همچنان باقی است. اشک‌هایش مانند شبنم در گوشه چشمش، و ابرهای آسمان نیز باران می‌ریزند که به خاکش خواهد ریخت. در کل، این ابیات، ترکیبی از شادی و درد را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکمریخت",
+      "PlainText": "دیشب طربی بر دل غمناکم ریخت\r\nهر بخیه که داشت سینه چاکم ریخت\r\nشبنم به کنار چشم نمناکم ریخت\r\nابری دو سه قطره اشک بر خاکم ریخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیشب طربی بر دل غمناکم ریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر بخیه که داشت، سینهٔ چاکم ریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبنم به کنار چشم نمناکم ریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابری دو سه قطره اشک بر خاکم ریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیشب طربی بر دل غمناکم ریخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر بخیه که داشت، سینهٔ چاکم ریخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبنم به کنار چشم نمناکم ریخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ابری دو سه قطره اشک بر خاکم ریخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

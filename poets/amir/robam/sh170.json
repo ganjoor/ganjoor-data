@@ -1,0 +1,58 @@
+{
+  "Id": 70213,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۷۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۷۰",
+  "FullUrl": "/amir/robam/sh170",
+  "RhymeLetters": "ونی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، خورشید و ماه آرزو می‌کنند که ای کاش از موادی ارزشمند ساخته می‌شدند. خورشید آرزو می‌کند که از طلا باشد تا در جام شراب شاه خوش بدرخشد، و ماه تمنا می‌کند که از آهن باشد تا به عنوان نعل اسب شاه مورد استفاده قرار گیرد. این ابیات نمایان‌گر آرزوها و حسادت‌های طبیعت نسبت به مقام و وزانت انسان‌ها هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمی",
+      "PlainText": "خور گوید کاشکی که زرین تنمی\r\nتا جام شراب شاه شیر اوژنمی\r\nمه  گوید کاشکی من از آهنمی\r\nتا نعل ستور شاه گیتی  منمی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخور گوید کاشکی که زرین تنمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا جام شراب شاه شیر اوژنمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمه‌ گوید کاشکی من از آهنمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نعل ستور شاه‌گیتی‌، منمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خور گوید کاشکی که زرین تنمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا جام شراب شاه شیر اوژنمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مه‌ گوید کاشکی من از آهنمی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا نعل ستور شاه‌گیتی‌، منمی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

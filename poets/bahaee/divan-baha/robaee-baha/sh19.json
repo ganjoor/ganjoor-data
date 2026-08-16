@@ -1,0 +1,58 @@
+{
+  "Id": 22683,
+  "CatId": 330,
+  "Title": "رباعی شمارهٔ ۱۹",
+  "FullTitle": "شیخ بهایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۹",
+  "FullUrl": "/bahaee/divan-baha/robaee-baha/sh19",
+  "RhymeLetters": "وست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به این معنی است که فردی که درباره کسی بد صحبت می‌کند، خود دارای شخصیت بدی است و کسی که خوبی را بیان می‌کند، خود نیکوست. همچنین نشان می‌دهد که ویژگی‌های یک شخص از سخنانش مشخص می‌شود؛ مانند اینکه از یک کوزه، همان چیزی خارج می‌شود که در آن وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "آن کس که بدم گفت بدی سیرت اوست\r\nوان کس که مرا گفت نکو خود نیکوست\r\nحال متکلم از کلامش پیداست\r\nاز کوزه همان برون تراود که در اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که بدم گفت، بدی سیرت اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان کس که مرا گفت نکو خود نیکوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحال متکلم از کلامش پیداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کوزه همان برون تراود که در اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که بدم گفت، بدی سیرت اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان کس که مرا گفت نکو خود نیکوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حال متکلم از کلامش پیداست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از کوزه همان برون تراود که در اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

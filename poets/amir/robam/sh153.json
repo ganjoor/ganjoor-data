@@ -1,0 +1,58 @@
+{
+  "Id": 70196,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۵۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۵۳",
+  "FullUrl": "/amir/robam/sh153",
+  "RhymeLetters": "اه",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ستودن ویژگی‌های شاه می‌پردازد و او را به عنوان کسی معرفی می‌کند که مانند آسمان کمان دارد و ستاره‌ها همچون تیرهایی از او می‌رانند. شاعر به عظمت و قدرت شاه اشاره می‌کند و می‌گوید که او با دست خود به آسمان دست می‌زند، که نشان‌دهنده جایگاه رفیع او در جهان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انداریتو",
+      "PlainText": "ای شاه چو آسمان کمان داری تو\r\nوز تیر ستاره روان داری تو\r\nنشکفت که شاهی و جهان داری تو\r\nتا دست زده در آسمان داری تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه چو آسمان کمان داری تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تیر ستارهٔ روان داری تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشکفت که شاهی و جهان داری تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دست زده در آسمان داری تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه چو آسمان کمان داری تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز تیر ستارهٔ روان داری تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشکفت که شاهی و جهان داری تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا دست زده در آسمان داری تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 99009,
+  "CatId": 2514,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » رباعیات الحاقی » شمارهٔ ۴۱",
+  "FullUrl": "/ouhad/robaee/elhaghi/sh41",
+  "RhymeLetters": "ستشنبود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به عشق و ناتوانی در احساسات اشاره می‌کند. عاشق چه باید بکند وقتی که دلش در دست کسی نیست؟ و فرد بی‌مال چه می‌تواند ببخشد وقتی که چیزی برای بخشیدن ندارد؟ همچنین شاعر از حسن، محبوب و زیبایی صحبت می‌کند و می‌گوید که ارزش تو از بازار عشق بیشتر است؛ چرا که وقتی کسی به زیبایی تو اعتنا نکند، کجا باید برای تو محل و جایگاهی باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستشنبود",
+      "PlainText": "عاشق چه کند چو دل به دستش نبود\r\nمفلس چه سخا کند چو هستش نبود\r\nای حسن تو را شرف زبازار من است\r\nبت را چه محل چو بت پرستش نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشق چه کند چو دل به دستش نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمفلس چه سخا کند چو هستش نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای حسن تو را شرف زبازار من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبت را چه محل چو بت پرستش نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاشق چه کند چو دل به دستش نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مفلس چه سخا کند چو هستش نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای حسن تو را شرف زبازار من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بت را چه محل چو بت پرستش نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

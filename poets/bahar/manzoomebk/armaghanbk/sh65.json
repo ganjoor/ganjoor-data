@@ -1,0 +1,63 @@
+{
+  "Id": 52059,
+  "CatId": 1849,
+  "Title": "فقرۀ ۷۰",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۷۰",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh65",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شعر به این موضوع اشاره دارد که نباید نسبت به دیگران و کارها بی‌احترامی کرد و از حد خود فراتر رفت. به جای گستاخی و بی‌ادبی، باید در رفتار و برخورد با دیگران اعتدال را رعایت کرد و نه زیاده‌روی کرد و نه کم‌توجهی.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ش",
+      "PlainText": "به هر کار گستاخ نتوان بدن\r\nبه هرچیز و هرکس  نشاید زدن\r\nمیانه به هر چیز و هرکار باش\r\nنه گستاخ باش و نه  بستار باش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر کار گستاخ نتوان بدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هرچیز و هرکس‌ نشاید زدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیانه به هر چیز و هرکار باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه گستاخ باش و نه‌ بستار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "به هرکس و هر چیز وستار (سست) و گستاخ مباش.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "به هر کار گستاخ نتوان بدن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "به هرچیز و هرکس‌ نشاید زدن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "میانه به هر چیز و هرکار باش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "نه گستاخ باش و نه‌ بستار باش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

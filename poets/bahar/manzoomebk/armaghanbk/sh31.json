@@ -1,0 +1,49 @@
+{
+  "Id": 52025,
+  "CatId": 1849,
+  "Title": "فقرۀ ۳۳‌",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۳۳‌",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh31",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: از دشمنی و کینه‌توزی پادشاهان دوری کن و از مال و اموال آن‌ها فاصله بگیر. بهتر است که به افراد کینه‌جو نزدیک نشوی و آن‌ها را نشناسی.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "ز دارای کین توز دوری گزین\r\nهمان به که نشناسدت مرد کین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دارای کین‌توز دوری گزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمان به که نشناسدت مرد کین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "از کینه‌ور مرد پادشاه (‌صاحب‌نفوذ) دور باش‌.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "ز دارای کین‌توز دوری گزین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "همان به که نشناسدت مرد کین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

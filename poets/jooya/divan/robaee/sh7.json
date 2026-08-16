@@ -1,0 +1,58 @@
+{
+  "Id": 103061,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/jooya/divan/robaee/sh7",
+  "RhymeLetters": "اهیرا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این اشعار به طلب و عشق الهی اشاره دارد. ابتدا بیان می‌کند که خداوند خواهان طلب الهی است و نعمت آگاهی بی‌پایان است. سپس نشان می‌دهد که آیا درد ناشی از طلب و عشق به وصل الهی می‌تواند به واسطه نوشیدن شربت وصل کاهش یابد؟ در نهایت به این نکته اشاره می‌کند که مانند ماهی که در دریا همیشه تشنه است، انسان نیز همواره به دنبال وصال الهی و رفع تشنگی روحی خود است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیرا",
+      "PlainText": "الله طلبیست کار اللهی را\r\nسیری نبود نعمت آگاهی را\r\nکی درد طلب کم شود از شربت وصل\r\nدریا نبرد تشنگی ماهی را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالله طلبیست کار اللهی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیری نبود نعمت آگاهی را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی درد طلب کم شود از شربت وصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریا نبرد تشنگی ماهی را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "الله طلبیست کار اللهی را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیری نبود نعمت آگاهی را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی درد طلب کم شود از شربت وصل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریا نبرد تشنگی ماهی را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

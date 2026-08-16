@@ -1,0 +1,58 @@
+{
+  "Id": 112338,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/sahab/divan/robaee/sh14",
+  "RhymeLetters": "اخت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به عشق و تاثیر آن بر دل و جان اشاره می‌کند. دل را به باغی تشبیه می‌کند که عشق آن را شکل داده و جان را به شمعی می‌ماند که از شوق و میل به عشق می‌سوزد. همچنین بیان می‌کند که هر کسی که خود را نشناسد، توانایی درک و شناخت عشق را نیز نخواهد داشت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اخت",
+      "PlainText": "دل را دانم چو باغم عشقش ساخت\r\nجان نیز چو شمع زاشتیاقش بگداخت\r\nاز خود خبرم نباشد آری هر کس\r\nکورا نشناخت خویشتن را نشناخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل را دانم چو باغم عشقش ساخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان نیز چو شمع زاشتیاقش بگداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خود خبرم نباشد آری هر کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکورا نشناخت خویشتن را نشناخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل را دانم چو باغم عشقش ساخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان نیز چو شمع زاشتیاقش بگداخت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خود خبرم نباشد آری هر کس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کورا نشناخت خویشتن را نشناخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

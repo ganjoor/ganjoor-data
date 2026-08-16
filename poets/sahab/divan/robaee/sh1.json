@@ -1,0 +1,58 @@
+{
+  "Id": 112325,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/sahab/divan/robaee/sh1",
+  "RhymeLetters": "استتورا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به اوج ناامیدی و درد در فقدان محبوب اشاره می‌کند. او از احساسات خود می‌گوید و بیان می‌کند که حتی اگر بخواهد، نمی‌تواند خود را از این عشق رها کند. این درد و رنج برای او طبیعی و بی‌بدیل است و در واقع وجود محبوب به عنوان منبع درد، برایش قابل تحمل است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استتورا",
+      "PlainText": "ای آن که اساس جور بر پاست تو را\r\nدر دل همه میل کشتن ماست تو را\r\nگر خون دل از دیده چکد بی تو سزاست\r\nتا ابهر چه دیده دیده دل خواست تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آن که اساس جور بر پاست تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دل همه میل کشتن ماست تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خون دل از دیده چکد بی تو سزاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ابهر چه دیده دیده دل خواست تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که اساس جور بر پاست تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دل همه میل کشتن ماست تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر خون دل از دیده چکد بی تو سزاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا ابهر چه دیده دیده دل خواست تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 74919,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۳۷۸",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۳۷۸",
+  "FullUrl": "/ghodsi/robghm/sh378",
+  "RhymeLetters": "ار",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: شاعر به اهمیت وجود انسان اشاره می‌کند که همه چیز به دور او می‌چرخد. هر سال نوید تازه‌ای از زیبایی‌ها می‌آورد، اما این زیبایی‌ها همیشه ماندگار نیستند و نباید فراموش کرد که گلی که از باغ رفته، دیگر برنمی‌گردد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "انسان که طفیل او فلک راست مدار\r\nباقی بودش سلسله تا روز شمار\r\nگل هر سر سال عالم آرا گردد\r\nاما نه گلی که رفته از گلشن پار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانسان که طفیل او فلک راست مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباقی بودش سلسله تا روز شمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل هر سر سال، عالم‌آرا گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما نه گلی که رفته از گلشن، پار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انسان که طفیل او فلک راست مدار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باقی بودش سلسله تا روز شمار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل هر سر سال، عالم‌آرا گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اما نه گلی که رفته از گلشن، پار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

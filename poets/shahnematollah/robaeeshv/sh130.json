@@ -1,0 +1,58 @@
+{
+  "Id": 47900,
+  "CatId": 1728,
+  "Title": "رباعی شمارهٔ ۱۳۰",
+  "FullTitle": "شاه نعمت‌الله ولی » رباعیات » رباعی شمارهٔ ۱۳۰",
+  "FullUrl": "/shahnematollah/robaeeshv/sh130",
+  "RhymeLetters": "ازاید",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر به روزی اشاره شده است که زمان وصال فرا می‌رسد و پرنده‌ای از قفس آزاد می‌شود. اگر پادشاه به صدای عمری توجه کند، این پرنده با پرواز خود به نزد او برمی‌گردد. در واقع، شاعر به ارتباط عمیق میان عاشق و معشوق و همچنین تأثیر اراده پادشاه بر تحقق وصال اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازاید",
+      "PlainText": "آن روز که کار وصل را ساز آید\r\nوین مرغ ازین قفس به پرواز آید\r\nاز شه چو صفیر ارجعی گوش کند\r\nپرواز کند به دست شه باز آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روز که کار وصل را ساز آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین مرغ ازین قفس به پرواز آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شه چو صفیر ارجعی گوش کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرواز کند به دست شه باز آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن روز که کار وصل را ساز آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین مرغ ازین قفس به پرواز آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از شه چو صفیر ارجعی گوش کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پرواز کند به دست شه باز آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

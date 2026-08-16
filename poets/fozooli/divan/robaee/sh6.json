@@ -1,0 +1,58 @@
+{
+  "Id": 117170,
+  "CatId": 2706,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "فضولی » دیوان اشعار فارسی » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/fozooli/divan/robaee/sh6",
+  "RhymeLetters": "اییما",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به زلف معشوق اشاره می‌کند که عامل رسوایی اوست و عشق به معشوق را بهار و زمان شیدایی خود می‌داند. همچنین، زیبایی چهره معشوق را به شمعی تشبیه می‌کند که با نور خود بینایی و روشنایی زندگی او را تأمین می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییما",
+      "PlainText": "ای زلف تو سرمایه رسوایی ما\r\nعشق تو بهار گل شیدایی ما\r\nرخسار تو شمعیست که می افروزد\r\nاز پرتو او چراغ بینایی ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زلف تو سرمایه رسوایی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق تو بهار گل شیدایی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخسار تو شمعیست که می افروزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پرتو او چراغ بینائی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زلف تو سرمایه رسوایی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشق تو بهار گل شیدایی ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رخسار تو شمعیست که می افروزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از پرتو او چراغ بینائی ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

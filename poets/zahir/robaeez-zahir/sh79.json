@@ -1,0 +1,58 @@
+{
+  "Id": 73671,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۷۹",
+  "FullUrl": "/zahir/robaeez-zahir/sh79",
+  "RhymeLetters": "رارمبااو",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشقی عمیق و دردناک است. شاعر از یک سو به احساسات عمیق خود اشاره می‌کند که نمی‌تواند با معشوقش به راحتی ارتباط برقرار کند و از سوی دیگر انتظار دارد که روزی به آرامش برسد. او به نوعی حس همدردی و تنهایی خود را بیان می‌کند، زیرا می‌بیند کسی مانند او در غم و اندوه عاشق است. در کل، شعر احساسات عاشقانه و عذاب را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رارمبااو",
+      "PlainText": "کو دیده که خون جگر آرم با او\r\nیا صبر که روزی به سر آرم با او\r\nکو شیفته ای و تیره روزی چون من\r\nتا در غم او دمی بر آرم با او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو دیده که خون جگر آرم با او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا صبر که روزی به سر آرم با او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو شیفته ای و تیره روزی چون من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا در غم او دمی بر آرم با او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کو دیده که خون جگر آرم با او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا صبر که روزی به سر آرم با او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو شیفته ای و تیره روزی چون من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا در غم او دمی بر آرم با او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

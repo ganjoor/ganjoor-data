@@ -1,0 +1,58 @@
+{
+  "Id": 1125,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۷",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۷",
+  "FullUrl": "/khayyam/robaee/sh7",
+  "RhymeLetters": "رامگرفت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این اشعار به تباهی و زوال قدرت اشاره دارد. قصر جمشید که نماد عظمت و شکوه است، حالا به جایی برای آهو و روباه تبدیل شده است. همچنین، سرنوشت بهرام را به تصویر می‌کشد که تمامی عمرش به دنبال شکار گور(گورخر) بوده، اما در نهایت خود او گرفتار گور(مرداب) می‌شود(هنگام شکار در باتلاق می‌افتد و ناپدید می‌شود). اینها نشان‌دهنده ناپایداری و فراز و نشیب‌های زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رامگرفت",
+      "PlainText": "آن قصر که جمشید در او جام گرفت\r\nآهو بچه کرد و روبه آرام گرفت\r\nبهرام که گور می گرفتی همه عمر\r\nدیدی که چگونه گور بهرام گرفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن قصر که جمشید در او جام گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهو بچه کرد و روبَه آرام گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهرام که گور می‌گرفتی همه عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدی که چگونه گور بهرام گرفت؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن قصر که جمشید در او جام گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آهو بچه کرد و روبَه آرام گرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهرام که گور می‌گرفتی همه عمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیدی که چگونه گور بهرام گرفت؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

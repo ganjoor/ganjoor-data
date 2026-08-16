@@ -1,0 +1,58 @@
+{
+  "Id": 69427,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۶۶",
+  "FullUrl": "/azraghi/arob/sh66",
+  "RhymeLetters": "یش",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعری از زیبایی و تلالو زلف یار صحبت می‌کند که جانش را به درد آورده است. او می‌گوید که دلش به خاطر لب‌های لعل و زیبای محبوبش شاداب و خوشحال است. همچنین، اشاره می‌کند که تا زمانی که یار لب‌هایش را تاریک نکرده، زیبایی او مانند یاقوت ارزشمند و با بهاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یش",
+      "PlainText": "جان ز خم سر زلف تو گرداند ریش\r\nدل زان دو لب لعل تو می باید غیش\r\nتا طیره نکردی ای نگار از لب خویش\r\nیاقوت که مه بود بها دارد بیش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان ز خم سر زلف تو گرداند ریش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل زان دو لب لعل تو می‌باید غیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا طیره نکردی ای نگار، از لب خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاقوت که مِه بود بها دارد بیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان ز خم سر زلف تو گرداند ریش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل زان دو لب لعل تو می‌باید غیش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا طیره نکردی ای نگار، از لب خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یاقوت که مِه بود بها دارد بیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

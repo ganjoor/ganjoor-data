@@ -1,0 +1,58 @@
+{
+  "Id": 12891,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۱۵۶",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۵۶",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh156",
+  "RhymeLetters": "رند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به زیبایی و ارزش شعر و هنر اشاره دارند. شاعر می‌گوید افرادی که در معانی و احساسات عمیق شعر ناتوانند (بی ریشان) تنها به ظواهر (سیم و زر) اهمیت می‌دهند. او تأکید می‌کند که برای راحتی از غم‌ها باید طلا یا چیز باارزشی وجود داشته باشد و در نهایت به این نکته اشاره می‌کند که ترانه‌های زیبا و دلربا تنها از کسانی خریداری می‌شود که زیبایی و جذابیت را درک کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رند",
+      "PlainText": "این بی ریشان که سغبه سیم و زرند\r\nدر سبلت تو به شاعری که نگرند\r\nزر باید زر که تا غم از دل ببرند\r\nترانه خشک خوبرویان نخرند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بی‌ریشان که سغبهٔ سیم و زرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سبلت تو به شاعری که نگرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزر باید زر که تا غم از دل ببرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترانهٔ خشک خوبرویان نخرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این بی‌ریشان که سغبهٔ سیم و زرند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سبلت تو به شاعری که نگرند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زر باید زر که تا غم از دل ببرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترانهٔ خشک خوبرویان نخرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

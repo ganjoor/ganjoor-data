@@ -1,0 +1,58 @@
+{
+  "Id": 103139,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۸۵",
+  "FullUrl": "/jooya/divan/robaee/sh85",
+  "RhymeLetters": "ایخودم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر حاکی از احساس شکرگزاری شاعر به خاطر خیرخواهی دیگران برای او است. شاعر نشان می‌دهد که او هیچ هدفی در مورد افراد دیگر (مثل زید و عمرو) ندارد و تنها دشمن دشمنان مولایش (آقایش) است. به عبارتی، او هدفش دفاع از مولای خود و مقابله با دشمنان اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایخودم",
+      "PlainText": "صد شکر که خیرخواه اعدای خودم\r\nلیکن بدخواه خصم مولای خودم\r\nکاری با زید و عمرو و بکرم نبود\r\nمن دشمن دشمنان آقای خودم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد شکر که خیرخواه اعدای خودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن بدخواه خصم مولای خودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاری با زید و عمرو و بکرم نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن دشمن دشمنان آقای خودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد شکر که خیرخواه اعدای خودم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیکن بدخواه خصم مولای خودم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کاری با زید و عمرو و بکرم نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من دشمن دشمنان آقای خودم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

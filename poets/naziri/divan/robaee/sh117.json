@@ -1,0 +1,58 @@
+{
+  "Id": 123683,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۱۷",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۱۷",
+  "FullUrl": "/naziri/divan/robaee/sh117",
+  "RhymeLetters": "ایهمن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات از شاعر، به ارزش سرمایه و موقعیت خود اشاره دارد و خواسته گرفته تا دیگران با احتیاط و آرامی در کنار او حرکت کنند. او هشدار می‌دهد که مسیر و راهی که در پیش دارند، ممکن است دشوار و باریک باشد. در اینجا، از دیگران می‌خواهد که به او اعتماد کنند و از اقدامات ناپخته پرهیز کنند تا به مشکل نخورند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایهمن",
+      "PlainText": "کم جو که به قیمتست سرمایه من\r\nبنشین که بته نیفتی از پایه من\r\nآهسته که راه بوالعجب باریکست\r\nدوشی نخوری در روش سایه من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکم جو که به قیمتست سرمایه من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنشین که بته نیفتی از پایه من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهسته که راه بوالعجب باریکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوشی نخوری در روش سایه من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کم جو که به قیمتست سرمایه من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنشین که بته نیفتی از پایه من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آهسته که راه بوالعجب باریکست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوشی نخوری در روش سایه من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

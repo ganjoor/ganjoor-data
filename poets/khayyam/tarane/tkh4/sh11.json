@@ -1,0 +1,58 @@
+{
+  "Id": 50300,
+  "CatId": 1815,
+  "Title": "رباعی ۴۵",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » گردش دوران  [۵۶-۳۵] » رباعی ۴۵",
+  "FullUrl": "/khayyam/tarane/tkh4/sh11",
+  "RhymeLetters": "ایند",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: این شعر می‌گوید که اگر جهان به خاطر تو زیبا و جذاب شود، نباید به آن دل ببندی، زیرا عاقل‌ها به آن توجه نمی‌کنند. بسیاری مانند تو به دنیا می‌آیند و می‌روند، پس باید از فرصت‌ها و نصیب خود استفاده کنی و آن را غنیمت بشماری.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایند",
+      "PlainText": "عالم اگر از بهر تو می آرایند\r\nمگرای بدان که عاقلان نگرایند\r\nبسیار چو تو روند و بسیار آیند\r\nبربای نصیب خویش کت بربایند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالَم اگر از بهرِ تو می‌آرایند،\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمَگْرای بدان که عاقلان نگرایند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسیار چو تو روند و بسیار آیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبِرْبای نصیبِ خویش کِتْ بربایند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالَم اگر از بهرِ تو می‌آرایند،",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مَگْرای بدان که عاقلان نگرایند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسیار چو تو روند و بسیار آیند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بِرْبای نصیبِ خویش کِتْ بربایند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

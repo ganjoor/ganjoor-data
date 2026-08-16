@@ -1,0 +1,58 @@
+{
+  "Id": 13052,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۳۱۷",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳۱۷",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh317",
+  "RhymeLetters": "رمن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به نوعی رابطهٔ پیچیده و متناقض بین دو نفر اشاره دارد. شاعر می‌گوید که گاهی یار به او ملامت می‌کند و گاهی هم از ترس دشمن از او دور می‌شود. شاعر از طرفی می‌خواهد که اگر یار نیست، او را رها کند و از طرف دیگر به این اشاره می‌کند که یکی از آن‌ها مصلح (و به نوعی منطقی) و دیگری رند (غیرقابل پیش‌بینی و جسور) است و این تفاوت‌ها سبب ایجاد فاصله بین آن‌ها می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمن",
+      "PlainText": "گه یار شوی تو با ملامت گر من\r\nگه بگریزی ز بیم خصم از بر من\r\nبگذار مرا چو نیستی در خور من\r\nتو مصلح و من رند نداری سر من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه یار شوی تو با ملامت‌گر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه بگریزی ز بیم خصم از بر من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذار مرا چو نیستی در خور من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو مصلح و من رند نداری سر من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه یار شوی تو با ملامت‌گر من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه بگریزی ز بیم خصم از بر من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگذار مرا چو نیستی در خور من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو مصلح و من رند نداری سر من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

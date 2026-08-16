@@ -1,0 +1,58 @@
+{
+  "Id": 2077,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۲۷",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۲۷",
+  "FullUrl": "/hafez/robaee2/sh27",
+  "RhymeLetters": "ایهیگل",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و لطافت گل اشاره می‌کند که با وزش باد بهاری (باد صبا) شکوفا می‌شود. مشاطه (آرایشگر) به زیبایی گل پرداخته و آن را آراسته می‌کند. شاعر همچنین به تضاد سایه و خورشید می‌پردازد و می‌گوید اگر می‌خواهی از نور خورشید بهره‌مند شوی، باید به دنبال روشنایی و زیبایی خورشید باشی، نه در سایه گل.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایهیگل",
+      "PlainText": "در باغ چو شد باد صبا دایه گل\r\nبربست مشاطه وار پیرایه گل\r\nاز سایه به خورشید اگرت هست امان\r\nخورشیدرخی طلب کن و سایه گل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر باغ چو شد باد صبا دایهٔ گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبربست مشاطه‌وار پیرایهٔ گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سایه به خورشید اگرت هست امان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشیدرُخی طلب کن و سایهٔ گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در باغ چو شد باد صبا دایهٔ گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بربست مشاطه‌وار پیرایهٔ گل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سایه به خورشید اگرت هست امان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشیدرُخی طلب کن و سایهٔ گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 98664,
+  "CatId": 2508,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "اوحدالدین کرمانی » دیوان رباعیات » الباب التاسع: فی السفر و الوداع » شمارهٔ ۲۶",
+  "FullUrl": "/ouhad/robaee/bab9/sh26",
+  "RhymeLetters": "ایی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به بیان احساسات متناقض خود می‌پردازد. او می‌گوید که زندگی‌اش با محبوبش شیرین است، اما نبود او باعث حزن و اندوهش شده است. احساساتش متضاد است؛ از یک سو خوشحالی و زندگی را تجربه می‌کند و از سوی دیگر، درد و فقدان را حس می‌کند. در نهایت، او به مردم ناله می‌کند و از عدم توانایی در درمان دردش شکایت دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایی",
+      "PlainText": "ما اطیب عیشی معه لولایی\r\nلولای لما حجبت عن مولایی\r\nحزنی فرحی و قتلتی احیایی\r\nما اصنع یا قوم دوایی دایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما اطیب عیشی معه لولایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلولای لما حجبت عن مولایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحزنی فرحی و قتلتی احیایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما اصنع یا قوم دوایی دایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما اطیب عیشی معه لولایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لولای لما حجبت عن مولایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حزنی فرحی و قتلتی احیایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما اصنع یا قوم دوایی دایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

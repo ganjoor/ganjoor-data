@@ -1,0 +1,58 @@
+{
+  "Id": 83323,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۶۲",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۶۲",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh162",
+  "RhymeLetters": "ارهایباشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات از شاعر به زیبایی توصیف احساسات عمیق و عاطفی پرداخته است. در این اشعار، شخصی با دل غمگین و حسرتی نسبت به عشق و زیبایی‌های زندگی صحبت می‌کند. او به زیبایی‌های طبیعی و جلوه‌های زندگی اشاره دارد، و به نوعی از قدرت و جذابیت وجودی شخص دیگری سخن می‌گوید که بر خلاف محدودیت‌های ظاهری (مانند بی‌پایی و بی‌سری)، تأثیرگذار و زیباست. در کل، این اشعار به بررسی عشق، زیبایی و احساس حسرت در دل انسان می‌پردازد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ریساختهباشد",
+      "PlainText": "با دل غم آن رشک پری ساخته باشد\r\nبا غنچه نسیم سحری ساخته باشد\r\nکج می نگرد خوش به سرا پای دو عالم\r\nرندی که به بی پا و سری ساخته باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا دل غم آن رشک پری، ساخته باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا غنچه، نسیم سحری ساخته باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکج می نگرد خوش به سرا پای دو عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرندی که به بی پا و سری، ساخته باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با دل غم آن رشک پری، ساخته باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با غنچه، نسیم سحری ساخته باشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کج می نگرد خوش به سرا پای دو عالم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رندی که به بی پا و سری، ساخته باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

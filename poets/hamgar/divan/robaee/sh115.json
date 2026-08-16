@@ -1,0 +1,58 @@
+{
+  "Id": 120831,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۱۱۵",
+  "FullUrl": "/hamgar/divan/robaee/sh115",
+  "RhymeLetters": "ردنچهخوشاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این چهار بیت بیانگر احساس عشق و دلبستگی شدید به معشوق است. شاعر از جفاها و رنج‌های معشوقش یاد می‌کند و می‌گوید که با وجود این رنج‌ها، جان سپردن در پای غم او خوشایند است. همچنین، زندگی بدون دیدن چهره او را بسیار دشوار می‌داند و برعکس، مردن در حضور او را مایه خوشحالی می‌داند. در کل، این شعر نشان‌دهنده عواطف عمیق و بی‌تابی عاشق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردنچهخوشاست",
+      "PlainText": "وه وه که جفاهای تو بردن چه خوش است\r\nدر پای غم تو جان سپردن چه خوش است\r\nبی روی تو زیستن چه مشکل کاریست\r\nبا دیدن تو پیش تو مردن چه خوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوه وه که جفاهای تو بردن چه خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پای غم تو جان سپردن چه خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی روی تو زیستن چه مشکل کاریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دیدن تو پیش تو مردن چه خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وه وه که جفاهای تو بردن چه خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پای غم تو جان سپردن چه خوش است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی روی تو زیستن چه مشکل کاریست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با دیدن تو پیش تو مردن چه خوش است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

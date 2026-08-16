@@ -1,0 +1,58 @@
+{
+  "Id": 70201,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۵۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۵۸",
+  "FullUrl": "/amir/robam/sh158",
+  "RhymeLetters": "ای",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساس فراق و دوری از معشوق می‌پردازد. پروین و ستارگان در شب، اشاره به زیبایی و نورانی بودن معشوق دارد که در غیاب او از حرکت و تغییر بازمانده‌اند. شاعر به نظر می‌رسد که معشوق همچون بزم‌یارانی است که با جاذبه‌ی خود، دیگران را به خود جذب کرده و از هجرت و جدایی آنان را درگیر کرده است. در کل، شعر حاکی از حسرت و اشتیاق به وصل است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ای",
+      "PlainText": "پروین و ستارگان گردون پیمای\r\nاندر شب هجر تو نجنبند ز جای\r\nگویی توکه دست هجرت ای بزم آرای\r\nدارد به فسونی هر یکی را بر پای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپروین و ستارگان گردون پیمای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر شب هجر تو نجنبند ز جای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی توکه دست هجرت ای بزم آرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارد به فسونی هر یکی را بر پای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پروین و ستارگان گردون پیمای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندر شب هجر تو نجنبند ز جای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی توکه دست هجرت ای بزم آرای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دارد به فسونی هر یکی را بر پای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

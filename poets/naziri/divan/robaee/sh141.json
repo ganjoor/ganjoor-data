@@ -1,0 +1,58 @@
+{
+  "Id": 123707,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۴۱",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۴۱",
+  "FullUrl": "/naziri/divan/robaee/sh141",
+  "RhymeLetters": "ابرکهزدی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به زیبایی‌های زلف یار اشاره می‌کند و تعجب دارد که چرا بوی خوشی ندارد. او از این می‌پرسد که این معنی و احساس تازه‌ای که یافته، از کجا آمده و آیا این شعری که می‌سراید واقعاً خود اوست یا از کسی دیگر گرفته شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابرکهزدی",
+      "PlainText": "خوش بوست بس این زلف دو تا بر که زدی\r\nبوی تو نمی دهد چرا بر که زدی\r\nاین معنی تازه از چه کس دزدیدی\r\nاین شعر تو نیست از کجا بر که زدی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش بوست بس این زلف دو تا بر که زدی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی تو نمی دهد چرا؟ بر که زدی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین معنی تازه از چه کس دزدیدی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین شعر تو نیست، از کجا؟ بر که زدی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش بوست بس این زلف دو تا بر که زدی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی تو نمی دهد چرا؟ بر که زدی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این معنی تازه از چه کس دزدیدی؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این شعر تو نیست، از کجا؟ بر که زدی؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

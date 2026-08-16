@@ -1,0 +1,58 @@
+{
+  "Id": 45670,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۳۰",
+  "FullUrl": "/ghaani/ghetegh/sh30",
+  "RhymeLetters": "امت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر این است که فردی در حال حاضر به ویژه‌گی‌های زندگی‌اش بی‌توجهی می‌کند و گویی از عواقب قیامت و روز حساب خبر ندارد. شاعر به او هشدار می‌دهد که اگر امروز توبه نکند و به اصلاح رفتار خود نپردازد، فردا دیگر برای عذرخواهی‌اش پذیرفته نخواهد شد.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امت",
+      "PlainText": "زینگونه که امروز کند خواجه تغافل\r\nگویی خبرش نیست ز فردای قیامت\r\nامروز مگر توبه کند چاره و گرنه\r\nفردا نپذیرند ازو عذر ندامت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزینگونه که امروز کند خواجه تغافل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی خبرش نیست ز فردای قیامت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز مگر توبه کند چاره و گرنه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا نپذیرند ازو عذر ندامت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زینگونه که امروز کند خواجه تغافل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی خبرش نیست ز فردای قیامت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز مگر توبه کند چاره و گرنه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فردا نپذیرند ازو عذر ندامت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

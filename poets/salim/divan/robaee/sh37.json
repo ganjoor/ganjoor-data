@@ -1,0 +1,58 @@
+{
+  "Id": 101828,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/salim/divan/robaee/sh37",
+  "RhymeLetters": "ازیباد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به شادی و خوشحالی در ایام عید اشاره دارد. شاعر آرزو می‌کند که عید با خوشی و نشاط همراه باشد و امیدوار است که این خوشحالی و کامیابی در زندگی فرد ادامه داشته باشد. همچنین به پرواز و بلندپروازی به عنوان نماد موفقیت و اقبال خوب اشاره شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازیباد",
+      "PlainText": "عید تو به سامان ز طرب سازی باد\r\nانجام نشاط تو در آغازی باد\r\nتا بال همای عید باشد مه نو\r\nاقبال تو در بلندپروازی باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید تو به سامان ز طرب سازی باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانجام نشاط تو در آغازی باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بال همای عید باشد مه نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاقبال تو در بلندپروازی باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عید تو به سامان ز طرب سازی باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "انجام نشاط تو در آغازی باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا بال همای عید باشد مه نو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اقبال تو در بلندپروازی باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

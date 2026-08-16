@@ -1,0 +1,58 @@
+{
+  "Id": 123643,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۷۷",
+  "FullUrl": "/naziri/divan/robaee/sh77",
+  "RhymeLetters": "اد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به ضعف خود در برابر حریف با تجربه‌اش اشاره می‌کند. او خود را مانند یک مبتدی می‌داند که همیشه در برابر حریفش شکست می‌خورد و تنها چیزی که از وجودش باقی مانده، نام حریف است. او به نوعی احساس حقارت و عدم وجود خود را در مقابل استعداد و تجربه حریفش بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اد",
+      "PlainText": "من خام قمارم و حریفم استاد\r\nصدبار گشاد داده و بسته گشاد\r\nاز هستی من بغیر نامت نبود\r\nهمچون نقطه زیاده در نرد زیاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن خام قمارم و حریفم استاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدبار گشاد داده و بسته گشاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هستی من بغیر نامت نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچون نقطه زیاده در نرد زیاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من خام قمارم و حریفم استاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صدبار گشاد داده و بسته گشاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هستی من بغیر نامت نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچون نقطه زیاده در نرد زیاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

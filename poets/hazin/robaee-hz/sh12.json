@@ -1,0 +1,58 @@
+{
+  "Id": 82900,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/hazin/robaee-hz/sh12",
+  "RhymeLetters": "رهست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و تنوع جهان اشاره دارد. در آسمان ستاره‌ها و خورشید وجود دارد و در دریا نیز مرواریدها و دریاها وجود دارند. شاعر به این نکته می‌پردازد که زندگی و سرنوشت انسان‌ها چگونه شکل می‌گیرد و به نوعی از رحمت و نعمت‌های الهی یاد می‌کند که هم سفره عیسی (معنای روحانی و معنوی) و هم آخور (منابع زندگی مادی) در دسترس انسان‌هاست. به طور کلی، این شعر به شکوه و تنوع نعمت‌های الهی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رهست",
+      "PlainText": "در محفل آسمان سها و خور هست\r\nدر بحر جهان هم صدف و هم در هست\r\nتا خود چه بود قسمت روزی طلبان\r\nهم مایده عیسی و هم آخور هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر محفل آسمان سُها و خور هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بحر جهان هم صدف و هم در هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا خود چه بود قسمت روزی طلبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم مائدهٔ عیسی و هم آخور هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در محفل آسمان سُها و خور هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بحر جهان هم صدف و هم در هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا خود چه بود قسمت روزی طلبان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم مائدهٔ عیسی و هم آخور هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

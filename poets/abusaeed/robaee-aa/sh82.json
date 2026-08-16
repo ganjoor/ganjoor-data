@@ -1,0 +1,58 @@
+{
+  "Id": 20590,
+  "CatId": 305,
+  "Title": "رباعی شمارهٔ ۸۲",
+  "FullTitle": "ابوسعید ابوالخیر » رباعیات نقل شده از ابوسعید از دیگر شاعران » رباعی شمارهٔ ۸۲",
+  "FullUrl": "/abusaeed/robaee-aa/sh82",
+  "RhymeLetters": "ارست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی ارتباط موجودات و عناصر مختلف طبیعت است. در آن به گاو و مکان‌های مختلف اشاره می‌شود، همچنین به تصویرسازی از ماهی و بز پرداخته شده است. در نهایت، به سختی و دشواری ایجاد کردن کمان اشاره شده است. به طور کلی، شعر به توصیف تنوع طبیعی و چالش‌های آن می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارست",
+      "PlainText": "پی در گاوست و گاو در کهسارست\r\nماهی سریشمین به دریا بارست\r\nبز در کمرست و توز در بلغارست\r\nزه کردن این کمان بسی دشوارست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپی در گاوست و گاو در کهسارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماهیِ سریشمین به دریا بارست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبز در کمرست و توز در بلغارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزه کردن این کمان بسی دشوارست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پی در گاوست و گاو در کهسارست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماهیِ سریشمین به دریا بارست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بز در کمرست و توز در بلغارست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زه کردن این کمان بسی دشوارست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

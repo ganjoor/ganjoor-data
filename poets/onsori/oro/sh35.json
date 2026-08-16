@@ -1,0 +1,58 @@
+{
+  "Id": 68885,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۳۵",
+  "FullUrl": "/onsori/oro/sh35",
+  "RhymeLetters": "ال",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی‌های عشق و دلتنگی اشاره دارد. شاعر می‌گوید که عشق او از سه چیز الهام می‌گیرد: زیبایی چهره، لب‌ها و جمال معشوق. همچنین، از دل غم و چشم خیال و چهره نمناک نیز متاثر است. به طور کلی، شاعر به ارتباط عمیق بین زیبایی و احساسات در عشق اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ال",
+      "PlainText": "سه چیز ببرد از سه چیز تو وصال\r\nاز رخ گل و از لب مل و از روی جمال\r\nسه چیز ببرد از سه چیزم همه سال\r\nاز دل غم و از رخ نم و از دیده خیال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسه چیز ببرد از سه چیز تو وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رخ گل و از لب مل و از روی جمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسه چیز ببرد از سه چیزم همه سال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دل غم و از رخ نم و از دیده خیال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سه چیز ببرد از سه چیز تو وصال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از رخ گل و از لب مل و از روی جمال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سه چیز ببرد از سه چیزم همه سال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دل غم و از رخ نم و از دیده خیال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 10182,
+  "CatId": 122,
+  "Title": "رباعی شمارهٔ ۱۲۱",
+  "FullTitle": "سعدی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۲۱",
+  "FullUrl": "/saadi/divan/robaees/sh121",
+  "RhymeLetters": "نمن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به کسی اشاره می‌کند که با دست‌هایش به احساسات و زندگی او آسیب زده است. حتی اگر این آسیب به نوعی حلال یا قابل بخشش باشد، شاعر نمی‌تواند آن را از دل خود بیرون کند و همچنان درگیر آن احساسات است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمن",
+      "PlainText": "ای دست تو آتش زده در خرمن من\r\nتو دست نمی گذاری از دامن من\r\nاین دست نگارین که به سوزن زده ای\r\nهرچند حلال نیست در گردن من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دست تو آتش زده در خرمن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو دست نمی‌گذاری از دامن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین دست نگارین که به سوزن زده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچند حلال نیست در گردن من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دست تو آتش زده در خرمن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو دست نمی‌گذاری از دامن من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این دست نگارین که به سوزن زده‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچند حلال نیست در گردن من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

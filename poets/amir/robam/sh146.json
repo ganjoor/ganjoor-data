@@ -1,0 +1,58 @@
+{
+  "Id": 70189,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴۶",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴۶",
+  "FullUrl": "/amir/robam/sh146",
+  "RhymeLetters": "ین",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت درباره پیروزی و قدرت ملک تگین است. شاعر به برده‌ای اشاره می‌کند که با شمشیر خود تمام ملک تگین را زیر کنترل دارد. پیروزی و نصرت او به معنای شکوه و افزایش اقتدار دولت و دین است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "ای برده به شمشیر همه ملک تگین\r\nآورده همه ملک تگین زیر نگین\r\nپیروزی و نصرت تو بر روی زمین\r\nآرایش دولت است و افزایش دین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای برده به شمشیر همه ملک تگین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآورده همه ملک تگین زیر نگین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیروزی و نصرت تو بر روی زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآرایش دولت است و افزایش دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای برده به شمشیر همه ملک تگین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آورده همه ملک تگین زیر نگین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیروزی و نصرت تو بر روی زمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آرایش دولت است و افزایش دین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

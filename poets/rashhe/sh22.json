@@ -1,0 +1,58 @@
+{
+  "Id": 20451,
+  "CatId": 301,
+  "Title": "شمارهٔ  ۲۲ - از یک قصیده",
+  "FullTitle": "رشحه » شمارهٔ  ۲۲ - از یک قصیده",
+  "FullUrl": "/rashhe/sh22",
+  "RhymeLetters": "رزدم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به نمادین بودن تاج و قدرت اشاره می‌کند و می‌گوید که من از خاک درگاه آن مقام، تاج را بر سر گذاشتم. او به نوعی برتری خود را بر پادشاهان دیگر نشان می‌دهد و می‌گوید که از خاک درگاه این مقام، آب زندگی را جستجو کرده است. همچنین، به عشق و غیرت خود اشاره می‌کند و می‌گوید که این احساسات را به زمزم و کوثر، دو چشمه مقدس، گره زده است.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رزدم",
+      "PlainText": "تاج دولت تا ز خاک درگهش بر سر زدم\r\nپشت پا بر تاج خاقان و افسر قیصر زدم\r\nجستم از خاک درش خاصیت آب بقا\r\nآتش غیرت به جان زمزم و کوثر زدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاج دولت تا ز خاک درگهش بر سر زدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت پا بر تاج خاقان و افسر قیصر زدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجستم از خاک درش خاصیت آب بقا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش غیرت به جان زمزم و کوثر زدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تاج دولت تا ز خاک درگهش بر سر زدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پشت پا بر تاج خاقان و افسر قیصر زدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جستم از خاک درش خاصیت آب بقا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتش غیرت به جان زمزم و کوثر زدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

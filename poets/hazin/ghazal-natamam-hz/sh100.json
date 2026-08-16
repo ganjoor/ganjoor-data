@@ -1,0 +1,58 @@
+{
+  "Id": 83261,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۰۰",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh100",
+  "RhymeLetters": "اجداشت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از تأثیر عمیق مژه‌ها و زیبایی محبوبش بر قلب و جان خود سخن می‌گوید. او بیان می‌کند که این زیبایی نه‌تنها آرامش را از او گرفته بلکه وی را به دلتنگی و درد دچار کرده است. همچنین، حرکت‌های محبوبش باعث شده که او نتواند به خوبی در شعر بنویسد و برای او یادآور قامت موزون و زیبای اوست.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وننگذاشت",
+      "PlainText": "کاو کاو مژه ی من به جگر خون نگذاشت\r\nسینه ام داغ برای دل مجنون نگذاشت\r\nحرکت در قلم نکته سراینده ی من\r\nشوخی مصرع آن قامت موزون نگذاشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاو کاو مژه ی من به جگر خون نگذاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسینه ام داغ برای دل مجنون نگذاشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرکت در قلم نکته سراینده ی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشوخی مصرع آن قامت موزون نگذاشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کاو کاو مژه ی من به جگر خون نگذاشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سینه ام داغ برای دل مجنون نگذاشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حرکت در قلم نکته سراینده ی من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شوخی مصرع آن قامت موزون نگذاشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

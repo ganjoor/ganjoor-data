@@ -1,0 +1,58 @@
+{
+  "Id": 85651,
+  "CatId": 2238,
+  "Title": "شمارهٔ  ۲۱",
+  "FullTitle": "جلال عضد » دیوان اشعار » رباعیّات » شمارهٔ  ۲۱",
+  "FullUrl": "/jalal/divanj/robaee/sh21",
+  "RhymeLetters": "ارشود",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از غم و درد خود می‌گوید و ابراز می‌کند که اگر کسی به او نزدیک شود و غمخوارش باشد، ممکن است خود نیز تحت تأثیر ناراحتی‌های او قرار گیرد. همچنین او از این می‌ترسد که وقتی طبیب به بالینش بیاید، درد دلش را ببیند و خود او نیز بیمار شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارشود",
+      "PlainText": "هرکس که قرین من غمخوار شود\r\nاز نالۀ زار من دل افگار شود\r\nترسم که طبیب چون بیاید بر من\r\nدرد دل من بیند و بیمار شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکس که قرین من غمخوار شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نالۀ زار من دل افگار شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم که طبیب چون بیاید بر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد دل من بیند و بیمار شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس که قرین من غمخوار شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نالۀ زار من دل افگار شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترسم که طبیب چون بیاید بر من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درد دل من بیند و بیمار شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

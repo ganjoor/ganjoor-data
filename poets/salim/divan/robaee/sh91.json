@@ -1,0 +1,58 @@
+{
+  "Id": 101882,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/salim/divan/robaee/sh91",
+  "RhymeLetters": "اقی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساسات متناقض خود صحبت می‌کند. گاهی به او اجازه نمی‌دهند که به شوق و اشتیاقش (غمی که دارد) بپردازد و گاهی دیگران او را به خاطر عشق و شادابی‌اش سرزنش می‌کنند. در نهایت، با وجود این تلاطم‌ها، او دلی سوخته و آزرده دارد و هیچ‌گاه نمی‌تواند لحظه‌ای آرامش یابد، مانند سنگی که در اثر برخورد با چخماق شعله‌ور می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقی",
+      "PlainText": "گه منع کنندم ز غم مشتاقی\r\nگه طعنه زنندم ز شراب و ساقی\r\nالقصه دل سوخته ام نیست دمی\r\nآسوده چو سنگ آتش از چخماقی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه منع کنندم ز غم مشتاقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه طعنه زنندم ز شراب و ساقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالقصه دل سوخته ام نیست دمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسوده چو سنگ آتش از چخماقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه منع کنندم ز غم مشتاقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه طعنه زنندم ز شراب و ساقی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "القصه دل سوخته ام نیست دمی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آسوده چو سنگ آتش از چخماقی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82890,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/hazin/robaee-hz/sh2",
+  "RhymeLetters": "یدهٔما",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق و درد فراق صحبت می‌کند. او به محبوب خود اشاره می‌کند که نور و روشنی چشم و دلش است. او از قربانی شدن دل و چشمانش در راه عشق می‌گوید و به محبوبش یادآوری می‌کند که جدایی او باعث ویرانی و آشفتگی زندگی‌اش شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدهٔما",
+      "PlainText": "ای چشم و چراغ دل غم دیده ما\r\nدر راه تو خاک شد دل و دیده ما\r\nهجران تو بود گفتمت تا دانی\r\nتاراجگر بساط برچیده ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چشم و چراغ دل غم دیدهٔ ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر راه تو خاک شد دل و دیدهٔ ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهجران تو بود، گفتمت تا دانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاراجگر بساط برچیدهٔ ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چشم و چراغ دل غم دیدهٔ ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در راه تو خاک شد دل و دیدهٔ ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هجران تو بود، گفتمت تا دانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاراجگر بساط برچیدهٔ ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

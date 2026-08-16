@@ -1,0 +1,58 @@
+{
+  "Id": 97265,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/emami/divan/robaee/sh6",
+  "RhymeLetters": "ابشود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره زیبایی و جذابیت زنانه است. شاعر به خواب و خیال‌های دل‌انگیز خود اشاره می‌کند و به زلف و رخسار معشوق نازنینش می‌بالد. همچنین از لؤلؤ و لعل برای بیان زیبایی و فریبندگی او استفاده می‌کند، به گونه‌ای که زیبایی‌اش موجب شرم و آب شدن صدف (نماد عشق و زیبایی) می‌شود. مجموعاً، شاعر در شعرش احساسات عاشقانه و شگفتی از زیبایی معشوقه‌اش را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابشود",
+      "PlainText": "کی فتنه ی نرگس تو در خواب شود\r\nچند از رخ تو زلف تو در تاب شود\r\nلؤلؤ بنما ز لعل تا در خوشاب\r\nدر کام صدف ز شرم او آب شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی فتنه ی نرگس تو در خواب شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند از رخ تو زلف تو در تاب شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلؤلؤ بنما، ز لعل، تا درّ خوشاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کام صدف ز شرم او آب شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی فتنه ی نرگس تو در خواب شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چند از رخ تو زلف تو در تاب شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لؤلؤ بنما، ز لعل، تا درّ خوشاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کام صدف ز شرم او آب شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

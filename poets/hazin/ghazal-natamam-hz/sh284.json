@@ -1,0 +1,58 @@
+{
+  "Id": 83445,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۸۴",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۸۴",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh284",
+  "RhymeLetters": "ارهام",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از حال و هوای خود در عشق سخن می‌گوید. او خود را مانند سایه‌ای در کنار سرو خوش‌رخ توصیف می‌کند و می‌گوید که از همه چیز آزاد است، اما غلام عشق محبوبش است. همچنین او از داغ عشق سخن می‌گوید و بیان می‌کند که پیاله‌ای پر از عشق را چون خورشید تحمل کرده و دیگر غمی ندارد؛ زیرا مست جام عشق محبوبش است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امتوام",
+      "PlainText": "چو سایه در قدم سرو خوش خرام توام\r\nز خویش و از همه آزاده ام غلام توام\r\nز داغ عشق کشیدم پیاله چون خورشید\r\nغم خمار ندارم که مست جام توام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو سایه در قدم سرو خوش خرام توام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خویش و از همه آزاده ام، غلام توام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز داغ عشق، کشیدم پیاله چون خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغم خمار ندارم، که مست جام توام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو سایه در قدم سرو خوش خرام توام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز خویش و از همه آزاده ام، غلام توام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز داغ عشق، کشیدم پیاله چون خورشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم خمار ندارم، که مست جام توام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

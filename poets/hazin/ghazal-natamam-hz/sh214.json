@@ -1,0 +1,58 @@
+{
+  "Id": 83375,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۱۴",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۱۴",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh214",
+  "RhymeLetters": "انیبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به احساسات عمیق خود اشاره می‌کند. او تحت تأثیر زیبایی شب و ستاره‌ها است، اما در عین حال از درد و رنجی که به خاطر عشقش تجربه کرده، سخن می‌گوید. او معتقد است که عشق نباید این همه رنج را به همراه داشته باشد و از دیگران می‌خواهد که از نگاه کردن به او و رنج‌هایش قضاوت نکنند.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارهبود",
+      "PlainText": "امشب که از نظر مه من درگذاره بود\r\nاز داغ پیکرم فلک پر ستاره بود\r\nجرم محبت اینهمه رنجش نداشته ست\r\nاز چشم ما مبین که گناه نظاره بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب که از نظر مه من درگذاره بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز داغ پیکرم، فلک پر ستاره بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجرم محبّت اینهمه رنجش نداشته ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چشم ما مبین، که گناه نظاره بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب که از نظر مه من درگذاره بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از داغ پیکرم، فلک پر ستاره بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جرم محبّت اینهمه رنجش نداشته ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از چشم ما مبین، که گناه نظاره بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

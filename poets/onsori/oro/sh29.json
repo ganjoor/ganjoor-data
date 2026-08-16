@@ -1,0 +1,58 @@
+{
+  "Id": 68879,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/onsori/oro/sh29",
+  "RhymeLetters": "ور",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره زیبایی و جذابیت فردی سخن می‌گوید. شاعر از سنگ‌های زیبا و زلفی مانند بلور صحبت می‌کند که نشان‌دهنده زیبایی و دلربایی معشوق است. همچنین، لب‌های او را به طوطی و کشی گور تشبیه می‌کند و به طوری به تأثیر جذابیت او بر زندگی و احساسات دیگران اشاره می‌کند. در کل، شعر تصویری از زیبایی و تأثیر آن بر روح و زندگی انسان‌ها را به نمایش می‌گذارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ور",
+      "PlainText": "سیمین بر تو سنگ بپوشد به سمور\r\nزلفت به شبه همی کند نقش بلور\r\nای با لب طوطیان و با کشی گور\r\nحسن تو همی مرده برآرد از گور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیمین بر تو سنگ بپوشد به سمور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلفت به شبه همی کند نقش بلور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای با لبِ طوطیان و با کشّیِ گور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحسن تو همی مرده برآرد از گور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سیمین بر تو سنگ بپوشد به سمور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلفت به شبه همی کند نقش بلور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای با لبِ طوطیان و با کشّیِ گور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حسن تو همی مرده برآرد از گور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

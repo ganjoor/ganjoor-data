@@ -1,0 +1,58 @@
+{
+  "Id": 48721,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۲",
+  "FullUrl": "/orfi/robaeeor/sh2",
+  "RhymeLetters": "تومرا",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر از معشوقی صحبت می‌کند که با زبان شیرین و نازش دل عاشق را به زحمت انداخته است. شاعر به نوعی به رنج و سختی‌ای که از جدایی معشوق متحمل شده، اشاره می‌کند و این‌که از این وضعیت به شوق دیدن معشوق برمی‌خیزد. در نهایت، این حسی از وداع و جدایی را به تصویر می‌کشد که در آغوش مرگ هم حکم‌فرماست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اعتومرا",
+      "PlainText": "ای کرده زبون ناز شجاع تو مرا\r\nافکنده به صد رنج نزاع تو مرا\r\nتا خیزم و آرمت در آغوش اجل\r\nگشته است به تکلیف وداع تو مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کرده زبون، ناز شجاع تو، مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافکنده به صد رنج، نزاع تو، مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا خیزم و آرمت در آغوش اجل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشته است به تکلیف وداع تو مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کرده زبون، ناز شجاع تو، مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افکنده به صد رنج، نزاع تو، مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا خیزم و آرمت در آغوش اجل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گشته است به تکلیف وداع تو مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

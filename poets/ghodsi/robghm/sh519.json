@@ -1,0 +1,58 @@
+{
+  "Id": 75060,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۵۱۹",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۵۱۹",
+  "FullUrl": "/ghodsi/robghm/sh519",
+  "RhymeLetters": "یدن",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این اشعار شاعر بیان می‌کند که مانند غنچه‌ای خراب شده از شادی و خنده است و پژمردگی‌اش مانند گل در فصل چیدن است. او به ضعف جسمی‌اش اشاره دارد و می‌گوید که دلش تحت تأثیر تابش‌ها و فشارها، عرضش بیشتر می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدن",
+      "PlainText": "چون غنچه خراب گردم از خندیدن\r\nپژمردگی ام چو گل بود در چیدن\r\nاز تابش دل تن ضعیفم شده است\r\nاین رشته زبون تر شود از تابیدن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون غنچه خراب گردم از خندیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپژمردگی‌ام چو گل بود در چیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تابش دل، تن ضعیفم شده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین رشته زبون‌تر شود از تابیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون غنچه خراب گردم از خندیدن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پژمردگی‌ام چو گل بود در چیدن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از تابش دل، تن ضعیفم شده است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این رشته زبون‌تر شود از تابیدن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

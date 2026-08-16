@@ -1,0 +1,49 @@
+{
+  "Id": 52011,
+  "CatId": 1849,
+  "Title": "فقرۀ ۱۴، ۱۵",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۱۴، ۱۵",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh17",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به این موضوع اشاره دارد که در زمان‌های خاص، باید از رفتار و گفتار خود مراقب باشیم. به ویژه، نباید در مورد دیگران قضاوت کنیم یا لب به سخن بی‌مایه بزنیم، زیرا ممکن است تأثیر منفی بر دیگران بگذارد. در واقع، باید در رفتار و گفتار خود فکر کنیم و خنده و سخنان بی‌معنی را کنار بگذاریم.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "به بیگاه بر روی مردم مخند\r\nزگفتار بی مایه لب بازبند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بیگاه بر روی مردم مخند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزگفتار بی‌مایه لب بازبند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "بیگاه مخند. پیش و پس پاسخ به پیمانه گیر (‌پیمان - انداز)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "به بیگاه بر روی مردم مخند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "زگفتار بی‌مایه لب بازبند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

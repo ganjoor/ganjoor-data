@@ -1,0 +1,58 @@
+{
+  "Id": 41587,
+  "CatId": 1677,
+  "Title": "پیغام فلک",
+  "FullTitle": "کسایی » رباعیها » پیغام فلک",
+  "FullUrl": "/kesayee/robaeek/sh3",
+  "RhymeLetters": "امی",
+  "SourceName": "مهرداد بیات",
+  "SourceUrlSlug": "mb",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از احساس خود درباره عشق و زیبایی سخن می‌گوید. او هنوز به شاهراه وصل محبوب نرسیده و از زیبایی‌های او بهره‌مند نشده است. ناگهان خبری از آسمان دریافت می‌کند که به او نوید لذتی از نوشی که از زوال می‌آید را می‌دهد. این احساس همزمان شور و شوق و ناکامی را در عشق بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امی",
+      "PlainText": "نارفته به شاهراه وصلت گامی\r\nنایافته از حسن و جمالت کامی\r\nناگاه شنیدم از فلک پیغامی\r\nکز خم زوال نوش بادت جامی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنارفته به شاهراه وصلت گامی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنایافته از حسن و جمالت کامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناگاه شنیدم از فلک پیغامی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز خُمّ زوال نوش بادت جامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نارفته به شاهراه وصلت گامی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نایافته از حسن و جمالت کامی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناگاه شنیدم از فلک پیغامی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز خُمّ زوال نوش بادت جامی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

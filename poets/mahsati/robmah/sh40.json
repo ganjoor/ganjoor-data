@@ -1,0 +1,58 @@
+{
+  "Id": 50100,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۴۰",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۴۰",
+  "FullUrl": "/mahsati/robmah/sh40",
+  "RhymeLetters": "راست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در شعر گفته شده که سرنوشت و قضا و قدر را همچون نقش و نگار بر آسمان می‌توان دید. انسان‌ها از راز و مشکل این سرنوشت بی‌خبرند و نمی‌توانند آن را حل کنند. نباید فکر کرد که با دانستن این مسائل، می‌توان به سادگی مشکلات را حل کرد، زیرا دانایی در این زمینه به اندازه‌ی توان بشری محدود است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "در طاس فلک نقش قضا و قدر است\r\nمشکل گرهیست خلق از این بی خبر است\r\nپندار مدار کین گره بگشایی\r\nدانستن این گره به قدر بشر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر طاس فلک نقش قضا و قدر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشکل گرهیست خلق از این بی‌خبر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپندار مدار کین گره بگشایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانستن این گره به قدر بشر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در طاس فلک نقش قضا و قدر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشکل گرهیست خلق از این بی‌خبر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پندار مدار کین گره بگشایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دانستن این گره به قدر بشر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

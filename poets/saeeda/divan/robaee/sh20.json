@@ -1,0 +1,58 @@
+{
+  "Id": 107920,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/saeeda/divan/robaee/sh20",
+  "RhymeLetters": "یششماست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر اشاره به وضعیت و جایگاه درویش دارد که خود را فقیر و خیراندیش می‌داند. او تاکید می‌کند که حتی اگر او را به عناوینی چون گبر، مجوس یا رهبان بخوانند، درویش بودن و اصول مذهب او همچنان باقی است و به آن افتخار می‌کند. ",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یششماست",
+      "PlainText": "ای ماهوشان فقیر درویش شماست\r\nدرویش شما و خیراندیش شماست\r\nگر گبر اگر مجوس و رهبان خوانید\r\nدرویش شما و مذهب کیش شماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ماهوشان، فقیر، درویش شماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرویش شما و خیراندیش شماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر گبر اگر مجوس [و] رهبان خوانید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرویش شما و مذهب کیش شماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ماهوشان، فقیر، درویش شماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درویش شما و خیراندیش شماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر گبر اگر مجوس [و] رهبان خوانید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درویش شما و مذهب کیش شماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

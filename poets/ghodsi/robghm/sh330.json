@@ -1,0 +1,58 @@
+{
+  "Id": 74871,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۳۳۰",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۳۳۰",
+  "FullUrl": "/ghodsi/robghm/sh330",
+  "RhymeLetters": "ایینرود",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشق و وابستگی عمیق عاشق به معشوق است. عاشق نمی‌تواند از جایی که محبوبش حضور دارد، دور شود و مانند پروانه‌ای است که از شمع دور نمی‌شود. عشق او به اندازه‌ای قوی است که هرگز نمی‌تواند از محبوبش فاصله بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایینرود",
+      "PlainText": "عاشق ز درت به هر هوایی نرود\r\nاز جای به هر تک تک پایی نرود\r\nپروانه پر خویش ازان سوخته است\r\nتا از قدم شمع به جایی نرود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشق ز درت به هر هوایی نرود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جای به هر تک تک پایی نرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپروانه پر خویش ازان سوخته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا از قدم شمع به جایی نرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاشق ز درت به هر هوایی نرود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از جای به هر تک تک پایی نرود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پروانه پر خویش ازان سوخته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا از قدم شمع به جایی نرود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

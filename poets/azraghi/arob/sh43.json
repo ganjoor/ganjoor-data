@@ -1,0 +1,58 @@
+{
+  "Id": 69404,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/azraghi/arob/sh43",
+  "RhymeLetters": "امتوشود",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر به تمجید از قدرت و عظمت شاه می‌پردازد و بیان می‌کند که ثروت و امکانات به سرعت به نام او خواهد رسید. همچنین تأکید می‌کند که افراد آزاده به سرعت به خدمت او درخواهند آمد و دین و اعتقادات زمانه هم به سرعت به نفع او تغییر خواهد کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امتوشود",
+      "PlainText": "ای شاه جهان زود به کام تو شود\r\nدینار و درم زود به نام تو شود\r\nآزاده بسی زود غلام تو شود\r\nوین توسن دهر زود رام تو شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه، جهان زود به کام تو شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدینار و درم زود به نام تو شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآزاده بسی زود غلام تو شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین توسن دهر زود رام تو شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه، جهان زود به کام تو شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دینار و درم زود به نام تو شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آزاده بسی زود غلام تو شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین توسن دهر زود رام تو شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

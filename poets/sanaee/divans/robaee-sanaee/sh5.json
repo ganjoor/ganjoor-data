@@ -1,0 +1,58 @@
+{
+  "Id": 12740,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۵",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۵",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh5",
+  "RhymeLetters": "وازترا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمجید از کبک و پرواز او در آسمان می‌پردازد. شاعر می‌گوید که کبک تنها شکار برای باز است و پرواز او در اوج آسمان قابل مشاهده است. همچنین اشاره می‌کند که راز کبک قابل فهم نیست و در میان دیگران کسی مانند او وجود ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وازتورا",
+      "PlainText": "ای کبک شکار نیست جز باز تو را\r\nبر اوج فلک باشد پرواز تو را\r\nزان می نتوان شناختن راز تو را\r\nدر پرده کسی نیست هم آواز تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کبک شکار نیست جز باز تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر اوج فلک باشد پرواز تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان می‌نتوان شناختن راز تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پرده کسی نیست هم آواز تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کبک شکار نیست جز باز تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر اوج فلک باشد پرواز تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان می‌نتوان شناختن راز تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در پرده کسی نیست هم آواز تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

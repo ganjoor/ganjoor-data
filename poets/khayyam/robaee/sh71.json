@@ -1,0 +1,58 @@
+{
+  "Id": 1189,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۷۱",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۷۱",
+  "FullUrl": "/khayyam/robaee/sh71",
+  "RhymeLetters": "وخواهیشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به این موضوع اشاره می‌کند که آدمی تا چه حد تحت تأثیر ظواهر دنیا و زیبایی‌ها قرار می‌گیرد و به دنبال چیزهای ظاهری می‌گردد. او می‌پرسد که چگونه می‌توان به زشتی‌ها و زیبایی‌ها دل بست و در نهایت، هر چه باشد، همه چیز در نهایت به خاک برمی‌گردد. به نوعی، شاعر به عدم ماندگاری دنیا و بی‌فایده بودن وابستگی به آن نکته می‌زند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وخواهیشد",
+      "PlainText": "تا چند اسیر رنگ و بو خواهی شد\r\nچند از پی هر زشت و نکو خواهی شد\r\nگر چشمه زمزمی و گر آب حیات\r\nآخر به دل خاک فروخواهی شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند اسیر رنگ و بو خواهی شد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند از پی هر زشت و نکو خواهی شد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چشمهٔ زمزمی و گر آب حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر به دل خاک فروخواهی شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند اسیر رنگ و بو خواهی شد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چند از پی هر زشت و نکو خواهی شد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر چشمهٔ زمزمی و گر آب حیات",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر به دل خاک فروخواهی شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

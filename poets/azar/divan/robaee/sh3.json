@@ -1,0 +1,58 @@
+{
+  "Id": 118924,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/azar/divan/robaee/sh3",
+  "RhymeLetters": "فا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف سختی‌ها و ظلم‌هایی می‌پردازد که افراد وفادار تجربه کرده‌اند. شاعر پس از دیدن این جفاها، در خاک نجف احساس آرامش می‌کند و می‌گوید که طوفان‌ها در دریای نجف آرام گرفته‌اند. به عبارتی، در نجف، با وجود تمامی چالش‌ها، احساس صفا و آرامش وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فا",
+      "PlainText": "طوفان سرو سر کرده ی اصحاب وفا\r\nاز بسکه ز گردش فلک دید جفا\r\nآسود چو در خاک نجف آذر گفت\r\nطوفان در دریای نجف شد ز صفا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطوفان، سرو سر کرده ی اصحاب وفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بسکه ز گردش فلک دید جفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسود چو در خاک نجف، آذر گفت:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E«طوفان در دریای نجف شد ز صفا»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طوفان، سرو سر کرده ی اصحاب وفا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بسکه ز گردش فلک دید جفا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آسود چو در خاک نجف، آذر گفت:",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "«طوفان در دریای نجف شد ز صفا»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

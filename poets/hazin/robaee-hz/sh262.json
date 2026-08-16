@@ -1,0 +1,58 @@
+{
+  "Id": 83159,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۶۲",
+  "FullUrl": "/hazin/robaee-hz/sh262",
+  "RhymeLetters": "نی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به معرفت و تامل در گذر زمان اشاره دارد. شاعر می‌گوید هر لحظه از عمر ما در حال سپری شدن است و ما فقط به وعده‌هایی که برای فردا داریم فکر می‌کنیم. او به ما یادآوری می‌کند که دیروز، امروز چه کردیم و باید در نظر داشته باشیم که نباید آینده خود را با کارهایی که امروز انجام می‌دهیم زحمت بکشیم. به نوعی این پیام را به ما می‌دهد که باید در حال زندگی کنیم و از امروز به بهترین شکل استفاده کنیم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نی",
+      "PlainText": "هر دم ز تو عمر می کند بیخ و بنی\r\nجز وعده به فردا نشناسی سخنی\r\nدیروز تو را که هست فردا امروز\r\nبنگر که چه کرده ای که فردا نکنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم ز تو عمر می کَنَد بیخ و بنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز وعده به فردا نشناسی سخنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیروز تو را که هست فردا، امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنگر که چه کرده ای که فردا نکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر دم ز تو عمر می کَنَد بیخ و بنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز وعده به فردا نشناسی سخنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیروز تو را که هست فردا، امروز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنگر که چه کرده ای که فردا نکنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

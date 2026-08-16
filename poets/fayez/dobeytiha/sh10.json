@@ -1,0 +1,58 @@
+{
+  "Id": 68140,
+  "CatId": 2021,
+  "Title": "دوبیتی شمارهٔ ۱۰",
+  "FullTitle": "فایز » دوبیتی‌ها » دوبیتی شمارهٔ ۱۰",
+  "FullUrl": "/fayez/dobeytiha/sh10",
+  "RhymeLetters": "ترساییامشب",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این شعر شاعر به دلبرش می‌گوید که چه خوب می‌شد اگر امشب بدون ترس به او نزدیک می‌شد. او همچنین از خشکی لبان خود شکایت کرده و خواهان رحمت دلبرش است تا لبانش را به لطف و زیبایی او تر کند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ترساییامشب",
+      "PlainText": "بگو با دلبر ترسایی امشب\r\nچه می شد گر که بی ترس آیی امشب\r\nلبان خشک فایز را ز رحمت\r\nبر آن لعل لب تر سایی امشب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگو با دلبر ترسایی امشب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه می‌شد گر که بی ترس آیی امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلبان خشک فایز را ز رحمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن لعل لب تر سایی امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگو با دلبر ترسایی امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه می‌شد گر که بی ترس آیی امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لبان خشک فایز را ز رحمت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر آن لعل لب تر سایی امشب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

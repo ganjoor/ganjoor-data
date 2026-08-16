@@ -1,0 +1,58 @@
+{
+  "Id": 43091,
+  "CatId": 1684,
+  "Title": "رباعی شماره ۱۴",
+  "FullTitle": "رضی‌الدین آرتیمانی » رباعیات » رباعی شماره ۱۴",
+  "FullUrl": "/razi/robaeear/sh14",
+  "RhymeLetters": "درویشبداست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به تفکر درباره خودخواهی و تفاوت‌های انسانی اشاره دارد. شاعر می‌گوید که بد بودن با درویشانی که از خود راضی هستند، ناپسند است. او احساس نفرت از خود را بیان می‌کند و می‌گوید حتی اگر کسی با او بد باشد، در مقایسه با خودخواهی و بدی‌هایش، برای او بهتر است. به‌طور کلی، مضمون شعر تأکید بر ناپسند بودن خودبینی و اهمیت درک عمیق‌تر از خوبی‌ها و بدی‌های انسانی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "درویشبداست",
+      "PlainText": "با درویشان کبر خود اندیش بد است\r\nبا خویش بدست آنکه به درویش بد است\r\nاز بسکه بدم بخویش از خوبی خویش\r\nبا من خوب است آنکه بدرویش بد است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا درویشان کبر خود اندیش بد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خویش بدست آنکه به درویش بد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بسکه بدم بخویش، از خوبی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا من خوب است آنکه بدرویش بد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با درویشان کبر خود اندیش بد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خویش بدست آنکه به درویش بد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بسکه بدم بخویش، از خوبی خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با من خوب است آنکه بدرویش بد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

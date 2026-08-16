@@ -1,0 +1,58 @@
+{
+  "Id": 82951,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۶۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۶۳",
+  "FullUrl": "/hazin/robaee-hz/sh63",
+  "RhymeLetters": "رداست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن به ویژگی‌های فردی اشاره دارد که در میان دردمندان برجسته است. او تنها امید دل‌های داغدیده است و با تولدی پاک و خالی از آلودگی، خود را از مسیرهای ناپسند حفظ کرده است. این شخص به نوعی نماد پاکی و نیکی در میان مشکلات و رنج‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رداست",
+      "PlainText": "مردی که میان دردمندان فرد است\r\nتنها دل ماست کز دیار درد است\r\nآنکس که دهد غسل ولادت خود را\r\nز آلایش امهات سفلی مرد است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردی که میان دردمندان فرد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنها دل ماست کز دیار درد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکس که دهد غسل ولادت خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آلایش امّهات سفلی، مرد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردی که میان دردمندان فرد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تنها دل ماست کز دیار درد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنکس که دهد غسل ولادت خود را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز آلایش امّهات سفلی، مرد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

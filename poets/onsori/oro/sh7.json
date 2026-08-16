@@ -1,0 +1,58 @@
+{
+  "Id": 68857,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/onsori/oro/sh7",
+  "RhymeLetters": "نگیست",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به عمق درد و رنج خود اشاره می‌کند. او می‌گوید که فاصله آفاق به پای آه او بسیار زیاد است و آتش درونش باعث ایجاد حالتی دودی در آسمان شده است. هر جا که امیدی وجود دارد، ناخوشی و ناراحتی نیز آنجا به چشم می‌خورد، و در نهایت، هر جا که سنگی باشد، نشانه‌ای از سختی‌ها و مشکلات زندگی است که بر عمر او تاثیر گذاشته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگیست",
+      "PlainText": "آفاق به پای آه ما فرسنگی ست\r\nوز آتش ما سپهر دودآهنگی ست\r\nدر پای امید ماست هر جا خاری ست\r\nبر شیشه عمر ماست هرجا سنگی ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفاق به پای آه ما فرسنگی‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آتش ما سپهر دودآهنگی‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پای امید ماست هر جا خاری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شیشهٔ عمر ماست هرجا سنگی‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آفاق به پای آه ما فرسنگی‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز آتش ما سپهر دودآهنگی‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در پای امید ماست هر جا خاری‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر شیشهٔ عمر ماست هرجا سنگی‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82897,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/hazin/robaee-hz/sh9",
+  "RhymeLetters": "اهاست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به سفر زندگی و چالش‌های آن اشاره دارد. او بیان می‌کند که در مسیر زندگی، نشستن و توقف ممکن است خطرناک باشد. او از شرم و خجالت خود سخن می‌گوید، زیرا اگر بخواهد از جایش برخیزد، قدش کوتاه به نظر می‌رسد. این معنای نمادین نشان‌دهنده احساس ناتوانی و ترس از مواجهه با چالش‌های زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهاست",
+      "PlainText": "هر چند که ما رهرو و دنیا راه است\r\nدر راه نشستن خطر آگاه است\r\nزین شرم نشسته ام که پیرایه تن\r\nگر برخیزم به قامتم کوتاه است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که ما رهرو و دنیا راه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر راه نشستن خطر آگاه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین شرم نشسته ام که پیرایهٔ تن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر برخیزم به قامتم کوتاه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که ما رهرو و دنیا راه است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در راه نشستن خطر آگاه است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین شرم نشسته ام که پیرایهٔ تن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر برخیزم به قامتم کوتاه است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

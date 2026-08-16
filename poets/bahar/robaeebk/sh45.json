@@ -1,0 +1,58 @@
+{
+  "Id": 51768,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/bahar/robaeebk/sh45",
+  "RhymeLetters": "نمیبینم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به توصیف عشق و دلبستگی‌اش می‌پردازد. او می‌گوید که در موهای معشوقش هرج و مرج و آشفتگی مرا می‌بیند، در حالی که دیگران فقط پیچ و تاب‌های ظاهری را می‌بینند. او به احساسات عمیق و غم‌های شخصی خود اشاره می‌کند و می‌گوید که در این زیبایی، سرنوشت تلخ خود را نیز می‌نگرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمیبینم",
+      "PlainText": "در زلف تو آشوب زمن می بینم\r\nبیگانه نبیند آنچه من می بینم\r\nاو پیچ و خم و تاب و گره می نگرد\r\nمن بخت سیاه خویشتن می بینم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر زلف تو آشوب زمن می‌بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیگانه نبیند آنچه من می‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو پیچ و خم و تاب و گره می‌نگرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بخت سیاه خویشتن می‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در زلف تو آشوب زمن می‌بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیگانه نبیند آنچه من می‌بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او پیچ و خم و تاب و گره می‌نگرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بخت سیاه خویشتن می‌بینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

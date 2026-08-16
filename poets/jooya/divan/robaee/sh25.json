@@ -1,0 +1,58 @@
+{
+  "Id": 103079,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/jooya/divan/robaee/sh25",
+  "RhymeLetters": "ماست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به نوعی به انتقاد از زیاده‌خوری و پرخوری می‌پردازد. شاعر با اشاره به اینکه چنین افرادی کم‌اند، به خصوصیات بدنی آن‌ها اشاره می‌کند که مانند دهل بزرگ است. همچنین، از حالت فردی که پرخورده و از گرسنگی رنج می‌برد، صحبت می‌کند و می‌گوید صدای شکایت او ناشی از درد شکم است. به طور کلی، این شعر به مضرات پرخوری و عواقب آن اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ماست",
+      "PlainText": "ای خواجه که بسیار خوری چون تو کم است\r\nبطنت چو دهل ز پای تا سرورم است\r\nدر سیری از گرسنگی می نالد\r\nهر آرغ تو ناله درد شکم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه که بسیار خوری چون تو کم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبطنت چو دهل ز پای تا سرورم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سیری از گرسنگی می نالد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر آرغ تو نالهٔ درد شکم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه که بسیار خوری چون تو کم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بطنت چو دهل ز پای تا سرورم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سیری از گرسنگی می نالد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر آرغ تو نالهٔ درد شکم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

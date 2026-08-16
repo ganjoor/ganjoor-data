@@ -1,0 +1,58 @@
+{
+  "Id": 1208,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۹۰",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۹۰",
+  "FullUrl": "/khayyam/robaee/sh90",
+  "RhymeLetters": "لتببرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر توصیه می‌کند که از نوشیدن و لذت بردن غافل نشویم، زیرا این کار می‌تواند انسان را از نگرانی‌های زیادی مانند اختلافات و تضادهای اجتماعی آزاد کند. همچنین، او به ارزش کیمیای زندگی اشاره می‌کند که می‌تواند با یک جرعه، دلایل و مشکلات زیادی را از بین ببرد. در واقع، نوشیدن به عنوان وسیله‌ای برای شراب و شادی در نظر گرفته شده است که می‌تواند آرامش و روشن‌فکری به ارمغان آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لتببرد",
+      "PlainText": "می خور که ز دل کثرت و قلت ببرد\r\nو اندیشه هفتاد و دو ملت ببرد\r\nپرهیز مکن ز کیمیایی که از او\r\nیک جرعه خوری هزار علت ببرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی خور که ز دل کثرت و قلت ببرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو اندیشه هفتاد و دو ملت ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرهیز مکن ز کیمیایی که از او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک جرعه خوری هزار علت ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می خور که ز دل کثرت و قلت ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و اندیشه هفتاد و دو ملت ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرهیز مکن ز کیمیایی که از او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک جرعه خوری هزار علت ببرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

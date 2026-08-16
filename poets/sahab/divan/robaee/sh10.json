@@ -1,0 +1,58 @@
+{
+  "Id": 112334,
+  "CatId": 2638,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/sahab/divan/robaee/sh10",
+  "RhymeLetters": "ستغمت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: غزل بیانگر احساس عمیق عشق و غم است. شاعر می‌گوید که تا زمانی که دل او به عشق و غم تو وابسته نشده بود، جانش از درد عشق آسیبی نمی‌دید. اما اکنون که به دام عشق تو افتاده، جانش ناله می‌زند و دلش به خاطر غمت در عذاب است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستغمت",
+      "PlainText": "تا دل نشد از نخست پا بست غمت\r\nجان نیز نخورد تیری از شست غمت\r\nاکنون که گرفتار تو گشتند کنند\r\nجان ناله زدست دل دل از دست غمت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دل نشد از نخست پا بست غمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان نیز نخورد تیری از شست غمت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون که گرفتار تو گشتند کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان ناله زدست دل دل از دست غمت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دل نشد از نخست پا بست غمت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان نیز نخورد تیری از شست غمت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون که گرفتار تو گشتند کنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان ناله زدست دل دل از دست غمت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50173,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۱۳",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۱۳",
+  "FullUrl": "/mahsati/robmah/sh113",
+  "RhymeLetters": "نخویش",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در باغ، دیروز به خاطر غم و اندوه خودم در حال گشت و گریه بودم. ناگهان گل سرخی آمد و دامن من را چاک زد و باعث شد که پیراهنم به اشک‌هایم آغشته شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نخویش",
+      "PlainText": "در بستان دوش از غم و شیون خویش\r\nمی گشتم و می گریستم بر تن خویش\r\nآمد گل سرخ و چاک زد دامن خویش\r\nو آلود به اشکم همه پیراهن خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بستان دوش از غم و شیون خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌گشتم و می‌گریستم بر تن خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد گل سرخ و چاک زد دامن خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آلود به اشکم همه پیراهن خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بستان دوش از غم و شیون خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌گشتم و می‌گریستم بر تن خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمد گل سرخ و چاک زد دامن خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "و آلود به اشکم همه پیراهن خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

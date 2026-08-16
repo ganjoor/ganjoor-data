@@ -1,0 +1,58 @@
+{
+  "Id": 12768,
+  "CatId": 196,
+  "Title": "رباعی شمارهٔ ۳۳",
+  "FullTitle": "سنایی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳۳",
+  "FullUrl": "/sanaee/divans/robaee-sanaee/sh33",
+  "RhymeLetters": "رت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به خواجه محمد و محامد اشاره دارد و آنها را ستایش می‌کند. او به ویژگی‌های خوب آنها، مانند بخشندگی (سخا) و علم (که به پدر محامد نسبت داده شده) اشاره می‌کند و آنها را شایسته تاج و مقام می‌داند. به طور کلی، شاعر به فضایل ذاتی و فطری این دو نفر تاکید می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رت",
+      "PlainText": "ای خواجه محمد ای محامد سیرت\r\nای در خور تاج هر دو هم نام و سرت\r\nپیدا به شما دو تن سه اصل فطرت\r\nز آن روی سخا از تو و علم از پدرت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه محمد ای محامد سیرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای در خور تاج هر دو هم نام و سرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیدا به شما دو تن سه اصل فطرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آن روی سخا از تو و علم از پدرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه محمد ای محامد سیرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای در خور تاج هر دو هم نام و سرت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیدا به شما دو تن سه اصل فطرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز آن روی سخا از تو و علم از پدرت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

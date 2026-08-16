@@ -1,0 +1,58 @@
+{
+  "Id": 118953,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/azar/divan/robaee/sh32",
+  "RhymeLetters": "ازنداشت",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: حاجی زجاجی که به دین اعتقادی نداشت، نتوانست خود را از احساس شکست و ناامیدی رها کند. او با آوازه‌ای که داشت، به دیگران می‌گوید که در دلش چقدر شکست‌ها دارد و هیچ کس از آن خبر ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازنداشت",
+      "PlainText": "حاجی زجاجی که ز دین ساز نداشت\r\nخود را ز شکست دل کس باز نداشت\r\nآوازه فگنده است من شیشه گرم\r\nبس شیشه ی دل شکست کآواز نداشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاجی زجاجی که ز دین ساز نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود را ز شکست دل کس باز نداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآوازه فگنده است: من شیشه گرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس شیشه ی دل شکست، کآواز نداشت!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاجی زجاجی که ز دین ساز نداشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود را ز شکست دل کس باز نداشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آوازه فگنده است: من شیشه گرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس شیشه ی دل شکست، کآواز نداشت!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

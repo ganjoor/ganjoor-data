@@ -1,0 +1,58 @@
+{
+  "Id": 50135,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۷۵",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۷۵",
+  "FullUrl": "/mahsati/robmah/sh75",
+  "RhymeLetters": "شند",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این ابیات به احساسات عمیق عاشقان اشاره دارند. در شب، عاشقان به درد و رنج خود ادامه می‌دهند و به دنبال شراب بلا هستند که تلخی زندگی را شیرین کند. اگر راز دلشان را پنهان کنند، غمشان آن‌ها را می‌کشد و اگر آن را فاش کنند، مردم به خاطر این احساسات آن‌ها را از پا در می‌آورند. به طور کلی، این اشعار نشان‌دهنده تضاد عواطف و مشکلات عاشقی هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شند",
+      "PlainText": "شب را چه خبر که عاشقان می چه کشند\r\nوز جام بلا چگونه می زهر چشند\r\nار راز نهان کنند غمشان بکشد\r\nور فاش کنند مردمانش بکشند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب را چه خبر که عاشقان می چه کشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز جام بلا چگونه می زهر چشند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eار راز نهان کنند غمشان بکُشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور فاش کنند مردمانش بکُشند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب را چه خبر که عاشقان می چه کشند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز جام بلا چگونه می زهر چشند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ار راز نهان کنند غمشان بکُشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور فاش کنند مردمانش بکُشند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

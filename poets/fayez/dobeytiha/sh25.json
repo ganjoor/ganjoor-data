@@ -1,0 +1,58 @@
+{
+  "Id": 68155,
+  "CatId": 2021,
+  "Title": "دوبیتی شمارهٔ ۲۵",
+  "FullTitle": "فایز » دوبیتی‌ها » دوبیتی شمارهٔ ۲۵",
+  "FullUrl": "/fayez/dobeytiha/sh25",
+  "RhymeLetters": "ابست",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این نکته است که ظاهر چیزها همیشه نمایانگر حقیقت آنها نیست. نه هر شخصی که درخشان به نظر می‌رسد لزوماً مهم و ارزشمند است، و نه هر کسی که ادعای کار خاصی را دارد واقعی و معتبر است. همچنین، در عشق و معشوقه‌ها نیز گاهی که شیرینی وجود دارد، آن حقیقتاً خوشایند نیست. در نهایت، تنها به ظواهر نباید اعتماد کرد؛ پشت هر چیز، واقعیتی ممکن است نهفته باشد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباست",
+      "PlainText": "نه هر رخشنده کوکب آفتاب است\r\nنه هر پیغمبری صاحب کتاب است\r\nنه هر شیرین شود معشوقه فایز\r\nنه هر آب روان بینی گلاب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه هر رخشنده کوکب آفتاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هر پیغمبری صاحب کتاب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه هر شیرین شود معشوقه، فایز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هر آب روان بینی گلاب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه هر رخشنده کوکب آفتاب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه هر پیغمبری صاحب کتاب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه هر شیرین شود معشوقه، فایز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه هر آب روان بینی گلاب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

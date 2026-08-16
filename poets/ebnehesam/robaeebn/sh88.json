@@ -1,0 +1,58 @@
+{
+  "Id": 64885,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۸۸",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۸۸",
+  "FullUrl": "/ebnehesam/robaeebn/sh88",
+  "RhymeLetters": "ای",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف زیبایی‌های طبیعی و تغییرات بهاری می‌پردازد. زمین با سبزه‌ها پوشیده شده و هوا پر از عطر خوش است. همچنین، لاله‌های زرد و قرمز بر روی کوه‌ها شکوفه زده‌اند و زیبایی و شناختی دوگانه را به وجود آورده‌اند. شاعر از این مناظر طبیعی به تحسین و شگفتی می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ای",
+      "PlainText": "از نشو و سحاب شد زمین سبزه نمای\r\nوز بوی عبیر شد هوا نافه گشای\r\nاز لاله زرد و سرخ بر پشته کوه\r\nعالم علم دو رنگ بر کرد بپای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نشو و سحاب شد زمین سبزه نمای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بوی عبیر شد هوا نافه گشای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز لاله زرد و سرخ بر پشته کوه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالم علم دو رنگ بر کرد بپای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نشو و سحاب شد زمین سبزه نمای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز بوی عبیر شد هوا نافه گشای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از لاله زرد و سرخ بر پشته کوه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عالم علم دو رنگ بر کرد بپای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

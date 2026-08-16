@@ -1,0 +1,58 @@
+{
+  "Id": 104895,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/ahli/divan/robaee/sh89",
+  "RhymeLetters": "ومست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره بی‌وفایی و ظلم روزگار به عاشقان است. شاعر به مقایسه دو عشق می‌پردازد؛ عشق خسرو به شیرین و سرنوشت فرهاد که با وجود لیاقتش از عشق خود محروم مانده است. به طور کلی، شعر بیانگر تلخی و نابرابری در روابط عاشقانه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ومست",
+      "PlainText": "بد مهری چرخ بی وفا معلومست\r\nجورش همگی بعاشق مظلومست\r\nخسرو رسدش زکوة حسن از شیرین\r\nفرهاد که مستحق بود محرومست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبد مهری چرخ بی وفا معلومست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجورش همگی بعاشق مظلومست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخسرو رسدش زکوة حسن از شیرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرهاد که مستحق بود محرومست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بد مهری چرخ بی وفا معلومست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جورش همگی بعاشق مظلومست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خسرو رسدش زکوة حسن از شیرین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرهاد که مستحق بود محرومست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

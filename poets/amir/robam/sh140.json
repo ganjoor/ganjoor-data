@@ -1,0 +1,58 @@
+{
+  "Id": 70183,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۴۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۴۰",
+  "FullUrl": "/amir/robam/sh140",
+  "RhymeLetters": "ون",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر از چرخ روزگار می‌خواهد تا بر کینه‌هایش فشاری نیاورد و به یاد خدماتی که در گذشته انجام داده، حقی را به او بدهد. او از این چرخ می‌خواهد که آسایش و آرامش را به دلش هدیه دهد، زیرا در دل او احساسات و دردهای زیادی نهفته است که نیاز به درمان دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینهٔمن",
+      "PlainText": "ای چرخ کمر مبند برکینه من\r\nبگزار حق خدمت دیرینه من\r\nآسایش سینه مرا درمان کن\r\nکاسایش سینه هاست در سینه من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چرخ‌کمر مبند برکینه من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگزار حق خدمت دیرینهٔ من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسایش سینهٔ مرا درمان کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاسایش سینه‌هاست در سینهٔ من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چرخ‌کمر مبند برکینه من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگزار حق خدمت دیرینهٔ من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آسایش سینهٔ مرا درمان کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاسایش سینه‌هاست در سینهٔ من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

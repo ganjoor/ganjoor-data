@@ -1,0 +1,58 @@
+{
+  "Id": 122784,
+  "CatId": 2822,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "ادیب صابر » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/saber/divan/robaee/sh1",
+  "RhymeLetters": "ونمارا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از زیبایی‌های باغ و شراب خوش رنگ صحبت می‌کند و حسد آسمان (گردون) را نسبت به خودشان بیان می‌کند. او به این نکته اشاره می‌کند که گرمای باغ آن‌ها را از آن محیط بیرون کرده و حالا باید به جای دیگری پناه ببرند که سرد است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونمارا",
+      "PlainText": "با باغ گل و باده گلگون ما را\r\nچون دید حسد نمود گردون ما را\r\nگرماش ز باغ کرد بیرون ما را\r\nسردابه گزید باید اکنون ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا باغ گل و باده گلگون ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دید حسد نمود گردون ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرماش ز باغ کرد بیرون ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسردابه گزید باید اکنون ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با باغ گل و باده گلگون ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون دید حسد نمود گردون ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرماش ز باغ کرد بیرون ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سردابه گزید باید اکنون ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

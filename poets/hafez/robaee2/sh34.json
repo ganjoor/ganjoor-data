@@ -1,0 +1,58 @@
+{
+  "Id": 2084,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۳۴",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۳۴",
+  "FullUrl": "/hafez/robaee2/sh34",
+  "RhymeLetters": "نگمیباردازاو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از جذابیت و فریبندگی چشم معشوق صحبت می‌کند که دل را می‌برد، اما در عین حال، درد و زخم جنگ و جدایی از او را نیز احساس می‌کند. او به زودی از ناپایداری و دل‌زدگی دوستانش ناراحت می‌شود و به دل خود افسوس می‌خورد که همچون سنگی سرد شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگمیباردازاو",
+      "PlainText": "چشمت که فسون و رنگ می بارد از او\r\nافسوس که تیر جنگ می بارد از او\r\nبس زود ملول گشتی از هم نفسان\r\nآه از دل تو که سنگ می بارد از او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت که فسون و رنگ می‌بارد از او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسوس که تیر جنگ می‌بارد از او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس زود ملول گشتی از هم‌نفَسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآه از دل تو که سنگ می‌بارد از او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشمت که فسون و رنگ می‌بارد از او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افسوس که تیر جنگ می‌بارد از او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس زود ملول گشتی از هم‌نفَسان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آه از دل تو که سنگ می‌بارد از او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

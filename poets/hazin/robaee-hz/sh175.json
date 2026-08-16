@@ -1,0 +1,58 @@
+{
+  "Id": 83064,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۷۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۷۵",
+  "FullUrl": "/hazin/robaee-hz/sh175",
+  "RhymeLetters": "رض",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به نقد و توصیف ظاهری و باطنی فردی می‌پردازد. شاعر می‌گوید که اگرچه از لحاظ ظاهری (قد و قامت) ممکن است کسی به نظر پست بیاید، اما در حقیقت، ارزش و مقام او به زیبایی و معنی او بستگی دارد. شاعر با بازی‌های زبانی و تصاویری، به تناقض میان طول و عرض اشاره می‌کند و نشان می‌دهد که هرچند قد فرد کوتاه است، اما این به هیچ وجه ارزش او را کاهش نمی‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رض",
+      "PlainText": "ای صورت و معنی تو را پستی فرض\r\nاز طبع قد تو کو تهی برده به قرض\r\nکوتاه تری یک گره از خایه به طول\r\nبا خایه برابری ولیکن در عرض",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صورت و معنی تو را پستی فرض\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز طبع، قد تو کو تهی برده به قرض\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوتاه تری یک گره از خایه به طول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خایه برابری ولیکن در عرض\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای صورت و معنی تو را پستی فرض",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از طبع، قد تو کو تهی برده به قرض",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوتاه تری یک گره از خایه به طول",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با خایه برابری ولیکن در عرض",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

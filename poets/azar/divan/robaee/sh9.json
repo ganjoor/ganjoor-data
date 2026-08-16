@@ -1,0 +1,58 @@
+{
+  "Id": 118930,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/azar/divan/robaee/sh9",
+  "RhymeLetters": "بامشب",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از شدت تب و آتش درونی خود صحبت می‌کند که جانش را به لبش رسانده است. او احساس می‌کند که محبوبش مانند روزهای گذشته از کنارش رفته و هر شب هم این احساس غم و جدایی تکرار می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بامشب",
+      "PlainText": "بگداخت تنم ز آتش تب امشب\r\nجانم ز غمش رسیده بر لب امشب\r\nبگذشت ز من یار چو هر روز امروز\r\nز آن میگذرد بمن چو هر شب امشب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگداخت تنم ز آتش تب امشب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانم ز غمش رسیده بر لب امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذشت ز من یار، چو هر روز امروز؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آن میگذرد بمن، چو هر شب امشب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگداخت تنم ز آتش تب امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانم ز غمش رسیده بر لب امشب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگذشت ز من یار، چو هر روز امروز؛",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز آن میگذرد بمن، چو هر شب امشب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

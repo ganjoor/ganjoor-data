@@ -1,0 +1,58 @@
+{
+  "Id": 50149,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۸۹",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۸۹",
+  "FullUrl": "/mahsati/robmah/sh89",
+  "RhymeLetters": "ید",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به زیبایی و تاثیرگذاری خط و نوشته اشاره دارد. شاعر از خطی سخن می‌گوید که همچون گل بنفشه جلوه‌گر است و به زیبایی ماه می‌زند. همچنین، شاعر به دگرگونی احوال خود از شب به صبح اشاره می‌کند و می‌گوید که این تغییرات، دلش را به آشوب می‌آورد. در واقع، زیبایی خط و تاثیر آن بر روح و احساسات شاعر را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "خطت چو بنفشه از گل آورد پدید\r\nآورد خطی که بر سر ماه کشید\r\nپیوسته ز شب صبح دمیدی اکنون\r\nآشوب دل مرا شب از صبح دمید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخطت چو بنفشه از گل آورد پدید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآورد خطی که بر سر ماه کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوسته ز شب صبح دمیدی اکنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآشوب دل مرا شب از صبح دمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خطت چو بنفشه از گل آورد پدید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آورد خطی که بر سر ماه کشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیوسته ز شب صبح دمیدی اکنون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آشوب دل مرا شب از صبح دمید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

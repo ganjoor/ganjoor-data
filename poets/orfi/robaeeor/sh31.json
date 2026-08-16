@@ -1,0 +1,58 @@
+{
+  "Id": 48750,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۳۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۱",
+  "FullUrl": "/orfi/robaeeor/sh31",
+  "RhymeLetters": "ودهاست",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات غمناک شاعر می‌پردازد. او می‌گوید که از آغاز زندگی‌اش، غم و اندوه را تجربه کرده و همیشه صدای ناله و شیون دیگران را شنیده است. اما امروز از عرفی شنیده که حتی چرخ فلک نیز در خواب نمی‌تواند غم او را درک کند. در واقع، شاعر احساس تنهایی و بی‌کسی می‌کند و غم او به اندازه‌ای عمیق است که حتی زمان و جهان نیز از آن غافلند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ودهاست",
+      "PlainText": "تا عمر مرا فلک به غم پیموده است\r\nگوشم به فغان اهل شیون بوده است\r\nامروز شنیده ام ز عرفی بی تو\r\nدر خواب که چرخ هم نشنوده است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا عمر مرا فلک به غم پیموده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوشم به فغان اهل شیون بوده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز شنیده ام ز عرفی، بی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خواب که چرخ هم نشنوده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا عمر مرا فلک به غم پیموده است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوشم به فغان اهل شیون بوده است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز شنیده ام ز عرفی، بی تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خواب که چرخ هم نشنوده است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

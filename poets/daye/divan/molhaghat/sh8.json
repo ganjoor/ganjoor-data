@@ -1,0 +1,77 @@
+{
+  "Id": 140643,
+  "CatId": 2587,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » ملحقات » شمارهٔ ۸",
+  "FullUrl": "/daye/divan/molhaghat/sh8",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از وقوع یک حادثه عجیب در جهان و بارگیری که به طاق افتاده صحبت می‌کند. او همچنین به سرعت و زیبایی مرکب خود اشاره کرده و می‌گوید که این مرکب به صورت ناگهانی و برق‌آسا افتاده است. این اشعار نمادی از حیرت و شگفتی شاعر نسبت به رخدادهای غیرمنتظره است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقافتاد",
+      "PlainText": "در جهان طرفه اتفاق افتاد\r\nبارگیر مرا که طاق افتاد\r\nاز همه مرکبان برق صفت\r\nباد پیمای من براق افتاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جهان طرفه اتفاق افتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبارگیر مرا که طاق افتاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز همه مرکبان برق صفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد پیمای من براق افتاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اقافتاد",
+      "PlainText": "در جهان طرفه اتفاق افتاد\r\nبارگیر مرا که طاق افتاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جهان طرفه اتفاق افتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبارگیر مرا که طاق افتاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بادپیمایمنبراقافتاد",
+      "PlainText": "از همه مرکبان برق صفت\r\nباد پیمای من براق افتاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز همه مرکبان برق صفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد پیمای من براق افتاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در جهان طرفه اتفاق افتاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بارگیر مرا که طاق افتاد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از همه مرکبان برق صفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باد پیمای من براق افتاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    }
+  ]
+}

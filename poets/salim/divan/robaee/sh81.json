@@ -1,0 +1,58 @@
+{
+  "Id": 101872,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۱",
+  "FullUrl": "/salim/divan/robaee/sh81",
+  "RhymeLetters": "ین",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به انتظار و شوقی که برای آمدن محبوب دارد اشاره می‌کند. او می‌گوید که تا زمانی که محبوب نیامده، شوق و شادی در دل او تبدیل به یقین شده است و دلش به طرب و شادابی نیاز دارد. او از محبوب می‌خواهد که هر چه زودتر بیاید و به او بپیوندد، زیرا شوقش از حد گذشته و هیچ‌جایی جز خانه محبوب را برای آرامش نمی‌پسندد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "تا آمدن تو شوق را گشت یقین\r\nبندد ز طرب خانه ی دل را آیین\r\nخود را برسان که شوق از اندازه گذشت\r\nجایی مکن آرام بجز خانه ی زین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا آمدن تو شوق را گشت یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبندد ز طرب، خانه ی دل را آیین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود را برسان که شوق از اندازه گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجایی مکن آرام بجز خانه ی زین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا آمدن تو شوق را گشت یقین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بندد ز طرب، خانه ی دل را آیین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود را برسان که شوق از اندازه گذشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جایی مکن آرام بجز خانه ی زین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

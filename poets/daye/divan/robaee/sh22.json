@@ -1,0 +1,58 @@
+{
+  "Id": 107185,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/daye/divan/robaee/sh22",
+  "RhymeLetters": "انیببرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان اهمیت و تأثیر عشق در زندگی می‌پردازد. نویسنده می‌گوید عشق جوانی و خوشی را به همراه دارد و عشق اگرچه به عنوان منبع زندگی و شادی شناخته می‌شود، اما در عین حال می‌تواند از دل آدمی، زندگانی و شادی را نیز برباید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیببرد",
+      "PlainText": "عشق است که لذت جوانی ببرد\r\nعشق است که عیش جاودانی ببرد\r\nعشق ار چه که آب زندگانی دل است\r\nلیکن ز دل آب زندگانی ببرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق است که لذت جوانی ببرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق است که عیش جاودانی ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق ار چه که آب زندگانی دل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن ز دل آب زندگانی ببرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق است که لذت جوانی ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشق است که عیش جاودانی ببرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق ار چه که آب زندگانی دل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لیکن ز دل آب زندگانی ببرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

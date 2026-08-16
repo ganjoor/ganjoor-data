@@ -1,0 +1,58 @@
+{
+  "Id": 103126,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/jooya/divan/robaee/sh72",
+  "RhymeLetters": "ینتر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به تلخی‌ها و دردهای زندگی اشاره می‌کند و می‌گوید که با روبرو شدن با این تلخی‌ها، می‌توانیم طعم شیرین‌تری از زندگی را تجربه کنیم. او به ما یادآوری می‌کند که هرچند پند و نصیحت گاهی تلخ و ناگوار است، اما اگر از آن رنجیده نشویم، می‌تواند به ما اثر مثبت و سریع ببخشد. در نهایت، اشاره دارد که می‌توان از تجربیات تلخ، درسی قوی‌تر و ارزشمندتر گرفت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینتر",
+      "PlainText": "با تلخی ساز تا شود شیرین تر\r\nخونابه دل خور که شوی رنگین تر\r\nاز پند چو رنجیدی اثر بخشد زود\r\nآری هر می که تلخ تر زورین تر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تلخی ساز تا شود شیرین‌تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخونابهٔ دل خور که شوی رنگین‌تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پند چو رنجیدی اثر بخشد زود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری هر می که تلخ‌تر زورین‌تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با تلخی ساز تا شود شیرین‌تر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خونابهٔ دل خور که شوی رنگین‌تر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پند چو رنجیدی اثر بخشد زود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری هر می که تلخ‌تر زورین‌تر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

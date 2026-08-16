@@ -1,0 +1,58 @@
+{
+  "Id": 45801,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۳۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۳۹",
+  "FullUrl": "/ghaani/ghetegh/sh139",
+  "RhymeLetters": "الی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت از شاعر، به این موضوع اشاره دارد که وقتی انسان از نعمت‌های مادی مانند باده (شراب) و زر و سیم (طلا و نقره) خالی می‌شود، تنها راهی که برای او باقی می‌ماند، تقوا و پرهیزگاری است. در واقع، وقتی فردی از لذت‌های مادی محروم می‌شود، باید به زهد و دوری از دنیا رو بیاورد. همچنین در آن، به وضعیت رند لاابالی اشاره شده که در زندگی خود درد و رنجی را تحمل می‌کند. در مجموع، این شعر نصیحتی است به کسانی که برای خوشی‌ها و دارایی‌های دنیوی خود اهمیت قائل هستند.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الی",
+      "PlainText": "چون کاسه و کیسه   گشت هر دو\r\nار باده و زر و سیم خالی\r\nجز زهد و ورع چه چاره دارد\r\nدردی کش رند لاابالی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون کاسه و کیسه‌‌ گشت هر دو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eار باده و زرّ و سیم خالی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز زهد و ورع چه چاره دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردی کش رند لاابالی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون کاسه و کیسه‌‌ گشت هر دو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ار باده و زرّ و سیم خالی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز زهد و ورع چه چاره دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردی کش رند لاابالی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

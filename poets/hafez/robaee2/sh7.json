@@ -1,0 +1,58 @@
+{
+  "Id": 2057,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۷",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۷",
+  "FullUrl": "/hafez/robaee2/sh7",
+  "RhymeLetters": "اریدگراست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از احساس سنگینی و غم ناشی از جدایی سخن می‌گوید. او هر روز با بار سنگینی از درد و حسرت مواجه است و در چشمش نشانه‌های جدایی نمایان است. تلاش او برای مقابله با این درد بی‌نتیجه است و قضا و قدر نشان می‌دهد که کاری فراتر از توان او وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریدگراست",
+      "PlainText": "هر روز دلم به زیر باری دگر است\r\nدر دیده من ز هجر خاری دگر است\r\nمن جهد همی کنم قضا می گوید\r\nبیرون ز کفایت تو کاری دگر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر روز دلم به زیر باری دگر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دیدهٔ من ز هجر خاری دگر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن جهد همی‌کنم قضا می‌گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون ز کفایت تو کاری دگر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر روز دلم به زیر باری دگر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیدهٔ من ز هجر خاری دگر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من جهد همی‌کنم قضا می‌گوید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیرون ز کفایت تو کاری دگر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

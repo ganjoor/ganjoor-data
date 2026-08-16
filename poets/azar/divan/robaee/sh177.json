@@ -1,0 +1,58 @@
+{
+  "Id": 119098,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۷۷",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۷۷",
+  "FullUrl": "/azar/divan/robaee/sh177",
+  "RhymeLetters": "ویگلی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات از شاعری با موضوع طبیعت و عشق به زیبایی گل‌ها و صدای دلنشین بلبلان صحبت می‌کند. در اینجا، شکوفایی گل‌ها و شور و حال بلبل‌ها به تصویر کشیده شده است. شاعر به تبادل احساسی میان خود و یار (که نماد گل است) اشاره می‌کند و از ناله بلبل و بوی گل به عنوان نماد عشق و رازهای درونی خود یاد می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویگلی",
+      "PlainText": "وقت است ز هر سو شکفد روی گلی\r\nهر بلبل مست رو نهد سوی گلی\r\nراز من و یار گل کند چون شنویم\r\nآن ناله ی بلبلی و من بوی گلی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقت است ز هر سو شکفد روی گلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر بلبل مست رو نهد سوی گلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراز من و یار، گل کند، چون شنویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن ناله ی بلبلی و، من بوی گلی!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقت است ز هر سو شکفد روی گلی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر بلبل مست رو نهد سوی گلی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راز من و یار، گل کند، چون شنویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن ناله ی بلبلی و، من بوی گلی!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

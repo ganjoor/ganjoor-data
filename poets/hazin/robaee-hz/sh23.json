@@ -1,0 +1,58 @@
+{
+  "Id": 82911,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/hazin/robaee-hz/sh23",
+  "RhymeLetters": "وشهٔماست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به مفهوم وسیع و بی‌پایان وجود و زیبایی‌های زندگی اشاره می‌کند. او می‌گوید که دل و زندگی‌اش به تلاش و دستاوردهایش وابسته است و از مور (نمادی از کوچک‌سازی یا نادانی) می‌خواهد که نتواند از او بهره‌برداری کند، چرا که او خود در جستجوی خوشی و زیبایی است. این اشعار بیانگر غنی بودن روح و تلاش برای دستیابی به لذت‌های زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشهٔماست",
+      "PlainText": "صد وادی بیکرانه درگوشه ی ماست\r\nلخت دل بسته بر میان توشه ماست\r\nای مور هوس بهره ای از ما نبری\r\nبرقی به کمین بردن خوشه ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد وادی بیکرانه درگوشه ی ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلخت دل بسته بر میان توشهٔ ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مور هوس، بهره ای از ما نبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرقی به کمین بردن خوشهٔ ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد وادی بیکرانه درگوشه ی ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لخت دل بسته بر میان توشهٔ ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای مور هوس، بهره ای از ما نبری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برقی به کمین بردن خوشهٔ ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

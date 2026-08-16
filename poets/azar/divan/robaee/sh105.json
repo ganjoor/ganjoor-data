@@ -1,0 +1,58 @@
+{
+  "Id": 119026,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/azar/divan/robaee/sh105",
+  "RhymeLetters": "اننیز",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از دلدادگی و جدایی صحبت می‌کند. او اشاره می‌کند که کسی که به او کمک می‌کرد و درمان دردش بود، اکنون رفته و دستش خالی مانده است. شاعر در تلاش است تا دوباره دلش را از آن شخص بگیرد، اما آن شخص نیز در تلاش است تا جانش را از عشق او بگیرد. در واقع، هر دو در پی چیزی هستند که دیگری را از دست می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننیز",
+      "PlainText": "یاری که بود دردم ازوف درمان نیز\r\nبگذشت و کشید از کفم دامان نیز\r\nمن در پی اینکه باز گیرم دل ازو\r\nاو در پی آنکه گیرد از من جان نیز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاری که بود دردم ازوف درمان نیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذشت و کشید از کفم دامان نیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن در پی اینکه، باز گیرم دل ازو؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو در پی آنکه، گیرد از من جان نیز!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاری که بود دردم ازوف درمان نیز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگذشت و کشید از کفم دامان نیز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من در پی اینکه، باز گیرم دل ازو؛",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او در پی آنکه، گیرد از من جان نیز!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 103078,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/jooya/divan/robaee/sh24",
+  "RhymeLetters": "اکاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به این نکته اشاره دارد که انسان یا احمق است یا شجاع. در تلاش برای دستیابی به نعمت‌های دنیوی، برخی از افراد به طرز غیرمنطقی و بی‌فکر عمل می‌کنند. همچنین به این موضوع پرداخته می‌شود که آن‌هایی که به دنبال بزرگ شدن و موفقیت هستند، ممکن است در نهایت به وسایل و چیزهای بی‌ارزشی دست یابند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکاست",
+      "PlainText": "انسان یا ابله است یا بی باکست\r\nکاندر طلب دنیی دون چالاک است\r\nمنعم که چو گردباد بالد بر خویش\r\nاسباب بزرگیش خس و خاشاک است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانسان یا ابله است یا بی باکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر طلب دنیی دون چالاک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنعم که چو گردباد بالد بر خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسباب بزرگیش خس و خاشاک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انسان یا ابله است یا بی باکست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاندر طلب دنیی دون چالاک است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منعم که چو گردباد بالد بر خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اسباب بزرگیش خس و خاشاک است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 103113,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/jooya/divan/robaee/sh59",
+  "RhymeLetters": "وربود",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات به بیان احساسات عاشقانه و جدایی از دنیا می‌پردازند. شاعر می‌گوید که دل مسرور از عشق، اگر در سینه باقی بماند، مجبور است در قید جسم خاکی زندگی کند. او از وضعیت ناچاری پرسش می‌کند که تا کی باید در این قید و بند باشد و به نوعی، به تنگنا و درد جدایی اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وربود",
+      "PlainText": "آن دل که ز جام عشق مسرور بود\r\nدر سینه اگر بماند مجبور بود\r\nتا کی در قید جسم خاکی باشد\r\nآخر تا چند زنده در گور بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن دل که ز جام عشق مسرور بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سینه اگر بماند مجبور بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی در قید جسم خاکی باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر تا چند زنده در گور بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن دل که ز جام عشق مسرور بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سینه اگر بماند مجبور بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا کی در قید جسم خاکی باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر تا چند زنده در گور بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

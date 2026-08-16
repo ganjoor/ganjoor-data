@@ -1,0 +1,58 @@
+{
+  "Id": 48837,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۱۸",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۱۸",
+  "FullUrl": "/orfi/robaeeor/sh118",
+  "RhymeLetters": "انخواهدبرد",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به یادآوری حقیقت مرگ و ناچیزی زندگی می‌پردازد. او می‌گوید که وقتی زمان مرگ فرا برسد، همه چیز از جمله زیبایی‌ها و زرق و برق دنیا نیز از بین خواهد رفت. او با ذکر مثال کفن، به این نکته اشاره می‌کند که چه بسا پوشش‌های زیبا و ظاهری در برابر حقیقت مرگ بی‌معنا هستند، چون در نهایت، مرگ همه چیز را خواهد برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انخواهدبرد",
+      "PlainText": "ای خواجه چو از تو مرگ جان خواهد برد\r\nاسباب زمانه هم زمان خواهد برد\r\nپیچیدن تن در کفن دیبا چیست\r\nبگذار کفن سگ استخوان خواهد برد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خواجه چو از تو مرگ جان خواهد برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسباب زمانه هم زمان خواهد برد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیچیدن تن در کفن دیبا چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذار کفن، سگ استخوان خواهد برد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه چو از تو مرگ جان خواهد برد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اسباب زمانه هم زمان خواهد برد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیچیدن تن در کفن دیبا چیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگذار کفن، سگ استخوان خواهد برد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

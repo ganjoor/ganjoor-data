@@ -1,0 +1,58 @@
+{
+  "Id": 73617,
+  "CatId": 2077,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "ظهیر فاریابی » رباعیات » شمارهٔ ۲۵",
+  "FullUrl": "/zahir/robaeez-zahir/sh25",
+  "RhymeLetters": "انگفت",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر نصیحتی را به گوش دل می‌گوید که باید از گفتن غم‌ها به دیگران پرهیز کرد، زیرا در نهایت کسی نیست که بتوان با او این غم‌ها را در میان گذاشت. به عبارتی دیگر، بهتر است غم‌های خود را برای خود نگه داریم، چون ممکن است دوستی برای همدردی پیدا نشود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انگفت",
+      "PlainText": "دوش این خردم نصیحتی پنهان گفت\r\nدر گوش دلم گفت و دلم با جان گفت\r\nبا کس غم دل مگوی زیرا که نماند\r\nیک دوست که با او غم دل بتوان گفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوش این خردم نصیحتی پنهان گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گوش دلم گفت و دلم با جان گفت:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا کس غم دل مگوی زیرا که نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دوست که با او غم دل بتوان گفت.\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوش این خردم نصیحتی پنهان گفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در گوش دلم گفت و دلم با جان گفت:",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با کس غم دل مگوی زیرا که نماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک دوست که با او غم دل بتوان گفت.",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

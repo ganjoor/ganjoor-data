@@ -1,0 +1,58 @@
+{
+  "Id": 119595,
+  "CatId": 2753,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/neshat/divan/robaee/sh61",
+  "RhymeLetters": "لتو",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به بیان عشق و وابستگی خود به معشوق می‌پردازد. او می‌گوید که تنها چیزی که دارد، دل اوست و این دل فقط در خانه‌ی معشوق ارزش دارد. حتی اگر چیز دیگری نداشته باشند، تنها خوشی‌اش به خاطر وجود معشوق است و به عقیده‌اش هیچ چیز دیگری در دنیا قابل توجه نیست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لتو",
+      "PlainText": "ما هیچ نداریم پسند دل تو\r\nجز یک دل و آن نیز بود منزل تو\r\nگر هیچ نداریم بغیر تو خوشیم\r\nغیر از تو چه باشد که بود قابل تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما هیچ نداریم پسند دل تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز یک دل و آن نیز بود منزل تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر هیچ نداریم بغیر تو، خوشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیر از تو چه باشد که بود قابل تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما هیچ نداریم پسند دل تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز یک دل و آن نیز بود منزل تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر هیچ نداریم بغیر تو، خوشیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غیر از تو چه باشد که بود قابل تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 64811,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۱۴",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۱۴",
+  "FullUrl": "/ebnehesam/robaeebn/sh14",
+  "RhymeLetters": "وت",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان سختی‌ها و مشکلات زندگی می‌پردازد. شاعر از زندگی در فقر و کمبود غذا سخن می‌گوید و بیان می‌کند که با وجود این مشکلات، باید با صبر و سکوت به زندگی ادامه داد. همچنین تأکید می‌کند که نباید به سرقت از دیگران دست زد تا برای خود و دیگران مشکلات بیشتری ایجاد نشود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وت",
+      "PlainText": "در خانه خود به کمترین مایه قوت\r\nبیچاره به سر کنی به صد صبر و سکوت\r\nبر سفره مردم نکشی دست به لوت\r\nتا پر نکنی شکم به سان الموت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خانه خود به کمترین مایه قوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره به سر کنی به صد صبر و سکوت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر سفره مردم نکشی دست به لوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا پر نکنی شکم به سان الموت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در خانه خود به کمترین مایه قوت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیچاره به سر کنی به صد صبر و سکوت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر سفره مردم نکشی دست به لوت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا پر نکنی شکم به سان الموت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

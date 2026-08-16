@@ -1,0 +1,58 @@
+{
+  "Id": 83382,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۲۱",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۲۱",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh221",
+  "RhymeLetters": "ورمیگردد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها به معنای این هستند که انسان عزلت‌طلب و دور از مردم، به خوشبختی و موفقیت نمی‌رسد و همیشه در تلاش است. پرواز بلندی که در زندگی‌اش به وجود می‌آورد، تنها برای کسانی است که از موانع عبور کرده و به دام نمی‌افتند. به عبارتی، برای دست‌یابی به موفقیت، باید برخلاف موانع و چالش‌ها پیش رفت.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نبالنیفتد",
+      "PlainText": "عزلت طلب از پایه اقبال نیفتد\r\nتنها رو این مرحله دنبال نیفتد\r\nپرواز بلندی ست فراز دو جهانش\r\nمرغی که به دام شکن بال نیفتد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعزلت طلب از پایهٔ اقبال نیفتد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنها رو این مرحله، دنبال نیفتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرواز بلندی ست فراز دو جهانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغی که به دام شکن بال نیفتد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عزلت طلب از پایهٔ اقبال نیفتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تنها رو این مرحله، دنبال نیفتد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرواز بلندی ست فراز دو جهانش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرغی که به دام شکن بال نیفتد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

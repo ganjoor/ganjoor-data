@@ -1,0 +1,58 @@
+{
+  "Id": 2056,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۶",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۶",
+  "FullUrl": "/hafez/robaee2/sh6",
+  "RhymeLetters": "تابندهشدهست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها به زیبایی و درخشش چهره فردی اشاره شده است. شاعر می‌گوید که خورشید به خاطر تابش نور او به خدمتش درآمده و به نوعی به او تمدن و روشنایی بخشیده است. همچنین از این نکته اشاره می‌شود که نور چهره او باعث درخشش ماه و خورشید شده است. به طور کلی، این اشعار بر زیبایی و شکوه شخصیتی متمرکز هستند که نورش، دیگران را نیز درخشان کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تابندهشدهست",
+      "PlainText": "تو بدری و خورشید تو را بنده شده ست\r\nتا بنده تو شده ست تابنده شده ست\r\nزان روی که از شعاع نور رخ تو\r\nخورشید منیر و ماه تابنده شده ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بدری و خورشید تو را بنده شده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بندهٔ تو شده‌ست تابنده شده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان روی که از شعاع نور رخ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید منیر و ماه تابنده شده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو بدری و خورشید تو را بنده شده‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا بندهٔ تو شده‌ست تابنده شده‌ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان روی که از شعاع نور رخ تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید منیر و ماه تابنده شده‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

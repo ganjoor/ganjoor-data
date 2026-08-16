@@ -1,0 +1,58 @@
+{
+  "Id": 114088,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۲۱۵",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۲۱۵",
+  "FullUrl": "/jahan/divan/robaee/sh215",
+  "RhymeLetters": "رم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، دل به شخص می‌گوید که به سوی گلستان ارم برود، اما او نگران از بسته بودن در آنجاست. دل پاسخ می‌دهد که چگونه ممکن است به او بی‌ادبی کنند و شخص در پایان فکر می‌کند که اگر جای دیگری برود، شاید خوشایند باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رم",
+      "PlainText": "دل گفت برو سوی گلستان ارم\r\nگفتم چه کنم گر نگشایند درم\r\nگفتا بکند با تو چنین بی ادبی\r\nگفتم نکند گر او بدیعست برم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت برو سوی گلستان ارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم چه کنم گر نگشایند درم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتا بکند با تو چنین بی ادبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم نکند گر او بدیعست برم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل گفت برو سوی گلستان ارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم چه کنم گر نگشایند درم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتا بکند با تو چنین بی ادبی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم نکند گر او بدیعست برم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

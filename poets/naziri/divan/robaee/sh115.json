@@ -1,0 +1,58 @@
+{
+  "Id": 123681,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۱۵",
+  "FullUrl": "/naziri/divan/robaee/sh115",
+  "RhymeLetters": "ستم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر از لحظه‌ای صحبت می‌کند که فرمانی به او داده می‌شود و او به سرعت از مکان خود برمی‌خیزد. او در حال آماده‌سازی برای سفر است و از زمانی که این خبر خوش به او رسید، دیگر نتوانسته است آرام بگیرد و همواره در حال حرکت بوده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستم",
+      "PlainText": "فرمان تو آمد و ز جا برجستم\r\nمی خواندم و اسباب سفر می بستم\r\nزان دم که گرفت این بشارت دستم\r\nبرخاستم و دگر ز پا ننشستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرمان تو آمد و ز جا برجستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی خواندم و اسباب سفر می بستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان دم که گرفت این بشارت دستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخاستم و دگر ز پا ننشستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرمان تو آمد و ز جا برجستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می خواندم و اسباب سفر می بستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان دم که گرفت این بشارت دستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برخاستم و دگر ز پا ننشستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

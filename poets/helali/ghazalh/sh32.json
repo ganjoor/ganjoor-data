@@ -1,0 +1,100 @@
+{
+  "Id": 68388,
+  "CatId": 1711,
+  "Title": "شمارهٔ  ۳۲",
+  "FullTitle": "هلالی جغتایی » غزلیات » شمارهٔ  ۳۲",
+  "FullUrl": "/helali/ghazalh/sh32",
+  "RhymeLetters": "اریما",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس عمیق دوستی و وفاداری اشاره دارد که تحت تأثیر جفای معشوق قرار گرفته است. شاعر بیان می‌کند که حتی اگر معشوق به او بی‌توجهی کند، این رفتارش نمی‌تواند محبت او را قطع کند. او از غم و اندوهی که ناشی از دوری و بی‌توجهی معشوق است، سخن می‌گوید و با یادآوری خاطرات تلخ، به شدت احساس درد و ناتوانی می‌کند. همچنین، اگرچه در چشمان معشوق خوار شده، اما این خواری را به عزت دیگران ترجیح می‌دهد. در نهایت، شاعر از غبار و نشانه‌های حضور معشوق در زندگی‌اش صحبت می‌کند که نشان‌دهنده تعهد و اعتبار او به این دوستی است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریما",
+      "PlainText": "نمی توان بجفا قطع دوستداری ما\r\nکه از جفای تو بیشست با تو یاری ما\r\nبسی چو ابر بهاران گریستیم و هنوز\r\nگلی نرست ز باغ امیدواری ما\r\nبچشم چون تو عزیزی شدیم خوار ولی\r\nز عزت دگران بهترست خواری ما\r\nغبار کوی تو ما را ز چهره دور مباد\r\nکه با تو می کند اظهار خاکساری ما\r\nز حال زار هلالی شبی که یاد کنم\r\nفلک بناله درآید ز آه و زاری ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی توان بجفا قطع دوستداری ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از جفای تو بیشست با تو یاری ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسی چو ابر بهاران گریستیم و هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلی نرست ز باغ امیدواری ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبچشم چون تو عزیزی شدیم خوار ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز عزت دگران بهترست خواری ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغبار کوی تو ما را ز چهره دور مباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه با تو می کند اظهار خاکساری ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز حال زار هلالی شبی که یاد کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفلک بناله درآید ز آه و زاری ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی توان بجفا قطع دوستداری ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که از جفای تو بیشست با تو یاری ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسی چو ابر بهاران گریستیم و هنوز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گلی نرست ز باغ امیدواری ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بچشم چون تو عزیزی شدیم خوار ولی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز عزت دگران بهترست خواری ما",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غبار کوی تو ما را ز چهره دور مباد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که با تو می کند اظهار خاکساری ما",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز حال زار هلالی شبی که یاد کنم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فلک بناله درآید ز آه و زاری ما",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

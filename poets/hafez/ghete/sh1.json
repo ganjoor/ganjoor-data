@@ -1,0 +1,58 @@
+{
+  "Id": 2093,
+  "CatId": 25,
+  "Title": "قطعه شمارهٔ ۱",
+  "FullTitle": "حافظ » قطعات » قطعه شمارهٔ ۱",
+  "FullUrl": "/hafez/ghete/sh1",
+  "RhymeLetters": "حتسب",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر از شاعر، به فرد توصیه می‌شود که ابتدا خود را بررسی کند و از خود بپرسد که نیک و بد او چیست. به او یادآوری می‌شود که نیازی به شخص دیگری برای قضاوت ندارد. همچنین به اهمیت تقوای الهی اشاره می‌شود و اینکه هر که تقوای خدا را پیشه کند، خداوند روزی‌اش را از جایی که انتظار ندارد، فراهم می‌کند.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "حتسب",
+      "PlainText": "تو نیک و بد خود هم از خود بپرس\r\nچرا بایدت دیگری محتسب\r\nو من یتق الله یجعل له\r\nو یرزقه من حیث لا یحتسب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو نیک و بد خود هم از خود بپرس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا بایدت دیگری محتسب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوَ مَنْ یَتَّقِ اللهَ یَجْعَلْ لَهُ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوَ یَرْزُقْهُ مِنْ حَیْثُ لا یَحْتَسِب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو نیک و بد خود هم از خود بپرس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چرا بایدت دیگری محتسب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وَ مَنْ یَتَّقِ اللهَ یَجْعَلْ لَهُ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وَ یَرْزُقْهُ مِنْ حَیْثُ لا یَحْتَسِب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

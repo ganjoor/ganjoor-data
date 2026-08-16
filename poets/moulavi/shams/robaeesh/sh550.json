@@ -1,0 +1,58 @@
+{
+  "Id": 30008,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۵۵۰",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۵۵۰",
+  "FullUrl": "/moulavi/shams/robaeesh/sh550",
+  "RhymeLetters": "امکهدید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر دربارهٔ یک عاشق صادق است که در هنگام غروب، اثر صبح را می‌بیند و از سوختگی خود فریاد می‌زند. او به خود یادآوری می‌کند که نباید این فریاد را سر دهد چون سوخته‌ای خام و همچنان دچار درد و اندوه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امکهدید",
+      "PlainText": "ای دل اثر صبح گه شام که دید\r\nیک عاشق صادق نکونام که دید\r\nفریاد همی زنی که من سوخته ام\r\nفریاد مکن سوخته ای خام که دید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل اثر صبح گه شام که دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک عاشق صادق نکونام که دید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریاد همی زنی که من سوخته‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد مکن سوخته‌ای خام که دید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل اثر صبح گه شام که دید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک عاشق صادق نکونام که دید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریاد همی زنی که من سوخته‌ام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فریاد مکن سوخته‌ای خام که دید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82931,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/hazin/robaee-hz/sh43",
+  "RhymeLetters": "اباست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر از درد و غم خود می‌گوید که ناشی از دو چیز ارزشمند و نایاب است. این غم باعث می‌شود که دلش آزرده و جگرش سوزان باشد. او اشاره می‌کند که اگر کسی توان شنیدن این درد را دارد، باید بداند که فقدان جوانی و جدایی از دوستان دلیل این رنج‌هاست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباست",
+      "PlainText": "داغم به دل از دو گوهر نایاب است\r\nکز وی جگرم کباب و دل در تاب است\r\nمی گویم اگر تاب شنیدن داری\r\nفقدان شباب و فرقت احباب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداغم به دل از دو گوهر نایاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز وی جگرم کباب و دل در تاب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی گویم اگر تاب شنیدن داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفقدان شباب و فرقت احباب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغم به دل از دو گوهر نایاب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز وی جگرم کباب و دل در تاب است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می گویم اگر تاب شنیدن داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فقدان شباب و فرقت احباب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

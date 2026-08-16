@@ -1,0 +1,58 @@
+{
+  "Id": 108031,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۳۱",
+  "FullUrl": "/saeeda/divan/robaee/sh131",
+  "RhymeLetters": "ابمشو",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ما می‌گوید که مانند موم در برابر آتش نرم و تسلیم نشویم و نباید به راحتی تحت تأثیر حوادث قرار بگیریم. همچنین از ما می‌خواهد در زندگی و در برابر چالش‌ها ثابت‌قدم باشیم و ناراحتی‌ها را تحمل کنیم، بدون اینکه تسلیم خواب و غفلت شویم. شاعر به اهمیت آگاهی و هوشیاری در مواجهه با زمانه اشاره می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابمشو",
+      "PlainText": "چون موم بر آتشی رسی آب مشو\r\nچون رشته ز تاب خویش بی تاب مشو\r\nبر روی زمین به چین ابرو بنشین\r\nدر چشم زمانه خون شو و خواب مشو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون موم بر آتشی رسی آب مشو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون رشته ز تاب خویش بی تاب مشو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر روی زمین به چین ابرو بنشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چشم زمانه خون شو و خواب مشو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون موم بر آتشی رسی آب مشو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون رشته ز تاب خویش بی تاب مشو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر روی زمین به چین ابرو بنشین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در چشم زمانه خون شو و خواب مشو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 48841,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۲۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۲۲",
+  "FullUrl": "/orfi/robaeeor/sh122",
+  "RhymeLetters": "ورزند",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: شعر به توصیف شخصیت عرفی و منصور می‌پردازد. عرفی از نور و روشنایی صحبت می‌کند و به معنای عمیق زندگی اشاره دارد، در حالی که منصور به بی‌ادبی و وقاحت پرداخته است. به نوعی، گویا عرفی با نغمه‌ای شگرف، در مقابل بی‌ادبی منصور از ادب و آداب سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورزند",
+      "PlainText": "عرفی لب معنی ام دم از نور زند\r\nآتش به نهاد شجر طور زند\r\nمنصور دم از بی ادبی می زد و من\r\nمرغ ادبم نغمه منصور زند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعرفی لب معنی ام دم از نور زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش به نهاد شجر طور زند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنصور دم از بی ادبی می زد و من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغ ادبم نغمهٔ منصور زند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی لب معنی ام دم از نور زند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش به نهاد شجر طور زند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منصور دم از بی ادبی می زد و من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرغ ادبم نغمهٔ منصور زند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82929,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/hazin/robaee-hz/sh41",
+  "RhymeLetters": "ایخوداست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار در مورد زیبایی و جذابیت معشوق صحبت می‌کند. شاعر به تصویری از محبوب خود اشاره می‌کند که او را چون آینه‌ای می‌بیند و می‌گوید زیبایی او تنها برای خود اوست و هیچ چیز دیگری را قبول ندارد. در نهایت، نویسنده از قدرت و جلوه‌ی زیبایی معشوق به طوری سخن می‌گوید که یادآور داستان‌های معروفی چون موسی و عصا و طور سینا است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایخوداست",
+      "PlainText": "یار آینه حسن دلارای خود است\r\nیک دیده محو در تماشای خود است\r\nاین حسن غیور برنمی تابد غیر\r\nموسی و عصا و طور سینای خود است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار آینه حسن دلارای خود است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دیدهٔ محو، در تماشای خود است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین حسنِ غیور برنمی تابد غیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموسی و عصا و طور سینای خود است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار آینه حسن دلارای خود است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک دیدهٔ محو، در تماشای خود است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این حسنِ غیور برنمی تابد غیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موسی و عصا و طور سینای خود است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

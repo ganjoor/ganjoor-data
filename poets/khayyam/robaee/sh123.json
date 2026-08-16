@@ -1,0 +1,58 @@
+{
+  "Id": 1241,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۲۳",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۲۳",
+  "FullUrl": "/khayyam/robaee/sh123",
+  "RhymeLetters": "ابیبخوریم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این رباعی در وصف غنیمت شمردن عمر و لحظات زندگی است که باید به بهترین چیزها یعنی می‌گساری صرف شود؛ پیش از آنکه تاب و آتش و سختی روزگار این فرصت را از ما بگیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابیبخوریم",
+      "PlainText": "برخیز ز خواب تا شرابی بخوریم\r\nزان پیش که از زمانه تابی بخوریم\r\nکاین چرخ ستیزه روی ناگه روزی\r\nچندان ندهد زمان که آبی بخوریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخیز ز خواب تا شرابی بخوریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان پیش که از زمانه تابی بخوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاین چرخ ستیزه‌روی ناگه روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان ندهد زمان که آبی بخوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برخیز ز خواب تا شرابی بخوریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان پیش که از زمانه تابی بخوریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کاین چرخ ستیزه‌روی ناگه روزی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان ندهد زمان که آبی بخوریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

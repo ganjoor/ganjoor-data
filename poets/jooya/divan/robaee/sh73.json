@@ -1,0 +1,58 @@
+{
+  "Id": 103127,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/jooya/divan/robaee/sh73",
+  "RhymeLetters": "وز",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به زیبایی‌های بهار و نوروز اشاره می‌کند و می‌گوید که جهان به لطف این روز سرسبز و پرنشاط شده است. همچنین از حضور امیر مؤمنان (علی) و جایگاه او در روز امروز سخن می‌گوید که نشان‌دهنده اهمیت و اعتبار این روز است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وز",
+      "PlainText": "سرسبز شده جهان ز فیض نوروز\r\nیعنی که رسید روز عشرت اندوز\r\nبنشسته امیر مؤمنان جان نبی\r\nبگرفته قرار حق به مرکز امروز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرسبز شده جهان ز فیض نوروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی که رسید روز عشرت اندوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنشسته امیر مؤمنان جان نبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگرفته قرار حق به مرکز امروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرسبز شده جهان ز فیض نوروز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی که رسید روز عشرت اندوز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنشسته امیر مؤمنان جان نبی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگرفته قرار حق به مرکز امروز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

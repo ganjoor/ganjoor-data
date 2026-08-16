@@ -1,0 +1,58 @@
+{
+  "Id": 105650,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۲۹",
+  "FullUrl": "/ahli/saghiname/sh30",
+  "RhymeLetters": "اهکهنیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از درد و اندوهی که بر اثر دوری معشوق به او دست داده صحبت می‌کند. او به ساقی می‌گوید که نمی‌تواند از غم معشوقش دوری کند و صبرش نیز به خاطر یادِ اوست. شاعر تأکید می‌کند که تنها معشوق در قلب او جای دارد و هیچ کس دیگری برایش اهمیت ندارد. در نهایت، با قسم خوردن تأکید می‌کند که محبتش نسبت به معشوق حقیقی و بی‌چون و چراست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهکهنیست",
+      "PlainText": "ساقی حذر از غم توام آه که نیست\r\nصبرم ز رخت حقست آگاه که نیست\r\nمقصود منی و جز تو کس در دل من\r\nوالله که نیست ثم والله که نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی حذر از غم توام آه که نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبرم ز رخت حقست آگاه که نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمقصود منی و جز تو کس در دل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوالله که نیست ثم والله که نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی حذر از غم توام آه که نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبرم ز رخت حقست آگاه که نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مقصود منی و جز تو کس در دل من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "والله که نیست ثم والله که نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

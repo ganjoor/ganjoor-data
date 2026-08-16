@@ -1,0 +1,58 @@
+{
+  "Id": 101808,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/salim/divan/robaee/sh17",
+  "RhymeLetters": "ستاناست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر به زیبایی بهار و شور و حال آن اشاره شده است. مرغان به نشاط و سرزندگی خود ادامه می‌دهند و نغمه‌های خوشایند چمن همچون محفل مستان است. سبزه‌ها نشان‌دهنده‌ی زیبایی و سرسبزی زمانه‌اند و لاله‌ها نیز نمایانگر زیبایی‌های دیاری به نام داغستان هستند. این اشعار به زیبایی و سرزندگی بهار و طبیعت پرداخته‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستاناست",
+      "PlainText": "دیگر ز بهار شورش مرغان است\r\nوز نغمه چمن چومجلس مستان است\r\nاز سبزه زمانه عرصه ی کشمیر است\r\nوز لاله چمن دیار داغستان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیگر ز بهار، شورش مرغان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نغمه چمن چومجلس مستان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سبزه زمانه عرصه ی کشمیر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز لاله چمن دیار داغستان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیگر ز بهار، شورش مرغان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز نغمه چمن چومجلس مستان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سبزه زمانه عرصه ی کشمیر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز لاله چمن دیار داغستان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

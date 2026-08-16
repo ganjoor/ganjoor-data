@@ -1,0 +1,58 @@
+{
+  "Id": 70086,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/amir/robam/sh43",
+  "RhymeLetters": "ریافت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف سفر خود می‌پردازد. او در مسیر خود فقط سنگ و زمین‌های کشاورزی را دیده و دوزخی ناخوشایند را تجربه کرده است. اما هنگامی که به حضور محبوب خود می‌رسد، بهشتی زیبا و خوشایند را پیدا می‌کند. این مضمون نشان‌دهنده تحولی است که عشق و وصال می‌تواند در زندگی انسان ایجاد کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شت",
+      "PlainText": "در راه نسا ای ملک پاک سرشت\r\nجز سنگ ندیدم به دل سبزه و کشت\r\nدوزخ دره ای گذاشتم ناخوش و زشت\r\nچون پیش تو آمدم رسیدم به بهشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر راه نسا ای ملک پاک سرشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز سنگ ندیدم به دل سبزه و کشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوزخ دره‌ای گذاشتم ناخوش و زشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون پیش تو آمدم رسیدم به بهشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در راه نسا ای ملک پاک سرشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز سنگ ندیدم به دل سبزه و کشت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دوزخ دره‌ای گذاشتم ناخوش و زشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون پیش تو آمدم رسیدم به بهشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

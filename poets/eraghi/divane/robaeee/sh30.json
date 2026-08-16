@@ -1,0 +1,58 @@
+{
+  "Id": 19582,
+  "CatId": 263,
+  "Title": "رباعی شمارهٔ ۳۰",
+  "FullTitle": "عراقی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۳۰",
+  "FullUrl": "/eraghi/divane/robaeee/sh30",
+  "RhymeLetters": "ارایناست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان این موضوع می‌پردازد که انسان‌ها اغلب از زیبایی‌ها و حقیقت‌های زندگی بی‌خبرند و به دنیای مادی و طبیعت گرایش دارند. شاعر اشاره می‌کند که با وجود جهل، اگر کسی به دنبال حقیقت برود، نمی‌تواند به درستی به شناخت برسد و این کار دشواری است. به عبارت دیگر، شناخت معنای واقعی زندگی نیازمند آگاهی و فهم عمیق‌تر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارایناست",
+      "PlainText": "از گلشن جان بی خبری خار این است\r\nمیلت به طبیعت است دشوار این است\r\nاز جهل بدان گر تو یکی ده گردی\r\nدر هستی حق نیست شوی کار این است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز گلشن جان بی‌خبری، خار این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیلت به طبیعت است، دشوار این است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جهل بدان، گر تو یکی ده گردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر هستی حق نیست شوی، کار این است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از گلشن جان بی‌خبری، خار این است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "میلت به طبیعت است، دشوار این است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جهل بدان، گر تو یکی ده گردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در هستی حق نیست شوی، کار این است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

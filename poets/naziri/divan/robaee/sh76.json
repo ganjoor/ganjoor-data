@@ -1,0 +1,58 @@
+{
+  "Id": 123642,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/naziri/divan/robaee/sh76",
+  "RhymeLetters": "شگردد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت ها به اهمیت عشق و پاسداشت روح اشاره شده است. بیان می‌کند که اگر دل و عقل انسان تحت تاثیر عشق قرار گیرد، با سوختن در آتش عشق، به نور و روشنایی دست پیدا می‌کند. در واقع، عشق باعث رشد و تکامل روح انسان می‌شود و او را به حقیقتی بالاتر می‌رساند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شگردد",
+      "PlainText": "بر تن مفزا که نفس سرکش گردد\r\nبر عقل متن که طبع ازو خوش گردد\r\nدر آتش عشق سوز تا نور شوی\r\nپروانه غذای روح آتش گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر تن مفزا که نفس سرکش گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر عقل متن که طبع ازو خوش گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آتش عشق سوز تا نور شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپروانه غذای روح آتش گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر تن مفزا که نفس سرکش گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر عقل متن که طبع ازو خوش گردد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آتش عشق سوز تا نور شوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پروانه غذای روح آتش گردد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

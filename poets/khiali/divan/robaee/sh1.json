@@ -1,0 +1,58 @@
+{
+  "Id": 99477,
+  "CatId": 2523,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "خیالی بخارایی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/khiali/divan/robaee/sh1",
+  "RhymeLetters": "ست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی چشمان و ابروهای معشوق اشاره می‌کند و می‌گوید که زیبایی او باعث فتنه و شور و شوق در دل‌ها شده است. شاعر از معشوق می‌خواهد که به خاطر خداوند با او در دوستی رفتار کند و از دشمنی پرهیز کند، زیرا اگر این کار را نکند، او از دل و زندگی‌اش می‌رود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "تا چشم تو بر کمین دلها بنشست\r\nابروی تو صد فتنه به عالم پیوست\r\nاز بهر خدا مکن ستیز از سر صلح\r\nدریاب مرا وگرنه رفتم از دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چشم تو بر کمین دلها بنشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابروی تو صد فتنه به عالم پیوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بهر خدا مکن ستیز، از سر صلح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاب مرا وگرنه رفتم از دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چشم تو بر کمین دلها بنشست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ابروی تو صد فتنه به عالم پیوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بهر خدا مکن ستیز، از سر صلح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاب مرا وگرنه رفتم از دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

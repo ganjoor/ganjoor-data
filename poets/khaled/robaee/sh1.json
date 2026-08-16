@@ -1,0 +1,58 @@
+{
+  "Id": 92262,
+  "CatId": 2417,
+  "Title": "رباعی اول - این شعر در واقع قطعه است",
+  "FullTitle": "خالد نقشبندی » رباعیات » رباعی اول - این شعر در واقع قطعه است",
+  "FullUrl": "/khaled/robaee/sh1",
+  "RhymeLetters": "ونباد",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که اگر بدون تو شاد باشم، غم من بیشتر خواهد شد. او خود را در میان مشکلات و ناگواری‌ها می‌بیند و اگر به گل نسرین نگاه کند و تو را نبیند، دلش مانند غنچه‌ای پر از غم و حسرت خواهد بود. به طور کلی، این اشعار نشان‌دهنده‌ی عمیق‌ترین احساسات عاشقانه و اندوه ناشی از فقدان محبوب است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونباد",
+      "PlainText": "گر بی تو شوم شاد غمم روز فزون باد\r\nسر تا قدمم در یم آفات نگون باد\r\nور بر گل نسرین نگرم بی گل رویت\r\nچون غنچه دلم ته به ته آغشته خون باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بی تو شوم شاد غمم روز فزون باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر تا قدمم در یم آفات نگون باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور بر گل نسرین نگرم بی گل رویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون غنچه دلم ته به ته آغشته خون باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر بی تو شوم شاد غمم روز فزون باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر تا قدمم در یم آفات نگون باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ور بر گل نسرین نگرم بی گل رویت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون غنچه دلم ته به ته آغشته خون باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

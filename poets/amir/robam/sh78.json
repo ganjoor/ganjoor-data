@@ -1,0 +1,58 @@
+{
+  "Id": 70121,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۸",
+  "FullUrl": "/amir/robam/sh78",
+  "RhymeLetters": "مبهتوماند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از عشق به معشوق سخن می‌گوید و بیان می‌کند که تمام خواسته‌ها و عقلش تحت تأثیر عشق به معشوق قرار گرفته و دیگر چیزی برایش باقی نمانده است. دلش توانایی تحمل غم معشوق را ندارد و با غم او همه‌چیزش دچار تغییر شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اینماند",
+      "PlainText": "در عشق تو ای صنم مرا رای نماند\r\nوان طبع لطیف حکمت آرای نماند\r\nبر جای همی بود دلم بی غم تو\r\nتا جای غم تو گشت بر جای نماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق تو ای صنم مرا رای نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان طبع لطیف حکمت آرای نماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر جای همی بود دلم بی‌غم تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا جای غم تو گشت بر جای نماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق تو ای صنم مرا رای نماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان طبع لطیف حکمت آرای نماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر جای همی بود دلم بی‌غم تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا جای غم تو گشت بر جای نماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

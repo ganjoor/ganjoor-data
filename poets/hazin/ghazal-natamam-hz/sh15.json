@@ -1,0 +1,72 @@
+{
+  "Id": 83176,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۵",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh15",
+  "RhymeLetters": "سترا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از قدرت و اراده خود به عنوان \u0022سلطان همت\u0022 یاد می‌کند که از دنیا و مشکلاتش فاصله گرفته است. او به ظلم و ناعدالتی در جامعه اشاره می‌کند که همگان را به یک اندازه نمی‌سنجد، چه هشیار و چه مست. همچنین، شاعر به دشواری‌هایی اشاره می‌کند که پر کردن خالی‌های زندگی را سخت می‌کند و در نهایت به حقارت دنیاپرستی و ارزش‌های ناپایداری که در دنیا وجود دارد، انتقاد می‌کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سترا",
+      "PlainText": "سلطان همتم ز جهان شسته دست را\r\nچون سیل پشت پا زده ام خاک پست را\r\nانصاف کار محتسب روزگار نیست\r\nیکسان کند معامله هشیار و مست را\r\nمشکل که پر کند ز تهی کاسگی حزین\r\nاین مشت خاک دیده دنیاپرست را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلطان همّتم، ز جهان شسته دست را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سیل، پشت پا زده ام خاک پست را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانصاف، کار محتسب روزگار نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکسان کند معامله، هشیار و مست را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشکل که پر کند ز تهی کاسگی حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین مشت خاک، دیده دنیاپرست را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سلطان همّتم، ز جهان شسته دست را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون سیل، پشت پا زده ام خاک پست را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انصاف، کار محتسب روزگار نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکسان کند معامله، هشیار و مست را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مشکل که پر کند ز تهی کاسگی حزین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این مشت خاک، دیده دنیاپرست را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

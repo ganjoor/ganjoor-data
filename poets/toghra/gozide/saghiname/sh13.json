@@ -1,0 +1,77 @@
+{
+  "Id": 137343,
+  "CatId": 3103,
+  "Title": "بخش ۱۳ - صوت دعا و آهنگ آمین",
+  "FullTitle": "طغرای مشهدی » گزیدهٔ اشعار » ساقی‌نامه » بخش ۱۳ - صوت دعا و آهنگ آمین",
+  "FullUrl": "/toghra/gozide/saghiname/sh13",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر از شاعر، از مغنی (خواننده) خواسته شده است که در نواختن ساز خود غافل نشود و به موسیقی اهمیت بدهد. او به او توصیه می‌کند که با دعا و نواختن ساز، به یاد خداوند باشد و خود را به آهنگ آمین وا دارد و لبی باز کند. در واقع، این شعر دعوت به توجه و یادآوری از معنویت در هنر موسیقی است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "مغنی به غفلت مشو پای بست\r\nبرآور به قانون طنبوره دست\r\nبه صوت دعا دمکشی ساز کن\r\nبه آهنگ آمین لبی باز کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمغنی به غفلت مشو پای بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآور به قانون طنبوره، دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه صوت دعا، دمکشی ساز کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه آهنگ آمین، لبی باز کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "مغنی به غفلت مشو پای بست\r\nبرآور به قانون طنبوره دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمغنی به غفلت مشو پای بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآور به قانون طنبوره، دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازکن",
+      "PlainText": "به صوت دعا دمکشی ساز کن\r\nبه آهنگ آمین لبی باز کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه صوت دعا، دمکشی ساز کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه آهنگ آمین، لبی باز کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مغنی به غفلت مشو پای بست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برآور به قانون طنبوره، دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به صوت دعا، دمکشی ساز کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به آهنگ آمین، لبی باز کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    }
+  ]
+}

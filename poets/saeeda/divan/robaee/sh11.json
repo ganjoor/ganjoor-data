@@ -1,0 +1,58 @@
+{
+  "Id": 107911,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/saeeda/divan/robaee/sh11",
+  "RhymeLetters": "یداست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان حالتی از عشق و ارتباط عمیق با معشوق می‌پردازد. شاعر می‌گوید وقتی که از خیالات و تفرقه‌های دنیوی دور می‌شود و دلش تنها به یاد معشوق معطوف می‌شود، آن‌گاه به نوعی تجرید و وحدت دست پیدا می‌کند. همچنین، هر بار که به یاد معشوق می‌افتد، آن لحظه برایش مثل نوروز و روز عید است. در واقع، عشق و یاد معشوق برای او شادی و معنای زندگی را به ارمغان می‌آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یداست",
+      "PlainText": "دوری ز خیالات هوا تجرید است\r\nدل چون ز همه یگانه شد تفرید است\r\nهر دم که به یاد تو روم نوروز است\r\nهر گاه که قربان تو گردم عید است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوری ز خیالات هوا تجرید است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل چون ز همه یگانه شد تفرید است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم که به یاد تو روم نوروز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر گاه که قربان تو گردم عید است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوری ز خیالات هوا تجرید است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل چون ز همه یگانه شد تفرید است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر دم که به یاد تو روم نوروز است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر گاه که قربان تو گردم عید است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

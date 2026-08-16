@@ -1,0 +1,58 @@
+{
+  "Id": 45666,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۲۶",
+  "FullUrl": "/ghaani/ghetegh/sh26",
+  "RhymeLetters": "وست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به مفهوم نفس اماره اشاره می‌کند که به‌عنوان دشمن انسان شناخته می‌شود. وقتی این نفس کشته شود، تبدیل به یک دوست خواهد شد. بدن انسان به پوست و مغز تقسیم می‌شود، و اگر مغز به دنبال آرزوها و خواسته‌ها باشد، باید از قید و بندهای دنیایی (پوست) رها شود. به‌طور کلی، این اشعار بر اهمیت پیروزی بر نفس و آزادسازی روح تأکید دارند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "نفس اماره تو دشمن تست\r\nچون شود کشته دوست گردد دوست\r\nتن تو پوست هست و مغز تو جان\r\nمغزت ار آرزوست بفکن پوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفس امارهٔ تو دشمن تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شود کشته دوست گردد دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن تو پوست هست و مغز تو جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغزت ار آرزوست بفکن پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نفس امارهٔ تو دشمن تست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شود کشته دوست گردد دوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تن تو پوست هست و مغز تو جان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مغزت ار آرزوست بفکن پوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

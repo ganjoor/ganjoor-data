@@ -1,0 +1,58 @@
+{
+  "Id": 90712,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/kalim/divan/robaee/sh1",
+  "RhymeLetters": "هاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که اگرچه برخی افراد وعده‌ها و عملکردشان متفاوت است، اما فاش کردن رازهای آنها عیب بزرگی محسوب می‌شود. در صورت آشکار شدن ناپاکی‌هایشان، شخص رسوا می‌شود و در این حالت، حقیقت و ارزش‌های درونی‌شان به نمایش درمی‌آید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هاست",
+      "PlainText": "هر چند که مرد قول و فعلش تبه است\r\nبرداشتن پرده ز کارش گنه است\r\nرسوا شود آنکه می درد پرده خلق\r\nزر قلب در آید و محک روسیه است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که مرد قول و فعلش تبه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرداشتن پرده ز کارش گنه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرسوا شود آنکه می درد پرده خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزر قلب در آید و محک روسیه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که مرد قول و فعلش تبه است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برداشتن پرده ز کارش گنه است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رسوا شود آنکه می درد پرده خلق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زر قلب در آید و محک روسیه است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

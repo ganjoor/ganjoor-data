@@ -1,0 +1,58 @@
+{
+  "Id": 50350,
+  "CatId": 1817,
+  "Title": "رباعی ۹۵",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » هرچه باداباد  [۱۰۰-۷۴] » رباعی ۹۵",
+  "FullUrl": "/khayyam/tarane/tkh6/sh22",
+  "RhymeLetters": "خ",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: این ابیات اشاره به فانی بودن عمر و زندگی دارند. شاعر می‌گوید که وقتی عمر به پایان برسد، فرقی نمی‌کند که در بغداد باشیم یا بلخ. همچنین وقتی پیمانه پر شود، طعم آن، چه شیرین باشد و چه تلخ، دیگر اهمیت ندارد. او دعوت به خوش‌گذرانی می‌کند و می‌گوید بعد از ما نیز دنیا ادامه خواهد داشت و روزها به همان شکل خواهند گذشت.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لخ",
+      "PlainText": "چون عمر به سر رسد چه بغداد چه بلخ\r\nپیمانه چو پر شود چه شیرین و چه تلخ\r\nخوش باش که بعد از من و تو ماه بسی\r\nاز سلخ به غره آید از غره به سلخ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عمر به سر رسد، چه بغداد چه بلخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمانه چو پر شود، چه شیرین و چه تلخ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش باش که بعد از من و تو ماه بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سَلْخ به غُرّه آید، از غُرّه به سَلْخ!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون عمر به سر رسد، چه بغداد چه بلخ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیمانه چو پر شود، چه شیرین و چه تلخ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوش باش که بعد از من و تو ماه بسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سَلْخ به غُرّه آید، از غُرّه به سَلْخ!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

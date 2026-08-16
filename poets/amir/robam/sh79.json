@@ -1,0 +1,58 @@
+{
+  "Id": 70122,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۷۹",
+  "FullUrl": "/amir/robam/sh79",
+  "RhymeLetters": "ازمناند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به شاه خطاب می‌کند و بر پایداری و قدرت او تاکید می‌کند. او می‌گوید که حکومت و موفقیت‌هایت به تو تعلق دارد و در این راه مخالفان شکست خورده‌اند و تنها علم و دانش به تو باقی مانده است. این شعر به توصیف جایگاه بلند شاه و پیروزی‌های او می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مبهتوماند",
+      "PlainText": "ای شاه بنای ملک محکم به تو ماند\r\nباغ ظفر و فتوح خرم به تو ماند\r\nشاهنشهی از نژاد آدم به تو ماند\r\nرفتند مخالفان و عالم به تو ماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه بنای ملک محکم به‌تو ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباغ ظفر و فتوح خرم به تو ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهنشهی از نژاد آدم به تو ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتند مخالفان و عالم به تو ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه بنای ملک محکم به‌تو ماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باغ ظفر و فتوح خرم به تو ماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاهنشهی از نژاد آدم به تو ماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتند مخالفان و عالم به تو ماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

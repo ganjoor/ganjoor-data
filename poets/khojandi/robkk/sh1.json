@@ -1,0 +1,58 @@
+{
+  "Id": 76479,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/khojandi/robkk/sh1",
+  "RhymeLetters": "استمرا",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و جاذبهٔ عشق اشاره دارد. شاعر می‌گوید که خداوند با کرم خود او را آراسته و عشقش مانند حلوا در سفره‌اش خود را نشان می‌دهد. به عبارتی دیگر، عشق و زیبایی که در زندگی او وجود دارد، همچون لذتی خوشایند و شیرین است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استمرا",
+      "PlainText": "دی جلوه گری بین که آراست مرا\r\nخوان کرم خدا مهیاست مرا\r\nحلوا چو زغاره بود در سفره ما\r\nامروز همان زغاره حلواست مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی جلوه گری بین که آراست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوان کرم خدا مهیاست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحلوا چو زغاره بود در سفره ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز همان زغاره حلواست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی جلوه گری بین که آراست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوان کرم خدا مهیاست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حلوا چو زغاره بود در سفره ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز همان زغاره حلواست مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

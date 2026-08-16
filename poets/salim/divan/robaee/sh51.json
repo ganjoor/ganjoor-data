@@ -1,0 +1,58 @@
+{
+  "Id": 101842,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/salim/divan/robaee/sh51",
+  "RhymeLetters": "ید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به احساسات متضاد و پیچیده‌ای اشاره دارد که در زندگی تجربه می‌کنیم. ما در حالی که در میان زیبایی‌های زندگی هستیم، همچنان با نگرانی و ناامیدی دست و پنجه نرم می‌کنیم. روزهای ما چون سایه‌ای آشفته و غمگین هستند. او به روشنی توصیف می‌کند که عشق و داستان‌های آن در سکوت باقی مانده‌اند و به این ترتیب، از آنچه ممکن است بیان شود، بیشتر از آنچه شنیده شود، پنهان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "ماییم درین گلشن پر بیم و امید\r\nآشفته و تیره روز چون سایه ی بید\r\nاز قصه ی عشق صرفه در خاموشی ست\r\nبه ز آنچه بگوییم چه خواهیم شنید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماییم درین گلشن پر بیم و امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآشفته و تیره روز چون سایه ی بید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز قصه ی عشق، صرفه در خاموشی ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ز آنچه بگوییم، چه خواهیم شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماییم درین گلشن پر بیم و امید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آشفته و تیره روز چون سایه ی بید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از قصه ی عشق، صرفه در خاموشی ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به ز آنچه بگوییم، چه خواهیم شنید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

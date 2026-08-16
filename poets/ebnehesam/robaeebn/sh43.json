@@ -1,0 +1,58 @@
+{
+  "Id": 64840,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۴۳",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۴۳",
+  "FullUrl": "/ebnehesam/robaeebn/sh43",
+  "RhymeLetters": "ید",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این أبيات، شاعر به زیبایی و دل‌انگیزی گل‌ها و عطر آنها اشاره می‌کند. او از گل سنبل یاد می‌کند که بویی دلپذیر دارد و همچنین غنچه‌ای از پسته که در افق صبح دمیده و سخنی را به زبان آورد. با وزش باد صبحگاهی، آن غنچه ناگهان شکفته می‌شود. این تصاویری از زیبایی و لطافت طبیعت را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "بر عارض چون گل تو سنبل بدمید\r\nاز عنبر تو غالیه بر ماه کشید\r\nغنچه سخنی ز پسته تنگ تو گفت\r\nباد سحر آمد و دهانش بدرید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر عارض چون گل تو سنبل بدمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عنبر تو غالیه بر ماه کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغنچه سخنی ز پسته تنگ تو گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد سحر آمد و دهانش بدرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر عارض چون گل تو سنبل بدمید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عنبر تو غالیه بر ماه کشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غنچه سخنی ز پسته تنگ تو گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باد سحر آمد و دهانش بدرید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

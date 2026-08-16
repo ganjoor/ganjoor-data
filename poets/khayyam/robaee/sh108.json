@@ -1,0 +1,58 @@
+{
+  "Id": 1226,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۰۸",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۰۸",
+  "FullUrl": "/khayyam/robaee/sh108",
+  "RhymeLetters": "انیاستبخور",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر بیان می‌کند که چون زندگی ابدی نیست، باید از لذت‌های جوانی استفاده کرد. غم ممکن است مانند آتش سوزنده باشد، اما همان‌طور که آب زندگی‌بخش است، باید از آن لذت برد و زندگی را چشید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیاستبخور",
+      "PlainText": "زآن می که حیات جاودانیست بخور\r\nسرمایه لذت جوانی است بخور\r\nسوزنده چو آتش است لیکن غم را\r\nسازنده چو آب زندگانی است بخور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن می که حیات جاودانیست بخور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمایه لذت جوانی است بخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوزنده چو آتش است لیکن غم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسازنده چو آب زندگانی است بخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زآن می که حیات جاودانیست بخور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمایه لذت جوانی است بخور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سوزنده چو آتش است لیکن غم را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سازنده چو آب زندگانی است بخور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

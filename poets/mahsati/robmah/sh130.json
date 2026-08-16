@@ -1,0 +1,58 @@
+{
+  "Id": 50190,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۳۰",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۳۰",
+  "FullUrl": "/mahsati/robmah/sh130",
+  "RhymeLetters": "الم",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به تصویری از یک مرغ ضعیف و گرفتار اشاره دارد که بدون پر و بال افتاده و کسی نگران حال او نیست. او از دردی عمیق در دلش سخن می‌گوید و می‌گوید امروز به خاطر آن درد خسته و نالان است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الم",
+      "PlainText": "چون مرغ ضعیف بی پر و بی بالم\r\nافتاده به دام و کس نداند حالم\r\nدردی به دلم سخت پدیدار آمد\r\nامروز من خسته از آن می نالم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مرغ ضعیف بی پر و بی بالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتاده به دام و کس نداند حالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردی به دلم سخت پدیدار آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز من خسته از آن می‌نالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون مرغ ضعیف بی پر و بی بالم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتاده به دام و کس نداند حالم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دردی به دلم سخت پدیدار آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز من خسته از آن می‌نالم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

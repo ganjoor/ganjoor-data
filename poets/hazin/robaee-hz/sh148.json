@@ -1,0 +1,58 @@
+{
+  "Id": 83036,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۴۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۴۸",
+  "FullUrl": "/hazin/robaee-hz/sh148",
+  "RhymeLetters": "تارنبود",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر این است که در گذشته آسمان چنین دردسرساز و دل‌آزار نبوده و هر مفعولی فاقد اختیاری نبوده است. اما در حال حاضر، کارها به وضعیت دشواری افتاده و مردانی که در گذشته با وقار و مرتب بودند، اکنون به وضعیت‌های نامناسب‌تری دچار شده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تارنبود",
+      "PlainText": "زین پیش فلک چنین دل آزار نبود\r\nهر مفعولی فاعل مختار نبود\r\nامروز به پشم و پنبه کار افتاده ست\r\nمردی اول به ریش و دستار نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین پیش فلک چنین دل آزار نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر مفعولی، فاعل مختار نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز به پشم و پنبه کار افتاده ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردی اول به ریش و دستار نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین پیش فلک چنین دل آزار نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر مفعولی، فاعل مختار نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز به پشم و پنبه کار افتاده ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مردی اول به ریش و دستار نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

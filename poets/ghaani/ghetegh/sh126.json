@@ -1,0 +1,58 @@
+{
+  "Id": 45788,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۲۶",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۲۶",
+  "FullUrl": "/ghaani/ghetegh/sh126",
+  "RhymeLetters": "ستی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تضاد میان عظمت و پستی اشاره می‌کند. او خود را در مقام خاک می‌بیند و چرخ را نماد فخر و بلندی می‌داند. هرچند دلش شکسته، اما از این شکستن شکرگزاری می‌کند، چون معتقد است که دل از این تجربة تلخ می‌تواند به درستی و حقیقتی عمیق‌تر برسد.",
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستی",
+      "PlainText": "تویی چرخ و بس بد ترا فخر رفعت\r\nمنم خاک و بس بد مرا ذل پستی\r\nشکستی دلم را ولی شکر گویم\r\nکه دل از شکستن پذیرد درستی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتویی چرخ و بس بد ترا فخر رفعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنم خاک و بس بد مرا ذُلّ پستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکستی دلم را ولی شکر گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دل از شکستن پذیرد درستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تویی چرخ و بس بد ترا فخر رفعت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منم خاک و بس بد مرا ذُلّ پستی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکستی دلم را ولی شکر گویم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دل از شکستن پذیرد درستی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

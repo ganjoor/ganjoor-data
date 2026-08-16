@@ -1,0 +1,58 @@
+{
+  "Id": 71769,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/kamal/robaeek-kamal/sh32",
+  "RhymeLetters": "ایداب",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر بیان می‌کند که عشق و وصال معشوق هیچ کمکی به او نمی‌کند و در واقع، دوری و هجران او باعث غم و اندوهش شده است. اما معشوق به او می‌گوید که نمی‌توان واقعیت را به‌طور قطعی دانست و شاید روزی آبِ فردی که رفته به سوی او، دوباره بازگردد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایداب",
+      "PlainText": "گفتم که مرا وصل تو نفزاید آب\r\nهجران توأم ز دیده نگشاید آب\r\nخندان خندان گفت که نتوان دانست\r\nباشد که بجوی رفته باز آید آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که مرا وصل تو نفزاید آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهجران توأم ز دیده نگشاید آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخندان خندان گفت که نتوان دانست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد که بجوی رفته باز آید آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که مرا وصل تو نفزاید آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هجران توأم ز دیده نگشاید آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خندان خندان گفت که نتوان دانست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باشد که بجوی رفته باز آید آب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

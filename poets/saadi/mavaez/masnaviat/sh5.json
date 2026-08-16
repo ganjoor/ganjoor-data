@@ -1,0 +1,57 @@
+{
+  "Id": 28278,
+  "CatId": 140,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "سعدی » مواعظ » مثنویات » شمارهٔ ۵",
+  "FullUrl": "/saadi/mavaez/masnaviat/sh5",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این بیت شعر به اهمیت تفکر پیش از صحبت کردن اشاره دارد. اشاره می‌کند که مانند دیواری که پایه‌اش سست است، گفتار بی‌فکر نیز ناپایدار خواهد بود. همچنین به این نکته می‌پردازد که اگر کار بدی کردی، نباید از عواقب آن احساس امنیّت کنی، زیرا کسی بدی را با خوبی تعریف نخواهد کرد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ی",
+      "PlainText": "نخست اندیشه کن آنگاه گفتار\r\nکه نامحکم بود بی اصل دیوار\r\nچو بد کردی مشو ایمن ز بدگوی\r\nکه بد را کس نخواهد گفت نیکوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخست اندیشه کن آنگاه گفتار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نامحکم بود بی‌اصل دیوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بد کردی مشو ایمن ز بدگوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بد را کس نخواهد گفت نیکوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نخست اندیشه کن آنگاه گفتار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که نامحکم بود بی‌اصل دیوار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو بد کردی مشو ایمن ز بدگوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بد را کس نخواهد گفت نیکوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

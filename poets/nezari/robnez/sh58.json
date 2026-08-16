@@ -1,0 +1,58 @@
+{
+  "Id": 75805,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۵۸",
+  "FullUrl": "/nezari/robnez/sh58",
+  "RhymeLetters": "ساست",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر به اهمیت بینایی و درک اشاره شده است. بیان می‌شود که افراد زیادی وجود دارند که چیزی را نمی‌بینند یا نمی‌دانند. اگر توانایی دیدن و درک دارید، باید از آن بهره ببرید. همچنین تأکید می‌شود که بدون شناخت و بصیرت در خود، نمی‌توان به جایی رسید. در نهایت، اگر در خانه شما کسی باشد که ارزش و معنا داشته باشد، همین نکته کافی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ساست",
+      "PlainText": "با دیده و ره ندیده بسیار کس است\r\nبا دیده وری رو اگرت دست رس است\r\nنادیده به خویشتن به جایی نرسی\r\nدر خانه اگر کس است این نکته بس است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا دیده و ره ندیده بسیار کس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دیده وری رو اگرت دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنادیده به خویشتن به جایی نرسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است این نکته بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با دیده و ره ندیده بسیار کس است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دیده وری رو اگرت دست رس است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نادیده به خویشتن به جایی نرسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خانه اگر کس است این نکته بس است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

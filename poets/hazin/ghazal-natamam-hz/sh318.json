@@ -1,0 +1,58 @@
+{
+  "Id": 83479,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۳۱۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۳۱۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh318",
+  "RhymeLetters": "اری",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از غم و درد دلش سخن می‌گوید و می‌داند که با صحبت کردن دربارهٔ آن، می‌تواند آرامش و شادی را به وجود آورد. او بیان می‌کند که این غم مانند گنجی است که از دل ویران او سرچشمه می‌گیرد و با یاد عشق، زندگی‌اش را سرشار از سرمستی و هوشیاری می‌کند. در نهایت، او از نوعی بی‌توجهی به ستم‌های دنیا و فریادهای دیگران سخن می‌گوید.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمیگردی",
+      "PlainText": "غم دل با تو زان گویمکه دانم شاد می گردی\r\nچو گنج از خاطر ویران من آباد می گردی\r\nز جام حسن سرمستی به کار خویش هشیاری\r\nنه غافل از ستم نه آگه از فریاد می گردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم دل با تو زان گویم،که دانم شاد می گردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو گنج از خاطر ویران من، آباد می گردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز جام حسن سرمستی، به کار خویش هشیاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه غافل از ستم، نه آگه از فریاد می گردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم دل با تو زان گویم،که دانم شاد می گردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو گنج از خاطر ویران من، آباد می گردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز جام حسن سرمستی، به کار خویش هشیاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه غافل از ستم، نه آگه از فریاد می گردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

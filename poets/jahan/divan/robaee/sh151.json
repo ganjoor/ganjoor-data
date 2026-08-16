@@ -1,0 +1,58 @@
+{
+  "Id": 114024,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۱۵۱",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۱۵۱",
+  "FullUrl": "/jahan/divan/robaee/sh151",
+  "RhymeLetters": "ینداخر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس درد و اندوه ناشی از دوری از محبوب اشاره دارد. شاعر به این فکر می‌کند که دل بدون وجود محبوب چگونه می‌تواند به زندگی ادامه دهد و چرا کسی باید به جز او را انتخاب کند. همچنین به تبعید دل در مسیر دوست و محکم بودن او مانند سرو سهی تأکید می‌کند. به‌طور کلی، شعر به جستجوی محبت و وفاداری می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینداخر",
+      "PlainText": "دل بی تو چرا جهان ببیند آخر\r\nیا بر تو چرا کسی گزیند آخر\r\nیا آنکه همیشه راست چون سرو سهی\r\nبر خاک ره دوست نشیند آخر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل بی تو چرا جهان ببیند آخر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا بر تو چرا کسی گزیند آخر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا آنکه همیشه راست چون سرو سهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خاک ره دوست نشیند آخر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل بی تو چرا جهان ببیند آخر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا بر تو چرا کسی گزیند آخر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا آنکه همیشه راست چون سرو سهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر خاک ره دوست نشیند آخر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

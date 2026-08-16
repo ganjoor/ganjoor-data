@@ -1,0 +1,58 @@
+{
+  "Id": 101883,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۹۲",
+  "FullUrl": "/salim/divan/robaee/sh92",
+  "RhymeLetters": "رکی",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر از دل‌تنگی و غم ناشی از دریا سخن می‌گوید و می‌گوید صدای آب برایش خوشایند نیست. او در سفر به دریا یاد معشوقش می‌افتد و به این اشاره می‌کند که اگر موج دریا او را در کنار معشوقش می‌برد، وضعیتش بهتر بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رکی",
+      "PlainText": "از شورش دریاست دلم غمخورکی\r\nخوش نیست صدای آب جز شرشرکی\r\nبار سفرم کجا به کشتی بودی\r\nچون موج مرا بودی اگر اشترکی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شورش دریاست دلم غمخورکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش نیست صدای آب جز شرشرکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبار سفرم کجا به کشتی بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون موج مرا بودی اگر اشترکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شورش دریاست دلم غمخورکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوش نیست صدای آب جز شرشرکی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بار سفرم کجا به کشتی بودی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون موج مرا بودی اگر اشترکی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

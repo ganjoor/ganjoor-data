@@ -1,0 +1,58 @@
+{
+  "Id": 51736,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/bahar/robaeebk/sh13",
+  "RhymeLetters": "انمناست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت از باغ شبستان خود و برگ گلی که در آن دارد صحبت می‌کند. بلبل خوش‌لهجه‌اش که غزل می‌خواند، نماد زیبایی و عشق است. همچنین، نوباوه شبی که به عنوان شبنم شناخته می‌شود، هر صبح با نیم‌بوسه‌ای به او سر می‌زند و به نوعی بیانگر تازگی و زیبایی زندگی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمناست",
+      "PlainText": "من برگ گلم باغ شبستان من است\r\nوآن  بلبل خوش  لهجه غزلخوان من  است\r\nنوباوه شب که شبنمش می خوانند\r\nهر صبح به نیم  بوسه مهمان من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن برگ گلم باغ شبستان من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن‌ بلبل خوش‌ لهجه غزلخوان من‌ است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوباوهٔ شب که شبنمش می‌خوانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر صبح به نیم‌ بوسه مهمان من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من برگ گلم باغ شبستان من است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآن‌ بلبل خوش‌ لهجه غزلخوان من‌ است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نوباوهٔ شب که شبنمش می‌خوانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر صبح به نیم‌ بوسه مهمان من است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

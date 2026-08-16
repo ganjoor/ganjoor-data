@@ -1,0 +1,58 @@
+{
+  "Id": 70098,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/amir/robam/sh55",
+  "RhymeLetters": "یختهباد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات در مدح ناصر دین و دعا برای او هستند. شاعر از خداوند درخواست می‌کند که نصرت و خوشبختی به ناصر دین عطا شود و برای او آرزوی موفقیت و تحقق آرزوها دارد. در واقع، این شعر اشاره به شایستگی و عظمت ناصر دین و امید به آینده‌ای روشن برای او دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انباد",
+      "PlainText": "ای ناصر دین ناصر تو یزدان باد\r\nاقبال تو در تن سعادت جان باد\r\nگردون به مراد رای تو گردان باد\r\nوز گردش آن هر چه تو خواهی آن باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ناصر دین ناصر تو یزدان باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاقبال تو در تن سعادت جان باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردون به مراد رای تو گردان باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز گردش آن هر چه تو خواهی آن باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ناصر دین ناصر تو یزدان باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اقبال تو در تن سعادت جان باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردون به مراد رای تو گردان باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز گردش آن هر چه تو خواهی آن باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

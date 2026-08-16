@@ -1,0 +1,58 @@
+{
+  "Id": 50084,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۲۴",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۲۴",
+  "FullUrl": "/mahsati/robmah/sh24",
+  "RhymeLetters": "ست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این بیت، کودکی که نعل بند است و داس در دست دارد، وقتی نعل را به پای اسب می‌زند، از پا می‌افتد. او به دیدن چنین چیزی در جهان شگفت‌زده می‌شود و به سم اسب هلالی شکوه می‌افزاید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "آن کودک نعل بند داس اندر دست\r\nچون نعل بر اسب بست از پای نشست\r\nزین نادره تر که دید در عالم پست\r\nبدری به سم اسب هلالی بربست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کودک نعل‌بند داس اندر دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نعل بر اسب بست از پای نشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین نادره‌تر که دید در عالم پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدری به سم اسب هلالی بربست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کودک نعل‌بند داس اندر دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون نعل بر اسب بست از پای نشست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین نادره‌تر که دید در عالم پست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدری به سم اسب هلالی بربست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

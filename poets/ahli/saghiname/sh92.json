@@ -1,0 +1,58 @@
+{
+  "Id": 105712,
+  "CatId": 2560,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "اهلی شیرازی » ساقینامهٔ رباعی » شمارهٔ ۹۱",
+  "FullUrl": "/ahli/saghiname/sh92",
+  "RhymeLetters": "شنکن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از ساقی می‌خواهد که با نگاهش دل او را تازه کند و با نگاهی به زندگی‌اش، آن را به گلشن تبدیل کند. او احساس می‌کند مانند شمعی در تاریکی است و از ساقی می‌خواهد که بار دیگر چراغش را روشن کند و امید را به او بازگرداند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شنکن",
+      "PlainText": "ساقی دل من سوخت نظر با من کن\r\nچشمی فکن و گلخن من گلشن کن\r\nمردم چو چراغ سحر شمع مراد\r\nیکبار دگر چراغ من روشن کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی دل من سوخت نظر با من کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمی فکن و گلخن من گلشن کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردم چو چراغ سحر شمع مراد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکبار دگر چراغ من روشن کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی دل من سوخت نظر با من کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشمی فکن و گلخن من گلشن کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردم چو چراغ سحر شمع مراد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکبار دگر چراغ من روشن کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

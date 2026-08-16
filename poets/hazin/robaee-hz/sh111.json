@@ -1,0 +1,58 @@
+{
+  "Id": 82999,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/hazin/robaee-hz/sh111",
+  "RhymeLetters": "استبلند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به سوگواری و اندوه ناشی از فقدان شخصی عزیز اشاره دارد. دل‌ها در غم او به تپش درآمده و یادش سبب زجر و آه کشیدن می‌شود. اشک‌ها همچون خونابه‌ای در حال ریختن هستند و شدت این احساسات به حدی است که بالاتر از سمک (ستاره‌ای در آسمان) می‌رود. در کل، این ابیات به عمیق‌ترین احساسات و اندوه انسانی در زمان ماتم می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استبلند",
+      "PlainText": "در ماتم تو شیون دلهاست بلند\r\nبا یاد تو آه سینه فرساست بلند\r\nخونابه اشکی که نمش تا سمک است\r\nاز فرق سماک نیزه بالاست بلند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ماتم تو شیون دلهاست بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا یاد تو، آهِ سینه فرساست، بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخونابهٔ اشکی که نمش تا سمک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز فرق سماک، نیزه بالاست بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ماتم تو شیون دلهاست بلند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با یاد تو، آهِ سینه فرساست، بلند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خونابهٔ اشکی که نمش تا سمک است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از فرق سماک، نیزه بالاست بلند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

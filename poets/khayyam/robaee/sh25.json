@@ -1,0 +1,58 @@
+{
+  "Id": 1143,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۲۵",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۲۵",
+  "FullUrl": "/khayyam/robaee/sh25",
+  "RhymeLetters": "انیافت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این رباعی تصویر شخصی است که یک بلبل، درس شادی و قدر عمر دانستن را به او می‌آموزد که غصه عمر رفته و فرصت‌های از دست شده را مخور که بر نخواهند گشت؛ امروز را دریاب و شاد باش.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیافت",
+      "PlainText": "چون بلبل مست راه در بستان یافت\r\nروی گل و جام باده را خندان یافت\r\nآمد به زبان حال در گوشم گفت\r\nدریاب که عمر رفته را نتوان یافت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بلبل مست راه در بستان یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروی گل و جام باده را خندان یافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد به زبان حال در گوشم گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E«دریاب که عمر رفته را نتوان یافت»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون بلبل مست راه در بستان یافت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روی گل و جام باده را خندان یافت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمد به زبان حال در گوشم گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "«دریاب که عمر رفته را نتوان یافت»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

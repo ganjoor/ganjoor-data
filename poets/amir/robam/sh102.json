@@ -1,0 +1,58 @@
+{
+  "Id": 70145,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۰۲",
+  "FullUrl": "/amir/robam/sh102",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر به محبوب خود اشاره می‌کند و از او می‌خواهد که با دو دست بر دل و سر او بگذارد. او می‌گوید که محبوب باید با طایفه‌ای شاد و خوشحال به نزد او بیاید تا بتواند از لبانش جامی بنوشد. این بیان حاکی از عشق و دلدادگی عمیق شاعر به معشوقش است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "چون بر دل و سر نهم دو دست ای دلبر\r\nمی پیش من آوری  که بستان و بخور\r\nجانا زکف تو چون ستانم ساغر\r\nدستی بر دل نهاده دستی بر سر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بر دل و سر نهم دو دست ای دلبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی پیش من آوری‌ که بستان و بخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانا زکف تو چون ستانم ساغر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستی بر دل نهاده دستی بر سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون بر دل و سر نهم دو دست ای دلبر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می پیش من آوری‌ که بستان و بخور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جانا زکف تو چون ستانم ساغر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستی بر دل نهاده دستی بر سر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

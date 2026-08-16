@@ -1,0 +1,58 @@
+{
+  "Id": 119021,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/azar/divan/robaee/sh100",
+  "RhymeLetters": "ز",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در خرابه‌ای، دو سه گز دورتر، با دختری زیبا و شاداب نشسته‌ام. او از من می‌خواهد که می‌نوشم، وگرنه باید از دل خودم مایه بگذارم. همچنین، اگر لبانم را نازک کنم و بزنم، بهتر است تا اینکه خود را آزار دهم.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ز",
+      "PlainText": "در کنج خرابه بر حصیری دو سه گز\r\nبا دخترکی گرم تر از دختر رز\r\nهان می میخور ورنه دل خود میخور\r\nهن لب میمز ورنه لب خود میگز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کنج خرابه بر حصیری دو سه گز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دخترکی گرم تر از دختر رز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهان می میخور، ورنه دل خود میخور،\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهن لب میمز، ورنه لب خود میگز!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کنج خرابه بر حصیری دو سه گز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دخترکی گرم تر از دختر رز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هان می میخور، ورنه دل خود میخور،",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هن لب میمز، ورنه لب خود میگز!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

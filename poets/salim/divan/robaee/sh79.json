@@ -1,0 +1,58 @@
+{
+  "Id": 101870,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۷۹",
+  "FullUrl": "/salim/divan/robaee/sh79",
+  "RhymeLetters": "وشمکن",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها به اهمیت توجه به عشق و شعله‌های آن اشاره شده است. از شنیدن آوازهایی که شما را از مسیر اصلی خود منحرف می‌کند، باید پرهیز کرد. به عبارت دیگر، در وادی عشق نباید به چیزهایی که توجه شما را از عشق واقعی دور می‌کند، اهمیت داد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشمکن",
+      "PlainText": "در وادی عشق شعله خس پوش مکن\r\nاز زمزمه ی شوق فراموش مکن\r\nبانگ خضر از برای گمراهی توست\r\nگر گوش تو آواز کند گوش مکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر وادی عشق، شعله خس پوش مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز زمزمه ی شوق فراموش مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبانگ خضر از برای گمراهی توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر گوش تو آواز کند، گوش مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در وادی عشق، شعله خس پوش مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از زمزمه ی شوق فراموش مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بانگ خضر از برای گمراهی توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر گوش تو آواز کند، گوش مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

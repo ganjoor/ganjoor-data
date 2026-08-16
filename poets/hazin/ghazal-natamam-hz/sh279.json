@@ -1,0 +1,58 @@
+{
+  "Id": 83440,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۷۹",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۷۹",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh279",
+  "RhymeLetters": "ایخویشتنم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی و جذابیت چشمان محبوبش اشاره می‌کند. او می‌گوید که رنگ چشم محبوبش همچون اشک گلگون باده‌ای ناب است و یاد لبانش درخت آبی را در ذهنش تداعی می‌کند. همچنین، شاعر بیان می‌کند که تنها آنچه از حقیقت و معنی در زندگی دیده است، تصویری شبیه خواب است و در واقع، هر چیز در این دو عالم، مانند خواب و خیال است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابیستدرچشمم",
+      "PlainText": "ز رنگش اشک گلگون باده نابی ست در چشمم\r\nنگاه از یاد آن لب عالم آبی ست در چشمم\r\nنصیب دیده ام تا دولت بیدار معنی شد\r\nسواد هر دو عالم صورت خوابیست در چشمم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز رنگش، اشک گلگون بادهٔ نابی ست در چشمم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگاه از یاد آن لب، عالم آبی ست در چشمم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنصیب دیده ام تا دولت بیدار معنی شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسواد هر دو عالم، صورت خوابیست در چشمم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز رنگش، اشک گلگون بادهٔ نابی ست در چشمم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگاه از یاد آن لب، عالم آبی ست در چشمم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نصیب دیده ام تا دولت بیدار معنی شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سواد هر دو عالم، صورت خوابیست در چشمم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 64810,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۱۳",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۱۳",
+  "FullUrl": "/ebnehesam/robaeebn/sh13",
+  "RhymeLetters": "رمیگفت",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، بلبل به جستجوی گل می‌پردازد و غزلی زیبا سروده است. باد صبحگاهی از عطر و زیبایی گل‌ها می‌گوید و لاله به نرمی و زیبایی، کلاه را به دارا اهدا می‌کند. نرگس نیز از عظمت و زیبایی تاج سکندر سخن می‌گوید. در مجموع، این اشعار به زیبایی و طبیعت اشاره دارد و گفتگوهایی لطیف میان گل‌ها و موجودات را تصویر می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمیگفت",
+      "PlainText": "بلبل ز پی گل غزلی تر می گفت\r\nباد سحر از نسیم   عنبر می گفت\r\nلاله  صفت   کلاه دارا می کرد\r\nنرگس سخن از تاج سکندر می گفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل ز پی گل غزلی تر می‌گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد سحر از نسیم‌ ِ عنبر می‌گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاله‌، صفت‌ ِ کلاه دارا می‌کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرگس سخن از تاج سکندر می‌گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلبل ز پی گل غزلی تر می‌گفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باد سحر از نسیم‌ ِ عنبر می‌گفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لاله‌، صفت‌ ِ کلاه دارا می‌کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نرگس سخن از تاج سکندر می‌گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

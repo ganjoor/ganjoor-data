@@ -1,0 +1,58 @@
+{
+  "Id": 1129,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۱",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۱",
+  "FullUrl": "/khayyam/robaee/sh11",
+  "RhymeLetters": "فت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "در این شعر، شاعر به انسان اشاره دارد که از جهان روحانی آمده و در این دنیا و قواعد بازی آن حیران و سردرگم است. به انسانی که در این دنیا نمی‌داند از کجا آمده و به کجا می‌رود، توصیه میکند که خوش باشد و در لحظه زندگی کند. زیرا نمیداند از کجا آمده و به کجا خواهد رفت!",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "فت",
+      "PlainText": "ای آمده از عالم روحانی تفت\r\nحیران شده در پنج و چهار و شش و هفت\r\nمی نوش ندانی ز کجا آمده ای\r\nخوش باش ندانی به کجا خواهی رفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آمده از عالم روحانی تفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیران شده در پنج و چهار و شش و هفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمِی نوش، ندانی ز کجا آمده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش باش، ندانی به کجا خواهی رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آمده از عالم روحانی تفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حیران شده در پنج و چهار و شش و هفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مِی نوش، ندانی ز کجا آمده‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوش باش، ندانی به کجا خواهی رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

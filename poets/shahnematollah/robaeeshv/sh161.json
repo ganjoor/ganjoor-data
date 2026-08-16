@@ -1,0 +1,58 @@
+{
+  "Id": 47931,
+  "CatId": 1728,
+  "Title": "رباعی شمارهٔ ۱۶۱",
+  "FullTitle": "شاه نعمت‌الله ولی » رباعیات » رباعی شمارهٔ ۱۶۱",
+  "FullUrl": "/shahnematollah/robaeeshv/sh161",
+  "RhymeLetters": "ازد",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به رابطه بین سازنده و ساخته‌اش اشاره دارد. شاعر می‌گوید که اگرچه سازنده آثاری زیبا می‌آفریند، اما بدون وجود ساز، نمی‌تواند آن را به صدا درآورد. همچنین، شاعر خود را مانند آینه‌ای می‌داند که سازنده (خالق) را نمایش می‌دهد و معتقد است که خالق او را می‌سازد و شکل می‌دهد. در واقع، این شعر به وابستگی و ارتباط عمیق بین خالق و مخلوق می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازد",
+      "PlainText": "سازنده اگرچه ساز نیکو سازد\r\nاما بی ساز ساز چون بنوازد\r\nمن آینه ام که می نمایم او را\r\nاو خالق من که او مرا می سازد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسازنده اگرچه ساز نیکو سازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما بی ساز ساز چون بنوازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن آینه ام که می نمایم او را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو خالق من که او مرا می سازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سازنده اگرچه ساز نیکو سازد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اما بی ساز ساز چون بنوازد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من آینه ام که می نمایم او را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او خالق من که او مرا می سازد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

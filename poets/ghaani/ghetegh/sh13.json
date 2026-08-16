@@ -1,0 +1,58 @@
+{
+  "Id": 45653,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۳",
+  "FullUrl": "/ghaani/ghetegh/sh13",
+  "RhymeLetters": "لباب",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به وضع افرادی اشاره دارد که به شدت مشغول دلایل و استدلال‌های خود هستند و از خداوند غافل‌اند. در مقابل، حال عارفی که به خاطر عشق و شوق به خداوند، با شور و شوق دیوانه‌وار به دردهای خود می‌پردازد، تحسین می‌شود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لباب",
+      "PlainText": "بسکه سرگرم حجت خویشند\r\nغافلند از خدا اولوالالباب\r\nای خوشا حال عارفی که ز شوق\r\nهمچو دیوانه بر درد جلباب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسکه سرگرم حجت خویشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغافلند از خدا اولوالالباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خوشا حال عارفی که ز شوق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو دیوانه بر درد جلباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بسکه سرگرم حجت خویشند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غافلند از خدا اولوالالباب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خوشا حال عارفی که ز شوق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچو دیوانه بر درد جلباب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

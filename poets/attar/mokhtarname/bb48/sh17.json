@@ -1,0 +1,58 @@
+{
+  "Id": 36101,
+  "CatId": 849,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "عطار » مختارنامه » باب چهل و هشتم: در سخن گفتن به زبان شمع » شمارهٔ ۱۷",
+  "FullUrl": "/attar/mokhtarname/bb48/sh17",
+  "RhymeLetters": "نمن",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شمع به بیان احساس خود می‌گوید که دشمن خودش است و احساس می‌کند که موجودی دیگر با تهدیدش می‌تواند به او آسیب برساند. او بیان می‌کند که حتی اگر جانش را بگیرند، وجودش باقی خواهد ماند و اگر زنده بماند، جسمش پایدار نخواهد بود. این بیان نشان‌دهنده تقابل میان زندگی و جسم است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمن",
+      "PlainText": "شمع آمد و گفت چون منم دشمن من\r\nکوکس که به گازی ببرد گردن من\r\nگر بکْشنْدم تنم بماند زنده\r\nور زنده بمانم بنماند تن من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع آمد و گفت: چون منم دشمنِ من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوکس که به گازی ببُرد گردنِ من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بُکْشَنْدم تنم بماند زنده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور زنده بمانم بنماند تنِ من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمع آمد و گفت: چون منم دشمنِ من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کوکس که به گازی ببُرد گردنِ من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر بُکْشَنْدم تنم بماند زنده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور زنده بمانم بنماند تنِ من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

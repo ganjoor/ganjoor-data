@@ -1,0 +1,58 @@
+{
+  "Id": 75030,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۴۸۹",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۴۸۹",
+  "FullUrl": "/ghodsi/robghm/sh489",
+  "RhymeLetters": "نم",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به مقایسه وضعیت روحی و فکری خود با طبیعت و زمان می‌پردازد. او به این نکته اشاره دارد که هرچند ممکن است ظاهراً جوان و تازه به نظر بیاید، اما درونی‌ترین احساسات و تجربیاتش نشان می‌دهد که هنوز پختگی و بلوغ لازم را ندارد. به نوعی، او خود را میوه‌ای خام می‌بیند که هنوز به مرحله کمال نرسیده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نم",
+      "PlainText": "هرچند نواسنج قدیم چمنم\r\nیا تازه به معنی و به صورت کهنم\r\nاز پختگی ام مگو که آب است هنوز\r\nچون میوه خام استخوان در بدنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچند نواسنج قدیم چمنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا تازه به معنی و به صورت کهنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پختگی‌ام مگو، که آب است هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون میوه خام، استخوان در بدنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند نواسنج قدیم چمنم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا تازه به معنی و به صورت کهنم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پختگی‌ام مگو، که آب است هنوز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون میوه خام، استخوان در بدنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

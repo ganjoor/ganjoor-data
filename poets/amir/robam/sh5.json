@@ -1,0 +1,58 @@
+{
+  "Id": 70048,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/amir/robam/sh5",
+  "RhymeLetters": "اباستتورا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به اهمیت و نقش سرنوشت و تقدیر در زندگی انسان اشاره دارد. شاعر بیان می‌کند که همواره تدبیر و تدابیر صحیح می‌تواند مسیر زندگی را روشن کند و کمک کند که انسان از فرصت‌ها بهره‌برداری کند. همچنین به تضاد میان سختی‌ها (آتش تیغ) و نعمت‌ها (آب نفع) اشاره می‌کند و به ارتباط انسان با طبیعت (خاک و نور آفتاب) اشاره می‌نماید. به طور کلی، این شعر پیام امید و توجه به نکات مثبت زندگی را منتقل می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباستتورا",
+      "PlainText": "شاها همه تدبیر صواب است تو را\r\nوز بخت به فرخی جواب است تو را\r\nآتش تیغی و نفع آب است تورا\r\nاز خاکی و نور آفتاب است تورا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها همه تدبیر صواب است تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بخت به فرخی جواب است تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش تیغی و نفع آب است تورا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خاکی و نور آفتاب است تورا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها همه تدبیر صواب است تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز بخت به فرخی جواب است تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آتش تیغی و نفع آب است تورا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خاکی و نور آفتاب است تورا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

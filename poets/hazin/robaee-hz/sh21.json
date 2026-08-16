@@ -1,0 +1,58 @@
+{
+  "Id": 82909,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/hazin/robaee-hz/sh21",
+  "RhymeLetters": "ازیهست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به امید و انتظار گدا (درویش) اشاره دارد که در دنیای عشق و عشق ورزی معشوقی ثروتمند و غنی وجود دارد. او به خستگی خویش اشاره می‌کند که داروی خود را نمی‌یابد و نیاز و چاره‌اش را در وضعیتی شیرین و زیبا می‌بیند. در واقع، این ابیات به تضاد وضعیت نیازمندی و زیبایی عشق پرداخته و احساس ناتوانی و در عین حال امید را بازتاب می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازیهست",
+      "PlainText": "امید گداست تا در بازی هست\r\nمعشوق غنی و عشق را آزی هست\r\nخسته به دواتند نه با خسته دوا\r\nبیچاره نیاز و چاره را نازی هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامّید گداست، تا در بازی هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعشوق غنیّ و عشق را آزی هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخسته به دواتند، نه با خسته دوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره نیاز و چاره را نازی هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امّید گداست، تا در بازی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "معشوق غنیّ و عشق را آزی هست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خسته به دواتند، نه با خسته دوا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیچاره نیاز و چاره را نازی هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

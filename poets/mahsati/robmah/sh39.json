@@ -1,0 +1,58 @@
+{
+  "Id": 50099,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۳۹",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۳۹",
+  "FullUrl": "/mahsati/robmah/sh39",
+  "RhymeLetters": "ورازرویت",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذبه چهره محبوبش اشاره می‌کند و می‌گوید که پری‌ها و حورهای بهشتی نیز از زیبایی‌اش خجلت‌زده هستند. او همچنین بیان می‌کند که امروز در آرزوی دیدن روی محبوبش است و دوری از او باعث جاری شدن اشک‌ها می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورازرویت",
+      "PlainText": "ای گشته خجل پری و حور از رویت\r\nخورشید گرفته وام نور از رویت\r\nدر آرزوی روی تو داریم امروز\r\nرویی و هزار اشک دور از رویت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گشته خجل پری و حور از رویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید گرفته وام نور از رویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آرزوی روی تو داریم امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروئی و هزار اشک دور از رویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای گشته خجل پری و حور از رویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید گرفته وام نور از رویت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آرزوی روی تو داریم امروز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روئی و هزار اشک دور از رویت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83019,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۳۱",
+  "FullUrl": "/hazin/robaee-hz/sh131",
+  "RhymeLetters": "خند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به حس افسردگی و حسرت در زمانه ما اشاره دارد. شاعر از وضعیت ناخوشایند و مشکلاتی که بر سر راه شاعران و خلاقیت آن‌هاست صحبت می‌کند. به عبارت دیگر، او به نقصان و نابودی استعدادها و زیبایی‌ها در جامعه اشاره می‌کند، و به نوعی نشان‌دهنده بدبختی‌ها و چالش‌هایی است که شاعران و هنرمندان با آن رو به رو هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "خند",
+      "PlainText": "افسرده دمان عهد ما رشک یخند\r\nبا خلش  میخ نعل بند زنخند\r\nغارتگه ربزه شاعران مزرع ماست\r\nاین جانوران مزرع ما را ملخند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسرده دمان عهد ما، رشک یخند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خلش ؟ میخ نعل بند زنخند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغارتگه ربزه شاعران مزرع ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین جانوران، مزرع ما را ملخند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسرده دمان عهد ما، رشک یخند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خلش ؟ میخ نعل بند زنخند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غارتگه ربزه شاعران مزرع ماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این جانوران، مزرع ما را ملخند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

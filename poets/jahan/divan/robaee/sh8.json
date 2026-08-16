@@ -1,0 +1,58 @@
+{
+  "Id": 113881,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/jahan/divan/robaee/sh8",
+  "RhymeLetters": "اییمبیا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از دوری معشوق گلایه می‌کند و از او می‌خواهد که نزد او برگردد. او به درد و امیدی که در دوری معشوق دارد اشاره می‌کند و می‌گوید که با وجود تمام سختی‌ها، باز هم به وفای او امید دارند. در نهایت، شاعر حسرت و بی‌نوایی خود را در دوری از معشوق ابراز می‌کند و از او می‌خواهد که بازآید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اییمبیا",
+      "PlainText": "عمریست که تا از تو جداییم بیا\r\nدر درد به امید وفاییم بیا\r\nبرخاسته از سر جهان بنشستیم\r\nبر خاک در تو بی نواییم بیا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمریست که تا از تو جداییم بیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر درد به امّید وفاییم بیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخاسته از سر جهان بنشستیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خاک در تو بی نواییم بیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمریست که تا از تو جداییم بیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در درد به امّید وفاییم بیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخاسته از سر جهان بنشستیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر خاک در تو بی نواییم بیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

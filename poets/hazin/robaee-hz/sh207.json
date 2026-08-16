@@ -1,0 +1,58 @@
+{
+  "Id": 83104,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۰۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۰۷",
+  "FullUrl": "/hazin/robaee-hz/sh207",
+  "RhymeLetters": "وشمکن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از معشوق خواسته است که زهر خود را در قدح نریزد و او را بسوزاند. او همچنین به معشوق یادآوری می‌کند که هرگاه از خون عاشقان می‌نوشد، نباید لذت کباب کردن آن‌ها را فراموش کند. به طور کلی، این شعر به بیان احساسات عاشقانه و رنج‌های ناشی از عشق می‌پردازد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشمکن",
+      "PlainText": "زهرم به قدح دهی که می نوش مکن\r\nدر آتشم افکنی که هان جوش مکن\r\nباری چو ز خون عاشقان می نوشی\r\nاین لخت کباب را فراموش مکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهرم به قدح دهی که می نوش مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آتشم افکنی که هان جوش مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباری چو ز خون عاشقان می نوشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین لخت کباب را فراموش مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زهرم به قدح دهی که می نوش مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آتشم افکنی که هان جوش مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باری چو ز خون عاشقان می نوشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این لخت کباب را فراموش مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

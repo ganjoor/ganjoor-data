@@ -1,0 +1,72 @@
+{
+  "Id": 45751,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۸۹",
+  "FullUrl": "/ghaani/ghetegh/sh89",
+  "RhymeLetters": "شگ",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به تفاوت بین موجودات و ارزش‌های آن‌ها اشاره دارد. شاعر می‌گوید که گنجشک نمی‌تواند مانند شهباز باشد، ولی پرواز کردن او غیرقابل اجتناب است. همچنین اشاره به تفاوت بین مشک و پشک دارد که هرچند مشخص است، اما نمی‌توان از پشک فرار کرد. در نهایت، می‌گوید که زرشک ارزشمندتر از دانه‌ی یاقوت نیست، اما همچنان برای کسانی که بیمار هستند، مفید است. به طور کلی، این ابیات به ارزش هر موجود و نقش آن در زندگی اشاره می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شگ",
+      "PlainText": "مسلمست که   گنجشک نیست چون شهباز\r\nولی علاج ندارد ز پر زدن گنجشگ\r\nتفاوتی که بود مشک و پشک را با هم\r\nمعینست ولیکن گزیر نیست ز پشگ\r\nزرشگ اگرچه نباشد چو دانه یاقوت\r\nولی هم از پی بیمار نافعست زرشگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسلمست که‌‌ گنجشک نیست چون شهباز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی علاج ندارد ز پر زدن گنجشگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتفاوتی که بود مشک و پشک را با هم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعینست ولیکن گزیر نیست ز پشگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزرشگ اگرچه نباشد چو دانهٔ یاقوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی هم از پی بیمار نافعست زرشگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمست که‌‌ گنجشک نیست چون شهباز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ولی علاج ندارد ز پر زدن گنجشگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تفاوتی که بود مشک و پشک را با هم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معینست ولیکن گزیر نیست ز پشگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زرشگ اگرچه نباشد چو دانهٔ یاقوت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ولی هم از پی بیمار نافعست زرشگ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

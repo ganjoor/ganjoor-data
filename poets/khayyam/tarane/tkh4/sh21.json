@@ -1,0 +1,58 @@
+{
+  "Id": 50310,
+  "CatId": 1815,
+  "Title": "رباعی ۵۵",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » گردش دوران  [۵۶-۳۵] » رباعی ۵۵",
+  "FullUrl": "/khayyam/tarane/tkh4/sh21",
+  "RhymeLetters": "وس",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر مرغی را می‌بیند که بر بالای درخت نشسته و کله کیکاوس (یکی از شخصیت‌های افسانه‌ای) را در چنگ خود گرفته است. مرغ به طور حسرت‌آلودی می‌گوید افسوس، و از فقدان صداهای دل‌انگیز جرس و ناله ساز ناله می‌کند. این شعر اشاره به حسرت و انتظاری دارد که در زندگی وجود دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وس",
+      "PlainText": "مرغی دیدم نشسته بر باره توس\r\nدر چنگ گرفته کله کیکاووس\r\nبا کله همی گفت که افسوس افسوس\r\nکو بانگ جرس ها و کجا ناله کوس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغی دیدم نشسته بر بارهٔ توس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چنگ گرفته کلّهٔ کیکاووس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا کلّه همی‌گفت که: افسوس، افسوس!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو بانگ جَرَس‌ها و کجا نالهٔ کوس؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرغی دیدم نشسته بر بارهٔ توس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در چنگ گرفته کلّهٔ کیکاووس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با کلّه همی‌گفت که: افسوس، افسوس!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو بانگ جَرَس‌ها و کجا نالهٔ کوس؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

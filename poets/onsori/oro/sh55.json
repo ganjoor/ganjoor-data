@@ -1,0 +1,58 @@
+{
+  "Id": 68905,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/onsori/oro/sh55",
+  "RhymeLetters": "اه",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ارتباط عمیق و عاشقانه‌اش با معشوق اشاره می‌کند. او می‌گوید که روشنایی معشوقش مانند ماه است و در این روشنی، از روز و شب دنیا بی‌خبر است. اما وقتی چشم معشوقش را می‌بندد، شب‌های دوری از او برای شاعر به مانند روزهای سیاهی تبدیل می‌شود. در واقع، شاعر احساس تنهایی و غم فراق را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اه",
+      "PlainText": "با روز رخ تو گرچه ای دوست چو ماه\r\nاز روز و شب جهان نبودم آگاه\r\nبنمود چو چشم بد فروبست آن ماه\r\nشبهای فراق تو مرا روز سیاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا روز رخ تو گرچه ای دوست چو ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز روز و شب جهان نبودم آگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنمود چو چشم بد فروبست آن ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبهای فراق تو مرا روز سیاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با روز رخ تو گرچه ای دوست چو ماه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از روز و شب جهان نبودم آگاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنمود چو چشم بد فروبست آن ماه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شبهای فراق تو مرا روز سیاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

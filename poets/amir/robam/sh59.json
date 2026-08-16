@@ -1,0 +1,58 @@
+{
+  "Id": 70102,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/amir/robam/sh59",
+  "RhymeLetters": "رد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به ستایش فردی بزرگ و محبوب می‌پردازد که از او به عنوان خسرو (شاه) یاد می‌شود. او را با افریدون، یکی از شخصیت‌های اسطوره‌ای بزرگ ایرانی، مقایسه می‌کند و به خیر و برکت‌هایی که از دولت و قدرت او به وجود آمده اشاره می‌کند. به طور کلی، این متن بیانگر عظمت و موفقیت این فرد در ادارهٔ جهان و بالاتر رفتن مقام مردمان زیر سایهٔ اوست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "ای از همه خسروان چو افریدون فرد\r\nوز دولت تو رسیده بر گردون گرد\r\nای  گشته به دولت تو روزافزون مرد\r\nایزد به تو این جهان ا همه ا میمون  کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از همه خسروان چو افریدون فرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز دولت تو رسیده بر گردون گَرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ‌گشته به دولت تو روزافزون مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایزد به تو این جهان ا‌همه‌ا میمون‌ کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای از همه خسروان چو افریدون فرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز دولت تو رسیده بر گردون گَرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای ‌گشته به دولت تو روزافزون مرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایزد به تو این جهان ا‌همه‌ا میمون‌ کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

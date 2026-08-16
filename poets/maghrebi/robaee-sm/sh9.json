@@ -1,0 +1,58 @@
+{
+  "Id": 84220,
+  "CatId": 2200,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "شمس مغربی » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/maghrebi/robaee-sm/sh9",
+  "RhymeLetters": "ویتوام",
+  "SourceName": "همراهان گنجور",
+  "SourceUrlSlug": "hamrahan",
+  "PoemSummary": "هوش مصنوعی: این بیت شعری از شاعر به زیبایی و جذابیت عشق اشاره دارد. شاعر خود را به عنوان بخشی از زیبایی معشوق معرفی می‌کند و به ارتباط عمیق میان خود و محبوبش اشاره می‌کند. او به این موضوع می‌پردازد که زیبایی و جاذبه معشوق در وجود او نیز تأثیر گذاشته و او را تحت تأثیر قرار داده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویتوام",
+      "PlainText": "من شانه زلف عنبرین بوی توام\r\nمشاطه حسن روی دلجوی توام\r\nهم مردمک دیده جادوی توام\r\nهم جلوه گه آینه روی توام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن شانه زلف عنبرین بوی توام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشاطه حسن روی دلجوی توام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم مردمک دیده جادوی توام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم جلوه گه آینه روی توام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من شانه زلف عنبرین بوی توام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشاطه حسن روی دلجوی توام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم مردمک دیده جادوی توام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم جلوه گه آینه روی توام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

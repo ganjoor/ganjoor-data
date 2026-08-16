@@ -1,0 +1,58 @@
+{
+  "Id": 82953,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۶۵",
+  "FullUrl": "/hazin/robaee-hz/sh65",
+  "RhymeLetters": "اچهگذشت",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر به معشوق خود می‌گوید که آیا می‌دانی در غم او و جدایی چه بر او گذشته است. او از درد فراق صحبت می‌کند و می‌پرسد آیا معشوقش نیز از آنچه بر او و بر آن شب‌ها گذشته، خبری دارد یا نه.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اچهگذشت",
+      "PlainText": "دانی که به من در غمت آیا چه گذشت\r\nبر سرچون شمعبی تو شبها چه گذشت\r\nاز درد فراق ما ز خود بی خبریم\r\nآیا خبرت هست که بر ما چه گذشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی که به من در غمت آیا چه گذشت؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سرچون شمع،بی تو شبها چه گذشت؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز درد فراق، ما ز خود بی خبریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیا خبرت هست که بر ما چه گذشت؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانی که به من در غمت آیا چه گذشت؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر سرچون شمع،بی تو شبها چه گذشت؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از درد فراق، ما ز خود بی خبریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیا خبرت هست که بر ما چه گذشت؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

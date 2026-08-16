@@ -1,0 +1,63 @@
+{
+  "Id": 52099,
+  "CatId": 1849,
+  "Title": "فقرۀ ۱۱۳",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۱۱۳",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh105",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به مراقبت در مواجهه با مارها و خطرات اشاره دارد. شاعر به طعمه‌سازی و خطرات ناشی از نزدیک شدن به مارها هشدار می‌دهد و می‌گوید که انسان افسونگر، نباید به راحتی به مارها نزدیک شود، زیرا این اقدام ممکن است به آسیب دامن بزند و منجر به مرگ شود. در واقع، این متن بر احتیاط و دوری از خطرات تأکید می‌کند.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ی",
+      "PlainText": "تو ای مرد افسونگر چیره دست\r\nمبر سوی هر مار بر خیره دست\r\nمبادا کت از این دلیری همی\r\nزند زخم و بر جای میری همی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو ای مرد افسونگر چیره‌دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمبر سوی هر مار بر خیره دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمبادا کت از این دلیری همی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزند زخم و بر جای میری همی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "هرچند بس نیک افسونِ ماران دانی‌، زود زود دست به مار مبر کت بگزد، و بر جای بمیراند.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "تو ای مرد افسونگر چیره‌دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "مبر سوی هر مار بر خیره دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "مبادا کت از این دلیری همی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "زند زخم و بر جای میری همی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

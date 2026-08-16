@@ -1,0 +1,57 @@
+{
+  "Id": 33514,
+  "CatId": 771,
+  "Title": "المقالة الثانی و العشرون",
+  "FullTitle": "عطار » الهی نامه » بخش بیست و دوم » المقالة الثانی و العشرون",
+  "FullUrl": "/attar/elahiname/ebkhsh22/sh1",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: پسر از پدر می‌پرسد که کیمیا چیست و چرا بدون آن نمی‌تواند زندگی کند. او از پدر می‌خواهد تا معنای کیمیا را برای او توضیح دهد، زیرا احساس می‌کند که بدون آن، جهانش ناقص است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "پسر گفت ای پدر این کیمیا چیست\r\nکه بی اودست می ندهد مرا زیست\r\nبیان کیمیا کن تا بدانم\r\nکه بی آن دست می ندهد جهانم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپسر گفت ای پدر این کیمیا چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بی اودست می‌ندهد مرا زیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیان کیمیا کن تا بدانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بی آن دست می‌ندهد جهانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پسر گفت ای پدر این کیمیا چیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بی اودست می‌ندهد مرا زیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیان کیمیا کن تا بدانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بی آن دست می‌ندهد جهانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

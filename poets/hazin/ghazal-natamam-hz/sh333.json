@@ -1,0 +1,58 @@
+{
+  "Id": 83494,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۳۳۳",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۳۳۳",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh333",
+  "RhymeLetters": "میکنی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت معشوقه‌اش اشاره می‌کند و از او می‌خواهد که با زیبایی‌هایش همچون شعله‌ای در باغ بدرخشد. همچنین به تاثیر حضور او در زندگی‌اش اشاره می‌کند و از او می‌خواهد که در مجالس محبت و دوستی، هشیار و آگاه باشد. شاعری به طور کلی از عشق و جذابیت آن سخن می‌گوید و به احساسات عمیق خود می‌پردازد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغکهمیزنی",
+      "PlainText": "ای برق حسن شعله به باغ که می زنی\r\nدامن دگر به آتش داغ که می زنی\r\nهشیار کو به مجلس ما ای پیام دوست\r\nداروی بیهشی به دماغ که می زنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای برق حسن، شعله به باغ که می زنی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامن دگر به آتش داغِ که می زنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهشیار کو به مجلس ما ای پیام دوست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداروی بیهُشی به دماغ که می زنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای برق حسن، شعله به باغ که می زنی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دامن دگر به آتش داغِ که می زنی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هشیار کو به مجلس ما ای پیام دوست؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داروی بیهُشی به دماغ که می زنی؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

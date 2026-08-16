@@ -1,0 +1,58 @@
+{
+  "Id": 50256,
+  "CatId": 1812,
+  "Title": "رباعی ۱",
+  "FullTitle": "خیام » ترانه‌های خیام به انتخاب و روایت صادق هدایت » راز آفرینش  [ ۱۵-۱] » رباعی ۱",
+  "FullUrl": "/khayyam/tarane/tkh1/sh1",
+  "RhymeLetters": "استمرا",
+  "SourceName": "محمودرضا رجایی",
+  "SourceUrlSlug": "mrr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی ظاهری خود اشاره می‌کند و آن را با رنگ و روی لاله و قامت سرو مقایسه می‌کند. اما او از این موضوع نگران است که در دنیای فانی، دلیل زیبایی‌اش چیست و آیا نقاشی که او را این‌گونه آراسته، هدف خاصی داشته است یا نه.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استمرا",
+      "PlainText": "هر چند که رنگ و روی زیباست مرا\r\nچون لاله رخ و چو سرو بالاست مرا\r\nمعلوم نشد که در طرب خانه خاک\r\nنقاش ازل بهر چه آراست مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند که رنگ و روی زیباست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون لاله، رخ و چو سَرْو، بالاست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعلوم نشد که در طَرَب‌خانهٔ خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقّاشِ ازل، بَهرِ چه آراست مرا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که رنگ و روی زیباست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون لاله، رخ و چو سَرْو، بالاست مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معلوم نشد که در طَرَب‌خانهٔ خاک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نقّاشِ ازل، بَهرِ چه آراست مرا؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

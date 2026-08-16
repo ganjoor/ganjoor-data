@@ -1,0 +1,58 @@
+{
+  "Id": 70156,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۱۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۱۳",
+  "FullUrl": "/amir/robam/sh113",
+  "RhymeLetters": "ستش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از تأثیر چشم و زلف معشوق بر دلش سخن می‌گوید. وقتی چشم معشوق بر دل او می‌افتد، همچون تیر بر دلش فرود می‌آید و زلف او مانند زره‌ای محافظ، دلش را در برابر تیرها حفظ می‌کند. او تأکید می‌کند که هرگز از زلف دراز معشوق دست نمی‌کشد، زیرا آن زلف تیرهایی را که به دلش وارد می‌شود، از آنجا دور می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "از",
+      "PlainText": "چون چشم تو بر دلم شود تیر انداز\r\nزلف تو شود پیش دلم جوشن ساز\r\nکوته نکنم دو دست از آن زلف دراز\r\nکاو تیر به جوشن از دلم دارد باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون چشم تو بر دلم شود تیر انداز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلف تو شود پیش دلم جوشن ساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوته نکنم دو دست از آن زلف دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاو تیر به جوشن از دلم دارد باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون چشم تو بر دلم شود تیر انداز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلف تو شود پیش دلم جوشن ساز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوته نکنم دو دست از آن زلف دراز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاو تیر به جوشن از دلم دارد باز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

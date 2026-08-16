@@ -1,0 +1,58 @@
+{
+  "Id": 82927,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۳۹",
+  "FullUrl": "/hazin/robaee-hz/sh39",
+  "RhymeLetters": "انهمنیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به نکات تلخی از عشق و دل‌تنگی اشاره می‌کند. او می‌گوید که افسوس عشق درد دارد و هیچ درمانی برای آن نیست. همچنین از داغ دل و محبت معشوق صحبت می‌کند و ابراز می‌کند که در جستجوی نعمت‌های زندگی، حتی نان و غذا هم کم مانده است. در نهایت به نظر می‌رسد که درد و رنج عشق و فقر از هم جدایی ندارند و او احساس تنهایی و ناامیدی می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهمنیست",
+      "PlainText": "افسوس که درد عشق و درمان هم نیست\r\nداغ دل گرم و مهر جانان هم نیست\r\nخون در طلب نعمت الوان نخورم\r\nتنها نه که نان نمانده دندان هم نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسوس که درد عشق و درمان هم نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغ دل گرم و مهر جانان هم نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخون در طلب نعمت الوان نخورم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنها نه که نان نمانده، دندان هم نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که درد عشق و درمان هم نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ دل گرم و مهر جانان هم نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون در طلب نعمت الوان نخورم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تنها نه که نان نمانده، دندان هم نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

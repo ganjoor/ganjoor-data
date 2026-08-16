@@ -1,0 +1,58 @@
+{
+  "Id": 50076,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۶",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۶",
+  "FullUrl": "/mahsati/robmah/sh16",
+  "RhymeLetters": "اقاست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی چهره و ابروهای دلربای محبوب اشاره می‌کند و می‌گوید که محبوبش نقش و شخصیتش در عالم شناخته شده است. او با ناز و محبت، دل‌ها را به درد می‌آورد و غم‌ها را نمایان می‌سازد. با استفاده از تصاویری زیبا، احساسی عمیق از عشق و زیبایی را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اقاست",
+      "PlainText": "صحاف پسر که شهره آفاق است\r\nچون ابروی خویشتن به عالم طاق است\r\nبا سوزن مژگان بکند شیرازه\r\nهر سینه که از غم دلش اوراق است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصحّاف پسر که شهرهٔ آفاق است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ابروی خویشتن به عالم طاق است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا سوزن مژگان بکند شیرازه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر سینه که از غم دلش اوراق است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحّاف پسر که شهرهٔ آفاق است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون ابروی خویشتن به عالم طاق است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با سوزن مژگان بکند شیرازه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر سینه که از غم دلش اوراق است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 75752,
+  "CatId": 2090,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "حکیم نزاری » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/nezari/robnez/sh5",
+  "RhymeLetters": "ارمیدادمرا",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: شاعر به انتظار وصال محبوبش نشسته و امیدوار است که او را به آرامش برساند. او به محبوب می‌گوید که آیا ممکن است او را از میان احساسات و دردهایش بیرون آورد، اما به نظر می‌رسد که همچنان در میان آن‌ها گرفتار است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمیدادمرا",
+      "PlainText": "دیریست که انتظار می داد مرا\r\nبا وصل شبی قرار می داد مرا\r\nگفتم مگرم دهد کناری ز میان\r\nاز خود ز میان کنار می داد مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیریست که انتظار می داد مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا وصل شبی قرار می داد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم مگرم دهد کناری ز میان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خود ز میان کنار می داد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیریست که انتظار می داد مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با وصل شبی قرار می داد مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم مگرم دهد کناری ز میان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خود ز میان کنار می داد مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

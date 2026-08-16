@@ -1,0 +1,58 @@
+{
+  "Id": 123701,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۳۵",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۳۵",
+  "FullUrl": "/naziri/divan/robaee/sh135",
+  "RhymeLetters": "مندهی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به اهمیت شادی در زندگی و یکپارچگی اشاره می‌کند. او می‌گوید که یک لحظه خوشی به اندازه صد لحظه دیگر ارزش دارد و نباید آن را فدای چیزهای بی‌فایده کرد. همچنین، از تفرقه و جدایی پرندگان روح که نماد افراد هستند، انتقاد می‌کند و دعوت به وحدت و جمع شدن می‌نماید تا از پراکندگی جلوگیری شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مندهی",
+      "PlainText": "یک دم دل شاد را به صد دم ندهی\r\nواندم به دم عیسی مریم ندهی\r\nمرغان ضمیر از صفا رام شوند\r\nجمع آی که از تفرقه شان رم ندهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک دم دل شاد را به صد دم ندهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواندم به دم عیسی مریم ندهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغان ضمیر از صفا رام شوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمع آی که از تفرقه شان رم ندهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک دم دل شاد را به صد دم ندهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "واندم به دم عیسی مریم ندهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرغان ضمیر از صفا رام شوند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جمع آی که از تفرقه شان رم ندهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 51751,
+  "CatId": 1841,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "ملک‌الشعرا بهار » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/bahar/robaeebk/sh28",
+  "RhymeLetters": "یشد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به گذر زمان و فرارسیدن ماه رمضان اشاره می‌کند. او می‌گوید که روزه و ایام ماه رمضان به پایان رسیده و حالا زمان شادی و سرگرمی فرارسیده است. همچنین به این نکته اشاره می‌کند که ماه رمضان دوباره خواهد آمد، ولی نمی‌داند عمرش چه زمانی به پایان می‌رسد. در واقع، این ابیات تأملی بر زندگی و گذران زمان هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یشد",
+      "PlainText": "ماه رمضان و روزه جانا طی شد\r\nایام دف و چنگ و رباب و نی شد\r\nآید رمضان باز و همی خواهد رفت\r\nوین عمر ندانیم کی آمد کی شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماه رمضان و روزه جانا طی شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایام دف و چنگ و رباب و نی شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآید رمضان باز و همی خواهد رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین عمر ندانیم کی آمد کی شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماه رمضان و روزه جانا طی شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ایام دف و چنگ و رباب و نی شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آید رمضان باز و همی خواهد رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین عمر ندانیم کی آمد کی شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

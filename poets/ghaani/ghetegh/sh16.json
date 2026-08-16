@@ -1,0 +1,58 @@
+{
+  "Id": 45656,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۶",
+  "FullUrl": "/ghaani/ghetegh/sh16",
+  "RhymeLetters": "ست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: حافظ در این بیت به عشق و صداقت اشاره می‌کند و از خداوند می‌خواهد که پیمانه عشق را حفظ کند. او به زیبایی و صداقت در هر دورانی تأکید کرده و به پیروان راه عشق قسم می‌خورد که او حافظ است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "مر آن خدای که پیمانه را نگهدارد\r\nبه زی ر خاک چو پیمان اهل عشق درست\r\nز روی صدق دگر به کام شیر روی\r\nبه رهروان طریقت قسم که حافظ تو ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر آن خدای که پیمانه را نگهدارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه زی‌ر خاک چو پیمان اهل عشق درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز روی صدق دگر به کام شیر روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه رهروان طریقت قسم که حافظ تو ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مر آن خدای که پیمانه را نگهدارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به زی‌ر خاک چو پیمان اهل عشق درست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز روی صدق دگر به کام شیر روی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به رهروان طریقت قسم که حافظ تو ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

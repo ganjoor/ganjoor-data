@@ -1,0 +1,58 @@
+{
+  "Id": 113901,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/jahan/divan/robaee/sh28",
+  "RhymeLetters": "ست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر با حسی از سرگشتگی و عشق به محبوبش، از خستگی جان و دلش سخن می‌گوید. او ابراز می‌کند که نتوانسته از باغ وصل معشوق هیچ گل خوشبو بچیند و به خاطر آزاری که دیده، روحش به شدت دچار خستگی شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "هستم من سرگشته به عشقت سرمست\r\nجان خسته ز عشق یار و دل داده ز دست\r\nاز گلبن وصل او نچیدم یک گل\r\nوز خار جفا جان جهانی را خست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستم من سرگشته به عشقت سرمست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان خسته ز عشق یار و دل داده ز دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز گلبن وصل او نچیدم یک گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز خار جفا جان جهانی را خست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هستم من سرگشته به عشقت سرمست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان خسته ز عشق یار و دل داده ز دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از گلبن وصل او نچیدم یک گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز خار جفا جان جهانی را خست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 121032,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۳۱۶",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۳۱۶",
+  "FullUrl": "/hamgar/divan/robaee/sh316",
+  "RhymeLetters": "ممیگذرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از سختی‌ها و غم‌های ناشی از عشق سخن می‌گوید. او اشاره می‌کند که زندگی‌اش به خاطر این عشق پر از رنج و محنت‌ است، اما با وجود این مشکلات، او شکرگزار است که زمان به هر حال می‌گذرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ممیگذرد",
+      "PlainText": "در عشق تو عمرم به ستم می گذرد\r\nروزم همه در محنت و غم می گذرد\r\nایام جمال تو و دور غم من\r\nشکر است که با اینهمه هم می گذرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق تو عمرم به ستم می‌گذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزم همه در محنت و غم می‌گذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایام جمال تو و دور غم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکر است که با اینهمه هم می‌گذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق تو عمرم به ستم می‌گذرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزم همه در محنت و غم می‌گذرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ایام جمال تو و دور غم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکر است که با اینهمه هم می‌گذرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

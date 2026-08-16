@@ -1,0 +1,58 @@
+{
+  "Id": 45767,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۰۵",
+  "FullUrl": "/ghaani/ghetegh/sh105",
+  "RhymeLetters": "هم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به ما می‌گویند که باید از صحبت‌های بیهوده گله کنیم، چون این بحث‌ها و گفت‌وگوها تنها خیالات و تصورات خالی هستند. آن موجود بی‌نشان که مالک این دو جهان است، فراتر از فهم و اندیشه انسانی است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هم",
+      "PlainText": "قاآنیا ز گفته بیهوده لب ببند\r\nکاین  قیل  و  قال  محض  خیالست  و صرف وهم\r\nآ ن بی نشان که ملک دو عالم از آن اوست\r\nبیرون بود ز حیز فکر و جهان فهم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقاآنیا ز گفتهٔ بیهوده لب ببند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین‌ قیل‌ و‌ قال‌ محض‌ خیالست‌ و صرف وهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآ‌ن بی‌نشان که ملک دو عالم از آن اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون بود ز حیز فکر و جهان فهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قاآنیا ز گفتهٔ بیهوده لب ببند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاین‌ قیل‌ و‌ قال‌ محض‌ خیالست‌ و صرف وهم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آ‌ن بی‌نشان که ملک دو عالم از آن اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیرون بود ز حیز فکر و جهان فهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

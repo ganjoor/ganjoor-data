@@ -1,0 +1,58 @@
+{
+  "Id": 70216,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۷۳",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۷۳",
+  "FullUrl": "/amir/robam/sh173",
+  "RhymeLetters": "رنداردگویی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: اگر به صدای دلخواه خود پاسخ دهی، سرنوشت نیز همراهی می‌کند. همچنین، اگر به کارزار آماده شوی، موفقیت می‌آید. کسی که با دست خود به او کمک کنی، شایستهٔ توجه است. در نهایت، فردی که از گذشته‌اش درس بگیرد و آن را به خود بازگرداند، می‌تواند به موفقیت برسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازدهی",
+      "PlainText": "لبیک دهد بخت چو آواز دهی\r\nتکبیرکند چو رزم را ساز دهی\r\nآن را که به دست خویش بگماز دهی\r\nاقبال گذشته را بدو باز دهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلبیک دهد بخت چو آواز دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتکبیرکند چو رزم را ساز دهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن‌را که به‌دست خویش بگماز دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاقبال گذشته را بدو باز دهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لبیک دهد بخت چو آواز دهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تکبیرکند چو رزم را ساز دهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن‌را که به‌دست خویش بگماز دهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اقبال گذشته را بدو باز دهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

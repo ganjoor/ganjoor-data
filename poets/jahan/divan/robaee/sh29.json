@@ -1,0 +1,58 @@
+{
+  "Id": 113902,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/jahan/divan/robaee/sh29",
+  "RhymeLetters": "ست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره حالت مستی و شیدایی شاعر نسبت به معشوقش است. شاعر به زیبایی و دلربایی محبوبش اشاره کرده و بیان می‌کند که حتی در حالت پستی و فرود، به عشق او اعتراف می‌کند. همچنین از آرزوی نزدیک شدن و بودن در کنار معشوق در یک محیط زیبا و سرسبز سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "مستیم چو چشم مست شهلای تو مست\r\nپستیم به پیش قد و بالای تو پست\r\nآیا بود آنکه در میان بستان\r\nگردیم کنار سبزه ات دست به دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستیم چو چشم مست شهلای تو مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپستیم به پیش قد و بالای تو پست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآیا بود آنکه در میان بستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردیم کنار سبزه‌ات دست به دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستیم چو چشم مست شهلای تو مست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پستیم به پیش قد و بالای تو پست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آیا بود آنکه در میان بستان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردیم کنار سبزه‌ات دست به دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

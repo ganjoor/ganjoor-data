@@ -1,0 +1,58 @@
+{
+  "Id": 119618,
+  "CatId": 2754,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "نشاط اصفهانی » دیوان اشعار » دوبیتی‌ها » شمارهٔ ۱۰",
+  "FullUrl": "/neshat/divan/2beyti/sh10",
+  "RhymeLetters": "انه",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از درد و رنجی که در زمانه معاصر تحمل می‌کند، صحبت می‌کند. او احساس می‌کند که از ظلم و جفای دوگانه‌های زندگی به مرز جان‌سختی رسیده و در شرایطی قرار دارد که نه مکانی برای آرامش دارد و نه خانه‌ای برای استراحت. در واقع، او در جستجوی مکانی امن و آرام در دنیای پرآشوب است.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انه",
+      "PlainText": "جان بر لب ماست در زمانه\r\nاز دست جفای این دو گانه\r\nگویی ز مقرنس زمانه\r\nنه جای بود مرا نه خانه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان بر لب ماست در زمانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دست جفای این دو گانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی ز مقرنس زمانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه جای بود مرا نه خانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان بر لب ماست در زمانه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دست جفای این دو گانه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی ز مقرنس زمانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه جای بود مرا نه خانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

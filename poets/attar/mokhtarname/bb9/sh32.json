@@ -1,0 +1,58 @@
+{
+  "Id": 34427,
+  "CatId": 804,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "عطار » مختارنامه » باب نهم: در مقام حیرت و سرگشتگی » شمارهٔ ۳۲",
+  "FullUrl": "/attar/mokhtarname/bb9/sh32",
+  "RhymeLetters": "رم",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به طرز عمیق‌تری به داستان نگاه می‌کند و می‌گوید که هیچ چیز از جایی دیگر به او نمی‌رسد. هرچند پسرش زیبا و شایسته است، اما او و پدرش در این موضوع نقشی ندارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رم",
+      "PlainText": "چندان که بدین قصه فرو مینگرم\r\nیک ذره نمیرسد ز جایی دگرم\r\nهرچند که شایسته و زیبا پسرم\r\nنه کار من است این و نه کار پدرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان که بدین قصه فرو مینگرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ذرّه نمیرسد ز جائی دگرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچند که شایسته و زیبا پسرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه کار من است این و نه کار پدرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چندان که بدین قصه فرو مینگرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک ذرّه نمیرسد ز جائی دگرم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که شایسته و زیبا پسرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه کار من است این و نه کار پدرم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Id": 52067,
+  "CatId": 1849,
+  "Title": "فقرۀ ۸۱",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۸۱",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh73",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این بیت به اهمیت داد و دهش و نیکی کردن اشاره دارد. در آن بیان می‌شود که اگر انسان بخواهد ملکوتی و جاودانه شود، باید در مسیر داد و دهش حرکت کند. در غیر این صورت، اگر به این‌کارها اهمیت ندهد، به سرعت از بین خواهد رفت و فانی می‌شود.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیشوی",
+      "PlainText": "ز داد و دهش جاودانی شوی\r\nجز این گر کنی زود فانی شوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز داد و دهش جاودانی شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز این گر کنی زود فانی شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "دادار باش که گروزمانی (‌ملکوتی‌) شوی.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "ز داد و دهش جاودانی شوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "جز این گر کنی زود فانی شوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

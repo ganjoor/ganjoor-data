@@ -1,0 +1,58 @@
+{
+  "Id": 76500,
+  "CatId": 2095,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "کمال خجندی » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/khojandi/robkk/sh22",
+  "RhymeLetters": "انیدل",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به بیان احساسات درونی خود می‌پردازد. او به شنیدنی نغمه‌هایی اشاره می‌کند که به گوش می‌رسند، ولی جان او از غم‌های پنهان بی‌خبر است. هرچند که از سوز درون چیزی نمی‌گوید، اما پریشانی دلش از چهره‌اش پیداست.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیدل",
+      "PlainText": "بر گوش رسد همی نوا خوانی دل\r\nجان بی خبر است از غم پنهانی دل\r\nاز سوز درون هیچ نگویم لیکن\r\nاز چهره عیانست پریشانی دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر گوش رسد همی نوا خوانی دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان بی خبر است از غم پنهانی دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سوز درون هیچ نگویم لیکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چهره عیانست پریشانی دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر گوش رسد همی نوا خوانی دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان بی خبر است از غم پنهانی دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سوز درون هیچ نگویم لیکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از چهره عیانست پریشانی دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

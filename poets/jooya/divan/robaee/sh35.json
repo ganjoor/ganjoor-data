@@ -1,0 +1,58 @@
+{
+  "Id": 103089,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۵",
+  "FullUrl": "/jooya/divan/robaee/sh35",
+  "RhymeLetters": "وست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیان می‌کنند که حقیقت و اسرار آن مانند خون در رگ و پوست انسان هستند. به این معنی که وقتی این اسرار از درون آدمی خارج می‌شوند، نجس و آلوده به نظر می‌رسند. در واقع، زندگی و وجود آدمی به این اسرار وابسته است و تا زمانی که در درون خود نگه‌داریم، صاف و بی‌عیب باقی می‌مانند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "اسرار حقیقت همگی سر مگوست\r\nبا شخص مثال خون بود در رگ و پوست\r\nیعنی نجس است چون تراوید از تو\r\nتا در تو نهانست حیاتت با اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسرار حقیقت همگی سر مگوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا شخص مثال خون بود در رگ و پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی نجس است چون تراوید از تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا در تو نهانست حیاتت با اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اسرار حقیقت همگی سر مگوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با شخص مثال خون بود در رگ و پوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یعنی نجس است چون تراوید از تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا در تو نهانست حیاتت با اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

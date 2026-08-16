@@ -1,0 +1,58 @@
+{
+  "Id": 1171,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۵۳",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۵۳",
+  "FullUrl": "/khayyam/robaee/sh53",
+  "RhymeLetters": "لخ",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به گذر زمان و پایان عمر اشاره دارد. شاعر می‌گوید که وقتی عمر به پایان برسد، فرقی نمی‌کند که زندگی شیرین بوده یا تلخ. او از نوشیدن نوشیدنی‌ای صحبت می‌کند که نباید به خاطر آینده نگران بود، زیرا بعد از مرگ، روزها و شب‌های زیادی خواهد گذشت. این شعر به نوعی دعوت به زندگی در لحظه و لذت بردن از آن است پیش از اینکه دیر شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لخ",
+      "PlainText": "چون عمر به سر رسد چه شیرین و چه تلخ\r\nپیمانه چو پر شود چه بغداد و چه بلخ\r\nمی نوش که بعد از من و تو ماه بسی\r\nاز سلخ به غره آید از غره به سلخ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عمر به سر رسد چه شیرین و چه تلخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمانه چو پر شود چه بغداد و چه بلخ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نوش که بعد از من و تو ماه بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سَلخ به غُرّه آید از غُرّه به سلخ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون عمر به سر رسد چه شیرین و چه تلخ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیمانه چو پر شود چه بغداد و چه بلخ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می نوش که بعد از من و تو ماه بسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سَلخ به غُرّه آید از غُرّه به سلخ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

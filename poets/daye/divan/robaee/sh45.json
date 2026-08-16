@@ -1,0 +1,58 @@
+{
+  "Id": 107208,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/daye/divan/robaee/sh45",
+  "RhymeLetters": "اید",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بیان حالتی می‌پردازد که انسان می‌تواند آزادانه زندگی کند اما تحت تأثیر دستورات و نشانه‌های مالک یا سرپرست قرار دارد. به نوعی، انسان در زندگی خود در حالی که می‌تواند آزاد باشد، ممکن است به شرایط و خواسته‌های دیگران وابسته شود. این وضعیت به نوعی اشاره به تناقض میان آزادی و بندگی دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اید",
+      "PlainText": "بازی که همی دست ملک را شاید\r\nمنقار به مردار کجا آلاید\r\nبر دست ملک نشیند آزاد ز خویش\r\nدر بند اشاراتی که او فرماید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازی که همی دست ملک را شاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنقار به مردار کجا آلاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر دست ملک نشیند آزاد ز خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بند اشاراتی که او فرماید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بازی که همی دست ملک را شاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منقار به مردار کجا آلاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر دست ملک نشیند آزاد ز خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در بند اشاراتی که او فرماید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

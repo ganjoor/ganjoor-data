@@ -1,0 +1,49 @@
+{
+  "Id": 52070,
+  "CatId": 1849,
+  "Title": "فقرۀ ۸۴",
+  "FullTitle": "ملک‌الشعرا بهار » منظومه‌ها » ارمغان بهار » فقرۀ ۸۴",
+  "FullUrl": "/bahar/manzoomebk/armaghanbk/sh76",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این موضوع اشاره دارند که انسان نباید اجازه دهد خشم و کینه روحش را خراب کند. بلکه باید از این احساسات منفی دوری کند تا روح و جانش در امان بماند و دچار آسیب نشود.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ین",
+      "PlainText": "روان را بپرداز از خشم و کین\r\nکه گردد تبه جانت از آن و این",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروان را بپرداز از خشم و کین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه گردد تبه جانت از آن و این\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "خشم وکین را، روان خویش تباه مساز.",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "روان را بپرداز از خشم و کین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "که گردد تبه جانت از آن و این",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

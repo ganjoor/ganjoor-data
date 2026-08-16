@@ -1,0 +1,58 @@
+{
+  "Id": 118935,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/azar/divan/robaee/sh14",
+  "RhymeLetters": "اخیزاست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به شب هجران اشاره می‌کند که با درد و اشک‌های فراوان همراه است. اما شب هجر، به نوعی به روز رستاخیز و بازگشت امید و خوشبختی تعبیر می‌شود. به عبارتی، شب هجر و تاریکی‌ها می‌تواند مقدمه‌ای برای بیداری و نوسازی باشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اخیزاست",
+      "PlainText": "ما را شب هجر سینه سوداخیز است\r\nوز سیل سرشک دریاخیز است\r\nصد منت رفته بازگردد شب هجر\r\nآری شب هجر روز رستاخیز است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را شب هجر، سینه سوداخیز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز سیل سرشک، دریاخیز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد منت رفته، بازگردد شب هجر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری شب هجر، روز رستاخیز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما را شب هجر، سینه سوداخیز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز سیل سرشک، دریاخیز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد منت رفته، بازگردد شب هجر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری شب هجر، روز رستاخیز است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Id": 83179,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh18",
+  "RhymeLetters": "ایتورا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به زیبایی و دلنشینی دیدار معشوق اشاره می‌کند و بیان می‌کند که هیچ‌کس نمی‌تواند لذت این دیدار را وصف کند. دل شاعر در پی جاذبه‌ها و زیبایی‌های معشوق است و هر ناله‌اش، سواء از آشنا و بیگانه، گویای عشق و ارادت اوست. در نهایت، اشاره می‌کند که دل بیگانه‌ها از زیبایی و سحر معشوق بی‌خبر است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتورا",
+      "PlainText": "نبرده لذت دیدار دلگشای تو را\r\nغلط به آینه هر کس کند صفای تو را\r\nبه رهگذار تو صید کرشمه هاست دلم\r\nکه ناز نرگس لیلی ست نقش پای تو را\r\nگداخت ناله من آشنا و بیگانه\r\nخبر نشد دل بیگانه آشنای تو را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبرده لذت دیدار دلگشای تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغلط به آینه، هر کس کند صفای تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه رهگذار تو صید کرشمه هاست دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ناز نرگس لیلی ست، نقش پای تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگداخت ناله من، آشنا و بیگانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخبر نشد دل بیگانه آشنای تو را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نبرده لذت دیدار دلگشای تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غلط به آینه، هر کس کند صفای تو را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به رهگذار تو صید کرشمه هاست دلم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که ناز نرگس لیلی ست، نقش پای تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گداخت ناله من، آشنا و بیگانه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خبر نشد دل بیگانه آشنای تو را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

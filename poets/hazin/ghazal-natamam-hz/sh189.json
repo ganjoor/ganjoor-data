@@ -1,0 +1,58 @@
+{
+  "Id": 83350,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۱۸۹",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۱۸۹",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh189",
+  "RhymeLetters": "الگیرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به احساس ناامیدی و دلتنگی شاعر اشاره دارند. او از بی‌پایانی احسان و محبت سخن می‌گوید ولی در عین حال حس می‌کند که از زخم‌ها و کمبودها هم مطلع است. او درگیر احساسات خود است و نمی‌تواند از این وضعیت رهایی یابد، به گونه‌ای که حتی غبار وجودش هم در جایی برای بروز و تجلی نمی‌یابد.",
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننمیبیند",
+      "PlainText": "پریشانی ز احسان بحر بی پایان نمی بیند\r\nزیانی مایه دار همت از نقصان نمی بیند\r\nچه سان آیم برون از دامن صحرای دلتنگی\r\nغبارم جلوه گاهی در خور جولان نمی بیند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپریشانی ز احسان، بحر بی پایان نمی بیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیانی مایه دار همّت، از نقصان نمی بیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه سان آیم برون از دامن صحرای دلتنگی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغبارم جلوه گاهی در خور جولان نمی بیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پریشانی ز احسان، بحر بی پایان نمی بیند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیانی مایه دار همّت، از نقصان نمی بیند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه سان آیم برون از دامن صحرای دلتنگی؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غبارم جلوه گاهی در خور جولان نمی بیند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

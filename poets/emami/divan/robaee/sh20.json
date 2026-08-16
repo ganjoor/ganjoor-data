@@ -1,0 +1,58 @@
+{
+  "Id": 97279,
+  "CatId": 2497,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "امامی هروی » دیوان اشعار » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/emami/divan/robaee/sh20",
+  "RhymeLetters": "وم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت به تأثیرات خط و قلم خود بر آسمان و دانش نجوم اشاره می‌کند. او می‌گوید که هیچ چیز دیگری جز خط او در علم وجود ندارد و امروز علم و دانش تحت تأثیر سخنان و آثار او قرار دارد. به نوعی، او خود را محور دانش و علم می‌داند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وم",
+      "PlainText": "ای نه فلک از کلک تو در تحت رقوم\r\nوی یافته از تو رونق احکام نجوم\r\nنی نی غلطم غلط که جز خط تو نیست\r\nامروز محیط مرکز علم علوم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نه فلک از کلک تو در تحت رقوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی یافته از تو رونق احکام نجوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نی غلطم، غلط که جز خط تو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز محیط مرکز علم علوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نه فلک از کلک تو در تحت رقوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی یافته از تو رونق احکام نجوم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی نی غلطم، غلط که جز خط تو نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز محیط مرکز علم علوم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

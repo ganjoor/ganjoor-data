@@ -1,0 +1,58 @@
+{
+  "Id": 83121,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲۴",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲۴",
+  "FullUrl": "/hazin/robaee-hz/sh224",
+  "RhymeLetters": "ودن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این اشعار به این موضوع اشاره دارد که انسان‌ها در اثر ندانم‌کاری و ناآگاهی، خود را از حقیقت و نور وجودشان دور می‌کنند. در واقع، با حجاب‌ها و نقاب‌هایی که بر خود می‌نهند، به نوعی در واقعیت خود و وجود واقعی‌شان غرق می‌شوند و نمی‌توانند به درستی خود را بشناسند و درک کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ودن",
+      "PlainText": "حق ظاهر و خلق در حجاب افزودن\r\nسرچشمه خورشید به خاک اندودن\r\nتو بی خبر از قصور و ادراک خودی\r\nموجود نهان نمی تواند بودن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق ظاهر و خلق در حجاب افزودن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرچشمهٔ خورشید به خاک اندودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بی خبر از قصور و ادراک خودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموجود، نهان نمی تواند بودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حق ظاهر و خلق در حجاب افزودن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرچشمهٔ خورشید به خاک اندودن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو بی خبر از قصور و ادراک خودی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موجود، نهان نمی تواند بودن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83114,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۱۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۱۷",
+  "FullUrl": "/hazin/robaee-hz/sh217",
+  "RhymeLetters": "ان",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: یکی از یاران از دوستش پرسید که حالش چطور است. او جواب داد که از خوردن نعمت‌ها در حال فرسودگی است، اما هنوز زبانش از گله و شکایت آرام نیافته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "پرسید ز یار خود یکی از یاران\r\nکی دوست بگو چگونه ای گفت ای جان\r\nفرسوده شد از خوردن نعمت دندان\r\nلیک ازگله یک روز نیاسود زبان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرسید ز یار خود، یکی از یاران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی دوست بگو چگونه ای؟ گفت ای جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرسوده شد از خوردن نعمت دندان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک ازگله، یک روز نیاسود زبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پرسید ز یار خود، یکی از یاران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی دوست بگو چگونه ای؟ گفت ای جان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرسوده شد از خوردن نعمت دندان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لیک ازگله، یک روز نیاسود زبان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

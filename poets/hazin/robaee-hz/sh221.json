@@ -1,0 +1,58 @@
+{
+  "Id": 83118,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۲۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۲۱",
+  "FullUrl": "/hazin/robaee-hz/sh221",
+  "RhymeLetters": "ارمنچهخواهیکردن",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده به شدت از درد و رنج خود شکایت می‌کند و می‌پرسد که دیگران با حال وی چه خواهند کرد. او نشان می‌دهد که اشک و غم تنها چیزهایی هستند که برایش باقی مانده و حالش آن‌قدر بد است که جگرش نیز در اثر اندوه خالی شده است. در نهایت، او از دیگران انتظار ندارد که کاری برایش انجام دهند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمنچهخواهیکردن",
+      "PlainText": "ای دیده زار من چه خواهی کردن\r\nجز اشک نثار من چه خواهی کردن\r\nبا گریه نمانده است لخت جگری\r\nدر جیب و کنار من چه خواهی کردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دیدهٔ زار من چه خواهی کردن؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز اشک نثار من چه خواهی کردن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا گریه نمانده است لخت جگری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جیب و کنار من چه خواهی کردن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دیدهٔ زار من چه خواهی کردن؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز اشک نثار من چه خواهی کردن؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با گریه نمانده است لخت جگری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جیب و کنار من چه خواهی کردن؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

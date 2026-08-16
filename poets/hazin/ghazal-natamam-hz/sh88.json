@@ -1,0 +1,58 @@
+{
+  "Id": 83249,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۸۸",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh88",
+  "RhymeLetters": "وشیها",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به عشق و نوشیدن شراب اشاره می‌کند. او می‌گوید که هرگز از مِی وصل معشوق خود سیر نشده و نغمه‌های مستی او را چاک‌چاک کرده است. خیال توبه نیز همچون تصویری بر روی آب فراموشی باقی مانده و همه‌چیز به زمان‌هایی برمی‌گردد که با شراب پیمان بسته بودند.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انها",
+      "PlainText": "چو تر هرگز نگردید از می وصل تو دامان ها\r\nز مخموری بود خمیازه ای چاک گریبان ها\r\nخیال توبه نقشی بود بر آب فراموشی\r\nدر آن عهدی که با پیمانه می بستیم پیمان ها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو تر هرگز نگردید، از می وصل تو دامان‌ها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز مخموری بود خمیازه‌ای، چاک گریبان‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیال توبه، نقشی بود بر آب فراموشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آن عهدی که با پیمانه می‌بستیم پیمان‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو تر هرگز نگردید، از می وصل تو دامان‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز مخموری بود خمیازه‌ای، چاک گریبان‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خیال توبه، نقشی بود بر آب فراموشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آن عهدی که با پیمانه می‌بستیم پیمان‌ها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

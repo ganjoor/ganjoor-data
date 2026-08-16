@@ -1,0 +1,58 @@
+{
+  "Id": 83144,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۲۴۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۲۴۷",
+  "FullUrl": "/hazin/robaee-hz/sh247",
+  "RhymeLetters": "ارتنرساندنرسی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شوق عشق و longing به دیار محبوب، ممکن است به انسان نرساند و او را از وصال دور کند. در جایی که محبوب است، هیچ‌کس دیگری راهی ندارد. اگر عشق به یار نرسد، به معنای این است که انسان نمی‌تواند به او برسد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارتنرساندنرسی",
+      "PlainText": "شوق ار به دیارت نرساند نرسی\r\nدر صفه بارت نرساند نرسی\r\nدر حضرت دوست غیر را راه نبود\r\nگر عشق به یارت نرساند نرسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوق ار به دیارت نرساند نرسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صفهٔ بارت نرساند، نرسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حضرت دوست غیر را راه نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر عشق به یارت نرساند نرسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوق ار به دیارت نرساند نرسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در صفهٔ بارت نرساند، نرسی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حضرت دوست غیر را راه نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر عشق به یارت نرساند نرسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

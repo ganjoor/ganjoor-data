@@ -1,0 +1,58 @@
+{
+  "Id": 64845,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۴۸",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۴۸",
+  "FullUrl": "/ebnehesam/robaeebn/sh48",
+  "RhymeLetters": "امیاید",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عطر و بوی معشوق خود سخن می‌گوید. او احساس می‌کند که این رایحه یا از باد صبا می‌آید یا از مشک خوشبو. همچنین به زیبایی و چین زلف معشوق اشاره می‌کند و احتمال می‌دهد که آهو (که نمادی از زیبایی است) این چین را به وجود آورده باشد. به‌طور کلی، شعر حالتی عاشقانه و ابراز احساسات عمیق نسبت به محبوب را convey می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیاید",
+      "PlainText": "یا بوی تو از باد صبا می آید\r\nیا رایحه مشک خطا می آید\r\nیا چین سر زلف تو را بگشادند\r\nیا آهو چین نافه گشا می آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا بوی تو از باد صبا می آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا رایحه مشک خطا می آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا چین سر زلف تو را بگشادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا آهو چین نافه گشا می آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا بوی تو از باد صبا می آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا رایحه مشک خطا می آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا چین سر زلف تو را بگشادند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا آهو چین نافه گشا می آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

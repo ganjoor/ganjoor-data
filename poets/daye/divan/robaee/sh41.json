@@ -1,0 +1,58 @@
+{
+  "Id": 107204,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/daye/divan/robaee/sh41",
+  "RhymeLetters": "هد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر نشان می‌دهد که اگر خداوند بخواهد و اراده‌ای برای رسیدن به دین و حقیقت فراهم آورد، ممکن است مسیرهای مختلفی را پیش روی شخص قرار دهد. این مسیرها می‌تواند شامل هدایت از سوی یک شیخ یا ملاقات با دو اسب به سمت او باشد. به عبارتی، اگر فردی در جستجوی حقیقت و دین باشد، خداوند راه‌هایی برایش می‌گشاید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هد",
+      "PlainText": "گر دولت درد دین ترا دست دهد\r\nیا باد ارادت و طلب بر تو جهد\r\nیا موی کشان ترا بر شیخ برد\r\nیا او به دو اسبه روی سوی تو نهد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دولت درد دین ترا دست دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا باد ارادت و طلب بر تو جهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا موی کشان ترا بر شیخ برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا او به دو اسبه روی سوی تو نهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر دولت درد دین ترا دست دهد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا باد ارادت و طلب بر تو جهد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا موی کشان ترا بر شیخ برد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا او به دو اسبه روی سوی تو نهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

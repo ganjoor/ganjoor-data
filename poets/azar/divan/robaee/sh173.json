@@ -1,0 +1,58 @@
+{
+  "Id": 119094,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۱۷۳",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۱۷۳",
+  "FullUrl": "/azar/divan/robaee/sh173",
+  "RhymeLetters": "وبازاری",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از دل‌بستگی و عشق خود به یک معشوق سخن می‌گوید. او اشاره می‌کند که معشوقش او را به دنبال خود کشانده و در حالی که از او دور افتاده، همچنان دلش نمی‌خواهد او را رها کند. شاعر به معشوق می‌گوید که اگر چیزی از او می‌برد، لطفا بازگرداند، اما معشوق با ناز و غرور نمی‌پذیرد و فقط می‌گوید نه. این رابطه‌ی عاشقانه نشان‌دهنده‌ی اندوه و شوق در کنار جذابیت و خودشیفتگی معشوق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وبازاری",
+      "PlainText": "دوشم دل برد شاهد بازاری\r\nافتاده من از قفای او باز آری\r\nمیگفتمش آنچه میبری باز آری\r\nمیگفت بصد ناز نه و باز آری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوشم دل برد، شاهد بازاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتاده من از قفای او باز، آری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیگفتمش: آنچه میبری باز آری؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیگفت بصد ناز: نه و، باز: آری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوشم دل برد، شاهد بازاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتاده من از قفای او باز، آری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میگفتمش: آنچه میبری باز آری؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میگفت بصد ناز: نه و، باز: آری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

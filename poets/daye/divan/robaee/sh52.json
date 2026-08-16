@@ -1,0 +1,58 @@
+{
+  "Id": 107215,
+  "CatId": 2585,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "نجم‌الدین رازی » مجموعهٔ اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/daye/divan/robaee/sh52",
+  "RhymeLetters": "ستم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این ابیات از شاعر نشان می‌دهد که او در حالات مختلفی از روحیه و اعتقاد قرار دارد. گاهی هشیار و با تفکر است، گاهی مست و شاداب. او همزمان خود را مومن و کافر می‌بیند و به این تفاوت‌ها افتخار می‌کند. او به این موضوع اشاره دارد که خود را همانطور که هست، قبول دارد و به تنوع حالاتش احترام می‌گذارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستم",
+      "PlainText": "گه هشیارم ز باده گاهی مستم\r\nگاهی چو فلک بلند و گاهی پستم\r\nگه مومن کعبه ام گهی کافر دیر\r\nمن ز آن خود آن چنان که هستم هستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه هشیارم ز باده گاهی مستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی چو فلک بلند و گاهی پستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه مومن کعبه ام گهی کافر دیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن ز آن خود آن چنان که هستم هستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه هشیارم ز باده گاهی مستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گاهی چو فلک بلند و گاهی پستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه مومن کعبه ام گهی کافر دیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من ز آن خود آن چنان که هستم هستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

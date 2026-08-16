@@ -1,0 +1,58 @@
+{
+  "Id": 45793,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۱۳۱",
+  "FullUrl": "/ghaani/ghetegh/sh131",
+  "RhymeLetters": "ری",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به انسان‌ها هشدار می‌دهد که با افراد ساده‌لوح همنشینی نکنند، زیرا ممکن است از گفته‌های ساده آنان آسیب ببینند. همچنین به دزدان توصیه می‌شود که به مکان‌های خالی نروند، زیرا از آنجا چیزی به دست نخواهند آورد. به عبارت دیگر، معاشرت با افراد نادان و سرقت بی‌فایده، می‌تواند نتایج بدی به همراه داشته باشد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "عاقلا همنشین ساده مشو\r\nکه ز گفتار ساده بر نخوری\r\nمرو ای دزد در سرای تهی\r\nکه از آن دست پر برون نبری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقلا همنشین ساده مشو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ز گفتار ساده بر نخوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرو ای دزد در سرای تهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن دستِ پُر برون نبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقلا همنشین ساده مشو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که ز گفتار ساده بر نخوری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرو ای دزد در سرای تهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از آن دستِ پُر برون نبری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

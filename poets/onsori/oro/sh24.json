@@ -1,0 +1,58 @@
+{
+  "Id": 68874,
+  "CatId": 2028,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "عنصری » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/onsori/oro/sh24",
+  "RhymeLetters": "ارکهداد",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به وصف زیبایی و جذابیت محبوبی می‌پردازند. شاعر از رخسار محبوب که همچون لاله و گل است، و از سنبل تازه شکوفا شده در گلزار صحبت می‌کند. همچنین اشاره به شب تار و یاری دارد که به طرز شایسته‌ای مورد ستایش قرار گرفته است. به طور کلی، این اشعار زیبایی‌ها و دل‌ربایی‌های عشق را توصیف می‌کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارکهداد",
+      "PlainText": "رخسار تو را لاله و گل بار که داد\r\nوآن سنبل نورسته به گلنار که داد\r\nوآن روز به دست آن شب تار که داد\r\nوآن یار سزا را به سزاوار که داد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخسار تو را لاله و گل بار که داد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن سنبل نورسته به گلنار که داد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن روز به دست آن شب تار که داد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن یار سزا را به سزاوار که داد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخسار تو را لاله و گل بار که داد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآن سنبل نورسته به گلنار که داد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وآن روز به دست آن شب تار که داد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وآن یار سزا را به سزاوار که داد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

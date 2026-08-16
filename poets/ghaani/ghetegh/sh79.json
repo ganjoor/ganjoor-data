@@ -1,0 +1,58 @@
+{
+  "Id": 45741,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۷۹",
+  "FullUrl": "/ghaani/ghetegh/sh79",
+  "RhymeLetters": "ابش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به فردی به نام ابومسیلمه اشاره می‌کند که ادعای نبوت کرده است. او می‌گوید که ادعای نبوت برای او هیچ سودی ندارد، چون مردم او را دروغگو می‌خوانند. شاعر همچنین به روشنایی کرم شب‌تاب اشاره می‌کند و می‌گوید که اگرچه این کرم می‌تابد، اما نمی‌تواند با روشنایی ماه مقابله کند. این به نوعی به این معناست که ادعای ابومسیلمه نمی‌تواند با حقیقت و عظمت واقعی مثل نبوت پیامبران مقایسه شود.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابش",
+      "PlainText": "ابومسیلمه گر دعوی نبوت کرد\r\nجز این چه سود که خوانند خلق کذابش\r\nگرفتم آنکه به شب کرمکی همی تابد\r\nچه حد آنکه برابر کنی به مهتابش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابومسیلمه گر دعوی نبوت کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز این چه سود که خوانند خلق کذابش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرفتم آنکه به شب کرمکی همی تابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه حدٌ آنکه برابر کنی به مهتابش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابومسیلمه گر دعوی نبوت کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز این چه سود که خوانند خلق کذابش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرفتم آنکه به شب کرمکی همی تابد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه حدٌ آنکه برابر کنی به مهتابش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

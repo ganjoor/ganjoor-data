@@ -1,0 +1,58 @@
+{
+  "Id": 104815,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/ahli/divan/robaee/sh9",
+  "RhymeLetters": "شتهمرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار بیانگر حالتی از غم و آرزو هستند. شاعر به عشق و زیبایی معشوق اشاره می‌کند و می‌گوید که به خاطر آن زیبایی، در رنج و اندوه غوطه‌ور شده است. او همچنین حس می‌کند که از سرنوشت و چرخش روزگار دور شده و در این حالت از عشق و وصل معشوق، گم شده است. در نهایت، درخواست می‌کند که در مسیر غمش او را تنها نگذارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شتهمرا",
+      "PlainText": "تا زلف تو کرد در غم آغشته مرا\r\nگم شد ز جفای چرخ سر رشته مرا\r\nباری چو رهم بگلشن وصل تو نیست\r\nدر وادی غم مدار سرگشته مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا زلف تو کرد در غم آغشته مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگم شد ز جفای چرخ سر رشته مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباری چو رهم بگلشن وصل تو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وادی غم مدار سرگشته مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا زلف تو کرد در غم آغشته مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گم شد ز جفای چرخ سر رشته مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باری چو رهم بگلشن وصل تو نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در وادی غم مدار سرگشته مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

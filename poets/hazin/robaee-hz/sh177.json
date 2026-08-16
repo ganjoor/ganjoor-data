@@ -1,0 +1,58 @@
+{
+  "Id": 83066,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۷۷",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۷۷",
+  "FullUrl": "/hazin/robaee-hz/sh177",
+  "RhymeLetters": "ابچوشمع",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت شعر، شاعر از تاثیر عشق بر دلش می‌گوید. او به شمعی اشاره می‌کند که با تابش خود دلش را روشن کرده و خود را در خواب خیالی گم کرده است. همچنین از دردی که از عشق و آتش درونش بر او می‌تابد، سخن به میان می‌آورد و به احساساتی می‌پردازد که شبیه به شعله‌های آتش و تاب شمع است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابچوشمع",
+      "PlainText": "تا عشق فکند در دلم تاب چو شمع\r\nیک لمحه ندید دیده ام خواب چو شمع\r\nفریاد ز مشرب سمندر زادم\r\nزآتش رگ جان من خورد آب چو شمع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا عشق فکند در دلم تاب چو شمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک لمحه ندید دیده‌ام خواب چو شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریاد ز مشرب سمندر زادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآتش رگ جان من خورد آب چو شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا عشق فکند در دلم تاب چو شمع",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک لمحه ندید دیده‌ام خواب چو شمع",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریاد ز مشرب سمندر زادم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زآتش رگ جان من خورد آب چو شمع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

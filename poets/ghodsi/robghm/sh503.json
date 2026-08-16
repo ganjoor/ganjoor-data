@@ -1,0 +1,58 @@
+{
+  "Id": 75044,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۵۰۳",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۵۰۳",
+  "FullUrl": "/ghodsi/robghm/sh503",
+  "RhymeLetters": "ان",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر به رابطه میان عشق و فداکاری اشاره دارد. شاعر می‌گوید که برای برقراری محبت، نیاز به رهبری و فدا کردن جان وجود دارد. بدون وجود یک فتیله، شمع نمی‌تواند روشن شود؛ بنابراین، عشق بدون فداکاری و رهبری به نتیجه نخواهد رسید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "بی راهبری که سوزدش بهر تو جان\r\nافروختن شمع محبت نتوان\r\nکی شعله و موم ربط یابند به هم\r\nتا پای فتیله ای نباشد به میان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی راهبری که سوزدش بهر تو جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافروختن شمع محبت نتوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی شعله و موم ربط یابند به هم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا پای فتیله‌ای نباشد به میان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی راهبری که سوزدش بهر تو جان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افروختن شمع محبت نتوان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی شعله و موم ربط یابند به هم؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا پای فتیله‌ای نباشد به میان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 50067,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۷",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۷",
+  "FullUrl": "/mahsati/robmah/sh7",
+  "RhymeLetters": "ست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به توصیف حالتی می‌پردازد که دلبرش به نزد فصاد (شخصی از داستان) رفته است. فصاد به سرعت و بدون احتیاط، دلبر را در میانه کار گرفتار می‌کند. همچنین به زیبایی دلبر اشاره می‌شود که مانند بلور چشم‌نواز و شاخ مرجان جذابیت دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "چون دلبر من به نزد فصاد نشست\r\nفصاد سبک دست سبک دستش بست\r\nچون تیزی نیش در رگانش پیوست\r\nاز کان بلور شاخ مرجان برجست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دلبر من به نزد فصّاد نشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفصّاد سبک دست سبک دستش بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تیزی نیش در رگانش پیوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کان بلور شاخ مرجان برجست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون دلبر من به نزد فصّاد نشست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فصّاد سبک دست سبک دستش بست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون تیزی نیش در رگانش پیوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از کان بلور شاخ مرجان برجست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

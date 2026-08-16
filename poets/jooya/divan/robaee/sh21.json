@@ -1,0 +1,58 @@
+{
+  "Id": 103075,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/jooya/divan/robaee/sh21",
+  "RhymeLetters": "وراست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به اهمیت دعای خالصانه و بدون ناله اشاره می‌کند. دعا باید با صداقت و احساس عمیق قلبی باشد و صرفاً به خاطر مشکلات و ضعف‌ها نباشد. او همچنین می‌گوید دعای واقعی و مؤثر از قدرت و قایمت درونی فرد ناشی می‌شود و مانند کمانی قوی عمل می‌کند که در عین حال انعطاف‌پذیر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وراست",
+      "PlainText": "بی ناله زار کی دعا منظور است\r\nآه بی عجز از اثر بس دور است\r\nبا قامت خم تیر دعا سخت رساست\r\nاز قوت ضعف این کمان پر زور است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی نالهٔ زار کی دعا منظور است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآه بی عجز از اثر بس دور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا قامت خم تیر دعا سخت رساست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قوت ضعف این کمان پر زور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی نالهٔ زار کی دعا منظور است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آه بی عجز از اثر بس دور است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با قامت خم تیر دعا سخت رساست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از قوت ضعف این کمان پر زور است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

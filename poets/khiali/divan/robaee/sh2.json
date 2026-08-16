@@ -1,0 +1,58 @@
+{
+  "Id": 99478,
+  "CatId": 2523,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "خیالی بخارایی » دیوان اشعار » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/khiali/divan/robaee/sh2",
+  "RhymeLetters": "ردارد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در اینجا به محبت و عشق اشاره می‌کند و می‌گوید کسی که عشق را در دل دارد، همواره دلی روشن و شاداب دارد. او اعتقاد دارد که هر کسی که در عشق ریشه‌دار باشد، می‌تواند به آرامش و آسایش در زندگی دست یابد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردارد",
+      "PlainText": "ای دوست کسی که عشق در سر دارد\r\nدایم دل غمدیده منور دارد\r\nآسوده هر دو عالم آمد به یقین\r\nدر لنگر عشق هرکه لنگر دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست کسی که عشق در سر دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدایم دل غمدیده منوّر دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسودهٔ هر دو عالم آمد به یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر لنگر عشق هرکه لنگر دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست کسی که عشق در سر دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دایم دل غمدیده منوّر دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آسودهٔ هر دو عالم آمد به یقین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در لنگر عشق هرکه لنگر دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

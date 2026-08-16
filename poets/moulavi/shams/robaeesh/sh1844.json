@@ -1,0 +1,58 @@
+{
+  "Id": 31302,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۸۴۴",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۸۴۴",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1844",
+  "RhymeLetters": "وری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات به این نکته اشاره دارند که چه چیزهایی نباید در کنار هم قرار بگیرند. مثلاً نمی‌توان طنبور را در کنار کسی که کر است قرار داد، یا یوسف را با کسی که نابیناست همخانه کرد. همچنین گذاشتن قند در کنار لب‌های بیمار یا اتحاد مخنث با حوری نیز ناپسند است. به طور کلی، این اشعار به ناهماهنگی و بی‌تناسبی در روابط و وضعیت‌ها اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وری",
+      "PlainText": "حیف است که پیش کر زنی طنبوری\r\nیا یوسف همخانه کنی با کوری\r\nیا قند نهی در دو لب رنجوری\r\nیا جفت شود مخنثی با حوری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیف است که پیش کر زنی طنبوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا یوسف همخانه کنی با کوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا قند نهی در دو لب رنجوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا جفت شود مخنثی با حوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حیف است که پیش کر زنی طنبوری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا یوسف همخانه کنی با کوری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا قند نهی در دو لب رنجوری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا جفت شود مخنثی با حوری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

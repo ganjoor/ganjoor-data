@@ -1,0 +1,58 @@
+{
+  "Id": 47897,
+  "CatId": 1728,
+  "Title": "رباعی شمارهٔ ۱۲۷",
+  "FullTitle": "شاه نعمت‌الله ولی » رباعیات » رباعی شمارهٔ ۱۲۷",
+  "FullUrl": "/shahnematollah/robaeeshv/sh127",
+  "RhymeLetters": "وید",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، بلبل که مست و سرمست است، عطر گل را استشمام می‌کند و دلش را به محبوبش داده و به دنبال او است. همچنین، اشاره‌ای به قول خوشی شده که باید از سید شنیده شود، و این پیام برای شنیدن این سخنان مهم است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وید",
+      "PlainText": "بلبل مست است و بوی گل می بوید\r\nدل داده به ما و دلبرش می جوید\r\nاین قول خوشی که تو ز سید شنوی\r\nبشنو بشنو که او ز او می گوید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل مست است و بوی گل می بوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل داده به ما و دلبرش می جوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین قول خوشی که تو ز سید شنوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشنو بشنو که او ز او می گوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلبل مست است و بوی گل می بوید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل داده به ما و دلبرش می جوید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این قول خوشی که تو ز سید شنوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بشنو بشنو که او ز او می گوید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

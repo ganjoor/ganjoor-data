@@ -1,0 +1,58 @@
+{
+  "Id": 108006,
+  "CatId": 2595,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "سعیدا » دیوان اشعار » رباعیات » شمارهٔ ۱۰۶",
+  "FullUrl": "/saeeda/divan/robaee/sh106",
+  "RhymeLetters": "ونتوانم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر به بیان ناتوانی خود در بیان عشق و جستجوی زیبایی می‌پردازد. او می‌گوید که اگرچه تقدیرش سیاه است، اما مانند زیبایی و جذابیت زلف، نمی‌تواند از دوری چهره معشوق بگذرد. در حقیقت، عشق و زیبایی او را به شدت درگیر و اسیر کرده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونتوانم",
+      "PlainText": "من گرچه ز عشق گفتگو نتوانم\r\nقطع طلب روی نکو نتوانم\r\nهر چند سیاه بختم اما چون زلف\r\nدوری ز رخش یک سر مو نتوانم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن گرچه ز عشق، گفتگو نتوانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطع طلب روی نکو نتوانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند سیاه بختم اما چون زلف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوری ز رخش یک سر مو نتوانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من گرچه ز عشق، گفتگو نتوانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قطع طلب روی نکو نتوانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چند سیاه بختم اما چون زلف",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوری ز رخش یک سر مو نتوانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

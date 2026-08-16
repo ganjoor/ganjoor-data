@@ -1,0 +1,58 @@
+{
+  "Id": 29600,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۴۲",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۴۲",
+  "FullUrl": "/moulavi/shams/robaeesh/sh142",
+  "RhymeLetters": "یست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار به بیان احساسات عاشقانه و غمگین پرداخته است. شاعر به زیبایی معشوق خود اشاره می‌کند و می‌گوید که گویی او خواب پری‌ها را دارد. در سحرگاه، معشوق نگاهی به دل شاعر می‌اندازد و هر دو در حال گریه هستند. تا زمانی که صبح می‌رسد، سوالی به وجود می‌آید که از میان این دو عاشق، کدام یک واقعاً عاشق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یست",
+      "PlainText": "آنکس که بروی خواب او رشک پریست\r\nآمد سحری و بر دل من نگریست\r\nاو گریه و من گریه که تا آمد صبح\r\nپرسید کز این هر دو عجب عاشق کیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکس که بروی خواب او رشک پریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمد سحری و بر دل من نگریست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو گریه و من گریه که تا آمد صبح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرسید کز این هر دو عجب عاشق کیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکس که بروی خواب او رشک پریست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آمد سحری و بر دل من نگریست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او گریه و من گریه که تا آمد صبح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پرسید کز این هر دو عجب عاشق کیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

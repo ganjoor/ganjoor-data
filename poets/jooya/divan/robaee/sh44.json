@@ -1,0 +1,58 @@
+{
+  "Id": 103098,
+  "CatId": 2542,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۴۴",
+  "FullUrl": "/jooya/divan/robaee/sh44",
+  "RhymeLetters": "ارد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر به بیان این نکته می‌پردازد که هر کس دروغ بگوید، این دروغ در کلام او آشکار می‌شود. حتی وقتی دروغ می‌گوید، ممکن است لحظه‌ای مکث کند که نشان‌دهنده‌ی اضطراب و عدم صداقت اوست. در حقیقت، دروغگوها مانند سپیده‌دم کاذب، سرشار از تردید و ناپایداری هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارد",
+      "PlainText": "هر کس به دروغ خویش را بگمارد\r\nکذب از روش کلام او می بارد\r\nدر عین دروغ گفتنش مکث کند\r\nضیق النفسی چو صبح کاذب دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس به دروغ خویش را بگمارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکذب از روش کلام او می‌بارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عین دروغ گفتنش مکث کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eضیق‌النّفسی چو صبح کاذب دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس به دروغ خویش را بگمارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کذب از روش کلام او می‌بارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عین دروغ گفتنش مکث کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ضیق‌النّفسی چو صبح کاذب دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

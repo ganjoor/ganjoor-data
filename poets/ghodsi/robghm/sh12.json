@@ -1,0 +1,58 @@
+{
+  "Id": 74553,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/ghodsi/robghm/sh12",
+  "RhymeLetters": "انرا",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: شخصی که طبعی حریص دارد، به طغیان و نافرمانی تمایل دارد و همیشه به دنبال زیاد کردن دارایی‌هایش است، حتی اگر بدان معنى باشد که چیزی را از دست بدهد. صاحب کالا، زمانی که قیمتش بالا می‌رود، می‌گوید که چیزی که دزد برده، ارزش بیشتری دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انرا",
+      "PlainText": "طبعی که بود حریص مر عصیان را\r\nمایل باشد فزونی نقصان را\r\nصاحب کالا قیمتش افزون گوید\r\nهرچیز که دزد برده باشد آن را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبعی که بود حریص مر عصیان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمایل باشد فزونی نقصان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحب کالا قیمتش افزون گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچیز که دزد برده باشد آن را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طبعی که بود حریص مر عصیان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مایل باشد فزونی نقصان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صاحب کالا قیمتش افزون گوید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچیز که دزد برده باشد آن را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

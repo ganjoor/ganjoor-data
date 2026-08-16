@@ -1,0 +1,58 @@
+{
+  "Id": 70167,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۲۴",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۲۴",
+  "FullUrl": "/amir/robam/sh124",
+  "RhymeLetters": "دم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این ابیات اشاره به قدرت و قدرت نمایی دارند. شاعر می‌گوید که تیغ و نیروهای برتر همچون مریخ و زحل، موجب برتری و موفقیت می‌شوند. حال اگر دشمنان هم مانند ستاره‌ها فرار کنند، در نهایت به سرنوشت و مرگ خود دچار می‌شوند. به عبارتی، هیچ‌کس نمی‌تواند از سرنوشت خود فرار کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ل",
+      "PlainText": "ای تیغ تو با قوت مریخ و زحل\r\nرای تو چو آفتاب در برج جمل\r\nگر خصم تو بر چرخ گریزد به مثل\r\nدر دامن عمر او رسد دست اجل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تیغ تو با قوت مریخ و زحل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرای تو چو آفتاب در برج جَمَل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خصم تو بر چرخ‌گریزد به‌مثل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دامن عمر او رسد دست اجل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تیغ تو با قوت مریخ و زحل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رای تو چو آفتاب در برج جَمَل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر خصم تو بر چرخ‌گریزد به‌مثل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دامن عمر او رسد دست اجل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

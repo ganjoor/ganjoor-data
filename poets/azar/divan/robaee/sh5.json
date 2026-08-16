@@ -1,0 +1,58 @@
+{
+  "Id": 118926,
+  "CatId": 2744,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/azar/divan/robaee/sh5",
+  "RhymeLetters": "ویشما",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عشق و longing نسبت به وطن خود اشاره می‌کند. او می‌گوید که اگرچه برای رسیدن به اهداف خود تلاش می‌کند، اما دلش همچنان در یاد و خاطر وطنش مانده است. به نوعی، شاعر حسرت دوری از وطن و زیبایی‌های آن را احساس می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویشما",
+      "PlainText": "ای اهل وطن آرزوی روی شما\r\nداریم و نداریم گذر سوی شما\r\nما خود پی کار خود گرفتیم ولی\r\nمسکین دل ما که ماند در کوی شما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای اهل وطن! آرزوی روی شما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداریم و نداریم گذر سوی شما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما خود پی کار خود گرفتیم، ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسکین دل ما که ماند در کوی شما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای اهل وطن! آرزوی روی شما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داریم و نداریم گذر سوی شما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما خود پی کار خود گرفتیم، ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مسکین دل ما که ماند در کوی شما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

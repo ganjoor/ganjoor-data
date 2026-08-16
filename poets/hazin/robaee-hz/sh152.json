@@ -1,0 +1,58 @@
+{
+  "Id": 83040,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۵۲",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۵۲",
+  "FullUrl": "/hazin/robaee-hz/sh152",
+  "RhymeLetters": "اکمبگذار",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: خلاصه این شعر به این صورت است که شاعر از معشوق می‌خواهد تا در لحظه‌ی مرگش، قدحی از شراب بر لبش بگذارد و سرش را بر دامن تاکی قرار دهد. همچنین تأکید می‌کند که نگذارد تشنگی او بی‌جواب بماند و از باده‌ای خمی، بر خاکش بریزد. این ابیات حسرت و عطش شاعر را برای نوشیدن باده و لذت‌های زندگی نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکمبگذار",
+      "PlainText": "بر لب قدحی بعد هلاکم بگذار\r\nسر در قدم طارم تاکم بگذار\r\nلب تشنه مبادا گذرد مخموری\r\nاز باده خمی بر سر خاکم بگذار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر لب قدحی بعد هلاکم بگذار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر در قدم طارم تاکم بگذار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب تشنه مبادا گذرد مخموری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز باده خمی بر سر خاکم بگذار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر لب قدحی بعد هلاکم بگذار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر در قدم طارم تاکم بگذار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب تشنه مبادا گذرد مخموری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از باده خمی بر سر خاکم بگذار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

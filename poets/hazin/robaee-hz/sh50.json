@@ -1,0 +1,58 @@
+{
+  "Id": 82938,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/hazin/robaee-hz/sh50",
+  "RhymeLetters": "راست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از بی‌اثر بودن ناله‌ها و دردهایش در زیر آسمان صحبت می‌کند و به این نکته اشاره می‌کند که بی‌دردان از رنج او بی‌خبرند. او از تنگی فضای زندگیش گلایه دارد و می‌گوید که وضعیت او حتی از فضای تنگ کلبه‌اش نیز محدودتر و اسیرکننده‌تر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "در زیر فلک ناله ما بی اثر است\r\nبی دردان را ز درد ما کی خبر است\r\nاز تنگی جا ذوق اسیری دارم\r\nکز حلقه دام کلبه ام تنگ تر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر زیر فلک نالهٔ ما بی اثر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی دردان را ز درد ما کی خبر است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تنگی جا، ذوق اسیری دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز حلقهٔ دام، کلبه ام تنگ تر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در زیر فلک نالهٔ ما بی اثر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی دردان را ز درد ما کی خبر است؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از تنگی جا، ذوق اسیری دارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز حلقهٔ دام، کلبه ام تنگ تر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

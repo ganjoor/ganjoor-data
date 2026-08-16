@@ -1,0 +1,58 @@
+{
+  "Id": 64878,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۸۱",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۸۱",
+  "FullUrl": "/ebnehesam/robaeebn/sh81",
+  "RhymeLetters": "ایهسرو",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و جذابیت معشوقه‌اش اشاره می‌کند و او را به درخت سرو که نماد زیبایی و سرسبزی است، تشبیه می‌کند. همچنین لحظه‌ای شاعرانه را بین خود و معشوقه‌اش در زیر سایه درخت سرو و در کنار جوی آب توصیف می‌کند که در آن بستر، زیبایی ماهتاب نیز حس می‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایهسرو",
+      "PlainText": "ای قامت دلکش تو سرمایه سرو\r\nسبز است لباس تو چو پیرایه سرو\r\nمهتاب شبی چه خوش بود بر لب جوی\r\nتنها من و تو نشسته در سایه سرو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای قامت دلکش تو سرمایه سرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسبز است لباس تو چو پیرایه سرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهتاب شبی چه خوش بود بر لب جوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنها من و تو نشسته در سایه سرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای قامت دلکش تو سرمایه سرو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سبز است لباس تو چو پیرایه سرو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مهتاب شبی چه خوش بود بر لب جوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تنها من و تو نشسته در سایه سرو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

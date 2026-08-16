@@ -1,0 +1,58 @@
+{
+  "Id": 83416,
+  "CatId": 2174,
+  "Title": "شمارهٔ ۲۵۵",
+  "FullTitle": "حزین لاهیجی » غزلیات ناتمام » شمارهٔ ۲۵۵",
+  "FullUrl": "/hazin/ghazal-natamam-hz/sh255",
+  "RhymeLetters": "ارمیگردم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساسات و مشکلات خود سخن می‌گوید. او به نوعی سردرگمی و ناامیدی اشاره می‌کند و بیان می‌کند که در کشوری غم‌انگیز زندگی می‌کند. او به عدم توانایی در دستیابی به محبوبش اشاره می‌کند و بیان می‌کند که نه دلی دارد و نه دامن دلدار در دستش. این شعر به شدت از حس ناامیدی و فقدان نشان دارد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لستم",
+      "PlainText": "در کشور ایجاد ندانم چه گلستم\r\nدانم که صنمگاه بتان چگلستم\r\nمن بعد بود دست من و چاک گریبان\r\nنه دامن دلدار به دست و نه دلستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کشور ایجاد، ندانم چه گلستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانم که صنمگاه بتان چگلستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بعد، بود دست من و چاک گریبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه دامن دلدار به دست و نه دلستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کشور ایجاد، ندانم چه گلستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانم که صنمگاه بتان چگلستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من بعد، بود دست من و چاک گریبان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه دامن دلدار به دست و نه دلستم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

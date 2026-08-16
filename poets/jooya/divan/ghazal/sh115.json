@@ -1,0 +1,58 @@
+{
+  "Id": 102003,
+  "CatId": 2537,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۱۵",
+  "FullUrl": "/jooya/divan/ghazal/sh115",
+  "RhymeLetters": "نمرا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت نگران است که زیبایی گل‌ها و لطافت دنیا، باعث آسیب به او بشود. او خود را شبیه موج دریا می‌داند که به آرامش نمی‌رسد و این اضطراب و درد را در دلش حس می‌کند. در کل، ابراز نگرانی از تأثیرات زیبا ولی خطرناک دنیای پیرامونش است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نمرا",
+      "PlainText": "ترسم که خراشد تن نازک بدنم را\r\nاز نکهت گل جامه مکن سیم تنم را\r\nچون موج که برهم خورد از وی کف دریا\r\nدر خاک درد دل ز طپیدن کفنم را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم که خراشد تن نازک بدنم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نکهت گل جامه مکن سیم تنم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون موج که برهم خورد از وی کف دریا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خاک درد دل ز طپیدن کفنم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترسم که خراشد تن نازک بدنم را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نکهت گل جامه مکن سیم تنم را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون موج که برهم خورد از وی کف دریا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خاک درد دل ز طپیدن کفنم را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

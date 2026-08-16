@@ -1,0 +1,58 @@
+{
+  "Id": 101852,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/salim/divan/robaee/sh61",
+  "RhymeLetters": "روز",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شعر به جشن و شادمانی اشاره دارد و بر اهمیت نوروز به عنوان روزی خوش و مبارک تاکید می‌کند. شاعر با ذکر ساغر و گلشن، حالتی از زیبایی و خوشی را توصیف می‌کند و به تابش خورشید به عنوان نمادی از خوشبختی و زندگی تازه اشاره می‌نماید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روز",
+      "PlainText": "ای بزم ترا ساغر می مجمره سوز\r\nهر روز ز ایام تو روز نوروز\r\nاز گلشن اقبال تو کان خرم باد\r\nخورشید بود یک گل بستان افروز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بزم ترا ساغر می مجمره سوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر روز ز ایام تو روز نوروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز گلشن اقبال تو کان خرم باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید بود یک گل بستان افروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بزم ترا ساغر می مجمره سوز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر روز ز ایام تو روز نوروز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از گلشن اقبال تو کان خرم باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید بود یک گل بستان افروز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

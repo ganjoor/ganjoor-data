@@ -1,0 +1,58 @@
+{
+  "Id": 70203,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۶۰",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۶۰",
+  "FullUrl": "/amir/robam/sh160",
+  "RhymeLetters": "ادخدای",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمجید و ستایش از بزرگی و مقام یک فرد (به احتمال زیاد یک پادشاه یا شخصیت مهم) اشاره دارد. شاعر می‌گوید که نام و آوازه او به همه جا رسیده و گیتی مانند یک سرا است که خداوند به او داده است، و شاهان جهان نیز به او احترام می‌گذارند و خود را در خدمت او می‌بینند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ای",
+      "PlainText": "ای رایت و رای تو همایون چو همای\r\nوای نامه و ا نام ا تو رسیده همه جای\r\nگیتی چو سرایی به تو دادست خدای\r\nشاهان جهان تورا غلامان سرای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رایت و رای تو همایون چو همای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوای نامه و ا‌نام‌ا تو رسیده همه جای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیتی چو سرایی به تو دادست خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهان جهان تورا غلامان سرای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای رایت و رای تو همایون چو همای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وای نامه و ا‌نام‌ا تو رسیده همه جای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گیتی چو سرایی به تو دادست خدای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاهان جهان تورا غلامان سرای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

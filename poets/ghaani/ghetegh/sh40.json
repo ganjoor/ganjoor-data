@@ -1,0 +1,58 @@
+{
+  "Id": 45680,
+  "CatId": 1720,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "قاآنی » قطعات » شمارهٔ ۴۰",
+  "FullUrl": "/ghaani/ghetegh/sh40",
+  "RhymeLetters": "یرد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به انسان توصیه می‌کند که به خود و درون خود توجه کند و اصولی را که به دیگران می‌آموزد، خود نیز در زندگی‌اش به کار ببندد. همچنین اشاره می‌کند که بسیاری از درمانگران و پزشکان ممکن است دیگران را خوب درمان کنند، ولی خودشان به همان درد مبتلا و در نهایت از آن رنج می‌برند. به عبارتی، ما باید به نصحیت‌های خود عمل کنیم و در مراقبت از خود کوشا باشیم.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرد",
+      "PlainText": "بیا به خویش به گوهر نصیحتی داری\r\nچو خویشتن نپذیری مگوکه نپذیرد\r\nبسا طبیب که دردی نکو علاج کند\r\nولیک خود به همان درد عاقبت میرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا به خویش به گوهر نصیحتی داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو خویشتن نپذیری مگوکه نپذیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسا طبیب که دردی نکو علاج کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولیک خود به همان درد عاقبت میرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا به خویش به گوهر نصیحتی داری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو خویشتن نپذیری مگوکه نپذیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسا طبیب که دردی نکو علاج کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولیک خود به همان درد عاقبت میرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

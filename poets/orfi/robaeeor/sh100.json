@@ -1,0 +1,58 @@
+{
+  "Id": 48819,
+  "CatId": 1732,
+  "Title": "رباعی شمارهٔ ۱۰۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰۰",
+  "FullUrl": "/orfi/robaeeor/sh100",
+  "RhymeLetters": "بنگزد",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "ar",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به بیان احساسات عمیق خود می‌پردازد. او می‌گوید که در ندامت و دردی عمیق مرده‌اند، اما نه به‌سرعت و نه با شادی. غم و اندوه در دل آن‌ها پیچیده و هیچ چیز نمی‌تواند آن را تسکین دهد. بیان این احساسات به نوعی درگیری با شب و آرامش روحی را نشان می‌دهد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بنگزد",
+      "PlainText": "مردیم که آه ما دل شب نگزد\r\nدر جام رود می ای که مشرب نگزد\r\nمردیم ولی نه زود مردیم نه شاد\r\nغم دست به هم ساید و هم لب نگزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردیم که آه ما دل شب نگزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جام رود می ای که مشرب نگزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردیم ولی نه زود مردیم، نه شاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغم دست به هم ساید و هم لب نگزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردیم که آه ما دل شب نگزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در جام رود می ای که مشرب نگزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردیم ولی نه زود مردیم، نه شاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم دست به هم ساید و هم لب نگزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 39599,
+  "CatId": 1334,
+  "Title": "دریای تهی",
+  "FullTitle": "رهی معیری » ابیات پراکنده » دریای تهی",
+  "FullUrl": "/rahi/abyat/sh4",
+  "RhymeLetters": "وشگشاییم",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: در آسمان پر ستاره، خوشی و شادی بی‌دردسر وجود ندارد، و تا زمانی که ما بتوانیم به‌طور ناخواسته سخن بگوییم، آرام نمی‌مانیم. همچنین، در دل این دریای پرنور، گوهری نیست که به امید آن به آغوش کسی برویم.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشگشاییم",
+      "PlainText": "در جام فلک باده بی دردسری نیست\r\nتا ما به تمنا لب خاموش گشاییم\r\nدر دامن این بحر فروزان گهری نیست\r\nچون موج به امید که آغوش گشاییم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جام فلک باده بی‌دردسری نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ما به تمنا لب خاموش گشاییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دامن این بحر فروزان گهری نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون موج به امید که آغوش گشاییم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در جام فلک باده بی‌دردسری نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا ما به تمنا لب خاموش گشاییم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دامن این بحر فروزان گهری نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون موج به امید که آغوش گشاییم؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

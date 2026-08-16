@@ -1,0 +1,58 @@
+{
+  "Id": 70161,
+  "CatId": 2044,
+  "Title": "شمارهٔ ۱۱۸",
+  "FullTitle": "امیر معزی » رباعیات » شمارهٔ ۱۱۸",
+  "FullUrl": "/amir/robam/sh118",
+  "RhymeLetters": "رق",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این بیت، شاعر به نکوهش ناآگاهی ملک از سعادت و خوشبختی‌اش می‌پردازد. او اشاره می‌کند که این ملک وزیر خدمتگزار خود را نمی‌شناسد و به همین دلیل مشکلاتی را برای کشورش به وجود آورده است. در نهایت، تاجی که باید مایه‌ی خوشبختی باشد، به بلایی برای خود ملک تبدیل شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رخویش",
+      "PlainText": "نشناخت ملک سعادت اختر خویش\r\nدر منقبت وزیر خدمتگر خویش\r\nبگماشت بلای تاج برکشور خویش\r\nتا در سر تاج کرد آخر سر خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشناخت ملک سعادت اختر خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر منقبت وزیر خدمتگر خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگماشت بلای تاج برکشور خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا در سر تاج‌کرد آخر سر خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نشناخت ملک سعادت اختر خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در منقبت وزیر خدمتگر خویش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگماشت بلای تاج برکشور خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا در سر تاج‌کرد آخر سر خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

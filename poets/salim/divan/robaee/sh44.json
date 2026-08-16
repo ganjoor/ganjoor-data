@@ -1,0 +1,58 @@
+{
+  "Id": 101835,
+  "CatId": 2534,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۴",
+  "FullUrl": "/salim/divan/robaee/sh44",
+  "RhymeLetters": "رشد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی‌های بهار و تغییرات طبیعی ناشی از آن اشاره می‌کند. با آمدن بهار، پرندگان آهنگ می‌خوانند و گل‌ها می‌خندند، چمن به عرصه‌ای بهشتی تبدیل می‌شود و کل عالم تحت تأثیر این فصل زیبا قرار می‌گیرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رشد",
+      "PlainText": "دیگر به چمن نغمه ی مرغان سرشد\r\nاز خنده ی گل ابر بهاری تر شد\r\nاز لاله و گلگشت چمن همچو بهشت\r\nعالم ز بهار عالم دیگر شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیگر به چمن نغمه ی مرغان سرشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خنده ی گل، ابر بهاری تر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز لاله و گلگشت چمن، همچو بهشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالم ز بهار، عالم دیگر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیگر به چمن نغمه ی مرغان سرشد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خنده ی گل، ابر بهاری تر شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از لاله و گلگشت چمن، همچو بهشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عالم ز بهار، عالم دیگر شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 83090,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۹۳",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۹۳",
+  "FullUrl": "/hazin/robaee-hz/sh193",
+  "RhymeLetters": "انکردیم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بیان نگرانی‌ها و آشفتگی‌هایی می‌پردازد که در دل خود و جامعه احساس می‌کند. او می‌بیند که کنترل خواسته‌ها و آرزوها دشوار است و برای مواجهه با مشکلات، به یک راه حل سهل و آسان روی می‌آورد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انکردیم",
+      "PlainText": "یک چند دل از آز هراسان کردیم\r\nجمعیت خویش را پریشان کردیم\r\nدیدیم که مشکل است سامان هوس\r\nدشواریها به ترک آسان کردیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک چند، دل از آز هراسان کردیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمعیت خویش را پریشان کردیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدیم که مشکل است سامان هوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشواریها به ترک، آسان کردیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک چند، دل از آز هراسان کردیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمعیت خویش را پریشان کردیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیدیم که مشکل است سامان هوس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشواریها به ترک، آسان کردیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 123690,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۱۲۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۲۴",
+  "FullUrl": "/naziri/divan/robaee/sh124",
+  "RhymeLetters": "انغماو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از غم عشق یا یاد محبوبش سخن می‌گوید. او به این نکته اشاره می‌کند که تا سحر به فسانه‌های غم محبوبش گوش می‌دهد و خوابش نمی‌برد. همچنین بیان می‌کند که نمی‌خواهد امانت احساساتش را به خیانت بسپارد و هرجا که باشد، محافظ غم محبوبش خواهد بود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انغماو",
+      "PlainText": "شب تا سحرم فسانه خوان غم او\r\nخوابم نبرد ز داستان غم او\r\nتا بار امانتش به خاین ندهم\r\nصد جای نشسته پاسبان غم او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب تا سحرم فسانه خوان غم او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوابم نبرد ز داستان غم او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بار امانتش به خائن ندهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد جای نشسته پاسبان غم او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب تا سحرم فسانه خوان غم او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوابم نبرد ز داستان غم او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا بار امانتش به خائن ندهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد جای نشسته پاسبان غم او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

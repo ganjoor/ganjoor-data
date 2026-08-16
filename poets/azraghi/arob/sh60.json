@@ -1,0 +1,58 @@
+{
+  "Id": 69421,
+  "CatId": 2037,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "ازرقی هروی » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/azraghi/arob/sh60",
+  "RhymeLetters": "از",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بیت از تلاش بی‌پایان خود برای رسیدن به محبوب صحبت می‌کند. او اشاره دارد که با وجود همه کوششش، در نهایت همچنان به حالت اولیه خود بازگشته است. روزی که به حضور محبوب نیاز داشته، سپری شده و اکنون دوباره آن روزها به دست نیامده‌اند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "از",
+      "PlainText": "صد لابه و صد بند حیل کردی باز \r\nتا با تو چنان شدم که بودم زآغاز\r\nآن روز مرا بود به روی تو نیاز\r\nآن روز شد و روز شده ناید باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد لابه و صد بند حیل کردی باز \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا با تو چنان شدم که بودم زآغاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روز مرا بود به روی تو نیاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن روز شد و روزِ شده ناید باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد لابه و صد بند حیل کردی باز ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا با تو چنان شدم که بودم زآغاز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن روز مرا بود به روی تو نیاز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن روز شد و روزِ شده ناید باز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

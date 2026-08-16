@@ -1,0 +1,58 @@
+{
+  "Id": 113925,
+  "CatId": 2649,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "جهان ملک خاتون » دیوان اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/jahan/divan/robaee/sh52",
+  "RhymeLetters": "روزیست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت‌ها به زیبایی‌های بهار و شادی‌های نوروز اشاره شده است. شاعر از ما می‌خواهد که دل شاد داشته باشیم و از غم‌های دنیا پرهیز کنیم. همچنین به ما یادآوری می‌کند که زندگی گذراست و هر روز فرصتی تازه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "روزیست",
+      "PlainText": "ایام بهار و گل و خرم روزیست\r\nکاندر پی آن بهار هم نوروزیست\r\nخوش دار دل و مباش غمگین ز جهان\r\nدر دفتر عمر بین که روزی روزیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایام بهار و گل و خرّم روزیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر پی آن بهار هم نوروزیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش دار دل و مباش غمگین ز جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دفتر عمر بین که روزی روزیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایام بهار و گل و خرّم روزیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاندر پی آن بهار هم نوروزیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوش دار دل و مباش غمگین ز جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دفتر عمر بین که روزی روزیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

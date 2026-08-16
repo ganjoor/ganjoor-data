@@ -1,0 +1,58 @@
+{
+  "Id": 83009,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۱۲۱",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۱۲۱",
+  "FullUrl": "/hazin/robaee-hz/sh121",
+  "RhymeLetters": "انماند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف یک انسان نادان و بی‌فهم می‌پردازد که در میان زیبایی‌ها و عظمت‌های طبیعی و انسانی، هیچ درکی از آن‌ها ندارد. شاعر با استفاده از تصاویری مانند کوه، موج و خورشید، نشان می‌دهد که حتی در مواجهه با بزرگ‌ترین و خیره‌کننده‌ترین چیزها، عقل او به اندازه‌ای محدود است که همچنان در حالت گیجی و نا‌آگاهی باقی می‌ماند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انماند",
+      "PlainText": "خنگ تو به کوه عالی ارکان ماند\r\nور موج عرق زند به عمان ماند\r\nدر راه تکش فلک به میدان ماند\r\nخورشید به گو سمش به چوگان ماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخنگ تو به کوهِ عالی ارکان ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور موج عرق زند، به عمّان ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر راهِ تکش، فلک به میدان ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید به گو، سمش به چوگان ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خنگ تو به کوهِ عالی ارکان ماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور موج عرق زند، به عمّان ماند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در راهِ تکش، فلک به میدان ماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید به گو، سمش به چوگان ماند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

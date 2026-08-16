@@ -1,0 +1,58 @@
+{
+  "Id": 97099,
+  "CatId": 2487,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "بابافغانی » دیوان اشعار » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/faghani/divan/robaee/sh27",
+  "RhymeLetters": "ند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر از درد و غم ناشی از جدایی و فراق سخن می‌گوید. او به حالت ناراحتی ناشی از وصال و همچنین عذابی که در شب‌ها تجربه می‌کند، اشاره می‌کند. شاعر تا کی و چند می‌تواند این عذاب را تحمل کند و دلتنگی‌اش را ابراز می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "گاهی ز هوای روز وصلیم نژند\r\nگاهی ز شب فراق داریم گزند\r\nتا چند عذاب شب که کی روز شود\r\nمردیم ز غصه ایفلک تا کی و چند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاهی ز هوای روز وصلیم نژند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی ز شب فراق داریم گزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند عذاب شب که کی روز شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردیم ز غصه ایفلک تا کی و چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گاهی ز هوای روز وصلیم نژند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گاهی ز شب فراق داریم گزند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا چند عذاب شب که کی روز شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مردیم ز غصه ایفلک تا کی و چند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

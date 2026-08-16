@@ -1,0 +1,58 @@
+{
+  "Id": 50222,
+  "CatId": 1810,
+  "Title": "رباعی شمارۀ ۱۶۲",
+  "FullTitle": "مهستی گنجوی » رباعیات » رباعی شمارۀ ۱۶۲",
+  "FullUrl": "/mahsati/robmah/sh162",
+  "RhymeLetters": "ستانبسته",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این بیت‌ها از شاعر به موضوع عشق و دلبستگی اشاره دارند. شاعر دست محبوبش را در دست خود می‌گیرد که نشان‌دهنده‌ی پیوندی عمیق است. او به عهد و پیمانی که با محبوبش بسته اشاره می‌کند و حالتی از مستی و شیدایی را توصیف می‌کند که در صبحگاهان، حتی هشیاران را مانند مستان به خود مشغول کرده است. در کل، این اشعار حس و حال عاشقانه و شورانگیز را به تصویر می‌کشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستانبسته",
+      "PlainText": "ای دست تو دست من به دستان بسته\r\nبا زلف تو عهد بت پرستان بسته\r\nوای نرگس مست تو به هنگام صبوح\r\nهشیاران را به جای مستان بسته",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دست تو دست من به دستان بسته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا زلف تو عهد بت‌پرستان بسته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوای نرگس مست تو به هنگام صبوح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهشیاران را به جای مستان بسته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دست تو دست من به دستان بسته",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با زلف تو عهد بت‌پرستان بسته",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وای نرگس مست تو به هنگام صبوح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هشیاران را به جای مستان بسته",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

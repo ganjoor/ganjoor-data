@@ -1,0 +1,58 @@
+{
+  "Id": 90745,
+  "CatId": 2379,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/kalim/divan/robaee/sh34",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره یک شاه است که با حمایت خداوند و اعتماد به او به جنگ می‌رود. او نه به خاطر ترس از خطر، بلکه به خاطر شجاعت و ایمان خود به نبرد می‌پردازد و از هیچ مبارزه‌ای عقب‌نشینی نمی‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "شاهی که حمایت خدایش سپر است\r\nمایل به سپر نه بهر دفع ضرر است\r\nاز هیچ مصاف رو نمی گرداند\r\nمنظور شجاعتش ازین رهگذرست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهی که حمایت خدایش سپر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمایل به سپر نه بهر دفع ضرر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هیچ مصاف رو نمی گرداند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنظور شجاعتش ازین رهگذرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاهی که حمایت خدایش سپر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مایل به سپر نه بهر دفع ضرر است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هیچ مصاف رو نمی گرداند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "منظور شجاعتش ازین رهگذرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 123586,
+  "CatId": 2835,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/naziri/divan/robaee/sh20",
+  "RhymeLetters": "است",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این ابیات بیانگر تضاد بین باطن و ظاهر است. شاعر می‌گوید که حرص و رنج درونش بر ظاهرش تأثیر گذاشته و نور سخنش در برخی موارد کم و کاست شده است. آرایش ظاهری که از باطن پنهان است، به مانند زینت روی آینه‌ای است که نور را منعکس نمی‌کند. به طور کلی، این اشعار به نحوه‌ی تأثیرات درونی بر ظواهر و نقص‌های موجود در آن اشاره دارند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "تا حرص درون نقش برونم آراست\r\nنور سخنم فتاد اندر کم و کاست\r\nآرایش ظاهر رخ باطن پوشید\r\nبر آینه آب زر کنی نورزد است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا حرص درون نقش برونم آراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنور سخنم فتاد اندر کم و کاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآرایش ظاهر رخ باطن پوشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آینه آب زر کنی نورزد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا حرص درون نقش برونم آراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نور سخنم فتاد اندر کم و کاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آرایش ظاهر رخ باطن پوشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر آینه آب زر کنی نورزد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

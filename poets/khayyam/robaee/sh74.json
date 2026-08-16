@@ -1,0 +1,58 @@
+{
+  "Id": 1192,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۷۴",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۷۴",
+  "FullUrl": "/khayyam/robaee/sh74",
+  "RhymeLetters": "منتوانکرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این ابیات درباره سرنوشت و اختیار انسان است؛ شاعر می‌گوید انسان باید غصه هیچ چیز را نخورد زیرا روزی و عمر او تعیین شده و اینها با غصه‌خوردن کم و زیاد نمی‌شود.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "منتوانکرد",
+      "PlainText": "چون روزی و عمر بیش و کم نتوان کرد\r\nدل را به کم و بیش دژم نتوان کرد\r\nکار من و تو چنان که رای من و توست\r\nاز موم به دست خویش هم نتوان کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون روزی و عمر بیش و کم نتوان کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل را به کم و بیش دُژَم نتوان کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکارِ من و تو چنان‌که رایِ من و توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز موم به دستِ خویش هم نتوان کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون روزی و عمر بیش و کم نتوان کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل را به کم و بیش دُژَم نتوان کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کارِ من و تو چنان‌که رایِ من و توست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از موم به دستِ خویش هم نتوان کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 82936,
+  "CatId": 2173,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "حزین لاهیجی » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/hazin/robaee-hz/sh48",
+  "RhymeLetters": "اریکهمراست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات اشاره می‌کند که ناله و زاری او نمی‌تواند دلش را شاد کند و از گریه‌اش غبار غم نمی‌زاید. او با تأکید بر اراده‌اش، می‌گوید که هیچ‌چیز نمی‌تواند خماری و حال روحی او را تغییر دهد، حتی دنیا و خوشبختی. او به میکده و لذتی که در آن می‌جوید اشاره می‌کند و می‌فهماند که این حالات عاطفی درونی او مهم‌تر از هر چیز دیگری هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریکهمراست",
+      "PlainText": "دل خوش نکند ناله زاری که مراست\r\nوز گریه نمی رود غباری که مراست\r\nبا همت من دولت دنیا چه کند\r\nاین میکده نشکند خماری که مراست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل خوش نکند نالهٔ زاری که مراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز گریه نمی رود غباری که مراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا همّت من دولت دنیا چه کند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین میکده نشکند خماری که مراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل خوش نکند نالهٔ زاری که مراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز گریه نمی رود غباری که مراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با همّت من دولت دنیا چه کند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این میکده نشکند خماری که مراست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}
