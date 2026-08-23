@@ -10,7 +10,7 @@ categories, and poems, allowlisted to contain none of the site's user-account-li
 the application this data set is exported from, or want to run your own copy of Ganjoor locally
 using this data.
 
-Currently tracks **234 poets** / **132591 poems**, generated 2026-08-16T12:20:22.3558565Z.
+Currently tracks **236 poets** / **132843 poems**, generated 2026-08-23T18:36:10.7034138Z.
 
 ## Where do I start?
 

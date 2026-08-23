@@ -32,17 +32,6 @@
     },
     {
       "Index": 2,
-      "Number": 3,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "اب",
-      "PlainText": "پیش عفوش قلت تقصیر ما تقصیر ماست\r\nعفو بی اندازه می خواهد گناه بی حساب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش عفوش قلت تقصیر ما تقصیر ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعفو بی اندازه می خواهد گناه بی حساب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 2,
       "Number": 2,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -52,14 +41,15 @@
       "CoupletsCount": 1
     },
     {
-      "Index": 3,
+      "Index": 2,
       "Number": 3,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "هر",
-      "PlainText": "خرامیدن لاجوردی سپهر\r\nهمی گرد برگشتن ماه و مهر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرامیدن لاجوردی سپهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی گرد برگشتن ماه و مهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "پیش عفوش قلت تقصیر ما تقصیر ماست\r\nعفو بی اندازه می خواهد گناه بی حساب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش عفوش قلت تقصیر ما تقصیر ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعفو بی اندازه می خواهد گناه بی حساب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
     },
     {
       "Index": 3,
@@ -71,6 +61,16 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنمای بدین خلق مجازی خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشهور مکن به نکته سازی خود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود میدانی که اهل مجلس کوراند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای شمع چه هرزه میگذاری خود را؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا مردم چشم خود خطابت باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا کس نه سؤال و نه جوابت باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمی داری و عالمی در نظر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیگر چه معلم، چه کتابت باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
       "CoupletsCount": 4
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هر",
+      "PlainText": "خرامیدن لاجوردی سپهر\r\nهمی گرد برگشتن ماه و مهر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرامیدن لاجوردی سپهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی گرد برگشتن ماه و مهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
     },
     {
       "Index": 3,
@@ -107,9 +107,9 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ارنیست",
-      "PlainText": "در این پرده یک رشته بیکار نیست\r\nسر رشته بر کس پدیدار نیست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر این پرده یک رشته بیکار نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر رشته بر کس پدیدار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ازیخودرا",
+      "PlainText": "منمای بدین خلق مجازی خود را\r\nمشهور مکن به نکته سازی خود را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنمای بدین خلق مجازی خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشهور مکن به نکته سازی خود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -117,9 +117,9 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ازیخودرا",
-      "PlainText": "منمای بدین خلق مجازی خود را\r\nمشهور مکن به نکته سازی خود را",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنمای بدین خلق مجازی خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشهور مکن به نکته سازی خود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ارنیست",
+      "PlainText": "در این پرده یک رشته بیکار نیست\r\nسر رشته بر کس پدیدار نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر این پرده یک رشته بیکار نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر رشته بر کس پدیدار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -147,9 +147,9 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "خود میدانی که اهل مجلس کوراند\r\nای شمع چه هرزه میگذاری خود را",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود میدانی که اهل مجلس کوراند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای شمع چه هرزه میگذاری خود را؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "میتوانیافتن",
+      "PlainText": "نه زین رشته سر میتوان یافتن\r\nنه سر رشته را میتوان یافتن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه زین رشته سر میتوان یافتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه سر رشته را میتوان یافتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -157,9 +157,9 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "میتوانیافتن",
-      "PlainText": "نه زین رشته سر میتوان یافتن\r\nنه سر رشته را میتوان یافتن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه زین رشته سر میتوان یافتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه سر رشته را میتوان یافتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ا",
+      "PlainText": "خود میدانی که اهل مجلس کوراند\r\nای شمع چه هرزه میگذاری خود را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود میدانی که اهل مجلس کوراند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای شمع چه هرزه میگذاری خود را؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {

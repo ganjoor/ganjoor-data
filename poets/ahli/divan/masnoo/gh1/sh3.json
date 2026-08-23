@@ -74,6 +74,16 @@
     {
       "Index": 3,
       "Number": 4,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "وخته",
+      "PlainText": "بسکه بلبل چشم بر روی خوش گل دوخته\r\nلاله وارش چشم پرخون زآتش گل سوخته",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبسکه بلبل چشم بر روی خوش گل دوخته\u003C/p\u003E\r\n\u003Cp\u003Eلاله وارش چشم پرخون زآتش گل سوخته\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 4,
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ار",
@@ -81,16 +91,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپی چه بسته زبان گشته گم ز خود بلبل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر گشاده زبان صاحب یمین و یسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظام دین علی شیر بیشه اسلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یافت لوح و قلم از شعارش استظهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامور حشمت ازو خاتمه پذیرفته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرموز حکمت ازو ناشنفته در اسرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 3
-    },
-    {
-      "Index": 3,
-      "Number": 4,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "وخته",
-      "PlainText": "بسکه بلبل چشم بر روی خوش گل دوخته\r\nلاله وارش چشم پرخون زآتش گل سوخته",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبسکه بلبل چشم بر روی خوش گل دوخته\u003C/p\u003E\r\n\u003Cp\u003Eلاله وارش چشم پرخون زآتش گل سوخته\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
     },
     {
       "Index": 4,
@@ -621,17 +621,6 @@
     {
       "Index": 21,
       "Number": 22,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "ار",
-      "PlainText": "تو خضر راهروانی بدانش و تحقیق\r\nتو شیلی و تو جنید از دلایل اطوار\r\nشک و یقین نبرد راه در کمالاتت\r\nکه در مقام عنایت نمودی استقرار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو خضر راهروانی بدانش و تحقیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو شیلی و تو جنید از دلایل اطوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشک و یقین نبرد راه در کمالاتت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در مقام عنایت نمودی استقرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Ghaside",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 21,
-      "Number": 22,
       "SectionType": "BandCouplets",
       "VerseType": "Second",
       "RhymeLetters": "سی",
@@ -650,14 +639,15 @@
       "CoupletsCount": 1
     },
     {
-      "Index": 22,
-      "Number": 23,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ید",
-      "PlainText": "دوستان دست خداوندیش می نامید\r\nنی نی اینقطره ده آن بحر فشانش دانید",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدوستان دست خداوندیش می نامید\u003C/p\u003E\r\n\u003Cp\u003Eنی نی اینقطره ده آن بحر فشانش دانید\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "Index": 21,
+      "Number": 22,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "تو خضر راهروانی بدانش و تحقیق\r\nتو شیلی و تو جنید از دلایل اطوار\r\nشک و یقین نبرد راه در کمالاتت\r\nکه در مقام عنایت نمودی استقرار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو خضر راهروانی بدانش و تحقیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو شیلی و تو جنید از دلایل اطوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشک و یقین نبرد راه در کمالاتت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در مقام عنایت نمودی استقرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
     },
     {
       "Index": 22,
@@ -679,6 +669,26 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین ربوده کلک تو صورت ما نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سوزد از حسدش چون خطت کند اظهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آنکه زلف تو خال و خطیست رنگینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسوخت صد دل سنگین و نسخ کرد اغیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
+    },
+    {
+      "Index": 22,
+      "Number": 23,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "دوستان دست خداوندیش می نامید\r\nنی نی اینقطره ده آن بحر فشانش دانید",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدوستان دست خداوندیش می نامید\u003C/p\u003E\r\n\u003Cp\u003Eنی نی اینقطره ده آن بحر فشانش دانید\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 24,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ریان",
+      "PlainText": "دشمنت را مباد جز دل بریان\r\nهیچ دل سوز بهر دیده گریان",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدشمنت را مباد جز دل بریان\u003C/p\u003E\r\n\u003Cp\u003Eهیچ دل سوز بهر دیده گریان\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 23,
@@ -699,16 +709,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرکاب خنک فلک پیش رخش تست کران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در هزیمت از او رفته شیر در پیکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیش حمله او باد و آب سست تکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر چه هست به تن همچو سنگ زیر سوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eپیش رخشت کش مبادا سست تک\u003C/p\u003E\r\n\u003Cp\u003Eدر هزیمت رفته شیران همچو سگ\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
       "CoupletsCount": 3
-    },
-    {
-      "Index": 23,
-      "Number": 24,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ریان",
-      "PlainText": "دشمنت را مباد جز دل بریان\r\nهیچ دل سوز بهر دیده گریان",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدشمنت را مباد جز دل بریان\u003C/p\u003E\r\n\u003Cp\u003Eهیچ دل سوز بهر دیده گریان\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
     },
     {
       "Index": 24,
@@ -806,6 +806,17 @@
     {
       "Index": 27,
       "Number": 28,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دوار",
+      "PlainText": "نه من که طی نکند کس محیط خط ثبات\r\nکه بر سپهر کشد کلک تو همی ادوار\r\nدلیل ثابته و رهنمای سایره است\r\nدلت که دایره چرخ ازو بود دوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه من که طی نکند کس محیط خط ثبات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر سپهر کشد کلک تو همی ادوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلیل ثابته و رهنمای سایره است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلت که دایره چرخ ازو بود دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 27,
+      "Number": 28,
       "SectionType": "BandCouplets",
       "VerseType": "Second",
       "RhymeLetters": "رکت",
@@ -824,15 +835,14 @@
       "CoupletsCount": 1
     },
     {
-      "Index": 27,
-      "Number": 28,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "دوار",
-      "PlainText": "نه من که طی نکند کس محیط خط ثبات\r\nکه بر سپهر کشد کلک تو همی ادوار\r\nدلیل ثابته و رهنمای سایره است\r\nدلت که دایره چرخ ازو بود دوار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه من که طی نکند کس محیط خط ثبات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر سپهر کشد کلک تو همی ادوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلیل ثابته و رهنمای سایره است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلت که دایره چرخ ازو بود دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Ghaside",
-      "CoupletsCount": 2
+      "Index": 28,
+      "Number": 29,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "چیست بنفشه رسته در غنچه سوسن سفید\r\nمهر پیمبری برو پیک بشارت و امید",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچیست بنفشه رسته در غنچه سوسن سفید\u003C/p\u003E\r\n\u003Cp\u003Eمهر پیمبری برو پیک بشارت و امید\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 28,
@@ -856,26 +866,6 @@
       "CoupletsCount": 1
     },
     {
-      "Index": 28,
-      "Number": 29,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ید",
-      "PlainText": "چیست بنفشه رسته در غنچه سوسن سفید\r\nمهر پیمبری برو پیک بشارت و امید",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچیست بنفشه رسته در غنچه سوسن سفید\u003C/p\u003E\r\n\u003Cp\u003Eمهر پیمبری برو پیک بشارت و امید\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 29,
-      "Number": 30,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "سته",
-      "PlainText": "کریما دل کند این ظن مرا هم دل درین بسته\r\nکه زر بر سر مرا پاشی که باری هست شایسته",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکریما دل کند این ظن مرا هم دل درین بسته\u003C/p\u003E\r\n\u003Cp\u003Eکه زر بر سر مرا پاشی که باری هست شایسته\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
       "Index": 29,
       "Number": 30,
       "SectionType": "Band",
@@ -894,6 +884,16 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنکرده ایم بجز مدحتت ستایش کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروا نباشدم این شیوه هم مگر ناچار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eکی بجز مدحت ستایش روا باشد مرا\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
       "CoupletsCount": 2
+    },
+    {
+      "Index": 29,
+      "Number": 30,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "سته",
+      "PlainText": "کریما دل کند این ظن مرا هم دل درین بسته\r\nکه زر بر سر مرا پاشی که باری هست شایسته",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکریما دل کند این ظن مرا هم دل درین بسته\u003C/p\u003E\r\n\u003Cp\u003Eکه زر بر سر مرا پاشی که باری هست شایسته\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 30,
@@ -1028,22 +1028,22 @@
     {
       "Index": 34,
       "Number": 35,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "کار ترا شد ز علم کام ترا شد زحلم",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکار ترا شد ز علم کام ترا شد زحلم\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 34,
+      "Number": 35,
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ار",
       "PlainText": "اگر خط تو دیده به سر من نهاده ام چه عجب\r\nزمانه بر خط تو سر نهد باستفخار\r\nدو دیده روشن از آن بر در تو ساید چرخ\r\nکه کرده سجده ظاهر ترا اولوالابصار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر خط تو دیده به سر من نهاده ام چه عجب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمانه بر خط تو سر نهد باستفخار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو دیده روشن از آن بر در تو ساید چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کرده سجده ظاهر ترا اولوالابصار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 34,
-      "Number": 35,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "کار ترا شد ز علم کام ترا شد زحلم",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکار ترا شد ز علم کام ترا شد زحلم\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
