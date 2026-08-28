@@ -43,16 +43,6 @@
     },
     {
       "Index": 3,
-      "Number": 3,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "یر",
-      "PlainText": "شبی تاریک چون دریای پر قیر\r\nبه دریا در فکنده چشمه ی شیر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی تاریک چون دریای پر قیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دریا در فکنده چشمه ی شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 3,
       "Number": 4,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -60,6 +50,16 @@
       "PlainText": "اهل عصیان به تولای تو گر تکیه کنند\r\nمعصیت ناز کند روز جزا بر غفران",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاهل عصیان به تولای تو گر تکیه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعصیت ناز کند روز جزا بر غفران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "شبی تاریک چون دریای پر قیر\r\nبه دریا در فکنده چشمه ی شیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی تاریک چون دریای پر قیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دریا در فکنده چشمه ی شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -108,9 +108,9 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "امان",
-      "PlainText": "سوادش تیره چون سودای خامان\r\nبدامان قیامت بسته دامان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوادش تیره چون سودای خامان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدامان قیامت بسته دامان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ن",
+      "PlainText": "اهل عصیان به تولای تو گر تکیه کنند\r\nمعصیت ناز کند روز جزا بر غفران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاهل عصیان به تولای تو گر تکیه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعصیت ناز کند روز جزا بر غفران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -118,10 +118,20 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "اهل عصیان به تولای تو گر تکیه کنند\r\nمعصیت ناز کند روز جزا بر غفران",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاهل عصیان به تولای تو گر تکیه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعصیت ناز کند روز جزا بر غفران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "امان",
+      "PlainText": "سوادش تیره چون سودای خامان\r\nبدامان قیامت بسته دامان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوادش تیره چون سودای خامان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدامان قیامت بسته دامان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "روز",
+      "PlainText": "غنوده در عدم صبح شب افروز\r\nبه قیر انباشته دروازه ی روز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغنوده در عدم صبح شب افروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه قیر انباشته دروازه ی روز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 6,
@@ -138,29 +148,29 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "روز",
-      "PlainText": "غنوده در عدم صبح شب افروز\r\nبه قیر انباشته دروازه ی روز",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغنوده در عدم صبح شب افروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه قیر انباشته دروازه ی روز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "روز",
-      "PlainText": "غنوده در عدم صبح شب افروز\r\nبه قیر انباشته دروازه ی روز",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغنوده در عدم صبح شب افروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه قیر انباشته دروازه ی روز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "رد",
       "PlainText": "به کم خوردن از عادت خواب و خورد\r\nتوان خویشتن را ملک خوی کرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کم خوردن از عادت خواب و خورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتوان خویشتن را ملک خوی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "روز",
+      "PlainText": "غنوده در عدم صبح شب افروز\r\nبه قیر انباشته دروازه ی روز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغنوده در عدم صبح شب افروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه قیر انباشته دروازه ی روز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اک",
+      "PlainText": "به کنج صبح قفل افکنده افلاک\r\nکلید گنج را گم کرده در خاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کنج صبح قفل افکنده افلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلید گنج را گم کرده در خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -178,29 +188,19 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اک",
-      "PlainText": "به کنج صبح قفل افکنده افلاک\r\nکلید گنج را گم کرده در خاک",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کنج صبح قفل افکنده افلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلید گنج را گم کرده در خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اک",
-      "PlainText": "به کنج صبح قفل افکنده افلاک\r\nکلید گنج را گم کرده در خاک",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کنج صبح قفل افکنده افلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلید گنج را گم کرده در خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "",
       "PlainText": "به کنج صبح قفل افکنده افلاک\r\nکلید گنج را گم کرده در خاک\r\nدوستان گر بدوستان نرسند\r\nدر چنین روزگار معذورند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کنج صبح قفل افکنده افلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلید گنج را گم کرده در خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستان گر بدوستان نرسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چنین روزگار معذورند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اک",
+      "PlainText": "به کنج صبح قفل افکنده افلاک\r\nکلید گنج را گم کرده در خاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کنج صبح قفل افکنده افلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلید گنج را گم کرده در خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
