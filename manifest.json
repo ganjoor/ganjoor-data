@@ -1,8 +1,8 @@
 {
   "SchemaVersion": 1,
-  "GeneratedAtUtc": "2026-08-28T04:23:19.7429404Z",
-  "PoetsCount": 238,
-  "PoemsCount": 132926,
+  "GeneratedAtUtc": "2026-08-29T05:04:20.2229447Z",
+  "PoetsCount": 239,
+  "PoemsCount": 133084,
   "IdIndexShardSize": 2000,
   "UrlTemplates": {
     "Poet": "poets/{poetSlug}/poet.json",
@@ -1202,6 +1202,11 @@
       "Id": 239,
       "Nickname": "نعیم فراشری",
       "FullUrl": "/frasheri"
+    },
+    {
+      "Id": 240,
+      "Nickname": "علی اشتری",
+      "FullUrl": "/ashtari"
     }
   ]
 }
