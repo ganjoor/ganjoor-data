@@ -1,8 +1,8 @@
 {
   "SchemaVersion": 1,
-  "GeneratedAtUtc": "2026-08-29T05:04:20.2229447Z",
-  "PoetsCount": 239,
-  "PoemsCount": 133084,
+  "GeneratedAtUtc": "2026-09-01T05:06:57.6351851Z",
+  "PoetsCount": 240,
+  "PoemsCount": 135319,
   "IdIndexShardSize": 2000,
   "UrlTemplates": {
     "Poet": "poets/{poetSlug}/poet.json",
@@ -1207,6 +1207,11 @@
       "Id": 240,
       "Nickname": "علی اشتری",
       "FullUrl": "/ashtari"
+    },
+    {
+      "Id": 241,
+      "Nickname": "واقف لاهوری",
+      "FullUrl": "/waqif"
     }
   ]
 }
