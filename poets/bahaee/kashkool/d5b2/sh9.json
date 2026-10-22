@@ -34,18 +34,6 @@
     },
     {
       "Index": 2,
-      "Number": 3,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "مرااغازکاراستوتراانجامپرکاری",
-      "PlainText": "تو عاشق دیده و من عاشق معشوق نادیده\r\nمرا آغاز کار است و ترا انجام پرکاری",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو عاشق دیده و من عاشق معشوق نادیده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا آغاز کار است و ترا انجام پرکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
-      "CoupletsCount": 1,
-      "MetreId": 2
-    },
-    {
-      "Index": 2,
       "Number": 2,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -57,16 +45,16 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 3,
+      "Index": 2,
       "Number": 3,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ور",
-      "PlainText": "گدایانی از پادشاهی نفور\r\nبامیدش اندر گدایی صبور",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگدایانی از پادشاهی نفور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبامیدش اندر گدائی صبور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مرااغازکاراستوتراانجامپرکاری",
+      "PlainText": "تو عاشق دیده و من عاشق معشوق نادیده\r\nمرا آغاز کار است و ترا انجام پرکاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو عاشق دیده و من عاشق معشوق نادیده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا آغاز کار است و ترا انجام پرکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
       "CoupletsCount": 1,
-      "MetreId": 23,
-      "MetreRefSectionIndex": 0
+      "MetreId": 2
     },
     {
       "Index": 3,
@@ -79,6 +67,18 @@
       "PoemFormat": "Masnavi",
       "CoupletsCount": 29,
       "MetreId": 30
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ور",
+      "PlainText": "گدایانی از پادشاهی نفور\r\nبامیدش اندر گدایی صبور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگدایانی از پادشاهی نفور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبامیدش اندر گدائی صبور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -109,12 +109,12 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وست",
-      "PlainText": "نه تلخ است صبری که بر یاد اوست\r\nکه تلخی شکر باشد از دست دوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه تلخ است صبری که بر یاد اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تلخی شکر باشد از دست دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ن",
+      "PlainText": "آدمیزاده طرفه معجونی است\r\nکز فرشته سرشته و ز حیوان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدمیزاده طرفه معجونی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز فرشته سرشته و ز حیوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 23,
-      "MetreRefSectionIndex": 0
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 5,
@@ -133,24 +133,12 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "آدمیزاده طرفه معجونی است\r\nکز فرشته سرشته و ز حیوان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدمیزاده طرفه معجونی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز فرشته سرشته و ز حیوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وست",
+      "PlainText": "نه تلخ است صبری که بر یاد اوست\r\nکه تلخی شکر باشد از دست دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه تلخ است صبری که بر یاد اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تلخی شکر باشد از دست دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 23,
-      "MetreRefSectionIndex": 3
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "گر کند میل این بود کم از این\r\nور کند میل آن شود به از آن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کند میل این بود کم از این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور کند میل آن شود به از آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 23,
-      "MetreRefSectionIndex": 3
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 6,
@@ -163,6 +151,18 @@
       "CoupletsCount": 3,
       "MetreId": 23,
       "MetreRefSectionIndex": 0
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "گر کند میل این بود کم از این\r\nور کند میل آن شود به از آن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کند میل این بود کم از این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور کند میل آن شود به از آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 6,
@@ -193,18 +193,6 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ند",
-      "PlainText": "اسیرش نخواهد رهایی زبند\r\nشکارش نخواهد خلاص از کمند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسیرش نخواهد رهائی زبند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکارش نخواهد خلاص از کمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 23,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "اک",
       "PlainText": "ای گرانمایه ترین گوهر پاک\r\nوی سبک سایه ترین پیکر خاک",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گرانمایه ترین گوهر پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی سبک سایه ترین پیکر خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -213,16 +201,16 @@
       "MetreRefSectionIndex": 3
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "نج",
-      "PlainText": "پیکر خاک طلسمی است تو گنج\r\nگنجی از بهر ازل گوهر سنج",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیکر خاک طلسمی است تو گنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنجی از بهر ازل گوهر سنج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ند",
+      "PlainText": "اسیرش نخواهد رهایی زبند\r\nشکارش نخواهد خلاص از کمند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسیرش نخواهد رهائی زبند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکارش نخواهد خلاص از کمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3,
       "MetreId": 23,
-      "MetreRefSectionIndex": 3
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 8,
@@ -235,6 +223,18 @@
       "CoupletsCount": 3,
       "MetreId": 23,
       "MetreRefSectionIndex": 0
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نج",
+      "PlainText": "پیکر خاک طلسمی است تو گنج\r\nگنجی از بهر ازل گوهر سنج",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیکر خاک طلسمی است تو گنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنجی از بهر ازل گوهر سنج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 8,
@@ -265,18 +265,6 @@
       "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رند",
-      "PlainText": "به سروقتشان خلق کی پی برند\r\nکه چون آب حیوان به ظلمت درند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سروقتشان خلق کی پی برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چون آب حیوان به ظلمت درند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 23,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 9,
-      "Number": 9,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "اس",
       "PlainText": "این گهر را چه شوی قدر شناس\r\nبرهی ز آفت امید و هراس",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین گهر را چه شوی قدر شناس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرهی ز آفت امید و هراس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -285,16 +273,16 @@
       "MetreRefSectionIndex": 3
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وداست",
-      "PlainText": "خرقه کز وی نه دلت خشنود است\r\nچشمه چشمه ز ره داود است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرقه کز وی نه دلت خشنود است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمه چشمه ز ره داود است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رند",
+      "PlainText": "به سروقتشان خلق کی پی برند\r\nکه چون آب حیوان به ظلمت درند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سروقتشان خلق کی پی برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چون آب حیوان به ظلمت درند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3,
       "MetreId": 23,
-      "MetreRefSectionIndex": 3
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 10,
@@ -307,6 +295,18 @@
       "CoupletsCount": 3,
       "MetreId": 23,
       "MetreRefSectionIndex": 0
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وداست",
+      "PlainText": "خرقه کز وی نه دلت خشنود است\r\nچشمه چشمه ز ره داود است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرقه کز وی نه دلت خشنود است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمه چشمه ز ره داود است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 10,
@@ -337,18 +337,6 @@
       "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "جو",
-      "PlainText": "دلارام در بر دلارام جو\r\nلب از تشنگی خشک در طرف جو",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلارام در بر دلارام جو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب از تشنگی خشک در طرف جو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 23,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 11,
-      "Number": 11,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "اه",
       "PlainText": "باشد از ناوک هستیت پناه\r\nداردت از تپش عجب نگاه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباشد از ناوک هستیت پناه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداردت از تپش عجب نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -357,16 +345,16 @@
       "MetreRefSectionIndex": 3
     },
     {
-      "Index": 12,
-      "Number": 12,
+      "Index": 11,
+      "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "چون برآن خرقه زنی بخیه مدار\r\nچشم بر رشته ی کس سوزن وار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون برآن خرقه زنی بخیه، مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم بر رشته ی کس، سوزن وار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "جو",
+      "PlainText": "دلارام در بر دلارام جو\r\nلب از تشنگی خشک در طرف جو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلارام در بر دلارام جو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب از تشنگی خشک در طرف جو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3,
       "MetreId": 23,
-      "MetreRefSectionIndex": 3
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 12,
@@ -385,6 +373,18 @@
       "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "چون برآن خرقه زنی بخیه مدار\r\nچشم بر رشته ی کس سوزن وار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون برآن خرقه زنی بخیه، مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم بر رشته ی کس، سوزن وار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
       "RhymeLetters": "یش",
       "PlainText": "نیرزد عسل جان من زخم نیش\r\nقناعت نکوتر به دوشاب خویش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیرزد عسل جان من، زخم نیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقناعت نکوتر به دوشاب خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -397,24 +397,24 @@
       "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رند",
-      "PlainText": "به تسلیم سر در گریبان برند\r\nچو طاقت نماند گریبان درند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تسلیم سر در گریبان برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو طاقت نماند گریبان درند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 23,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 13,
-      "Number": 13,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "وزه",
       "PlainText": "خشک نانی که شب از دریوزه\r\nبه کف آری که گشایی روزه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخشک نانی که شب از دریوزه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کف آری که گشائی روزه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 23,
       "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رند",
+      "PlainText": "به تسلیم سر در گریبان برند\r\nچو طاقت نماند گریبان درند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تسلیم سر در گریبان برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو طاقت نماند گریبان درند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 14,

@@ -34,18 +34,6 @@
     },
     {
       "Index": 2,
-      "Number": 2,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "هینالهکند",
-      "PlainText": "بر یاد قدت دل رهی ناله کند\r\nچون مرغ که بر سرو سهی ناله کند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر یاد قدت دل رهی ناله کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مرغ که بر سرو سهی ناله کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 2,
       "Number": 3,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -55,6 +43,18 @@
       "PoemFormat": "Masnavi",
       "CoupletsCount": 22,
       "MetreId": 9
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هینالهکند",
+      "PlainText": "بر یاد قدت دل رهی ناله کند\r\nچون مرغ که بر سرو سهی ناله کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر یاد قدت دل رهی ناله کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مرغ که بر سرو سهی ناله کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -94,6 +94,18 @@
     },
     {
       "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "طرب ای عاشقان خوش رفتار\r\nطلب ای نیکوان شیرین کار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطرب ای عاشقان خوش رفتار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطلب ای نیکوان شیرین کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 2
+    },
+    {
+      "Index": 4,
       "Number": 5,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -129,30 +141,6 @@
       "MetreRefSectionIndex": 26
     },
     {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "طرب ای عاشقان خوش رفتار\r\nطلب ای نیکوان شیرین کار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطرب ای عاشقان خوش رفتار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطلب ای نیکوان شیرین کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 9,
-      "MetreRefSectionIndex": 2
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "در جهان شاهدی و ما فارغ\r\nدر قدح باده ای و ما هشیار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جهان شاهدی و ما فارغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر قدح باده ای و ما هشیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 9,
-      "MetreRefSectionIndex": 2
-    },
-    {
       "Index": 5,
       "Number": 5,
       "SectionType": "Couplet",
@@ -177,16 +165,16 @@
       "MetreRefSectionIndex": 1
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رمیبایدت",
-      "PlainText": "هر زمانی صد بصر می بایدت\r\nهر بصر را صد نظر می بایدت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر زمانی صد بصر می بایدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر بصر را صد نظر می بایدت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 6,
-      "MetreRefSectionIndex": 1
+      "RhymeLetters": "ر",
+      "PlainText": "در جهان شاهدی و ما فارغ\r\nدر قدح باده ای و ما هشیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جهان شاهدی و ما فارغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر قدح باده ای و ما هشیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 6,
@@ -201,16 +189,16 @@
       "MetreRefSectionIndex": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "ای هواهان تو هوی انگیز\r\nوی خدایان تو خدا آزار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای هواهان تو هوی انگیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی خدایان تو خدا آزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رمیبایدت",
+      "PlainText": "هر زمانی صد بصر می بایدت\r\nهر بصر را صد نظر می بایدت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر زمانی صد بصر می بایدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر بصر را صد نظر می بایدت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
-      "MetreId": 9,
-      "MetreRefSectionIndex": 2
+      "MetreId": 6,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 7,
@@ -225,16 +213,16 @@
       "MetreRefSectionIndex": 1
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ال",
-      "PlainText": "شدم به عشق تو مشهور و نیستم خوشحال\r\nکه هر که دید مرا آورد ترا به خیال",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشدم به عشق تو مشهور و نیستم خوشحال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هر که دید مرا آورد ترا به خیال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 28
+      "RhymeLetters": "ر",
+      "PlainText": "ای هواهان تو هوی انگیز\r\nوی خدایان تو خدا آزار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای هواهان تو هوی انگیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی خدایان تو خدا آزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 8,
@@ -249,16 +237,16 @@
       "MetreRefSectionIndex": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "علم کز تو ترا بنستاند\r\nجهل از آن علم به بود صد بار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم کز تو ترا بنستاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهل از آن علم به بود صد بار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ال",
+      "PlainText": "شدم به عشق تو مشهور و نیستم خوشحال\r\nکه هر که دید مرا آورد ترا به خیال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشدم به عشق تو مشهور و نیستم خوشحال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هر که دید مرا آورد ترا به خیال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
-      "MetreId": 9,
-      "MetreRefSectionIndex": 2
+      "MetreId": 3,
+      "MetreRefSectionIndex": 28
     },
     {
       "Index": 9,
@@ -271,6 +259,18 @@
       "CoupletsCount": 2,
       "MetreId": 3,
       "MetreRefSectionIndex": 28
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "علم کز تو ترا بنستاند\r\nجهل از آن علم به بود صد بار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم کز تو ترا بنستاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهل از آن علم به بود صد بار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 10,

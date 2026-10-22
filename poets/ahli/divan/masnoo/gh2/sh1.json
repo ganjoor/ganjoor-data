@@ -22,17 +22,6 @@
     {
       "Index": 1,
       "Number": 2,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "PlainText": "شعر\r\nگر نه ذات او سبب در نظم عالم آمدی\r\nنظم موجودات عالم کی فراهم آمدی",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نه ذات او سبب در نظم عالم آمدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظم موجودات عالم کی فراهم آمدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "MultiBand",
-      "CoupletsCount": 2,
-      "MetreId": 8
-    },
-    {
-      "Index": 1,
-      "Number": 2,
       "SectionType": "Band",
       "VerseType": "Second",
       "RhymeLetters": "یدهاست",
@@ -43,16 +32,15 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 2,
-      "Number": 3,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "بیت",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبیت\u003C/p\u003E\u003C/div\u003E",
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "شعر\r\nگر نه ذات او سبب در نظم عالم آمدی\r\nنظم موجودات عالم کی فراهم آمدی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نه ذات او سبب در نظم عالم آمدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظم موجودات عالم کی فراهم آمدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
       "CoupletsCount": 2,
-      "MetreId": 1,
-      "MetreRefSectionIndex": 0
+      "MetreId": 8
     },
     {
       "Index": 2,
@@ -76,6 +64,30 @@
       "PoemFormat": "MultiBand",
       "CoupletsCount": 2,
       "MetreId": 1
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "بیت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبیت\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 0
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ون",
+      "PlainText": "بیت\r\nبزرگوار خدایا چو شعر قسمت ماست\r\nرهی نما که کندوردجان بصدق درون\r\nز سوره شعرا رب نجنی اهلی\r\nنه سیرت شعرا یتبعهم الغاوون",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبیت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزرگوار خدایا چو شعر قسمت ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهی نما که کندوردجان بصدق درون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز سوره شعرا رب نجنی اهلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه سیرت شعرا یتبعهم الغاوون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3,
+      "MetreId": 3
     },
     {
       "Index": 3,
@@ -102,16 +114,16 @@
       "MetreRefSectionIndex": 1
     },
     {
-      "Index": 3,
-      "Number": 4,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "ون",
-      "PlainText": "بیت\r\nبزرگوار خدایا چو شعر قسمت ماست\r\nرهی نما که کندوردجان بصدق درون\r\nز سوره شعرا رب نجنی اهلی\r\nنه سیرت شعرا یتبعهم الغاوون",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبیت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزرگوار خدایا چو شعر قسمت ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهی نما که کندوردجان بصدق درون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز سوره شعرا رب نجنی اهلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه سیرت شعرا یتبعهم الغاوون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "MultiBand",
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "بیت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبیت\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 3,
-      "MetreId": 3
+      "MetreId": 1,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 4,
@@ -124,18 +136,6 @@
       "CoupletsCount": 3,
       "MetreId": 3,
       "MetreRefSectionIndex": 3
-    },
-    {
-      "Index": 4,
-      "Number": 5,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "بیت",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبیت\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 1,
-      "MetreRefSectionIndex": 2
     },
     {
       "Index": 6,

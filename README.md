@@ -11,7 +11,7 @@ allowlisted to contain none of the site's user-account-linked data
 the application this data set is exported from, or want to run your own copy of Ganjoor locally
 using this data.
 
-Currently tracks **241 poets** / **138188 poems**, generated 2026-10-22T08:36:20.5911577Z.
+Currently tracks **241 poets** / **138188 poems**, generated 2026-10-22T16:22:53.9746603Z.
 
 ## Where do I start?
 

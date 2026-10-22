@@ -22,6 +22,17 @@
     {
       "Index": 1,
       "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "شعر\r\nزهی باغ کز نوبهار سخن\r\nکه شد میوه اش شکرین مغز و پوست\r\nقصیده نگویم که بحری بود\r\nچه بحری که هر گوشه بحری دروست",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهی باغ کز نوبهار سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شد میوه اش شکرین مغز و پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصیده نگویم که بحری بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه بحری که هر گوشه بحری دروست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3,
+      "MetreId": 23
+    },
+    {
+      "Index": 1,
+      "Number": 2,
       "SectionType": "Band",
       "VerseType": "Second",
       "RhymeLetters": "ل",
@@ -32,15 +43,16 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 1,
-      "Number": 2,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "PlainText": "شعر\r\nزهی باغ کز نوبهار سخن\r\nکه شد میوه اش شکرین مغز و پوست\r\nقصیده نگویم که بحری بود\r\nچه بحری که هر گوشه بحری دروست",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهی باغ کز نوبهار سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شد میوه اش شکرین مغز و پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصیده نگویم که بحری بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه بحری که هر گوشه بحری دروست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "MultiBand",
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "شعر",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003E(شعر)\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 3,
-      "MetreId": 23
+      "MetreId": 10,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 2,
@@ -66,28 +78,16 @@
       "MetreId": 9
     },
     {
-      "Index": 2,
-      "Number": 3,
+      "Index": 3,
+      "Number": 4,
       "SectionType": "BandCouplets",
       "VerseType": "Second",
       "RhymeLetters": "",
       "PlainText": "شعر",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003E(شعر)\u003C/p\u003E\u003C/div\u003E",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشعر\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 3,
-      "MetreId": 10,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 3,
-      "Number": 4,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "کهبشکفدگلامیدمنازینبستان",
-      "PlainText": "مگر نسیم قبولم چو غنچه بنوازد\r\nکه بشکفد گل امید من ازین بستان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر نسیم قبولم چو غنچه بنوازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بشکفد گل امید من ازین بستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Ghaside",
-      "CoupletsCount": 1,
-      "MetreId": 3
+      "MetreId": 23,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 3,
@@ -104,14 +104,14 @@
     {
       "Index": 3,
       "Number": 4,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "شعر",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشعر\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 23,
-      "MetreRefSectionIndex": 1
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کهبشکفدگلامیدمنازینبستان",
+      "PlainText": "مگر نسیم قبولم چو غنچه بنوازد\r\nکه بشکفد گل امید من ازین بستان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر نسیم قبولم چو غنچه بنوازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بشکفد گل امید من ازین بستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 1,
+      "MetreId": 3
     },
     {
       "Index": 4,
