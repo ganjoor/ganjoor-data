@@ -6,7 +6,7 @@
   "FullUrl": "/saadi/golestan/gbab8/sh10",
   "SourceName": "ویکی‌نبشته",
   "SourceUrlSlug": "wikisource",
-  "PoemSummary": "هوش مصنوعی: سخن در پندهای این متن به ما می‌آموزد که هر چیزی را که در دل داریم نباید با دوستان و حتی دشمنان در میان بگذاریم. زیرا ممکن است روزی دوست به دشمن تبدیل شود و بلعکس. رازهایی که در دل نگه‌داریم بهتر از آن است که با کسی در میان بگذاریم، حتی اگر آن فرد به نظر دوست مخلص باشد. و در نهایت، بهتر است سکوت کنیم تا از زخم زبان و سوءتفاهم‌ها در امان بمانیم. به عبارتی، نباید سخنانی را بگوییم که بعدها باعث پشیمانی‌مان شود.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به اهمیت نهان‌نگه‌داشتن رازها و секрет‌ها اشاره می‌کند. او هشدار می‌دهد که نباید هر آنچه در سر داریم را با دیگران به اشتراک بگذاریم، حتی اگر آن فرد دوست و مخلص باشد، چرا که روابط انسانی ممکن است تغییر کند و دشمنی از دوستی سر برآورد. او به این نکته می‌پردازد که سکوت و نگه‌داشتن امور در دل بهتر از افشا کردن آن‌هاست، چون سخن گفتن در جمع، می‌تواند خطرات و پیامدهای ناخواسته‌ای به همراه داشته باشد. در نهایت، شاعر توصیه می‌کند که باید در انتخاب کلمات و بیان اسرار خود بسیار محتاط بود.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "خامشی به که ضمیر دل خویش\r\nبا کسی گفتن و گفتن که مگوی\r\nای سلیم آب ز سرچشمه ببند\r\nکه چو پر شد نتوان بستن جوی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخامشی به که ضمیر دل خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا کسی گفتن و گفتن که مگوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سلیم آب ز سرچشمه ببند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چو پر شد نتوان بستن جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 30
     },
     {
       "Index": 2,
@@ -27,7 +28,9 @@
       "RhymeLetters": "ی",
       "PlainText": "خامشی به که ضمیر دل خویش\r\nبا کسی گفتن و گفتن که مگوی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخامشی به که ضمیر دل خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا کسی گفتن و گفتن که مگوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 30,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -37,7 +40,9 @@
       "RhymeLetters": "ی",
       "PlainText": "ای سلیم آب ز سرچشمه ببند\r\nکه چو پر شد نتوان بستن جوی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سلیم آب ز سرچشمه ببند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چو پر شد نتوان بستن جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 30,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -47,7 +52,9 @@
       "RhymeLetters": "ایدگفت",
       "PlainText": "سخنی در نهان نباید گفت\r\nکه بر انجمن نشاید گفت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخنی در نهان نباید گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر انجمن نشاید گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 5,
@@ -58,7 +65,8 @@
       "PlainText": "سخنی در نهان نباید گفت\r\nکه بر انجمن نشاید گفت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخنی در نهان نباید گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر انجمن نشاید گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9
     }
   ],
   "Verses": [

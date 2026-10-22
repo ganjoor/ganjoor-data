@@ -6,7 +6,7 @@
   "FullUrl": "/attar/elahiname/ebkhsh8/sh11",
   "SourceName": "کتابخانه تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: رفیقی به مجنون می‌گوید که لیلی مرده است و مجنون در پاسخ می‌گوید الحمدلله. او به رفیقش می‌گوید که ای دیوانه، اگر دل‌تنگی و آتش عشق در وجودت هست، چرا چنین سخن می‌گویی؟ مجنون ادامه می‌دهد که چون من هیچ‌گاه از زیبایی لیلی دور نبوده‌ام، هیچ‌کس نمی‌تواند چشم‌داشتی به او داشته باشد.",
+  "PoemSummary": "هوش مصنوعی: مردی از مجنون می‌پرسد که چرا در عین عشق به لیلی، در مرگ او احساس شادی می‌کند. مجنون در پاسخ به او می‌گوید که چون لیلی را عاشقانه می‌خواهد و از چشمان او بهره نبرده است، برایش هیچ بدخواهی وجود ندارد. او در این حالت به شوریدگی خود اشاره می‌کند و می‌گوید که در عشق واقعی، دردی وجود ندارد که انسان را غمگین کند.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "رفیقی گفت با مجنون گمراه\r\nکه لیلی مرد گفت الحمدلله\r\nچنین گفت او که ای شوریده دین تو\r\nچو می سوزی چرا گویی چنین تو\r\nچنین گفت او که چون من بهره زان ماه\r\nندیدستم نبیند هیچ بد خواه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفیقی گفت با مجنون گمراه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه لیلی مُرد گفت الحمدلله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین گفت او که ای شوریده دین تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو می‌سوزی چرا گوئی چنین تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین گفت او که چون من بهره زان ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندیدستم نبیند هیچ بد خواه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "اه",
       "PlainText": "رفیقی گفت با مجنون گمراه\r\nکه لیلی مرد گفت الحمدلله",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفیقی گفت با مجنون گمراه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه لیلی مُرد گفت الحمدلله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ینتو",
       "PlainText": "چنین گفت او که ای شوریده دین تو\r\nچو می سوزی چرا گویی چنین تو",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین گفت او که ای شوریده دین تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو می‌سوزی چرا گوئی چنین تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اه",
       "PlainText": "چنین گفت او که چون من بهره زان ماه\r\nندیدستم نبیند هیچ بد خواه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین گفت او که چون من بهره زان ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندیدستم نبیند هیچ بد خواه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

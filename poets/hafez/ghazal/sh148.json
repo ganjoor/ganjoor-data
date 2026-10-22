@@ -22,7 +22,8 @@
       "PlainText": "یارم چو قدح به دست گیرد\r\nبازار بتان شکست گیرد\r\nهر کس که بدید چشم او گفت\r\nکو محتسبی که مست گیرد\r\nدر بحر فتاده ام چو ماهی\r\nتا یار مرا به شست گیرد\r\nدر پاش فتاده ام به زاری\r\nآیا بود آن که دست گیرد\r\nخرم دل آن که همچو حافظ\r\nجامی ز می الست گیرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارم چو قدح به دست گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازارِ بتان شکست گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس که بدید چشم او گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E«کو محتسبی که مست گیرد؟»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بحر فتاده‌ام چو ماهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا یار مرا به شَست گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پاش فتاده‌ام به زاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیا بوَد آن که دست گیرد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخُرَّم دلِ آن که همچو حافظ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجامی ز مِیِ اَلَست گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghazal",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 13
     }
   ],
   "Verses": [
@@ -100,6 +101,32 @@
       "Text": "جامی ز مِیِ اَلَست گیرد",
       "CoupletIndex": 4,
       "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 234
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "ConceptId": 545
+        }
+      ]
     }
   ]
 }

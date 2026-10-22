@@ -6,7 +6,7 @@
   "FullUrl": "/saadi/mavaez/masnaviat/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این اشعار گفته شده است که مرغی که از دام فرار کرده به سختی باز می‌گردد و کسی نمی‌تواند دوباره آن را بگیرد. برای بازگرداندن کسانی که رفته‌اند، باید با محبت و لطف عمل کرد، نه با زور و زورگویی.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، سعدی به نماد مرغ وحشی اشاره می‌کند که پس از آزادی از دام، به سختی می‌تواند دوباره به دام بیفتد. او می‌گوید که رفتگان و کسانی که به دور از ما هستند، به سادگی نمی‌توانند به زندگی قبلی خود باز گردند. در اینجا تاکید بر این است که بازگرداندن افراد باید با محبت و لطافت باشد و نه با زور و خشونت.",
   "Metre": {
     "Id": 9,
     "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
@@ -21,7 +21,8 @@
       "PlainText": "نشنیدم که مرغ رفته ز دام\r\nباز گردید و سر گفته به کام\r\nمرغ وحشی که رفت بر دیوار\r\nکه تواند گرفت دیگر بار\r\nرفتگان را به لطف باز آرند\r\nنه به جنگش بتر بیازارند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشنیدم که مرغ رفته ز دام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز گردید و سرّ گفته به کام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغ وحشی که رفت بر دیوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تواند گرفت دیگر بار؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتگان را به لطف باز آرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه به جنگش بتر بیازارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 9
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ام",
       "PlainText": "نشنیدم که مرغ رفته ز دام\r\nباز گردید و سر گفته به کام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشنیدم که مرغ رفته ز دام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز گردید و سرّ گفته به کام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ار",
       "PlainText": "مرغ وحشی که رفت بر دیوار\r\nکه تواند گرفت دیگر بار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغ وحشی که رفت بر دیوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تواند گرفت دیگر بار؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ازارند",
       "PlainText": "رفتگان را به لطف باز آرند\r\nنه به جنگش بتر بیازارند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتگان را به لطف باز آرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه به جنگش بتر بیازارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

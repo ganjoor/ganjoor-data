@@ -11,7 +11,7 @@ allowlisted to contain none of the site's user-account-linked data
 the application this data set is exported from, or want to run your own copy of Ganjoor locally
 using this data.
 
-Currently tracks **240 poets** / **135399 poems**, generated 2026-10-13T06:38:12.7887571Z.
+Currently tracks **241 poets** / **138188 poems**, generated 2026-10-22T08:36:20.5911577Z.
 
 ## Where do I start?
 
@@ -21,6 +21,10 @@ Currently tracks **240 poets** / **135399 poems**, generated 2026-10-13T06:38:12
 - **[`people.json`](people.json)**, **[`locations.json`](locations.json)**,
   **[`person-relations.json`](person-relations.json)**, **[`geotags.json`](geotags.json)** — the
   people, places, family relations (attested per book) and tagged couplets; see `API.md`.
+- **[`literary-devices.json`](literary-devices.json)**, **[`literary-concepts.json`](literary-concepts.json)**
+  and **[`literary-sources.json`](literary-sources.json)** — the literary devices (آرایه‌های ادبی) with
+  their slots, the concepts they refer to, and the license of imported annotations; the tags themselves
+  are in each poem file and in `index/literary-tags/`.
 - **[`API.md`](API.md)** — how to fetch any of this over plain HTTPS (no server needed, via
   jsDelivr), including how to resolve a bare numeric id to its path.
 

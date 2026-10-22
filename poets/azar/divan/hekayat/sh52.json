@@ -6,7 +6,7 @@
   "FullUrl": "/azar/divan/hekayat/sh52",
   "SourceName": "چکامه",
   "SourceUrlSlug": "chekameh",
-  "PoemSummary": "هوش مصنوعی: در این شعر، زنی به شوهرش تهمت می‌زند و او را به خاطر نداشتن منزل و وضعیت اجتماعی‌اش سرزنش می‌کند. شوهر که این سرزنش را می‌شنود، زیر لب می‌خندد و به زن می‌گوید که دو عیب را در او دیده، اما این عیب‌ها گناه او نیست. او توضیح می‌دهد که یکی از عیب‌ها نتیجهٔ تلاش‌های خود اوست و دومی ناشی از قضا و قدر الهی است. این گفتگو نشان‌دهندهٔ برخورد شوهر با تهمت‌های زن و نادیده گرفتن قضاوت‌های بی‌اساس اوست.",
+  "PoemSummary": "هوش مصنوعی: زنی بدخلق شوهرش را سرزنش می‌کند که چرا نتوانسته برای او خانه‌ای بسازد و او را به گفتن بدی‌هایش متهم می‌کند. شوهر که به این سرزنش‌ها گوش می‌دهد، زیر لب می‌خندد و اعتراف می‌کند که ممکن است دو عیب در نظر او داشته باشد، اما خود را بی‌گناه می‌داند. او می‌گوید یکی از عیوبش به خود او بازمی‌گردد و دیگری مربوط به قضای الهی است. این حکایت به بررسی عیوب و سرزنش‌های نادرست در زندگی زناشویی می‌پردازد.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -21,7 +21,8 @@
       "PlainText": "شنیدم که بدخو زنی بد کنش\r\nشبی کرد مر شوی را سرزنش\r\nکه چند از تو منزل نسازم جدا\r\nچو هم قلتبان بینمت هم گدا\r\nاز آن زن چو این سرزنش را شنفت\r\nبزیر لب آن مرد خندید و گفت\r\nکه آمد دو عیبم بچشمت عیان\r\nولی نیست جرمی مرا در میان\r\nچو خواندی مرا قلتبان و گدا\r\nیکی را ز خود دان یکی از خدا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم که بدخو زنی بد کنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبی کرد مر شوی را سرزنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه چند از تو منزل نسازم جدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو هم قلتبان بینمت هم گدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن زن چو این سرزنش را شنفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبزیر لب آن مرد خندید و گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه: آمد دو عیبم بچشمت عیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی نیست جرمی مرا در میان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خواندی مرا قلتبان و گدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی را ز خود دان، یکی از خدا!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 23
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "نش",
       "PlainText": "شنیدم که بدخو زنی بد کنش\r\nشبی کرد مر شوی را سرزنش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم که بدخو زنی بد کنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبی کرد مر شوی را سرزنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "دا",
       "PlainText": "که چند از تو منزل نسازم جدا\r\nچو هم قلتبان بینمت هم گدا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه چند از تو منزل نسازم جدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو هم قلتبان بینمت هم گدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "فت",
       "PlainText": "از آن زن چو این سرزنش را شنفت\r\nبزیر لب آن مرد خندید و گفت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن زن چو این سرزنش را شنفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبزیر لب آن مرد خندید و گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "یان",
       "PlainText": "که آمد دو عیبم بچشمت عیان\r\nولی نیست جرمی مرا در میان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه: آمد دو عیبم بچشمت عیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی نیست جرمی مرا در میان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 6,
@@ -71,7 +80,9 @@
       "RhymeLetters": "دا",
       "PlainText": "چو خواندی مرا قلتبان و گدا\r\nیکی را ز خود دان یکی از خدا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خواندی مرا قلتبان و گدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی را ز خود دان، یکی از خدا!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

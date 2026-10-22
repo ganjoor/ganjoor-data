@@ -6,7 +6,7 @@
   "FullUrl": "/ahli/divan/masnoo/gh2/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این شعر نشان می‌دهد که هیچ‌کس به اندازه تو از عدالت بهره‌مند نشده است. تو که صاحب حکومت هستی، می‌توانی این دنیا را به دست بگیری و بر آن تسلط یابی. در واقع، تو بهترین حاکم از نظر عدالت هستی.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بخش از قصیده به ستایش سلطان یعقوب می‌پردازد و بر عدالت او تأکید می‌کند. او می‌گوید که هیچ کس به اندازه او در جهان به برپایی عدل اهتمام ورزیده است. همچنین اشاره دارد که تمامی امور زیر سلطه او قرار داشته و باید به درستی از آن‌ها نگهداری شود. این اشعار بیانگر جامعه‌ای ایده‌آل است که در آن عدالت حاکم است.",
   "Sections": [
     {
       "Index": 0,
@@ -16,7 +16,8 @@
       "PlainText": "یقین که کس نگرفته چو تو جهان از عدل\r\nچو ملک جمله از آن تو شد بگیر و بدار\r\nکس نگرفته چو تو از عدل ملک",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که کس نگرفته چو تو جهان از عدل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو ملک جمله از آن تو شد بگیر و بدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eکس نگرفته چو تو از عدل ملک\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 3
     },
     {
       "Index": 1,
@@ -26,7 +27,9 @@
       "RhymeLetters": "ر",
       "PlainText": "یقین که کس نگرفته چو تو جهان از عدل\r\nچو ملک جمله از آن تو شد بگیر و بدار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که کس نگرفته چو تو جهان از عدل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو ملک جمله از آن تو شد بگیر و بدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -36,7 +39,9 @@
       "RhymeLetters": "",
       "PlainText": "کس نگرفته چو تو از عدل ملک",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکس نگرفته چو تو از عدل ملک\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

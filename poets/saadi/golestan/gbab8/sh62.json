@@ -6,7 +6,7 @@
   "FullUrl": "/saadi/golestan/gbab8/sh62",
   "SourceName": "ویکی‌نبشته",
   "SourceUrlSlug": "wikisource",
-  "PoemSummary": "هوش مصنوعی: این متن به بیان این نکته می‌پردازد که شیطان نمی‌تواند بر مخلصان پیروز شود و سلطان با افراد بی‌چیز و مفلس همراهی نمی‌کند. همچنین اشاره می‌کند که به کسی که به عبادت و نماز اهمیت نمی‌دهد، نباید بدهی داد، حتی اگر در ظاهر به پول نیاز داشته باشد. چنین فردی، به وظایف دینی‌ش عمل نمی‌کند و از مشکلات دیگران غافل است. در پایان، به موضوع مرگ و بعد از آن اشاره می‌کند که انسان‌ها باید از دنیا می‌روند و در نهایت دیگران مسئولیت آن‌ها را بر عهده می‌گیرند.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، سعدی به این نکته اشاره می‌کند که افراد ناپاک و بی‌اعتنا به واجبات دینی قادر به برقراری ارتباط با مخلصان نیستند. او به پیروان خود می‌آموزد که باید از کمک کردن به کسانی که نماز نمی‌خوانند و به انجام واجبات دینی بی‌توجه‌اند، پرهیز کنند، زیرا آن‌ها از قرض و یاری دیگران غافل‌اند. شاعر با این سخنان به خواننده هشدار می‌دهد که از برقراری ارتباط با کسانی که فقط به ظاهر و نیازهای مادی توجه دارند، بپرهیزند.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "وامش مده آن که بی نماز است\r\nگرچه دهنش ز فاقه باز است\r\nکاو فرض خدا نمی گزارد\r\nاز قرض تو نیز غم ندارد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوامش مده آن که بی نماز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه دهنش ز فاقه باز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاو فرض خدا نمی‌گزارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قرض تو نیز غم ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 13
     },
     {
       "Index": 2,
@@ -27,7 +28,9 @@
       "RhymeLetters": "ازاست",
       "PlainText": "وامش مده آن که بی نماز است\r\nگرچه دهنش ز فاقه باز است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوامش مده آن که بی نماز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه دهنش ز فاقه باز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -37,7 +40,9 @@
       "RhymeLetters": "ارد",
       "PlainText": "کاو فرض خدا نمی گزارد\r\nاز قرض تو نیز غم ندارد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاو فرض خدا نمی‌گزارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قرض تو نیز غم ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -47,7 +52,9 @@
       "RhymeLetters": "رکن",
       "PlainText": "امروز دو مرده بیش گیرد مرکن\r\nفردا گوید تربی از اینجا بر کن",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز دو مرده بیش گیرد مرکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا گوید تربی از اینجا بر کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 5,
@@ -58,7 +65,8 @@
       "PlainText": "امروز دو مرده بیش گیرد مرکن\r\nفردا گوید تربی از اینجا بر کن",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز دو مرده بیش گیرد مرکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا گوید تربی از اینجا بر کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24
     }
   ],
   "Verses": [

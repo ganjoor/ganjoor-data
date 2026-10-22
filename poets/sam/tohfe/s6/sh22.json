@@ -6,7 +6,7 @@
   "FullUrl": "/sam/tohfe/s6/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این متن درباره شخصی به نام لر است که خود را از نسل اتابکان لرستان می‌داند و به فعالیت‌های مختلفی در زندگی پرداخته است. او ابتدا مهماندار نواب صاحبقرانی و سپس یوزباشی و خلیفه قورچیان کرد شده است. او درباره شعر نیز صحبت کرده و در اینجا شعرهایی از خود را نیز ذکر کرده است، از جمله درباره زیبایی و شرافت. در نهایت، دو بیت شعری درباره او بیان شده که نشان دهنده ترکیب نژاد وی (پدر لر و مادر کرد) و نقش شاعری او در جامعه است.",
+  "PoemSummary": "هوش مصنوعی: شعر درباره‌ی شخصیت حاجی آقا لر است که به هویت لر خود افتخار می‌کند و خود را از نسل اتابکان لرستان می‌داند. او در زمینه‌های مختلفی فعالیت کرده و درگذشته مقام‌های مهمی از جمله مهماندار نواب و یوزباشی را داشته است. شاعر به زیبایی و شرافت چهره‌ی او اشاره می‌کند و از قافیه‌های نامعقولی که در اشعار او به کار رفته، می‌گوید. در نهایت، شاعر به ترکیب‌های هویتی و نقش شاعری اشاره می‌کند و می‌گوید که شاعری برای دردها و لوندی است.",
   "Sections": [
     {
       "Index": 0,
@@ -28,7 +28,8 @@
       "PlainText": "پدر تو لر است و مادر کرد\r\nچون تو شاعر شدی بگردن خورد\r\nشاعری کار دردمندان است\r\nشاعری پیشه لوندان است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدر تو لر است و مادر کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون تو شاعر شدی بگردن خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاعری کار دردمندان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاعری پیشه لوندان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 1199
     },
     {
       "Index": 2,
@@ -38,7 +39,8 @@
       "RhymeLetters": "یدممن",
       "PlainText": "روی شه را ز دور دیدم من\r\nسر بر اوج فلک کشیدم من",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی شه را ز دور دیدم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بر اوج فلک کشیدم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -48,7 +50,9 @@
       "RhymeLetters": "رد",
       "PlainText": "پدر تو لر است و مادر کرد\r\nچون تو شاعر شدی بگردن خورد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدر تو لر است و مادر کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون تو شاعر شدی بگردن خورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 1199,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 3,
@@ -58,7 +62,8 @@
       "RhymeLetters": "باشد",
       "PlainText": "روی شه دایما چو مه باشد\r\nروی شه هر که دید شرف باشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی شه دایما چو مه باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروی شه هر که دید شرف باشد!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -68,7 +73,9 @@
       "RhymeLetters": "نداناست",
       "PlainText": "شاعری کار دردمندان است\r\nشاعری پیشه لوندان است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاعری کار دردمندان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاعری پیشه لوندان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1199,
+      "MetreRefSectionIndex": 1
     }
   ],
   "Verses": [

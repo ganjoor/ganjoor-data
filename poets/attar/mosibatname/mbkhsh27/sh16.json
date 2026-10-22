@@ -6,7 +6,7 @@
   "FullUrl": "/attar/mosibatname/mbkhsh27/sh16",
   "SourceName": "کتابخانه تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: در یک دهکده برزیگری، یک گاو ریشی بود که صاحبش دو گاو و یک خر داشت. به طور ناگهانی، وبایی در ده زندگی گاوها را تهدید کرد و صاحب گاو مجبور شد آن را بفروشد و به جای آن خر بخرد. اما ده روز پس از معامله، وبای خر نیز شروع شد. مردی ابله به دانایی می‌گوید که آیا نمی‌دانی گاو از خر بهتر است و باید می‌فهمید که وضعیت خراب است.",
+  "PoemSummary": "هوش مصنوعی: روستایی تصمیم می‌گیرد گاوش را بفروشد و به جای آن خر بخرد. بعد از ده روز، وبای خر در ده آشکار می‌شود و مردی که گاو را فروخته، به خاطر خرید خر به دانایی دیگری متوسل می‌شود. او به این موضوع اشاره می‌کند که خسارت ناشی از خرید خر را نمی‌توان به سادگی نادیده گرفت و به انتقاد از انتخاب ابلهانه‌ی خود می‌پردازد. در این حکایت، نویسنده به نقد جهل و نادانی و عواقب آن اشاره دارد.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "گاو ریشی بود در برزیگری\r\nداشت جفتی گاو و او طاق از خری\r\nاز قضا در ده وبای گاو خاست\r\nاز اجل آن روستایی داو خواست\r\nگاو را بفروخت حالی خر خرید\r\nگاویش بود و خری بر سر خرید\r\nچون گذشت از بیع ده روز از شمار\r\nشد وبای خر در آن ده آشکار\r\nمرد ابله گفت ای دانای راز\r\nگاو را از خر نمیدانی تو باز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاو ریشی بود در برزیگری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداشت جفتی گاو و او طاق از خری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز قضا در ده وبای گاو خاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز اجل آن روستائی داو خواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاو را بفروخت حالی خر خرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاویش بود و خری بر سر خرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون گذشت از بیع ده روز از شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد وبای خر در آن ده آشکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد ابله گفت ای دانای راز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاو را از خر نمیدانی تو باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ری",
       "PlainText": "گاو ریشی بود در برزیگری\r\nداشت جفتی گاو و او طاق از خری",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاو ریشی بود در برزیگری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداشت جفتی گاو و او طاق از خری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "است",
       "PlainText": "از قضا در ده وبای گاو خاست\r\nاز اجل آن روستایی داو خواست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز قضا در ده وبای گاو خاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز اجل آن روستائی داو خواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "رخرید",
       "PlainText": "گاو را بفروخت حالی خر خرید\r\nگاویش بود و خری بر سر خرید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاو را بفروخت حالی خر خرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاویش بود و خری بر سر خرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ار",
       "PlainText": "چون گذشت از بیع ده روز از شمار\r\nشد وبای خر در آن ده آشکار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون گذشت از بیع ده روز از شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد وبای خر در آن ده آشکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 6,
@@ -71,7 +80,9 @@
       "RhymeLetters": "از",
       "PlainText": "مرد ابله گفت ای دانای راز\r\nگاو را از خر نمیدانی تو باز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد ابله گفت ای دانای راز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاو را از خر نمیدانی تو باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

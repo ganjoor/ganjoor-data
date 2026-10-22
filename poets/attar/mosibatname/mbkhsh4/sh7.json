@@ -6,7 +6,7 @@
   "FullUrl": "/attar/mosibatname/mbkhsh4/sh7",
   "SourceName": "کتابخانه تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: بیدلی به پیر کهن گفت که حق است که ظالم بر همه چیز حاکم است. پیر پاسخ داد که شایسته است که ظالم وجود داشته باشد، اما او همواره در حال ظلم کردن و تحت فشار قرار دادن بسیاری از بندگانش است. هرچه به ظلم این موقعیت افزوده شود، در یک لحظه همه چیز از آن جدا خواهد شد.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، پیر حکیم به بیدلی می‌گوید که اگرچه ظالمی در این دنیا وجود دارد، اما ظلم همیشگی نیست و موقت است. او تأکید می‌کند که ظالم دارای بسیاری از بندگان است، اما هر آنچه که از طریق ظلم جمع‌آوری شده، در یک لحظه از بین خواهد رفت. به این ترتیب، پیامی از زودگذر بودن قدرت ظالم و ناپایداری ظلم در زندگی ارائه می‌دهد.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "بیدلی را گفت آن پیر کهن\r\nحق بود ظالم روا هست این سخن\r\nگفت ظالم نیست اما دایم او\r\nصد هزاران بنده دارد ظالم او\r\nهرچه جمع آری بظلم این جایگاه\r\nجمله برخیزد بیک ساعت ز راه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیدلی را گفت آن پیر کهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق بود ظالم روا هست این سخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت ظالم نیست اما دایم او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد هزاران بنده دارد ظالم او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچه جمع آری بظلم این جایگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمله برخیزد بیک ساعت ز راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ن",
       "PlainText": "بیدلی را گفت آن پیر کهن\r\nحق بود ظالم روا هست این سخن",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیدلی را گفت آن پیر کهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق بود ظالم روا هست این سخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ماو",
       "PlainText": "گفت ظالم نیست اما دایم او\r\nصد هزاران بنده دارد ظالم او",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت ظالم نیست اما دایم او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد هزاران بنده دارد ظالم او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اه",
       "PlainText": "هرچه جمع آری بظلم این جایگاه\r\nجمله برخیزد بیک ساعت ز راه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچه جمع آری بظلم این جایگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمله برخیزد بیک ساعت ز راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

@@ -6,7 +6,7 @@
   "FullUrl": "/shabestari/saadatname/bab2/fasl6/sh6",
   "SourceName": "کتابخانهٔ تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: سخن حق شبیه به رویکردی قدیمی است. هر دو کلام و آواز از دیرباز وجود داشته‌اند. اکنون این را بشنو که این مفهوم روشن است. هیچ صدایی نمی‌تواند برای همیشه باقی بماند، مانند آنکه خداوند چگونه می‌تواند پایدار باشد.",
+  "PoemSummary": "هوش مصنوعی: در این بخش از شعر، شاعر به توضیح و تحلیل مفهوم حق و صدای آن می‌پردازد و می‌گوید که سخن و آواز حقیقی، قدیم و دائمی است. او بر این باور است که هیچ صدایی دو بار نمی‌ماند و فقط صدای خداوند باقی می‌ماند. شاعر از خواننده می‌خواهد که به این حقیقت و روشنایی توجه کند و به درک عمیق‌تری از حقایق وجودی برسد. سخن در اینجا به جنبه‌های فلسفی و معنوی توجه دارد و بر استمرار و ابدیت صدای الهی تأکید می‌کند.",
   "Metre": {
     "Id": 9,
     "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
@@ -21,7 +21,8 @@
       "PlainText": "سخن حق مشبهی لییم\r\nحرف و آواز گفت هر دو قدیم\r\nعرض آنگه قدیم این بشنو\r\nهرزۀ روشن این چنین بشنو\r\nهیچ صوتی دو دم نمی​پاید\r\nمثل آن بر خدای کی شاید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن حق، مشبهی لئیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرف و آواز گفت هر دو قدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعرض آنگه قدیم!! این بشنو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرزۀ روشن این چنین بشنو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهیچ صوتی دو دم نمی​پاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمثل آن بر خدای کی شاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 9
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "یم",
       "PlainText": "سخن حق مشبهی لییم\r\nحرف و آواز گفت هر دو قدیم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن حق، مشبهی لئیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرف و آواز گفت هر دو قدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ینبشنو",
       "PlainText": "عرض آنگه قدیم این بشنو\r\nهرزۀ روشن این چنین بشنو",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعرض آنگه قدیم!! این بشنو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرزۀ روشن این چنین بشنو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اید",
       "PlainText": "هیچ صوتی دو دم نمی​پاید\r\nمثل آن بر خدای کی شاید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهیچ صوتی دو دم نمی​پاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمثل آن بر خدای کی شاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

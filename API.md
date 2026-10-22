@@ -45,7 +45,7 @@ guessing a path:
 Couplets are tagged with places, dates and people (the people may be historical or legendary
 figures, not only poets). Only approved tags are exported, with no information about who suggested
 or approved them. A couplet is addressed by its poem id and `CoupletIndex` (the same value as in
-the poem file's `Verses`).
+the poem file's `Verses`, counted from 0). A tag whose `CoupletIndex` is -1 applies to the whole poem.
 
 - `GET locations.json` — places: id, name, latitude, longitude
 - `GET people.json` — people: names, aliases, description, gender, life dates, birth/death place ids
@@ -66,6 +66,31 @@ the poem file's `Verses`).
 
 Many tags and relations are created with AI assistance and reviewed by a human moderator;
 `MachineGenerated` marks tags and records that were created by the AI.
+
+## Literary devices (آرایه‌های ادبی)
+
+Poems are annotated with literary devices such as تشبیه, استعاره or جناس. Only approved devices and
+tags are exported, with no information about who suggested or approved them.
+
+- `GET literary-devices.json` — the devices: id, key, name, category, definition, example and `Slots`.
+  A tag is made of one value per slot (e.g. a تشبیه has «مشبه» and «مشبه‌به»); a slot's `Kind` says what
+  its value holds: `Span` (words of the poem), `SpanConcept` (words and the concept they stand for),
+  `Concept` or `Text`. `Required` / `AllowMultiple` tell whether the slot must be filled / can repeat.
+- `GET literary-concepts.json` — the concepts slot values refer to (e.g. «شمع», «زلف»): id, name,
+  aliases (separated by `|`) and an optional `ParentId`
+- `GET literary-sources.json` — origin and license of imported annotations. Tags with
+  `Origin` = `AcademicCorpus` name their entry in `SourceKey`; redistributing those tags means
+  keeping that attribution and license
+- `GET index/literary-tags/{deviceId}.json` — every tag of one device across all poems, each with its `PoemId`
+- the per-poem file carries its own tags in `LiteraryTags`
+
+In a tag, `CoupletIndex` is the index of the main couplet, counted from 0 exactly like `CoupletIndex`
+in the poem file's `Verses` (`-1` means the whole poem; files of schema version 3 and older counted
+couplets from 1 and used 0 for the whole poem). A part located in the text has its own `CoupletIndex`
+(0-based, `-1` if not located), `Misra` (1 or 2) and
+`WordStart` / `WordEnd` (1-based, inclusive; the words of a hemistich split at whitespace).
+`Uncertain` marks tags the annotator was not sure about. `Origin` is `Editor`, `AcademicCorpus`,
+`Algorithm` or `AI`; `MachineGenerated` is true for the last two.
 
 ## Not included
 

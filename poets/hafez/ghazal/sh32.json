@@ -22,7 +22,8 @@
       "PlainText": "خدا چو صورت ابروی دلگشای تو بست\r\nگشاد کار من اندر کرشمه های تو بست\r\nمرا و سرو چمن را به خاک راه نشاند\r\nزمانه تا قصب نرگس قبای تو بست\r\nز کار ما و دل غنچه صد گره بگشود\r\nنسیم گل چو دل اندر پی هوای تو بست\r\nمرا به بند تو دوران چرخ راضی کرد\r\nولی چه سود که سررشته در رضای تو بست\r\nچو نافه بر دل مسکین من گره مفکن\r\nکه عهد با سر زلف گره گشای تو بست\r\nتو خود وصال دگر بودی ای نسیم وصال\r\nخطا نگر که دل امید در وفای تو بست\r\nز دست جور تو گفتم ز شهر خواهم رفت\r\nبه خنده گفت که حافظ برو که پای تو بست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدا چو صورتِ ابرویِ دلگشای تو بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشادِ کارِ من اندر کرشمه‌هایِ تو بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا و سروِ چمن را به خاکِ راه نشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمانه تا قَصَبِ نرگسِ قبای تو بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز کارِ ما و دلِ غنچه صد گره بگشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسیمِ گل چو دل اندر پیِ هوایِ تو بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا به بندِ تو دورانِ چرخ راضی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی چه سود که سررشته در رضای تو بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو نافه بر دلِ مسکینِ من گره مَفِکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عهد با سرِ زلفِ گره‌گشایِ تو بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو خود وصالِ دگر بودی ای نسیمِ وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخطا نِگر که دل امید در وفایِ تو بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دستِ جورِ تو گفتم زِ شهر خواهم رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خنده گفت که حافظ برو، که پایِ تو بست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghazal",
-      "CoupletsCount": 7
+      "CoupletsCount": 7,
+      "MetreId": 3
     }
   ],
   "Verses": [
@@ -130,6 +131,176 @@
       "Text": "به خنده گفت که حافظ برو، که پایِ تو بست؟",
       "CoupletIndex": 6,
       "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "ConceptId": 156
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "مقابل گشودن"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "آفریدن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "گره از کار کسی گشودن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "از بین بردن سختی و درد سر کسی"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "دل در هوای کسی بستن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "عاشق کسی شدن و به دنبال او رفتن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "سررشته در رضای کسی بستن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "زمام اختیار را به دست کسی دادن."
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 1
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "ConceptId": 2
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 157
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 158
+        }
+      ]
     }
   ]
 }

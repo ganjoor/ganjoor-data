@@ -6,7 +6,7 @@
   "FullUrl": "/abdullah/tabaghat/sh41",
   "SourceName": "کتابخانهٔ تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: این متن به موضوعاتی چون جستجو برای خداوند، توحید، و اهمیت تلاش در مسیر معرفت و شناخت حقیقت پرداخته است. نویسنده از دیدگاه عرفانی، به تحلیل رابطه انسان با خدا و چگونگی درک او و همچنین موانع موجود در راه شناخت پرداخته است. او تأکید می‌کند که انسان نمی‌تواند God را به طور مستقیم بیابد، چرا که حق از موانع و حجاب‌های مختلف احاطه شده است. همچنین، بیان می‌شود که جویندگان حقیقت نیاز به تلاش و رنج دارند تا درک عمیق‌تری از خداوند پیدا کنند و این مسیر فراتر از یافته‌های دنیوی است.\n\nنویسنده همچنین به مقامات مختلف شناخت و معرفت اشاره کرده و می‌گوید که کسی که به حقیقت نزدیک می‌شود، باید از تعلقات دنیوی و حجاب‌های ذهنی آزاد شده و به یک وحدت معنوی برسد. به طور کلی، متن نگاهی عمیق به جستجوی معنوی انسان دارد و بر جستجوی حقیقی و تلاش برای درک خداوند تأکید می‌کند.",
+  "PoemSummary": "هوش مصنوعی: شعر \u0022فی مناجاته\u0022 به مناجات و خواسته‌های شاعر از خداوند می‌پردازد. شاعر در این دعا به جستجوی حقیقت و شناخت خدا می‌پردازد و ابراز می‌کند که تلاش برای رسیدن به او جز با هجران خود و حجاب‌های دنیوی ممکن نیست. او در این فرآیند به ناکامی انسان در یافتن خدا بدون درک و توجه به نزدیکی او به خود اشاره می‌کند. در نهایت، شاعر بیان می‌کند که شناخت و وصول به خداوند نیازمند اراده و پشتکار است و تنها کسانی که توانایی جستجوی خالص و بدون حجاب دارند، به حقیقت نزدیک می‌شوند.",
   "Sections": [
     {
       "Index": 0,
@@ -34,16 +34,6 @@
     },
     {
       "Index": 2,
-      "Number": 2,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "م",
-      "PlainText": "اسایلکم عنها فهل من مخبره\r\nفما لی نعم بعد مکة لی علم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسایلکم عنها، فهل من مخبره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفما لی نعم بعد مکة لی علم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 2,
       "Number": 3,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -55,6 +45,17 @@
       "CoupletsCount": 4
     },
     {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "اسایلکم عنها فهل من مخبره\r\nفما لی نعم بعد مکة لی علم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسایلکم عنها، فهل من مخبره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفما لی نعم بعد مکة لی علم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 0
+    },
+    {
       "Index": 3,
       "Number": 3,
       "SectionType": "Couplet",
@@ -62,7 +63,8 @@
       "RhymeLetters": "و",
       "PlainText": "ولو کنت ادری ای حیم اهلها\r\nوای بلاداللهذظعنو امو",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولو کنت ادری ای حیم اهلها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوای بلاداللّهذظعنو، امو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -72,7 +74,8 @@
       "RhymeLetters": "م",
       "PlainText": "اذا السکنا مسلک الریح خلفها\r\nولوصحبت نعما و من دونها النجم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاذا السکنا مسلک الریح خلفها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولوصحبت نعماً و من دونها النجم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -82,7 +85,8 @@
       "RhymeLetters": "د",
       "PlainText": "الوجد یطربمن فی الوجد راحته\r\nوالوجد عند وجود الحق مفقود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالوجد یطربمن فی الوجد راحته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوالوجد عند وجود الحق مفقود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 5,
@@ -92,7 +96,8 @@
       "RhymeLetters": "د",
       "PlainText": "قد کان یطربنی وجدی فاذهلنی\r\nعن رویة الوجد من بالوجود مقصود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقد کان یطربنی وجدی فاذهلنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعن رویة الوجد من بالوجود مقصود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 6,
@@ -102,7 +107,8 @@
       "RhymeLetters": "ی",
       "PlainText": "الذکر یونسنی والوجد یطربنی\r\nوالحق یمنع عن هذا و من ذاکا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالذکر یونسنی والوجد یطربنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوالحق یمنع عن هذا و من ذاکا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 7,
@@ -112,7 +118,8 @@
       "RhymeLetters": "ا",
       "PlainText": "فلیس وجد و لا سرا به\r\nحسبی فوادی اذ نادیت لبا کا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلیس وجد و لا سراً به\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحسبی فوادی اذ نادیت لبا کا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 2
     }
   ],
   "Verses": [

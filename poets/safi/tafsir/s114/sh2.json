@@ -6,6 +6,7 @@
   "FullUrl": "/safi/tafsir/s114/sh2",
   "SourceName": "خانم مقصودی",
   "SourceUrlSlug": "maghsoodi",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به شکرگزاری از نعمت‌های الهی می‌پردازد و بیان می‌کند که خداوند با لطف و رحمت خود، او را توفیق داده تا این شعر را در مدت دو سال بسراید. او به این نکته اشاره دارد که این کار دشوار و خارج از تصور او و دیگران بوده است. شاعر در پایان بر این باور است که این آثار، نتیجه‌ای از رحمت‌های بی‌پایان خداوند است که هرگز نمی‌توان به درستی شکرگزاری کرد.",
   "Sections": [
     {
       "Index": 0,
@@ -16,7 +17,8 @@
       "PlainText": "نعمت خود بر صفی کرد او تمام\r\nشاید ار گویم سپاسش صبح و شام\r\nجز عنایات این نبود از ذوالجلال\r\nکه به نظم این نامه آید در دو سال\r\nکی مرا این بود هرگز در گمان\r\nیا گمان هیچ کس از بخردان\r\nکه دو سال این نامه بر پایان رسد\r\nبل به عمری تا که بر لب جان رسد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنعمت خود بر صفی کرد او تمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاید ار گویم سپاسش صبح و شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز عنایات این نبود از ذوالجلال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه به نظم این نامه آید در دو سال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی مرا این بود هرگز در گمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا گمان هیچ کس از بخردان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه دو سال این نامه بر پایان رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبل به عمری تا که بر لب جان رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -26,7 +28,9 @@
       "RhymeLetters": "ام",
       "PlainText": "نعمت خود بر صفی کرد او تمام\r\nشاید ار گویم سپاسش صبح و شام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنعمت خود بر صفی کرد او تمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاید ار گویم سپاسش صبح و شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -36,7 +40,9 @@
       "RhymeLetters": "ال",
       "PlainText": "جز عنایات این نبود از ذوالجلال\r\nکه به نظم این نامه آید در دو سال",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز عنایات این نبود از ذوالجلال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه به نظم این نامه آید در دو سال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -46,7 +52,9 @@
       "RhymeLetters": "ان",
       "PlainText": "کی مرا این بود هرگز در گمان\r\nیا گمان هیچ کس از بخردان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی مرا این بود هرگز در گمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا گمان هیچ کس از بخردان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -56,7 +64,9 @@
       "RhymeLetters": "انرسد",
       "PlainText": "که دو سال این نامه بر پایان رسد\r\nبل به عمری تا که بر لب جان رسد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه دو سال این نامه بر پایان رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبل به عمری تا که بر لب جان رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

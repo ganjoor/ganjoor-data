@@ -6,7 +6,7 @@
   "FullUrl": "/eraghi/lamaat/sh17",
   "SourceName": "کتابخانهٔ تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: محب مانند سایه‌ای است که هر جا محبوب برود، در پی او می‌رود. سایه از نور جدا نمی‌شود و در مسیر حق قرار دارد. شاعر می‌گوید که خلقت بدون هدف نیست و انسان‌ها باید اعمال خود را به درستی انجام دهند. جنید به سؤالی درباره توحید اشاره می‌کند و می‌گوید که باید با اخلاق خداوند متخلق شد. حلاج نیز می‌گوید که مذهب او مذهب خداست. \n\nشعرهایی که ذکر شده نشان‌دهنده‌ی عشق و پیوند عمیق میان محب و محبوب است. حقیقت وجود، سایه‌وار است و هرکجا آفتاب عشق بتابد، سایه‌ای ایجاد می‌شود که بدون آن آفتاب، وجود ندارد. هر چیزی ذات خاص خود را دارد و سایه صرفاً وجودی وابسته به چیز دیگری است. بنابراین، اگر حرکت شخصی نباشد، سایه هم حرکت نخواهد داشت. در نهایت، حقیقت انسان و خداوند یکی است و وجود واقعی در نمی‌توان در چندگانگی جستجو کرد.",
+  "PoemSummary": "هوش مصنوعی: شعر به بررسی ارتباط بین محب و محبوب می‌پردازد و تصریح می‌کند که سایه محبوب همواره در پی اوست، زیرا که این ارتباط جدایی‌ناپذیر است. مفاهیم توحید و وجود نیز در این شعر مورد اشاره قرار گرفته‌است؛ به‌طوری که محققان بر این باورند که هر موجودی در سایه وجود خداوند حرکت می‌کند و این حرکت به واسطه ارتباط با او تحقق می‌یابد. در گفتگوهای بین شخصیت‌های مانند جنید و حلاج، تأکید بر تخلق به اخلاق خداوند و درک حقیقت عالم مطرح می‌شود. در نهایت، شاعر به نوعی بر وحدت وجود و تنهایی انسان در مقابل حقیقت می‌نویسد و بیان می‌کند که موجودات در اصل عاری از خود هستند و حقیقت حقیقی تنها از آن خداوند است.",
   "Sections": [
     {
       "Index": 0,
@@ -41,7 +41,8 @@
       "PlainText": "نمی رفتم بلا شد بوی زلفش\r\nخراب اندر پی آن بویر فتم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌رفتم بلا شد بوی زلفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخراب اندر پی آن بویر فتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12
     },
     {
       "Index": 3,
@@ -52,17 +53,8 @@
       "PlainText": "روی صحرا چو همه پرتو روی تو گرفت\r\nنتواند نفسی سایه بر آن صحرا شد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی صحرا چو همه پرتو روی تو گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتواند نفسی سایه بر آن صحرا شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "م",
-      "PlainText": "نمی رفتم بلا شد بوی زلفش\r\nخراب اندر پی آن بویر فتم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌رفتم بلا شد بوی زلفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخراب اندر پی آن بویر فتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 7
     },
     {
       "Index": 4,
@@ -73,7 +65,20 @@
       "PlainText": "تا جنبش دست هست مادام\r\nسایه متحرک است ناکام\r\nچون سایه ز دست تافت مایه\r\nپس نیست خود اندر اصل سایه\r\nچیزی که وجود او بخود نیست\r\nهستیش نهادن از خرد نیست\r\nهستی که بحق قوام دارد\r\nاو نیست ولیک نام دارد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا جنبش دست هست مادام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسایه متحرک است ناکام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سایه ز دست تافت مایه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس نیست خود اندر اصل سایه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیزی که وجود او بخود نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستیش نهادن از خرد نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی که بحق قوام دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو نیست، ولیک نام دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 13
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "نمی رفتم بلا شد بوی زلفش\r\nخراب اندر پی آن بویر فتم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌رفتم بلا شد بوی زلفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخراب اندر پی آن بویر فتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 5,
@@ -83,7 +88,9 @@
       "RhymeLetters": "اشت",
       "PlainText": "آن کس که هزار عالم از رنگ نگاشت\r\nرنگ من و تو کجا خرد ای ناداشت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که هزار عالم از رنگ نگاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنگ من و تو کجا خرد؟ ای ناداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 10
     },
     {
       "Index": 6,
@@ -93,7 +100,9 @@
       "RhymeLetters": "داشت",
       "PlainText": "این رنگ همه هوس بود یا پنداشت\r\nاو بی رنگ است رنگ او باید داشت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین رنگ همه هوس بود یا پنداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو بی‌رنگ است، رنگ او باید داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 10
     },
     {
       "Index": 6,
@@ -103,7 +112,9 @@
       "RhymeLetters": "ام",
       "PlainText": "تا جنبش دست هست مادام\r\nسایه متحرک است ناکام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا جنبش دست هست مادام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسایه متحرک است ناکام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 7,
@@ -113,7 +124,9 @@
       "RhymeLetters": "ایه",
       "PlainText": "چون سایه ز دست تافت مایه\r\nپس نیست خود اندر اصل سایه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سایه ز دست تافت مایه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس نیست خود اندر اصل سایه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 8,
@@ -123,7 +136,9 @@
       "RhymeLetters": "دنیست",
       "PlainText": "چیزی که وجود او بخود نیست\r\nهستیش نهادن از خرد نیست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیزی که وجود او بخود نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستیش نهادن از خرد نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 9,
@@ -133,7 +148,9 @@
       "RhymeLetters": "امدارد",
       "PlainText": "هستی که بحق قوام دارد\r\nاو نیست ولیک نام دارد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی که بحق قوام دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو نیست، ولیک نام دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 10,
@@ -144,7 +161,8 @@
       "PlainText": "آن کس که هزار عالم از رنگ نگاشت\r\nرنگ من و تو کجا خرد ای ناداشت\r\nاین رنگ همه هوس بود یا پنداشت\r\nاو بی رنگ است رنگ او باید داشت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که هزار عالم از رنگ نگاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنگ من و تو کجا خرد؟ ای ناداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین رنگ همه هوس بود یا پنداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو بی‌رنگ است، رنگ او باید داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     }
   ],
   "Verses": [

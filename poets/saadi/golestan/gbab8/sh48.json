@@ -6,7 +6,7 @@
   "FullUrl": "/saadi/golestan/gbab8/sh48",
   "SourceName": "ویکی‌نبشته",
   "SourceUrlSlug": "wikisource",
-  "PoemSummary": "هوش مصنوعی: این اشعار دربارهٔ نادرستی مشورت با زنان و سخاوت نسبت به افراد بدذات صحبت می‌کند. همچنین اشاره دارد که وقتی به افراد خبیث محبت و اعتماد می‌شود، آنها ممکن است باعث ضرر و گناه شوند. در انتها، ترحم به موجودات خطرناک مانند پلنگ با این دیدگاه مقایسه می‌شود که این کار به نوعی ستم بر موجودات بی‌پناه مثل گوسفندهاست.",
+  "PoemSummary": "هوش مصنوعی: شعر به بررسی مشورت با زنان و بخشش به مفسدان می‌پردازد و آن‌ها را عمل‌هایی ناپسند می‌داند. سعدی دربارهٔ شخصیت‌هایی نظیر خبیثان و پلنگ سخن می‌گوید و بیان می‌کند که نیکوکرداری و ترحم بر مفسدان در واقع ظلم به افراد نیکو و معصوم است. در نهایت، این شعر به اهمیت احتیاط در تعامل با افراد بد و مفسد اشاره دارد و به خطراتی که از سوی آن‌ها متوجه جامعه می‌شود، می‌پردازد.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "خبیث را چو تعهد کنی و بنوازی\r\nبه دولت تو گنه می کند به انبازی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخبیث را چو تعهد کنی و بنوازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دولت تو گنه می‌کند به انبازی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3
     },
     {
       "Index": 1,
@@ -28,7 +29,8 @@
       "PlainText": "ترحم بر پلنگ تیز دندان\r\nستمکاری بود بر گوسپندان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترحم بر پلنگ تیز دندان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eستمکاری بود بر گوسپندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -38,7 +40,9 @@
       "RhymeLetters": "ندان",
       "PlainText": "ترحم بر پلنگ تیز دندان\r\nستمکاری بود بر گوسپندان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترحم بر پلنگ تیز دندان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eستمکاری بود بر گوسپندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 3,
@@ -48,7 +52,9 @@
       "RhymeLetters": "ازی",
       "PlainText": "خبیث را چو تعهد کنی و بنوازی\r\nبه دولت تو گنه می کند به انبازی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخبیث را چو تعهد کنی و بنوازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دولت تو گنه می‌کند به انبازی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

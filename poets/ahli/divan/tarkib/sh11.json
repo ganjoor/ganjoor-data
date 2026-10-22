@@ -6,7 +6,7 @@
   "FullUrl": "/ahli/divan/tarkib/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به ملامت‌ها و سرزنش‌های دیگران اشاره می‌کند، با این حال می‌گوید که ما بی‌گناه هستیم و از آنان نمی‌ترسیم. او از ظلم و جفا صحبت می‌کند و می‌پرسد اگر امروز ما را بکشند، در روز قیامت چه برسر آنان خواهد آمد. در نهایت، بر پیوند و ارتباط بین خود و مخاطب تأکید می‌کند.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این رباعی به انتقاد از ملامت و سرزنش مغبچگان می‌پردازد و بیان می‌کند که آنان چگونه می‌توانند او را به دلیل بی‌گناهی و بدون ارتکاب خطا مقصر بدانند. او در عین حال به سرنوشتی که ممکن است پیش آید، اشاره می‌کند و می‌گوید حتی اگر امروز او را بکشند، باز هم در روز قیامت چه معنایی خواهد داشت. در نهایت، شاعر بر این نکته تأکید می‌کند که او و ملامت‌کنندگان در یک موقعیت قرار دارند و سرنوشتشان به یکدیگر مرتبط است.",
   "Metre": {
     "Id": 24,
     "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
@@ -21,7 +21,8 @@
       "PlainText": "این مغبچگان به ما ملامت چه کنند\r\nبی جرم و خطا\r\nما را به در از کوی سلامت چه کنند\r\nاز راه جفا\r\nامروز اگر کشند ما را بستم\r\nوز پیش برند\r\nفردا که بود روز قیامت چه کنند\r\nماییم و شما",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مغبچگان به ما ملامت چه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی جرم و خطا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را به در از کوی سلامت چه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز راه جفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز اگر کشند ما را بستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز پیش برند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا که بود روز قیامت چه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماییم و شما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "RobaeeMostazad",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 24
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "بیجرموخطا",
       "PlainText": "این مغبچگان به ما ملامت چه کنند\r\nبی جرم و خطا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مغبچگان به ما ملامت چه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی جرم و خطا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ازراهجفا",
       "PlainText": "ما را به در از کوی سلامت چه کنند\r\nاز راه جفا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را به در از کوی سلامت چه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز راه جفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "د",
       "PlainText": "امروز اگر کشند ما را بستم\r\nوز پیش برند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز اگر کشند ما را بستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز پیش برند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ماییموشما",
       "PlainText": "فردا که بود روز قیامت چه کنند\r\nماییم و شما",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا که بود روز قیامت چه کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماییم و شما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

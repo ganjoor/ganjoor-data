@@ -6,7 +6,7 @@
   "FullUrl": "/saadi/golestan/gbab2/sh18",
   "SourceName": "ویکی‌نبشته",
   "SourceUrlSlug": "wikisource",
-  "PoemSummary": "هوش مصنوعی: در این متن، داستان عابدی روایت می‌شود که از پادشاه طلب شد. او فکر کرد که با خوردن دارویی خود را ضعیف کند تا ایمانش به خدا بیشتر شود. در نهایت، او داروی کشنده‌ای نوشید و جان خود را از دست داد. توصیف او به عنوان شخصی که تمام مغز دارد و پوستش به هم چسبیده است، نشان‌دهنده عمق و خلوص ایمانش است. همچنین اشاره‌ای به این نکته می‌شود که پارسایان گاهی در برابر مخلوقات، پشت به قبله نماز می‌خوانند و این که بنده واقعی خدا باید تنها به او توجه داشته باشد و به چیز دیگری ننگرد.",
+  "PoemSummary": "هوش مصنوعی: در این حکایت، پادشاهی عابدی را طلب می‌کند تا اعتقاداتش را مورد آزمایش قرار دهد. عابد فکر می‌کند که اگر دارویی بخورد تا ضعیف شود، شاید در ایمانش به پادشاه افزوده گردد. اما او داروی کشنده می‌گذارد و می‌میرد. این داستان به نقدی از هراس‌ها و تظاهرها در دینی و تلاش انسان برای جدای نگه‌داشتن ایمان از دنیای مادی می‌پردازد و در نهایت به اهمیت تمرکز بر خداوند در عبادت اشاره دارد.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "آن که چون پسته دیدمش همه مغز \r\nپوست بر پوست بود همچو پیاز\r\nپارسایان روی در مخلوق \r\nپشت بر قبله می کنند نماز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن که چون پسته دیدمش همه مغز \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپوست بر پوست بود همچو پیاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپارسایانِ رویْ در مخلوق \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت بر قبله، می‌کنند نماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 9
     },
     {
       "Index": 2,
@@ -27,7 +28,9 @@
       "RhymeLetters": "ز",
       "PlainText": "آن که چون پسته دیدمش همه مغز \r\nپوست بر پوست بود همچو پیاز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن که چون پسته دیدمش همه مغز \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپوست بر پوست بود همچو پیاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -37,7 +40,9 @@
       "RhymeLetters": "پشتبرقبلهمیکنندنماز",
       "PlainText": "پارسایان روی در مخلوق \r\nپشت بر قبله می کنند نماز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپارسایانِ رویْ در مخلوق \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت بر قبله، می‌کنند نماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -47,7 +52,9 @@
       "RhymeLetters": "اند",
       "PlainText": "چون بنده خدای خویش خواند \r\nباید که به جز خدا نداند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بنده خدایِ خویش خوانَد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباید که به جز خدا نداند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 5,
@@ -58,7 +65,8 @@
       "PlainText": "چون بنده خدای خویش خواند \r\nباید که به جز خدا نداند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بنده خدایِ خویش خوانَد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباید که به جز خدا نداند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13
     }
   ],
   "Verses": [

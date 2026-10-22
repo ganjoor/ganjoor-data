@@ -1,0 +1,152 @@
+[
+  {
+    "PoemId": 2266,
+    "CoupletIndex": 2,
+    "DeviceId": 11,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 25,
+        "CoupletIndex": 2,
+        "Misra": 1,
+        "WordStart": 3,
+        "WordEnd": 3
+      },
+      {
+        "SlotId": 25,
+        "CoupletIndex": 2,
+        "Misra": 2,
+        "WordStart": 4,
+        "WordEnd": 4
+      },
+      {
+        "SlotId": 26,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "ConceptId": 1250
+      }
+    ]
+  },
+  {
+    "PoemId": 9324,
+    "CoupletIndex": 1,
+    "DeviceId": 11,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 25,
+        "CoupletIndex": 1,
+        "Misra": 2,
+        "WordStart": 1,
+        "WordEnd": 2
+      },
+      {
+        "SlotId": 25,
+        "CoupletIndex": 1,
+        "Misra": 2,
+        "WordStart": 6,
+        "WordEnd": 6
+      },
+      {
+        "SlotId": 26,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "ConceptId": 1255
+      }
+    ]
+  },
+  {
+    "PoemId": 9667,
+    "CoupletIndex": 0,
+    "DeviceId": 11,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 25,
+        "CoupletIndex": 0,
+        "Misra": 2,
+        "WordStart": 1,
+        "WordEnd": 1
+      },
+      {
+        "SlotId": 25,
+        "CoupletIndex": 0,
+        "Misra": 2,
+        "WordStart": 3,
+        "WordEnd": 3
+      },
+      {
+        "SlotId": 26,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "ConceptId": 1228
+      }
+    ]
+  },
+  {
+    "PoemId": 9726,
+    "CoupletIndex": 2,
+    "DeviceId": 11,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 25,
+        "CoupletIndex": 2,
+        "Misra": 1,
+        "WordStart": 2,
+        "WordEnd": 2
+      },
+      {
+        "SlotId": 25,
+        "CoupletIndex": 2,
+        "Misra": 2,
+        "WordStart": 2,
+        "WordEnd": 2
+      },
+      {
+        "SlotId": 26,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "ConceptId": 1253
+      }
+    ]
+  },
+  {
+    "PoemId": 9726,
+    "CoupletIndex": 2,
+    "DeviceId": 11,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 25,
+        "CoupletIndex": 2,
+        "Misra": 1,
+        "WordStart": 6,
+        "WordEnd": 6
+      },
+      {
+        "SlotId": 25,
+        "CoupletIndex": 2,
+        "Misra": 2,
+        "WordStart": 6,
+        "WordEnd": 6
+      },
+      {
+        "SlotId": 26,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "ConceptId": 1254
+      }
+    ]
+  }
+]

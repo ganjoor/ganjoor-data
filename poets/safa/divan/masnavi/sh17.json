@@ -6,7 +6,7 @@
   "FullUrl": "/safa/divan/masnavi/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این شعر روایت‌گر سیر و سفر سالکان و انسان‌هاست. شاعر به این نکته اشاره دارد که هیچ‌گاه پایان یا انتهایی برای روند سیر و تکامل انسان وجود ندارد. هرچند در این بحث ممکن است که شخصی درست و قابل اعتماد باشد، اما در نهایت به تحقیق و دقت بیشتری نیاز داریم.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به بیان روایت‌هایی از سالکان و سیر و سفر آنها می‌پردازد. او می‌گوید این سفر و سیر هرگز پایان ندارد و به دنبال درک عمیق‌تری از این مسیر است. در این راستا، او به امکان اشاره‌ای دارد که ممکن است در این سخن‌ها خطا وجود داشته باشد، اما در اصل این سیر انسانی همواره ادامه دارد و محدودیتی برای آن نیست.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "چنین کردند از قومی روایت\r\nکه سیر سالکان دارد نهایت\r\nو گوید آنکه در گفتش خطا نیست\r\nکه سیر آدمی را انتهی نیست\r\nتوان دادن درین گفتار توفیق\r\nو یا باشد یکی بیرون ز تحقیق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین کردند از قومی روایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سیر سالکان دارد نهایت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو گوید آنکه در گفتش خطا نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سیر آدمی را انتهی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوان دادن درین گفتار توفیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو یا باشد یکی بیرون ز تحقیق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ایت",
       "PlainText": "چنین کردند از قومی روایت\r\nکه سیر سالکان دارد نهایت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین کردند از قومی روایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سیر سالکان دارد نهایت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "انیست",
       "PlainText": "و گوید آنکه در گفتش خطا نیست\r\nکه سیر آدمی را انتهی نیست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو گوید آنکه در گفتش خطا نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سیر آدمی را انتهی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "یق",
       "PlainText": "توان دادن درین گفتار توفیق\r\nو یا باشد یکی بیرون ز تحقیق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوان دادن درین گفتار توفیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو یا باشد یکی بیرون ز تحقیق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

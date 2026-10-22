@@ -6,7 +6,7 @@
   "FullUrl": "/bahar/masnavibk/sh23",
   "SourceName": "پروژهٔ بازبینی OCR",
   "SourceUrlSlug": "ocr",
-  "PoemSummary": "هوش مصنوعی: در این بیت‌ها، شاعر به ترس کودکانه و تأثیر آن بر رشد و پیشرفت انسان اشاره می‌کند. می‌گوید که هر چه ترس در دل کودک بیشتر شود، او به مرور بزرگ‌تر خواهد شد. همچنین به درختی اشاره می‌کند که بر روی آن هیچ‌کس یادگاری نمی‌گذارد، اما پوست درخت با گذشت زمان بزرگ‌تر می‌شود، با این حال، آن نشانه‌ها پاک نمی‌شوند. در کل، متن به تأثیر ترس و خاطرات منفی بر زندگی انسان‌ها می‌پردازد.",
+  "PoemSummary": "هوش مصنوعی: شعر به ترس و تأثیر آن بر روحیه و رفتار انسان‌ها می‌پردازد. در اینجا، نویسنده به مقایسه میان کودکی که تحت تأثیر ترس قرار می‌گیرد و جوانی که به رشد و تعالی می‌رسد، اشاره می‌کند. او بیان می‌کند که ترس باعث می‌شود که برخی از نشانه‌های ضعف یا زخم‌های روحی در وجود افراد باقی بماند و هرچند ممکن است فرد عمیقاً بهبود یابد، اما ردپای ترس هرگز کمرنگ نمی‌شود. در نهایت، شاعر به تعادل میان رشد و آثار گذشته اشاره دارد.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "چو ترسی در دل کودک مکان کرد\r\nببالد هر چه بالاتر رود مرد\r\nنبینی تو که بر نورس چناری\r\nنگارد کس به چاقو یادگاری\r\nببالد پوست آرد پوست ریزد\r\nولی آن نقش از وی برنخیزد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو ترسی در دل کودک مکان کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eببالد هر چه بالاتر رود مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبینی تو که بر نورس چناری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگارد کس به چاقو یادگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eببالد، پوست آرد، پوست ریزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی آن نقش از وی برنخیزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "رد",
       "PlainText": "چو ترسی در دل کودک مکان کرد\r\nببالد هر چه بالاتر رود مرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو ترسی در دل کودک مکان کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eببالد هر چه بالاتر رود مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "اری",
       "PlainText": "نبینی تو که بر نورس چناری\r\nنگارد کس به چاقو یادگاری",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبینی تو که بر نورس چناری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگارد کس به چاقو یادگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "یزد",
       "PlainText": "ببالد پوست آرد پوست ریزد\r\nولی آن نقش از وی برنخیزد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eببالد، پوست آرد، پوست ریزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی آن نقش از وی برنخیزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

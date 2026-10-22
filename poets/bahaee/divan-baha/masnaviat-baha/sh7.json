@@ -6,7 +6,7 @@
   "FullUrl": "/bahaee/divan-baha/masnaviat-baha/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این شعر به توصیف اثرات دلنشین و روح‌بخش نسیم صبحگاهی می‌پردازد که گویی از سرزمین عجم (ایران) و به خصوص از اقلیم عراق می‌آید. شاعر با اشاره به اشتیاق و تازگی‌ای که این نسیم به ارمغان می‌آورد، به نوعی حس حیات را در افرادی که مدت‌ها بی‌احساس بوده‌اند، یادآور می‌شود. همچنین به زیبایی و زندگی بخشی این نسیم اشاره می‌کند که مانند یک معجزه، موجب احیای روح و جان افراد می‌شود.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از نسیم صبحگاهی دعوت می‌کند که با خود زندگی و نشاط به ارمغان بیاورد. او به تأثیرگذاری این نسیم بر دل‌ها و روح‌ها اشاره دارد و احساس درد و اشتیاقی را که از وجود این نسیم برمی‌خیزد، بیان می‌کند. از نظر او، این نسیم می‌تواند حتی جان مردگان را نیز دوباره زنده کند و به نوعی نماد حیات و دگرگونی است. شاعر همچنین به نقش سرزمین‌های مشهور مانند اصفهان و عراق در انتقال این حال و هوا تأکید می‌کند.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "روح بخشی ای نسیم صبحدم\r\nخود مگر می آیی از ملک عجم\r\nتازه گردید از تو درد اشتیاق\r\nمی رسی گویا ز اقلیم عراق\r\nمرده صد ساله یابد از تو جان\r\nتو مگر کردی گذر از اصفهان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروح بخشی، ای نسیم صبحدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود مگر می‌آیی از ملک عجم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتازه گردید از تو درد اشتیاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌رسی گویا ز اقلیم عراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردهٔ صد ساله یابد از تو جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو مگر کردی گذر از اصفهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "م",
       "PlainText": "روح بخشی ای نسیم صبحدم\r\nخود مگر می آیی از ملک عجم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروح بخشی، ای نسیم صبحدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود مگر می‌آیی از ملک عجم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "اق",
       "PlainText": "تازه گردید از تو درد اشتیاق\r\nمی رسی گویا ز اقلیم عراق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتازه گردید از تو درد اشتیاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌رسی گویا ز اقلیم عراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ان",
       "PlainText": "مرده صد ساله یابد از تو جان\r\nتو مگر کردی گذر از اصفهان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردهٔ صد ساله یابد از تو جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو مگر کردی گذر از اصفهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

@@ -6,7 +6,7 @@
   "FullUrl": "/moulavi/masnavi/daftar3/sh64",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این متن، یک فرد دانا به گروهی از کودکان می‌گوید که درس بخوانند و صدای بلندی داشته باشند. او به آنها می‌آموزد که وقتی در کلاس درس به صدا در می‌آیند، ممکن است برای معلم دردسر ایجاد کنند. او به کودکان توصیه می‌کند که اگر صدای آنها باعث زحمت معلم می‌شود، بهتر است که از کلاس خارج شوند تا معلم با آرامش به تدریس بپردازد.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، کودکان تحت آموزش یک استاد مشغول قرآن خواندن هستند. یکی از آنها به دیگران می‌گوید که صدای بلند آنها ممکن است باعث دردسر برای استاد شود. او تأکید می‌کند که ذهن استاد ممکن است از سر و صدا مشوش شود و این به جای یادگیری، موجب زحمت برای او خواهد شد. در نهایت، دیگر کودکان به این صحبت گوش می‌دهند و تصمیم می‌گیرند که با آرامش بیشتری درس بخوانند تا استاد اذیت نشود.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "گفت آن زیرک که ای قوم پسند\r\nدرس خوانید و کنید آوا بلند\r\nچون همی خواندند گفت ای کودکان\r\nبانگ ما استاد را دارد زیان\r\nدرد سر افزاید استا را ز بانگ\r\nارزد این کو درد یابد بهر دانگ\r\nگفت استا راست می گوید روید\r\nدرد سر افزون شدم بیرون شوید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن زیرک که ای قوم پسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرس خوانید و کنید آوا بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون همی‌خواندند گفت ای کودکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبانگ ما استاد را دارد زیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد سر افزاید استا را ز بانگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eارزد این کو درد یابد بهر دانگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت استا راست می‌گوید روید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد سر افزون شدم بیرون شوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ند",
       "PlainText": "گفت آن زیرک که ای قوم پسند\r\nدرس خوانید و کنید آوا بلند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن زیرک که ای قوم پسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرس خوانید و کنید آوا بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ان",
       "PlainText": "چون همی خواندند گفت ای کودکان\r\nبانگ ما استاد را دارد زیان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون همی‌خواندند گفت ای کودکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبانگ ما استاد را دارد زیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "انگ",
       "PlainText": "درد سر افزاید استا را ز بانگ\r\nارزد این کو درد یابد بهر دانگ",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد سر افزاید استا را ز بانگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eارزد این کو درد یابد بهر دانگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "وید",
       "PlainText": "گفت استا راست می گوید روید\r\nدرد سر افزون شدم بیرون شوید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت استا راست می‌گوید روید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد سر افزون شدم بیرون شوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

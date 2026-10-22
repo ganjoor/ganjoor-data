@@ -7,7 +7,7 @@
   "RhymeLetters": "رستم",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به فضای جشن و شادابی اشاره می‌کند. او از گذاشتن منقل در شبستان و برگزاری یک مجلس شاد صحبت می‌کند و از غلامان می‌خواهد که مشک را سایند و از کنیزان می‌خواهد که عود بسوزند تا عطر خوشی در فضا بپیچد. این توصیف نشان‌دهنده‌ی آماده‌سازی برای یک جشن یا مهمانی است که در آن حضور مستان و خوش‌گذرانان است.",
+  "PoemSummary": "هوش مصنوعی: در این نامه، قائم مقام فراهانی به فرزندش محمد توصیه می‌کند تا در شبستان جشن و سروری برگزار کند. او از او می‌خواهد که نارنج و بنفشه را بر طبق بگذارد و برای مستان فرصتی برای لذت بردن فراهم کند. همچنین، از غلامان و کنیزان خواسته می‌شود تا اقداماتی مانند ساییدن مشک و سوزاندن عود انجام دهند تا جوی خوشایند و شاداب برای مهمانان ایجاد شود.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -22,7 +22,8 @@
       "PlainText": "نارنج و بنفشه بر طبق نه\r\nمنقل بگذار در شبستان\r\nوان پرده بگوی تا به یک بار\r\nزحمت ببرد زپیش مستان\r\nغلامان را بگو تا مشک سایند\r\nکنیزان را بگو تا عود سوزند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنارنج و بنفشه بر طبق نه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنقل بگذار در شبستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان پرده بگوی تا به یک بار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزحمت ببرد زپیش مستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغلامان را بگو تا مشک سایند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنیزان را بگو تا عود سوزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 13
     },
     {
       "Index": 2,
@@ -32,7 +33,9 @@
       "RhymeLetters": "ن",
       "PlainText": "نارنج و بنفشه بر طبق نه\r\nمنقل بگذار در شبستان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنارنج و بنفشه بر طبق نه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنقل بگذار در شبستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -42,7 +45,9 @@
       "RhymeLetters": "ن",
       "PlainText": "وان پرده بگوی تا به یک بار\r\nزحمت ببرد زپیش مستان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان پرده بگوی تا به یک بار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزحمت ببرد زپیش مستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -52,7 +57,9 @@
       "RhymeLetters": "ند",
       "PlainText": "غلامان را بگو تا مشک سایند\r\nکنیزان را بگو تا عود سوزند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغلامان را بگو تا مشک سایند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنیزان را بگو تا عود سوزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

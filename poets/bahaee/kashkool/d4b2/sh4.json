@@ -6,7 +6,7 @@
   "FullUrl": "/bahaee/kashkool/d4b2/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این متن شامل اشعار و اندیشه‌های عرفانی و فلسفی است که به عشق، زندگی و انسانیت می‌پردازد. شاعر به دنبال هویت و معنای واقعی عشق و تلاش برای فهم خود و ارتباط با خداوند است. در بخشی از متن، به علم و دانش و تاثیر آن بر زندگی اشاره می‌شود. همچنین به دوگانگی‌های انسان در دنیا و ارزش‌های معنوی پرداخته شده است.\n\nداستان‌هایی از شخصیت‌های تاریخی و مذهبی مانند پیامبر اسلام و امامان نیز در متن وجود دارد که نشان‌دهنده‌ی ارزش‌های اخلاقی و انسانی است. در این میان، تاکید بر ریاضت نفس و پاکسازی باطن از عادات ناپسند و همچنین رویکرد عارفان به زندگی و دنیا و قضاوت‌های آنان در مورد عشق و زن به چشم می‌خورد.\n\nدر نهایت، متن به مسائلی چون ایمان، حکمت، فطرت انسان و تعاملات اجتماعی می‌پردازد و در زمینه‌های معنوی و فلسفی تفکرات عمیق ارائه می‌دهد.",
+  "PoemSummary": "هوش مصنوعی: شعر به مضامین عرفانی و اخلاقی پرداخته و دیدگاه‌های مختلفی را درباره عشق، علم و دنیا مطرح می‌کند. شاعر از دل بی‌قرار خویش می‌گوید که همواره در جستجوی عشق و حقیقت است و خواهان علم لدنی است. در عین حال، به توجه به دنیا و مسائل آن نقد می‌کند و به اهمیت توجه به باطن انسان و پاکسازی دل تأکید دارد. در بخش‌های دیگر، اشاراتی به داستان‌هایی از پیامبران و حکمت‌های بزرگان وجود دارد که بر اهمیت معرفت و تقوی در زندگی تأکید دارد. بخش دیگری از شعر به تعارضات عشق و دنیا و نیل به آرامش می‌پردازد و خواستار دوری از غفلت و رسیدن به علم و حقیقت است.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "کدام روز بیک جا قرار داشت دلم\r\nهمیشه این دل بی خانمان هوایی بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدام روز بیک جا قرار داشت دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه این دل بی خانمان هوائی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3
     },
     {
       "Index": 1,
@@ -28,17 +29,8 @@
       "PlainText": "خسروان را همه اسباب فراغت دادند\r\nوز همه خسرو بیچاره فراغت دارد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخسروان را همه اسباب فراغت دادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز همه خسرو بیچاره فراغت دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 2,
-      "Number": 2,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "د",
-      "PlainText": "کدام روز بیک جا قرار داشت دلم\r\nهمیشه این دل بی خانمان هوایی بود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدام روز بیک جا قرار داشت دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه این دل بی خانمان هوائی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 7
     },
     {
       "Index": 2,
@@ -49,17 +41,20 @@
       "PlainText": "هر که را حسنی بود آیینه دار روی اوست\r\nهر که دارد داغ عشقی از سگان کوی اوست\r\nفتنه ی پیران نه تنها شد که طفل مکتبی\r\nچون الف گوید مرادش قامت دلجوی اوست\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nعشق خود یاری دهد یعنی که کار کوه کن\r\nقوت بازوی عشق است آن نه از بازوی اوست\r\nمست آن چشم اند اهلی نوغزالان جهان\r\nوه که هر جا هست صیادی سگ آهوی اوست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را حسنی بود آیینه دار روی اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که دارد داغ عشقی از سگان کوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتنه ی پیران نه تنها شد که طفل مکتبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون الف گوید مرادش قامت دلجوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق خود یاری دهد یعنی که کار کوه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت بازوی عشق است آن نه از بازوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست آن چشم اند اهلی، نوغزالان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه که هر جا هست صیادی سگ آهوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 8
     },
     {
-      "Index": 3,
-      "Number": 3,
+      "Index": 2,
+      "Number": 2,
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "د",
-      "PlainText": "خسروان را همه اسباب فراغت دادند\r\nوز همه خسرو بیچاره فراغت دارد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخسروان را همه اسباب فراغت دادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز همه خسرو بیچاره فراغت دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "PlainText": "کدام روز بیک جا قرار داشت دلم\r\nهمیشه این دل بی خانمان هوایی بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدام روز بیک جا قرار داشت دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه این دل بی خانمان هوائی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -70,7 +65,8 @@
       "PlainText": "ای بروی تو هر که را نظری است\r\nخاک پای تو هر کجا که سری است\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nدل که دروی حدیث غیر گذشت\r\nجان من نیست دل که رهگذری است\r\nاز سر کوچه ی بلا بگذر\r\nکه از آن سو به کوی عشق دری است\r\nآذری عشق کی توان آموخت\r\nگرچه نزدیک عاشقان سیری است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بروی تو هر که را نظری است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک پای تو هر کجا که سری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل که دروی حدیث غیر گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان من نیست دل که رهگذری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر کوچه ی بلا بگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن سو به کوی عشق دری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآذری عشق کی توان آموخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه نزدیک عاشقان سیری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 9
     },
     {
       "Index": 3,
@@ -80,7 +76,45 @@
       "RhymeLetters": "بسیاربگردندوگنهکارنیابند",
       "PlainText": "در محشر اگر لطف تو خیزد به شفاعت\r\nبسیار بگردند و گنه کار نیابند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر محشر اگر لطف تو خیزد به شفاعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسیار بگردند و گنه کار نیابند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 10,
+      "MetreRefSectionIndex": 24
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "خسروان را همه اسباب فراغت دادند\r\nوز همه خسرو بیچاره فراغت دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخسروان را همه اسباب فراغت دادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز همه خسرو بیچاره فراغت دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "صاحبدلی به مدرسه آمد ز خانقاه\r\nبشکست عهد صحبت اهل طریق را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحبدلی به مدرسه آمد ز خانقاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشکست عهد صحبت اهل طریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ویاوست",
+      "PlainText": "هر که را حسنی بود آیینه دار روی اوست\r\nهر که دارد داغ عشقی از سگان کوی اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را حسنی بود آیینه دار روی اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که دارد داغ عشقی از سگان کوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 8,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 4,
@@ -90,7 +124,9 @@
       "RhymeLetters": "ی",
       "PlainText": "سعدی تو کیستی که دم از عشق می زنی\r\nدعوی بندگی کن و اقرار چاکری",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدی تو کیستی که دم از عشق می زنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدعوی بندگی کن و اقرار چاکری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 23
     },
     {
       "Index": 4,
@@ -101,27 +137,56 @@
       "PlainText": "خیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب\r\nباش قانع به نشان قدم ناقه ی صبر\r\nخاک خور خاک در این راه و زکس نان مطلب\r\nپرده های دل سودا زده ی خونین را\r\nبا سرخار کن و لاله ی نعمان مطلب\r\nدل پریشان مکن از ژنده ی صدپاره ی خویش\r\nسر برون آر زدامان و گریبان مطلب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباش قانع به نشان قدم ناقه ی صبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک خور، خاک در این راه و زکس نان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده های دل سودا زده ی خونین را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سرخار کن و لاله ی نعمان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل پریشان مکن از ژنده ی صدپاره ی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر برون آر زدامان و گریبان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 7
     },
     {
-      "Index": 4,
-      "Number": 4,
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ریاست",
+      "PlainText": "دل گفت مرا علم لدنی هوس است\r\nتعلیمم کن اگر ترا دست رس است\r\nگفتم میان عالم و عابد چه فرق بود\r\nتا اختیار کردی از آن این فریق را\r\nفتنه ی پیران نه تنها شد که طفل مکتبی\r\nچون الف گوید مرادش قامت دلجوی اوست\r\nای بروی تو هر که را نظری است\r\nخاک پای تو هر کجا که سری است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت مرا علم لَدُنی هوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعلیمم کن اگر تُرا دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم میان عالم و عابد چه فرق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اختیار کردی از آن این فریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتنه ی پیران نه تنها شد که طفل مکتبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون الف گوید مرادش قامت دلجوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بروی تو هر که را نظری است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک پای تو هر کجا که سری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ساست",
+      "PlainText": "دل گفت مرا علم لدنی هوس است\r\nتعلیمم کن اگر ترا دست رس است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت مرا علم لَدُنی هوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعلیمم کن اگر تُرا دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 22
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "دل گفت مرا علم لدنی هوس است\r\nتعلیمم کن اگر ترا دست رس است\r\nگفتم میان عالم و عابد چه فرق بود\r\nتا اختیار کردی از آن این فریق را\r\nفتنه ی پیران نه تنها شد که طفل مکتبی\r\nچون الف گوید مرادش قامت دلجوی اوست\r\nای بروی تو هر که را نظری است\r\nخاک پای تو هر کجا که سری است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت مرا علم لَدُنی هوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعلیمم کن اگر تُرا دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم میان عالم و عابد چه فرق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اختیار کردی از آن این فریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتنه ی پیران نه تنها شد که طفل مکتبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون الف گوید مرادش قامت دلجوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بروی تو هر که را نظری است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک پای تو هر کجا که سری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 8,
+      "MetreRefSectionIndex": 2
+    },
+    {
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "ا",
-      "PlainText": "صاحبدلی به مدرسه آمد ز خانقاه\r\nبشکست عهد صحبت اهل طریق را",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحبدلی به مدرسه آمد ز خانقاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشکست عهد صحبت اهل طریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ویاوست",
-      "PlainText": "هر که را حسنی بود آیینه دار روی اوست\r\nهر که دارد داغ عشقی از سگان کوی اوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را حسنی بود آیینه دار روی اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که دارد داغ عشقی از سگان کوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "PlainText": "دل گفت مرا علم لدنی هوس است\r\nتعلیمم کن اگر ترا دست رس است\r\nگفتم میان عالم و عابد چه فرق بود\r\nتا اختیار کردی از آن این فریق را\r\nفتنه ی پیران نه تنها شد که طفل مکتبی\r\nچون الف گوید مرادش قامت دلجوی اوست\r\nای بروی تو هر که را نظری است\r\nخاک پای تو هر کجا که سری است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت مرا علم لَدُنی هوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعلیمم کن اگر تُرا دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم میان عالم و عابد چه فرق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اختیار کردی از آن این فریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتنه ی پیران نه تنها شد که طفل مکتبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون الف گوید مرادش قامت دلجوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بروی تو هر که را نظری است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک پای تو هر کجا که سری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 5,
@@ -132,97 +197,8 @@
       "PlainText": "آفتاب نیمروزی و به خدمت کردنت\r\nمیرسد خورشید اگر در نیمه شب میخوانیش\r\nزن گرنه یکی هزار باشد\r\nدر عهد کم استوار باشد\r\nچون نقش وفا و عهد بستند\r\nبر نام زنان قلم شکستند\r\nزن دوست بود ولی زمانی\r\nتا جز تو نیافت مهربانی\r\nزن رست نیارد آن چه بازد\r\nجز زرق نسازد آنچه سازد\r\nبسیار جفای زن کشیدند\r\nدر هیچ زنی وفا ندیدند\r\nزن چیست فسانه گاه نیرنگ\r\nدر ظاهر صلح و در نهان جنگ\r\nدر دشمنی آفت جهان است\r\nچون دوست شود بلای جان است\r\nزن میل به مرد بیش دارد\r\nلیکن سر کار خویش دارد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفتاب نیمروزی و به خدمت کردنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیرسد خورشید اگر در نیمه شب میخوانیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن گرنه یکی هزار باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عهد، کم استوار باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نقش وفا و عهد بستند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر نام زنان قلم شکستند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن دوست بود ولی زمانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا جز تو نیافت مهربانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن رست نیارد آن چه بازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز زرق نسازد آنچه سازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسیار جفای زن کشیدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر هیچ زنی وفا ندیدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن چیست؟ فسانه گاه نیرنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ظاهر صلح و در نهان جنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دشمنی آفت جهان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دوست شود بلای جان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن میل به مرد بیش دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن سر کار خویش دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 9
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ت",
-      "PlainText": "دل گفت مرا علم لدنی هوس است\r\nتعلیمم کن اگر ترا دست رس است\r\nگفتم میان عالم و عابد چه فرق بود\r\nتا اختیار کردی از آن این فریق را\r\nفتنه ی پیران نه تنها شد که طفل مکتبی\r\nچون الف گوید مرادش قامت دلجوی اوست\r\nای بروی تو هر که را نظری است\r\nخاک پای تو هر کجا که سری است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت مرا علم لَدُنی هوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعلیمم کن اگر تُرا دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم میان عالم و عابد چه فرق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اختیار کردی از آن این فریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتنه ی پیران نه تنها شد که طفل مکتبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون الف گوید مرادش قامت دلجوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بروی تو هر که را نظری است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک پای تو هر کجا که سری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "دل گفت مرا علم لدنی هوس است\r\nتعلیمم کن اگر ترا دست رس است\r\nگفتم میان عالم و عابد چه فرق بود\r\nتا اختیار کردی از آن این فریق را\r\nفتنه ی پیران نه تنها شد که طفل مکتبی\r\nچون الف گوید مرادش قامت دلجوی اوست\r\nای بروی تو هر که را نظری است\r\nخاک پای تو هر کجا که سری است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت مرا علم لَدُنی هوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعلیمم کن اگر تُرا دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم میان عالم و عابد چه فرق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اختیار کردی از آن این فریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتنه ی پیران نه تنها شد که طفل مکتبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون الف گوید مرادش قامت دلجوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بروی تو هر که را نظری است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک پای تو هر کجا که سری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ریاست",
-      "PlainText": "دل گفت مرا علم لدنی هوس است\r\nتعلیمم کن اگر ترا دست رس است\r\nگفتم میان عالم و عابد چه فرق بود\r\nتا اختیار کردی از آن این فریق را\r\nفتنه ی پیران نه تنها شد که طفل مکتبی\r\nچون الف گوید مرادش قامت دلجوی اوست\r\nای بروی تو هر که را نظری است\r\nخاک پای تو هر کجا که سری است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت مرا علم لَدُنی هوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعلیمم کن اگر تُرا دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم میان عالم و عابد چه فرق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اختیار کردی از آن این فریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتنه ی پیران نه تنها شد که طفل مکتبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون الف گوید مرادش قامت دلجوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بروی تو هر که را نظری است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک پای تو هر کجا که سری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ساست",
-      "PlainText": "دل گفت مرا علم لدنی هوس است\r\nتعلیمم کن اگر ترا دست رس است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت مرا علم لَدُنی هوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعلیمم کن اگر تُرا دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "درخانهاگرکساستیکحرفبساست",
-      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ت",
-      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است\r\nگفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nخیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "رانمطلب",
-      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است\r\nگفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nخیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است\r\nگفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nخیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ت",
-      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است\r\nگفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nخیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 9,
+      "MetreId": 13
     },
     {
       "Index": 6,
@@ -233,7 +209,128 @@
       "PlainText": "مژده ای دل که مسیحا نفسی می آید\r\nکه زانفاس خوشش بوی کسی می آید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمژده ای دل که مسیحا نفسی می آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه زانفاس خوشش بوی کسی می آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 7
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است\r\nگفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nخیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است\r\nگفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nخیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 8,
+      "MetreRefSectionIndex": 2
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "درخانهاگرکساستیکحرفبساست",
+      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 21
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است\r\nگفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nخیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رانمطلب",
+      "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است\r\nگفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nخیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 4
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا\r\nاگر دل از غم دنیا جدا توانی کرد\r\nنشاط و عیش به باغ بقا توانی کرد\r\nعشق خود یاری دهد یعنی که کار کوه کن\r\nقوت بازوی عشق است آن نه از بازوی اوست\r\nدل که دروی حدیث غیر گذشت\r\nجان من نیست دل که رهگذری است\r\nباش قانع به نشان قدم ناقه ی صبر\r\nخاک خور خاک در این راه و زکس نان مطلب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دل از غم دنیا جدا توانی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاط و عیش به باغ بقا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق خود یاری دهد یعنی که کار کوه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت بازوی عشق است آن نه از بازوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل که دروی حدیث غیر گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان من نیست دل که رهگذری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباش قانع به نشان قدم ناقه ی صبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک خور، خاک در این راه و زکس نان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 4
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا\r\nاگر دل از غم دنیا جدا توانی کرد\r\nنشاط و عیش به باغ بقا توانی کرد\r\nعشق خود یاری دهد یعنی که کار کوه کن\r\nقوت بازوی عشق است آن نه از بازوی اوست\r\nدل که دروی حدیث غیر گذشت\r\nجان من نیست دل که رهگذری است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دل از غم دنیا جدا توانی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاط و عیش به باغ بقا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق خود یاری دهد یعنی که کار کوه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت بازوی عشق است آن نه از بازوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل که دروی حدیث غیر گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان من نیست دل که رهگذری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نگترا",
+      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 16
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا\r\nاگر دل از غم دنیا جدا توانی کرد\r\nنشاط و عیش به باغ بقا توانی کرد\r\nعشق خود یاری دهد یعنی که کار کوه کن\r\nقوت بازوی عشق است آن نه از بازوی اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دل از غم دنیا جدا توانی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاط و عیش به باغ بقا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق خود یاری دهد یعنی که کار کوه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت بازوی عشق است آن نه از بازوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 8,
+      "MetreRefSectionIndex": 2
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نگترا",
+      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 7,
@@ -244,7 +341,8 @@
       "PlainText": "تو مسیح و یافت پرسش ز تو جان ناتوانم\r\nزفراق مرده بودم نفس تو داد جانم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو مسیح و یافت پرسش ز تو جان ناتوانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزفراق مرده بودم، نفس تو داد جانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 5
     },
     {
       "Index": 7,
@@ -254,107 +352,9 @@
       "RhymeLetters": "ش",
       "PlainText": "آفتاب نیمروزی و به خدمت کردنت\r\nمیرسد خورشید اگر در نیمه شب میخوانیش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفتاب نیمروزی و به خدمت کردنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیرسد خورشید اگر در نیمه شب میخوانیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا\r\nاگر دل از غم دنیا جدا توانی کرد\r\nنشاط و عیش به باغ بقا توانی کرد\r\nعشق خود یاری دهد یعنی که کار کوه کن\r\nقوت بازوی عشق است آن نه از بازوی اوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دل از غم دنیا جدا توانی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاط و عیش به باغ بقا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق خود یاری دهد یعنی که کار کوه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت بازوی عشق است آن نه از بازوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "نگترا",
-      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا\r\nاگر دل از غم دنیا جدا توانی کرد\r\nنشاط و عیش به باغ بقا توانی کرد\r\nعشق خود یاری دهد یعنی که کار کوه کن\r\nقوت بازوی عشق است آن نه از بازوی اوست\r\nدل که دروی حدیث غیر گذشت\r\nجان من نیست دل که رهگذری است\r\nباش قانع به نشان قدم ناقه ی صبر\r\nخاک خور خاک در این راه و زکس نان مطلب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دل از غم دنیا جدا توانی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاط و عیش به باغ بقا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق خود یاری دهد یعنی که کار کوه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت بازوی عشق است آن نه از بازوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل که دروی حدیث غیر گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان من نیست دل که رهگذری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباش قانع به نشان قدم ناقه ی صبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک خور، خاک در این راه و زکس نان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا\r\nاگر دل از غم دنیا جدا توانی کرد\r\nنشاط و عیش به باغ بقا توانی کرد\r\nعشق خود یاری دهد یعنی که کار کوه کن\r\nقوت بازوی عشق است آن نه از بازوی اوست\r\nدل که دروی حدیث غیر گذشت\r\nجان من نیست دل که رهگذری است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دل از غم دنیا جدا توانی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاط و عیش به باغ بقا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق خود یاری دهد یعنی که کار کوه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت بازوی عشق است آن نه از بازوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل که دروی حدیث غیر گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان من نیست دل که رهگذری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "نگترا",
-      "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا\r\nوگر به آب ریاضت برآوری غسلی\r\nهمه کدورت دل را صفا توانی کرد\r\nمست آن چشم اند اهلی نوغزالان جهان\r\nوه که هر جا هست صیادی سگ آهوی اوست\r\nاز سر کوچه ی بلا بگذر\r\nکه از آن سو به کوی عشق دری است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر به آب ریاضت برآوری غسلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه کدورت دل را صفا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست آن چشم اند اهلی، نوغزالان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه که هر جا هست صیادی سگ آهوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر کوچه ی بلا بگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن سو به کوی عشق دری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا\r\nوگر به آب ریاضت برآوری غسلی\r\nهمه کدورت دل را صفا توانی کرد\r\nمست آن چشم اند اهلی نوغزالان جهان\r\nوه که هر جا هست صیادی سگ آهوی اوست\r\nاز سر کوچه ی بلا بگذر\r\nکه از آن سو به کوی عشق دری است\r\nپرده های دل سودا زده ی خونین را\r\nبا سرخار کن و لاله ی نعمان مطلب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر به آب ریاضت برآوری غسلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه کدورت دل را صفا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست آن چشم اند اهلی، نوغزالان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه که هر جا هست صیادی سگ آهوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر کوچه ی بلا بگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن سو به کوی عشق دری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده های دل سودا زده ی خونین را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سرخار کن و لاله ی نعمان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "نهاتشیتوداندکسینهچنگترا",
-      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا\r\nوگر به آب ریاضت برآوری غسلی\r\nهمه کدورت دل را صفا توانی کرد\r\nمست آن چشم اند اهلی نوغزالان جهان\r\nوه که هر جا هست صیادی سگ آهوی اوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر به آب ریاضت برآوری غسلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه کدورت دل را صفا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست آن چشم اند اهلی، نوغزالان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه که هر جا هست صیادی سگ آهوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 8,
@@ -364,37 +364,69 @@
       "RhymeLetters": "ارباشد",
       "PlainText": "زن گرنه یکی هزار باشد\r\nدر عهد کم استوار باشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن گرنه یکی هزار باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عهد، کم استوار باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ستند",
-      "PlainText": "چون نقش وفا و عهد بستند\r\nبر نام زنان قلم شکستند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نقش وفا و عهد بستند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر نام زنان قلم شکستند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "RhymeLetters": "نهاتشیتوداندکسینهچنگترا",
+      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 1
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "تونازنینجهانیکجاتوانیکرد",
-      "PlainText": "ولیک این عمل رهروان چالاک است\r\nتو نازنین جهانی کجا توانی کرد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولیک این عمل رهروان چالاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نازنین جهانی، کجا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "RhymeLetters": "",
+      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا\r\nوگر به آب ریاضت برآوری غسلی\r\nهمه کدورت دل را صفا توانی کرد\r\nمست آن چشم اند اهلی نوغزالان جهان\r\nوه که هر جا هست صیادی سگ آهوی اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر به آب ریاضت برآوری غسلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه کدورت دل را صفا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست آن چشم اند اهلی، نوغزالان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه که هر جا هست صیادی سگ آهوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 8,
+      "MetreRefSectionIndex": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "د",
-      "PlainText": "ولیک این عمل رهروان چالاک است\r\nتو نازنین جهانی کجا توانی کرد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولیک این عمل رهروان چالاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نازنین جهانی، کجا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "RhymeLetters": "ا",
+      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 16
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا\r\nوگر به آب ریاضت برآوری غسلی\r\nهمه کدورت دل را صفا توانی کرد\r\nمست آن چشم اند اهلی نوغزالان جهان\r\nوه که هر جا هست صیادی سگ آهوی اوست\r\nاز سر کوچه ی بلا بگذر\r\nکه از آن سو به کوی عشق دری است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر به آب ریاضت برآوری غسلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه کدورت دل را صفا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست آن چشم اند اهلی، نوغزالان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه که هر جا هست صیادی سگ آهوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر کوچه ی بلا بگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن سو به کوی عشق دری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "کرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا\r\nوگر به آب ریاضت برآوری غسلی\r\nهمه کدورت دل را صفا توانی کرد\r\nمست آن چشم اند اهلی نوغزالان جهان\r\nوه که هر جا هست صیادی سگ آهوی اوست\r\nاز سر کوچه ی بلا بگذر\r\nکه از آن سو به کوی عشق دری است\r\nپرده های دل سودا زده ی خونین را\r\nبا سرخار کن و لاله ی نعمان مطلب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر به آب ریاضت برآوری غسلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه کدورت دل را صفا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست آن چشم اند اهلی، نوغزالان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه که هر جا هست صیادی سگ آهوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر کوچه ی بلا بگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن سو به کوی عشق دری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده های دل سودا زده ی خونین را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سرخار کن و لاله ی نعمان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 9,
@@ -404,7 +436,9 @@
       "RhymeLetters": "",
       "PlainText": "ولیک این عمل رهروان چالاک است\r\nتو نازنین جهانی کجا توانی کرد\r\nبیا تا جان شیرین بر تو ریزم\r\nکه بخل و دوستی با هم نباشد\r\nآذری عشق کی توان آموخت\r\nگرچه نزدیک عاشقان سیری است\r\nدل پریشان مکن از ژنده ی صدپاره ی خویش\r\nسر برون آر زدامان و گریبان مطلب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولیک این عمل رهروان چالاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نازنین جهانی، کجا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا تا جان شیرین بر تو ریزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بخل و دوستی با هم نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآذری عشق کی توان آموخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه نزدیک عاشقان سیری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل پریشان مکن از ژنده ی صدپاره ی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر برون آر زدامان و گریبان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 9,
@@ -414,37 +448,45 @@
       "RhymeLetters": "",
       "PlainText": "ولیک این عمل رهروان چالاک است\r\nتو نازنین جهانی کجا توانی کرد\r\nبیا تا جان شیرین بر تو ریزم\r\nکه بخل و دوستی با هم نباشد\r\nآذری عشق کی توان آموخت\r\nگرچه نزدیک عاشقان سیری است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولیک این عمل رهروان چالاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نازنین جهانی، کجا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا تا جان شیرین بر تو ریزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بخل و دوستی با هم نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآذری عشق کی توان آموخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه نزدیک عاشقان سیری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 3
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "دنبالبینکهدیدهیجاندرقفایتواست",
-      "PlainText": "بر خاک ما چو می گذری سرگران مرو\r\nدنبال بین که دیده ی جان در قفای تو است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خاک ما چو می گذری، سرگران مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنبال بین که دیده ی جان در قفای تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "RhymeLetters": "تونازنینجهانیکجاتوانیکرد",
+      "PlainText": "ولیک این عمل رهروان چالاک است\r\nتو نازنین جهانی کجا توانی کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولیک این عمل رهروان چالاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نازنین جهانی، کجا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 8,
+      "MetreRefSectionIndex": 2
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "بر خاک ما چو می گذری سرگران مرو\r\nدنبال بین که دیده ی جان در قفای تو است\r\nسیرم زحیات محنت آکنده ی خویش\r\nزین روزی ریزه ی پراکنده ی خویش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خاک ما چو می گذری، سرگران مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنبال بین که دیده ی جان در قفای تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیرم زحیات محنت آکنده ی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین روزی ریزه ی پراکنده ی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "RhymeLetters": "د",
+      "PlainText": "ولیک این عمل رهروان چالاک است\r\nتو نازنین جهانی کجا توانی کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولیک این عمل رهروان چالاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نازنین جهانی، کجا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 42
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ت",
-      "PlainText": "بر خاک ما چو می گذری سرگران مرو\r\nدنبال بین که دیده ی جان در قفای تو است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خاک ما چو می گذری، سرگران مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنبال بین که دیده ی جان در قفای تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "RhymeLetters": "ستند",
+      "PlainText": "چون نقش وفا و عهد بستند\r\nبر نام زنان قلم شکستند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نقش وفا و عهد بستند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر نام زنان قلم شکستند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 10,
@@ -454,17 +496,45 @@
       "RhymeLetters": "انی",
       "PlainText": "زن دوست بود ولی زمانی\r\nتا جز تو نیافت مهربانی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن دوست بود ولی زمانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا جز تو نیافت مهربانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
     },
     {
-      "Index": 11,
-      "Number": 11,
+      "Index": 10,
+      "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ازد",
-      "PlainText": "زن رست نیارد آن چه بازد\r\nجز زرق نسازد آنچه سازد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن رست نیارد آن چه بازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز زرق نسازد آنچه سازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "RhymeLetters": "ت",
+      "PlainText": "بر خاک ما چو می گذری سرگران مرو\r\nدنبال بین که دیده ی جان در قفای تو است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خاک ما چو می گذری، سرگران مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنبال بین که دیده ی جان در قفای تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 36
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دنبالبینکهدیدهیجاندرقفایتواست",
+      "PlainText": "بر خاک ما چو می گذری سرگران مرو\r\nدنبال بین که دیده ی جان در قفای تو است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خاک ما چو می گذری، سرگران مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنبال بین که دیده ی جان در قفای تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "بر خاک ما چو می گذری سرگران مرو\r\nدنبال بین که دیده ی جان در قفای تو است\r\nسیرم زحیات محنت آکنده ی خویش\r\nزین روزی ریزه ی پراکنده ی خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خاک ما چو می گذری، سرگران مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنبال بین که دیده ی جان در قفای تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیرم زحیات محنت آکنده ی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین روزی ریزه ی پراکنده ی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 11,
@@ -474,7 +544,9 @@
       "RhymeLetters": "صدگریهیزارزیرهرخندهیخویش",
       "PlainText": "صاحب نظری کو که بدو بنمایم\r\nصدگریه ی زار زیر هر خنده ی خویش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحب نظری کو که بدو بنمایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدگریه ی زار زیر هر خنده ی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 11,
@@ -484,17 +556,21 @@
       "RhymeLetters": "ش",
       "PlainText": "صاحب نظری کو که بدو بنمایم\r\nصدگریه ی زار زیر هر خنده ی خویش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحب نظری کو که بدو بنمایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدگریه ی زار زیر هر خنده ی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 31
     },
     {
-      "Index": 12,
-      "Number": 12,
+      "Index": 11,
+      "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "یا بر مراد بر سر گردون نهیم پای\r\nیا مردوار بر سر همت کنیم سر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا بر مراد بر سر گردون نهیم پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا مردوار بر سر همت کنیم سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "RhymeLetters": "ازد",
+      "PlainText": "زن رست نیارد آن چه بازد\r\nجز زرق نسازد آنچه سازد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن رست نیارد آن چه بازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز زرق نسازد آنچه سازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 12,
@@ -504,7 +580,21 @@
       "RhymeLetters": "یدند",
       "PlainText": "بسیار جفای زن کشیدند\r\nدر هیچ زنی وفا ندیدند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسیار جفای زن کشیدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر هیچ زنی وفا ندیدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "یا بر مراد بر سر گردون نهیم پای\r\nیا مردوار بر سر همت کنیم سر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا بر مراد بر سر گردون نهیم پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا مردوار بر سر همت کنیم سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 25
     },
     {
       "Index": 13,
@@ -514,7 +604,9 @@
       "RhymeLetters": "نگ",
       "PlainText": "زن چیست فسانه گاه نیرنگ\r\nدر ظاهر صلح و در نهان جنگ",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن چیست؟ فسانه گاه نیرنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ظاهر صلح و در نهان جنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 14,
@@ -524,7 +616,9 @@
       "RhymeLetters": "اناست",
       "PlainText": "در دشمنی آفت جهان است\r\nچون دوست شود بلای جان است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دشمنی آفت جهان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دوست شود بلای جان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 15,
@@ -534,7 +628,9 @@
       "RhymeLetters": "یشدارد",
       "PlainText": "زن میل به مرد بیش دارد\r\nلیکن سر کار خویش دارد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن میل به مرد بیش دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن سر کار خویش دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 16,
@@ -545,7 +641,8 @@
       "PlainText": "شوم هلاک چو غیری خورد خدنگ ترا\r\nکه دانم آشتیی در قفاست جنگ ترا\r\nکرشمه های تو از بس که هست ناز آیین\r\nنه آتشی تو داند کسی نه چنگ ترا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم هلاک چو غیری خورد خدنگ ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آشتئی در قفاست جنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه های تو از بس که هست ناز آئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آتشی تو داند کسی نه چنگ ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 3
     },
     {
       "Index": 17,
@@ -555,7 +652,9 @@
       "RhymeLetters": "د",
       "PlainText": "خسروان را همه اسباب فراغت دادند\r\nوز همه خسرو بیچاره فراغت دارد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخسروان را همه اسباب فراغت دادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز همه خسرو بیچاره فراغت دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 16
     },
     {
       "Index": 18,
@@ -565,7 +664,9 @@
       "RhymeLetters": "",
       "PlainText": "صاحبدلی به مدرسه آمد ز خانقاه\r\nبشکست عهد صحبت اهل طریق را\r\nهر که را حسنی بود آیینه دار روی اوست\r\nهر که دارد داغ عشقی از سگان کوی اوست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحبدلی به مدرسه آمد ز خانقاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشکست عهد صحبت اهل طریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را حسنی بود آیینه دار روی اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که دارد داغ عشقی از سگان کوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 16
     },
     {
       "Index": 19,
@@ -575,7 +676,9 @@
       "RhymeLetters": "",
       "PlainText": "گفتم میان عالم و عابد چه فرق بود\r\nتا اختیار کردی از آن این فریق را\r\nفتنه ی پیران نه تنها شد که طفل مکتبی\r\nچون الف گوید مرادش قامت دلجوی اوست\r\nای بروی تو هر که را نظری است\r\nخاک پای تو هر کجا که سری است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم میان عالم و عابد چه فرق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اختیار کردی از آن این فریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتنه ی پیران نه تنها شد که طفل مکتبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون الف گوید مرادش قامت دلجوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بروی تو هر که را نظری است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک پای تو هر کجا که سری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 16
     },
     {
       "Index": 20,
@@ -585,7 +688,9 @@
       "RhymeLetters": "",
       "PlainText": "گفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را\r\nگاه گاه از شرم مردم چشم می پوشم ولی\r\nچون نظر در خود کنم بینم که چشمم سوی اوست\r\nگر زند دم زخاک پای تو باد\r\nنشنوی قول آن که دربدری است\r\nخیز و کام دل از این منزل ویران مطلب\r\nغنچه ی عافیت از گلشن دوران مطلب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاه از شرم مردم چشم می پوشم ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نظر در خود کنم، بینم که چشمم سوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زند دم زخاک پای تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنوی قول آن که دربدری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیز و کام دل از این منزل ویران مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه ی عافیت از گلشن دوران مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 16
     },
     {
       "Index": 21,
@@ -596,7 +701,8 @@
       "PlainText": "گفتم که الفگفت دگر گفتم هیچ\r\nدر خانه اگر کس است یک حرف بس است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که: الف،گفت: دگر؟ گفتم: هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خانه اگر کس است، یک حرف بس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24
     },
     {
       "Index": 22,
@@ -607,7 +713,8 @@
       "PlainText": "دل گفت مرا علم لدنی هوس است\r\nتعلیمم کن اگر ترا دست رس است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گفت مرا علم لَدُنی هوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعلیمم کن اگر تُرا دست رس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24
     },
     {
       "Index": 23,
@@ -618,7 +725,8 @@
       "PlainText": "سعدی تو کیستی که دم از عشق می زنی\r\nدعوی بندگی کن و اقرار چاکری",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدی تو کیستی که دم از عشق می زنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدعوی بندگی کن و اقرار چاکری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1
     },
     {
       "Index": 24,
@@ -629,7 +737,8 @@
       "PlainText": "در محشر اگر لطف تو خیزد به شفاعت\r\nبسیار بگردند و گنه کار نیابند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر محشر اگر لطف تو خیزد به شفاعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسیار بگردند و گنه کار نیابند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 10
     },
     {
       "Index": 25,
@@ -640,7 +749,8 @@
       "PlainText": "گردن چرا نهیم جفای زمانه را\r\nزحمت چرا کشیم بهر کار مختصر\r\nدریا و کوه را بگذاریم و بگذریم\r\nسیمرغ وار بحر گذاریم و خشک و تر\r\nیا بر مراد بر سر گردون نهیم پای\r\nیا مردوار بر سر همت کنیم سر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردن چرا نهیم جفای زمانه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزحمت چرا کشیم بهر کار مختصر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریا و کوه را بگذاریم و بگذریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیمرغ وار بحر گذاریم و خشک و تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا بر مراد بر سر گردون نهیم پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا مردوار بر سر همت کنیم سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 1
     },
     {
       "Index": 26,
@@ -650,7 +760,9 @@
       "RhymeLetters": "میرسدخورشیداگردرنیمهشبمیخوانیش",
       "PlainText": "آفتاب نیمروزی و به خدمت کردنت\r\nمیرسد خورشید اگر در نیمه شب میخوانیش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفتاب نیمروزی و به خدمت کردنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیرسد خورشید اگر در نیمه شب میخوانیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 25
     },
     {
       "Index": 27,
@@ -660,7 +772,9 @@
       "RhymeLetters": "ارباشد",
       "PlainText": "زن گرنه یکی هزار باشد\r\nدر عهد کم استوار باشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن گرنه یکی هزار باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عهد، کم استوار باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 25
     },
     {
       "Index": 28,
@@ -670,7 +784,9 @@
       "RhymeLetters": "ستند",
       "PlainText": "چون نقش وفا و عهد بستند\r\nبر نام زنان قلم شکستند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نقش وفا و عهد بستند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر نام زنان قلم شکستند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 25
     },
     {
       "Index": 29,
@@ -680,7 +796,9 @@
       "RhymeLetters": "",
       "PlainText": "گردن چرا نهیم جفای زمانه را\r\nزحمت چرا کشیم بهر کار مختصر\r\nزن دوست بود ولی زمانی\r\nتا جز تو نیافت مهربانی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردن چرا نهیم جفای زمانه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزحمت چرا کشیم بهر کار مختصر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن دوست بود ولی زمانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا جز تو نیافت مهربانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 25
     },
     {
       "Index": 30,
@@ -690,7 +808,9 @@
       "RhymeLetters": "",
       "PlainText": "دریا و کوه را بگذاریم و بگذریم\r\nسیمرغ وار بحر گذاریم و خشک و تر\r\nزن رست نیارد آن چه بازد\r\nجز زرق نسازد آنچه سازد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریا و کوه را بگذاریم و بگذریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیمرغ وار بحر گذاریم و خشک و تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزن رست نیارد آن چه بازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز زرق نسازد آنچه سازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 25
     },
     {
       "Index": 31,
@@ -701,7 +821,8 @@
       "PlainText": "سیرم زحیات محنت آکنده ی خویش\r\nزین روزی ریزه ی پراکنده ی خویش\r\nصاحب نظری کو که بدو بنمایم\r\nصدگریه ی زار زیر هر خنده ی خویش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیرم زحیات محنت آکنده ی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین روزی ریزه ی پراکنده ی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحب نظری کو که بدو بنمایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدگریه ی زار زیر هر خنده ی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     },
     {
       "Index": 32,
@@ -711,7 +832,9 @@
       "RhymeLetters": "خاکخورخاکدراینراهوزکسنانمطلب",
       "PlainText": "باش قانع به نشان قدم ناقه ی صبر\r\nخاک خور خاک در این راه و زکس نان مطلب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباش قانع به نشان قدم ناقه ی صبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک خور، خاک در این راه و زکس نان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 31
     },
     {
       "Index": 33,
@@ -721,7 +844,9 @@
       "RhymeLetters": "باسرخارکنولالهینعمانمطلب",
       "PlainText": "پرده های دل سودا زده ی خونین را\r\nبا سرخار کن و لاله ی نعمان مطلب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده های دل سودا زده ی خونین را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سرخار کن و لاله ی نعمان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 31
     },
     {
       "Index": 34,
@@ -731,7 +856,9 @@
       "RhymeLetters": "سربرونارزدامانوگریبانمطلب",
       "PlainText": "دل پریشان مکن از ژنده ی صدپاره ی خویش\r\nسر برون آر زدامان و گریبان مطلب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل پریشان مکن از ژنده ی صدپاره ی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر برون آر زدامان و گریبان مطلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 31
     },
     {
       "Index": 35,
@@ -741,7 +868,9 @@
       "RhymeLetters": "اکندهیخویش",
       "PlainText": "سیرم زحیات محنت آکنده ی خویش\r\nزین روزی ریزه ی پراکنده ی خویش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیرم زحیات محنت آکنده ی خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین روزی ریزه ی پراکنده ی خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 31
     },
     {
       "Index": 36,
@@ -752,7 +881,8 @@
       "PlainText": "بر خاک ما چو می گذری سرگران مرو\r\nدنبال بین که دیده ی جان در قفای تو است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خاک ما چو می گذری، سرگران مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدنبال بین که دیده ی جان در قفای تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1
     },
     {
       "Index": 37,
@@ -762,7 +892,9 @@
       "RhymeLetters": "ت",
       "PlainText": "دل که دروی حدیث غیر گذشت\r\nجان من نیست دل که رهگذری است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل که دروی حدیث غیر گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان من نیست دل که رهگذری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 36
     },
     {
       "Index": 38,
@@ -772,7 +904,9 @@
       "RhymeLetters": "کهازانسوبهکویعشقدریاست",
       "PlainText": "از سر کوچه ی بلا بگذر\r\nکه از آن سو به کوی عشق دری است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر کوچه ی بلا بگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن سو به کوی عشق دری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 36
     },
     {
       "Index": 39,
@@ -782,7 +916,9 @@
       "RhymeLetters": "ت",
       "PlainText": "آذری عشق کی توان آموخت\r\nگرچه نزدیک عاشقان سیری است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآذری عشق کی توان آموخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه نزدیک عاشقان سیری است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 36
     },
     {
       "Index": 40,
@@ -803,7 +939,8 @@
       "RhymeLetters": "کهبخلودوستیباهمنباشد",
       "PlainText": "بیا تا جان شیرین بر تو ریزم\r\nکه بخل و دوستی با هم نباشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا تا جان شیرین بر تو ریزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بخل و دوستی با هم نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 40
     },
     {
       "Index": 42,
@@ -814,7 +951,8 @@
       "PlainText": "اگر دل از غم دنیا جدا توانی کرد\r\nنشاط و عیش به باغ بقا توانی کرد\r\nوگر به آب ریاضت برآوری غسلی\r\nهمه کدورت دل را صفا توانی کرد\r\nولیک این عمل رهروان چالاک است\r\nتو نازنین جهانی کجا توانی کرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دل از غم دنیا جدا توانی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاط و عیش به باغ بقا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر به آب ریاضت برآوری غسلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه کدورت دل را صفا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولیک این عمل رهروان چالاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نازنین جهانی، کجا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 3
     },
     {
       "Index": 43,
@@ -824,7 +962,9 @@
       "RhymeLetters": "",
       "PlainText": "اگر دل از غم دنیا جدا توانی کرد\r\nنشاط و عیش به باغ بقا توانی کرد\r\nعشق خود یاری دهد یعنی که کار کوه کن\r\nقوت بازوی عشق است آن نه از بازوی اوست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دل از غم دنیا جدا توانی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاط و عیش به باغ بقا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق خود یاری دهد یعنی که کار کوه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت بازوی عشق است آن نه از بازوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 42
     },
     {
       "Index": 44,
@@ -834,7 +974,9 @@
       "RhymeLetters": "",
       "PlainText": "وگر به آب ریاضت برآوری غسلی\r\nهمه کدورت دل را صفا توانی کرد\r\nمست آن چشم اند اهلی نوغزالان جهان\r\nوه که هر جا هست صیادی سگ آهوی اوست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر به آب ریاضت برآوری غسلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه کدورت دل را صفا توانی کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست آن چشم اند اهلی، نوغزالان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه که هر جا هست صیادی سگ آهوی اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 42
     },
     {
       "Index": 45,
@@ -845,7 +987,8 @@
       "PlainText": "صاحبدلی به مدرسه آمد ز خانقاه\r\nبشکست عهد صحبت اهل طریق را\r\nگفتم میان عالم و عابد چه فرق بود\r\nتا اختیار کردی از آن این فریق را\r\nگفت آن گلیم خویش برون می برد زموج\r\nوین سعی می کند که بگیرد غریق را",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحبدلی به مدرسه آمد ز خانقاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشکست عهد صحبت اهل طریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم میان عالم و عابد چه فرق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اختیار کردی از آن این فریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن گلیم خویش برون می برد زموج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سعی می کند که بگیرد غریق را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 1
     }
   ],
   "Verses": [

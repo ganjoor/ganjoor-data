@@ -6,7 +6,7 @@
   "FullUrl": "/jami/7ourang/7-1/sd12/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در روز قیامت، انسان‌ها پس از دمیده شدن در صور و برپایی محشر جمع می‌شوند. آن‌ها بعد از مدتی انتظار، نامه‌های اعمالشان را دریافت می‌کنند. کسانی که نیکوکارند، نامه‌های خود را از سمت راست دریافت می‌کنند و افتخار می‌یابند، اما بدکاران نامه‌هایشان را از سمت چپ یا از پشت دریافت می‌کنند.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، به شرح حال روز قیامت و حشر انسان‌ها پرداخته شده است. پس از دمیدن در صور، انسان‌ها در محشر جمع می‌شوند و پس از مدت انتظار، نامه‌های اعمالشان به آن‌ها داده می‌شود. نامه اعمال نیکوکاران از سمت راست به آنان داده می‌شود، در حالی که نامه اعمال بدکاران از سمت چپ یا پشت سرشان قرار می‌گیرد. این تصویر، نمایانگر جزا و پاداش الهی در روز حساب است.",
   "Metre": {
     "Id": 9,
     "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
@@ -21,7 +21,8 @@
       "PlainText": "از پی نفخ صور نوع بشر\r\nچون شود حشر کرده در محشر\r\nسویشان بعد از انتظارگران\r\nنامه های عمل کنند پران\r\nسعدا را دهند بهر شرف\r\nنامه از سوی دست راست به کف\r\nاشقیا را صحیفه ها در مشت\r\nاز سوی چپ دهند یا پس پشت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پی نفخ صور نوع بشر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شود حشر کرده در محشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسویشان بعد از انتظارگران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامه های عمل کنند پران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدا را دهند بهر شرف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامه از سوی دست راست به کف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشقیا را صحیفه ها در مشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سوی چپ دهند یا پس پشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 9
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "شر",
       "PlainText": "از پی نفخ صور نوع بشر\r\nچون شود حشر کرده در محشر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پی نفخ صور نوع بشر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شود حشر کرده در محشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ران",
       "PlainText": "سویشان بعد از انتظارگران\r\nنامه های عمل کنند پران",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسویشان بعد از انتظارگران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامه های عمل کنند پران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ف",
       "PlainText": "سعدا را دهند بهر شرف\r\nنامه از سوی دست راست به کف",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدا را دهند بهر شرف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامه از سوی دست راست به کف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "شت",
       "PlainText": "اشقیا را صحیفه ها در مشت\r\nاز سوی چپ دهند یا پس پشت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشقیا را صحیفه ها در مشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سوی چپ دهند یا پس پشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

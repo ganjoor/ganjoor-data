@@ -6,7 +6,7 @@
   "FullUrl": "/attar/pandname/sh63",
   "SourceName": "کتابخانه تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: در این شعر، چهار ویژگی از اعمال شیطانی ذکر شده است. هر کسی که به خدا نزدیک باشد، این ویژگی‌ها را می‌داند. عطسه، خون بینی و خیسانه (یعنی خمیازه) از اعمال شیطانی محسوب می‌شوند. همچنین، شاعر به فرزندش هشدار می‌دهد که از مکر شیطان ایمن نباشد.",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان چهار خصلت می‌پردازد که ویژگی‌های شیطانی محسوب می‌شوند. عطسه، خون‌ریزی، خمیازه و قی از جمله این خصلت‌ها هستند که نشان‌دهندهٔ مکر و فریب شیطان هستند. شاعر هشدار می‌دهد که انسان باید از این اعمال در امان باشد و هوشیارانه به آن‌ها توجه کند. این ویژگی‌ها به نوعی به رابطهٔ انسان با شیطان اشاره دارند و نکته‌ای اخلاقی را در مورد آگاهی و احتیاط از فریب‌های او بیان می‌کنند.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "چار خصلت فعل شیطانی بود\r\nداند این ها هر که رحمانی بود\r\nعطسه مردم چو بگذشت از یکی\r\nباشد آن از فعل شیطان بی شکی\r\nخون بینی نیز از شیطان بود\r\nآنکه ظاهر دشمن انسان بود\r\nخامیازه فعل شیطان است و قی\r\nای پسر ایمن مباش از مکر وی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچار خصلت فعلِ شیطانی بُوَد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداند این‌ها هر که رحمانی بُوَد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعطسهٔ مردم چو بگذشت از یکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد آن از فعلِ شیطان بی‌شکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخونِ بینی نیز از شیطان بُوَد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه ظاهر دشمنِ انسان بُوَد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخامیازه فعلِ شیطان است و قی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای پسر ایمن مباش از مکرِ وی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "انیبود",
       "PlainText": "چار خصلت فعل شیطانی بود\r\nداند این ها هر که رحمانی بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچار خصلت فعلِ شیطانی بُوَد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداند این‌ها هر که رحمانی بُوَد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "کی",
       "PlainText": "عطسه مردم چو بگذشت از یکی\r\nباشد آن از فعل شیطان بی شکی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعطسهٔ مردم چو بگذشت از یکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد آن از فعلِ شیطان بی‌شکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "انبود",
       "PlainText": "خون بینی نیز از شیطان بود\r\nآنکه ظاهر دشمن انسان بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخونِ بینی نیز از شیطان بُوَد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه ظاهر دشمنِ انسان بُوَد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ی",
       "PlainText": "خامیازه فعل شیطان است و قی\r\nای پسر ایمن مباش از مکر وی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخامیازه فعلِ شیطان است و قی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای پسر ایمن مباش از مکرِ وی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

@@ -6,7 +6,7 @@
   "FullUrl": "/attar/elahiname/ebkhsh1/sh2",
   "SourceName": "کتابخانه تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: پدر در این شعر به انتقاد از شهوت پرستی می‌پردازد و می‌گوید که کسی که فقط به دنبال لذت جنسی باشد، تمام وجودش را صرف این موضوع می‌کند. او معتقد است که هر زنی که به طور واقعی و با اراده مردانه وارد رابطه شود، از شهوت و لذت‌جویی دور است. در پایان، به زنی اشاره می‌کند که از شوهرش جدا شده و به درگاه خداوند نزدیک‌تر شده است.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، پدر به فرزند خود انتقاد می‌کند که چرا به شهوات دنیوی و پرستی‌های جسمی دل بسته است. او تأکید می‌کند که اگر مردی اسیر این شهوات باشد، تمام وجودش را در این راه هزینه کرده است. در مقابل، زنی که با مردی به درستی رفتار کند و به شهوات توجه نداشته باشد، حقیقتاً از این دنیا دور می‌شود و در نزد خداوند مقام والایی پیدا می‌کند. بنابراین، شعر به تفاوت بین رفتار زنان و مردان در مواجهه با شهوات اشاره دارد و بر اهمیت استقلال معنوی زنان تأکید می‌کند.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "پدر گفتش زهی شهوت پرستی\r\nکه از شهوت پرستی مست مستی\r\nدل مردی که قید فرج باشد\r\nهمه نقد وجودش خرج باشد\r\nولی هر زن که او مردانه آمد\r\nازین شهوت بکل بیگانه آمد\r\nچنان کان زن که از شوهر جدا شد\r\nسر مردان درگاه خدا شد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدر گفتش زهی شهوت پرستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از شهوت پرستی مست مستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل مردی که قید فرج باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه نقد وجودش خرج باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولی هر زن که او مردانه آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین شهوت بکل بیگانه آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان کان زن که از شوهر جدا شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر مردان درگاه خدا شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ستی",
       "PlainText": "پدر گفتش زهی شهوت پرستی\r\nکه از شهوت پرستی مست مستی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدر گفتش زهی شهوت پرستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از شهوت پرستی مست مستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "رجباشد",
       "PlainText": "دل مردی که قید فرج باشد\r\nهمه نقد وجودش خرج باشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل مردی که قید فرج باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه نقد وجودش خرج باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "انهامد",
       "PlainText": "ولی هر زن که او مردانه آمد\r\nازین شهوت بکل بیگانه آمد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولی هر زن که او مردانه آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین شهوت بکل بیگانه آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "داشد",
       "PlainText": "چنان کان زن که از شوهر جدا شد\r\nسر مردان درگاه خدا شد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان کان زن که از شوهر جدا شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر مردان درگاه خدا شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

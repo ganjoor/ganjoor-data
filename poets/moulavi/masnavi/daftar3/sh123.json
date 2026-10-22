@@ -6,7 +6,7 @@
   "FullUrl": "/moulavi/masnavi/daftar3/sh123",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این شعر، قوم به تردید و شکوه می‌پردازند و می‌پرسند چگونه خداوند می‌تواند از افرادی مثل زید و بکر نماینده انتخاب کند. آن‌ها بر این باورند که هر پیامبری باید با جنس خود و با قدرتی الهی باشد. در ادامه، آن‌ها به مقایسه خود با موجودات کوچک مانند پشه و ذرات می‌پردازند و از این می‌پرسند که نسبت آن‌ها با خدا و عالم چیست و بر این باورند که ارتباطی میان آنها وجود ندارد.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، قوم انبیا به پیغمبران و رسالت آن‌ها شک می‌کنند و می‌پرسند که چگونه خدا می‌تواند از مردان عادی مانند زید و بکر نایب بگزیند. آن‌ها بر این باورند که هر پیغمبر باید از چیزی فراتر باشد و باید نشان دهندهٔ تبار یا صفات خداوند باشد. همچنین به مقایسهٔ خود با پشه و دیگر مخلوقات می‌پردازند و در نهایت به بن‌بست فکر کردن در مورد نسبت انسان‌ها با خدا و کارهای الهی اشاره می‌کنند. این شک و تردید در حقیقت نشان از عدم درک عمیق آن‌ها از ماهیت رسالت و ارتباط بین خدا و مخلوقات دارد.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "قوم گفتند این همه زرقست و مکر\r\nکی خدا نایب کند از زید و بکر\r\nهر رسول شاه باید جنس او\r\nآب و گل کو خالق افلاک کو\r\nمغز خر خوردیم تا ما چون شما\r\nپشه را داریم همراز هما\r\nکو هما کو پشه کو گل کو خدا\r\nز آفتاب چرخ چه بود ذره را\r\nاین چه نسبت این چه پیوندی بود\r\nتاکه در عقل و دماغی در رود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقوم گفتند این همه زرقست و مکر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی خدا نایب کند از زید و بکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر رسول شاه باید جنس او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب و گل کو خالق افلاک کو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمغز خر خوردیم تا ما چون شما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشه را داریم همراز هما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو هما کو پشه کو گل کو خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آفتاب چرخ چه بود ذره را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چه نسبت این چه پیوندی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاکه در عقل و دماغی در رود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "کر",
       "PlainText": "قوم گفتند این همه زرقست و مکر\r\nکی خدا نایب کند از زید و بکر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقوم گفتند این همه زرقست و مکر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی خدا نایب کند از زید و بکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "و",
       "PlainText": "هر رسول شاه باید جنس او\r\nآب و گل کو خالق افلاک کو",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر رسول شاه باید جنس او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب و گل کو خالق افلاک کو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ما",
       "PlainText": "مغز خر خوردیم تا ما چون شما\r\nپشه را داریم همراز هما",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمغز خر خوردیم تا ما چون شما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشه را داریم همراز هما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ا",
       "PlainText": "کو هما کو پشه کو گل کو خدا\r\nز آفتاب چرخ چه بود ذره را",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو هما کو پشه کو گل کو خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آفتاب چرخ چه بود ذره را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 6,
@@ -71,7 +80,9 @@
       "RhymeLetters": "ود",
       "PlainText": "این چه نسبت این چه پیوندی بود\r\nتاکه در عقل و دماغی در رود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چه نسبت این چه پیوندی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاکه در عقل و دماغی در رود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

@@ -6,7 +6,7 @@
   "FullUrl": "/shahnematollah/masnavish/sh59",
   "SourceName": "کتابخانهٔ تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به معرفی خود می‌پردازد و از ارتباط نزدیکش با خدا و پیامبران سخن می‌گوید. او خود را بنده خدا و در خدمت خلق می‌داند و به نوعی ادعای هدایت مردم را دارد. همچنین به مقام و منزلت پیامبر اسلام و اینکه او همواره در مسیر حق است اشاره می‌کند. در کل، این شعر حاکی از تواضع و ارادت شاعر به خدا و اولیای اوست.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به معرفی خود و جایگاهش می‌پردازد و بیان می‌کند که نامش نعمت‌الله است و از جانب خدا آمده. او خود را سید درویش و بنده خدا معرفی می‌کند و به حیات معنوی‌اش اشاره دارد که در حقیقت از عشق به حق و جانان زنده است. همچنین، او خود را هادی و رهنمای مردم می‌داند و می‌فرماید که بنده پیامبر و غلام حق است، در حالی که به سلامت و صلح اشاره می‌کند.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "ای که می پرسی ز ما و حال ما\r\nنعمت الله نامم آمد از خدا\r\nسید درویش و حق را بنده ام\r\nمرده ام از جان به جانان زنده ام\r\nمن نیم مهدی ولی هادی منم\r\nرهنمای خلق در وادی منم\r\nمصطفی را بنده ام حق را غلام\r\nپیشوای با سلامت والسلام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که می پرسی ز ما و حال ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنعمت الله نامم آمد از خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسید درویش و حق را بنده ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرده ام از جان به جانان زنده ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن نیم مهدی ولی هادی منم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهنمای خلق در وادی منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی را بنده ام حق را غلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیشوای با سلامت والسلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ا",
       "PlainText": "ای که می پرسی ز ما و حال ما\r\nنعمت الله نامم آمد از خدا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که می پرسی ز ما و حال ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنعمت الله نامم آمد از خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ندهام",
       "PlainText": "سید درویش و حق را بنده ام\r\nمرده ام از جان به جانان زنده ام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسید درویش و حق را بنده ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرده ام از جان به جانان زنده ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ادیمنم",
       "PlainText": "من نیم مهدی ولی هادی منم\r\nرهنمای خلق در وادی منم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن نیم مهدی ولی هادی منم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهنمای خلق در وادی منم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "لام",
       "PlainText": "مصطفی را بنده ام حق را غلام\r\nپیشوای با سلامت والسلام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی را بنده ام حق را غلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیشوای با سلامت والسلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

@@ -6,7 +6,7 @@
   "FullUrl": "/obeyd/divan-obeyd/masnaviato/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به درگاه خداوند دعا می‌کند تا چرخ زندگی و سرنوشت، همواره به نفع پادشاهی با نام ابواسحاق بچرخد. او آرزو می‌کند که ایوان شاه با شکوه و عظیم باشد و جایگاه او به گونه‌ای باشد که همه خواسته‌ها و آرزوها در آن تحقق یابد. شاعر همچنین از خداوند می‌خواهد که سرنوشت پادشاه را از بدی‌ها دور کند و او را به اوج رفعت و مقام برساند.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این مثنوی به وصف ایوان شاه ابواسحاق می‌پردازد و زیبایی‌های آن را توصیف می‌کند. او از ایوان به عنوان مکانی مقدس و باشکوه یاد کرده و آن را مشابه کعبه می‌داند که مرکز توجه و امید مردم است. همچنین، دعا می‌کند که این ایوان در ارتفاعات آسمان قرار گیرد و از بدی‌ها دور بماند. شاعر با تصاویری زیبا و خیال‌انگیز، جلال و عظمت این مکان را به تصویر می‌کشد.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "خدایا تا خم طاق دو رنگی\r\nگهی رومی نماید گاه زنگی\r\nخم ایوان شاه کامران را\r\nابواسحاق سلطان جهان را\r\nبه رفعت با فلک دمساز گردان\r\nبدچرخ از جنابش باز گردان\r\nدر او قبله اقبال بادا\r\nحریمش کعبه آمال بادا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایا تا خم طاق دو رنگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی رومی نماید گاه زنگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخم ایوان شاه کامران را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابواسحاق سلطان جهان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه رفعت با فلک دمساز گردان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدچرخ از جنابش باز گردان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر او قبلهٔ اقبال بادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحریمش کعبهٔ آمال بادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "نگی",
       "PlainText": "خدایا تا خم طاق دو رنگی\r\nگهی رومی نماید گاه زنگی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایا تا خم طاق دو رنگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی رومی نماید گاه زنگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "انرا",
       "PlainText": "خم ایوان شاه کامران را\r\nابواسحاق سلطان جهان را",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخم ایوان شاه کامران را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابواسحاق سلطان جهان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ازگردان",
       "PlainText": "به رفعت با فلک دمساز گردان\r\nبدچرخ از جنابش باز گردان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه رفعت با فلک دمساز گردان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدچرخ از جنابش باز گردان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "البادا",
       "PlainText": "در او قبله اقبال بادا\r\nحریمش کعبه آمال بادا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر او قبلهٔ اقبال بادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحریمش کعبهٔ آمال بادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

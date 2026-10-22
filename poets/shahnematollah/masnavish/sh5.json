@@ -6,7 +6,7 @@
   "FullUrl": "/shahnematollah/masnavish/sh5",
   "SourceName": "کتابخانهٔ تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به توصیف یک ملک (کشور) می‌پردازد که در آن، یک والی با قدرت و مقام بالا وجود دارد. او خود را ولی و صاحب این ملک می‌داند و به بندگی او افتخار می‌کند. از دیدگاه شاعر، همه موجودات از جمله ذرات و خورشید نور خود را از این والی می‌گیرند. او به افرادی که نمی‌توانند این معنای عمیق را ببینند، اشاره کرده و آنها را کور می‌خواند. به‌طور کلی، ابیات نشان‌دهنده اهمیت مقام ولی و ارتباط او با کل عالم است.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به وصف یک ملک معنوی می‌پردازد که در آن، ولی و والی وجود دارد. او خود را بنده و چاکر ولی نامیده و او را پادشاه عالم می‌داند. در این ملک، ذرات و خورشید نیز از نور او بهره‌مند هستند؛ اما به نظر می‌رسد که فقط عده‌ای قادر به درک و مشاهده این حقیقت متعالی هستند و دیگران از بصیرت محروم‌اند.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "در چنان ملکی ملک باشد چنین\r\nآن ملک را در چنین ملکی ببین\r\nوالی است و من ولی می خوانمش\r\nمالک ملک ولایت دانمش\r\nبنده او سید هر دو سرا\r\nچاکرش بر کل عالم پادشاه\r\nذره و خورشید از او دارند نور\r\nور نمی بینی چنین ای کور  دور",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر چنان ملکی ملک باشد چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن ملک را در چنین ملکی ببین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوالی است و من ولی می خوانمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمالک ملک ولایت دانمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبندهٔ او سید هر دو سرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچاکرش بر کل عالم پادشاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذره و خورشید از او دارند نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نمی بینی چنین ای کور ، دور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ین",
       "PlainText": "در چنان ملکی ملک باشد چنین\r\nآن ملک را در چنین ملکی ببین",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر چنان ملکی ملک باشد چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن ملک را در چنین ملکی ببین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "انمش",
       "PlainText": "والی است و من ولی می خوانمش\r\nمالک ملک ولایت دانمش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوالی است و من ولی می خوانمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمالک ملک ولایت دانمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ه",
       "PlainText": "بنده او سید هر دو سرا\r\nچاکرش بر کل عالم پادشاه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبندهٔ او سید هر دو سرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچاکرش بر کل عالم پادشاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ور",
       "PlainText": "ذره و خورشید از او دارند نور\r\nور نمی بینی چنین ای کور  دور",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذره و خورشید از او دارند نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نمی بینی چنین ای کور ، دور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

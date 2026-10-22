@@ -6,7 +6,7 @@
   "FullUrl": "/shahnematollah/masnavish/sh77",
   "SourceName": "کتابخانهٔ تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی اهمیت درد و رنج در زندگی و انسانیت است. شاعر می‌گوید که درد نشانه‌ی وجود عشق و عواطف انسانی است. او بر این باور است که مردی که درد و رنج را تجربه نکرده، واقعاً مرد نیست و هر کسی که مرد باشد، حتماً دردی را احساس کرده است. در نهایت، شاعر بیان می‌کند که خود نیز درد را به عنوان بخشی از وجودش می‌پذیرد.",
+  "PoemSummary": "هوش مصنوعی: شاعر از درد و عذاب ناشی از عشق سخن می‌گوید و بر این باور است که درد، نشانه‌ای از مردانگی و حقیقت وجود انسان است. او تأکید می‌کند که مرد باید درد را تجربه کند تا به راستی مرد باشد و بی‌دردی را نشانه ضعف می‌داند. درد عشق برای او جایگاه ویژه‌ای دارد و به آن به عنوان بخشی از زندگی معنوی و انسانی خود می‌نگرد. در نهایت، شاعر دردمندانه ابراز می‌کند که دائماً در این درد زندگی می‌کند و این وضعیت را قبول دارد.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "درد دل از جان بودردا طلب\r\nدردمندی بایدت ما را طلب\r\nدرد باید درد باید درد درد\r\nمرد باید مرد باید مرد مرد\r\nمرد اگر بی  درد باشد مرد نیست\r\nهر که او مردی بود بی  درد نیست\r\nدرد درد عشق می  نوشم مدام\r\nدردمندم دردمندم والسلام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد دل از جان بودردا طلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردمندی بایدت ما را طلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد باید درد باید درد درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرد باید مرد باید مرد مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد اگر بی ‌درد باشد مرد نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که او مردی بود بی‌ درد نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدُرد درد عشق می‌ نوشم مدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردمندم دردمندم والسلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "اطلب",
       "PlainText": "درد دل از جان بودردا طلب\r\nدردمندی بایدت ما را طلب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد دل از جان بودردا طلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردمندی بایدت ما را طلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "رد",
       "PlainText": "درد باید درد باید درد درد\r\nمرد باید مرد باید مرد مرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرد باید درد باید درد درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرد باید مرد باید مرد مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ردنیست",
       "PlainText": "مرد اگر بی  درد باشد مرد نیست\r\nهر که او مردی بود بی  درد نیست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد اگر بی ‌درد باشد مرد نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که او مردی بود بی‌ درد نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ام",
       "PlainText": "درد درد عشق می  نوشم مدام\r\nدردمندم دردمندم والسلام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدُرد درد عشق می‌ نوشم مدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردمندم دردمندم والسلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

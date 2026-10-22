@@ -6,7 +6,7 @@
   "FullUrl": "/jami/7ourang/7-2/sh51",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی بچه روباهی است که همراه مادرش به باغ میوه می‌رود. او می‌خواهد میوه‌ها را بخورد، اما مادرش به او هشدار می‌دهد که نباید زیاده‌روی کند، زیرا این حرص می‌تواند باعث غفلت او از خطراتی مثل سگ شود. بچه روباه متوجه می‌شود که اگر به خوردن میوه‌ها ادامه دهد، ممکن است عواقب بدی برایش داشته باشد.",
+  "PoemSummary": "هوش مصنوعی: در این حکایت، روباه مادر به روباه بچه‌اش می‌گوید که وقتی به باغ میوه می‌روند، باید میوه‌های زیاد بخورد تا از آسیب سگ‌ها در امان بماند. روباه بچه با اشاره به دیدن میوه‌ها، به مادرش می‌گوید که آیا می‌تواند به این شیوه رفتار کند و در عین حال حواسش را جمع کند. او همچنین نگران است که حرص خوردن میوه ممکن است باعث فراموشی‌اش از خطرات اطراف شود. این گفت‌وگو به اهمیت تعادل میان لذت‌بردن و احتیاط اشاره دارد.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "گفت با روباه بچه مادرش\r\nچون به باغ میوه آمد رهبرش\r\nمیوه چندان خور که بتوانی به تگ\r\nرستگاری یافتن ز آسیب سگ\r\nگفت ای مادر چو بینم میوه را\r\nکی توانم کار بست این شیوه را\r\nحرص میوه پرده هوشم شود\r\nوز گزند سگ فراموشم شود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت با روباه بچه مادرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون به باغ میوه آمد رهبرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیوه چندان خور که بتوانی به تگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرستگاری یافتن ز آسیب سگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت ای مادر چو بینم میوه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی توانم کار بست این شیوه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرص میوه پرده هوشم شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز گزند سگ فراموشم شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "رش",
       "PlainText": "گفت با روباه بچه مادرش\r\nچون به باغ میوه آمد رهبرش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت با روباه بچه مادرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون به باغ میوه آمد رهبرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "گ",
       "PlainText": "میوه چندان خور که بتوانی به تگ\r\nرستگاری یافتن ز آسیب سگ",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیوه چندان خور که بتوانی به تگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرستگاری یافتن ز آسیب سگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "یوهرا",
       "PlainText": "گفت ای مادر چو بینم میوه را\r\nکی توانم کار بست این شیوه را",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت ای مادر چو بینم میوه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی توانم کار بست این شیوه را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "وشمشود",
       "PlainText": "حرص میوه پرده هوشم شود\r\nوز گزند سگ فراموشم شود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرص میوه پرده هوشم شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز گزند سگ فراموشم شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

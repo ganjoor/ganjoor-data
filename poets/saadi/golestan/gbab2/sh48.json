@@ -6,7 +6,7 @@
   "FullUrl": "/saadi/golestan/gbab2/sh48",
   "SourceName": "ویکی‌نبشته",
   "SourceUrlSlug": "wikisource",
-  "PoemSummary": "هوش مصنوعی: حکیمی در پاسخ به پرسش درباره سخاوت و شجاعت گفت که سخاوت از شجاعت برتر است، زیرا کسی که سخاوتمند است به شجاعت نیازی ندارد. او به حاتم طایی اشاره کرد که با وجود اینکه زندگی نکرده، نام نیک او تا ابد باقی مانده است. همچنین به این نکته اشاره کرد که باید مالی را که داریم به نیازمندان بدهیم، زیرا این کار باعث افزایش نعمت‌هایمان می‌شود. در نهایت، بر گور بهرام گور نوشته شده که بخشندگی بهتر از قدرت است.",
+  "PoemSummary": "هوش مصنوعی: در این حکایت، حکیمی درباره فضیلت سخاوت و شجاعت سخن می‌گوید و بیان می‌کند که سخاوت بر شجاعت ارجح است، زیرا کسی که سخاوتمند است دیگر نیازی به شجاعت ندارد. او به حاتم طایی اشاره می‌کند که با وجود اینکه دیگر در میان نیست، نام و آوازه‌اش به خاطر سخاوتش زنده مانده است. در ادامه، حکیم اشاره می‌کند که زکات مال و انفاق باعث باروری و برکت می‌شود و به نقل از نوشته‌ای بر قبر بهرام گور، تأکید می‌کند که بخشش و مهربانی از قدرت و زور بهتر است.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "نماند حاتم طایی ولیک تا به ابد\r\nبماند نام بلندش به نیکویی مشهور\r\nزکات مال به در کن که فضله رز را\r\nچو باغبان بزند بیشتر دهد انگور",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنماند حاتمِ طایی ولیک تا به ابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمانْد نامِ بلندش به نیکویی مشهور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزکات مال به در کن که فَضْلهٔ رَز را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو باغبان بزند، بیشتر دهد انگور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 3
     },
     {
       "Index": 1,
@@ -28,7 +29,8 @@
       "PlainText": "نبشته است بر گور بهرام گور\r\nکه دست کرم به ز بازوی زور",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبشته است بر گورِ بهرامِ گور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دستِ کَرَم به ز بازویِ زور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23
     },
     {
       "Index": 2,
@@ -38,7 +40,9 @@
       "RhymeLetters": "ور",
       "PlainText": "نبشته است بر گور بهرام گور\r\nکه دست کرم به ز بازوی زور",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبشته است بر گورِ بهرامِ گور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دستِ کَرَم به ز بازویِ زور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 3,
@@ -48,7 +52,9 @@
       "RhymeLetters": "بماندنامبلندشبهنیکوییمشهور",
       "PlainText": "نماند حاتم طایی ولیک تا به ابد\r\nبماند نام بلندش به نیکویی مشهور",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنماند حاتمِ طایی ولیک تا به ابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمانْد نامِ بلندش به نیکویی مشهور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -58,7 +64,9 @@
       "RhymeLetters": "چوباغبانبزندبیشتردهدانگور",
       "PlainText": "زکات مال به در کن که فضله رز را\r\nچو باغبان بزند بیشتر دهد انگور",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزکات مال به در کن که فَضْلهٔ رَز را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو باغبان بزند، بیشتر دهد انگور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

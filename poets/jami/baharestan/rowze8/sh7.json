@@ -6,7 +6,7 @@
   "FullUrl": "/jami/baharestan/rowze8/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این داستان، سگی در دروازه شهر ایستاده و متوجه خروج قرصی نان از شهر می‌شود. او به دنبال نان می‌دود و از آن می‌پرسد که به کجا می‌رود. نان پاسخ می‌دهد که به بیابانی می‌رود تا با دوستانش دیدار کند. سگ به او هشدار می‌دهد که مراقب باشد و اگر در خطر بیفتد، او هم در دنبالش خواهد بود. سگ از عشق و آرزوی خود برای نان سخن می‌گوید و بیان می‌کند که هرگز از جستجوی نان دست نخواهد کشید. در نهایت، سگ به نمایندگی از موجودات دیگر می‌گوید که بسیاری فقط برای نان زندگی می‌کنند و حاضرند هر سختی را تحمل کنند تا به آن دست یابند.",
+  "PoemSummary": "هوش مصنوعی: در این حکایت، سگی گرسنه در دروازه شهر ایستاده و قرص نانی را می‌بیند که از شهر خارج می‌شود. او به دنبال نان می‌دود و می‌پرسد که به کجا می‌رود. نان پاسخ می‌دهد که به بیابان می‌رود تا با سرهنگانی از گرگان و پلنگان دیدار کند. سگ ابراز می‌کند که همیشه آرزوی نان را در دل دارد و هرگز از جستجوی آن خسته نمی‌شود. او به نوعی نسبت به حالت همنوعانش اشاره می‌کند که تنها برای نان می‌دوند و به خدمت دیگران می‌پردازند.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "آنم که به عمر خویش هرگز\r\nخالی نشدم ز آرزویت\r\nگر گرد همه جهان بگردی\r\nساکن نشوم ز جستجویت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنم که به عمر خویش هرگز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی نشدم ز آرزویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر گرد همه جهان بگردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساکن نشوم ز جستجویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 13
     },
     {
       "Index": 2,
@@ -27,7 +28,9 @@
       "RhymeLetters": "ت",
       "PlainText": "آنم که به عمر خویش هرگز\r\nخالی نشدم ز آرزویت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنم که به عمر خویش هرگز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی نشدم ز آرزویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -37,7 +40,9 @@
       "RhymeLetters": "ت",
       "PlainText": "گر گرد همه جهان بگردی\r\nساکن نشوم ز جستجویت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر گرد همه جهان بگردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساکن نشوم ز جستجویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -47,7 +52,9 @@
       "RhymeLetters": "ان",
       "PlainText": "آنان که جز به نان نبود زنده جانشان\r\nدارند رو به خدمت دونان برای نان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که جز به نان نبود زنده جانشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارند رو به خدمت دونان برای نان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 6
     },
     {
       "Index": 5,
@@ -57,7 +64,9 @@
       "RhymeLetters": "ن",
       "PlainText": "گر فی المثل ز دست کسان صد قفا خورند\r\nهمچون سگ گرسنه دوند از قفای نان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر فی المثل ز دست کسان صد قفا خورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچون سگ گرسنه دوند از قفای نان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 6
     },
     {
       "Index": 6,
@@ -68,7 +77,8 @@
       "PlainText": "آنان که جز به نان نبود زنده جانشان\r\nدارند رو به خدمت دونان برای نان\r\nگر فی المثل ز دست کسان صد قفا خورند\r\nهمچون سگ گرسنه دوند از قفای نان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که جز به نان نبود زنده جانشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارند رو به خدمت دونان برای نان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر فی المثل ز دست کسان صد قفا خورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچون سگ گرسنه دوند از قفای نان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 1
     }
   ],
   "Verses": [

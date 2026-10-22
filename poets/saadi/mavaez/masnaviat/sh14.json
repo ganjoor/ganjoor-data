@@ -6,7 +6,7 @@
   "FullUrl": "/saadi/mavaez/masnaviat/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این متن، دربارهٔ تفاوت میان رند و زاهد صحبت می‌کند. رند، که دچار آشفتگی و مشکلاتی است، و زاهد، که خود را به سختی می‌زند. با وجود تلاش زاهد در راه زهد و صداقت، پیامی وجود دارد که باید محبت و احترام به پیامبر (مصطفی) را همواره در نظر داشته باشد. همچنین هشدار می‌دهد که نباید از حد طبیعی خویش فراتر برود، زیرا این کار ناپسند است.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به تضاد بین رند و زاهد اشاره می‌کند. او بر این باور است که زهد و ورع باید با صدق و صفا همراه باشد، اما افزون بر آن، نباید از محبت به پیامبر غافل شد. همچنین بر این نکته تأکید می‌کند که نباید از اندازه‌ها فراتر رفت و در این صورت چیزهایی که مذموم هستند، جلوه نخواهند یافت. در نهایت، شعر به اهمیت توازن در زندگی و سکوتی که در آن خودپسندی و برتری‌جویی نیست، اشاره دارد.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -21,7 +21,8 @@
       "PlainText": "چه رند پریشان شوریده بخت\r\nچه زاهد که بر خود کند کار سخت\r\nبه زهد و ورع کوش و صدق و صفا\r\nولیکن میفزای بر مصطفی\r\nاز اندازه بیرون سپیدی مخواه\r\nکه مذموم باشد چه جای سیاه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه رند پریشان شوریده بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه زاهد که بر خود کند کار سخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زهد و ورع کوش و صدق و صفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولیکن میفزای بر مصطفی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز اندازه بیرون سپیدی مخواه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مذموم باشد، چه جای سیاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 23
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "خت",
       "PlainText": "چه رند پریشان شوریده بخت\r\nچه زاهد که بر خود کند کار سخت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه رند پریشان شوریده بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه زاهد که بر خود کند کار سخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "فا",
       "PlainText": "به زهد و ورع کوش و صدق و صفا\r\nولیکن میفزای بر مصطفی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زهد و ورع کوش و صدق و صفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولیکن میفزای بر مصطفی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اه",
       "PlainText": "از اندازه بیرون سپیدی مخواه\r\nکه مذموم باشد چه جای سیاه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز اندازه بیرون سپیدی مخواه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مذموم باشد، چه جای سیاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

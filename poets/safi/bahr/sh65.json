@@ -6,7 +6,7 @@
   "FullUrl": "/safi/bahr/sh65",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این متن به ویژگی‌های فضیلت‌های اخلاقی و صفات نیکو انسان‌ها اشاره دارد. بیان می‌شود که برخی انسان‌ها از خصلت‌های بد و نکبت‌بار دور هستند و دارای جنسی از بهشت هستند. این افراد را به خاطر اخلاق خوبشان می‌توان به عنوان میراثی از انبیا شناخت. در نهایت، این متن تأکید می‌کند که خوش اخلاقی و رفتار نیکو از بهترین صفات انسانی است.",
+  "PoemSummary": "هوش مصنوعی: شعر به توصیف جنه الوراثه می‌پردازد و آن را به عنوان بهشتی از وارثت معرفی می‌کند که از هرگونه پلیدی و زشتی دور است. جنه الاخلاق نامیده شده و ویژگی‌های روحانی و اخلاقی را از طبیعت فراتر می‌برد. در اینجا به اهمیت خوش‌اخلاقی اشاره شده که از انبیا به انسان‌ها ارث رسیده است و نیکو بودن این اخلاق جزو امتیازات آن بهشت معنوی به شمار می‌آید.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "دگر باشد جنانی از وارثت\r\nمنزه از دنایت و ز خباثت\r\nمر آنرا جنه  الاخلاق گویند\r\nز اوصاف طبیعت طاق گویند\r\nخوش آنخلقی که نیک احداث باشد\r\nبما از انبیا میراث باشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر باشد جنانی از وارثت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنزه از دنائت و ز خباثت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر آنرا جنه‌‌الاخلاق گویند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اوصاف طبیعت طاق گویند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آنخلقی که نیک احداث باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبما از انبیا میراث باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -27,7 +28,9 @@
       "RhymeLetters": "ثت",
       "PlainText": "دگر باشد جنانی از وارثت\r\nمنزه از دنایت و ز خباثت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر باشد جنانی از وارثت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنزه از دنائت و ز خباثت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -37,7 +40,9 @@
       "RhymeLetters": "اقگویند",
       "PlainText": "مر آنرا جنه  الاخلاق گویند\r\nز اوصاف طبیعت طاق گویند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر آنرا جنه‌‌الاخلاق گویند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اوصاف طبیعت طاق گویند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -47,7 +52,9 @@
       "RhymeLetters": "اثباشد",
       "PlainText": "خوش آنخلقی که نیک احداث باشد\r\nبما از انبیا میراث باشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آنخلقی که نیک احداث باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبما از انبیا میراث باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

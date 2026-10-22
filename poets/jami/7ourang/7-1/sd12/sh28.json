@@ -6,7 +6,7 @@
   "FullUrl": "/jami/7ourang/7-1/sd12/sh28",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این اشعار، به روز محشر و عزم خداوند بر حسابرسی از انسان‌ها اشاره شده است. در آن روز، مطیعان و نافرمانان در صفوف مختلفی قرار می‌گیرند و هر کس باید به سؤالاتی که درباره اعمالش مطرح می‌شود، پاسخ دهد. فردی که به درستی و سرعت پاسخ دهد، از شرایط سخت نجات می‌یابد، اما اگر نتواند پاسخ درست بدهد، با رنج و عذاب طولانی مواجه خواهد شد.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، با اشاره به مواقف عرصات، حال و هوای قیامت و روز حساب بیان می‌شود. در این روز، بندگان خدا در برابر خالق خود ایستاده و آماده پاسخگویی هستند. هر شخص باید جواب‌هایی به درستی بدهد و در این مواقف، سرعت عمل اهمیت دارد؛ چرا که در غیر این صورت، ممکن است از سختی حال و رنج‌های بی‌پایان در عذاب بماند. شاعر به اهمیت آمادگی و پاسخگویی در برابر سوالات الهی اشاره می‌کند و هشدار می‌دهد که در عدم آمادگی، عواقبی دردناک در انتظار است.",
   "Metre": {
     "Id": 9,
     "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
@@ -21,7 +21,8 @@
       "PlainText": "پنجه آمد مواقف عرصات\r\nکه مطیعان بایستند و عصات\r\nکرده آماده خالق داور\r\nبهر هر موقفی سؤال دگر\r\nهر که گوید جواب خود به صواب\r\nطی هر موقفی کند به شتاب\r\nور نه در هر یکی ز سختی حال\r\nرنج بیند هزار سال و ملال",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپنجه آمد مواقف عرصات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مطیعان بایستند و عصات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده آماده خالق داور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر هر موقفی سؤال دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که گوید جواب خود به صواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطی هر موقفی کند به شتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور نه در هر یکی ز سختی حال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنج بیند هزار سال و ملال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 9
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "صات",
       "PlainText": "پنجه آمد مواقف عرصات\r\nکه مطیعان بایستند و عصات",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپنجه آمد مواقف عرصات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مطیعان بایستند و عصات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ر",
       "PlainText": "کرده آماده خالق داور\r\nبهر هر موقفی سؤال دگر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده آماده خالق داور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر هر موقفی سؤال دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اب",
       "PlainText": "هر که گوید جواب خود به صواب\r\nطی هر موقفی کند به شتاب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که گوید جواب خود به صواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطی هر موقفی کند به شتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ال",
       "PlainText": "ور نه در هر یکی ز سختی حال\r\nرنج بیند هزار سال و ملال",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور نه در هر یکی ز سختی حال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنج بیند هزار سال و ملال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

@@ -6,7 +6,7 @@
   "FullUrl": "/rhedayat/riazolarefin/rowze1/sh36",
   "SourceName": "کتابخانهٔ تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: این متن درباره‌ی شاه خلیل الله بن خلیفه ابراهیم است که مراحل سیر و سلوک را در کنار پدرش به پایان رسانده و به درجات عالی دست یافته است. اشعار به تکامل روحانی عارف اشاره دارد که خود را فانی کرده و تنها ذات حق را ثابت می‌کند. شاعر همچنین از عارفانی صحبت می‌کند که در ظاهر با مردم عادی هستند، اما در باطن به حقیقت وجود خود آگاهند. در نهایت، شاعر به این نکته اشاره می‌کند که در سطح ظاهری ممکن است تنها قطره‌ای از دریا به نظر برسند، اما در واقع همه دریا را در خود دارند و به حقیقت وجود خود پی برده‌اند.",
+  "PoemSummary": "هوش مصنوعی: شعر دربارهٔ عارف بدخشانی است که مراحل سیر و سلوک را با هدایت پدرش پشت سر گذاشته و به مقامات عالی دست یافته است. شاعر در رباعی اول به مفهوم فنا و بقا اشاره دارد، بیان می‌کند که با آگاهی از غفلت خود، به خواب و بیداری می‌رسد. در ادامه، عارف واقعی کسی است که خود را فانی می‌کند و به شناسایی صفات و نام‌های الهی می‌رسد. شاعر همچنین اشاره می‌کند که عارفان به حالت عام و بی‌رنگی خود می‌توانند تمام ظواهر را درک کنند، حتی اگر مردم آن‌ها را به رنگ و شکل خود ببینند. در نهایت، آنها به صورت قطره در دریا وجود دارند و به ذات خود آگاهی یافته‌اند.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "من آب شدم سراب دیدم خود را\r\nدریا گشتم حباب دیدم خود را\r\nآگاه شدم تمام دیدم غفلت\r\nبیدار شدم به خواب دیدم خود را",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن آب شدم سراب دیدم خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریا گشتم حباب دیدم خود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآگاه شدم تمام دیدم غفلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیدار شدم به خواب دیدم خود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     },
     {
       "Index": 2,
@@ -27,7 +28,9 @@
       "RhymeLetters": "ابدیدمخودرا",
       "PlainText": "من آب شدم سراب دیدم خود را\r\nدریا گشتم حباب دیدم خود را",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن آب شدم سراب دیدم خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریا گشتم حباب دیدم خود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -37,7 +40,9 @@
       "RhymeLetters": "ا",
       "PlainText": "آگاه شدم تمام دیدم غفلت\r\nبیدار شدم به خواب دیدم خود را",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآگاه شدم تمام دیدم غفلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیدار شدم به خواب دیدم خود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -47,7 +52,9 @@
       "RhymeLetters": "ا",
       "PlainText": "عارف بود آنکه خویش را کرد فنا\r\nاثبات نمود ذات حق را به بقا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارف بود آنکه خویش را کرد فنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاثبات نمود ذات حق را به بقا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 12
     },
     {
       "Index": 5,
@@ -57,7 +64,9 @@
       "RhymeLetters": "ا",
       "PlainText": "صوفی است کسی که خویش را کرد ثبوت\r\nدریافت به خود جمله صفات و اسما",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی است کسی که خویش را کرد ثبوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریافت به خود جمله صفات و اسما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 12
     },
     {
       "Index": 6,
@@ -67,7 +76,9 @@
       "RhymeLetters": "ام",
       "PlainText": "با مردم عام هست خود عارف عام\r\nآگاه ز پختگی او نی هر خام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا مردم عام هست خود عارف عام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآگاه ز پختگی او نی هر خام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 11
     },
     {
       "Index": 7,
@@ -77,7 +88,9 @@
       "RhymeLetters": "م",
       "PlainText": "بینند به رنگ خویش او را همه خلق\r\nدر بی رنگی اگرچه او هست تمام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبینند به رنگ خویش او را همه خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بی رنگی اگرچه او هست تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 11
     },
     {
       "Index": 8,
@@ -87,7 +100,9 @@
       "RhymeLetters": "اییم",
       "PlainText": "در صورت قطره سر به سر دریاییم\r\nتو ذره مبین مهر جهان آراییم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر صورت قطره سر به سر دریاییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو ذره مبین مهر جهان آراییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 10
     },
     {
       "Index": 9,
@@ -97,7 +112,9 @@
       "RhymeLetters": "م",
       "PlainText": "گویند که کنه ذات او نتوان یافت\r\nما یافته ایم اینکه کنهش ماییم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند که کنه ذات او نتوان یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما یافته‌ایم اینکه کنهش ماییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 10
     },
     {
       "Index": 10,
@@ -108,7 +125,8 @@
       "PlainText": "در صورت قطره سر به سر دریاییم\r\nتو ذره مبین مهر جهان آراییم\r\nگویند که کنه ذات او نتوان یافت\r\nما یافته ایم اینکه کنهش ماییم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر صورت قطره سر به سر دریاییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو ذره مبین مهر جهان آراییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند که کنه ذات او نتوان یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما یافته‌ایم اینکه کنهش ماییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     },
     {
       "Index": 11,
@@ -119,7 +137,8 @@
       "PlainText": "با مردم عام هست خود عارف عام\r\nآگاه ز پختگی او نی هر خام\r\nبینند به رنگ خویش او را همه خلق\r\nدر بی رنگی اگرچه او هست تمام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا مردم عام هست خود عارف عام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآگاه ز پختگی او نی هر خام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبینند به رنگ خویش او را همه خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بی رنگی اگرچه او هست تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     },
     {
       "Index": 12,
@@ -130,7 +149,8 @@
       "PlainText": "عارف بود آنکه خویش را کرد فنا\r\nاثبات نمود ذات حق را به بقا\r\nصوفی است کسی که خویش را کرد ثبوت\r\nدریافت به خود جمله صفات و اسما",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارف بود آنکه خویش را کرد فنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاثبات نمود ذات حق را به بقا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی است کسی که خویش را کرد ثبوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریافت به خود جمله صفات و اسما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     }
   ],
   "Verses": [

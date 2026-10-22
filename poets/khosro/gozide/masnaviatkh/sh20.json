@@ -6,7 +6,7 @@
   "FullUrl": "/khosro/gozide/masnaviatkh/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: شاعر در این بیت از پدر خود سلام می‌رساند و از او می‌خواهد که دعا کند. سپس به فرزند خود می‌گوید که باید راهی غیر از راه مخالف را انتخاب کند و به او می‌فهماند که مانند آفتاب قدرت و توانایی دارد. او اشاره می‌کند که این هنر و مهارت از پدرش به او رسیده و حالا به فرزندش منتقل می‌شود.",
+  "PoemSummary": "هوش مصنوعی: شعر «پیام پدر» به بیان وصیت و نصایح پدر به فرزندش می‌پردازد. پدر از فرزندش می‌خواهد که در ابتدا به او سلام کند و سپس دعا کند. او به فرزندش یادآوری می‌کند که باید همیشه در مسیر صحیح و راستین حرکت کند و از او به عنوان منبع روشنایی و قدرت یاد می‌کند. پیام اصلی این است که دانش و آداب پدر از طریق نسل‌ها منتقل می‌شود و فرزند باید این میراث را پاس بدارد.",
   "Metre": {
     "Id": 19,
     "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
@@ -21,7 +21,8 @@
       "PlainText": "کز پدر اول برسانش سلام\r\nوآخرش آیین دعا کن تمام\r\nکای خلف از راه مخالف بتاب\r\nتیغ بیفگن که منم آفتاب\r\nاز پدرم کی رسد این فن به تو\r\nاز پدر من به من از من به تو",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز پدر اول برسانش سلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآخرش آئین دعا کن تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکای خلف! از راه مخالف بتاب!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغ بیفگن که منم آفتاب!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پدرم کی رسد این فن به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پدر من به من، از من به تو!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 19
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ام",
       "PlainText": "کز پدر اول برسانش سلام\r\nوآخرش آیین دعا کن تمام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز پدر اول برسانش سلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآخرش آئین دعا کن تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 19,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "تاب",
       "PlainText": "کای خلف از راه مخالف بتاب\r\nتیغ بیفگن که منم آفتاب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکای خلف! از راه مخالف بتاب!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغ بیفگن که منم آفتاب!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 19,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "نبهتو",
       "PlainText": "از پدرم کی رسد این فن به تو\r\nاز پدر من به من از من به تو",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پدرم کی رسد این فن به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پدر من به من، از من به تو!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 19,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

@@ -6,7 +6,7 @@
   "FullUrl": "/salman/jamkhor/sh63",
   "SourceName": "ساوه‌سرا",
   "SourceUrlSlug": "savehsara",
-  "PoemSummary": "هوش مصنوعی: این متن شعری عاشقانه و غمگین است که شاعر از حال دل خود و عشقش به محبوب سخن می‌گوید. او از رنج و بیماری قلبی ناشی از دوری معشوقش می‌نالد و به سرنوشت تلخ خود اشاره می‌کند. شاعر احساس می‌کند که محبوبش در میان خارها و مشکلات قرار دارد و از او می‌خواهد که بگوید با چه کسی در ارتباط است. او بیان می‌کند که هر روز از شوق معشوقش در غم و حسرت به سر می‌برد و از دیگران می‌خواهد که او را در درک درد و غمش یاری کنند. در انتها، به احساسات عمیق و شوق دیدار یار اشاره دارد و ناامیدی و آرزوهایش برای دیدار معشوق را به تصویر می‌کشد.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل از عشق و دلتنگی‌اش برای معشوق سخن می‌گوید و حال خود را در بیماری عشق توصیف می‌کند. او از وضعیت دلشکسته و غمگین خود می‌گوید که چون پروانه در آتش عشق می‌سوزد و به شدت در انتظار دیدار محبوب است. نگران از اینکه شاید در حسرت و دوری از معشوق جانش از میان برود، خواهان راهی برای بهبود درد دلش است. شاعر از درد عمیق خود صحبت می‌کند و آرزو می‌کند که یک شب در خلوت محبوب حضور یابد و از غم‌های پنهانش بگوید. در نهایت، او یادآور عشق و زیبایی معشوقش است و در پی پیوندی دوباره با اوست.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "تو ای جان من ای بیمار چونی\r\nدرین بیماری و تیمار چونی\r\nگلی بودی نبودت هیچ خاری\r\nکنون در چنگ چندین خار چونی\r\nترا همواره بستر بود گلبرگ\r\nگلا از جای ناهموار چونی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو ای جان من ای بیمار چونی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرین بیماری و تیمار چونی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلی بودی نبودت هیچ خاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنون در چنگ چندین خار چونی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا همواره بستر بود گلبرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلا، از جای ناهموار چونی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "یمارچونی",
       "PlainText": "تو ای جان من ای بیمار چونی\r\nدرین بیماری و تیمار چونی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو ای جان من ای بیمار چونی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرین بیماری و تیمار چونی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ی",
       "PlainText": "گلی بودی نبودت هیچ خاری\r\nکنون در چنگ چندین خار چونی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلی بودی نبودت هیچ خاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنون در چنگ چندین خار چونی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ی",
       "PlainText": "ترا همواره بستر بود گلبرگ\r\nگلا از جای ناهموار چونی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا همواره بستر بود گلبرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلا، از جای ناهموار چونی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "س",
       "PlainText": "مرا باری خیال تست مونس\r\nندانم با که می داری تو مجلس",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا باری خیال تست مونس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندانم با که می‌داری تو مجلس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 6,
@@ -71,7 +80,9 @@
       "RhymeLetters": "از",
       "PlainText": "صبا با من همه روزست دمساز \r\nترا آخر بگو تا کیست همراز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبا با من همه روزست دمساز \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترا آخر بگو تا کیست همراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 7,
@@ -81,7 +92,9 @@
       "RhymeLetters": "ویت",
       "PlainText": "نشسته در ره بادم به بویت\r\nکه باد آرد مگر گردی ز کویت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشسته در ره بادم به بویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باد آرد مگر گردی ز کویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 8,
@@ -91,7 +104,9 @@
       "RhymeLetters": "ان",
       "PlainText": "تو چون شمعی نشسته در شبستان\r\nدر آهن پای و در سر دشمن جان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو چون شمعی نشسته در شبستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آهن پای و در سر دشمن جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 9,
@@ -101,7 +116,9 @@
       "RhymeLetters": "ش",
       "PlainText": "من از شوق جمال یار مهوش\r\nزنم پروانه سان خود را بر آتش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از شوق جمال یار مهوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنم پروانه سان خود را بر آتش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 10,
@@ -111,7 +128,9 @@
       "RhymeLetters": "ل",
       "PlainText": "گه از حسرت زنم من سنگ بر دل\r\nکه دارد یار من در سنگ منزل",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه از حسرت زنم من سنگ بر دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دارد یار من در سنگ منزل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 11,
@@ -121,7 +140,9 @@
       "RhymeLetters": "اری",
       "PlainText": "مگر آهم تواند کرد کاری\r\nکند در خلوتت یک شب گذاری",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر آهم تواند کرد کاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند در خلوتت یک شب گذاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 12,
@@ -131,7 +152,9 @@
       "RhymeLetters": "ینم",
       "PlainText": "مرادی نیست در عالم جز اینم\r\nکه روی نازنینت باز بینم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرادی نیست در عالم جز اینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه روی نازنینت باز بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 13,
@@ -141,7 +164,9 @@
       "RhymeLetters": "یرم",
       "PlainText": "سر زلف دل آشوبت بگیرم\r\nبه سودای تو در پای تو میرم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر زلف دل آشوبت بگیرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سودای تو در پای تو میرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 14,
@@ -151,7 +176,9 @@
       "RhymeLetters": "ل",
       "PlainText": "مرا جانی است مرکب رانده در گل\r\nاز آن ترسم که ناگه در پی دل",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا جانی است مرکب رانده در گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آن ترسم که ناگه در پی دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 15,
@@ -161,7 +188,9 @@
       "RhymeLetters": "لبماند",
       "PlainText": "رود جان و تنم در گل بماند\r\nمرا شوق رخت در دل بماند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرود جان و تنم در گل بماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا شوق رخت در دل بماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 16,
@@ -171,7 +200,9 @@
       "RhymeLetters": "ارگردد",
       "PlainText": "چو در دل نقش زلف یار گردد\r\nدلم را صبر تار و مار گردد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در دل نقش زلف یار گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلم را صبر تار و مار گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 17,
@@ -181,7 +212,9 @@
       "RhymeLetters": "نگ",
       "PlainText": "به چشمم در غم آن نرگس شنگ\r\nجهان گاهی سیه باشد گهی تنگ",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه چشمم در غم آن نرگس شنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان گاهی سیه باشد گهی تنگ \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 18,
@@ -191,7 +224,9 @@
       "RhymeLetters": "یست",
       "PlainText": "خبر ده تا دوای کار من چیست\r\nطبیب درد بی درمان من کیست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخبر ده تا دوای کار من چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبیب درد بی درمان من کیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 19,
@@ -201,7 +236,9 @@
       "RhymeLetters": "ویم",
       "PlainText": "غم پنهان خود را با که گویم\r\nعلاج درد دل را از که جویم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم پنهان خود را با که گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلاج درد دل را از که جویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 20,
@@ -211,7 +248,9 @@
       "RhymeLetters": "ان",
       "PlainText": "چو آمد نامه خسرو به پایان\r\nبه خون دیده اش بنوشت عنوان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو آمد نامه خسرو به پایان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خون دیده‌اش بنوشت عنوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 21,
@@ -221,7 +260,9 @@
       "RhymeLetters": "امه",
       "PlainText": "روان از دیده خون دل چو خامه\r\nبدان هر دو صنم بنوشت نامه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروان از دیده خون دل چو خامه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدان هر دو صنم بنوشت نامه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 22,
@@ -231,7 +272,9 @@
       "RhymeLetters": "انید",
       "PlainText": "که این غمنامه را هیچ ار توانید\r\nبدان ماه پری پیکر رسانید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه این غمنامه را هیچ ار توانید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدان ماه پری پیکر رسانید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 23,
@@ -241,7 +284,9 @@
       "RhymeLetters": "نگسازید",
       "PlainText": "چو عود و چنگ را آهنگ سازید\r\nز قولم این غزل بر چنگ سازید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو عود و چنگ را آهنگ سازید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز قولم این غزل بر چنگ سازید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 24,
@@ -252,7 +297,8 @@
       "PlainText": "مرا باری خیال تست مونس\r\nندانم با که می داری تو مجلس\r\nصبا با من همه روزست دمساز \r\nترا آخر بگو تا کیست همراز\r\nنشسته در ره بادم به بویت\r\nکه باد آرد مگر گردی ز کویت\r\nتو چون شمعی نشسته در شبستان\r\nدر آهن پای و در سر دشمن جان\r\nمن از شوق جمال یار مهوش\r\nزنم پروانه سان خود را بر آتش\r\nگه از حسرت زنم من سنگ بر دل\r\nکه دارد یار من در سنگ منزل\r\nمگر آهم تواند کرد کاری\r\nکند در خلوتت یک شب گذاری\r\nمرادی نیست در عالم جز اینم\r\nکه روی نازنینت باز بینم\r\nسر زلف دل آشوبت بگیرم\r\nبه سودای تو در پای تو میرم\r\nمرا جانی است مرکب رانده در گل\r\nاز آن ترسم که ناگه در پی دل\r\nرود جان و تنم در گل بماند\r\nمرا شوق رخت در دل بماند\r\nچو در دل نقش زلف یار گردد\r\nدلم را صبر تار و مار گردد\r\nبه چشمم در غم آن نرگس شنگ\r\nجهان گاهی سیه باشد گهی تنگ \r\nخبر ده تا دوای کار من چیست\r\nطبیب درد بی درمان من کیست\r\nغم پنهان خود را با که گویم\r\nعلاج درد دل را از که جویم\r\nچو آمد نامه خسرو به پایان\r\nبه خون دیده اش بنوشت عنوان\r\nروان از دیده خون دل چو خامه\r\nبدان هر دو صنم بنوشت نامه\r\nکه این غمنامه را هیچ ار توانید\r\nبدان ماه پری پیکر رسانید\r\nچو عود و چنگ را آهنگ سازید\r\nز قولم این غزل بر چنگ سازید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا باری خیال تست مونس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندانم با که می‌داری تو مجلس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبا با من همه روزست دمساز \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترا آخر بگو تا کیست همراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشسته در ره بادم به بویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باد آرد مگر گردی ز کویت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو چون شمعی نشسته در شبستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آهن پای و در سر دشمن جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از شوق جمال یار مهوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنم پروانه سان خود را بر آتش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه از حسرت زنم من سنگ بر دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دارد یار من در سنگ منزل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر آهم تواند کرد کاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند در خلوتت یک شب گذاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرادی نیست در عالم جز اینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه روی نازنینت باز بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر زلف دل آشوبت بگیرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سودای تو در پای تو میرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا جانی است مرکب رانده در گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آن ترسم که ناگه در پی دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرود جان و تنم در گل بماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا شوق رخت در دل بماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در دل نقش زلف یار گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلم را صبر تار و مار گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه چشمم در غم آن نرگس شنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان گاهی سیه باشد گهی تنگ \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخبر ده تا دوای کار من چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبیب درد بی درمان من کیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم پنهان خود را با که گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلاج درد دل را از که جویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو آمد نامه خسرو به پایان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خون دیده‌اش بنوشت عنوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروان از دیده خون دل چو خامه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدان هر دو صنم بنوشت نامه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه این غمنامه را هیچ ار توانید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدان ماه پری پیکر رسانید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو عود و چنگ را آهنگ سازید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز قولم این غزل بر چنگ سازید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 20
+      "CoupletsCount": 20,
+      "MetreId": 12
     }
   ],
   "Verses": [

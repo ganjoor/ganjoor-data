@@ -7,7 +7,7 @@
   "RhymeLetters": "باخبرشوازمقامدمی",
   "SourceName": "سایت علامه اقبال",
   "SourceUrlSlug": "allamaiqbal",
-  "PoemSummary": "هوش مصنوعی: شعر \u0022دمیت احترام دمی\u0022 اشاره به مفهوم ارزش و مقام دم (لحظه) دارد. در این شعر به اهمیت و احترام به هر لحظه زندگی اشاره شده و بر این نکته تاکید می‌شود که هر دم و دقایقی که می‌گذرد، دارای ارزش است و باید از آن‌ها آگاه بود و از آن‌ها بهره‌برداری کرد. این موضوع در \u0022جاویدنامه\u0022 به عنوان یکی از مفاهیم کلیدی مطرح شده است.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به اهمیت و مقام انسانی در زندگی اشاره می‌کند. او بر لزوم توجه به لحظه‌ها و ارزش هر دم از زندگی تأکید دارد و از انسان می‌خواهد که از آگاهی و وجود خود بهره‌برداری کند. شعر به نوعی دعوتی است برای درک و شناخت بهتر از وجود انسانی و اهمیت حضور آن در عالم هستی.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -22,7 +22,8 @@
       "PlainText": "دمیت احترام دمی\r\nبا خبر شو از مقام دمی\r\nجاویدنامه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدمیت احترام دمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خبر شو از مقام دمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eجاویدنامه\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 12
     },
     {
       "Index": 1,
@@ -32,7 +33,9 @@
       "RhymeLetters": "امدمی",
       "PlainText": "دمیت احترام دمی\r\nبا خبر شو از مقام دمی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدمیت احترام دمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خبر شو از مقام دمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -42,7 +45,9 @@
       "RhymeLetters": "",
       "PlainText": "جاویدنامه",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eجاویدنامه\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

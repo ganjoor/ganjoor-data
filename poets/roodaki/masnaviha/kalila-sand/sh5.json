@@ -6,7 +6,7 @@
   "FullUrl": "/roodaki/masnaviha/kalila-sand/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این متن، زنی که در حال خواب است، ناگهان بیدار می‌شود و به دلیل صدای دزدان به سرعت از دکان پایین می‌آید. او در دستانش شیء‌ای به نام \u0022فلرزنگ\u0022 (ظاهراً نوعی زیور یا ابزار) می‌گیرد. شوهرش وقتی آن فلرزنگ را می‌بیند، متوجه خاکی که روی آن نشسته است می‌شود و به زن می‌گوید که او پلید است.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، زنی در خواب است که با صدای همسرش از خواب بیدار می‌شود. او به دلیل ترس از دزدان به سرعت از دکان فرود می‌آید و فلز زنگ‌زده‌ای را در دست می‌گیرد. شوهر که متوجه وضعیت می‌شود، به او خبر می‌دهد که دزدان در راه هستند و به زن اهانت می‌کند و او را فاسد خطاب می‌کند. این وضعیت نمایانگر بحرانی در روابط عاطفی و اعتماد بین دو شخصیت است.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "آن گرنج و آن شکر برداشت پاک\r\nوندر آن دستار آن زن بست خاک\r\nباز کرد از خواب زن را نرم و خوش\r\nگفت دزدانند و آمد پای پش\r\nآن زن از دکان فرود آمد چو باد\r\nپس فلرزنگش به دست اندر نهاد\r\nشوی بگشاد آن فلرزش خاک دید\r\nکرد زن را بانگ و گفتش ای پلید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن گرنج و آن شکر برداشت پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوندر آن دستار آن زن بست خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز کرد از خواب زن را نرم و خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت: دزدانند و آمد پای پش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن زن از دکان فرود آمد چو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس فلرزنگش به دست اندر نهاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوی بگشاد آن فلرزش، خاک دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد زن را بانگ و گفتش: ای پلید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "اک",
       "PlainText": "آن گرنج و آن شکر برداشت پاک\r\nوندر آن دستار آن زن بست خاک",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن گرنج و آن شکر برداشت پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوندر آن دستار آن زن بست خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ش",
       "PlainText": "باز کرد از خواب زن را نرم و خوش\r\nگفت دزدانند و آمد پای پش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز کرد از خواب زن را نرم و خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت: دزدانند و آمد پای پش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اد",
       "PlainText": "آن زن از دکان فرود آمد چو باد\r\nپس فلرزنگش به دست اندر نهاد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن زن از دکان فرود آمد چو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس فلرزنگش به دست اندر نهاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ید",
       "PlainText": "شوی بگشاد آن فلرزش خاک دید\r\nکرد زن را بانگ و گفتش ای پلید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوی بگشاد آن فلرزش، خاک دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد زن را بانگ و گفتش: ای پلید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

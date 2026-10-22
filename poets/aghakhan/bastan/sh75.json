@@ -6,7 +6,7 @@
   "FullUrl": "/aghakhan/bastan/sh75",
   "SourceName": "چکامه",
   "SourceUrlSlug": "chekameh",
-  "PoemSummary": "هوش مصنوعی: این شعر اشاره به حکومتی در ایران دارد که برادر شاه، با وجود ویژگی‌های نیکو و تلاش برای حفظ عدالت و نظم، به دلیل نداشتن قدرت و تأثیر در برابر ترک‌ها، هر سال به آن‌ها مالیات می‌داد. این وضعیت به شاه که از این ظلم و ناتوانی برادرش رنج می‌برد، فشار می‌آورد و او در اثر این اندوه می‌میرد. در نهایت، شعر به فقدان قدرت و اهمیت برادر در برابر دشمنان اشاره می‌کند.",
+  "PoemSummary": "هوش مصنوعی: پادشاهی پلاش، برادر پیروز، بر تخت سلطنت نشسته و به عنوان پادشاه ایران معرفی شده است. او که به جای برادرش باید کشور را مدیریت کند، در آغاز با توجه به احترام به اصول و قوانین، سعی در برقراری عدالت دارد. اما چون به ترکان نمی‌تواند مالیات بدهد، دچار مشکل می‌شود و این نگرانی و فشار مالی باعث می‌شود که او از غم به مرگ دچار گردد. در واقع، ناتوانی در پاسخگویی به نیازهای مالی کشور و رعایت حقوق برادرش سبب فروپاشی روحیه‌اش می‌شود.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -21,7 +21,8 @@
       "PlainText": "نشاندند بر گاه زرین پلاش\r\nکه ایدون به ایران زمین شاه باش\r\nکه کهتر برادر بد از شاه راد\r\nنگه داشت گیتی به آیین و داد\r\nولی چون به ترکان نبودیش تاو\r\nهمی داد هر سالشان باژوساو\r\nازین غم بمرد آن شه پاک رای\r\nکه کین برادر نیاورد جای",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشاندند بر گاه زرین پلاش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ایدون به ایران زمین شاه باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه کهتر برادر بد از شاه راد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگه داشت گیتی به آیین و داد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولی چون به ترکان نبودیش تاو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی داد هر سالشان باژوساو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازین غم بمرد آن شه پاک رای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کین برادر نیاورد جای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 23
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "اش",
       "PlainText": "نشاندند بر گاه زرین پلاش\r\nکه ایدون به ایران زمین شاه باش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشاندند بر گاه زرین پلاش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ایدون به ایران زمین شاه باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "اد",
       "PlainText": "که کهتر برادر بد از شاه راد\r\nنگه داشت گیتی به آیین و داد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه کهتر برادر بد از شاه راد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگه داشت گیتی به آیین و داد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "او",
       "PlainText": "ولی چون به ترکان نبودیش تاو\r\nهمی داد هر سالشان باژوساو",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولی چون به ترکان نبودیش تاو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی داد هر سالشان باژوساو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ای",
       "PlainText": "ازین غم بمرد آن شه پاک رای\r\nکه کین برادر نیاورد جای",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازین غم بمرد آن شه پاک رای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کین برادر نیاورد جای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

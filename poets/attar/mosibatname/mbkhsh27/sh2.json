@@ -6,7 +6,7 @@
   "FullUrl": "/attar/mosibatname/mbkhsh27/sh2",
   "SourceName": "کتابخانه تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از مجنون می‌خواهد که به عشق لیلی فکر کند و از عقل خود فاصله بگیرد. او تأکید می‌کند که اگر با عقل نزد او بیاید، آسیب‌های زیادی خواهد دید، اما اگر به عنوان یک دیوانه بیاید، دیگران با او کاری نخواهند داشت و او می‌تواند آزادانه عشقش را تجربه کند. به طور کلی، شعر به اهمیت عشق و رهایی از قید و بندهای عقل اشاره دارد.",
+  "PoemSummary": "هوش مصنوعی: لیلی در گفت‌وگویی با مجنون او را به دیوانگی دعوت می‌کند و می‌گوید عشقش موجب شده است تا از عقل خود بی‌خبر باشد. او به مجنون توصیه می‌کند که باید با حکمت و خرد بیگانه شود و دیوانه‌وار به او روی آورد. لیلی به مجنون هشدار می‌دهد که اگر با عقل نزد او بیاید، به مشکلات زیادی دچار خواهد شد، اما اگر به دیوانه بودن ادامه دهد، در آغوش عشق او آرامش خواهد یافت و کسی به او کار نخواهد داشت.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "گفت با مجنون شبی لیلی براز\r\nکای بعشق من ز عقل افتاده باز\r\nتا توانی با خرد بیگانه باش\r\nعقل را غارت کن و دیوانه باش\r\nزآنک اگر تو عاقل آیی سوی من\r\nزخم بسیاری خوری در کوی من\r\nلیک اگر دیوانه آیی در شمار\r\nهیچکس را با تو نبود هیچ کار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت با مجنون شبی لیلی براز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکای بعشق من ز عقل افتاده باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا توانی با خرد بیگانه باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل را غارت کن و دیوانه باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنک اگر تو عاقل آئی سوی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزخم بسیاری خوری در کوی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک اگر دیوانه آئی در شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچکس را با تو نبود هیچ کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "از",
       "PlainText": "گفت با مجنون شبی لیلی براز\r\nکای بعشق من ز عقل افتاده باز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت با مجنون شبی لیلی براز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکای بعشق من ز عقل افتاده باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "انهباش",
       "PlainText": "تا توانی با خرد بیگانه باش\r\nعقل را غارت کن و دیوانه باش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا توانی با خرد بیگانه باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل را غارت کن و دیوانه باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ویمن",
       "PlainText": "زآنک اگر تو عاقل آیی سوی من\r\nزخم بسیاری خوری در کوی من",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنک اگر تو عاقل آئی سوی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزخم بسیاری خوری در کوی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ار",
       "PlainText": "لیک اگر دیوانه آیی در شمار\r\nهیچکس را با تو نبود هیچ کار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک اگر دیوانه آئی در شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچکس را با تو نبود هیچ کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

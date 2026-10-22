@@ -6,7 +6,7 @@
   "FullUrl": "/aghakhan/bastan/sh85",
   "SourceName": "چکامه",
   "SourceUrlSlug": "chekameh",
-  "PoemSummary": "هوش مصنوعی: در این شعر به داستانی از اردشیر اشاره می‌شود که پورش (پسرش) را برای هفت سال به ابرگاه سپرد. او سپاه را به پیروز خسرو که مردی توانمند و با دستگاه بود، سپرد. اما پس از هفت ماه، آن جوان به دست مردی تیره‌رو کشته می‌شود. در نهایت، این سوال مطرح می‌شود که آیا آن جوان لیاقت شاهی را داشت یا خیر.",
+  "PoemSummary": "هوش مصنوعی: شعر به پادشاهی اردشیر و رویدادهای مربوط به او می‌پردازد. اردشیر، فرزند مایه‌ای گران‌بها، در هفت سالگی به تخت سلطنت نشسته و سپاه خود را به پیروز خسرو سپرده است که او نیز از شخصیت‌های مهم شاهی است. اما پس از گذشت هفت ماه، جوانی پیروز به‌دست مردی تیره‌دل کشته می‌شود. این رویدادها به نوعی به بازتاب قدرت و سرنوشت در عرصهٔ سلطنت می‌پردازد.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -21,7 +21,8 @@
       "PlainText": "گران مایه پورش که بد اردشیر\r\nابرگاه شد هفت ساله هژیر\r\nبه پیروز خسرو سپرد او سپاه\r\nکه او پهلوی بود با دستگاه\r\nپس از هفت مه کشته شد آن جوان\r\nبه دست چنان مرد تیره روان\r\nمگر مایه ی کار بودی گراز\r\nکه بر تخت شاهی نشیند فراز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگران مایه پورش که بد اردشیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابرگاه شد هفت ساله هژیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیروز خسرو سپرد او سپاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه او پهلوی بود با دستگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس از هفت مه کشته شد آن جوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دست چنان مرد تیره روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر مایه ی کار بودی گراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر تخت شاهی نشیند فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 23
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "یر",
       "PlainText": "گران مایه پورش که بد اردشیر\r\nابرگاه شد هفت ساله هژیر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگران مایه پورش که بد اردشیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابرگاه شد هفت ساله هژیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "اه",
       "PlainText": "به پیروز خسرو سپرد او سپاه\r\nکه او پهلوی بود با دستگاه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیروز خسرو سپرد او سپاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه او پهلوی بود با دستگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "وان",
       "PlainText": "پس از هفت مه کشته شد آن جوان\r\nبه دست چنان مرد تیره روان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس از هفت مه کشته شد آن جوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دست چنان مرد تیره روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "راز",
       "PlainText": "مگر مایه ی کار بودی گراز\r\nکه بر تخت شاهی نشیند فراز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر مایه ی کار بودی گراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر تخت شاهی نشیند فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

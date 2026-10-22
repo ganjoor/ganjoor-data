@@ -6,7 +6,7 @@
   "FullUrl": "/nezari/dasturname/sh46",
   "SourceName": "مصطفی علیزاده و دوستان",
   "SourceUrlSlug": "nezarisrc",
-  "PoemSummary": "هوش مصنوعی: این شعر به اهمیت بیان مختصر و مفید اشاره دارد. شاعر بیان می‌کند که با کمترین کلمات، معانی عمیق و ارزشمندی را منتقل کرده است. او از سخنانی که با دقت و عقلانیت انتخاب شده‌اند، یاد می‌کند و تأکید می‌کند که بی‌مقدمه‌گویی و سخنان بی‌فایده موجب خفت و ذلت انسان می‌شود. در واقع، زبان‌وری و قدرت کلامی را به عنوان سلاحی برای موفقیت و پیروزی معرفی می‌کند.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به اهمیت ایجاز و اختصار در سخن‌وری اشاره دارد و معتقد است که سخنان کوتاه و موجز، تاثیر بیشتری دارند. او بر این باور است که بیان نغز و فکر شده، نشانه عمق و پختگی سخنگو است و برعکس، سخنان طولانی و بی‌محتوا باعث کاهش ارزش و احترامی است که کلام باید داشته باشد. در نهایت، او می‌گوید که مهارت در بیان مختصر، نوعی هنر است که به قوت شخصیت و استحکام کلام کمک می‌کند.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -21,7 +21,8 @@
       "PlainText": "سخن موجز و منتخب کرده ام\r\nزبسیار با اندک آورده ام\r\nز نوع سخن نغز آید به کار\r\nکه از استخوان مغز آید به کار\r\nنگه دار عزت به هنجار گوی\r\nکه خوارست همواره بسیار گوی\r\nزبان بازی و دست یازی بود\r\nکه سرمایة جنگ سازی بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن موجز و منتخب کرده ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبسیار با اندک آورده ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نوع سخن نغز آید به کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از استخوان مغز آید به کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگه دار عزّت به هنجار گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خوارست همواره بسیار گوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان بازی و دست یازی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سرمایة جنگ سازی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 23
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ردهام",
       "PlainText": "سخن موجز و منتخب کرده ام\r\nزبسیار با اندک آورده ام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن موجز و منتخب کرده ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبسیار با اندک آورده ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "غزایدبهکار",
       "PlainText": "ز نوع سخن نغز آید به کار\r\nکه از استخوان مغز آید به کار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نوع سخن نغز آید به کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از استخوان مغز آید به کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ارگوی",
       "PlainText": "نگه دار عزت به هنجار گوی\r\nکه خوارست همواره بسیار گوی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگه دار عزّت به هنجار گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خوارست همواره بسیار گوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ازیبود",
       "PlainText": "زبان بازی و دست یازی بود\r\nکه سرمایة جنگ سازی بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان بازی و دست یازی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سرمایة جنگ سازی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

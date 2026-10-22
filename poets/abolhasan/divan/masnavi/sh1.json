@@ -6,7 +6,7 @@
   "FullUrl": "/abolhasan/divan/masnavi/sh1",
   "SourceName": "چکامه",
   "SourceUrlSlug": "chekameh",
-  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به توصیف صبحی زیبا و تاثیرگذار می‌پردازد که در آن عناصری چون ستاره و جمال معشوق به تصویر کشیده شده‌اند. فضا توام با حس لرزش و شگفتی است، به طوری که زیبایی معشوق به اندازه‌ای است که اگر کسی به آن نگاه کند، به مجذوبی و حالت مستی دچار می‌شود. شاعر همچنین به زیبایی چهره معشوق مانند نقره اشاره کرده و از تاثیر آن بر دنیای اطرافش صحبت می‌کند، به‌خصوص در لحظه‌ای که احساس می‌کند خورشید از خجالت در آب پنهان شده است.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر تصاویری زیبا از صبح صادق و جلوه‌های زیبای آن ترسیم می‌کند. او توضیح می‌دهد که در آن مجلس آسمانی پر از زیبایی، چهره‌ای درخشان وجود دارد که به شدت تأثیرگذار است و نگاه هر بیننده‌ای را می‌رباید. این چهره آن‌چنان جذاب است که شاعر در هنگام تماشای آن، دچار حالتی از مستی می‌شود و حتی لحظه‌ای تصور می‌کند که خورشید از شرم در آب پنهان شده است. شعر حاکی از شگفتی و زیبایی یک لحظهٔ منحصر به فرد و تجربه‌ای عمیق است.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "نموده صبح صادق جامه پاره\r\nفتاد لرزه بر جان ستاره\r\nدر آن مجلس که خلد جاودان بود\r\nز آثار جمالش هم چنان بود\r\nکه گر از چشم پابیرون نهادی\r\nنگه چون مست از پا اوفتادی\r\nچو عکس آن رخ چون سیم ساده\r\nفتاده دیدم اندر جام باده\r\nگمان بردم که خورشید جهان تاب\r\nز شرمش سر فرو برداست در آب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنموده صبح صادق جامه پاره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتاد، لرزه بر جان ستاره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن مجلس که خلد جاودان بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آثار جمالش هم چنان بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه گر از چشم پابیرون نهادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگه چون مست از پا اوفتادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو عکس آن رخ چون سیم ساده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتاده دیدم اندر جام باده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگمان بردم که خورشید جهان‌تاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شرمش سر فرو برداست در آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "اره",
       "PlainText": "نموده صبح صادق جامه پاره\r\nفتاد لرزه بر جان ستاره",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنموده صبح صادق جامه پاره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتاد، لرزه بر جان ستاره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "انبود",
       "PlainText": "در آن مجلس که خلد جاودان بود\r\nز آثار جمالش هم چنان بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن مجلس که خلد جاودان بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آثار جمالش هم چنان بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ادی",
       "PlainText": "که گر از چشم پابیرون نهادی\r\nنگه چون مست از پا اوفتادی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه گر از چشم پابیرون نهادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگه چون مست از پا اوفتادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "اده",
       "PlainText": "چو عکس آن رخ چون سیم ساده\r\nفتاده دیدم اندر جام باده",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو عکس آن رخ چون سیم ساده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتاده دیدم اندر جام باده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 6,
@@ -71,7 +80,9 @@
       "RhymeLetters": "اب",
       "PlainText": "گمان بردم که خورشید جهان تاب\r\nز شرمش سر فرو برداست در آب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگمان بردم که خورشید جهان‌تاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شرمش سر فرو برداست در آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

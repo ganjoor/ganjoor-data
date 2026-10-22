@@ -6,7 +6,7 @@
   "FullUrl": "/safi/bahr/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این ابیات درباره مفهوم احدیت صحبت می‌کند. در اینجا گفته می‌شود که حقیقت احدیت به گونه‌ای است که هیچ صفت یا رابطه‌ای نمی‌تواند آن را تعریف کند. این وصف اساساً خودِ ذات است و از مجموعه اسم‌ها و صفات جداست. در این مقام هیچ‌گونه تعین یا نسبتی وجود ندارد و همه تعین‌ها و تقسیمات به کلی از بین رفته‌اند.",
+  "PoemSummary": "هوش مصنوعی: شعر به وصف احدیت و حقیقت خالق اشاره دارد و بیان می‌کند که در این مقام، صفات و نام‌ها دیگر وجود ندارند و هر چیزی تنها به ذات الهی وابسته است. در این حالت، تمامی تعین‌ها و نسبت‌ها محو می‌شوند و فقط حقیقتی خالص و بی‌نهایت وجود دارد. تفکر و واژه‌ها در این مقام بی‌معنا هستند و تنها حضور مطلق و بی‌نقص خداوند قابل درک است.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "احدیت بود وصفی که ساقط\r\nدر او باشد صفتها با روابط\r\nبود وصفی که او خود عین ذاتست\r\nبرون از جمع اسماء و صفات است\r\nنه اسم و رسم را آنجا مقام است\r\nنسبها و تعینها تمام است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاحدیت بود وصفی که ساقط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر او باشد صفتها با روابط\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود وصفی که او خود عین ذاتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرون از جمع اسماء و صفات است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه اسم و رسم را آنجا مقام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسبها و تعینها تمام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -27,7 +28,9 @@
       "RhymeLetters": "ط",
       "PlainText": "احدیت بود وصفی که ساقط\r\nدر او باشد صفتها با روابط",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاحدیت بود وصفی که ساقط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر او باشد صفتها با روابط\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -37,7 +40,9 @@
       "RhymeLetters": "ست",
       "PlainText": "بود وصفی که او خود عین ذاتست\r\nبرون از جمع اسماء و صفات است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود وصفی که او خود عین ذاتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرون از جمع اسماء و صفات است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -47,7 +52,9 @@
       "RhymeLetters": "اماست",
       "PlainText": "نه اسم و رسم را آنجا مقام است\r\nنسبها و تعینها تمام است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه اسم و رسم را آنجا مقام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسبها و تعینها تمام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

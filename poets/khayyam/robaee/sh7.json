@@ -22,7 +22,8 @@
       "PlainText": "آن قصر که جمشید در او جام گرفت\r\nآهو بچه کرد و روبه آرام گرفت\r\nبهرام که گور می گرفتی همه عمر\r\nدیدی که چگونه گور بهرام گرفت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن قصر که جمشید در او جام گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهو بچه کرد و روبَه آرام گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهرام که گور می‌گرفتی همه عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدی که چگونه گور بهرام گرفت؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     }
   ],
   "Verses": [
@@ -55,6 +56,32 @@
       "Text": "دیدی که چگونه گور بهرام گرفت؟",
       "CoupletIndex": 1,
       "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Note": "گور اول به معنای گورخر و گور دوم به معنای قبر است و اینجا بین این دو واژه با معانی متفاوت جناس تام داریم.",
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 4
+        }
+      ]
     }
   ]
 }

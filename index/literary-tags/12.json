@@ -1,0 +1,57 @@
+[
+  {
+    "PoemId": 9667,
+    "CoupletIndex": 0,
+    "DeviceId": 12,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 28,
+        "CoupletIndex": 0,
+        "Misra": 2,
+        "WordStart": 1,
+        "WordEnd": 3
+      },
+      {
+        "SlotId": 28,
+        "CoupletIndex": 0,
+        "Misra": 2,
+        "WordStart": 6,
+        "WordEnd": 8
+      },
+      {
+        "SlotId": 28,
+        "CoupletIndex": 0,
+        "Misra": 2,
+        "WordStart": 10,
+        "WordEnd": 12
+      }
+    ]
+  },
+  {
+    "PoemId": 9726,
+    "CoupletIndex": 2,
+    "DeviceId": 12,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 28,
+        "CoupletIndex": 2,
+        "Misra": 1,
+        "WordStart": 2,
+        "WordEnd": 7
+      },
+      {
+        "SlotId": 28,
+        "CoupletIndex": 2,
+        "Misra": 2,
+        "WordStart": 2,
+        "WordEnd": 7
+      }
+    ]
+  }
+]

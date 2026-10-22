@@ -6,7 +6,7 @@
   "FullUrl": "/safa/divan/masnavi/sh24",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این ابیات به تفکر و تامل در مورد ولایت و اسرار آن اشاره دارند. شاعر می‌گوید که اهل اسرار بر این باورند که در سر ولایت تکراری وجود ندارد. هنگامی که درک نسبت به ولایت بدون تکرار می‌شود، شاعر در شگفتی و تحیر باقی می‌ماند و می‌پرسد آیا این حقیقت است یا فقط اعتباری و بی‌پایه.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به بررسی مفهوم و ماهیت ولایت می‌پردازد و بیان می‌کند که اهل اسرار در این مسیر ثابت و پایدار هستند. او از تعجب و سردرگمی خود درباره وجود یا عدم تکرار در سرّ ولایت سخن می‌گوید و به پرسش از نوع آن و حقیقت یا اعتبارش می‌پردازد. در نهایت، شاعر به جستجوی نادرستی این مفاهیم و مفهوم ولایت اشاره می‌کند، بدون آنکه به پاسخ نهایی دست یابد.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "برین سیرند ثابت اهل اسرار\r\nکه در سر ولایت نیست تکرار\r\nچو شد سر ولایت بی تکرر\r\nازین اعداد ماندم در تحیر\r\nبنوعست این و یا از نوع عاریست\r\nحقیقت دارد این یا اعتباریست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرین سیرند ثابت اهل اسرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در سر ولایت نیست تکرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شد سر ولایت بی تکرر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین اعداد ماندم در تحیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنوعست این و یا از نوع عاریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحقیقت دارد این یا اعتباریست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "رار",
       "PlainText": "برین سیرند ثابت اهل اسرار\r\nکه در سر ولایت نیست تکرار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرین سیرند ثابت اهل اسرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در سر ولایت نیست تکرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ر",
       "PlainText": "چو شد سر ولایت بی تکرر\r\nازین اعداد ماندم در تحیر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شد سر ولایت بی تکرر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین اعداد ماندم در تحیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اریست",
       "PlainText": "بنوعست این و یا از نوع عاریست\r\nحقیقت دارد این یا اعتباریست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنوعست این و یا از نوع عاریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحقیقت دارد این یا اعتباریست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

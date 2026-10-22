@@ -6,7 +6,7 @@
   "FullUrl": "/saadi/mavaez/masnaviat/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: شاعر شخصی را مشاهده می‌کند که در قبر یک پادشاه حفره‌ای می‌کند. او نمادین نشان می‌دهد که از خاک بارگاه پادشاهی می‌گیرد و اشکی از چشم می‌ریزد. او نمی‌تواند بگوید که این فرد پادشاه است یا سرباز، زیرا آنچه می‌بیند تنها مشتی استخوان است. این تصویر نشان‌دهنده زوال و نابودی قدرت و ثروت است.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر، شخصی را مشاهده می‌کند که در مکان قبر یک پادشاه مشغول حفاری است. او در حالی که خاک را می‌کاود، با اندوه و تأثر اشک می‌ریزد و به این فکر می‌کند که نمی‌داند این مرد درگذشته پادشاه بوده یا پاسبانی عادی، چرا که از او تنها مشتی استخوان باقی‌مانده است. این تصویر اشاره به عدم تفاوت در سرنوشت انسان‌ها دارد و نشان می‌دهد که هر کس در نهایت به خاک برمی‌گردد.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "یکی را دیدم اندر جایگاهی\r\nکه می کاوید قبر پادشاهی\r\nبه دست از بارگاهش خاک می رفت\r\nسرشک از دیده می بارید و می گفت\r\nندانم پادشه یا پاسبانی\r\nهمی بینم که مشتی استخوانی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را دیدم اندر جایگاهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه می‌کاوید قبر پادشاهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دست از بارگاهش خاک می‌رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرشک از دیده می‌بارید و می‌گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندانم پادشه یا پاسبانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی بینم که مشتی استخوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "اهی",
       "PlainText": "یکی را دیدم اندر جایگاهی\r\nکه می کاوید قبر پادشاهی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را دیدم اندر جایگاهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه می‌کاوید قبر پادشاهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "فت",
       "PlainText": "به دست از بارگاهش خاک می رفت\r\nسرشک از دیده می بارید و می گفت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دست از بارگاهش خاک می‌رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرشک از دیده می‌بارید و می‌گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "انی",
       "PlainText": "ندانم پادشه یا پاسبانی\r\nهمی بینم که مشتی استخوانی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندانم پادشه یا پاسبانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی بینم که مشتی استخوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

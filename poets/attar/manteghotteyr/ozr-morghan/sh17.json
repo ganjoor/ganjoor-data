@@ -6,7 +6,7 @@
   "FullUrl": "/attar/manteghotteyr/ozr-morghan/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: مردی گورکن که عمر طولانی‌ای داشت، به سؤال مردی دربارهٔ عجایب زیر خاک پاسخ می‌دهد. او می‌گوید که در عمر هفتاد ساله‌اش فقط گور کرده و هرگز در این مدت از فرمان نفسش پیروی نکرده و حتی یک ساعت هم از کارش دست نکشیده است.",
+  "PoemSummary": "هوش مصنوعی: در این حکایت، مرد گورکنی با عمر طولانی به صحبت می‌آید و از تجربیاتش در زیر خاک می‌گوید. یک سالک از او می‌پرسد که چه عجایبی را در زیر خاک مشاهده کرده است. پاسخ مرد گورکن به این پرسش، به تجربه طولانی‌مدت او در گورکنی و مشاهده زنده بودن نفسش در این مدت مربوط می‌شود. او با اشاره به این که حتی یک لحظه از فرمان‌برداری از نفس خویش غافل نبوده است، به درسی از مراقبت و پیروی از دستورات الهی اشاره می‌کند.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "یافت مردی گورکن عمری دراز\r\nسایلی گفتش که چیزی گوی باز\r\nتا چو عمری گور کندی در مغاک\r\nچه عجایب دیده ای در زیر خاک\r\nگفت این دیدم عجایب حسب حال\r\nکین سگ نفسم همی هفتاد سال\r\nگور کندن دید و یک ساعت نمرد\r\nیک دمم فرمان یک طاعت نبرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیافت مردی گورکن عمری دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسایلی گفتش که چیزی گوی باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چو عمری گور کندی در مغاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه عجایب دیده‌ای در زیر خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت این دیدم عجایب حسب حال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکین سگ نفسم همی هفتاد سال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگور کندن دید و یک ساعت نمرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دمم فرمان یک طاعت نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "از",
       "PlainText": "یافت مردی گورکن عمری دراز\r\nسایلی گفتش که چیزی گوی باز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیافت مردی گورکن عمری دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسایلی گفتش که چیزی گوی باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "اک",
       "PlainText": "تا چو عمری گور کندی در مغاک\r\nچه عجایب دیده ای در زیر خاک",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چو عمری گور کندی در مغاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه عجایب دیده‌ای در زیر خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ال",
       "PlainText": "گفت این دیدم عجایب حسب حال\r\nکین سگ نفسم همی هفتاد سال",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت این دیدم عجایب حسب حال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکین سگ نفسم همی هفتاد سال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "رد",
       "PlainText": "گور کندن دید و یک ساعت نمرد\r\nیک دمم فرمان یک طاعت نبرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگور کندن دید و یک ساعت نمرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دمم فرمان یک طاعت نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

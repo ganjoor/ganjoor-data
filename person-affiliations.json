@@ -4461,5 +4461,18 @@
     "Person2Id": 470,
     "AffiliationType": "Lover",
     "Evidence": []
+  },
+  {
+    "Id": 332,
+    "Person1Id": 405,
+    "Person2Id": 589,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 151747,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
   }
 ]

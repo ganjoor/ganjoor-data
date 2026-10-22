@@ -6,7 +6,7 @@
   "FullUrl": "/ouhadi/mantegholoshagh/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به اهمیت خودباوری و آگاه بودن اشاره می‌کند. او معتقد است که هیچ‌کس نمی‌تواند دشمن دوستان باشد و کسانی که به عشق و دوستی واقعی قائلند باید از ایمان و اعتماد به نفس برخوردار باشند. همچنین، مثل بیدی که در باد به آرامی خود را حفظ می‌کند، آن‌ها نیز نباید تحت تأثیر مشکلات و چالش‌ها قرار بگیرند و باید استوار بمانند.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بخش به اهمیت یقین و دوستی اشاره می‌کند و می‌گوید که هیچ‌کس دشمن دوستان خود نیست. او بر این نکته تأکید دارد که محبت و عشق واقعی می‌تواند دل‌ها را به یکدیگر نزدیک کند. همچنین، تشبیه عشق به درخت بید که در برابر بادها نلرزد، نشان‌دهنده استواری و ثبات عشق راستین است.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "ضرورت خود یقینست این و آن را\r\nکه کس دشمن ندارد دوستان را\r\nبداند هر که او آگاه باشد\r\nکه دلها را به دلها راه باشد\r\nدرستانی که عشق راست ورزند\r\nچو بید نو بهر بادی نلرزد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eضرورت خود یقینست این و آن را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کس دشمن ندارد دوستان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبداند، هر که او آگاه باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دلها را به دلها راه باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرستانی، که عشق راست ورزند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بید نو بهر بادی نلرزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "انرا",
       "PlainText": "ضرورت خود یقینست این و آن را\r\nکه کس دشمن ندارد دوستان را",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eضرورت خود یقینست این و آن را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کس دشمن ندارد دوستان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "اهباشد",
       "PlainText": "بداند هر که او آگاه باشد\r\nکه دلها را به دلها راه باشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبداند، هر که او آگاه باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دلها را به دلها راه باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "د",
       "PlainText": "درستانی که عشق راست ورزند\r\nچو بید نو بهر بادی نلرزد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرستانی، که عشق راست ورزند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بید نو بهر بادی نلرزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

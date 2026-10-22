@@ -1,0 +1,435 @@
+[
+  {
+    "Id": 1,
+    "Key": "tashbih",
+    "Name": "تشبیه",
+    "Category": "Bayan",
+    "Definition": "همانندی دو چیز با ذکر دست‌کم مشبّه و مشبّه‌به.",
+    "Example": "«رخ تو ماه است»: مشبّه رخ، مشبّه‌به ماه. اگر مشبّه حذف شده باشد استعاره است.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 1,
+        "Key": "tenor",
+        "Name": "مشبّه",
+        "Kind": "SpanConcept",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 2,
+        "Key": "vehicle",
+        "Name": "مشبّه‌به",
+        "Kind": "SpanConcept",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 1
+      },
+      {
+        "Id": 3,
+        "Key": "ground",
+        "Name": "وجه شبه",
+        "Kind": "Text",
+        "Required": false,
+        "AllowMultiple": false,
+        "Order": 2
+      },
+      {
+        "Id": 4,
+        "Key": "particle",
+        "Name": "ادات",
+        "Kind": "Span",
+        "Required": false,
+        "AllowMultiple": false,
+        "Order": 3
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Key": "esteare",
+    "Name": "استعاره",
+    "Category": "Bayan",
+    "Definition": "به‌کاربردن واژه برای چیزی جز معنای نخستین، با قرینهٔ مانع از معنای اصلی و علاقهٔ مشابهت.",
+    "Example": "«سرو می‌آید» برای قامت یار. اگر علاقه غیر مشابهت باشد مجاز است.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 5,
+        "Key": "vehicle",
+        "Name": "مستعارٌمنه",
+        "Kind": "SpanConcept",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 6,
+        "Key": "tenor",
+        "Name": "مستعارٌله",
+        "Kind": "Concept",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Key": "kenaye",
+    "Name": "کنایه",
+    "Category": "Bayan",
+    "Definition": "عبارتی که معنای دوم دارد و معنای حقیقی‌اش هم می‌تواند مراد باشد.",
+    "Example": "«دست به دست مالیدن». اگر معنای حقیقی ممکن نباشد استعاره یا مجاز است.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 7,
+        "Key": "expression",
+        "Name": "کنایه‌شونده",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 8,
+        "Key": "meaning",
+        "Name": "معنای دوم",
+        "Kind": "Text",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Key": "majaz",
+    "Name": "مجاز",
+    "Category": "Bayan",
+    "Definition": "واژه در معنای غیرحقیقی با علاقه‌ای جز مشابهت و با قرینهٔ مانع.",
+    "Example": "«دل» برای عاشق، «جام» برای شراب.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 9,
+        "Key": "word",
+        "Name": "واژه",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 10,
+        "Key": "meaning",
+        "Name": "معنای مرتبط",
+        "Kind": "Concept",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Key": "iham",
+    "Name": "ایهام",
+    "Category": "BadiManavi",
+    "Definition": "واژه‌ای با دو معنا که هر دو در بافت سخن پذیرفتنی‌اند.",
+    "Example": "اگر یکی از معانی نامحتمل باشد ایهام نیست.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 11,
+        "Key": "word",
+        "Name": "واژه",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 12,
+        "Key": "meaning",
+        "Name": "معنا",
+        "Kind": "Text",
+        "Required": true,
+        "AllowMultiple": true,
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Key": "jenas",
+    "Name": "جناس",
+    "Category": "BadiLafzi",
+    "Definition": "دو واژه در یک مصراع یا بیت با تلفظ یکسان یا بسیار نزدیک و معنای متفاوت.",
+    "Example": "تکرار همان واژه با همان معنا جناس نیست، تکرار است.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 13,
+        "Key": "first",
+        "Name": "واژهٔ اول",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 14,
+        "Key": "second",
+        "Name": "واژهٔ دوم",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Key": "tazad",
+    "Name": "تضاد",
+    "Category": "BadiManavi",
+    "Definition": "دو واژهٔ متضاد یا ناسازگار در یک بیت.",
+    "Example": "«شب / روز». تناقض (پارادوکس) جدا است.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 15,
+        "Key": "first",
+        "Name": "واژهٔ اول",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 16,
+        "Key": "second",
+        "Name": "واژهٔ دوم",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Key": "tekrar",
+    "Name": "تکرار",
+    "Category": "BadiLafzi",
+    "Definition": "تکرار آگاهانهٔ یک واژه یا عبارت با همان معنا.",
+    "Example": "ردیف جدا برچسب نمی‌خورد و از ساختار شعر می‌آید.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 17,
+        "Key": "occurrence",
+        "Name": "جای تکرار",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": true,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Key": "eghragh",
+    "Name": "اغراق",
+    "Category": "BadiManavi",
+    "Definition": "بیان چیزی بیش از حدّ امکان یا عادت.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 18,
+        "Key": "expression",
+        "Name": "عبارت",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Key": "talmih",
+    "Name": "تلمیح",
+    "Category": "BadiManavi",
+    "Definition": "اشاره به داستان، آیه، حدیث، افسانه یا مثل شناخته‌شده.",
+    "IsCore": true,
+    "Slots": [
+      {
+        "Id": 19,
+        "Key": "expression",
+        "Name": "عبارت",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 20,
+        "Key": "referent",
+        "Name": "موضوع اشاره",
+        "Kind": "Concept",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "تناسب",
+    "Category": "BadiManavi",
+    "Definition": "آوردن دو یا چند واژه که از یک مقوله‌اند و با هم تناسب دارند، بی‌آنکه رابطهٔ تضاد داشته باشند. (دیگر نام‌ها: مراعات نظیر، ائتلاف، تلفیق)",
+    "IsCore": false,
+    "Slots": [
+      {
+        "Id": 25,
+        "Name": "واژه‌های متناسب",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": true,
+        "Order": 0
+      },
+      {
+        "Id": 26,
+        "Name": "وجه تناسب",
+        "Kind": "Concept",
+        "Required": false,
+        "AllowMultiple": false,
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "ارتفاع",
+    "Category": "BadiLafzi",
+    "Definition": "زنجیره‌ای شدن چند عبارت پشت سر هم، به‌طوری که واژهٔ پایانی هر عبارت آغاز عبارت بعدی باشد.",
+    "Example": "گل از خار، خار از پا، پا از گِل",
+    "IsCore": false,
+    "Slots": [
+      {
+        "Id": 28,
+        "Name": "حلقه‌های زنجیره",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": true,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "تشخیص",
+    "Category": "Bayan",
+    "Definition": "نسبت‌دادن ویژگی‌ها یا کارهای انسان یا جاندار به چیزی بی‌جان یا انتزاعی.",
+    "Example": "مثلاً «دست صبر»، «پای عقل»، «مرغ سحر ناله سر کرد». اگر مشبه‌به (انسان) در متن نیامده و فقط لازمه‌اش آمده باشد، با استعارهٔ مکنیه هم‌پوشانی دارد.",
+    "IsCore": false,
+    "Slots": [
+      {
+        "Id": 32,
+        "Name": "چیز بی‌جان یا انتزاعی",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 33,
+        "Name": "ویژگی یا کار انسانی",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 1
+      },
+      {
+        "Id": 34,
+        "Name": "توضیح",
+        "Kind": "Text",
+        "Required": false,
+        "AllowMultiple": false,
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "لف و نشر",
+    "Category": "BadiManavi",
+    "Definition": "آوردن چند چیز در یک جا (لف) و سپس آوردن متعلقات آن‌ها (نشر)، به‌طوری که هر متعلق به یکی از آن‌ها برگردد. اگر ترتیب نشر همان ترتیب لف باشد «مرتب» است، وگرنه «مشوش».",
+    "Example": "بر حدیثِ من و حسنِ تو نیفزاید کس - حد همین است سخندانی و زیبایی را، «حدیث من، حسن تو» ← «سخندانی، زیبایی»",
+    "IsCore": false,
+    "Slots": [
+      {
+        "Id": 41,
+        "Name": "لف",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": true,
+        "Order": 0
+      },
+      {
+        "Id": 42,
+        "Name": "نشر",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": true,
+        "Order": 1
+      },
+      {
+        "Id": 43,
+        "Name": "نوع",
+        "Kind": "Text",
+        "Required": false,
+        "AllowMultiple": false,
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "ایهام تبادر",
+    "Category": "BadiManavi",
+    "Definition": "آمدن واژه‌ای که از راه شنیدن (تلفظ یا املا) واژهٔ دیگری را به ذهن می‌آورد، و معنای آن واژهٔ دوم نیز بر معنای بیت اثر می‌گذارد. واژهٔ دوم در متن نیامده است.",
+    "Example": "«هر کس عملی دارد، من گوش به انعامی»: «عملی» (عمل \u002B ی) به گوش «املی» (آرزو) هم می‌رسد. اگر هر دو معنا در خود واژهٔ نوشته‌شده ممکن باشد، «ایهام» است. اگر واژهٔ دوم هم در بیت آمده باشد، «جناس» است.",
+    "IsCore": false,
+    "Slots": [
+      {
+        "Id": 44,
+        "Name": "واژه",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      },
+      {
+        "Id": 45,
+        "Name": "واژهٔ متبادر",
+        "Kind": "Text",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 1
+      },
+      {
+        "Id": 46,
+        "Name": "توضیح",
+        "Kind": "Text",
+        "Required": false,
+        "AllowMultiple": false,
+        "Order": 2
+      }
+    ]
+  }
+]

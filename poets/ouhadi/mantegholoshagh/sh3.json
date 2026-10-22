@@ -6,7 +6,7 @@
   "FullUrl": "/ouhadi/mantegholoshagh/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از خداوند می‌خواهد که همچون یوسف، روح بزرگان را نگه‌داری کند. او از خدا درخواست می‌کند که دانش و مقام یوسف را برای شخص مورد نظرش بالا ببرد و او را عزیز و محترم گرداند. همچنین از خدا می‌خواهد که غم‌ها را از او دور کند و دشمنانش را به ذلت و نابودی بکشاند. در نهایت، شاعر خواهان نور و رونق برای این شخص در حضور دیگران است و نمی‌خواهد او تحت سایه خواجه‌ای قرار گیرد.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این دعا از خداوند می‌خواهد تا ممدوحش را مانند یوسف، از شرّ دشمنان و مشکلات حفظ کند. او از خدا تقاضا می‌کند که دانش و مقام او را افزایش دهد و او را به جایگاه بزرگی مانند یوسف در مصر برساند. همچنین، شاعر خواهان آن است که خدای بزرگ، ممدوحش را از غم و اندوه دور سازد و همواره در سایه‌ی حمایت خود نگه دارد.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "خداوندا به ارواح بزرگان\r\nکه یوسف را نگه داری ز گرگان\r\nبزرگش دار در دانش چو یوسف\r\nعزیز مصر گردانش چو یوسف\r\nبرنجش را ز باد غم مکن پست\r\nبه خواری دشمنانش را ببر دست\r\nبه پیش خواجه رونق بخش و نورش\r\nمدار از سایه این خواجه دورش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخداوندا، به ارواح بزرگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یوسف را نگه داری ز گرگان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزرگش دار در دانش چو یوسف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعزیز مصر گردانش چو یوسف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرنجش را ز باد غم مکن پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خواری دشمنانش را ببر دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیش خواجه رونق بخش و نورش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدار از سایهٔ این خواجه دورش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "رگان",
       "PlainText": "خداوندا به ارواح بزرگان\r\nکه یوسف را نگه داری ز گرگان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخداوندا، به ارواح بزرگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یوسف را نگه داری ز گرگان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ردانشچویوسف",
       "PlainText": "بزرگش دار در دانش چو یوسف\r\nعزیز مصر گردانش چو یوسف",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزرگش دار در دانش چو یوسف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعزیز مصر گردانش چو یوسف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ست",
       "PlainText": "برنجش را ز باد غم مکن پست\r\nبه خواری دشمنانش را ببر دست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرنجش را ز باد غم مکن پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خواری دشمنانش را ببر دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "ورش",
       "PlainText": "به پیش خواجه رونق بخش و نورش\r\nمدار از سایه این خواجه دورش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیش خواجه رونق بخش و نورش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدار از سایهٔ این خواجه دورش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

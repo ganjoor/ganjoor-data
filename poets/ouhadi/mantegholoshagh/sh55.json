@@ -6,7 +6,7 @@
   "FullUrl": "/ouhadi/mantegholoshagh/sh55",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: پری، با اینکه می‌فهمید دوستش در حق با اوست، اما به طور ناگهانی بر روح شکرین خود زهر می‌زند و احساساتش را در کلمات مهر و کینه ترکیب می‌کند. او نامه‌ای می‌نویسد و دستور می‌دهد که آن را به سرعت به آن دوست برسانند.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده به ابهام و پیچیدگی روابط عاشقانه می‌پردازد. پری که به خوبی از احساسات و عواطف دوست باخبر است، با وجود دانشش، به بازی با عشق و کینه ادامه می‌دهد. او با نوشتن نامه‌ای حاوی پیام‌های متضاد، تلاش می‌کند تا زمینه‌ای جدید بیافریند و بر دوگانگی‌های عاطفی تأکید کند. در نهایت، تاکید بر این است که نامه‌ای که نوشته شده، حامل رازها و نغمه‌های عشق و جدایی است.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "پری با آنکه واقف می شد از دوست\r\nدر آن معنی که حق با جانب اوست\r\nدگر ره تازه زهری بر شکر زد\r\nحروف مهر و کین بر یک دگر زد\r\nنوشت این نامه و فرمود تا زود\r\nبدو بردند نظرم نامه این بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپری، با آنکه واقف می‌شد از دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آن معنی که حق با جانب اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر ره تازه زهری بر شکر زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحروف مهر و کین بر یک دگر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوشت این نامه و فرمود تا زود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدو بردند، نظرم نامه این بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "وست",
       "PlainText": "پری با آنکه واقف می شد از دوست\r\nدر آن معنی که حق با جانب اوست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپری، با آنکه واقف می‌شد از دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آن معنی که حق با جانب اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "رزد",
       "PlainText": "دگر ره تازه زهری بر شکر زد\r\nحروف مهر و کین بر یک دگر زد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر ره تازه زهری بر شکر زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحروف مهر و کین بر یک دگر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ود",
       "PlainText": "نوشت این نامه و فرمود تا زود\r\nبدو بردند نظرم نامه این بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوشت این نامه و فرمود تا زود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدو بردند، نظرم نامه این بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

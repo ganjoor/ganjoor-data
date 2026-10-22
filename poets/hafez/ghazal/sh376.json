@@ -22,7 +22,8 @@
       "PlainText": "دوستان وقت گل آن به که به عشرت کوشیم\r\nسخن اهل دل است این و به جان بنیوشیم\r\nنیست در کس کرم و وقت طرب می گذرد\r\nچاره آن است که سجاده به می بفروشیم\r\nخوش هوایی ست فرح بخش خدایا بفرست\r\nنازنینی که به رویش می گل گون نوشیم\r\nارغنون ساز فلک ره زن اهل هنر است\r\nچون از این غصه ننالیم و چرا نخروشیم\r\nگل به جوش آمد و از می نزدیمش آبی\r\nلاجرم زآتش حرمان و هوس می جوشیم\r\nمی کشیم از قدح لاله شرابی موهوم\r\nچشم بد دور که بی مطرب و می مدهوشیم\r\nحافظ این حال عجب با که توان گفت که ما\r\nبلبلانیم که در موسم گل خاموشیم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستان وقت گل آن به که به عشرت کوشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن اهل دل است این و به جان بنیوشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست در کس کرم و وقت طرب می‌گذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچاره آن است که سجاده به مِی بفروشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش هوایی‌ست فرح‌بخش خدایا بفرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنازنینی که به رویش مِی گل‌گون نوشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eارغنون ساز فلک ره‌زن اهل هنر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون از این غصه ننالیم و چرا نخروشیم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل به جوش آمد و از مِی نزدیمش آبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاجرم زآتش حرمان و هوس می‌جوشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌کشیم از قدح لاله شرابی موهوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم بد دور که بی‌مطرب و مِی مدهوشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظ این حال عجب با که توان گفت که ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبلانیم که در مُوسم گل خاموشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghazal",
-      "CoupletsCount": 7
+      "CoupletsCount": 7,
+      "MetreId": 7
     }
   ],
   "Verses": [
@@ -130,6 +131,135 @@
       "Text": "بلبلانیم که در مُوسم گل خاموشیم",
       "CoupletIndex": 6,
       "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "ستاره زهره"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "دزد"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "آهنگساز و نوازنده"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 124
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 5,
+          "ConceptId": 1036
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "بی قرار شدن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 730
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 610
+        }
+      ]
     }
   ]
 }

@@ -6,7 +6,7 @@
   "FullUrl": "/rhedayat/riazolarefin/rowze1/sh22",
   "SourceName": "کتابخانهٔ تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: شاعر در زمان سلطنت اکبر شاه هندی به هندوستان رفته و در جمع عرفا و کاملین زندگی کرده و در همان‌جا درگذشته است. او دو رباعی زیبا سروده که یکی از آن‌ها به تضاد احساسات زندگی اشاره می‌کند، از خنده و گریه تا تلخی و شیرینی آن. در رباعی دیگر، شاعر از ساقی می‌خواهد که جام محبت را بیاورد و از غمزگی معشوق پیغامی برساند و از وضعیت ناامید کننده در زندگی شکایت می‌کند.",
+  "PoemSummary": "هوش مصنوعی: ایزدی یزدی در زمان سلطنت اکبر شاه به هندوستان رفته و در جمع عارفان و سالکان به درک و فهم عمیق رسیده است. در رباعی‌هایش، او از دنیای پر درد و رنج سخن می‌گوید و به نوسان‌های روحی انسان اشاره می‌کند که گاهی شاد و گاهی غمگین است. در رباعی دیگر، او از ساقی باده محبت می‌خواهد که پیامی از زیبایی‌ها و محبت‌ها به او برساند و از وضعیت دشوار و تحمل‌ناپذیرش در برابر ناملایمات زندگی سخن می‌گوید.",
   "Sections": [
     {
       "Index": 0,
@@ -17,7 +17,8 @@
       "PlainText": "بر نیک وبد جهان پر درد و دریغ\r\nگه خنده کنم چو برق و گه گریه چو میغ\r\nغیر از لب ساغر و دم صبح مرا\r\nلبها لب مار گشت و دمها دم تیغ",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر نیک وبد جهان پر درد و دریغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه خنده کنم چو برق و گه گریه چو میغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از لب ساغر و دم صبح مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلبها لب مار گشت و دمها دم تیغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     },
     {
       "Index": 2,
@@ -27,7 +28,9 @@
       "RhymeLetters": "یغ",
       "PlainText": "بر نیک وبد جهان پر درد و دریغ\r\nگه خنده کنم چو برق و گه گریه چو میغ",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر نیک وبد جهان پر درد و دریغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه خنده کنم چو برق و گه گریه چو میغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -37,7 +40,9 @@
       "RhymeLetters": "غ",
       "PlainText": "غیر از لب ساغر و دم صبح مرا\r\nلبها لب مار گشت و دمها دم تیغ",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از لب ساغر و دم صبح مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلبها لب مار گشت و دمها دم تیغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -47,7 +52,9 @@
       "RhymeLetters": "امی",
       "PlainText": "ای ساقی باده محبت جامی\r\nوی قاصد غمزه بتان پیغامی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ساقی بادهٔ محبت جامی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی قاصد غمزهٔ بتان پیغامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 6
     },
     {
       "Index": 5,
@@ -57,7 +64,9 @@
       "RhymeLetters": "ی",
       "PlainText": "تا کی هدف تیر تغافل باشیم\r\nقهری لطفی تبسمی دشنامی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی هدف تیر تغافل باشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقهری، لطفی، تبسمی، دشنامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 6
     },
     {
       "Index": 6,
@@ -68,7 +77,8 @@
       "PlainText": "ای ساقی باده محبت جامی\r\nوی قاصد غمزه بتان پیغامی\r\nتا کی هدف تیر تغافل باشیم\r\nقهری لطفی تبسمی دشنامی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ساقی بادهٔ محبت جامی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی قاصد غمزهٔ بتان پیغامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی هدف تیر تغافل باشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقهری، لطفی، تبسمی، دشنامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     }
   ],
   "Verses": [

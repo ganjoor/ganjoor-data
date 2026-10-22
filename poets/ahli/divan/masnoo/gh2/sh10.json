@@ -7,7 +7,7 @@
   "RhymeLetters": "ر",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این متن به بررسی و تحلیل چندین بیت شعر از نظر وزن، قافیه و صنایع ادبی می‌پردازد. شاعر به زوایای گوناگون هنر شعر و ساختار آن می‌نگرد و با اشاره به مفاهیم عمیق انسانی و شعری، بر اهمیت ایجاد معنا و تأثیر احساسات در شعر تأکید می‌کند. او همچنین به ذکر نام و ویژگی‌های خاص بعضی از اشعار و وزنان آن‌ها می‌پردازد و ضمن تشریح صنایع بلاغی، نگاهی به چالش‌ها و لذات سرودن شعر دارد. در کل، متن ترکیبی از تحلیل فنی و احساسات شاعرانه است که عمق و زیبایی شعر را مورد توجه قرار می‌دهد.",
+  "PoemSummary": "هوش مصنوعی: این شعر در مدح سلطان یعقوب سروده شده و به ستایش ویژگی‌های او و ثروت و عظمتش می‌پردازد. شاعر از غنای شخصیت و مقام سلطنتی او می‌گوید و بر روابطش با شعر و شاعران تأکید می‌کند. او همچنین به عشق و آرزوهای خود در عرصه ادب اشاره می‌کند و از لطف و عنایت‌های الهی و تأثیر آنها بر سرنوشت خود بحث می‌کند. شاعر با تأکید بر پر بودن زندگی از خوبی‌ها و خالی بودن آن از بدی‌ها، دعا می‌کند که سلطان همیشه در اوج باشد و دشمنانش در خفت.",
   "Sections": [
     {
       "Index": 0,
@@ -18,7 +18,20 @@
       "PlainText": "ایا شهی که بجان اهلیت گهر افشاند\r\nنشاید آنکه کند کس دریغ ازو دینار\r\nرهی بر تو که دریای پر دری آمد\r\nکه تا دهانش پر از در کنی و سیم نثار\r\nاهلی که فشاتد بر تو در پر\r\nشاید که کنی دهانش پر در",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا شهی که بجان اهلیت گهر افشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاید آنکه کند کس دریغ ازو دینار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهی بر تو که دریای پر دری آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا دهانش پر از در کنی و سیم نثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eاهلی که فشاتد بر تو در پر\u003C/p\u003E\r\n\u003Cp\u003Eشاید که کنی دهانش پر در\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 18
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "ایا شهی که بجان اهلیت گهر افشاند\r\nنشاید آنکه کند کس دریغ ازو دینار\r\nرهی بر تو که دریای پر دری آمد\r\nکه تا دهانش پر از در کنی و سیم نثار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا شهی که بجان اهلیت گهر افشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاید آنکه کند کس دریغ ازو دینار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهی بر تو که دریای پر دری آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا دهانش پر از در کنی و سیم نثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 18,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 1,
@@ -32,16 +45,6 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 1,
-      "Number": 2,
-      "SectionType": "Band",
-      "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "ایا شهی که بجان اهلیت گهر افشاند\r\nنشاید آنکه کند کس دریغ ازو دینار\r\nرهی بر تو که دریای پر دری آمد\r\nکه تا دهانش پر از در کنی و سیم نثار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا شهی که بجان اهلیت گهر افشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاید آنکه کند کس دریغ ازو دینار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهی بر تو که دریای پر دری آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا دهانش پر از در کنی و سیم نثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
       "Index": 2,
       "Number": 3,
       "SectionType": "Band",
@@ -49,7 +52,8 @@
       "RhymeLetters": "ر",
       "PlainText": "بسوخت غیرو چو من نامده ازان منصور\r\nکه در طریق سخن شاعرم روش هموار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسوخت غیرو چو من نامده ازان منصور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در طریق سخن شاعرم روش هموار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 2,
@@ -60,7 +64,8 @@
       "PlainText": "اگر چه شد دل واله براه زیر و زبر\r\nچهاز نوش یکی دید جانم از آزار\r\nلطیف خلقی کایم نیاورم انده\r\nاگر نیابم من بخت شد ضرر در کار\r\nاگر چه واله ازو لطف خلق من مانده\r\nچه دید جانم از آزار گر نشد در کار\r\nشد دل بره آرزویی کای یاور\r\nاز نوش یکی یابم من بخت ضرر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه شد دل واله براه زیر و زبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچهاز نوش یکی دید جانم از آزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطیف خلقی کایم نیاورم انده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر نیابم من بخت شد ضرر در کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eاگر چه واله ازو لطف خلق من مانده\u003C/p\u003E\r\n\u003Cp\u003Eچه دید جانم از آزار گر نشد در کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eشد دل بره آرزویی کای یاور\u003C/p\u003E\r\n\u003Cp\u003Eاز نوش یکی یابم من بخت ضرر\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 3
     },
     {
       "Index": 3,
@@ -70,7 +75,9 @@
       "RhymeLetters": "ار",
       "PlainText": "اگر چه شد دل واله براه زیر و زبر\r\nچهاز نوش یکی دید جانم از آزار\r\nلطیف خلقی کایم نیاورم انده\r\nاگر نیابم من بخت شد ضرر در کار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه شد دل واله براه زیر و زبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچهاز نوش یکی دید جانم از آزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطیف خلقی کایم نیاورم انده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر نیابم من بخت شد ضرر در کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 3,
@@ -81,7 +88,8 @@
       "PlainText": "شد دل بره آرزویی کای یاور\r\nاز نوش یکی یابم من بخت ضرر\r\nدل راز یکی آرزویی امن حضر\r\nشد بهروی ایوان شکیبم ابتر\r\nعنایت ازلم بود نامزد در شعر\r\nکه شد تمام بقانون فکرت این معیار\r\nاز آن لقب شده قانون فکرتش الحق\r\nکه سال هجرت ازین نام آوری بشمار\r\nبود نامش از آن قانون فکرت\r\nکه شد قانون فکرت سال هجرت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد دل بره آرزویی کای یاور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نوش یکی یابم من بخت ضرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل راز یکی آرزویی امن حضر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد بهروی ایوان شکیبم ابتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعنایت ازلم بود نامزد در شعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شد تمام بقانون فکرت این معیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن لقب شده قانون فکرتش الحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سال هجرت ازین نام آوری بشمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eبود نامش از آن قانون فکرت\u003C/p\u003E\r\n\u003Cp\u003Eکه شد قانون فکرت سال هجرت\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 3
     },
     {
       "Index": 3,
@@ -91,7 +99,9 @@
       "RhymeLetters": "ر",
       "PlainText": "اهلی که فشاتد بر تو در پر\r\nشاید که کنی دهانش پر در",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eاهلی که فشاتد بر تو در پر\u003C/p\u003E\r\n\u003Cp\u003Eشاید که کنی دهانش پر در\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 18,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -101,7 +111,9 @@
       "RhymeLetters": "ر",
       "PlainText": "شد دل بره آرزویی کای یاور\r\nاز نوش یکی یابم من بخت ضرر\r\nدل راز یکی آرزویی امن حضر\r\nشد بهروی ایوان شکیبم ابتر\r\nعنایت ازلم بود نامزد در شعر\r\nکه شد تمام بقانون فکرت این معیار\r\nاز آن لقب شده قانون فکرتش الحق\r\nکه سال هجرت ازین نام آوری بشمار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد دل بره آرزویی کای یاور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نوش یکی یابم من بخت ضرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل راز یکی آرزویی امن حضر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد بهروی ایوان شکیبم ابتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعنایت ازلم بود نامزد در شعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شد تمام بقانون فکرت این معیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن لقب شده قانون فکرتش الحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سال هجرت ازین نام آوری بشمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 4,
@@ -112,7 +124,8 @@
       "PlainText": "لب از ثنای تو در گفتن دعا پوید\r\nهمیشه تا که جهان باشد و فلک دوار\r\nمدام ملک ترا باد و شه نشان باشی\r\nجهان پناه تو باشی و شاه گیتی دار\r\nتا بود ملک شه نشان باشی\r\nتا جهان باد در جهان باشی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب از ثنای تو در گفتن دعا پوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا که جهان باشد و فلک دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدام ملک ترا باد و شه نشان باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان پناه تو باشی و شاه گیتی دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eتا بود ملک شه نشان باشی\u003C/p\u003E\r\n\u003Cp\u003Eتا جهان باد در جهان باشی\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 3
     },
     {
       "Index": 4,
@@ -122,27 +135,8 @@
       "RhymeLetters": "ور",
       "PlainText": "سوخت غیر و چو من نامده منصور\r\nدر طریق سخن شاعر مشهور",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eسوخت غیر و چو من نامده منصور\u003C/p\u003E\r\n\u003Cp\u003Eدر طریق سخن شاعر مشهور\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 5
-    },
-    {
-      "Index": 5,
-      "Number": 6,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "اگر چه واله ازو لطف خلق من مانده\r\nچه دید جانم از آزار گر نشد در کار\r\nشد دل بره آرزویی کای یاور\r\nاز نوش یکی یابم من بخت ضرر",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eاگر چه واله ازو لطف خلق من مانده\u003C/p\u003E\r\n\u003Cp\u003Eچه دید جانم از آزار گر نشد در کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eشد دل بره آرزویی کای یاور\u003C/p\u003E\r\n\u003Cp\u003Eاز نوش یکی یابم من بخت ضرر\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 5,
-      "Number": 6,
-      "SectionType": "Band",
-      "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "لب از ثنای تو در گفتن دعا پوید\r\nهمیشه تا که جهان باشد و فلک دوار\r\nمدام ملک ترا باد و شه نشان باشی\r\nجهان پناه تو باشی و شاه گیتی دار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب از ثنای تو در گفتن دعا پوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا که جهان باشد و فلک دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدام ملک ترا باد و شه نشان باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان پناه تو باشی و شاه گیتی دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
+      "CoupletsCount": 5,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 5,
@@ -153,17 +147,32 @@
       "PlainText": "یقین که خالی و پر باشد و بود یارب\r\nهمیشه پر کفت از سیم و خالی از اغیار\r\nنگاه تا دم یوم الحسیب دار جهان\r\nبپای و دشمن از افسردگی بخاک سپار\r\nخالی و پر باد یارب تا دم یوم الحسیب\r\nپرکفت از سیم و خالی پای دشمن از رکیب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که خالی و پر باشد و بود یارب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه پر کفت از سیم و خالی از اغیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگاه تا دم یوم الحسیب دار جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبپای و دشمن از افسردگی بخاک سپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eخالی و پر باد یارب تا دم یوم الحسیب\u003C/p\u003E\r\n\u003Cp\u003Eپرکفت از سیم و خالی پای دشمن از رکیب\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 3
     },
     {
-      "Index": 6,
-      "Number": 7,
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "اگر چه واله ازو لطف خلق من مانده\r\nچه دید جانم از آزار گر نشد در کار\r\nشد دل بره آرزویی کای یاور\r\nاز نوش یکی یابم من بخت ضرر",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eاگر چه واله ازو لطف خلق من مانده\u003C/p\u003E\r\n\u003Cp\u003Eچه دید جانم از آزار گر نشد در کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eشد دل بره آرزویی کای یاور\u003C/p\u003E\r\n\u003Cp\u003Eاز نوش یکی یابم من بخت ضرر\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 4,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 2
+    },
+    {
+      "Index": 5,
+      "Number": 6,
       "SectionType": "Band",
       "VerseType": "Second",
       "RhymeLetters": "ار",
-      "PlainText": "یقین که خالی و پر باشد و بود یارب\r\nهمیشه پر کفت از سیم و خالی از اغیار\r\nنگاه تا دم یوم الحسیب دار جهان\r\nبپای و دشمن از افسردگی بخاک سپار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که خالی و پر باشد و بود یارب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه پر کفت از سیم و خالی از اغیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگاه تا دم یوم الحسیب دار جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبپای و دشمن از افسردگی بخاک سپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
+      "PlainText": "لب از ثنای تو در گفتن دعا پوید\r\nهمیشه تا که جهان باشد و فلک دوار\r\nمدام ملک ترا باد و شه نشان باشی\r\nجهان پناه تو باشی و شاه گیتی دار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب از ثنای تو در گفتن دعا پوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا که جهان باشد و فلک دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدام ملک ترا باد و شه نشان باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان پناه تو باشی و شاه گیتی دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 6,
@@ -173,7 +182,21 @@
       "RhymeLetters": "رت",
       "PlainText": "بود نامش از آن قانون فکرت\r\nکه شد قانون فکرت سال هجرت",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبود نامش از آن قانون فکرت\u003C/p\u003E\r\n\u003Cp\u003Eکه شد قانون فکرت سال هجرت\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "یقین که خالی و پر باشد و بود یارب\r\nهمیشه پر کفت از سیم و خالی از اغیار\r\nنگاه تا دم یوم الحسیب دار جهان\r\nبپای و دشمن از افسردگی بخاک سپار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که خالی و پر باشد و بود یارب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه پر کفت از سیم و خالی از اغیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگاه تا دم یوم الحسیب دار جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبپای و دشمن از افسردگی بخاک سپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 7,
@@ -183,7 +206,9 @@
       "RhymeLetters": "انباشی",
       "PlainText": "تا بود ملک شه نشان باشی\r\nتا جهان باد در جهان باشی",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eتا بود ملک شه نشان باشی\u003C/p\u003E\r\n\u003Cp\u003Eتا جهان باد در جهان باشی\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 8,
@@ -193,7 +218,9 @@
       "RhymeLetters": "یب",
       "PlainText": "خالی و پر باد یارب تا دم یوم الحسیب\r\nپرکفت از سیم و خالی پای دشمن از رکیب",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eخالی و پر باد یارب تا دم یوم الحسیب\u003C/p\u003E\r\n\u003Cp\u003Eپرکفت از سیم و خالی پای دشمن از رکیب\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 5
     }
   ],
   "Verses": [

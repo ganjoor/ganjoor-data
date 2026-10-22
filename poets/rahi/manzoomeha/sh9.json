@@ -6,7 +6,7 @@
   "FullUrl": "/rahi/manzoomeha/sh9",
   "SourceName": "تبیان",
   "SourceUrlSlug": "tebyan",
-  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی زیبایی و شادی بهار و ارتباط آن با عشق و دوستی است. شاعر به ارتباط عاطفی بین انسان‌ها اشاره می‌کند و می‌گوید که اگر در زندگی یاری و دوستی نباشد، زیبایی‌ها رنگ و بویی نخواهند داشت. بهار و گل‌های آن نمادی از عشق و زیبایی هستند و چمن و بوستان بدون دوستان، همچون زندان می‌مانند. در نهایت، شاعر تأکید می‌کند که بهار دل‌انگیز عاشقان به خاطر حضور یار است و هر جا که دوستی و عشق باشد، بهار وجود دارد.",
+  "PoemSummary": "هوش مصنوعی: شعر بهار عشق وصفی از زیبایی‌های بهار و حس عشق است. شاعر به اهمیت یار و همراهی در شادی و زیبایی زندگی اشاره می‌کند و می‌گوید که بدون یار، زیبایی‌ها مثل گل و خار یکی می‌شوند. همچنین، چمن و بوستان در نبود دوستان ارزشی ندارند و عشق و وجود جانان، زندگی را زنده و سرشار از شادی می‌کند. بهار عشق نمایانگر حضور یار در زندگی عاشقان است و هر کجا که گل باشد، بهار و عشق نیز حضور دارد.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "روان پرور بود خرم بهاری\r\nکه گیری پای سروی دست یاری\r\nوگر یاری نداری لاله رخسار\r\nبود یکسان به چشمت لاله و خار\r\nچمن بی هم نشین زندان جان است\r\nصفای بوستان از دوستان است\r\nغمی در سایه جانان نداری\r\nوگر جانان نداری جان نداری\r\nبهار عاشقان رخسار یار است\r\nکه هرجا نوگلی باشد بهار است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروان‌پرور بود خرم‌بهاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه گیری پای سروی دست یاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر یاری نداری لاله‌رخسار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود یکسان به چشمت لاله و خار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچمن بی‌هم‌نشین زندان جان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصفای بوستان از دوستان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمی در سایه جانان نداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر جانان نداری جان نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهار عاشقان رخسار یار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هرجا نوگلی باشد بهار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "اری",
       "PlainText": "روان پرور بود خرم بهاری\r\nکه گیری پای سروی دست یاری",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروان‌پرور بود خرم‌بهاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه گیری پای سروی دست یاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ار",
       "PlainText": "وگر یاری نداری لاله رخسار\r\nبود یکسان به چشمت لاله و خار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر یاری نداری لاله‌رخسار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود یکسان به چشمت لاله و خار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اناست",
       "PlainText": "چمن بی هم نشین زندان جان است\r\nصفای بوستان از دوستان است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچمن بی‌هم‌نشین زندان جان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصفای بوستان از دوستان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "اننداری",
       "PlainText": "غمی در سایه جانان نداری\r\nوگر جانان نداری جان نداری",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمی در سایه جانان نداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر جانان نداری جان نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 6,
@@ -71,7 +80,9 @@
       "RhymeLetters": "اراست",
       "PlainText": "بهار عاشقان رخسار یار است\r\nکه هرجا نوگلی باشد بهار است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهار عاشقان رخسار یار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هرجا نوگلی باشد بهار است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

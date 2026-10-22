@@ -6,7 +6,7 @@
   "FullUrl": "/shabestari/saadatname/bab2/fasl2/sh1",
   "SourceName": "کتابخانهٔ تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: این شعر به وصف قدرت و ذات خداوند می‌پردازد و بیان می‌کند که خداوند به طور کامل و بی‌نظیر است و همه موجودات را در بر می‌گیرد. فیض و رحمت او همیشگی و بی‌حد و مرز است. همچنین، امر کردن و خلق کردن خداوند به هم مرتبط است و تمامی موجودات از فرمان او به وجود آمده‌اند. در نهایت، با جمله \u0022انما امرنا لشیء\u0022 تاکید می‌شود که اراده و فرمان خداوند باعث ظهور و پیدایش همه‌چیز است.",
+  "PoemSummary": "هوش مصنوعی: این بخش از شعر به تبیین قدرت و علم خداوند می‌پردازد و نشان می‌دهد که این قدرت تمام ممکنات را در بر می‌گیرد. خداوند با فیض و لطفی نامحدود، هر چیزی را به وجود می‌آورد و به تمامی امور، بر اساس اراده‌اش، شکل می‌بخشد. همه چیز در جهان در پی فرمان او \u0022کن فیکون\u0022 (باش و می‌شود) شکل می‌گیرد و بر اساس این فرمان در عالم آشکار و پنهان جلوه می‌کند.",
   "Metre": {
     "Id": 9,
     "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
@@ -21,7 +21,8 @@
       "PlainText": "قدرت او چو ذات او کامل\r\nهمۀ ممکنات را شامل\r\nفیض و فضلش علی الدوام تمام\r\nجود و لطف و عطاش مطلق و عام\r\nامر و خلقش به یکدگر مقرون\r\nجمله پیدا شده به کن فیکون\r\nانما امرنا لشیء گفت\r\nتا شود داخل آشکار و نهفت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقدرت او چو ذات او کامل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمۀ ممکنات را شامل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفیض و فضلش علی الدوام تمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجود و لطف و عطاش مطلق و عام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامر و خلقش به یکدگر مقرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمله پیدا شده به «کن فیکون»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E«انّما امرنا لشیء» گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شود داخل آشکار و نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 9
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "امل",
       "PlainText": "قدرت او چو ذات او کامل\r\nهمۀ ممکنات را شامل",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقدرت او چو ذات او کامل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمۀ ممکنات را شامل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ام",
       "PlainText": "فیض و فضلش علی الدوام تمام\r\nجود و لطف و عطاش مطلق و عام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفیض و فضلش علی الدوام تمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجود و لطف و عطاش مطلق و عام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ون",
       "PlainText": "امر و خلقش به یکدگر مقرون\r\nجمله پیدا شده به کن فیکون",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامر و خلقش به یکدگر مقرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمله پیدا شده به «کن فیکون»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "فت",
       "PlainText": "انما امرنا لشیء گفت\r\nتا شود داخل آشکار و نهفت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E«انّما امرنا لشیء» گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شود داخل آشکار و نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

@@ -6,7 +6,7 @@
   "FullUrl": "/adib/divan/ezafat/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به مفهوم پاکی و غسل اشاره می‌کند. زمانی که انسان دچار آلودگی می‌شود، باید برای پاک شدن و نزدیک شدن به یار (خدا) غسل کند. همچنین تأکید بر اهمیت شروع و پایان این مسیر با یاد یار و توجه به دستورات خداوند دارد. این اشعار به نوعی بر لزوم پیوستگی با خدا و پاکی در زندگی تأکید می‌کند.",
+  "PoemSummary": "هوش مصنوعی: شعر به توصیف آیین غسل جنابت و اهمیت آن در پاک‌سازی روح و جسم پرداخته است. شاعر با اشاره به این‌که برای غسل باید نیت و سرود خاصی را در نظر داشت، بر ضرورت خلوص نیت در این عمل تاکید می‌کند. او به این نکته اشاره دارد که در این فرآیند، خداوند به عنوان خالق و بخشنده باید مورد توجه قرار گیرد و در نهایت، رابطه با یار (خدا) در آغاز و پایان این عمل نمایان است.",
   "Metre": {
     "Id": 9,
     "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
@@ -21,7 +21,8 @@
       "PlainText": "از جنابت چو دامنت آلود\r\nبایدت در زمان غسل سرود\r\nکه کنم غسل غسل از پی یار\r\nحق بکار است و پاک شد مردار\r\nابتدا هست یار و آخر یار\r\nحکم خاوندگار عزت دار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جنابت چو دامنت آلود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبایدت در زمان غسل سرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه کنم غسل غسل از پی یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق بکار است و پاک شد مردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابتدا هست یار و آخر یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکم خاوندگار عزت دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 9
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ود",
       "PlainText": "از جنابت چو دامنت آلود\r\nبایدت در زمان غسل سرود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جنابت چو دامنت آلود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبایدت در زمان غسل سرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ار",
       "PlainText": "که کنم غسل غسل از پی یار\r\nحق بکار است و پاک شد مردار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه کنم غسل غسل از پی یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق بکار است و پاک شد مردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ار",
       "PlainText": "ابتدا هست یار و آخر یار\r\nحکم خاوندگار عزت دار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابتدا هست یار و آخر یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکم خاوندگار عزت دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 9,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

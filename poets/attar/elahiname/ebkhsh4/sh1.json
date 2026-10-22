@@ -6,7 +6,7 @@
   "FullUrl": "/attar/elahiname/ebkhsh4/sh1",
   "SourceName": "کتابخانه تصوف",
   "SourceUrlSlug": "sufi",
-  "PoemSummary": "هوش مصنوعی: پسر از احساساتش نسبت به دختری زیبا و عزیز سخن می‌گوید و ابراز می‌کند که دلتنگ اوست. او از پدر می‌خواهد تا حقیقت این دختر را برایش بگوید. پدر نیز اشاره می‌کند که داستان عشق و عروسی در پس پرده رازها نهفته است و باید به آن پرداخته شود.",
+  "PoemSummary": "هوش مصنوعی: در این بخش از الهی‌نامه، پسر از عشق و دلتنگی خود برای دختری زیبا و پری‌چهره سخن می‌گوید و می‌گوید که فراق او مانند شعله‌ای در وجودش می‌سوزد. او از پدرش می‌خواهد تا رازی را که بر این عشق سایه افکنده، برایش بازگو کند. پدر نیز به او توصیه می‌کند که حکایت و داستانی دربارهٔ آن دختر را بشنود تا به اسرار و جذابیت‌های او پی ببرد.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "پسر گفتش دلم حیران بماندست\r\nکه بی شه زاده پریان بماندست\r\nچو آن دختر محیا و عزیزست\r\nبگو باری بمن تا آن چه چیزست\r\nکه من نادیده او را در فراقش\r\nچو شمعم جان بلب پر اشتیاقش\r\nپدر گفت این حکایة پیش او باز\r\nعروسی جلوه داد از پرده راز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپسر گفتش دلم حیران بماندست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بی شه زادهٔ پریان بماندست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو آن دختر محیّا و عزیزست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگو باری بمن تا آن چه چیزست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه من نادیده او را در فراقش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو شمعم جان بلب پُر اشتیاقش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدر گفت این حکایة پیش او باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعروسی جلوه داد از پردهٔ راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "انبماندست",
       "PlainText": "پسر گفتش دلم حیران بماندست\r\nکه بی شه زاده پریان بماندست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپسر گفتش دلم حیران بماندست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بی شه زادهٔ پریان بماندست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "یزست",
       "PlainText": "چو آن دختر محیا و عزیزست\r\nبگو باری بمن تا آن چه چیزست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو آن دختر محیّا و عزیزست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگو باری بمن تا آن چه چیزست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اقش",
       "PlainText": "که من نادیده او را در فراقش\r\nچو شمعم جان بلب پر اشتیاقش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه من نادیده او را در فراقش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو شمعم جان بلب پُر اشتیاقش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "از",
       "PlainText": "پدر گفت این حکایة پیش او باز\r\nعروسی جلوه داد از پرده راز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدر گفت این حکایة پیش او باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعروسی جلوه داد از پردهٔ راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

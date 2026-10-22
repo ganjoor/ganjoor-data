@@ -1,12 +1,15 @@
 {
-  "SchemaVersion": 2,
-  "GeneratedAtUtc": "2026-10-13T06:38:12.7887571Z",
-  "PoetsCount": 240,
-  "PoemsCount": 135399,
-  "PeopleCount": 660,
+  "SchemaVersion": 4,
+  "GeneratedAtUtc": "2026-10-22T08:36:20.5911577Z",
+  "PoetsCount": 241,
+  "PoemsCount": 138188,
+  "PeopleCount": 662,
   "LocationsCount": 199,
-  "GeoTagsCount": 183,
-  "PersonTagsCount": 5720,
+  "GeoTagsCount": 186,
+  "PersonTagsCount": 5724,
+  "LiteraryDevicesCount": 15,
+  "LiteraryConceptsCount": 1255,
+  "LiteraryTagsCount": 2964,
   "PersonIndexShardSize": 500,
   "IdIndexShardSize": 2000,
   "UrlTemplates": {
@@ -21,7 +24,11 @@
     "PersonRelations": "person-relations.json",
     "PersonAffiliations": "person-affiliations.json",
     "GeoTags": "geotags.json",
-    "PersonTagsIndexShard": "index/person-tags/{bucket}.json"
+    "PersonTagsIndexShard": "index/person-tags/{bucket}.json",
+    "LiteraryDevices": "literary-devices.json",
+    "LiteraryConcepts": "literary-concepts.json",
+    "LiteraryTagSources": "literary-sources.json",
+    "LiteraryTagsByDevice": "index/literary-tags/{deviceId}.json"
   },
   "Poets": [
     {
@@ -1223,6 +1230,11 @@
       "Id": 241,
       "Nickname": "واقف لاهوری",
       "FullUrl": "/waqif"
+    },
+    {
+      "Id": 242,
+      "Nickname": "طالب آملی",
+      "FullUrl": "/taleb"
     }
   ]
 }

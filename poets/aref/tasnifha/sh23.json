@@ -6,7 +6,7 @@
   "FullUrl": "/aref/tasnifha/sh23",
   "SourceName": "همراهان گنجور",
   "SourceUrlSlug": "hamrahan",
-  "PoemSummary": "هوش مصنوعی: این شعر توسط امیرزاده و شکری نوشته شده است. در این شعر، امیرزاده به دگمه پنبه‌ای و یار وفادار اشاره می‌کند و به این موضوع می‌پردازد که اگر یار او هم پنبه‌ای بود، شرایط بهتری می‌داشتند. او از خداوند تشکر می‌کند و به وفاداری و احتمال خیانت در رابطه‌های انسانی اشاره می‌کند. شکری نیز در ادامه به وفاداری و مشکلاتی که ممکن است در زندگی اجتماعی وجود داشته باشد، می‌پردازد و به نیت خوب و بد افراد تاکید می‌کند. به طور کلی، شعر به مضامین وفاداری، خیانت و شکرگزاری از خداوند می‌پردازد.",
+  "PoemSummary": "هوش مصنوعی: امیرزاده در دکلمه‌ای به وصف یاری می‌پردازد که دگمه‌اش پنبه‌ای نیست و به این ترتیب او را از یار خوبش جدا می‌کند. در ادامه، شکری می‌گوید که اگر امیر وفادار بود، چه خوب می‌بود و از خان و عبدالله یاد می‌کند که در مهمانی شبی در خانه نبودند و فردی فاسق در غیاب آنها دست به کارهایی زده بود. شکری از امیر می‌خواهد که به عهدش وفادار بماند و دشمنان را دعا کند. این شعر با تأکید بر وفاداری و پیامدهای خیانت شخصیت‌ها پیش می‌رود.",
   "Sections": [
     {
       "Index": 0,
@@ -38,17 +38,8 @@
       "RhymeLetters": "پنبهایبود",
       "PlainText": "اگر دگمه ات پنبه ای بود\r\nیار جان پنبه ای بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دگمه‌ات پنبه‌ای بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار، جان، پنبه‌ای بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 3,
-      "Number": 3,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ارمابودی",
-      "PlainText": "امیر اگر یار ما بودی\r\nیار وفادار ما بودی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامیر اگر یار ما بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار وفادار ما بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -58,17 +49,19 @@
       "RhymeLetters": "ه",
       "PlainText": "آشکرالله خوب بچه ای بود\r\nبه ذات الله به ذات الله",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشکرالله خوب بچه‌ای بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ذات الله، به ذات الله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 0
     },
     {
-      "Index": 4,
-      "Number": 4,
+      "Index": 3,
+      "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "پنبهاینیست",
-      "PlainText": "بازم دگمه ات پنبه ای نیست\r\nیار جان پنبه ای نیست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازم دگمه‌ات پنبه‌ای نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار، جان، پنبه‌ای نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "RhymeLetters": "ارمابودی",
+      "PlainText": "امیر اگر یار ما بودی\r\nیار وفادار ما بودی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامیر اگر یار ما بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار وفادار ما بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 4,
@@ -78,17 +71,19 @@
       "RhymeLetters": "ه",
       "PlainText": "پس امسال خان آنجا چه می کرد\r\nبا عبدالله با عبدالله",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس «امسال خان» آنجا چه می‌کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا عبدالله، با عبدالله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 1
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "انیبود",
-      "PlainText": "شبی آنجا مهمانی بود\r\nاسماعیل قربانی بود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی آنجا مهمانی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E«اسماعیل قربانی» بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "RhymeLetters": "پنبهاینیست",
+      "PlainText": "بازم دگمه ات پنبه ای نیست\r\nیار جان پنبه ای نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازم دگمه‌ات پنبه‌ای نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار، جان، پنبه‌ای نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -98,7 +93,19 @@
       "RhymeLetters": "ه",
       "PlainText": "برو دگمه اتو پنبه ای کن\r\nآشکرالله آشکرالله",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو دگمه‌اتو پنبه‌ای کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآشکرالله، آشکرالله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 0
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انیبود",
+      "PlainText": "شبی آنجا مهمانی بود\r\nاسماعیل قربانی بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی آنجا مهمانی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E«اسماعیل قربانی» بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 6,
@@ -108,7 +115,8 @@
       "RhymeLetters": "ه",
       "PlainText": "تو صندوقخانه پنهانی بود\r\nبه اذن الله به اذن الله",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو صندوقخانه پنهانی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه اذن الله، به اذن الله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 7,
@@ -118,7 +126,8 @@
       "RhymeLetters": "الیبود",
       "PlainText": "شبی که خانه خالی بود\r\nفاسق هر سالی بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی که خانه خالی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفاسق هر سالی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 8,
@@ -128,7 +137,8 @@
       "RhymeLetters": "ه",
       "PlainText": "آشکرالله پشت قالی بود\r\nبه عون الله به عون الله",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشکرالله پشت قالی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه عون الله، به عون الله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 9,
@@ -138,7 +148,8 @@
       "RhymeLetters": "دنکنی",
       "PlainText": "قسم خوردی آی بد نکنی\r\nشکری را رد نکنی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقسم خوردی آی بد نکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکری را رد نکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 10,
@@ -148,7 +159,8 @@
       "RhymeLetters": "ه",
       "PlainText": "الهی خصمت بکند\r\nکلام الله کلام الله",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالهی خصمت بکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلام الله، کلام الله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 1
     }
   ],
   "Verses": [

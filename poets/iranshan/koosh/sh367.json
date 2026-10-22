@@ -6,7 +6,7 @@
   "FullUrl": "/iranshan/koosh/sh367",
   "SourceName": "چکامه",
   "SourceUrlSlug": "chekameh",
-  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از جهانی کهن و دیرینه سخن می‌گوید و به اهمیت تاریخ و یادآوری آن اشاره می‌کند. او معتقد است که تنها دانای واقعی، یعنی کسی که به رازها آگاه است، می‌تواند به‌خوبی از گذشته آگاه شود. هیچ‌کس جز آن دانا نمی‌تواند به‌طور کامل آن روزگاران را به یاد آورد.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به شخصیت ماهنگ اشاره می‌کند که بنیان‌گذار چهار طاقی است و به دوران قدیم اشاره دارد. این شخصیت، به عنوان یک جهان‌دیده، تأکید می‌کند که اطلاعات و دانسته‌های مربوط به او تنها در دست عالمان و دانایان است. او یادآوری می‌کند که هیچ‌کس جز دانایان از حقایق و رازهای گذشته آگاه نیست و اساسی برای یادآوری آن دوران وجود ندارد.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -21,7 +21,8 @@
       "PlainText": "جهاندیده گوید که بنیاد این\r\nفگنده ست ماهنگ دارای چین\r\nدگر گفت کآن کوش پیشین نهاد\r\nندارد کس آن روزگاران به یاد\r\nنداند جز از راز داننده کس\r\nکه اوی است داننده راز و بس",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهاندیده گوید که بنیاد این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفگنده‌ست ماهنگ، دارای چین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر گفت کآن کوش پیشین نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندارد کس آن روزگاران به یاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنداند جز از راز داننده‌کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه اوی است دانندهٔ راز و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 23
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ین",
       "PlainText": "جهاندیده گوید که بنیاد این\r\nفگنده ست ماهنگ دارای چین",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهاندیده گوید که بنیاد این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفگنده‌ست ماهنگ، دارای چین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "اد",
       "PlainText": "دگر گفت کآن کوش پیشین نهاد\r\nندارد کس آن روزگاران به یاد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر گفت کآن کوش پیشین نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندارد کس آن روزگاران به یاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "س",
       "PlainText": "نداند جز از راز داننده کس\r\nکه اوی است داننده راز و بس",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنداند جز از راز داننده‌کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه اوی است دانندهٔ راز و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

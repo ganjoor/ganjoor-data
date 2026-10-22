@@ -6,7 +6,7 @@
   "FullUrl": "/ouhadi/mantegholoshagh/sh67",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به اهمیت برخورد نرم و ملایم با دیگران، به ویژه با افرادی که شیرین زبان و خوش‌صحبت هستند، اشاره می‌کند. او بیان می‌کند که در برابر مشکلات باید صبر کرد و از برخوردهای تند و خشن با خوبان دوری کرد، زیرا در غیر این صورت نمی‌توان رابطه‌ای مثبت برقرار کرد.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این بخش به اهمیت ارتباط و پیوند با دیگران می‌پردازد و بر لزوم تحمل و مدارا در گفتگو تأکید می‌کند. او می‌گوید برای حفظ رابطه‌ها و مراودات، باید با کلامی شیرین و نرم برخورد کرد و از درشتی پرهیز نمود. همچنین اشاره می‌کند که اگر در جمع افراد خوب و با فرهنگ نباشید، نمی‌توانید به راحتی با آنها کنار بیایید؛ بنابراین، باید در سختی‌ها نیز از برقراری ارتباط غافل نشوید.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "ز بهر آنکه ناچارست دیدن\r\nبه هر سختی نمی شاید بریدن\r\nاگر در بند آن شیرین زبانی\r\nسخن باید که جز شیرین نرانی\r\nچو با خوبان نباشی مرد کشتی\r\nنباید کرد با ایشان درشتی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بهر آنکه ناچارست دیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هر سختی نمی‌شاید بریدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر در بند آن شیرین زبانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن باید که جز شیرین نرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو با خوبان نباشی مرد کشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنباید کرد با ایشان درشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "یدن",
       "PlainText": "ز بهر آنکه ناچارست دیدن\r\nبه هر سختی نمی شاید بریدن",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بهر آنکه ناچارست دیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هر سختی نمی‌شاید بریدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "انی",
       "PlainText": "اگر در بند آن شیرین زبانی\r\nسخن باید که جز شیرین نرانی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر در بند آن شیرین زبانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن باید که جز شیرین نرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "شتی",
       "PlainText": "چو با خوبان نباشی مرد کشتی\r\nنباید کرد با ایشان درشتی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو با خوبان نباشی مرد کشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنباید کرد با ایشان درشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

@@ -7,7 +7,7 @@
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
   "Language": "ar",
-  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی عشق و شوق عاشق به محبوب است. شاعر از ساقی می‌خواهد که جامی پر کند و او را مست کند، زیرا عاشقان دیگر نیز این احساسات را تجربه کرده‌اند. او به زیبایی‌های عشق اشاره می‌کند و می‌گوید که عشق نور و روشنایی به زندگی می‌آورد. شاعر در جهانی از عشق زندگی می‌کند و معتقد است که عشق به اندازه کافی شادی و لذت به او می‌بخشد، و به همین دلیل از دنیا و مادیات بی‌نیاز است. در نهایت، عشق را از جمله‌ترین و زیباترین تجربیات زندگی می‌داند.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل با اشاره به عشق و شور و شوق ناشی از آن از ساقی می‌خواهد که شراب را برایش بیاورد و او را در حال مستی غرق کند. او به زیبایی‌های عشق اشاره می‌کند که شب را به صبح بدل می‌کند و دور از دنیای مادی، به معانی عمیق‌تر و روحانی‌تر عشق می‌رسد. شاعر می‌گوید عشق دنیا و لذت‌های مادی را پشت سر می‌گذارد و در دنیای عشق، با کسانی که عاشق هستند، ارتباط و پیوند عمیق‌تری دارد. در نهایت، او به خوشی‌های عشق و بهشت‌هایی که در آن ایجاد می‌شود، اشاره می‌کند.",
   "Metre": {
     "Id": 2,
     "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
@@ -23,7 +23,8 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالا یا ساقیا انی لظمن و مشتاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eادر کأسا و لا تنکر فان القوم قد ذاقوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاذا ما شئت اسراری ادر کأسا من النار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفاسکرنی و سائلنی الی من انت مشتاق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاضاء العشق مصباحا فصار اللیل اصباحا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو من انواره انشقت علی الاحجار احداق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفداء العشق ادوائی و مر العشق حلوائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو انی بین عشاق اسوق حیث ما ساقوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخذ الدنیا و خلینا فدنیا العشق تکفینا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلنا فی العشق جنات و بلدان و اسواق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو ارواح تلاقینا و ارواح سواقینا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو خمر فیه مدرار و کأس العشق رقراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
       "Language": "ar",
-      "CoupletsCount": 6
+      "CoupletsCount": 6,
+      "MetreId": 2
     },
     {
       "Index": 2,
@@ -33,7 +34,9 @@
       "RhymeLetters": "ا",
       "PlainText": "الا یا ساقیا انی لظمن و مشتاق\r\nادر کأسا و لا تنکر فان القوم قد ذاقوا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالا یا ساقیا انی لظمن و مشتاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eادر کأسا و لا تنکر فان القوم قد ذاقوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 2,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -43,7 +46,9 @@
       "RhymeLetters": "ق",
       "PlainText": "اذا ما شیت اسراری ادر کأسا من النار\r\nفاسکرنی و سایلنی الی من انت مشتاق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاذا ما شئت اسراری ادر کأسا من النار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفاسکرنی و سائلنی الی من انت مشتاق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 2,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -53,7 +58,9 @@
       "RhymeLetters": "ق",
       "PlainText": "اضاء العشق مصباحا فصار اللیل اصباحا\r\nو من انواره انشقت علی الاحجار احداق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاضاء العشق مصباحا فصار اللیل اصباحا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو من انواره انشقت علی الاحجار احداق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 2,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -63,7 +70,9 @@
       "RhymeLetters": "ی",
       "PlainText": "فداء العشق ادوایی و مر العشق حلوایی\r\nو انی بین عشاق اسوق حیث ما ساقوا",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفداء العشق ادوائی و مر العشق حلوائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو انی بین عشاق اسوق حیث ما ساقوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 2,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 6,
@@ -73,7 +82,9 @@
       "RhymeLetters": "ق",
       "PlainText": "خذ الدنیا و خلینا فدنیا العشق تکفینا\r\nلنا فی العشق جنات و بلدان و اسواق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخذ الدنیا و خلینا فدنیا العشق تکفینا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلنا فی العشق جنات و بلدان و اسواق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 2,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 7,
@@ -83,7 +94,9 @@
       "RhymeLetters": "ق",
       "PlainText": "و ارواح تلاقینا و ارواح سواقینا\r\nو خمر فیه مدرار و کأس العشق رقراق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو ارواح تلاقینا و ارواح سواقینا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو خمر فیه مدرار و کأس العشق رقراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 2,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

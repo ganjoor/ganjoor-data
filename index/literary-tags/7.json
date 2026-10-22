@@ -1,0 +1,99 @@
+[
+  {
+    "PoemId": 9324,
+    "CoupletIndex": 1,
+    "DeviceId": 7,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 15,
+        "CoupletIndex": 1,
+        "Misra": 1,
+        "WordStart": 2,
+        "WordEnd": 2
+      },
+      {
+        "SlotId": 16,
+        "CoupletIndex": 1,
+        "Misra": 1,
+        "WordStart": 6,
+        "WordEnd": 6
+      }
+    ]
+  },
+  {
+    "PoemId": 9325,
+    "CoupletIndex": 8,
+    "DeviceId": 7,
+    "Uncertain": false,
+    "Note": "«شیرین» و «ترش» دو مزهٔ مقابل‌اند.",
+    "Origin": "AI",
+    "MachineGenerated": true,
+    "Parts": [
+      {
+        "SlotId": 15,
+        "CoupletIndex": 8,
+        "Misra": 1,
+        "WordStart": 2,
+        "WordEnd": 2
+      },
+      {
+        "SlotId": 16,
+        "CoupletIndex": 8,
+        "Misra": 1,
+        "WordStart": 4,
+        "WordEnd": 4
+      }
+    ]
+  },
+  {
+    "PoemId": 25229,
+    "CoupletIndex": 6,
+    "DeviceId": 7,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 15,
+        "CoupletIndex": 6,
+        "Misra": 1,
+        "WordStart": 1,
+        "WordEnd": 1
+      },
+      {
+        "SlotId": 16,
+        "CoupletIndex": 6,
+        "Misra": 1,
+        "WordStart": 7,
+        "WordEnd": 7
+      }
+    ]
+  },
+  {
+    "PoemId": 25229,
+    "CoupletIndex": 6,
+    "DeviceId": 7,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 15,
+        "CoupletIndex": 6,
+        "Misra": 2,
+        "WordStart": 2,
+        "WordEnd": 2
+      },
+      {
+        "SlotId": 16,
+        "CoupletIndex": 6,
+        "Misra": 2,
+        "WordStart": 8,
+        "WordEnd": 8
+      }
+    ]
+  }
+]

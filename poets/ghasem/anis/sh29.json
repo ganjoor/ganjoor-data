@@ -6,7 +6,7 @@
   "FullUrl": "/ghasem/anis/sh29",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: شمع که پروانه را دیده و نابود شده است، با آتش نورانی خود خطاب به معشوقش می‌گوید: ای کشته‌گان عشق، ای بزرگوار، ای نور قدیم، ای آنکه در تاریکی هستی. من از وجودم شرمنده‌ام و از تو می‌خواهم که گناه ما را مانند پروانه محو کنی. من تنها یک بار می‌سوزم و دیگر توان جان دادن ندارم.",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شمع به آتش خطاب می‌کند و احساساتی عمیق را بیان می‌کند. او خود را در مقایسه با پروانه‌ای می‌بیند که به شعله عشق نزدیک شده، اما ترس از سوختن در دلش کم نمی‌شود. شمع از آتش می‌خواهد که جرم و نقص‌های او را محو کند و در دلش امید دارد که مانند پروانه، بتواند بارها عاشقانه بسوزد، اما همزمان از ناتوانی‌اش در تاب آوردن درد سوختن سخن می‌گوید. او به نوعی در جستجوی پذیرش و عشق است، اما در عین حال از عواقب آن نیز هراسان است.",
   "Metre": {
     "Id": 6,
     "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
@@ -21,7 +21,8 @@
       "PlainText": "شمع چون پروانه را معدوم دید\r\nگفت باآتش کهای نور الفرید\r\nیا قتیل العاشقینیا ذوالکرام\r\nیاقدیم النور یامافی الظلام\r\nمانده ام از جرم هستی شرمسار\r\nجرم ما را محو کن پروانه وار\r\nچون تن پروانه یک بارم بسوز\r\nتاب جان دادن ندارم تا بروز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع چون پروانه را معدوم دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت باآتش که:ای نور الفرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا قتیل العاشقین،یا ذوالکرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاقدیم النور، یامافی الظلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانده ام از جرم هستی شرمسار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجرم ما را محو کن پروانه وار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تن پروانه یک بارم بسوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاب جان دادن ندارم تا بروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 6
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ید",
       "PlainText": "شمع چون پروانه را معدوم دید\r\nگفت باآتش کهای نور الفرید",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع چون پروانه را معدوم دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت باآتش که:ای نور الفرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "ام",
       "PlainText": "یا قتیل العاشقینیا ذوالکرام\r\nیاقدیم النور یامافی الظلام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا قتیل العاشقین،یا ذوالکرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاقدیم النور، یامافی الظلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "ار",
       "PlainText": "مانده ام از جرم هستی شرمسار\r\nجرم ما را محو کن پروانه وار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانده ام از جرم هستی شرمسار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجرم ما را محو کن پروانه وار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "وز",
       "PlainText": "چون تن پروانه یک بارم بسوز\r\nتاب جان دادن ندارم تا بروز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تن پروانه یک بارم بسوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاب جان دادن ندارم تا بروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

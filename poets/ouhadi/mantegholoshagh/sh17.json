@@ -6,7 +6,7 @@
   "FullUrl": "/ouhadi/mantegholoshagh/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این ابیات، شخصی پس از شنیدن یک سخن، دچار حیرت و سکته می‌شود. با این حال، دلش هنوز بر وفا و صداقت ثابت است و می‌داند که در عشق واقعی هیچ جای خیانت و دل‌آزاری وجود ندارد. او مطمئن است که معشوقان واقعی نمی‌توانند دل کسی را به درد آورند.",
+  "PoemSummary": "هوش مصنوعی: عاشق پس از شنیدن خبر رسیدن نامهٔ معشوق، به شدت دچار هیجان و پرشور می‌شود. او در حالی که دلش سنگین و غمگین است، اما همچنان به وفاداری و عشقش به معشوق پایبند است. او می‌داند که در عشق واقعی، هیچ‌گونه آزاری از سوی معشوق وجود ندارد و این احساسات را به خوبی درک می‌کند.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "چو بشنید این حدیث از هوش رفته\r\nبیفتاد این سخن در گوش رفته\r\nدلش با آن گران پاسخ دژم بود\r\nهنوز اندر وفا ثابت قدم بود\r\nهمی دانست کان خواری به دل نیست\r\nز معشوقان دل آزاری به دل نیست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بشنید این حدیث از هوش رفته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیفتاد این سخن در گوش رفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلش با آن گران پاسخ دژم بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنوز اندر وفا ثابت قدم بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی دانست کان خواری به دل نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز معشوقان دل آزاری به دل نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 3
+      "CoupletsCount": 3,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "وشرفته",
       "PlainText": "چو بشنید این حدیث از هوش رفته\r\nبیفتاد این سخن در گوش رفته",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بشنید این حدیث از هوش رفته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیفتاد این سخن در گوش رفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "مبود",
       "PlainText": "دلش با آن گران پاسخ دژم بود\r\nهنوز اندر وفا ثابت قدم بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلش با آن گران پاسخ دژم بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنوز اندر وفا ثابت قدم بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اریبهدلنیست",
       "PlainText": "همی دانست کان خواری به دل نیست\r\nز معشوقان دل آزاری به دل نیست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی دانست کان خواری به دل نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز معشوقان دل آزاری به دل نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

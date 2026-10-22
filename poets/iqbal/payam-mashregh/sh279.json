@@ -7,7 +7,7 @@
   "RhymeLetters": "رافکنم",
   "SourceName": "سایت علامه اقبال",
   "SourceUrlSlug": "allamaiqbal",
-  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعران مختلف به بیان احساسات و تجربیات خود درباره نوشیدن شراب و نمادهای زندگی پرداخته‌اند. برونینگ از بی‌پشتی شراب و جوش زندگی می‌گوید، بایرن به یادآوری داغی از عشق اشاره می‌کند، غالب به تلخی و رنج می‌پردازد و رومی در جستجوی پاکی و زیبایی از شراب یاد می‌کند. هر یک از این شاعران با بیان متفاوت، به تمجید از شراب و تأثیر آن بر زندگی می‌پردازند.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به توصیف حالت‌های مختلف نوشیدن باده و آثار آن بر زندگی می‌پردازد. شخصیت‌های مختلفی از جمله برونینگ، بایرن، غالب و رومی هرکدام با نظرات متفاوت خود درباره باده و تأثیرات آن سخن می‌گویند. آن‌ها از جوش و شادی باده، تلخی و آلام درونی، و نیز پیوند آن با معنویات و پاکی صحبت می‌کنند. در نهایت، همگی به درک عمیق‌تری از باده به عنوان نماد زندگی و تجربه‌های انسانی می‌رسند.",
   "Metre": {
     "Id": 1,
     "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
@@ -22,7 +22,8 @@
       "PlainText": "برونینگ \r\nبی پشت بود باده سر جوش زندگی\r\nآب خضر بگیرم و در ساغر افکنم\r\nبایرن \r\nاز منت خضر نتوان کرد سینه داغ\r\nآب از جگر بگیرم و در ساغر افکنم\r\nغالب \r\nتا باده تلخ تر شود و سینه ریش تر\r\nبگدازم آبگینه و در ساغر افکنم\r\nرومی \r\nآمیزشی کجا گهر پاک او کجا\r\nاز تاک باده گیرم و در ساغر افکنم",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبرونینگ: \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی پشت بود بادهٔ سر جوش زندگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب خضر بگیرم و در ساغر افکنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eبایرن: \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز منت خضر نتوان کرد سینه داغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب از جگر بگیرم و در ساغر افکنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eغالب: \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E«تا باده تلخ تر شود و سینه ریش تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگدازم آبگینه و در ساغر افکنم»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eرومی: \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمیزشی کجا گهر پاک او کجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تاک باده گیرم و در ساغر افکنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
-      "CoupletsCount": 8
+      "CoupletsCount": 8,
+      "MetreId": 1
     },
     {
       "Index": 1,
@@ -32,7 +33,9 @@
       "RhymeLetters": "م",
       "PlainText": "بی پشت بود باده سر جوش زندگی\r\nآب خضر بگیرم و در ساغر افکنم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی پشت بود بادهٔ سر جوش زندگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب خضر بگیرم و در ساغر افکنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 2,
@@ -42,7 +45,9 @@
       "RhymeLetters": "م",
       "PlainText": "از منت خضر نتوان کرد سینه داغ\r\nآب از جگر بگیرم و در ساغر افکنم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز منت خضر نتوان کرد سینه داغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب از جگر بگیرم و در ساغر افکنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -52,7 +57,9 @@
       "RhymeLetters": "م",
       "PlainText": "تا باده تلخ تر شود و سینه ریش تر\r\nبگدازم آبگینه و در ساغر افکنم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E«تا باده تلخ تر شود و سینه ریش تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگدازم آبگینه و در ساغر افکنم»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -62,7 +69,9 @@
       "RhymeLetters": "م",
       "PlainText": "آمیزشی کجا گهر پاک او کجا\r\nاز تاک باده گیرم و در ساغر افکنم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمیزشی کجا گهر پاک او کجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تاک باده گیرم و در ساغر افکنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -72,7 +81,9 @@
       "RhymeLetters": "",
       "PlainText": "برونینگ \r\nبایرن \r\nغالب \r\nرومی",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبرونینگ: \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eبایرن: \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eغالب: \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eرومی: \u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 1,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

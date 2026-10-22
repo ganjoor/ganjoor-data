@@ -6,7 +6,7 @@
   "FullUrl": "/ouhadi/mantegholoshagh/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این شعر به توصیف حال و هوای یک جوان enamored (عاشق) می‌پردازد که به ناگاه دچار فتنه و آشفتگی می‌شود. او به خاطر عشق، حسرت و غم در دل دارد و حالش بر اثر اشتیاقی شدید خراب می‌شود. چهره‌اش زرد و تنش باریک می‌شود و جهان برای او تیره و تار می‌گردد. در یک شب بیداری، نالان و پریشان، آتش عشق در دل او شعله‌ور می‌شود و او می‌خواهد که این شعله شدیدتر شود.",
+  "PoemSummary": "هوش مصنوعی: در آغاز ده نامه، راوی به عشق یک جوان هوسناک اشاره می‌کند که به ناگهان دل دختران را می‌رباید. این جوان با تغییراتی در ظاهرش، همچون زردی رنگ و باریک شدن تنش، به شدت تحت تأثیر عشق دچار هیجان می‌شود. شبی در حال بیداری و نالیدن از عشق، دلش به شدت آتش می‌گیرد و در حالتی پریشان و آشفته قرار می‌گیرد. او با شعلهٔ عشق و سودا، به باد می‌گوید که این احساساتش را شدت بخشد.",
   "Metre": {
     "Id": 12,
     "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
@@ -21,7 +21,8 @@
       "PlainText": "شنیدم کز هوسناکان جوانی\r\nبه ناگه فتنه شد بر دلستانی\r\nرخش زرد و تنش باریک میشد\r\nجهان بر چشم او تاریک میشد\r\nشبی بیدار بود از عشق نالان\r\nپریشان گشته چون آشفته حالان\r\nدلش را آتش سودا برآشفت\r\nچو آتش تیزتر شد باد را گفت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم کز هوسناکان جوانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ناگه فتنه شد بر دلستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخش زرد و تنش باریک میشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان بر چشم او تاریک میشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی بیدار بود، از عشق نالان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپریشان گشته چون آشفته حالان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلش را آتش سودا برآشفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو آتش تیزتر شد باد را گفت:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 4
+      "CoupletsCount": 4,
+      "MetreId": 12
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "انی",
       "PlainText": "شنیدم کز هوسناکان جوانی\r\nبه ناگه فتنه شد بر دلستانی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم کز هوسناکان جوانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ناگه فتنه شد بر دلستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "اریکمیشد",
       "PlainText": "رخش زرد و تنش باریک میشد\r\nجهان بر چشم او تاریک میشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخش زرد و تنش باریک میشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان بر چشم او تاریک میشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "الان",
       "PlainText": "شبی بیدار بود از عشق نالان\r\nپریشان گشته چون آشفته حالان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی بیدار بود، از عشق نالان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپریشان گشته چون آشفته حالان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "فت",
       "PlainText": "دلش را آتش سودا برآشفت\r\nچو آتش تیزتر شد باد را گفت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلش را آتش سودا برآشفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو آتش تیزتر شد باد را گفت:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [

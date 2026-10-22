@@ -7,7 +7,7 @@
   "RhymeLetters": "سیم",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: این شعر به این اشاره دارد که هرچند ما زیبایی کلام سعدی را تحسین می‌کنیم، اما هرگز نمی‌توانیم به مقام وستاد او برسیم. به عبارت دیگر، شاعران دیگر نمی‌توانند به بلندی و عظمت سعدی دست یابند.",
+  "PoemSummary": "هوش مصنوعی: شاعر در این رباعی به تشبیه خود و دیگران به طوطی‌هایی می‌پردازد که زبان خوبی دارند و از زیبایی‌های کلام سعدی بهره‌مند می‌شوند. او با نگاهی خودآگاه به جایگاه خود در سنت شاعری اشاره می‌کند که هرچند سخنانی شیرین و دلنشین دارند، اما به پای سعدی و مقام او نمی‌رسند. این بیان نشان‌دهندهٔ احساسی از تواضع و درک محدودیت‌های خود در مقایسه با بزرگان شعر فارسی است.",
   "Metre": {
     "Id": 24,
     "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
@@ -22,7 +22,8 @@
       "PlainText": "ما گرچه به نطق طوطی خوش نفسیم\r\nبر شکر گفته های سعدی مگسیم\r\nدر سنت شاعری به اجماع امم\r\nهرگز من و سعدی به امامی نرسیم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما گرچه به نطق طوطی خوش نفسیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شکّر گفته‌های سعدی مگسیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سنت شاعری به اجماع امم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز من و سعدی به امامی نرسیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
-      "CoupletsCount": 2
+      "CoupletsCount": 2,
+      "MetreId": 24
     }
   ],
   "Verses": [
@@ -55,6 +56,32 @@
       "Text": "هرگز من و سعدی به امامی نرسیم",
       "CoupletIndex": 1,
       "SectionIndex1": 0
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 692,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 692,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 693,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
     }
   ]
 }

@@ -6,7 +6,7 @@
   "FullUrl": "/hazin/manavi-hz/farhangname/sh13",
   "SourceName": "پروژهٔ بازبینی OCR",
   "SourceUrlSlug": "ocr",
-  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و عظمت زنان اشاره دارد. شاعر به دیبا و اطلس فریبان اشاره می‌کند که نشانی از زیبایی و شکوه هستند. او به دفاع از زندگی می‌پردازد و می‌گوید که سایه تیغ همایی از زندگی بهتر است. او همچنین به زیبایی و شکوه گل‌ها و نبردها اشاره می‌کند و نشان می‌دهد که حتی در سختی‌ها و نبردها، زیبایی و شادی برقرار است. در نهایت، شاعر به امید و روشنایی در دل سختی‌ها اشاره می‌کند.",
+  "PoemSummary": "هوش مصنوعی: شاعر به وصف مردان کار و جانفشانی می‌پردازد که در برابر خطرات و چالش‌ها از خود گذشتگی نشان می‌دهند. آن‌ها با زره‌ای از شجاعت و عزم به میدان می‌آیند و زندگی و مرگ را یکسان می‌دانند. این مردان همچون گلستانی هستند که در زیر سایه‌ی تیغ دشمن، همچنان سرسخت و مقاوم می‌مانند. حتی در سخت‌ترین شرایط، خنده و شادی را از خود دریغ نمی‌کنند و به مانند شمعی نورانی در دل تاریکی می‌درخشند.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -21,7 +21,8 @@
       "PlainText": "به دیبا و اطلس فریباست زن\r\nبود حله تن زره یا کفن\r\nسر مرد را نیست پروای زیست\r\nهمایی به از سایه تیغ نیست\r\nدرفش است سرو گلستان او\r\nز تیغ و سنان است ریحان او\r\nگل سرخ او زخم خندان بود\r\nغبار نبرد ابر نیسان بود\r\nاگر تیغ و آتش ببارد به سر\r\nزند خنده چون شمع روشن گهر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دیبا و اطلس فریباست، زن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود حلّهٔ تن، زره یا کفن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر مرد را نیست پروای زیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمایی به از سایهٔ تیغ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرفش است سرو گلستان او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز تیغ و سنان است ریحان او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل سرخ او، زخم خندان بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغبار نبرد، ابر نیسان بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر تیغ و آتش ببارد به سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزند خنده، چون شمع روشن گهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
-      "CoupletsCount": 5
+      "CoupletsCount": 5,
+      "MetreId": 23
     },
     {
       "Index": 2,
@@ -31,7 +32,9 @@
       "RhymeLetters": "ن",
       "PlainText": "به دیبا و اطلس فریباست زن\r\nبود حله تن زره یا کفن",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دیبا و اطلس فریباست، زن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود حلّهٔ تن، زره یا کفن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -41,7 +44,9 @@
       "RhymeLetters": "یست",
       "PlainText": "سر مرد را نیست پروای زیست\r\nهمایی به از سایه تیغ نیست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر مرد را نیست پروای زیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمایی به از سایهٔ تیغ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -51,7 +56,9 @@
       "RhymeLetters": "اناو",
       "PlainText": "درفش است سرو گلستان او\r\nز تیغ و سنان است ریحان او",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرفش است سرو گلستان او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز تیغ و سنان است ریحان او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -61,7 +68,9 @@
       "RhymeLetters": "انبود",
       "PlainText": "گل سرخ او زخم خندان بود\r\nغبار نبرد ابر نیسان بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل سرخ او، زخم خندان بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغبار نبرد، ابر نیسان بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 6,
@@ -71,7 +80,9 @@
       "RhymeLetters": "ر",
       "PlainText": "اگر تیغ و آتش ببارد به سر\r\nزند خنده چون شمع روشن گهر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر تیغ و آتش ببارد به سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزند خنده، چون شمع روشن گهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     }
   ],
   "Verses": [
