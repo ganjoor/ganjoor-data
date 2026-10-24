@@ -108,6 +108,18 @@
     {
       "Index": 4,
       "Number": 5,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "گلی و لاله رخی لیک به ز سر و قدت\r\nمهی و سر و قدی لیک به ز لاله عذار\r\nیکی که شکل تو دیدست و قامتت داند\r\nکه خود روا نبود نسبتت بسرو و چنار\r\nلاله رخی لیک به ز سرو قدستت\r\nسر و قدی لیک به ز لاله خدستت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلی و لاله رخی لیک به ز سر و قدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهی و سر و قدی لیک به ز لاله عذار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی که شکل تو دیدست و قامتت داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خود روا نبود نسبتت بسرو و چنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eلاله رخی لیک به ز سرو قدستت\u003C/p\u003E\r\n\u003Cp\u003Eسر و قدی لیک به ز لاله خدستت\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3,
+      "MetreId": 3
+    },
+    {
+      "Index": 4,
+      "Number": 5,
       "SectionType": "BandCouplets",
       "VerseType": "Second",
       "RhymeLetters": "سر",
@@ -130,16 +142,16 @@
       "MetreRefSectionIndex": 3
     },
     {
-      "Index": 4,
-      "Number": 5,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "ار",
-      "PlainText": "گلی و لاله رخی لیک به ز سر و قدت\r\nمهی و سر و قدی لیک به ز لاله عذار\r\nیکی که شکل تو دیدست و قامتت داند\r\nکه خود روا نبود نسبتت بسرو و چنار\r\nلاله رخی لیک به ز سرو قدستت\r\nسر و قدی لیک به ز لاله خدستت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلی و لاله رخی لیک به ز سر و قدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهی و سر و قدی لیک به ز لاله عذار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی که شکل تو دیدست و قامتت داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خود روا نبود نسبتت بسرو و چنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eلاله رخی لیک به ز سرو قدستت\u003C/p\u003E\r\n\u003Cp\u003Eسر و قدی لیک به ز لاله خدستت\u003C/p\u003E\u003C/div\u003E",
-      "PoemFormat": "MultiBand",
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "لم",
+      "PlainText": "ز شوقت ز بس خون که ریزد دلم\r\nبسویت نیایم که پا در گلم",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eز شوقت ز بس خون که ریزد دلم\u003C/p\u003E\r\n\u003Cp\u003Eبسویت نیایم که پا در گلم\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 3,
-      "MetreId": 3
+      "MetreId": 3,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 5,
@@ -166,30 +178,6 @@
       "MetreId": 3
     },
     {
-      "Index": 5,
-      "Number": 6,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "لم",
-      "PlainText": "ز شوقت ز بس خون که ریزد دلم\r\nبسویت نیایم که پا در گلم",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eز شوقت ز بس خون که ریزد دلم\u003C/p\u003E\r\n\u003Cp\u003Eبسویت نیایم که پا در گلم\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 2
-    },
-    {
-      "Index": 6,
-      "Number": 7,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "شند",
-      "PlainText": "صد حریف از برات درد درد میچشند\r\nصد ضعیف از هوات آه سرد میکشند",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eصد حریف از برات درد درد میچشند\u003C/p\u003E\r\n\u003Cp\u003Eصد ضعیف از هوات آه سرد میکشند\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 4,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 3
-    },
-    {
       "Index": 6,
       "Number": 7,
       "SectionType": "Band",
@@ -212,6 +200,18 @@
       "PoemFormat": "MultiBand",
       "CoupletsCount": 7,
       "MetreId": 3
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "شند",
+      "PlainText": "صد حریف از برات درد درد میچشند\r\nصد ضعیف از هوات آه سرد میکشند",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eصد حریف از برات درد درد میچشند\u003C/p\u003E\r\n\u003Cp\u003Eصد ضعیف از هوات آه سرد میکشند\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 4,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 7,

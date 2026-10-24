@@ -58,6 +58,18 @@
     },
     {
       "Index": 4,
+      "Number": 5,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یش",
+      "PlainText": "آن کس که مرا بکشت باز آمد پیش\r\nمانا که دلش بسوخت بر کشته خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که مرا بکشت، باز آمد پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانا که دلش بسوخت بر کشتهٔ خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1,
+      "MetreId": 24
+    },
+    {
+      "Index": 4,
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -69,16 +81,16 @@
       "MetreRefSectionIndex": 2
     },
     {
-      "Index": 4,
+      "Index": 5,
       "Number": 5,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "یش",
-      "PlainText": "آن کس که مرا بکشت باز آمد پیش\r\nمانا که دلش بسوخت بر کشته خویش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که مرا بکشت، باز آمد پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانا که دلش بسوخت بر کشتهٔ خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردن",
+      "PlainText": "گر نشاید به دوست ره بردن\r\nشرط یاری است در طلب مردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نشاید به دوست ره بردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرطِ یاری است در طلب مردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
-      "MetreId": 24
+      "MetreId": 9,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 5,
@@ -105,30 +117,6 @@
       "MetreRefSectionIndex": 3
     },
     {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ردن",
-      "PlainText": "گر نشاید به دوست ره بردن\r\nشرط یاری است در طلب مردن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نشاید به دوست ره بردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرطِ یاری است در طلب مردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 9,
-      "MetreRefSectionIndex": 2
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "یرم",
-      "PlainText": "گر دست رسد که آستینش گیرم\r\nور نه بروم بر آستانش میرم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دست رسد که آستینش گیرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه، بروم بر آستانش میرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 8
-    },
-    {
       "Index": 6,
       "Number": 6,
       "SectionType": "Couplet",
@@ -151,6 +139,18 @@
       "PoemFormat": "Generic",
       "CoupletsCount": 1,
       "MetreId": 5
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یرم",
+      "PlainText": "گر دست رسد که آستینش گیرم\r\nور نه بروم بر آستانش میرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دست رسد که آستینش گیرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه، بروم بر آستانش میرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 8
     },
     {
       "Index": 7,

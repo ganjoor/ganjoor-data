@@ -34,17 +34,6 @@
     },
     {
       "Index": 2,
-      "Number": 3,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "باز",
-      "PlainText": "خواه بنه مایه و خواهی بباز\r\nکانچه دهند از تو ستانند باز",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواه بنه مایه و خواهی بباز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانچه دهند از تو ستانند باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 2,
       "Number": 2,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -56,16 +45,15 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 3,
+      "Index": 2,
       "Number": 3,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "سان",
-      "PlainText": "خور و پوش و بخشای و راحت رسان\r\nنگه می چه داری ز بهر کسان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخور و پوش و بخشای و راحت رسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگه می چه داری ز بهر کسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 23,
-      "MetreRefSectionIndex": 0
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "باز",
+      "PlainText": "خواه بنه مایه و خواهی بباز\r\nکانچه دهند از تو ستانند باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواه بنه مایه و خواهی بباز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانچه دهند از تو ستانند باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
     },
     {
       "Index": 3,
@@ -78,6 +66,18 @@
       "PoemFormat": "Masnavi",
       "CoupletsCount": 5,
       "MetreId": 23
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "سان",
+      "PlainText": "خور و پوش و بخشای و راحت رسان\r\nنگه می چه داری ز بهر کسان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخور و پوش و بخشای و راحت رسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگه می چه داری ز بهر کسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -96,18 +96,6 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "انتوست",
-      "PlainText": "زر و نعمت اکنون بده کان توست\r\nکه بعد از تو بیرون ز فرمان توست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزر و نعمت اکنون بده کان توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بعد از تو بیرون ز فرمان توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 23,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "ردهبود",
       "PlainText": "یکی طفل دندان برآورده بود\r\nپدر سر به فکرت فرو برده بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی طفل دندان برآورده بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپدر سر به فکرت فرو برده بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -116,16 +104,16 @@
       "MetreRefSectionIndex": 3
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "مش",
-      "PlainText": "که من نان و برگ از کجا آرامش\r\nمروت نباشد که بگذارمش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه من نان و برگ از کجا آرامش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمروت نباشد که بگذارمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "انتوست",
+      "PlainText": "زر و نعمت اکنون بده کان توست\r\nکه بعد از تو بیرون ز فرمان توست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزر و نعمت اکنون بده کان توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بعد از تو بیرون ز فرمان توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 23,
-      "MetreRefSectionIndex": 3
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 6,
@@ -140,16 +128,16 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "تو با خود ببر توشه خویشتن\r\nکه شفقت نیاید ز فرزند و زن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو با خود ببر توشه خویشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شفقت نیاید ز فرزند و زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "مش",
+      "PlainText": "که من نان و برگ از کجا آرامش\r\nمروت نباشد که بگذارمش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه من نان و برگ از کجا آرامش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمروت نباشد که بگذارمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 23,
-      "MetreRefSectionIndex": 0
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 7,
@@ -164,16 +152,16 @@
       "MetreRefSectionIndex": 3
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اندهد",
-      "PlainText": "مخور گول ابلیس تا جان دهد\r\nهر آن کس که دندان دهد نان دهد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمخور گول ابلیس تا جان دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر آن کس که دندان دهد نان دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ن",
+      "PlainText": "تو با خود ببر توشه خویشتن\r\nکه شفقت نیاید ز فرزند و زن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو با خود ببر توشه خویشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شفقت نیاید ز فرزند و زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 23,
-      "MetreRefSectionIndex": 3
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 8,
@@ -188,16 +176,16 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "خویش",
-      "PlainText": "غم خویش در زندگی خور که خویش\r\nبه مرده نپردازد از حرص خویش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم خویش در زندگی خور که خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مرده نپردازد از حرص خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اندهد",
+      "PlainText": "مخور گول ابلیس تا جان دهد\r\nهر آن کس که دندان دهد نان دهد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمخور گول ابلیس تا جان دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر آن کس که دندان دهد نان دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 23,
-      "MetreRefSectionIndex": 0
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 9,
@@ -210,6 +198,18 @@
       "CoupletsCount": 2,
       "MetreId": 23,
       "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "خویش",
+      "PlainText": "غم خویش در زندگی خور که خویش\r\nبه مرده نپردازد از حرص خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم خویش در زندگی خور که خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مرده نپردازد از حرص خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 23,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 10,

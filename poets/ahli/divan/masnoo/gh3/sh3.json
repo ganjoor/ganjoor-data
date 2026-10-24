@@ -71,6 +71,18 @@
     {
       "Index": 3,
       "Number": 4,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "بادست",
+      "PlainText": "شد هوش دلا ز دست با دست\r\nکی آوریش بصبر با دست",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشد هوش دلا ز دست با دست\u003C/p\u003E\r\n\u003Cp\u003Eکی آوریش بصبر با دست\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 13,
+      "MetreRefSectionIndex": 29
+    },
+    {
+      "Index": 3,
+      "Number": 4,
       "SectionType": "Band",
       "VerseType": "Second",
       "RhymeLetters": "ار",
@@ -91,30 +103,6 @@
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2,
       "MetreId": 3
-    },
-    {
-      "Index": 3,
-      "Number": 4,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "بادست",
-      "PlainText": "شد هوش دلا ز دست با دست\r\nکی آوریش بصبر با دست",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشد هوش دلا ز دست با دست\u003C/p\u003E\r\n\u003Cp\u003Eکی آوریش بصبر با دست\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 13,
-      "MetreRefSectionIndex": 29
-    },
-    {
-      "Index": 4,
-      "Number": 5,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "اری",
-      "PlainText": "نوبهارست و گل آتش زده در هر خاری\r\nلاله را چشم چهار از پی گلرخساری",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنوبهارست و گل آتش زده در هر خاری\u003C/p\u003E\r\n\u003Cp\u003Eلاله را چشم چهار از پی گلرخساری\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 7,
-      "MetreRefSectionIndex": 43
     },
     {
       "Index": 4,
@@ -141,16 +129,16 @@
       "MetreId": 3
     },
     {
-      "Index": 5,
-      "Number": 6,
-      "SectionType": "Band",
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "BandCouplets",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "هوای باده و جعد بنفشه دام دلست\r\nگذر چو نیست ازین دام دل بیاد بیار\r\nنه گر تو سنبل تر تافتستیش ای باد\r\nبقصد دل چه بهم بافتستیش صد بار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوای باده و جعد بنفشه دام دلست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگذر چو نیست ازین دام دل بیاد بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه گر تو سنبل تر تافتستیش ای باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبقصد دل چه بهم بافتستیش صد بار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اری",
+      "PlainText": "نوبهارست و گل آتش زده در هر خاری\r\nلاله را چشم چهار از پی گلرخساری",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنوبهارست و گل آتش زده در هر خاری\u003C/p\u003E\r\n\u003Cp\u003Eلاله را چشم چهار از پی گلرخساری\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 4
+      "MetreId": 7,
+      "MetreRefSectionIndex": 43
     },
     {
       "Index": 5,
@@ -174,6 +162,18 @@
       "CoupletsCount": 1,
       "MetreId": 11,
       "MetreRefSectionIndex": 40
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "هوای باده و جعد بنفشه دام دلست\r\nگذر چو نیست ازین دام دل بیاد بیار\r\nنه گر تو سنبل تر تافتستیش ای باد\r\nبقصد دل چه بهم بافتستیش صد بار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوای باده و جعد بنفشه دام دلست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگذر چو نیست ازین دام دل بیاد بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه گر تو سنبل تر تافتستیش ای باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبقصد دل چه بهم بافتستیش صد بار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 6,
@@ -247,17 +247,6 @@
     {
       "Index": 8,
       "Number": 9,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "یدستیمشان",
-      "PlainText": "نسرین و گل ماند بتو زانروی چید ستیمشان\r\nنی نی ازیشان بهتری نیکو بدید ستیمشان",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنسرین و گل ماند بتو زانروی چید ستیمشان\u003C/p\u003E\r\n\u003Cp\u003Eنی نی ازیشان بهتری نیکو بدید ستیمشان\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreRefSectionIndex": 5
-    },
-    {
-      "Index": 8,
-      "Number": 9,
       "SectionType": "Band",
       "VerseType": "Second",
       "RhymeLetters": "ت",
@@ -276,6 +265,29 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر از شاه ولایت نظری یافته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندید چشم فلک همچه شاه اسماعیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "یدستیمشان",
+      "PlainText": "نسرین و گل ماند بتو زانروی چید ستیمشان\r\nنی نی ازیشان بهتری نیکو بدید ستیمشان",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنسرین و گل ماند بتو زانروی چید ستیمشان\u003C/p\u003E\r\n\u003Cp\u003Eنی نی ازیشان بهتری نیکو بدید ستیمشان\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreRefSectionIndex": 5
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "بل",
+      "PlainText": "چو سنبل سوخته بلبل\r\nچو بلبل سوخت هم سنبل",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچو سنبل سوخته بلبل\u003C/p\u003E\r\n\u003Cp\u003Eچو بلبل سوخت هم سنبل\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 59,
+      "MetreRefSectionIndex": 50
     },
     {
       "Index": 9,
@@ -299,29 +311,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 9,
-      "Number": 10,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "بل",
-      "PlainText": "چو سنبل سوخته بلبل\r\nچو بلبل سوخت هم سنبل",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچو سنبل سوخته بلبل\u003C/p\u003E\r\n\u003Cp\u003Eچو بلبل سوخت هم سنبل\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 59,
-      "MetreRefSectionIndex": 50
-    },
-    {
-      "Index": 10,
-      "Number": 11,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ت",
-      "PlainText": "نظر کیش بوی افتاده است شاه دیار\r\nگل چو خورشید بهر خشک و تری تافته است",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنظر کیش بوی افتاده است شاه دیار\u003C/p\u003E\r\n\u003Cp\u003Eگل چو خورشید بهر خشک و تری تافته است\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreRefSectionIndex": 7
-    },
-    {
       "Index": 10,
       "Number": 11,
       "SectionType": "Band",
@@ -341,6 +330,28 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا شعله شمع از دم با دست بیکسو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلییم شد ز جهان، ملک شاد شد از شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشا نکویی ملک و خوشا بد اشرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرای جان و دل آباد گشت و خواهی دید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهنوز خوشتر ازین عدل، او چو شد معمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب مدار ز دادش که مرده زنده کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eکه پیش بخت خدا داده نیست این دشوار\u003C/p\u003E\r\n\u003Cp\u003Eجهان شاد شد از شاه و دل آباد شد از داد\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
       "CoupletsCount": 4
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "نظر کیش بوی افتاده است شاه دیار\r\nگل چو خورشید بهر خشک و تری تافته است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنظر کیش بوی افتاده است شاه دیار\u003C/p\u003E\r\n\u003Cp\u003Eگل چو خورشید بهر خشک و تری تافته است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreRefSectionIndex": 7
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "یقین که هست زظلمانیان دلش بیزار\r\nشاه اسماعیل حیدر قبله روحانیان",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eیقین که هست زظلمانیان دلش بیزار\u003C/p\u003E\r\n\u003Cp\u003Eشاه اسماعیل حیدر قبله روحانیان\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 4,
+      "MetreRefSectionIndex": 52
     },
     {
       "Index": 11,
@@ -364,28 +375,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 11,
-      "Number": 12,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "یقین که هست زظلمانیان دلش بیزار\r\nشاه اسماعیل حیدر قبله روحانیان",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eیقین که هست زظلمانیان دلش بیزار\u003C/p\u003E\r\n\u003Cp\u003Eشاه اسماعیل حیدر قبله روحانیان\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 4,
-      "MetreRefSectionIndex": 52
-    },
-    {
-      "Index": 12,
-      "Number": 13,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "و",
-      "PlainText": "دلی مباد ستم بین از آن گزیده سوار\r\nبرقیست دمان شعله آل علم او",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدلی مباد ستم بین از آن گزیده سوار\u003C/p\u003E\r\n\u003Cp\u003Eبرقیست دمان شعله آل علم او\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreRefSectionIndex": 9
-    },
-    {
       "Index": 12,
       "Number": 13,
       "SectionType": "Band",
@@ -405,6 +394,28 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیک اشارت فکنده ده ده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتبارک الله از آن کف که خواست حاتم طی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه بهره گیرد از آن بحر و کان باستنکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر نه آمده او ضامن و فرشته رزق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eچرا کشد همه کس دامنش چو راتب خوار\u003C/p\u003E\r\n\u003Cp\u003Eحاتم طی آمده او ضامنش\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
       "CoupletsCount": 3
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "و",
+      "PlainText": "دلی مباد ستم بین از آن گزیده سوار\r\nبرقیست دمان شعله آل علم او",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدلی مباد ستم بین از آن گزیده سوار\u003C/p\u003E\r\n\u003Cp\u003Eبرقیست دمان شعله آل علم او\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreRefSectionIndex": 9
+    },
+    {
+      "Index": 13,
+      "Number": 14,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "که پیش بخت خدا داده نیست این دشوار\r\nجهان شاد شد از شاه و دل آباد شد از داد",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکه پیش بخت خدا داده نیست این دشوار\u003C/p\u003E\r\n\u003Cp\u003Eجهان شاد شد از شاه و دل آباد شد از داد\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreRefSectionIndex": 10
     },
     {
       "Index": 13,
@@ -427,28 +438,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیرد از آن رو همه کس دامنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفروغ اختر دولت از و نگر بیقین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 1
-    },
-    {
-      "Index": 13,
-      "Number": 14,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "د",
-      "PlainText": "که پیش بخت خدا داده نیست این دشوار\r\nجهان شاد شد از شاه و دل آباد شد از داد",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکه پیش بخت خدا داده نیست این دشوار\u003C/p\u003E\r\n\u003Cp\u003Eجهان شاد شد از شاه و دل آباد شد از داد\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreRefSectionIndex": 10
-    },
-    {
-      "Index": 14,
-      "Number": 15,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ه",
-      "PlainText": "فکنده ناوک او صد هژبر شیر شکار\r\nبصید عنقا چو رفته گه گه",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eفکنده ناوک او صد هژبر شیر شکار\u003C/p\u003E\r\n\u003Cp\u003Eبصید عنقا چو رفته گه گه\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreRefSectionIndex": 11
     },
     {
       "Index": 14,
@@ -474,6 +463,28 @@
       "MetreId": 27
     },
     {
+      "Index": 14,
+      "Number": 15,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "فکنده ناوک او صد هژبر شیر شکار\r\nبصید عنقا چو رفته گه گه",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eفکنده ناوک او صد هژبر شیر شکار\u003C/p\u003E\r\n\u003Cp\u003Eبصید عنقا چو رفته گه گه\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 11
+    },
+    {
+      "Index": 15,
+      "Number": 16,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ش",
+      "PlainText": "چرا کشد همه کس دامنش چو راتب خوار\r\nحاتم طی آمده او ضامنش",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچرا کشد همه کس دامنش چو راتب خوار\u003C/p\u003E\r\n\u003Cp\u003Eحاتم طی آمده او ضامنش\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 12
+    },
+    {
       "Index": 15,
       "Number": 16,
       "SectionType": "Band",
@@ -494,29 +505,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب اقبال گشوده دهن حادثه بسته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه همسری زخور آنصاحب نظر بهتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eزهمرهیست بهر صاحب هنر غمخوار\u003C/p\u003E\r\n\u003Cp\u003Eهم سرور صاحب نظر\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 15,
-      "Number": 16,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ش",
-      "PlainText": "چرا کشد همه کس دامنش چو راتب خوار\r\nحاتم طی آمده او ضامنش",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچرا کشد همه کس دامنش چو راتب خوار\u003C/p\u003E\r\n\u003Cp\u003Eحاتم طی آمده او ضامنش\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreRefSectionIndex": 12
-    },
-    {
-      "Index": 16,
-      "Number": 17,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "د",
-      "PlainText": "فروغ نجم سعادت رخش بیک دیدار\r\nاختر دولت او کین همه پرتو بخشد",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eفروغ نجم سعادت رخش بیک دیدار\u003C/p\u003E\r\n\u003Cp\u003Eاختر دولت او کین همه پرتو بخشد\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 57
     },
     {
       "Index": 16,
@@ -540,6 +528,30 @@
       "CoupletsCount": 3
     },
     {
+      "Index": 16,
+      "Number": 17,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "فروغ نجم سعادت رخش بیک دیدار\r\nاختر دولت او کین همه پرتو بخشد",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eفروغ نجم سعادت رخش بیک دیدار\u003C/p\u003E\r\n\u003Cp\u003Eاختر دولت او کین همه پرتو بخشد\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 57
+    },
+    {
+      "Index": 17,
+      "Number": 18,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "دهان حادثه و پوست کنده از غدار\r\nروی علم و هنر از آب مروت شسته",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدهان حادثه و پوست کنده از غدار\u003C/p\u003E\r\n\u003Cp\u003Eروی علم و هنر از آب مروت شسته\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 7,
+      "MetreRefSectionIndex": 26
+    },
+    {
       "Index": 17,
       "Number": 18,
       "SectionType": "Band",
@@ -559,29 +571,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرایت نعیما و ملکا کبیرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس از عدو چه غمت کو به بیهشی باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eچو خاک و باد و تو چون آب و آتش از پیکار\u003C/p\u003E\r\n\u003Cp\u003Eاز عدو چه غم کو به بیهشی\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 17,
-      "Number": 18,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ه",
-      "PlainText": "دهان حادثه و پوست کنده از غدار\r\nروی علم و هنر از آب مروت شسته",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدهان حادثه و پوست کنده از غدار\u003C/p\u003E\r\n\u003Cp\u003Eروی علم و هنر از آب مروت شسته\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 7,
-      "MetreRefSectionIndex": 26
-    },
-    {
-      "Index": 18,
-      "Number": 19,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "زهمرهیست بهر صاحب هنر غمخوار\r\nهم سرور صاحب نظر",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eزهمرهیست بهر صاحب هنر غمخوار\u003C/p\u003E\r\n\u003Cp\u003Eهم سرور صاحب نظر\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreRefSectionIndex": 15
     },
     {
       "Index": 18,
@@ -605,6 +594,28 @@
       "CoupletsCount": 3
     },
     {
+      "Index": 18,
+      "Number": 19,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "زهمرهیست بهر صاحب هنر غمخوار\r\nهم سرور صاحب نظر",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eزهمرهیست بهر صاحب هنر غمخوار\u003C/p\u003E\r\n\u003Cp\u003Eهم سرور صاحب نظر\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreRefSectionIndex": 15
+    },
+    {
+      "Index": 19,
+      "Number": 20,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "که ملک داده کبیرت عنایت جبار\r\nاگر جاه خود بنگری بی نظیرا",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکه ملک داده کبیرت عنایت جبار\u003C/p\u003E\r\n\u003Cp\u003Eاگر جاه خود بنگری بی نظیرا\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreRefSectionIndex": 16
+    },
+    {
       "Index": 19,
       "Number": 20,
       "SectionType": "Band",
@@ -624,28 +635,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل از تو در عرق افتاد وزد بروی گلاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیقین که بر در و بامت پرد فرشته نهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبصد نیاز و فقیری گر او فتد بگذار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمای سدره نشین چون بحضرتت گذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eره ادب سپرد باز آید از پندار\u003C/p\u003E\r\n\u003Cp\u003Eپرد فرشته نهان چون بحضرتت گذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eبصد نیاز و فقیری ره ادب سپرد\u003C/p\u003E\r\n\u003Cp\u003Eیقین که بر در و بامت گر او فتد بگذار\u003C/p\u003E\u003C/div\u003E",
       "PoemFormat": "MultiBand",
       "CoupletsCount": 4
-    },
-    {
-      "Index": 19,
-      "Number": 20,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "که ملک داده کبیرت عنایت جبار\r\nاگر جاه خود بنگری بی نظیرا",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکه ملک داده کبیرت عنایت جبار\u003C/p\u003E\r\n\u003Cp\u003Eاگر جاه خود بنگری بی نظیرا\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreRefSectionIndex": 16
-    },
-    {
-      "Index": 20,
-      "Number": 21,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ی",
-      "PlainText": "چو خاک و باد و تو چون آب و آتش از پیکار\r\nاز عدو چه غم کو به بیهشی",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچو خاک و باد و تو چون آب و آتش از پیکار\u003C/p\u003E\r\n\u003Cp\u003Eاز عدو چه غم کو به بیهشی\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreRefSectionIndex": 17
     },
     {
       "Index": 20,
@@ -671,6 +660,28 @@
       "MetreId": 3
     },
     {
+      "Index": 20,
+      "Number": 21,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "چو خاک و باد و تو چون آب و آتش از پیکار\r\nاز عدو چه غم کو به بیهشی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچو خاک و باد و تو چون آب و آتش از پیکار\u003C/p\u003E\r\n\u003Cp\u003Eاز عدو چه غم کو به بیهشی\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreRefSectionIndex": 17
+    },
+    {
+      "Index": 21,
+      "Number": 22,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ب",
+      "PlainText": "بروی خویش گلاب از چه زد پی تیمار\r\nگلاب چیست اگر گل نشد ز خلق تو آب",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبروی خویش گلاب از چه زد پی تیمار\u003C/p\u003E\r\n\u003Cp\u003Eگلاب چیست اگر گل نشد ز خلق تو آب\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 18
+    },
+    {
       "Index": 21,
       "Number": 22,
       "SectionType": "Band",
@@ -692,28 +703,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا اینهمه از نعمت تو را تبه خوارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوزیدن نفست جان کامل از معنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدم تو از نفس باد صبح شسته غبار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخ کمال تو دلجوترست و زیباتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 21,
-      "Number": 22,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ب",
-      "PlainText": "بروی خویش گلاب از چه زد پی تیمار\r\nگلاب چیست اگر گل نشد ز خلق تو آب",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبروی خویش گلاب از چه زد پی تیمار\u003C/p\u003E\r\n\u003Cp\u003Eگلاب چیست اگر گل نشد ز خلق تو آب\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreRefSectionIndex": 18
-    },
-    {
-      "Index": 22,
-      "Number": 23,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "ره ادب سپرد باز آید از پندار\r\nپرد فرشته نهان چون بحضرتت گذرد\r\nبصد نیاز و فقیری ره ادب سپرد\r\nیقین که بر در و بامت گر او فتد بگذار",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eره ادب سپرد باز آید از پندار\u003C/p\u003E\r\n\u003Cp\u003Eپرد فرشته نهان چون بحضرتت گذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eبصد نیاز و فقیری ره ادب سپرد\u003C/p\u003E\r\n\u003Cp\u003Eیقین که بر در و بامت گر او فتد بگذار\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreRefSectionIndex": 19
     },
     {
       "Index": 22,
@@ -738,16 +727,15 @@
       "MetreId": 3
     },
     {
-      "Index": 23,
-      "Number": 24,
-      "SectionType": "Band",
+      "Index": 22,
+      "Number": 23,
+      "SectionType": "BandCouplets",
       "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "دم تو از نفس باد صبح دلجوتر\r\nیقین که کلک تو مرغیست از خط مشکین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدم تو از نفس باد صبح دلجوتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیقین که کلک تو مرغیست از خط مشکین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ر",
+      "PlainText": "ره ادب سپرد باز آید از پندار\r\nپرد فرشته نهان چون بحضرتت گذرد\r\nبصد نیاز و فقیری ره ادب سپرد\r\nیقین که بر در و بامت گر او فتد بگذار",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eره ادب سپرد باز آید از پندار\u003C/p\u003E\r\n\u003Cp\u003Eپرد فرشته نهان چون بحضرتت گذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eبصد نیاز و فقیری ره ادب سپرد\u003C/p\u003E\r\n\u003Cp\u003Eیقین که بر در و بامت گر او فتد بگذار\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 22
+      "MetreRefSectionIndex": 19
     },
     {
       "Index": 23,
@@ -760,6 +748,18 @@
       "CoupletsCount": 2,
       "MetreId": 3,
       "MetreRefSectionIndex": 31
+    },
+    {
+      "Index": 23,
+      "Number": 24,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "دم تو از نفس باد صبح دلجوتر\r\nیقین که کلک تو مرغیست از خط مشکین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدم تو از نفس باد صبح دلجوتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیقین که کلک تو مرغیست از خط مشکین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 22
     },
     {
       "Index": 24,

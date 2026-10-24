@@ -431,5 +431,22 @@
         "Order": 2
       }
     ]
+  },
+  {
+    "Id": 17,
+    "Name": "تنسیق الصفات",
+    "Category": "BadiLafzi",
+    "Definition": "آوردن پی در پی چندین صفت",
+    "IsCore": false,
+    "Slots": [
+      {
+        "Id": 47,
+        "Name": "صفت",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": true,
+        "Order": 0
+      }
+    ]
   }
 ]
