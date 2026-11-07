@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ر",
-      "PlainText": "گویند گرفت یار تو یار دگر\r\nاز رشک همی گویند ای جان پدر\r\nجانا تو به گفتگوی ایشان منگر\r\nخر خوبیند که غرقه شد پالانگر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند گرفت یار تو یار دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رشک همی گویند ای جان پدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانا تو به گفتگوی ایشان منگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخر خوبیند که غرقه شد پالانگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "گویند گرفت یار تو یار دگر\r\nاز رشک همی گویند ای جان پدر\u00A0\r\nجانا تو به گفتگوی ایشان منگر\r\nخر خوبیند که غرقه شد پالانگر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند «گرفت یار تو، یار دگر»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رشک همی گویند، ای جان پدر!\u00A0\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانا! تو به گفتگوی ایشان منگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخر خوبیند که غرقه شد پالانگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2,
       "MetreId": 24
@@ -30,7 +30,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "گویند گرفت یار تو یار دگر",
+      "Text": "گویند «گرفت یار تو، یار دگر»",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: می‌گویند محبوب تو به دلیل حسادت، یار دیگری را گرفته است. ای جان، این حرف‌ها چه بی‌اساس هستند!"
@@ -38,14 +38,14 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "از رشک همی گویند ای جان پدر",
+      "Text": "از رشک همی گویند، ای جان پدر!\u00A0",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "جانا تو به گفتگوی ایشان منگر",
+      "Text": "جانا! تو به گفتگوی ایشان منگر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: عزیزم، به صحبت‌های آن‌ها توجه نکن؛ زیرا آن‌ها مانند خرهایی هستند که به زودی در گِل فرو می‌روند و نجاتی نخواهند داشت."

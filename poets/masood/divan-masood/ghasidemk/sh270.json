@@ -477,5 +477,29 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0
     }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 21,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 21,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": -1,
+          "Misra": 0,
+          "ConceptId": 795
+        }
+      ]
+    }
   ]
 }

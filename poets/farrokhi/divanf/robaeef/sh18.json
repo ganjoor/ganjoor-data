@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ار",
-      "PlainText": "ای گلبن نو رسیده در باغ بهار\r\nگلهای ترا ز بیم خار بسیار\r\nزین کار که با تو کردم اندیشه مدار\r\nایمن کردم گل ترا از غم خار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گلبن نو رسیده در باغ بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلهای ترا ز بیم خار بسیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین کار که با تو کردم اندیشه مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایمن کردم گل ترا از غم خار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "ای گلبن نو رسیده در باغ بهار\u00A0\r\nگل های تو را ز بیم خار بسیار\r\nزین کار که با تو کردم اندیشه مدار\r\nایمن کردم گل تو را از غم خار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گلبن نو رسیده در باغ بهار!\u00A0\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل‌های تو را ز بیم خار بسیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین کار که با تو کردم اندیشه مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایمن کردم گل تو را از غم خار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2,
       "MetreId": 24
@@ -30,7 +30,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "ای گلبن نو رسیده در باغ بهار",
+      "Text": "ای گلبن نو رسیده در باغ بهار!\u00A0",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: ای گل تازه‌دمیده در باغ بهاری، گل‌های تو از آسیب خارها بسیار در امنیت نیستند."
@@ -38,7 +38,7 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "گلهای ترا ز بیم خار بسیار",
+      "Text": "گل‌های تو را ز بیم خار بسیار",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
@@ -53,7 +53,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "ایمن کردم گل ترا از غم خار",
+      "Text": "ایمن کردم گل تو را از غم خار",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

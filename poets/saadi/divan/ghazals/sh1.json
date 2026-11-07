@@ -183,7 +183,7 @@
       "Text": "هر که نداند سپاسِ نعمتِ امروز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "CoupletSummary": "هوش مصنوعی: هر کسی که قدر نعمت‌های امروز را نداند و از آن سپاسگزاری نکند، در واقع فرصتی برای بهره‌مندی از رحمت‌های آینده را از دست می‌دهد."
+      "CoupletSummary": "هوش مصنوعی: کسی که شکر نعمت‌های امروز را نداند، پس واقعاً متأسف است و از رحمت روزهای آینده بهره‌ای نخواهد برد."
     },
     {
       "VOrder": 22,
@@ -236,6 +236,47 @@
       "Text": "وَر نه کمالِ تو، وَهْم، کی رسد آن جا؟",
       "CoupletIndex": 13,
       "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 7,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 15,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 16,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 11,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 25,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 6
+        }
+      ]
     }
   ]
 }

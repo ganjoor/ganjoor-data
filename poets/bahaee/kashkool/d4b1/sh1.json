@@ -58,6 +58,18 @@
     },
     {
       "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "در بزم تو ای شمع منم زار و اسیر\r\nدر کشتن من هیچ نداری تقصیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بزم تو ای شمع منم زار و اسیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کشتن من هیچ نداری تقصیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 3,
       "Number": 4,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -81,16 +93,16 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 3,
-      "Number": 3,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یر",
-      "PlainText": "در بزم تو ای شمع منم زار و اسیر\r\nدر کشتن من هیچ نداری تقصیر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بزم تو ای شمع منم زار و اسیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کشتن من هیچ نداری تقصیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "د",
+      "PlainText": "ترسم به غلط ربوده باشد دل را\r\nبیند که همان دل است بیشم فکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم به غلط ربوده باشد دل را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیند که همان دل است، بیشم فکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 24,
-      "MetreRefSectionIndex": 1
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 4,
@@ -105,30 +117,6 @@
       "MetreRefSectionIndex": 1
     },
     {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "د",
-      "PlainText": "ترسم به غلط ربوده باشد دل را\r\nبیند که همان دل است بیشم فکند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم به غلط ربوده باشد دل را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیند که همان دل است، بیشم فکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "مهعشق",
-      "PlainText": "بر روی دلم نواخت یک زمزمه عشق\r\nزان زمزمه ام زپای تا سر همه عشق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر روی دلم نواخت یک زمزمه عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان زمزمه ام زپای تا سر همه عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 0
-    },
-    {
       "Index": 5,
       "Number": 5,
       "SectionType": "Couplet",
@@ -139,6 +127,18 @@
       "CoupletsCount": 1,
       "MetreId": 24,
       "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مهعشق",
+      "PlainText": "بر روی دلم نواخت یک زمزمه عشق\r\nزان زمزمه ام زپای تا سر همه عشق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر روی دلم نواخت یک زمزمه عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان زمزمه ام زپای تا سر همه عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 5,
@@ -169,18 +169,6 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ازعهدهیحقگزارییکدمهعشق",
-      "PlainText": "حقا که به عهدها نیایم بیرون\r\nاز عهده ی حق گزاری یکدمه عشق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحقا که به عهدها نیایم بیرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عهده ی حق گزاری یکدمه عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 1
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "ق",
       "PlainText": "حقا که به عهدها نیایم بیرون\r\nاز عهده ی حق گزاری یکدمه عشق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحقا که به عهدها نیایم بیرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عهده ی حق گزاری یکدمه عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -189,16 +177,16 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "من",
-      "PlainText": "ای تازه گل به ناز پرورده من\r\nوی آفت جان بر لب آورده ی من",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تازه گل به ناز پرورده من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی آفت جان بر لب آورده ی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ازعهدهیحقگزارییکدمهعشق",
+      "PlainText": "حقا که به عهدها نیایم بیرون\r\nاز عهده ی حق گزاری یکدمه عشق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحقا که به عهدها نیایم بیرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عهده ی حق گزاری یکدمه عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
       "MetreId": 24,
-      "MetreRefSectionIndex": 0
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 7,
@@ -211,6 +199,18 @@
       "CoupletsCount": 1,
       "MetreId": 24,
       "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "من",
+      "PlainText": "ای تازه گل به ناز پرورده من\r\nوی آفت جان بر لب آورده ی من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تازه گل به ناز پرورده من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی آفت جان بر لب آورده ی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 7,
@@ -241,24 +241,24 @@
       "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "تابگذریازگناهناکردهیمن",
-      "PlainText": "خواهم که ترا خدای رحمی بدهد\r\nتا بگذری از گناه ناکرده ی من",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهم که ترا خدای رحمی بدهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بگذری از گناه ناکرده ی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 1
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "ن",
       "PlainText": "خواهم که ترا خدای رحمی بدهد\r\nتا بگذری از گناه ناکرده ی من",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهم که ترا خدای رحمی بدهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بگذری از گناه ناکرده ی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
       "MetreId": 24,
       "MetreRefSectionIndex": 0
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "تابگذریازگناهناکردهیمن",
+      "PlainText": "خواهم که ترا خدای رحمی بدهد\r\nتا بگذری از گناه ناکرده ی من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهم که ترا خدای رحمی بدهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بگذری از گناه ناکرده ی من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 9,

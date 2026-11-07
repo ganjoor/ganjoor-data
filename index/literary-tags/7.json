@@ -1,5 +1,29 @@
 [
   {
+    "PoemId": 9323,
+    "CoupletIndex": 3,
+    "DeviceId": 7,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 15,
+        "CoupletIndex": 3,
+        "Misra": 1,
+        "WordStart": 4,
+        "WordEnd": 4
+      },
+      {
+        "SlotId": 16,
+        "CoupletIndex": 3,
+        "Misra": 1,
+        "WordStart": 6,
+        "WordEnd": 6
+      }
+    ]
+  },
+  {
     "PoemId": 9324,
     "CoupletIndex": 1,
     "DeviceId": 7,
