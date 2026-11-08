@@ -237,5 +237,23 @@
       "CoupletIndex": 13,
       "SectionIndex1": 0
     }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 10,
+      "DeviceId": 9,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 18,
+          "CoupletIndex": 10,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 7
+        }
+      ]
+    }
   ]
 }

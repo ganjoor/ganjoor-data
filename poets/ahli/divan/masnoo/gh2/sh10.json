@@ -106,6 +106,17 @@
     {
       "Index": 4,
       "Number": 5,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ور",
+      "PlainText": "سوخت غیر و چو من نامده منصور\r\nدر طریق سخن شاعر مشهور",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eسوخت غیر و چو من نامده منصور\u003C/p\u003E\r\n\u003Cp\u003Eدر طریق سخن شاعر مشهور\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 5,
+      "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 4,
+      "Number": 5,
       "SectionType": "Band",
       "VerseType": "Second",
       "RhymeLetters": "ر",
@@ -128,15 +139,16 @@
       "MetreId": 3
     },
     {
-      "Index": 4,
-      "Number": 5,
-      "SectionType": "BandCouplets",
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
       "VerseType": "Second",
-      "RhymeLetters": "ور",
-      "PlainText": "سوخت غیر و چو من نامده منصور\r\nدر طریق سخن شاعر مشهور",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eسوخت غیر و چو من نامده منصور\u003C/p\u003E\r\n\u003Cp\u003Eدر طریق سخن شاعر مشهور\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 5,
-      "MetreRefSectionIndex": 1
+      "RhymeLetters": "ار",
+      "PlainText": "لب از ثنای تو در گفتن دعا پوید\r\nهمیشه تا که جهان باشد و فلک دوار\r\nمدام ملک ترا باد و شه نشان باشی\r\nجهان پناه تو باشی و شاه گیتی دار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب از ثنای تو در گفتن دعا پوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا که جهان باشد و فلک دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدام ملک ترا باد و شه نشان باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان پناه تو باشی و شاه گیتی دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 5,
@@ -161,18 +173,6 @@
       "CoupletsCount": 4,
       "MetreId": 3,
       "MetreRefSectionIndex": 2
-    },
-    {
-      "Index": 5,
-      "Number": 6,
-      "SectionType": "Band",
-      "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "لب از ثنای تو در گفتن دعا پوید\r\nهمیشه تا که جهان باشد و فلک دوار\r\nمدام ملک ترا باد و شه نشان باشی\r\nجهان پناه تو باشی و شاه گیتی دار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب از ثنای تو در گفتن دعا پوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا که جهان باشد و فلک دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدام ملک ترا باد و شه نشان باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان پناه تو باشی و شاه گیتی دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 4
     },
     {
       "Index": 6,

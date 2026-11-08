@@ -34,6 +34,17 @@
     },
     {
       "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکاست",
+      "PlainText": "دامان خرابات نشینان همه پاک است\r\nتر دامنی ماست که تا دامن خاک است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامان خرابات نشینان همه پاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتر دامنی ماست که تا دامن خاک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 2,
       "Number": 2,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -43,17 +54,6 @@
       "CoupletsCount": 1,
       "MetreId": 6,
       "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 2,
-      "Number": 3,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "اکاست",
-      "PlainText": "دامان خرابات نشینان همه پاک است\r\nتر دامنی ماست که تا دامن خاک است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامان خرابات نشینان همه پاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتر دامنی ماست که تا دامن خاک است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
-      "CoupletsCount": 1
     },
     {
       "Index": 3,
@@ -96,6 +96,17 @@
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
+      "RhymeLetters": "اکاست",
+      "PlainText": "بد کردم و اعتذار بدتر ز گناه\r\nچون هست در این عذر سه دعوی تباه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبد کردم و اعتذار بدتر ز گناه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون هست در این عذر سه دعوی تباه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 2
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
       "RhymeLetters": "اه",
       "PlainText": "بد کردم و اعتذار بدتر ز گناه\r\nچون هست در این عذر سه دعوی تباه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبد کردم و اعتذار بدتر ز گناه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون هست در این عذر سه دعوی تباه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -104,28 +115,6 @@
       "MetreRefSectionIndex": 65
     },
     {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اکاست",
-      "PlainText": "بد کردم و اعتذار بدتر ز گناه\r\nچون هست در این عذر سه دعوی تباه",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبد کردم و اعتذار بدتر ز گناه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون هست در این عذر سه دعوی تباه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreRefSectionIndex": 2
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "لاحولولاقوهالاباللاه",
-      "PlainText": "دعوی وجود و دعوی قدرت و فعل\r\nلاحول و لا قوه الا بالله",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدعوی وجود و دعوی قدرت و فعل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاحول و لا قوه الا بالله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreRefSectionIndex": 2
-    },
-    {
       "Index": 5,
       "Number": 5,
       "SectionType": "Couplet",
@@ -136,6 +125,17 @@
       "CoupletsCount": 1,
       "MetreId": 24,
       "MetreRefSectionIndex": 65
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لاحولولاقوهالاباللاه",
+      "PlainText": "دعوی وجود و دعوی قدرت و فعل\r\nلاحول و لا قوه الا بالله",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدعوی وجود و دعوی قدرت و فعل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاحول و لا قوه الا بالله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 5,
@@ -158,8 +158,7 @@
       "PlainText": "از حال خود آگه نیم لیک اینقدر دانم که تو\r\nهر گاه در دل بگذری اشکم ز دامان بگذرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حال خود آگه نیم لیک اینقدر دانم که تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر گاه در دل بگذری، اشکم ز دامان بگذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
-      "MetreId": 16,
-      "MetreRefSectionIndex": 64
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 6,
@@ -170,18 +169,8 @@
       "PlainText": "از حال خود آگه نیم لیک اینقدر دانم که تو\r\nهر گاه در دل بگذری اشکم ز دامان بگذرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حال خود آگه نیم لیک اینقدر دانم که تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر گاه در دل بگذری، اشکم ز دامان بگذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
-      "MetreRefSectionIndex": 2
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "فرشتهخویمنایاستمگریداند",
-      "PlainText": "خوش آن که از تو جفایی ندیده می گفتم\r\nفرشته خوی من آیا ستمگری داند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن که از تو جفائی ندیده می گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرشته خوی من آیا ستمگری داند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreRefSectionIndex": 2
+      "MetreId": 16,
+      "MetreRefSectionIndex": 64
     },
     {
       "Index": 7,
@@ -194,6 +183,17 @@
       "CoupletsCount": 1,
       "MetreId": 3,
       "MetreRefSectionIndex": 60
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فرشتهخویمنایاستمگریداند",
+      "PlainText": "خوش آن که از تو جفایی ندیده می گفتم\r\nفرشته خوی من آیا ستمگری داند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن که از تو جفائی ندیده می گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرشته خوی من آیا ستمگری داند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreRefSectionIndex": 2
     },
     {
       "Index": 8,

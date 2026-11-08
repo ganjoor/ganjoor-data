@@ -84,6 +84,18 @@
     {
       "Index": 3,
       "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "نیاورم نفسی زد ز دست غم بی تو\r\nنیاورم بکسی نکته راندازین اسرار\r\nروا مدار که با من جفا کند گردون\r\nگرش چه جز ستم و جور نیست گردون کار\r\nنیارم نفس زد ز بیداد گردون\r\nنیارم کسی گر انیس است و گردون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیاورم نفسی زد ز دست غم بی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیاورم بکسی نکته راندازین اسرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروا مدار که با من جفا کند گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرش چه جز ستم و جور نیست گردون کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eنیارم نفس زد ز بیداد گردون\u003C/p\u003E\r\n\u003Cp\u003Eنیارم کسی گر انیس است و گردون\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3,
+      "MetreId": 3
+    },
+    {
+      "Index": 3,
+      "Number": 4,
       "SectionType": "BandCouplets",
       "VerseType": "Second",
       "RhymeLetters": "ا",
@@ -94,16 +106,16 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 3,
-      "Number": 4,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "ار",
-      "PlainText": "نیاورم نفسی زد ز دست غم بی تو\r\nنیاورم بکسی نکته راندازین اسرار\r\nروا مدار که با من جفا کند گردون\r\nگرش چه جز ستم و جور نیست گردون کار\r\nنیارم نفس زد ز بیداد گردون\r\nنیارم کسی گر انیس است و گردون",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیاورم نفسی زد ز دست غم بی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیاورم بکسی نکته راندازین اسرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروا مدار که با من جفا کند گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرش چه جز ستم و جور نیست گردون کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eنیارم نفس زد ز بیداد گردون\u003C/p\u003E\r\n\u003Cp\u003Eنیارم کسی گر انیس است و گردون\u003C/p\u003E\u003C/div\u003E",
-      "PoemFormat": "MultiBand",
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "اندرجهان",
+      "PlainText": "باری دلم دارد گران از ناز خوبان در جهان\r\nباری تو ایشاه بتان توسن بمیدان در جهان",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eباری دلم دارد گران از ناز خوبان در جهان\u003C/p\u003E\r\n\u003Cp\u003Eباری تو ایشاه بتان توسن بمیدان در جهان\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 3,
-      "MetreId": 3
+      "MetreId": 3,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 4,
@@ -130,30 +142,6 @@
       "MetreId": 3
     },
     {
-      "Index": 4,
-      "Number": 5,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "اندرجهان",
-      "PlainText": "باری دلم دارد گران از ناز خوبان در جهان\r\nباری تو ایشاه بتان توسن بمیدان در جهان",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eباری دلم دارد گران از ناز خوبان در جهان\u003C/p\u003E\r\n\u003Cp\u003Eباری تو ایشاه بتان توسن بمیدان در جهان\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 1
-    },
-    {
-      "Index": 5,
-      "Number": 6,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ارپرچین",
-      "PlainText": "میفشاند گرد عنبر زلف عنبر بار پرچین\r\nمینشاند گرد گلزار جماعت خار پرچین",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eمیفشاند گرد عنبر زلف عنبر بار پرچین\u003C/p\u003E\r\n\u003Cp\u003Eمینشاند گرد گلزار جماعت خار پرچین\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 4,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 2
-    },
-    {
       "Index": 5,
       "Number": 6,
       "SectionType": "Band",
@@ -176,6 +164,30 @@
       "PoemFormat": "MultiBand",
       "CoupletsCount": 4,
       "MetreId": 3
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ارپرچین",
+      "PlainText": "میفشاند گرد عنبر زلف عنبر بار پرچین\r\nمینشاند گرد گلزار جماعت خار پرچین",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eمیفشاند گرد عنبر زلف عنبر بار پرچین\u003C/p\u003E\r\n\u003Cp\u003Eمینشاند گرد گلزار جماعت خار پرچین\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 4,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 2
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "گردون",
+      "PlainText": "نیارم نفس زد ز بیداد گردون\r\nنیارم کسی گر انیس است و گردون",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنیارم نفس زد ز بیداد گردون\u003C/p\u003E\r\n\u003Cp\u003Eنیارم کسی گر انیس است و گردون\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 4,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 6,
@@ -202,30 +214,6 @@
       "MetreId": 3
     },
     {
-      "Index": 6,
-      "Number": 7,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "گردون",
-      "PlainText": "نیارم نفس زد ز بیداد گردون\r\nنیارم کسی گر انیس است و گردون",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنیارم نفس زد ز بیداد گردون\u003C/p\u003E\r\n\u003Cp\u003Eنیارم کسی گر انیس است و گردون\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 4,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 3
-    },
-    {
-      "Index": 7,
-      "Number": 8,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "افت",
-      "PlainText": "چون رخت ماه من بر فلک مه نتافت\r\nبر درت شاه من جز ملک ره نیافت",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچون رخت ماه من بر فلک مه نتافت\u003C/p\u003E\r\n\u003Cp\u003Eبر درت شاه من جز ملک ره نیافت\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 4
-    },
-    {
       "Index": 7,
       "Number": 8,
       "SectionType": "Band",
@@ -248,6 +236,30 @@
       "PoemFormat": "MultiBand",
       "CoupletsCount": 3,
       "MetreId": 3
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "افت",
+      "PlainText": "چون رخت ماه من بر فلک مه نتافت\r\nبر درت شاه من جز ملک ره نیافت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eچون رخت ماه من بر فلک مه نتافت\u003C/p\u003E\r\n\u003Cp\u003Eبر درت شاه من جز ملک ره نیافت\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 4
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "اند",
+      "PlainText": "خام دلم چو خامه تا نام ترا از نامه خواند\r\nتن ز غبار بار غم گشت نزار و زار ماند",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eخام دلم چو خامه تا نام ترا از نامه خواند\u003C/p\u003E\r\n\u003Cp\u003Eتن ز غبار بار غم گشت نزار و زار ماند\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 5
     },
     {
       "Index": 8,
@@ -274,30 +286,6 @@
       "MetreId": 3
     },
     {
-      "Index": 8,
-      "Number": 9,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "اند",
-      "PlainText": "خام دلم چو خامه تا نام ترا از نامه خواند\r\nتن ز غبار بار غم گشت نزار و زار ماند",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eخام دلم چو خامه تا نام ترا از نامه خواند\u003C/p\u003E\r\n\u003Cp\u003Eتن ز غبار بار غم گشت نزار و زار ماند\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 5
-    },
-    {
-      "Index": 9,
-      "Number": 10,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "یست",
-      "PlainText": "شیخست و شید خود چه شناسد که یار کیست\r\nشان جماد نیست که داند جمال چیست",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشیخست و شید خود چه شناسد که یار کیست\u003C/p\u003E\r\n\u003Cp\u003Eشان جماد نیست که داند جمال چیست\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 6
-    },
-    {
       "Index": 9,
       "Number": 10,
       "SectionType": "Band",
@@ -320,6 +308,30 @@
       "PoemFormat": "MultiBand",
       "CoupletsCount": 3,
       "MetreId": 3
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "یست",
+      "PlainText": "شیخست و شید خود چه شناسد که یار کیست\r\nشان جماد نیست که داند جمال چیست",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشیخست و شید خود چه شناسد که یار کیست\u003C/p\u003E\r\n\u003Cp\u003Eشان جماد نیست که داند جمال چیست\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 6
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "نگ",
+      "PlainText": "کنج غمت جست دل بخت بد آمد بجنگ\r\nکند بسی جان ولی ماند چو فرهاد دنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکنج غمت جست دل بخت بد آمد بجنگ\u003C/p\u003E\r\n\u003Cp\u003Eکند بسی جان ولی ماند چو فرهاد دنگ\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 7
     },
     {
       "Index": 10,
@@ -346,30 +358,6 @@
       "MetreId": 3
     },
     {
-      "Index": 10,
-      "Number": 11,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "نگ",
-      "PlainText": "کنج غمت جست دل بخت بد آمد بجنگ\r\nکند بسی جان ولی ماند چو فرهاد دنگ",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکنج غمت جست دل بخت بد آمد بجنگ\u003C/p\u003E\r\n\u003Cp\u003Eکند بسی جان ولی ماند چو فرهاد دنگ\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 7
-    },
-    {
-      "Index": 11,
-      "Number": 12,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "الک",
-      "PlainText": "کلام دلکشت بشنید سالک\r\nنشد دیگر بزهد خویش مالک",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکلام دلکشت بشنید سالک\u003C/p\u003E\r\n\u003Cp\u003Eنشد دیگر بزهد خویش مالک\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 4,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 8
-    },
-    {
       "Index": 11,
       "Number": 12,
       "SectionType": "Band",
@@ -392,6 +380,30 @@
       "PoemFormat": "MultiBand",
       "CoupletsCount": 3,
       "MetreId": 3
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "الک",
+      "PlainText": "کلام دلکشت بشنید سالک\r\nنشد دیگر بزهد خویش مالک",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکلام دلکشت بشنید سالک\u003C/p\u003E\r\n\u003Cp\u003Eنشد دیگر بزهد خویش مالک\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 4,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 8
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "اوت",
+      "PlainText": "کلام روح فزای تو در کمال حلاوت\r\nصفای روی تو صافی تر از گهر بطراوت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکلام روح فزای تو در کمال حلاوت\u003C/p\u003E\r\n\u003Cp\u003Eصفای روی تو صافی تر از گهر بطراوت\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 9
     },
     {
       "Index": 12,
@@ -418,30 +430,6 @@
       "MetreId": 3
     },
     {
-      "Index": 12,
-      "Number": 13,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "اوت",
-      "PlainText": "کلام روح فزای تو در کمال حلاوت\r\nصفای روی تو صافی تر از گهر بطراوت",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکلام روح فزای تو در کمال حلاوت\u003C/p\u003E\r\n\u003Cp\u003Eصفای روی تو صافی تر از گهر بطراوت\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 9
-    },
-    {
-      "Index": 13,
-      "Number": 14,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "ناز او سرها بریزد زیر پا هر سو از آن\r\nناورد یارا رقیب و بیقرار آید روان",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eناز او سرها بریزد زیر پا هر سو از آن\u003C/p\u003E\r\n\u003Cp\u003Eناورد یارا رقیب و بیقرار آید روان\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 10
-    },
-    {
       "Index": 13,
       "Number": 14,
       "SectionType": "Band",
@@ -464,6 +452,30 @@
       "PoemFormat": "MultiBand",
       "CoupletsCount": 3,
       "MetreId": 3
+    },
+    {
+      "Index": 13,
+      "Number": 14,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "ناز او سرها بریزد زیر پا هر سو از آن\r\nناورد یارا رقیب و بیقرار آید روان",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eناز او سرها بریزد زیر پا هر سو از آن\u003C/p\u003E\r\n\u003Cp\u003Eناورد یارا رقیب و بیقرار آید روان\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 10
+    },
+    {
+      "Index": 14,
+      "Number": 15,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "نامه درد منت مادام یاد\r\nدایما دام تنم درد همان",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنامه درد منت مادام یاد\u003C/p\u003E\r\n\u003Cp\u003Eدایما دام تنم درد همان\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 11
     },
     {
       "Index": 14,
@@ -490,16 +502,16 @@
       "MetreId": 3
     },
     {
-      "Index": 14,
-      "Number": 15,
-      "SectionType": "BandCouplets",
+      "Index": 15,
+      "Number": 16,
+      "SectionType": "Band",
       "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "نامه درد منت مادام یاد\r\nدایما دام تنم درد همان",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنامه درد منت مادام یاد\u003C/p\u003E\r\n\u003Cp\u003Eدایما دام تنم درد همان\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
+      "RhymeLetters": "ر",
+      "PlainText": "و گر به پیش تن شب نشین تو بنشینی\r\nکنیش تابش تب شعله زن بتن بی نار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو گر به پیش تن شب نشین تو بنشینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنیش تابش تب شعله زن بتن بی نار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
       "MetreId": 3,
-      "MetreRefSectionIndex": 11
+      "MetreRefSectionIndex": 14
     },
     {
       "Index": 15,
@@ -524,18 +536,6 @@
       "CoupletsCount": 2,
       "MetreId": 3,
       "MetreRefSectionIndex": 12
-    },
-    {
-      "Index": 15,
-      "Number": 16,
-      "SectionType": "Band",
-      "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "و گر به پیش تن شب نشین تو بنشینی\r\nکنیش تابش تب شعله زن بتن بی نار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو گر به پیش تن شب نشین تو بنشینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنیش تابش تب شعله زن بتن بی نار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 14
     },
     {
       "Index": 16,

@@ -63,7 +63,7 @@
       "Text": "آسمان بارِ امانت نتوانست کشید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "CoupletSummary": "گویا، آن‌ شیوه‌‌ها و آموزه‌ها که از ابتدای خلقِ جهان، اصلِ وجودیِ این‌دنیا را 《در جست‌وجوی حقیقت بودن و رفتن》 می‌نمایاند، به بی‌ثمریِ خودش اقرار کرد؛ و وظیفه‌ی هدایتِ انسان‌ها را به 《واقعیت》‌ها واگذار کرد!"
+      "CoupletSummary": "اشاره به آیه قران، خداوند می‌فرماید انسان امانتی را پذیرفت که همه آسمان‌ها و زمین آن را پس زدند به راستی که او نادان بود."
     },
     {
       "VOrder": 6,
@@ -204,6 +204,28 @@
           "WordStart": 2,
           "WordEnd": 2,
           "ConceptId": 162
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 10,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 19,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 5
+        },
+        {
+          "SlotId": 20,
+          "CoupletIndex": -1,
+          "Misra": 0,
+          "ConceptId": 1256
         }
       ]
     },

@@ -34,6 +34,18 @@
     },
     {
       "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کاینرهکهتومیرویبهترکستاناست",
+      "PlainText": "ترسم نرسی به کعبه ای اعرابی\r\nکاین ره که تو می روی به ترکستان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم نرسی به کعبه ای اعرابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین ره که تو می روی به ترکستان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1,
+      "MetreId": 24
+    },
+    {
+      "Index": 2,
       "Number": 2,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -44,16 +56,15 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 2,
+      "Index": 3,
       "Number": 3,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "کاینرهکهتومیرویبهترکستاناست",
-      "PlainText": "ترسم نرسی به کعبه ای اعرابی\r\nکاین ره که تو می روی به ترکستان است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم نرسی به کعبه ای اعرابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین ره که تو می روی به ترکستان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "یا غافر الذنب هل ترضی لنفسک فی\r\nقید الاساری و اخوان علی سرر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا غافر الذنب هل تَرضی لنفسک فی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقید الاساری و اخوان علی سرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
-      "MetreId": 24
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -66,17 +77,6 @@
       "PoemFormat": "Generic",
       "CoupletsCount": 1,
       "MetreId": 1
-    },
-    {
-      "Index": 3,
-      "Number": 3,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "یا غافر الذنب هل ترضی لنفسک فی\r\nقید الاساری و اخوان علی سرر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا غافر الذنب هل تَرضی لنفسک فی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقید الاساری و اخوان علی سرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -104,18 +104,6 @@
     },
     {
       "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "گدایان بینی اندر روز محشر\r\nبه تخت ملک همچون پادشاهان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگدایان بینی اندر روز محشر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه تخت ملک همچون پادشاهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 12,
-      "MetreRefSectionIndex": 8
-    },
-    {
-      "Index": 4,
       "Number": 5,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -127,16 +115,16 @@
       "MetreId": 7
     },
     {
-      "Index": 5,
-      "Number": 6,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "وست",
-      "PlainText": "دشمن که جفایی کند آن شیوۀ اوست\r\nباری تو جفا مکن که معشوقی و دوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشمن که جفایی کند آن شیوۀ اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباری تو جفا مکن که معشوقی و دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
-      "CoupletsCount": 1,
-      "MetreId": 24
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "گدایان بینی اندر روز محشر\r\nبه تخت ملک همچون پادشاهان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگدایان بینی اندر روز محشر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه تخت ملک همچون پادشاهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 12,
+      "MetreRefSectionIndex": 8
     },
     {
       "Index": 5,
@@ -149,6 +137,18 @@
       "CoupletsCount": 1,
       "MetreId": 12,
       "MetreRefSectionIndex": 8
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "دشمن که جفایی کند آن شیوۀ اوست\r\nباری تو جفا مکن که معشوقی و دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشمن که جفایی کند آن شیوۀ اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباری تو جفا مکن که معشوقی و دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1,
+      "MetreId": 24
     },
     {
       "Index": 5,
