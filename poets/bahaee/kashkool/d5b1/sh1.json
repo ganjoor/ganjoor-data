@@ -58,18 +58,6 @@
     },
     {
       "Index": 3,
-      "Number": 4,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "اختهاند",
-      "PlainText": "صد تیغ بلا زهر طرف آخته اند\r\nبر ما همه شبرنگ جفا تاخته اند\r\nفریاد که دشمنان به هم ساخته اند\r\nواجبات به حال ما نپرداخته اند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد تیغ بلا زهر طرف آخته اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ما همه شبرنگ جفا تاخته اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریاد که دشمنان به هم ساخته اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواجبات به حال ما نپرداخته اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Robaee",
-      "CoupletsCount": 2,
-      "MetreId": 24
-    },
-    {
-      "Index": 3,
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -79,6 +67,18 @@
       "CoupletsCount": 2,
       "MetreId": 24,
       "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اختهاند",
+      "PlainText": "صد تیغ بلا زهر طرف آخته اند\r\nبر ما همه شبرنگ جفا تاخته اند\r\nفریاد که دشمنان به هم ساخته اند\r\nواجبات به حال ما نپرداخته اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد تیغ بلا زهر طرف آخته اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ما همه شبرنگ جفا تاخته اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریاد که دشمنان به هم ساخته اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواجبات به حال ما نپرداخته اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
     },
     {
       "Index": 3,
@@ -169,24 +169,24 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اختهاند",
-      "PlainText": "صد تیغ بلا زهر طرف آخته اند\r\nبر ما همه شبرنگ جفا تاخته اند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد تیغ بلا زهر طرف آخته اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ما همه شبرنگ جفا تاخته اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 3
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "ستمکاریبودبرگوسفندان",
       "PlainText": "زبهرآن که با گرگان نکویی\r\nستمکاری بود بر گوسفندان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبهرآن که با گرگان نکوئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eستمکاری بود بر گوسفندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
       "MetreId": 24,
       "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اختهاند",
+      "PlainText": "صد تیغ بلا زهر طرف آخته اند\r\nبر ما همه شبرنگ جفا تاخته اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد تیغ بلا زهر طرف آخته اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ما همه شبرنگ جفا تاخته اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 5,
@@ -217,24 +217,24 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ست",
-      "PlainText": "در سر کاری که درآیی نخست\r\nرخنه ی بیرون شدنش کن درست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سر کاری که درآئی نخست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخنه ی بیرون شدنش کن درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 1
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "اختهاند",
       "PlainText": "فریاد که دشمنان به هم ساخته اند\r\nواجبات به حال ما نپرداخته اند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریاد که دشمنان به هم ساخته اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواجبات به حال ما نپرداخته اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
       "MetreId": 24,
       "MetreRefSectionIndex": 3
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "در سر کاری که درآیی نخست\r\nرخنه ی بیرون شدنش کن درست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سر کاری که درآئی نخست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخنه ی بیرون شدنش کن درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 6,
@@ -301,24 +301,24 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رجمیکن",
-      "PlainText": "به شادی شغل عالم درج میکن\r\nخراجش میستان و خرج میکن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه شادی شغل عالم درج میکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخراجش میستان و خرج میکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 3
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "ار",
       "PlainText": "تا نکنی جای قدم استوار\r\nپای منه در طلب هیچ کار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نکنی جای قدم استوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای منه در طلب هیچ کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
       "MetreId": 24,
       "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رجمیکن",
+      "PlainText": "به شادی شغل عالم درج میکن\r\nخراجش میستان و خرج میکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه شادی شغل عالم درج میکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخراجش میستان و خرج میکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 3
     },
     {
       "Index": 7,

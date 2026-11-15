@@ -17186,6 +17186,32 @@
     ]
   },
   {
+    "PoemId": 9654,
+    "CoupletIndex": 7,
+    "DeviceId": 1,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 1,
+        "CoupletIndex": 7,
+        "Misra": 1,
+        "WordStart": 3,
+        "WordEnd": 3,
+        "ConceptId": 280
+      },
+      {
+        "SlotId": 2,
+        "CoupletIndex": 7,
+        "Misra": 1,
+        "WordStart": 4,
+        "WordEnd": 4,
+        "ConceptId": 125
+      }
+    ]
+  },
+  {
     "PoemId": 9667,
     "CoupletIndex": 0,
     "DeviceId": 1,

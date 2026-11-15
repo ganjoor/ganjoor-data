@@ -14601,5 +14601,29 @@
         "ConceptId": 146
       }
     ]
+  },
+  {
+    "PoemId": 9654,
+    "CoupletIndex": 4,
+    "DeviceId": 2,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 5,
+        "CoupletIndex": 4,
+        "Misra": 2,
+        "WordStart": 7,
+        "WordEnd": 9,
+        "ConceptId": 661
+      },
+      {
+        "SlotId": 6,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "ConceptId": 661
+      }
+    ]
   }
 ]

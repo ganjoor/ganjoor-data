@@ -1,15 +1,15 @@
 {
   "SchemaVersion": 4,
-  "GeneratedAtUtc": "2026-11-08T04:17:56.7846096Z",
-  "PoetsCount": 245,
-  "PoemsCount": 139042,
+  "GeneratedAtUtc": "2026-11-15T18:32:29.6031040Z",
+  "PoetsCount": 246,
+  "PoemsCount": 139417,
   "PeopleCount": 662,
   "LocationsCount": 200,
   "GeoTagsCount": 186,
   "PersonTagsCount": 5725,
-  "LiteraryDevicesCount": 16,
+  "LiteraryDevicesCount": 17,
   "LiteraryConceptsCount": 1256,
-  "LiteraryTagsCount": 2969,
+  "LiteraryTagsCount": 2972,
   "PersonIndexShardSize": 500,
   "IdIndexShardSize": 2000,
   "UrlTemplates": {
@@ -1255,6 +1255,11 @@
       "Id": 246,
       "Nickname": "روح عطار",
       "FullUrl": "/rooh"
+    },
+    {
+      "Id": 247,
+      "Nickname": "عماد خراسانی",
+      "FullUrl": "/emad"
     }
   ]
 }

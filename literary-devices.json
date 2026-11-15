@@ -448,5 +448,22 @@
         "Order": 0
       }
     ]
+  },
+  {
+    "Id": 18,
+    "Name": "مقابله",
+    "Category": "BadiManavi",
+    "Definition": "واژگان مصرع‌ها یک به یک باهم تضاد دارند",
+    "IsCore": false,
+    "Slots": [
+      {
+        "Id": 48,
+        "Name": "در هر دو مصرع",
+        "Kind": "Span",
+        "Required": true,
+        "AllowMultiple": false,
+        "Order": 0
+      }
+    ]
   }
 ]

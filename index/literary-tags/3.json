@@ -22345,5 +22345,29 @@
         "Text": "رهایی از گرفتاری"
       }
     ]
+  },
+  {
+    "PoemId": 86538,
+    "CoupletIndex": 15,
+    "DeviceId": 3,
+    "Uncertain": false,
+    "Note": "آهنگ چیزی کردن کنایه از قصد انجام کاری داشتن\nآهنگ برداشتن آن کردن یعنی قصد برداشتن آن را کردن",
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 7,
+        "CoupletIndex": 15,
+        "Misra": 2,
+        "WordStart": 1,
+        "WordEnd": 4
+      },
+      {
+        "SlotId": 8,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "Text": "به قصد برداشتن آن"
+      }
+    ]
   }
 ]
