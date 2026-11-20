@@ -394,6 +394,18 @@
     {
       "Index": 12,
       "Number": 13,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "نگه چو کرده سوی نعل خنگ او از دور\r\nز خویش رفته مه نو بگنبد دوار\r\nبعرصه گرشه چوگان نموده گه گه زان\r\nهلال مه مه ازین عرصه کرده است کنار\r\nچو نعل خنگش نموده گه گه\r\nز خویش رفته هلال مه مه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگه چو کرده سوی نعل خنگ او از دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خویش رفته مه نو بگنبد دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبعرصه گرشه چوگان نموده گه گه زان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهلال مه مه ازین عرصه کرده است کنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eچو نعل خنگش نموده گه گه\u003C/p\u003E\r\n\u003Cp\u003Eز خویش رفته هلال مه مه\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3,
+      "MetreId": 3
+    },
+    {
+      "Index": 12,
+      "Number": 13,
       "SectionType": "BandCouplets",
       "VerseType": "Second",
       "RhymeLetters": "لم",
@@ -415,16 +427,16 @@
       "MetreRefSectionIndex": 11
     },
     {
-      "Index": 12,
-      "Number": 13,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "ار",
-      "PlainText": "نگه چو کرده سوی نعل خنگ او از دور\r\nز خویش رفته مه نو بگنبد دوار\r\nبعرصه گرشه چوگان نموده گه گه زان\r\nهلال مه مه ازین عرصه کرده است کنار\r\nچو نعل خنگش نموده گه گه\r\nز خویش رفته هلال مه مه",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگه چو کرده سوی نعل خنگ او از دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خویش رفته مه نو بگنبد دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبعرصه گرشه چوگان نموده گه گه زان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهلال مه مه ازین عرصه کرده است کنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eچو نعل خنگش نموده گه گه\u003C/p\u003E\r\n\u003Cp\u003Eز خویش رفته هلال مه مه\u003C/p\u003E\u003C/div\u003E",
-      "PoemFormat": "MultiBand",
+      "Index": 13,
+      "Number": 14,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "می",
+      "PlainText": "جان سروری چشم مردمی\r\nگنج خوشدلی بحر خرمی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eجان سروری چشم مردمی\u003C/p\u003E\r\n\u003Cp\u003Eگنج خوشدلی بحر خرمی\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 3,
-      "MetreId": 3
+      "MetreId": 3,
+      "MetreRefSectionIndex": 10
     },
     {
       "Index": 13,
@@ -451,30 +463,6 @@
       "MetreId": 3
     },
     {
-      "Index": 13,
-      "Number": 14,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "می",
-      "PlainText": "جان سروری چشم مردمی\r\nگنج خوشدلی بحر خرمی",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eجان سروری چشم مردمی\u003C/p\u003E\r\n\u003Cp\u003Eگنج خوشدلی بحر خرمی\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 10
-    },
-    {
-      "Index": 14,
-      "Number": 15,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ریش",
-      "PlainText": "مهر نما بر همه کس ظل کرم گستریش\r\nنور فزار در همه دل مهر هنرپروریش",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eمهر نما بر همه کس ظل کرم گستریش\u003C/p\u003E\r\n\u003Cp\u003Eنور فزار در همه دل مهر هنرپروریش\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 3,
-      "MetreId": 3,
-      "MetreRefSectionIndex": 11
-    },
-    {
       "Index": 14,
       "Number": 15,
       "SectionType": "Band",
@@ -497,6 +485,18 @@
       "PoemFormat": "MultiBand",
       "CoupletsCount": 3,
       "MetreId": 3
+    },
+    {
+      "Index": 14,
+      "Number": 15,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ریش",
+      "PlainText": "مهر نما بر همه کس ظل کرم گستریش\r\nنور فزار در همه دل مهر هنرپروریش",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eمهر نما بر همه کس ظل کرم گستریش\u003C/p\u003E\r\n\u003Cp\u003Eنور فزار در همه دل مهر هنرپروریش\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3,
+      "MetreId": 3,
+      "MetreRefSectionIndex": 11
     },
     {
       "Index": 15,

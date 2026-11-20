@@ -9830,6 +9830,36 @@
     ]
   },
   {
+    "PoemId": 2542,
+    "CoupletIndex": 0,
+    "DeviceId": 5,
+    "Uncertain": false,
+    "Note": "ایهام : بگرفت \n\nمعنی اول : ماه خط عذار خود را از یار گرفته و کسب کرده \nمعنی دوم : ماه از زیبایی خط عذار یار گرفته شده",
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 11,
+        "CoupletIndex": 0,
+        "Misra": 1,
+        "WordStart": 5,
+        "WordEnd": 5
+      },
+      {
+        "SlotId": 12,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "Text": "گرفته شدن و خجالت کشیدن"
+      },
+      {
+        "SlotId": 12,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "Text": "گرفتن و کسب کردن"
+      }
+    ]
+  },
+  {
     "PoemId": 2546,
     "CoupletIndex": 0,
     "DeviceId": 5,

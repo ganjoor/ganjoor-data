@@ -575,31 +575,6 @@
     ]
   },
   {
-    "PoemId": 2166,
-    "CoupletIndex": 0,
-    "DeviceId": 6,
-    "Uncertain": false,
-    "Origin": "AcademicCorpus",
-    "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
-    "MachineGenerated": false,
-    "Parts": [
-      {
-        "SlotId": 13,
-        "CoupletIndex": 0,
-        "Misra": 2,
-        "WordStart": 2,
-        "WordEnd": 2
-      },
-      {
-        "SlotId": 14,
-        "CoupletIndex": 0,
-        "Misra": 2,
-        "WordStart": 7,
-        "WordEnd": 7
-      }
-    ]
-  },
-  {
     "PoemId": 2169,
     "CoupletIndex": 6,
     "DeviceId": 6,
@@ -696,6 +671,30 @@
         "Misra": 2,
         "WordStart": 5,
         "WordEnd": 5
+      }
+    ]
+  },
+  {
+    "PoemId": 2175,
+    "CoupletIndex": 9,
+    "DeviceId": 6,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 13,
+        "CoupletIndex": 9,
+        "Misra": 1,
+        "WordStart": 3,
+        "WordEnd": 3
+      },
+      {
+        "SlotId": 14,
+        "CoupletIndex": 9,
+        "Misra": 2,
+        "WordStart": 6,
+        "WordEnd": 6
       }
     ]
   },
@@ -4524,6 +4523,30 @@
         "Misra": 2,
         "WordStart": 6,
         "WordEnd": 6
+      }
+    ]
+  },
+  {
+    "PoemId": 2542,
+    "CoupletIndex": 0,
+    "DeviceId": 6,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 13,
+        "CoupletIndex": 0,
+        "Misra": 1,
+        "WordStart": 6,
+        "WordEnd": 6
+      },
+      {
+        "SlotId": 14,
+        "CoupletIndex": 0,
+        "Misra": 2,
+        "WordStart": 7,
+        "WordEnd": 7
       }
     ]
   },

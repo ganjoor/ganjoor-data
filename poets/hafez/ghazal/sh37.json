@@ -222,6 +222,28 @@
     },
     {
       "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": -1,
+          "Misra": 0,
+          "Text": "درحال نابودی است"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
       "DeviceId": 5,
       "Uncertain": false,
       "Origin": "AcademicCorpus",
@@ -268,30 +290,6 @@
           "Misra": 2,
           "WordStart": 1,
           "WordEnd": 1
-        }
-      ]
-    },
-    {
-      "CoupletIndex": 0,
-      "DeviceId": 6,
-      "Uncertain": false,
-      "Origin": "AcademicCorpus",
-      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
-      "MachineGenerated": false,
-      "Parts": [
-        {
-          "SlotId": 13,
-          "CoupletIndex": 0,
-          "Misra": 2,
-          "WordStart": 2,
-          "WordEnd": 2
-        },
-        {
-          "SlotId": 14,
-          "CoupletIndex": 0,
-          "Misra": 2,
-          "WordStart": 7,
-          "WordEnd": 7
         }
       ]
     },

@@ -166,6 +166,37 @@
   "LiteraryTags": [
     {
       "CoupletIndex": 0,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 3,
+          "ConceptId": 1168
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 2,
+          "ConceptId": 80
+        },
+        {
+          "SlotId": 3,
+          "CoupletIndex": -1,
+          "Misra": 0,
+          "Text": "از نظر غیر قابل فرار کردن از آن «به در نیست راه از او »"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
       "DeviceId": 2,
       "Uncertain": false,
       "Origin": "AcademicCorpus",
@@ -183,6 +214,80 @@
           "CoupletIndex": 0,
           "Misra": 0,
           "ConceptId": 1107
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 9
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": -1,
+          "Misra": 0,
+          "Text": "راهی برای فرار وجود ندارد"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Note": "ایهام : بگرفت \n\nمعنی اول : ماه خط عذار خود را از یار گرفته و کسب کرده \nمعنی دوم : ماه از زیبایی خط عذار یار گرفته شده",
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": -1,
+          "Misra": 0,
+          "Text": "گرفته شدن و خجالت کشیدن"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": -1,
+          "Misra": 0,
+          "Text": "گرفتن و کسب کردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7
         }
       ]
     },

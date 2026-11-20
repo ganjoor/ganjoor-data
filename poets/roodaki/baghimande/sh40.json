@@ -87,5 +87,39 @@
       "CoupletIndex": 3,
       "SectionIndex1": 0
     }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 1,
+      "Uncertain": true,
+      "Note": "سرخی",
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 11
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 938
+        },
+        {
+          "SlotId": 3,
+          "CoupletIndex": -1,
+          "Misra": 0,
+          "Text": "سرخی"
+        }
+      ]
+    }
   ]
 }

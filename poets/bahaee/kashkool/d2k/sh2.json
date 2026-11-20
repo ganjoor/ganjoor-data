@@ -34,6 +34,18 @@
     },
     {
       "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ی",
+      "PlainText": "صدف وار باید زبان در کشیدن\r\nکه وقتی که حاجت بود در چکانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصدف وار باید زبان در کشیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه وقتی که حاجت بود در چکانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1,
+      "MetreId": 22
+    },
+    {
+      "Index": 2,
       "Number": 2,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -45,16 +57,16 @@
       "MetreRefSectionIndex": 0
     },
     {
-      "Index": 2,
+      "Index": 3,
       "Number": 3,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "ی",
-      "PlainText": "صدف وار باید زبان در کشیدن\r\nکه وقتی که حاجت بود در چکانی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصدف وار باید زبان در کشیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه وقتی که حاجت بود در چکانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
-      "CoupletsCount": 1,
-      "MetreId": 22
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ال",
+      "PlainText": "گوش بگشا لب فرو بند از مقال\r\nهفته هفته ماه ماه و سال سال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوش بگشا، لب فرو بند از مقال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهفته هفته، ماه ماه و سال سال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
     },
     {
       "Index": 3,
@@ -73,21 +85,21 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ال",
-      "PlainText": "گوش بگشا لب فرو بند از مقال\r\nهفته هفته ماه ماه و سال سال",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوش بگشا، لب فرو بند از مقال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهفته هفته، ماه ماه و سال سال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 6,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 3,
-      "Number": 3,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "انهنشد",
       "PlainText": "اوست دیوانه که دیوانه نشد\r\nاین عسس را دید و در خانه نشد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاوست دیوانه که دیوانه نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین عسس را دید و در خانه نشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انهام",
+      "PlainText": "عقل من گنج است و من ویرانه ام\r\nگنج اگر ظاهر کنم دیوانه ام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل من گنج است و من ویرانه ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنج اگر ظاهر کنم، دیوانه ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 6,
       "MetreRefSectionIndex": 1
@@ -109,21 +121,21 @@
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "انهام",
-      "PlainText": "عقل من گنج است و من ویرانه ام\r\nگنج اگر ظاهر کنم دیوانه ام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل من گنج است و من ویرانه ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنج اگر ظاهر کنم، دیوانه ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 6,
-      "MetreRefSectionIndex": 1
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "زبان",
       "PlainText": "خامشی را آنقدر کن ورد زبان\r\nکه فراموشت شود لفظ زبان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخامشی را آنقدر کن ورد زبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه فراموشت شود لفظ زبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 0
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رگ",
+      "PlainText": "رنج راحت دان چو شد مطلب بزرگ\r\nگرد گله توتیای چشم گرگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنج راحت دان چو شد مطلب بزرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد گله توتیای چشم گرگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
       "MetreId": 6,
       "MetreRefSectionIndex": 0
@@ -145,22 +157,22 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رگ",
-      "PlainText": "رنج راحت دان چو شد مطلب بزرگ\r\nگرد گله توتیای چشم گرگ",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنج راحت دان چو شد مطلب بزرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد گله توتیای چشم گرگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 6,
-      "MetreRefSectionIndex": 0
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "",
       "PlainText": "رنج راحت دان چو شد مطلب بزرگ\r\nگرد گله توتیای چشم گرگ\r\nکان قند و نیستان شکرم\r\nبر زمین میرویم و خود می خورم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنج راحت دان چو شد مطلب بزرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد گله توتیای چشم گرگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکان قند و نیستان شکرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر زمین میرویم و خود می خورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انبود",
+      "PlainText": "علم گفتاری که آن بیجان بود\r\nعاشق روی خریداران بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم گفتاری که آن بیجان بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاشق روی خریداران بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
       "MetreId": 6,
       "MetreRefSectionIndex": 1
     },
@@ -175,18 +187,6 @@
       "CoupletsCount": 1,
       "MetreId": 6,
       "MetreRefSectionIndex": 4
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "انبود",
-      "PlainText": "علم گفتاری که آن بیجان بود\r\nعاشق روی خریداران بود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم گفتاری که آن بیجان بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاشق روی خریداران بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 6,
-      "MetreRefSectionIndex": 1
     },
     {
       "Index": 6,
@@ -217,18 +217,6 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "علم گفتاری و تقلیدی است آن\r\nکز برای مشتری دارد فغان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم گفتاری و تقلیدی است آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز برای مشتری دارد فغان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 6,
-      "MetreRefSectionIndex": 1
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "ل",
       "PlainText": "نطق خاک و نطق آب و نطق گل\r\nهست محسوس هواس اهل دل",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنطق خاک و نطق آب و نطق گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست محسوس هواس اهل دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -237,16 +225,16 @@
       "MetreRefSectionIndex": 4
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "هر جمادی با تو میگوید سخن\r\nکو ترا آن گوش و چشم ای بوالحسن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جمادی با تو میگوید سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو ترا آن گوش و چشم ای بوالحسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ان",
+      "PlainText": "علم گفتاری و تقلیدی است آن\r\nکز برای مشتری دارد فغان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم گفتاری و تقلیدی است آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز برای مشتری دارد فغان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
       "MetreId": 6,
-      "MetreRefSectionIndex": 4
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 8,
@@ -259,6 +247,18 @@
       "CoupletsCount": 1,
       "MetreId": 6,
       "MetreRefSectionIndex": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "هر جمادی با تو میگوید سخن\r\nکو ترا آن گوش و چشم ای بوالحسن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جمادی با تو میگوید سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو ترا آن گوش و چشم ای بوالحسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 8,
@@ -289,18 +289,6 @@
       "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ل",
-      "PlainText": "رو خریداران مفلس را بهل\r\nچه خریداری کند یک مشت گل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرو خریداران مفلس را بهل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه خریداری کند یک مشت گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 6,
-      "MetreRefSectionIndex": 1
-    },
-    {
-      "Index": 9,
-      "Number": 9,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "اد",
       "PlainText": "گر نبودی واقف از حق جان باد\r\nفرق کی کردی میان قوم عاد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نبودی واقف از حق جان باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرق کی کردی میان قوم عاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -309,16 +297,16 @@
       "MetreRefSectionIndex": 4
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "جمله ی ذرات عالم در نهان\r\nبا تو میگویند روزان و شبان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمله ی ذرات عالم در نهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو میگویند روزان و شبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ل",
+      "PlainText": "رو خریداران مفلس را بهل\r\nچه خریداری کند یک مشت گل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرو خریداران مفلس را بهل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه خریداری کند یک مشت گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
       "MetreId": 6,
-      "MetreRefSectionIndex": 4
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 10,
@@ -337,24 +325,24 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "جمله ی ذرات عالم در نهان\r\nبا تو میگویند روزان و شبان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمله ی ذرات عالم در نهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو میگویند روزان و شبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 6,
+      "MetreRefSectionIndex": 4
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
       "RhymeLetters": "د",
       "PlainText": "گفت آن کوخلق را خدمت کند\r\nکار من صد ره از او بهتر بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت: آن کوخلق را خدمت کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار من صد ره از او بهتر بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
       "MetreId": 6,
       "MetreRefSectionIndex": 3
-    },
-    {
-      "Index": 11,
-      "Number": 11,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ید",
-      "PlainText": "باز خر ما را از این نفس پلید\r\nکاردش تا استخوان ما رسید",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز خر ما را از این نفس پلید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاردش تا استخوان ما رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1,
-      "MetreId": 6,
-      "MetreRefSectionIndex": 1
     },
     {
       "Index": 11,
@@ -369,16 +357,16 @@
       "MetreRefSectionIndex": 4
     },
     {
-      "Index": 12,
-      "Number": 12,
+      "Index": 11,
+      "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وید",
-      "PlainText": "از جمادی سوی جان جان شوید\r\nغلغل اجزای عالم بشنوید",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جمادی سوی جان جان شوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغلغل اجزای عالم بشنوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ید",
+      "PlainText": "باز خر ما را از این نفس پلید\r\nکاردش تا استخوان ما رسید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز خر ما را از این نفس پلید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاردش تا استخوان ما رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
       "MetreId": 6,
-      "MetreRefSectionIndex": 4
+      "MetreRefSectionIndex": 1
     },
     {
       "Index": 12,
@@ -393,16 +381,16 @@
       "MetreRefSectionIndex": 35
     },
     {
-      "Index": 13,
-      "Number": 13,
+      "Index": 12,
+      "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ت",
-      "PlainText": "لذت دیوانگی در سنگ طفلان خوردن است\r\nحیف از آن اوقات مجنون را که در هامون گذشت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلذت دیوانگی در سنگ طفلان خوردن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیف از آن اوقات مجنون را که در هامون گذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وید",
+      "PlainText": "از جمادی سوی جان جان شوید\r\nغلغل اجزای عالم بشنوید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جمادی سوی جان جان شوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغلغل اجزای عالم بشنوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1,
-      "MetreId": 8,
-      "MetreRefSectionIndex": 34
+      "MetreId": 6,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 13,
@@ -417,16 +405,16 @@
       "MetreRefSectionIndex": 4
     },
     {
-      "Index": 14,
-      "Number": 14,
+      "Index": 13,
+      "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یلها",
-      "PlainText": "چون ندارد جان تو قندیلها\r\nبهر بینش کرده ای تأویلها",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ندارد جان تو قندیلها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر بینش کرده ای تأویلها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2,
-      "MetreId": 6,
-      "MetreRefSectionIndex": 4
+      "RhymeLetters": "ت",
+      "PlainText": "لذت دیوانگی در سنگ طفلان خوردن است\r\nحیف از آن اوقات مجنون را که در هامون گذشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلذت دیوانگی در سنگ طفلان خوردن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیف از آن اوقات مجنون را که در هامون گذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1,
+      "MetreId": 8,
+      "MetreRefSectionIndex": 34
     },
     {
       "Index": 14,
@@ -441,16 +429,16 @@
       "MetreRefSectionIndex": 24
     },
     {
-      "Index": 15,
-      "Number": 15,
+      "Index": 14,
+      "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ت",
-      "PlainText": "اندر طلبت نه خواب یابد نه قرار\r\nهر کس که در آرزوی دیدار تو است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر طلبت نه خواب یابد نه قرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کس که در آرزوی دیدار تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یلها",
+      "PlainText": "چون ندارد جان تو قندیلها\r\nبهر بینش کرده ای تأویلها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ندارد جان تو قندیلها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر بینش کرده ای تأویلها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2,
-      "MetreId": 24,
-      "MetreRefSectionIndex": 24
+      "MetreId": 6,
+      "MetreRefSectionIndex": 4
     },
     {
       "Index": 15,
@@ -463,6 +451,18 @@
       "CoupletsCount": 2,
       "MetreId": 6,
       "MetreRefSectionIndex": 4
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "اندر طلبت نه خواب یابد نه قرار\r\nهر کس که در آرزوی دیدار تو است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر طلبت نه خواب یابد نه قرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کس که در آرزوی دیدار تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2,
+      "MetreId": 24,
+      "MetreRefSectionIndex": 24
     },
     {
       "Index": 16,

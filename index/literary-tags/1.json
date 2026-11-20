@@ -14651,6 +14651,38 @@
   },
   {
     "PoemId": 2542,
+    "CoupletIndex": 0,
+    "DeviceId": 1,
+    "Uncertain": false,
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 1,
+        "CoupletIndex": 0,
+        "Misra": 1,
+        "WordStart": 1,
+        "WordEnd": 3,
+        "ConceptId": 1168
+      },
+      {
+        "SlotId": 2,
+        "CoupletIndex": 0,
+        "Misra": 2,
+        "WordStart": 1,
+        "WordEnd": 2,
+        "ConceptId": 80
+      },
+      {
+        "SlotId": 3,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "Text": "از نظر غیر قابل فرار کردن از آن «به در نیست راه از او »"
+      }
+    ]
+  },
+  {
+    "PoemId": 2542,
     "CoupletIndex": 4,
     "DeviceId": 1,
     "Uncertain": false,
@@ -17240,6 +17272,39 @@
         "CoupletIndex": -1,
         "Misra": 0,
         "Text": "سپیدی و صافی اندام معشوق به نقره تشبیه شده"
+      }
+    ]
+  },
+  {
+    "PoemId": 25224,
+    "CoupletIndex": 2,
+    "DeviceId": 1,
+    "Uncertain": true,
+    "Note": "سرخی",
+    "Origin": "Editor",
+    "MachineGenerated": false,
+    "Parts": [
+      {
+        "SlotId": 1,
+        "CoupletIndex": 2,
+        "Misra": 1,
+        "WordStart": 1,
+        "WordEnd": 1,
+        "ConceptId": 11
+      },
+      {
+        "SlotId": 2,
+        "CoupletIndex": 2,
+        "Misra": 2,
+        "WordStart": 2,
+        "WordEnd": 2,
+        "ConceptId": 938
+      },
+      {
+        "SlotId": 3,
+        "CoupletIndex": -1,
+        "Misra": 0,
+        "Text": "سرخی"
       }
     ]
   }

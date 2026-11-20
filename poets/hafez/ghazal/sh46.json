@@ -400,6 +400,29 @@
           "Text": "خوشی و لذت شرابخواران"
         }
       ]
+    },
+    {
+      "CoupletIndex": 9,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "Editor",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 9,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 9,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6
+        }
+      ]
     }
   ]
 }
